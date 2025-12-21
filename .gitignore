@@ -1,0 +1,43 @@
+# --- Python & System Junk ---
+__pycache__/
+*.py[oc]
+*.swp
+*.save
+*.save.*
+.ipynb_checkpoints/
+.DS_Store
+.python-version
+
+# --- Virtual Environments ---
+.venv
+uv_venv/
+uv_venv_v.2/
+uv_venv_v.3/
+test_venv/
+
+# --- Large Folders Config ---
+# 1. Block everything inside these folders
+datasets/*
+final_audio_output/*
+final_audio_output_final/*
+generated_cbt_audio/*
+generate_zonos_audio/*
+audio_myown/*
+auto_speech_recog/*
+
+# 2. Rescue! Keep .ipynb and .py files
+!datasets/**/*.ipynb
+!final_audio_output/**/*.ipynb
+!final_audio_output_final/**/*.ipynb
+!generated_cbt_audio/**/*.ipynb
+!generate_zonos_audio/**/*.ipynb
+!audio_myown/**/*.ipynb
+!auto_speech_recog/**/*.ipynb
+
+!datasets/**/*.py
+!final_audio_output/**/*.py
+!final_audio_output_final/**/*.py
+!generated_cbt_audio/**/*.py
+!generate_zonos_audio/**/*.py
+!audio_myown/**/*.py
+!auto_speech_recog/**/*.py
