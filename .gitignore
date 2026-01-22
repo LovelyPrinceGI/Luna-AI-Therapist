@@ -41,3 +41,12 @@ auto_speech_recog/*
 !generate_zonos_audio/**/*.py
 !audio_myown/**/*.py
 !auto_speech_recog/**/*.py
+
+# --- Unwanted files
+run_synthesis_final_bu.py
+run_synthesis_final_bu2.py
+run_synthesis_final_myown.py
+uv.lock
+requirements_old.txt
+requirements.txt.save
+prepare_zonos_script_bu.py
