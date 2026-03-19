@@ -1,0 +1,188 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "I've been feeling really overwhelmed lately. My anxiety about my health has gotten so bad that I can barely sleep at night. I keep having these heart palpitations, and even though the doctors say I'm fine, I can't shake the fear that something terrible is going to happen to me. I just keep thinking, \"What if this is the time something goes wrong?\" It's really affecting my work and my day-to-day life.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.8,
+          "Sadness": 0.2
+        },
+        "speaking_rate": 15.0,
+        "pitch_std": 80.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "health_anxiety",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.3"
+          }
+        },
+        {
+          "frame_level_tag": "sleep_disturbance",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.4"
+          }
+        },
+        {
+          "frame_level_tag": "palpitations",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.5"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_text": "When I feel the palpitations, my heart starts racing, and I immediately think, \"What if this is a heart attack?\" or \"What if I'm going to just drop dead?\" It's like my mind goes to the worst possible scenario. I try to remind myself that the doctors have said I'm fine, but it just doesn't seem real in those moments. I get so caught up in the fear that I can't focus on anything else. It just spirals from there.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, fast]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.9,
+          "Sadness": 0.1
+        },
+        "speaking_rate": 20.0,
+        "pitch_std": 100.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "panic_attack",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.6"
+          }
+        },
+        {
+          "frame_level_tag": "worst_case_scenario",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.7"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_text": "Well, the last time I went to the doctor, they did an EKG and said my heart was normal. They also checked my blood pressure and said it was fine too. I remember them telling me that palpitations can happen due to anxiety and stress, but in the moment, it just feels like they might have missed something. I guess I just keep thinking, “What if there’s something they didn’t catch?” It’s hard to trust that everything is okay.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.6,
+          "Sadness": 0.4
+        },
+        "speaking_rate": 15.0,
+        "pitch_std": 85.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "trust_issues",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.5"
+          }
+        },
+        {
+          "frame_level_tag": "medical_anxiety",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.4"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_text": "I guess if I could really believe that my heart is fine, I might not panic as much when I feel the palpitations. Maybe I could try to remind myself that they’re just a response to stress or anxiety, instead of a sign of something wrong. But it’s so hard to let go of that fear—especially when it feels so real in the moment. It’s like my mind just wants to jump to the worst-case scenario every time. How do I even start to change that?",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[hopeful, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.5,
+          "Sadness": 0.3,
+          "Happiness": 0.2
+        },
+        "speaking_rate": 12.0,
+        "pitch_std": 75.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "cognitive_restructuring",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.3"
+          }
+        },
+        {
+          "frame_level_tag": "self_reminder",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.2"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_text": "I think trying those techniques could help, but I’m worried I won’t remember to use them when I’m in the moment. My mind just goes blank, and all I can think about is the panic. Maybe I could write them down and keep them somewhere visible? I want to believe that I can handle it better, but it feels like such a big challenge. Do you think having a reminder could really make a difference?",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[concerned, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.6,
+          "Sadness": 0.3,
+          "Happiness": 0.1
+        },
+        "speaking_rate": 15.0,
+        "pitch_std": 80.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "reminder_system",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.4"
+          }
+        },
+        {
+          "frame_level_tag": "self_efficacy",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.3"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_text": "That sounds like a good idea! I think having a card with my reminders would help me feel more prepared. I could even decorate it or make it really personal so that it stands out. I’ll try to practice the techniques more regularly, too. It feels like a small step, but maybe it could lead to feeling a little less anxious. I hope so! How often should I practice these techniques for them to really make a difference?",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[optimistic, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.6,
+          "Fear": 0.2,
+          "Sadness": 0.2
+        },
+        "speaking_rate": 18.0,
+        "pitch_std": 90.0
+      },
+      "frame_level_directions": [
+        {
+          "frame_level_tag": "positive_outlook",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.5"
+          }
+        },
+        {
+          "frame_level_tag": "commitment_to_change",
+          "is_new_frame_rule": true,
+          "new_frame_rule_definition": {
+            "zonos_vector_value": "+0.4"
+          }
+        }
+      ]
+    }
+  ]
+}

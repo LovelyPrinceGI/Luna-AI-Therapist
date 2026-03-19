@@ -6,6 +6,7 @@ import pandas as pd
 import re
 from collections import defaultdict
 import os 
+import getpass 
 from openai import OpenAI # <<< NEW: Import OpenAI
 
 # --- 2. Configuration ---
@@ -26,17 +27,18 @@ MIN_PITCH_STD = 20.0
 MAX_PITCH_STD = 150.0
 
 # --- 3. Setup OpenAI Client ---
-print("Setting up OpenAI client...")
+# ถ้ายังไม่มี key ใน env ค่อยถามผู้ใช้
 if "OPENAI_API_KEY" not in os.environ:
-    print("="*50)
-    print("Error: OPENAI_API_KEY not found in environment variables.")
-    print("Please set the environment variable before running:")
-    print("export OPENAI_API_KEY='your_api_key_here'")
-    print("="*50)
-    exit()
+    secret_key = getpass.getpass("Enter your OpenAI API key: ")
+    os.environ["OPENAI_API_KEY"] = secret_key
 
-# This automatically reads the API key from the environment variable
-client = OpenAI()
+print("Setting up OpenAI client...")
+
+# สร้าง client จาก env (ไม่ hardcode key ลงโค้ด)
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+
+# # This automatically reads the API key from the environment variable
+# client = OpenAI()
 print(f"OpenAI client initialized for model: {OPENAI_MODEL_ID}")
 
 
@@ -294,7 +296,7 @@ You must follow all instructions precisely and output a single, valid JSON objec
 utterance_df, frame_df, _, _ = load_rules() 
 
 # --- CONFIGURATION FOR SIMULATION ---
-MAX_TURNS = 10  # จำนวนรอบที่จะคุยกัน
+MAX_TURNS = 15  # จำนวนรอบที่จะคุยกัน
 SIMULATION_OUTPUT_FILE = "simulation_session_sarah_v1.jsonl"
 CLIENT_PERSONA_PROMPT = """You are acting as a role-play client in a Cognitive Behavioral Therapy (CBT) session.
 
