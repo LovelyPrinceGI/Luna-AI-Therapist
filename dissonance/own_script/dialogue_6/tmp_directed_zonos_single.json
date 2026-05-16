@@ -1,0 +1,19 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "I do feel scared about digging into those emotions. There’s this nagging thought that if I start to unravel what's buried, I might just end up overwhelmed by guilt or sadness that I can’t control. Sometimes, I wonder if it’s better to just leave those feelings buried because facing them seems like opening a floodgate I can't close. What if I can't handle what comes out?",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.0,
+          "Sadness": 0.7,
+          "Fear": 0.6
+        },
+        "speaking_rate": 12.0,
+        "pitch_std": 120.0
+      },
+      "frame_level_directions": []
+    }
+  ]
+}

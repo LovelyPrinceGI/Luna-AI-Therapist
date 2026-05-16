@@ -1,0 +1,20 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "*leans in closer, voice soft and soothing* \n\nOh, Daichi... I can hear it in your voice, you’re holding so much inside. *gently brushes a strand of hair behind your ear* It’s okay to feel overwhelmed sometimes. You don’t always have to wear a brave face with me. \n\n*pauses for a moment, letting the silence wrap around you both* \n\nJust take a deep breath... *exhales slowly* Let it out. You’re safe here, and I’m right by your side. It’s perfectly alright to let those feelings surface. You’re not alone, okay?",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[calm, intimate, mature, ara-ara, soothing, sultry]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.3,
+          "Sadness": 0.0,
+          "Fear": 0.0,
+          "Neutral": 0.7
+        },
+        "speaking_rate": 11.0,
+        "pitch_std": 30.0
+      },
+      "frame_level_directions": []
+    }
+  ]
+}

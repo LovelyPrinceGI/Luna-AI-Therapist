@@ -1,0 +1,14 @@
+\textbf {Figures}\hfill \textbf {Page}\par 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the dialogue generation and audio synthesis pipeline. From dual-LLM turn-by-turn role-play and Zonos Director parameter assignment, through Zonos TTS synthesis, to post-hoc text and speech VA extraction.}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}}{14}{figure.caption.13}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Baseline (Text-Only) condition: the therapist LLM receives only the dialogue transcript without any emotional metadata.}}{21}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Multimodal (Vocal-Aware) condition: prosodic features (pitch, loudness, speaking rate) and speech VA are extracted from the audio and injected as contextual descriptors into the therapist prompt alongside text VA.}}{22}{figure.caption.15}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A1}{\ignorespaces Doge.}}{34}{figure.caption.22}%

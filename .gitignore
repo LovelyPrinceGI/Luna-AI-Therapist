@@ -24,6 +24,9 @@ generated_cbt_audio/*
 generate_zonos_audio/*
 audio_myown/*
 auto_speech_recog/*
+papers/*
+wagner/*
+generated_cbt_params/*
 
 # 2. Rescue! Keep .ipynb and .py files
 !datasets/**/*.ipynb
@@ -41,6 +44,14 @@ auto_speech_recog/*
 !generate_zonos_audio/**/*.py
 !audio_myown/**/*.py
 !auto_speech_recog/**/*.py
+
+# --- Large binary files ---
+*.pdf
+*.wav
+*.pt
+*.bin
+*.pth
+*.safetensors
 
 # --- Unwanted files
 run_synthesis_final_bu.py

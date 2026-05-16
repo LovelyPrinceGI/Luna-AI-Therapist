@@ -1,0 +1,89 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "I've been feeling really anxious lately, especially about my health. I keep having these heart palpitations, and every time I feel one, I can't help but think, \"What if this is it? What if I suddenly die?\" I've seen doctors who say I'm fine, but I just can't shake the feeling that something is wrong. It's starting to affect my sleep and my work, and I just don't know how to cope with it anymore.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.8,
+          "Sadness": 0.2
+        },
+        "speaking_rate": 15.0,
+        "pitch_std": 100.0
+      },
+      "frame_level_directions": []
+    },
+    {
+      "utterance_text": "When I feel the palpitations, I immediately start to panic. I think things like, \"What if my heart is going to stop?\" or \"What if I have a serious condition that the doctors missed?\" I just keep replaying these worst-case scenarios in my head. It's like I can't control my thoughts, and then I end up feeling even more anxious, which makes the palpitations worse. It's a really vicious cycle.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[panicked, fast]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.9,
+          "Sadness": 0.1
+        },
+        "speaking_rate": 22.0,
+        "pitch_std": 120.0
+      },
+      "frame_level_directions": []
+    },
+    {
+      "utterance_text": "I guess I don't have any concrete evidence. The doctors have done tests and said my heart is healthy, but I just can't shake the feeling that they might have missed something. I think, \"What if I'm the exception?\" or \"What if something changes suddenly?\" It's like I can’t trust what they say because my anxiety keeps telling me otherwise.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[doubtful, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.7,
+          "Sadness": 0.3
+        },
+        "speaking_rate": 12.0,
+        "pitch_std": 110.0
+      },
+      "frame_level_directions": []
+    },
+    {
+      "utterance_text": "If it were a friend, I’d probably tell them to trust their doctors and to focus on the positives, like the fact that they’ve had tests and everything came back normal. I might even say that worrying too much can create more problems than it solves. But when it’s me, I just can’t seem to apply that logic. I feel like I should be more cautious, like I’m missing something important.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[conflicted, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.5,
+          "Sadness": 0.5
+        },
+        "speaking_rate": 18.0,
+        "pitch_std": 100.0
+      },
+      "frame_level_directions": []
+    },
+    {
+      "utterance_text": "I think it might feel a little freeing to see it that way, but I also worry that I’d be ignoring my instincts. I guess I’m afraid that if I don’t worry about it, I’ll be caught off guard if something really is wrong. It’s hard to balance that desire to be cautious with the idea of letting go and trusting what the doctors say.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Fear": 0.6,
+          "Sadness": 0.4
+        },
+        "speaking_rate": 16.0,
+        "pitch_std": 105.0
+      },
+      "frame_level_directions": []
+    },
+    {
+      "utterance_text": "I think I could try to write down my worries as they come up, just to acknowledge them without letting them take over. Maybe I could set specific times to check in on those feelings instead of letting them run through my head all day. Then, I could also write down the positive things, like the doctors’ reassurances, to remind myself that I’m okay. It sounds like a good way to balance things, but I’m just not sure if it will be enough to ease my anxiety.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[hopeful, moderate]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.4,
+          "Sadness": 0.3,
+          "Fear": 0.3
+        },
+        "speaking_rate": 14.0,
+        "pitch_std": 95.0
+      },
+      "frame_level_directions": []
+    }
+  ]
+}

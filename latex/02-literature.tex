@@ -1,0 +1,86 @@
+\setlength{\footskip}{8mm}
+
+\chapter{RELATED WORK}
+
+This chapter reviews the relevant literature across six research domains that underpin our multimodal dissonance-aware therapist framework. For each domain, we identify existing contributions, highlight research gaps, and position our work within the broader landscape.
+
+\section{Vocal Cues for Mental State Assessment}
+
+The use of vocal cues as an indicator of emotional and mental health states is well established. A foundational review by \cite{cummins2015review} demonstrates that acoustic features---pitch, loudness, and speech rate---are significantly correlated with depressive states and suicide risk, establishing a clinical rationale for speech-based mental health screening. Building on this, \cite{thirunavukkarasu2024deep} showed that audio cues alone can contribute meaningfully to depression detection within a multimodal fusion framework, even when combined with EEG and facial signals. Extending vocal cue analysis to language models, \cite{sun2024beyond} demonstrated that paralinguistic features such as pitch and loudness can be mathematically modeled and integrated into LLM decision-making, providing a technical foundation for vocal feature injection in generative systems.
+
+\textbf{Research Gap.} While these studies confirm the link between voice and mental state, they predominantly target broad depression detection rather than fine-grained therapeutic reasoning. Our work moves beyond binary screening by using vocal cues to identify moments of emotional dissonance---where a client's tone contradicts their words---and using that signal to inform empathetic, CBT-aligned therapist response generation.
+
+\section{Speech and Text Emotion Recognition}
+
+A critical prerequisite for our framework is the ability to extract emotional representations from both text and speech independently. On the text side, Valence-Arousal (VA) regression models such as vad-bert \cite{mitsios-etal-2024-improved} provide continuous emotional scores from textual input, capturing how positive or negative (valence) and how activated or passive (arousal) the semantic content is, without requiring discrete emotion labels. On the speech side, WavLM-based speech emotion recognition models \cite{mitsios-etal-2024-improved} predict VA values directly from raw audio waveforms, learning prosodic patterns such as pitch contour, energy dynamics, and temporal structure from large-scale emotional speech corpora.
+
+\textbf{Research Gap.} Existing work applies these models primarily for emotion classification or sentiment analysis tasks. To our knowledge, no prior study has used independently extracted text VA and speech VA as parallel emotional channels injected into a therapist LLM prompt, enabling the model to cross-reference \emph{what was said} with \emph{how it was said}. Our framework operationalizes this dual-channel VA representation as the foundational emotional metadata for all therapist generation conditions.
+
+\section{AI and CBT-Based Interventions}
+
+Cognitive Behavioral Therapy (CBT) is a well-validated therapeutic approach \cite{shahrokhian2021effects}, and the application of AI to deliver CBT-based interventions is an emerging frontier. \cite{lee2024cactus} introduced the CACTUS dataset and demonstrated the feasibility of using LLMs to generate structured, multi-turn CBT counseling dialogues. Extending this line of work, \cite{kim-etal-2025-mirror} proposed the MIRROR framework, which incorporates non-verbal cues---specifically facial expressions---to help an AI therapist recognize and respond to client resistance. Their work showed that multimodal signals significantly improve therapeutic alliance and resistance handling compared to text-only baselines. In parallel, \cite{yan-etal-2024-talk} explored multi-modal dialogue systems that integrate multiple input channels for more context-aware response generation, though not in a therapeutic setting.
+
+\textbf{Research Gap.} While MIRROR demonstrates the value of non-verbal cues for managing resistance, its multimodal scope is limited to visual information (facial expressions). Similarly, existing multimodal dialogue systems \cite{yan-etal-2024-talk} are designed for general-domain tasks and do not address the unique requirements of therapeutic communication---empathy, validation, and clinical safety. Our work fills this gap by developing a multimodal CBT therapist that integrates \emph{vocal} (speech emotion) and \emph{textual} channels, and by explicitly modeling client resistance through a resist persona to stress-test the therapist's ability to handle emotionally difficult moments.
+
+\section{Emotional Dissonance and Multimodal Inconsistency}
+
+A central challenge in multimodal emotion analysis is that different modalities often convey conflicting emotional information. \cite{wang2024evaluationdatainconsistencymultimodal} systematically evaluated this phenomenon---which they term emotion semantic inconsistency---in multi-modal sentiment analysis. Their work introduced a modality-conflicting test set and demonstrated that both traditional MSA models and multi-modal large language models (MLLMs) suffer significant performance degradation when text and audio express contradictory sentiment. This finding highlights a fundamental weakness in current multimodal systems: they struggle to reason about \emph{why} modalities disagree and \emph{how} to respond appropriately.
+
+In parallel, \cite{haydarov-etal-2025-towards} proposed a method for quantifying emotional mismatch between text and speech by computing the delta between their respective VA representations and applying a fixed threshold to flag dissonant utterances. While their work focused on detecting mismatch for sentiment analysis, we adapt this dissonance computation for a therapeutic purpose: rather than classifying inconsistency as an error, we treat it as a clinically meaningful signal of \emph{hidden affect}---moments where the client may be minimizing distress, masking emotion, or expressing ambivalence that is not fully captured in their words alone.
+
+\textbf{Research Gap.} No prior work has used emotional dissonance---computed as a VA delta between text and speech---as a \emph{prompt-level feature} for guiding therapist LLM responses. Our Dissonance-Aware condition operationalizes this idea: when speech and text VA diverge beyond a threshold ($|\delta| \geq 0.5$), the therapist prompt is upgraded to encourage gentle, non-judgmental exploration of potential unspoken feelings. This reframes data inconsistency---which \cite{wang2024evaluationdatainconsistencymultimodal} identified as a system weakness---as a therapeutic opportunity.
+
+\section{Voice Synthesis for Therapeutic Applications}
+
+Delivering voice-based therapeutic interventions requires a flexible speech synthesis engine capable of generating emotionally appropriate prosody. Zonos-v0.1-transformer, a state-of-the-art TTS model, supports fine-grained control over vocal parameters including pitch variation, speaking rate, and emotional vector values (e.g., happiness, sadness, fear). In our framework, Zonos is used to synthesize client utterances with prosodic features that align with the intended psychological and emotional context, producing audio that faithfully reflects the CBT-aligned emotional state specified during dialogue generation.
+
+\textbf{Research Gap.} The application of controllable TTS in a therapeutic context remains underexplored. Our work investigates whether state-controlled prosody in synthesized client speech---driven by CBT-informed emotional state labels---can produce audio whose vocal cues are sufficiently realistic and nuanced to serve as input for a downstream dissonance detection and therapist response pipeline.
+
+\section{LLM-Based Evaluation of Therapeutic Quality}
+
+Evaluating therapist response quality is inherently subjective, yet recent work has shown that large language models can serve as reliable zero-shot evaluators when provided with structured rubrics. \cite{kim-etal-2025-mirror} employed GPT-4o to assess AI therapist performance on dimensions including Understanding, Interpersonal Effectiveness, and Collaboration, demonstrating that automated evaluation can approximate human judgments of therapeutic quality. We extend this paradigm by adopting a comprehensive seven-metric evaluation framework spanning three dimensions: Therapist Skills (Understanding, Interpersonal Effectiveness), Client Alliance (Affective Bond), and the Cognitive Therapy Rating Scale (Collaboration, Guided Discovery, Focus, Strategy). All metrics are scored by GPT-4o on a per-dialogue basis, with scores averaged across 10 dialogues per condition.
+
+\textbf{Research Gap.} While LLM-based evaluation is gaining traction in general NLP, its application to automated therapist quality assessment---particularly for comparing multiple multimodal generation conditions---is novel. Our evaluation protocol contributes a reproducible framework for benchmarking AI therapist performance across different levels of emotional metadata, and provides quantitative evidence for the specific contribution of the dissonance signal to therapeutic quality.
+
+
+\section{Summary of Literature}
+
+Table~\ref{tab:related-work-summary} consolidates the key works that directly inform our framework, and Table~\ref{tab:research-gaps} maps each identified research gap to our specific contribution.
+
+\begin{table}[hbt!]
+\caption{Summary of key related work and their relevance to our framework}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lp{2.2cm}p{3.2cm}p{3.2cm}}
+\hline
+\textbf{Paper} & \textbf{Domain} & \textbf{Key Contribution} & \textbf{Relevance} \\ \hline
+CACTUS \cite{lee2024cactus} & CBT dialogue generation & LLM-based multi-turn counseling script generation & Foundation for our dialogue generation pipeline \\
+MIRROR \cite{kim-etal-2025-mirror} & Multimodal CBT & Facial cues + text improve resistance handling and alliance & Core inspiration; we extend to vocal modality \\
+Wang \& Wu \cite{wang2024evaluationdatainconsistencymultimodal} & Multimodal inconsistency & MSA models degrade severely on modality-conflicting data & Justifies need for dissonance-aware reasoning \\
+Dissonance \cite{haydarov-etal-2025-towards} & Emotional mismatch & VA delta + threshold ($\tau = 0.5$) to flag mismatch & Direct source for our dissonance computation \\
+VA Models \cite{mitsios-etal-2024-improved} & Emotion recognition & Vad-BERT (text VA) and WavLM (speech VA) regression & Supplies our dual-channel VA extraction \\
+Beyond Text \cite{sun2024beyond} & Vocal + LLM & Paralinguistic features enhance LLM decision-making & Technical basis for vocal descriptor injection \\
+Cummins \cite{cummins2015review} & Depression \& speech & Acoustic features correlate with depressive states & Clinical rationale for speech-based mental health screening \\ \hline
+\end{tabular}%
+}
+\label{tab:related-work-summary}
+\end{table}
+
+
+\begin{table}[hbt!]
+\caption{Research gaps identified in the literature and our corresponding contributions}
+\begin{tabular}{p{3.5cm}p{5.5cm}}
+\hline
+\textbf{Research Gap} & \textbf{Our Contribution} \\ \hline
+Vocal cues used only for broad depression detection, not nuanced CBT cognitive states
+    & Use vocal cues to identify emotional dissonance---where tone contradicts words---for fine-grained therapeutic reasoning \\ \hline
+Multimodal CBT limited to visual modality (MIRROR); no integration of speech emotion
+    & Text + Speech multimodal CBT framework with resist persona to stress-test therapeutic handling of difficult moments \\ \hline
+Multimodal inconsistency treated as a system weakness (Wang \& Wu); no therapeutic application
+    & Reframe data inconsistency as \emph{hidden affect}: a clinically meaningful signal for guiding therapist exploration \\ \hline
+Dissonance detection exists for sentiment analysis; never used as prompt-level feature for generation
+    & Inject computed VA delta as a \emph{prompt-level dissonance signal} that upgrades therapist instructions when mismatch is high \\ \hline
+No standardized LLM-based evaluation for comparing multimodal therapist conditions
+    & GPT-4o zero-shot judge with 7-metric framework (Therapist Skills, Alliance, CTRS) across 4 conditions, 10 dialogues each \\ \hline
+\end{tabular}
+\label{tab:research-gaps}
+\end{table}

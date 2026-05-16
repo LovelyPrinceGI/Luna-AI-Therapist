@@ -10,10 +10,10 @@ from transformers import AutoModelForAudioClassification
 
 
 # รูทโฟลเดอร์ที่มี dialogue_1, dialogue_2, ...
-AUDIO_ROOT = "/home/patsakornt/work/test/dissonance/own_script/dialogue_3"
+AUDIO_ROOT = r"..\..\own_script"
 
 # ไฟล์ผลลัพธ์รวมทุก dialogue (ตั้งชื่อใหม่กันชน audeering)
-OUT_CSV = "/home/patsakornt/work/test/dissonance/wagner/dialogue_3/emotion_results_wavlm_all.csv"
+OUT_CSV = r".\emotion_results_wavlm_all.csv"
 
 MODEL_NAME = "3loi/SER-Odyssey-Baseline-WavLM-Multi-Attributes"
 
