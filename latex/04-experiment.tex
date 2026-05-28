@@ -81,6 +81,43 @@ Each of the 10 dialogues is generated independently four times---once per experi
 
 All prompts are fixed across dialogues and conditions; no prompt optimization or per-dialogue tuning is performed. The therapist LLM is never fine-tuned.
 
+
+\section{Chat Demonstration: Baseline vs.\ Dissonance-Aware}
+
+To illustrate how the Dissonance-Aware method produces qualitatively different therapist responses, Figure~\ref{fig:chat-comparison} presents side-by-side excerpts from the same client utterance processed under the Baseline (text-only) and Dissonance-Aware conditions.
+
+\begin{figure}[hbt!]
+    \centering
+    \subfloat[(a) Baseline (Text-Only) -- The therapist receives only the transcript and responds generically to the semantic content.]{%
+        \includegraphics[width=\textwidth]{figures/chat_ex_baseline}%
+        \label{fig:chat-baseline}%
+    }
+
+    \vspace{4pt}
+
+    \subfloat[(b) Dissonance-Aware -- The therapist receives vocal cues and the dissonance signal, enabling a response that addresses the underlying emotional state.]{%
+        \includegraphics[width=\textwidth]{figures/chat_ex_dissonance}%
+        \label{fig:chat-dissonance}%
+    }
+    \caption{Comparison of therapist responses for the same client utterance under two conditions.}
+    \label{fig:chat-comparison}
+\end{figure}
+
+\textbf{Text Cue Analysis.}
+In this exchange, the client's words convey a seemingly positive and socially responsible stance: she expresses concern about not wanting to burden her friends (``I don't want to drag them down''). A text-only therapist would interpret this as a cooperative, socially-aware client and respond with generic validation.
+
+\textbf{Vocal Cue Analysis.}
+However, the client's voice---characterized by high pitch, loud volume, rapid speech, and critically, \emph{long pauses (dead air) between sentences}---tells a markedly different story.
+
+\begin{itemize}
+    \item \textbf{The Surge:} The sudden transition to fast, loud speech signals that this topic is a massive emotional trigger, instantly activating a highly sensitive core schema around social worth and fear of rejection.
+    \item \textbf{The Dead Air:} The extended pauses between rapid sentences reveal a severe internal struggle. The client is flooded with emotion, freezing mid-expression, and working hard to suppress visible panic in order to maintain the appearance of being ``responsible'' and cooperative.
+\end{itemize}
+
+\textbf{The Dissonance Signal at Work.}
+The Dissonance-Aware therapist receives both the text VA (positive/cooperative) and speech VA (negative, high-arousal) along with vocal descriptors (high pitch, loud, fast with pauses). Because these modalities pull in opposing emotional directions ($|\delta| \geq 0.5$), the dissonance flag is triggered. Rather than simply validating the surface-level cooperative statement, the therapist probes the emotional undercurrent---asking about what the client may be ``holding back'' or not saying directly. This shift from surface-level reflection to gentle exploration of hidden affect is the core mechanism by which the dissonance signal improves therapeutic quality.
+
+
 \section{Evaluation Protocol (Dependent Measures)}
 
 \subsection{Automated Judge}

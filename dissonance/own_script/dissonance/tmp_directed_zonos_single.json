@@ -1,0 +1,19 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "I think if I allowed myself to be vulnerable, I would feel a mix of relief and terror. There's this part of me that craves connection and wants to share what I’m feeling, but I’m also so scared of being judged or rejected. I’ve been hurt before when I’ve opened up, and it makes me question whether it’s really worth the risk. The thought of emotions spilling out feels like a loss of control, and that’s just not something I’m comfortable with.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "[anxious, slow]",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.0,
+          "Sadness": 0.7,
+          "Fear": 0.6
+        },
+        "speaking_rate": 15.0,
+        "pitch_std": 100.0
+      },
+      "frame_level_directions": []
+    }
+  ]
+}

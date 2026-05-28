@@ -22,7 +22,7 @@ import librosa
 
 # ----- paths (ปรับ BASE_DIR ให้ตรงเครื่องคุณ) -----
 BASE_DIR = r"C:\Luna-AI-Therapist"
-DIALOGUE_ID = 6  # default, overridden by synth_single_utterance parameter
+DIALOGUE_ID = 6
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 core_zonos_path = os.path.join(BASE_DIR, "core_zonos")
@@ -39,10 +39,10 @@ print("Zonos DEFAULT_DEVICE:", ZONOS_DEFAULT_DEVICE)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print("Zonos device:", device)
 
-DIALOGUE_DIR = os.path.join(BASE_DIR, "dissonance", "own_script", "dissonance")
+DIALOGUE_DIR = os.path.join(BASE_DIR, "dissonance", "own_script", f"dialogue_{DIALOGUE_ID}")
 
-# ใช้ ZONOS_INPUT_JSON ถ้ามี; ถ้าไม่มี fallback ไป tmp_directed_zonos_single.json
-DEFAULT_INPUT_JSON = os.path.join(BASE_DIR, "dissonance", "own_script", "dialogue_6", f"dialogue_{DIALOGUE_ID}_directed_zonos.json")
+# ใช้ ZONOS_INPUT_JSON ถ้ามี; ถ้าไม่มี fallback ไป dialogue_6_directed_zonos.json
+DEFAULT_INPUT_JSON = os.path.join(DIALOGUE_DIR, f"dialogue_{DIALOGUE_ID}_directed_zonos.json")
 
 OUTPUT_AUDIO_DIR = os.path.join(DIALOGUE_DIR, "voice")
 
@@ -99,7 +99,7 @@ print("Loading Zonos model once at import...")
 _ZONOS_MODEL, _MODEL_SR, _MALE_EMB, _FEMALE_EMB = load_zonos_model()
 print("Zonos ready.")
 
-def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, prefix: str = "dialogue"):
+def synth_single_utterance(idx: int, input_json: str):
     """
     idx = dialogue turn (1,2,3,...)
     input_json = path ไป JSON ที่มี directed_utterances (ของ turn นี้)
@@ -188,7 +188,7 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
             # เงื่อนไขผ่านแบบ "ดีพอ"
             if duration_sec >= expected_min_sec and rms >= MIN_RMS:
                 audio_out = (y_trimmed * 32767).astype(np.int16)
-                out_name = f"{prefix}_{dialogue_id}_utterance_{idx}.wav"
+                out_name = f"dialogue_{DIALOGUE_ID}_utterance_{idx}.wav"
                 out_path = os.path.join(OUTPUT_AUDIO_DIR, out_name)
                 write_wav(out_path, model_sr, audio_out)
                 print(
@@ -208,7 +208,7 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
     if best_out is not None:
         y_best, sr, best_dur, best_rms = best_out
         audio_out = (y_best * 32767).astype(np.int16)
-        out_name = f"{prefix}_{dialogue_id}_utterance_{idx}.wav"
+        out_name = f"dialogue_{DIALOGUE_ID}_utterance_{idx}.wav"
         out_path = os.path.join(OUTPUT_AUDIO_DIR, out_name)
         write_wav(out_path, sr, audio_out)
         print(

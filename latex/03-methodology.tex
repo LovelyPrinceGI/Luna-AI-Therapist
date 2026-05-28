@@ -15,7 +15,7 @@
 % A symbol of good methodology is that people read it, they can reproduce it. So make sure you are very clear what you did and write it clearly. Follow the convention in your field of study.
 
 \section{System Architecture and Workflow}
-Our proposed framework, the Emotional Intelligent AI, is designed to perceive nuanced emotional and cognitive states from human speech and respond with appropriate therapeutic interventions based on Cognitive Behavioral Therapy (CBT). The system is comprised of three core components: the CACTUS dataset for generating realistic conversational data, the Zonos TTS engine for creating emotionally rich audio, and a bespoke analysis model, inspired by the "Beyond Text" architecture, for interpreting vocal cues. The overall workflow is illustrated in Figure \ref{fig:emotional_ai_workflow} and detailed in the subsequent sections.
+Our proposed framework, the Emotional Intelligent AI, is designed to perceive nuanced emotional and cognitive states from human speech and respond with appropriate therapeutic interventions based on Cognitive Behavioral Therapy (CBT). The system is comprised of three core components: the CACTUS dataset for generating realistic conversational data, the Zonos TTS engine for creating emotionally rich audio, and a bespoke analysis model, inspired by the "Beyond Text" architecture, for interpreting vocal cues. The overall workflow is illustrated in Figure \ref{fig:dataset-generation} and detailed in the subsequent sections.
 
 % \subsection{Phase 1: Supervised Training Data Generation}
 % The foundation of our model is a high-quality, emotionally relevant audio dataset. We generate this dataset through a two-step process:
@@ -92,6 +92,53 @@ To enable multimodal emotion-aware therapist generation, we extract emotional re
     \item \textbf{Vocal Prosodic Descriptors (for Vocal-Aware condition).}
     In parallel, raw acoustic features---pitch mean (F0), loudness (RMS energy), and speaking rate (words per second)---are extracted from the audio waveform using the \texttt{librosa} library. These numerical values are converted into natural-language contextual descriptors (e.g., ``high pitch, soft-spoken, fast speech'') and are used exclusively in the Multimodal (Vocal-Aware) therapist condition described in Phase~5.
 \end{enumerate}
+
+
+\subsection{Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}
+
+To complement the continuous VA representation with interpretable discrete emotion labels---enabling direct comparison between the client's verbal and vocal emotional states---we map each VA pair to one of nine discrete emotion categories using Russell's (1980) circumplex model of affect \cite{russell1980circumplex}.
+
+The circumplex model arranges emotions in a two-dimensional circular space where the angular position is determined by $\theta = \text{atan2}(A, V)$. The plane is divided into eight $45^{\circ}$ sectors, each centered on a canonical discrete emotion, plus a central Neutral region when both $|V| < 0.15$ and $|A| < 0.15$:
+
+\begin{center}
+\begin{tabular}{cc}
+\toprule
+\textbf{Sector (Angle)} & \textbf{Discrete Emotion} \\
+\midrule
+$0^{\circ}$ (centered)   & Happy (high positive valence, moderate arousal) \\
+$45^{\circ}$             & Excited (high positive valence, high arousal) \\
+$90^{\circ}$             & Tense / Anxious (neutral valence, high arousal) \\
+$135^{\circ}$            & Angry (negative valence, high arousal) \\
+$180^{\circ}$            & Sad (negative valence, moderate arousal) \\
+$225^{\circ}$            & Depressed (negative valence, low arousal) \\
+$270^{\circ}$            & Calm (neutral valence, low arousal) \\
+$315^{\circ}$            & Content / Relaxed (positive valence, low arousal) \\
+Center ($|V|,|A| < 0.15$) & Neutral \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+This mapping is applied independently to text VA (yielding \texttt{text\_emotion}) and speech VA (yielding \texttt{speech\_emotion}). A discrete \emph{emotion mismatch} is recorded when the text and speech labels disagree (e.g., text = Neutral but speech = Angry), providing a human-interpretable complementary signal alongside the continuous VA delta computed in Phase~4.
+
+The circumplex model is applied to all conditions that receive emotional metadata: Emotion (Text-Only) maps only \texttt{text\_emotion}, while Multimodal (Vocal-Aware) and Dissonance-Aware map both \texttt{text\_emotion} and \texttt{speech\_emotion} and include the mismatch flag in their output.
+
+Table~\ref{tab:condition-features} summarizes which emotional features are available to each therapist generation condition, highlighting the progressive addition of modalities and the single-variable isolation (dissonance signal) that differentiates the Dissonance-Aware condition from Multimodal (Vocal-Aware).
+
+\begin{table}[hbt!]
+\centering
+\caption{Feature access matrix across the four therapist generation conditions}
+\begin{tabular}{lccccccc}
+\hline
+\textbf{Condition} & \textbf{Transcript} & \textbf{Text VA} & \textbf{Text Disc.} & \textbf{Speech VA} & \textbf{Speech Disc.} & \textbf{Vocal Desc.} & \textbf{Dissonance} \\
+\hline
+Baseline           & $\checkmark$ & -- & -- & -- & -- & -- & -- \\
+Emotion (Text-Only)& $\checkmark$ & $\checkmark$ & $\checkmark$ & -- & -- & -- & -- \\
+Multimodal (Vocal) & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & -- \\
+Dissonance-Aware   & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ \\
+\hline
+\end{tabular}
+\label{tab:condition-features}
+\end{table}
 
 
 \subsection{Phase 4: Emotional Dissonance Computation}
