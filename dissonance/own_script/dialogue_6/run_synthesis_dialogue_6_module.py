@@ -53,8 +53,8 @@ MALE_VOICE_SAMPLE_PATH = os.path.join(core_zonos_path, "assets", "male_voice_and
 FEMALE_VOICE_SAMPLE_PATH = os.path.join(core_zonos_path, "assets", "female_voice_android18.wav")
 
 emotion_order = ["Happiness", "Sadness", "Disgust", "Fear", "Surprise", "Anger", "Other", "Neutral"]
-MAX_RETRIES = 3      # เดิม 2
-MIN_SECONDS_PER_CHAR = 0.035  # เพิ่มให้คาดว่าเสียงยาวขึ้นนิดนึง
+MAX_RETRIES = 2            # ลดจาก 3 → 2 (speedup)
+MIN_SECONDS_PER_CHAR = 0.025  # ลดจาก 0.035 → 0.025 (match shorter 2-3 sent utterances)
 
 
 def load_zonos_model():
