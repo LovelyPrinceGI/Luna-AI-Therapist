@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I’ve just felt so stuck and disconnected. Ever since my partner passed away six months ago, it’s like nothing brings me joy anymore, and I’ve started pulling away from my friends because I feel like they don’t really understand what I’m going through. I want to believe therapy can help, but part of me wonders if anything can truly make this pain easier to carry.",
+    "therapist": "I hear how deeply painful this loss has been for you, and how isolating it feels when others don't seem to understand your grief. That pull to withdraw makes complete sense when the world feels so different without your partner. \n\nWhen you think about reaching out to friends, what thoughts typically come up that make you decide to pull away instead?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3094276189804077,
+    "aro_t": 0.13312458992004395,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I think about reaching out, but then I convince myself that they won't really understand what I'm going through. It feels like everyone else has moved on with their lives, and I’m just stuck here in this heavy, lonely place. Sometimes I even feel like I’m burdening them if I try to talk about it.",
+    "therapist": "That sense of being stuck while others move forward sounds incredibly lonely—like you're carrying this weight that no one else can see. I notice you're describing these thoughts with a quiet resignation, as if you've already decided they won't understand before giving them a chance.  \n\nWhat evidence do you have that supports the idea your friends would see you as a burden? And is there any small example that might challenge that belief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.39874017238616943,
+    "aro_t": 0.12493979930877686,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess the evidence is... well, last time I tried opening up to my friend about feeling overwhelmed, she quickly changed the subject to her own problems. That made me feel like my stuff wasn't important enough to talk about. But... I suppose there was that one time my roommate brought me tea when I was stressed about work. She didn't have to do that. It's just hard to remember those small moments when the loneliness feels so big.",
+    "therapist": "It's telling that you can recall both experiences—the friend who shifted focus *and* the roommate who showed care in a quiet way. Grief has a way of magnifying the moments that confirm our loneliness, while making the small acts of kindness harder to trust.  \n\nWhen you think about your roommate bringing you tea, what did that gesture mean to you at the time? And how does it feel to remember it now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23293793201446533,
+    "aro_t": 0.06258869171142578,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "It’s hard to put into words, but the tea thing felt... nice, I guess? At the time, it surprised me because we weren’t super close. But now when I think about it, I just feel sad. Like, why can’t more people be like that? It makes me wonder if I’m expecting too much from others.  \n\nI don’t know, sometimes it feels like those small moments just highlight how rare real connection is. Even remembering it now, part of me thinks maybe she was just being polite, not actually caring.",
+    "therapist": "It sounds like even the memory of kindness brings up complicated feelings—both warmth and this piercing sense of how rare it feels. That doubt creeping in (\"maybe she was just being polite\") shows how grief can make it hard to trust care when it *does* appear.  \n\nI wonder if we could stay with that moment a little longer: what would it take for you to believe that gesture was genuinely about *you*, not just politeness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08464336395263672,
+    "aro_t": 0.08242487907409668,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know if I can believe it was about me. Even when people are kind, it feels temporary—like they'll realize I'm not worth the effort eventually. The warmth just makes the loneliness sharper when it's over. \n\nAnd honestly? Trying to convince myself it was genuine feels like setting myself up for disappointment later.",
+    "therapist": "That fear of disappointment runs so deep—like letting yourself trust kindness might just leave you feeling even more alone afterward. It makes perfect sense that you'd want to protect yourself from that sharp contrast between warmth and emptiness.  \n\nWhen you notice these thoughts about not being \"worth the effort,\" do they remind you of any other times in your life when you've felt this way? Or does this feel uniquely tied to your grief right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1978750228881836,
+    "aro_t": 0.038584232330322266,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I think this feeling goes way back, honestly. Even as a kid I always felt like I was too much trouble—like my parents were just putting up with me. But losing my mom last year... it's like that old wound got ripped wide open again. \n\nSometimes I wonder if therapy is just making me dwell on things I should try to move past. Like, isn't it healthier to just push through instead of picking at all these old hurts?",
+    "therapist": "It sounds like you're carrying both the fresh grief of losing your mom *and* this older, familiar sense of being \"too much\"—that's an incredibly heavy combination. I hear your worry that exploring these feelings might just make things worse, rather than help.  \n\nWhen you imagine \"pushing through\" versus gently examining these hurts, what does each path look like to you? And which one feels more true to how you want to heal?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15912532806396484,
+    "aro_t": 0.08487498760223389,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Pushing through feels like what I've always done—just shoving everything down and pretending I'm fine until I can't anymore. But examining the hurts... that terrifies me. It's like poking at a bruise that never fully healed, and part of me worries if I start crying I might never stop. \n\nI want to heal, but I don't know if I trust myself to handle what comes up. What if I fall apart completely?",
+    "therapist": "Your honesty about how terrifying it feels to face these emotions is so important—it's clear you've been carrying this pain for a long time, and the fear of falling apart is completely understandable. That image of poking at a bruise that never healed captures it so vividly.  \n\nLet’s take this gently, at your pace: if you could imagine a version of \"healing\" that feels safe enough to approach, what would that look like for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3077131509780884,
+    "aro_t": 0.2159290313720703,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "Honestly, the idea of healing just makes me more anxious. I don't even know what that would look like—it's like trying to imagine a color I've never seen. Every time I think about feeling better, I just get scared that it won't last or that I'll mess it up somehow.  \n\nThe bruise analogy... that's exactly how it feels, but part of me thinks maybe I should just stop poking at it altogether. At least then it wouldn't hurt as much in the moment.",
+    "therapist": "It sounds like even the *idea* of healing brings up this mix of uncertainty and fear—like imagining a future that feels so unfamiliar it’s almost unsettling. That worry about messing it up or the relief not lasting is such a natural response when pain has been such a constant presence.  \n\nWhat if healing didn’t have to mean poking at the bruise or ignoring it altogether—what might a middle path look like, where you could acknowledge the hurt without feeling overwhelmed by it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19291937351226807,
+    "aro_t": 0.14880311489105225,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I see what you’re saying about a middle path, but honestly, it feels so abstract to me right now. When I think about healing, I just feel this pressure to get it *right*, and I’m scared of failing at it. Like, what if I try and it doesn’t work, or I make things worse? It’s hard to imagine trusting myself enough to find that balance.",
+    "therapist": "That fear of \"failing\" at healing carries so much weight—it makes sense that the idea of a middle path feels abstract when there's this pressure to do it perfectly or not at all. I hear how exhausting it must be to hold both that longing for relief *and* this fear of making things worse.  \n\nWhat would it feel like to give yourself permission to explore healing without any rules about what's \"right\"? Like simply noticing what feels slightly more bearable today versus yesterday?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19496357440948486,
+    "aro_t": 0.07690632343292236,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "That sounds nice in theory, but how do I actually do that? Every time I try to \"notice what feels better,\" my brain immediately jumps to analyzing whether I'm doing it correctly. It's like I can't just observe without judging myself. \n\nAnd honestly, the idea of no rules is kind of terrifying. At least when I had this rigid idea of healing, I knew what I was supposed to be doing. Now it just feels like floating in empty space.",
+    "therapist": "That self-judgment feels so automatic—like your mind is constantly scanning for \"mistakes\" even in moments meant to be gentle. It makes complete sense that loosening those rules would leave you feeling unmoored, when they've been your compass for so long.  \n\nCould we try something small together right now? Just name one thing in this moment that feels *neutral*—not better or worse, just present. The texture of your sleeves, the weight of your feet on the floor. No analysis, just noticing. Would you be willing to try?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06696975231170654,
+    "aro_t": 0.1601778268814087,
+    "text_emotion": "Angry"
+  }
+]

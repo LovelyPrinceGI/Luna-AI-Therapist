@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Luna, I've been feeling really lost since my sister passed away six months ago. It’s like the world has lost its color, and I can’t find joy in anything anymore. I often feel this heavy guilt for even thinking about moving on or enjoying anything, and I’m not sure if therapy can really help me with that.",
+    "therapist": "I'm so sorry to hear about your sister's passing; that’s an incredibly profound loss. It’s completely understandable to feel lost and guilty as you navigate your grief, especially when it seems like joy has faded away. It’s important to remember that moving forward doesn’t mean forgetting her—it’s okay to seek moments of happiness too. What do you think could help you honor her memory while also allowing yourself to experience some joy?",
+    "condition": "baseline",
+    "val_t": -0.3361879587173462,
+    "aro_t": 0.10572552680969238,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It's hard for me to even think about finding joy right now. I feel like if I allow myself to be happy, it would be somehow disrespectful to my sister's memory. I keep thinking that I should be mourning her more deeply, but then I feel guilty for feeling stuck in that sadness. What if I forget her if I try to move on?",
+    "therapist": "It’s completely natural to feel conflicted about experiencing joy while mourning your sister; it shows how deeply you care for her. Grief can be so complex, and it’s okay to have moments of happiness without it diminishing your love for her. Remember, cherishing her memory can coexist with finding joy in life. What are some small ways you could honor her while also allowing yourself to feel moments of happiness?",
+    "condition": "baseline",
+    "val_t": -0.3933314085006714,
+    "aro_t": 0.11962246894836426,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate what you’re saying about grief being complex, but it still feels really hard to allow myself to feel happy. I keep thinking that if I enjoy something, it somehow means I’m forgetting her or not honoring her memory properly. It feels like I’m walking a tightrope between wanting to remember her and trying to experience life.",
+    "therapist": "It sounds like you’re carrying a heavy emotional burden, feeling that you have to choose between honoring your sister and finding joy in your own life. It’s important to recognize that grief isn’t a linear path; you can hold both remembrance and joy in your heart at the same time. Finding ways to celebrate her life and your connection with her might help you feel more comfortable allowing yourself moments of happiness. What are some activities or memories that make you feel close to her while also bringing you a sense of joy?",
+    "condition": "baseline",
+    "val_t": -0.006734490394592285,
+    "aro_t": 0.10186541080474854,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate what you're saying, Luna, but it feels really hard to think about ways to celebrate my sister when I still feel so much pain from her loss. I worry that if I try to find joy, it makes me seem like I’m forgetting her or not honoring the grief I feel. I just don’t know how to balance those feelings—it's like they’re constantly at odds with each other.",
+    "therapist": "It’s completely understandable to feel that tension between your grief and the desire to find joy; it’s a challenging emotional landscape to navigate. Your feelings of pain and love for your sister can exist together, and honoring her memory doesn't mean you have to suppress your own happiness. It might be helpful to explore small, gentle ways to acknowledge both your grief and the possibility of joy. What small step could you take that feels manageable for you, perhaps a way to remember her while also allowing yourself to experience a moment of lightness?",
+    "condition": "baseline",
+    "val_t": -0.108847975730896,
+    "aro_t": 0.2020050287246704,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it feels really complicated. I want to remember my sister, but the idea of finding joy right now feels almost like I'm betraying her memory. What if I try to find that lightness and it just feels wrong or disrespectful?",
+    "therapist": "It’s completely valid to feel that finding joy could feel complicated or even like a betrayal; grief can make everything feel so heavy and nuanced. It’s okay to take your time with these feelings, and there’s no right or wrong way to honor your sister’s memory. Exploring lightness doesn’t mean you’re forgetting her; it can be a way to celebrate the love you shared. What might help you feel more comfortable in exploring that lightness, even just a little bit?",
+    "condition": "baseline",
+    "val_t": -0.066245436668396,
+    "aro_t": 0.1554039716720581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate what you're saying, but it feels really overwhelming to even think about finding joy right now. I guess part of me thinks that if I allow myself to feel lightness, it might mean I’m moving on too quickly or that I’m forgetting her. It just feels like a tightrope walk between honoring her memory and trying to live my own life.",
+    "therapist": "It’s understandable to feel overwhelmed when trying to navigate the balance between honoring your sister and living your own life; that tightrope can feel precarious. It’s important to remember that you’re not alone in feeling this way, and many people experience similar conflicts while grieving. Allowing yourself moments of lightness doesn’t diminish your love for her; it can actually enrich your memories of her. What might be a small, gentle way for you to explore that balance, perhaps through a shared memory or a simple activity that gives you a bit of comfort?",
+    "condition": "baseline",
+    "val_t": 0.0769798755645752,
+    "aro_t": 0.24647736549377441,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about finding a balance, but it feels really hard to even think about doing something light or comforting right now. I feel guilty just imagining enjoying myself when my sister isn't here anymore. I worry that any moment of happiness will somehow dishonor her memory, and that just makes the idea of doing anything feel heavy.",
+    "therapist": "It’s completely understandable to feel that heaviness when the idea of enjoying yourself seems intertwined with guilt; those emotions can feel really weighty. It shows how deeply you care for your sister and the impact she had on your life. Remember, it’s okay to take your time with these feelings, and you don’t have to rush into anything that feels uncomfortable. What if you allowed yourself to just imagine a small moment of comfort or joy, without any pressure to act on it right now? How might that feel for you?",
+    "condition": "baseline",
+    "val_t": -0.16824746131896973,
+    "aro_t": 0.12555789947509766,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "Imagining a moment of comfort or joy feels strange to me. I think about my sister and how she would want me to be happy, but there's always this nagging guilt that comes with it. It’s hard to shake that feeling, like I’m betraying her memory if I allow myself to feel good.",
+    "therapist": "It’s completely understandable to feel that nagging guilt, especially when you’re so connected to your sister’s memory and what you believe she would want for you. It’s a testament to your love for her that you're so mindful of honoring her. It might be helpful to consider that she would likely want you to find happiness and peace in your own life, even as you carry her memory with you. How might it feel to think of a specific moment when she expressed joy or laughter, and to let that shape your understanding of what she might want for you now?",
+    "condition": "baseline",
+    "val_t": -0.16490375995635986,
+    "aro_t": 0.1650841236114502,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, and I do want to honor her memory, but it feels complicated. Sometimes I think about her and just feel this weight of guilt instead of joy, like I'm betraying her by moving forward. It's hard to imagine her wanting me to be happy when I still feel so lost in my own grief.",
+    "therapist": "It’s completely natural to feel that complexity in your grief; wanting to honor your sister while also feeling weighed down by guilt can be really challenging. It’s okay to feel lost right now, and your grief is valid. Remember that honoring her memory can take many forms, and finding a way to incorporate both your love for her and your own journey toward healing is important. What if you reflected on a time when she encouraged you or shared a moment of happiness with you? How might that influence your perspective on allowing yourself to feel joy?",
+    "condition": "baseline",
+    "val_t": -0.17771291732788086,
+    "aro_t": 0.18238627910614014,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate what you’re saying, but honestly, reflecting on those happy moments feels overwhelming right now. It’s like I’m stuck in this fog of guilt where I can’t quite access the joy we shared. I worry that if I allow myself to remember those times, it’ll just make the pain of losing her hit even harder.",
+    "therapist": "It’s completely understandable to feel overwhelmed by the thought of accessing those happy memories right now; grief can create a fog that makes everything feel more intense. It’s okay to take a step back from those thoughts if they feel too heavy; your feelings are valid, and it’s important to honor where you are in your grief process. Perhaps you could focus on simply acknowledging your feelings of guilt and sadness without pushing yourself to find joy right now. What would it look like for you to sit with those feelings for a moment, allowing yourself to be present with them without any pressure to shift into happiness?",
+    "condition": "baseline",
+    "val_t": -0.12854993343353271,
+    "aro_t": 0.20809495449066162,
+    "text_emotion": "Angry"
+  }
+]

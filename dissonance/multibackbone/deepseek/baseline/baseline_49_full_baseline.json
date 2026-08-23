@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been completely spiraling since I missed the deadline for my final project. I keep imagining worst-case scenarios where I fail the class or even get kicked out of my program. Part of me wonders if talking about it will help when the damage is already done.",
+    "therapist": "It sounds like missing the deadline has left you feeling overwhelmed and stuck in a cycle of fear about what might happen next. What do you think keeps pulling your thoughts toward those worst-case scenarios?",
+    "condition": "baseline",
+    "val_t": -0.30563104152679443,
+    "aro_t": 0.10352849960327148,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I keep imagining my boss being furious and thinking I'm incompetent. It's like my brain automatically jumps to \"I'll get fired\" even though part of me knows that's probably not true. The more I try to stop thinking about it, the worse the scenarios get.",
+    "therapist": "It sounds like your mind is stuck in a pattern of anticipating the worst, even when you recognize it might not be realistic. What do you think it would feel like to explore whether there’s any evidence that your boss would react so strongly?",
+    "condition": "baseline",
+    "val_t": -0.3761162757873535,
+    "aro_t": 0.2711975574493408,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you’re saying, but it’s hard to shake the feeling that my boss will judge me harshly if I make a mistake. Even if there’s no concrete evidence, I keep replaying past moments where I felt criticized, and it makes me think she’ll react the same way again. It’s like my brain won’t let me believe otherwise, even if logically I know it might not be true.",
+    "therapist": "It sounds like those past moments of criticism have left a strong impression, making it hard to trust that things might be different this time. What would it feel like to consider if there are any moments where your boss reacted differently or showed understanding?",
+    "condition": "baseline",
+    "val_t": -0.2881871461868286,
+    "aro_t": 0.19520533084869385,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it's hard to think of moments where my boss was understanding. Even if there were a few, they feel overshadowed by all the criticism. It’s like I’m always waiting for the next negative comment, so those rare moments don’t really stick with me. I guess I just don’t trust that things will change, even if I try to focus on the positives.",
+    "therapist": "It sounds like the criticism has had such a strong impact that it’s hard to give the positive moments the same weight, even if they exist. What do you think it would be like to explore whether focusing on those rare moments could help shift your perspective, even just a little?",
+    "condition": "baseline",
+    "val_t": -0.03466522693634033,
+    "aro_t": 0.03200972080230713,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it feels like those positive moments are so small compared to the criticism. When I try to focus on them, it just feels forced, and then I end up doubting whether they even matter. It’s like my brain automatically dismisses them because they don’t fit with how I see myself. I don’t know if I can shift my perspective that easily.",
+    "therapist": "It sounds like those positive moments feel insignificant compared to the weight of the criticism, and trying to focus on them feels inauthentic right now. What do you think it would be like to explore how those moments might fit into a bigger picture, rather than dismissing them outright?",
+    "condition": "baseline",
+    "val_t": -0.06286013126373291,
+    "aro_t": 0.06907820701599121,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I see what you're saying, but it's hard to imagine those small positive moments meaning anything when the criticism feels so huge and true. It's like trying to balance a feather on one side of a scale against a boulder on the other side. \n\nI want to believe they matter, but when I try to focus on them, it just makes me feel worse because it highlights how rare they are compared to all the negative stuff.",
+    "therapist": "It makes sense that focusing on those small positives feels discouraging when they seem so outweighed by the criticism—it’s like your mind is telling you they don’t \"count\" the same way. What would it feel like to simply notice those moments without forcing yourself to believe they matter yet, just observing them as they are?",
+    "condition": "baseline",
+    "val_t": -0.13855266571044922,
+    "aro_t": 0.08128213882446289,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I guess I could try just noticing the positive moments without judging them, but it feels kind of pointless. Even if I notice them, the negative stuff still feels so much bigger and more real to me. It's like my brain automatically dismisses anything good as insignificant.",
+    "therapist": "It sounds like your mind has been trained to prioritize the negative, making it hard to give the positive moments any weight or significance. What do you think it would feel like to explore why the negative feels so much more \"real\" to you, without trying to change it yet?",
+    "condition": "baseline",
+    "val_t": -0.06114470958709717,
+    "aro_t": 0.07799458503723145,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know, the negative just feels more true somehow. When good things happen, it's like my brain immediately looks for the catch or reminds me it won't last. Trying to examine why feels scary - what if I realize I'm right to focus on the bad stuff?",
+    "therapist": "It sounds like your brain has developed a protective habit of focusing on the negative to prepare you for disappointment, which makes sense if that’s what feels safest to you. What would it feel like to explore whether focusing on the negative actually protects you, or if it might be keeping you stuck in a cycle of fear?",
+    "condition": "baseline",
+    "val_t": -0.175653338432312,
+    "aro_t": 0.09770727157592773,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about the negative thinking being protective, but honestly it doesn't feel very protective at all. It just makes me feel worse, like I'm constantly bracing for impact. At the same time, the idea of trying to focus on positive things makes me nervous - what if I get my hopes up and then get hurt even worse?",
+    "therapist": "It sounds like you're stuck between two painful options—the exhaustion of constant negativity and the fear of vulnerability that comes with hope. What do you think it would feel like to explore a middle ground, where you could acknowledge both possibilities without fully committing to either extreme?",
+    "condition": "baseline",
+    "val_t": -0.3087676763534546,
+    "aro_t": 0.20068955421447754,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I don't know... that middle ground sounds unstable to me. Like I'd just be constantly teetering between hope and despair. The few times I've tried to be hopeful, the disappointment hurt even worse when things didn't work out. \n\nBut I guess I'm tired of feeling miserable all the time too. It's just hard to imagine finding any balance when my brain keeps catastrophizing everything. What if trying for that middle ground just leaves me feeling both anxious AND disappointed at the same time?",
+    "therapist": "It sounds like you're caught in a painful cycle where both extremes—hopelessness and hope—feel unsafe in their own ways. What would it feel like to explore small, manageable ways to test that middle ground, like noticing when your thoughts lean toward catastrophizing without fully believing or rejecting them?",
+    "condition": "baseline",
+    "val_t": -0.3851886987686157,
+    "aro_t": 0.12351119518280029,
+    "text_emotion": "Sad"
+  }
+]

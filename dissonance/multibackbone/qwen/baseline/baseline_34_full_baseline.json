@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. I'm trying to balance my graduate program and my part-time job at the coffee shop, and it feels like I'm constantly falling short in both areas. I know I should be able to handle it, but I just feel so stretched and stressed all the time. I'm not even sure if therapy can really help with all this.",
+    "therapist": "It sounds incredibly overwhelming to be juggling both your graduate program and your job, and it’s completely normal to feel stretched and stressed in these circumstances. It’s really brave of you to reach out and talk about how you’re feeling. How have you been coping with these feelings so far, and what do you think might help you feel a bit more in control?",
+    "condition": "baseline",
+    "val_t": -0.2795919179916382,
+    "aro_t": 0.21984505653381348,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks, Luna. It does feel overwhelming, and sometimes I feel like I'm drowning. I've been trying to keep it all together by staying up late to get everything done, but it's not sustainable. I know I need to find a better way to manage, but it's hard to see a clear path forward.",
+    "therapist": "It’s really tough to feel like you’re drowning, and I can see how exhausting it must be to try and keep everything together by staying up late. It’s great that you recognize the need for a more sustainable way to manage. What are some things that have helped you feel more balanced or less stressed in the past, even if just for a little while?",
+    "condition": "baseline",
+    "val_t": -0.08316910266876221,
+    "aro_t": 0.15595710277557373,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you understanding how hard it is. Sometimes, I find that going for a walk or listening to music helps a little, but it’s hard to make those things a regular part of my routine. I feel like I can’t afford to take that time when there’s so much to do.",
+    "therapist": "It’s completely understandable to feel that way when you have so much on your plate. Taking time for yourself can feel like a luxury, but it’s actually a crucial part of maintaining your well-being. How do you think we could find small, manageable ways to incorporate these activities into your routine, even if it’s just a few minutes a day?",
+    "condition": "baseline",
+    "val_t": 0.039862632751464844,
+    "aro_t": 0.04566359519958496,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, and I know it's important, but it feels like even finding a few minutes a day is a challenge. I often end up feeling guilty for taking time for myself, like I should be doing something more productive or helping someone else. It's hard to break that cycle.",
+    "therapist": "I hear you, and it’s really common to feel guilty about taking time for yourself, especially when you have so many responsibilities. It’s important to remember that self-care isn’t selfish; it’s actually a way to recharge so you can be more effective in all areas of your life. What do you think might help you reduce that guilt, even just a little bit? Maybe there’s a way to reframe how you see self-care, or a small step you can take to start feeling more comfortable with it?",
+    "condition": "baseline",
+    "val_t": -0.2007911205291748,
+    "aro_t": 0.02855360507965088,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I understand what you're saying, and I know self-care is important, but it's still hard for me to shake the guilt. I feel like every minute I spend on myself is a minute I could be using to help my family or get more work done. It’s a struggle to see it as anything but selfish. How do I even start to change that mindset? It feels so ingrained.",
+    "therapist": "It’s completely understandable to feel that way, and those feelings of guilt can be deeply ingrained. Changing that mindset takes time and practice, but it’s a worthwhile journey. One step could be to start by recognizing the value you bring to your family and work when you’re not burnt out. How do you think taking care of yourself might actually benefit the people you care about and the tasks you need to complete?",
+    "condition": "baseline",
+    "val_t": -0.319693922996521,
+    "aro_t": 0.08949947357177734,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you're saying, but it's hard for me to see the value I bring when I'm already feeling so guilty about taking time for myself. It feels like a Catch-22—like I need to be perfect to justify taking a break, but I can never be perfect enough. How do I break that cycle?",
+    "therapist": "It’s really tough to feel stuck in that cycle, and it’s understandable to feel like you need to be perfect to justify taking a break. One way to break this cycle is to start with small, gentle steps. Maybe you could try setting aside just a few minutes each day for something that brings you a sense of relief or joy, without placing any expectations on yourself. How do you think you might feel if you started with something small and manageable, like a short walk or a few minutes of deep breathing?",
+    "condition": "baseline",
+    "val_t": -0.15195870399475098,
+    "aro_t": 0.13887596130371094,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, and I do want to try, but it feels like even those small things might just add to my anxiety. I worry that if I take time for myself, even just a few minutes, I'll end up feeling guilty for not doing something more productive. It's hard to break that thought pattern.",
+    "therapist": "I completely understand how those thoughts can make it hard to take that first step. It’s natural to worry about feeling guilty, especially when you’re already under a lot of pressure. One thing we can try is to gently challenge those thoughts by looking at the evidence. For example, what might happen if you took just a few minutes for yourself, and how might that compare to the worry you’re feeling now? What do you think could be a small, manageable step that might help you start to see things differently?",
+    "condition": "baseline",
+    "val_t": -0.24320697784423828,
+    "aro_t": 0.10179793834686279,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. It's just that whenever I try to take time for myself, I end up feeling guilty and thinking about all the things I should be doing instead. I know it’s important, but it’s hard to see how a few minutes alone will make a difference when I feel like I’m constantly behind. How can I start to change that without feeling even more overwhelmed?",
+    "therapist": "I understand how challenging it can be to break that cycle of guilt and feeling behind. It’s okay to start small and focus on what feels manageable. One approach could be to reframe those few minutes as a necessary investment in your well-being, rather than time taken away from your responsibilities. What if you viewed those moments as a way to recharge, so you can be more effective and present when you return to your tasks? How do you think you might feel if you tried to approach self-care from this perspective, even for a short time each day?",
+    "condition": "baseline",
+    "val_t": -0.1372067928314209,
+    "aro_t": 0.19245457649230957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and I do see the logic in it. But it's hard for me to actually believe that taking time for myself won't make me feel guilty or like I'm falling behind. It feels like a luxury I can't afford, even if it's just a few minutes.",
+    "therapist": "I completely understand how difficult it is to shift that mindset, especially when you’re already feeling overwhelmed. It’s okay to take it one small step at a time. What if we started by trying to identify a specific activity that you enjoy and that feels less like a luxury and more like a necessary break? For example, a short walk, a few minutes of deep breathing, or even a quick chat with a friend. How do you think you might feel if you tried to see this as a way to maintain your energy and well-being, rather than a luxury?",
+    "condition": "baseline",
+    "val_t": -0.057038307189941406,
+    "aro_t": 0.1323690414428711,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea, but it's hard because I often feel guilty when I take time for myself. I worry that I'm not being productive or that I'm letting others down. It's tough to see these moments as necessary when I feel like I should always be doing more.",
+    "therapist": "I understand how tough it is to overcome that guilt, and it’s completely valid to worry about not being productive or letting others down. It’s a common feeling, especially when you’re juggling so many responsibilities. One thing that might help is to start by reframing these moments as essential for your overall well-being, rather than just a break. How do you think you might feel if you viewed these small moments as a way to prevent burnout and improve your ability to support others, rather than as a luxury?",
+    "condition": "baseline",
+    "val_t": -0.12430644035339355,
+    "aro_t": 0.02744424343109131,
+    "text_emotion": "Neutral"
+  }
+]

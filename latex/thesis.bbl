@@ -30,6 +30,28 @@ Cummins, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ekman%
+}{%
+Ekman%
+}{%
+{\protect \APACyear {1972}}%
+}]{%
+ekman1972universals}
+\APACinsertmetastar {%
+ekman1972universals}%
+\begin{APACrefauthors}%
+Ekman, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1972}.
+\newblock
+\APACrefbtitle {Universals and Cultural Differences in Facial Expressions of Emotion} {Universals and cultural differences in facial expressions of emotion}.
+\newblock
+\APACaddressPublisher{Lincoln}{University of Nebraska Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Haydarov%
 \ \protect \BOthers {.}}{%
 Haydarov%
@@ -285,6 +307,33 @@ Wang, Y.%
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
 \APACrefbtitle {Evaluation of data inconsistency for multi-modal sentiment analysis.} {Evaluation of data inconsistency for multi-modal sentiment analysis.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wu%
+\ \protect \BOthers {.}}{%
+Wu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+wu2025beyond}
+\APACinsertmetastar {%
+wu2025beyond}%
+\begin{APACrefauthors}%
+Wu, Z.%
+, Gong, Z.%
+, Ai, L.%
+, Shi, P.%
+, Donbekci, K.%
+\BCBL {}\ \BBA {} Hirschberg, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beyond Silent Letters: Amplifying Large Language Models in Emotion Recognition with Vocal Nuances} {Beyond silent letters: Amplifying large language models in emotion recognition with vocal nuances}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Findings of the Association for Computational Linguistics: NAACL 2025} {Findings of the association for computational linguistics: Naacl 2025}\ (\BPGS\ 2202--2218).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

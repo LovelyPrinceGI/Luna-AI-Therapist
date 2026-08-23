@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately. I got this diagnosis a few weeks ago, and ever since, I can't stop worrying about my health and what the future might bring. I know it's probably not helping to stress so much, but it feels like I can't control it. I'm not even sure if talking about it will make a difference, but here I am.",
+    "therapist": "Hi there, I'm so glad you reached out. It sounds like you're going through a really tough time, and it's completely understandable to feel overwhelmed with worry, especially after receiving a diagnosis. It's okay to feel uncertain about how much talking can help, but just being here is a big step. Can you tell me more about what specific thoughts or concerns are coming up for you when you worry about your health and the future?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23735582828521729,
+    "aro_t": 0.19404828548431396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for being here. It's just so overwhelming, you know? I keep thinking about the worst-case scenarios, like what if the treatment doesn't work, or what if I can't handle the side effects? It's hard to shake off these fears, and they just keep piling up.",
+    "therapist": "I can really hear how overwhelming this is for you, and it’s completely natural to have those fears and worries. It’s tough to shake off those thoughts, especially when they feel so real and pressing. Have you noticed any specific triggers that make these fears more intense, or are there times when they seem to ease up a bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05138671398162842,
+    "aro_t": 0.1833738088607788,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, it's definitely tough. I notice that my fears get worse when I'm alone or when I have a lot on my plate. It feels like the quieter it is, the more my thoughts spiral. It's hard to find a break from it, even when I try to relax.",
+    "therapist": "It sounds like being alone and having a lot on your plate really amplifies those fears, and the quiet can make it even harder to find a break. It’s understandable that your thoughts might spiral in those moments. Have you tried any strategies to manage these thoughts when they start to spiral, or are there any activities that help you feel more grounded when you’re alone?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2641967535018921,
+    "aro_t": 0.00755620002746582,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I’ve tried a few things, like meditation and journaling, but it’s hard to stick with them. Sometimes it feels like the quiet just makes the anxiety worse, and I end up feeling even more overwhelmed. I don’t know, maybe I’m just not good at finding ways to cope.",
+    "therapist": "It’s completely understandable to feel that way, and it’s okay to struggle with finding coping strategies that work for you. Sometimes, it can take a bit of trial and error to find what helps. It sounds like the quiet can be particularly challenging. Have you considered trying some guided meditations or gentle background music to see if that might make the quiet less overwhelming? Or maybe there’s a friend or family member you can talk to who might offer some support during those times?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28746485710144043,
+    "aro_t": 0.13554584980010986,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestions, but I don't think guided meditations or background music will really help. The quiet isn't just about the sound; it's the loneliness and the thoughts that come with it. It's hard to imagine that something like that would make a difference. And reaching out to friends or family is tough because I feel like I’m always bothering them with my problems.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. The quiet and the loneliness can be really tough, and it’s natural to worry about burdening others with your problems. It’s important to remember that reaching out doesn’t always have to be about talking about your worries; sometimes, just spending time with someone or doing a shared activity can be comforting. Have you tried connecting with someone in a lighter, less intense way, like going for a walk together or watching a movie? Or maybe there are other activities you enjoy that could help you feel less alone, even if just for a little while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21913135051727295,
+    "aro_t": 0.04607665538787842,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard because I feel like every time I try to connect with someone, I end up overthinking it and backing out. I worry that even if we just go for a walk, I'll end up feeling like I'm imposing or that they're just being polite. It's tough to shake that feeling.",
+    "therapist": "I understand how challenging that can be, and it’s completely normal to feel that way. It’s tough when the fear of imposing or overthinking things gets in the way of connecting with others. Have you ever tried expressing these concerns to a friend or family member, to see how they respond? Sometimes, sharing your worries can help them understand and reassure you. Or, is there a small step you could take, like texting a friend to say hi without expecting a deep conversation, just to break the ice a bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1333177089691162,
+    "aro_t": 0.11084854602813721,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your suggestions, but I feel like every time I try to reach out, I end up overthinking it and second-guessing myself. It's hard because I worry that even a simple text might come off as needy or desperate. I don't want to push people away, you know?",
+    "therapist": "I completely understand how difficult it can be to reach out, especially when you’re worried about coming off as needy or desperate. It’s a common fear, and it can really hold you back. It’s important to remember that your friends and family likely care about you and want to support you, even if it’s just through simple, casual interactions. Have you considered starting with a light, casual message, like asking how their day is going or sharing something interesting you came across? This way, you can maintain connection without feeling like you’re putting too much pressure on yourself or them.",
+    "condition": "emotion_text_only",
+    "val_t": -0.16659092903137207,
+    "aro_t": 0.16535091400146484,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestion, Luna, but I still feel a bit hesitant. It's hard for me to initiate conversations, especially when I worry about coming off as needy. What if they don't respond or it feels forced? It’s just a barrier I find really hard to overcome.",
+    "therapist": "I totally understand how hesitant you feel, and it’s completely valid to worry about how others might respond. It can be really tough to initiate conversations, especially when you’re concerned about coming off as needy. It’s okay to take small steps and go at your own pace. Maybe you could start by sending a simple, low-stakes message, like a quick \"Hey, how’s it going?\" or sharing a funny meme. This can help you gauge their response without feeling too pressured. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1081082820892334,
+    "aro_t": 0.10039925575256348,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean, and I get that it’s supposed to be a small step, but I still worry about how it might come off. I feel like every time I try to reach out, I end up overthinking it and talking myself out of it. It’s just hard to shake that feeling of being a burden.",
+    "therapist": "I can really understand how hard it is to shake that feeling of being a burden, and it’s completely normal to overthink things and talk yourself out of reaching out. It’s a tough cycle to break, but it’s important to remember that your friends and family care about you and likely want to be there for you. Maybe we could explore some alternative thoughts that might help you feel less burdened. For example, what if you considered that reaching out is a sign of strength and a way to maintain connections, rather than a burden? What do you think about that perspective?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2103586196899414,
+    "aro_t": 0.07200241088867188,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you saying that, but it’s still really hard to see it that way. I feel like every time I reach out, I’m just adding to their problems or making them feel obligated to help me. It’s tough to think of it as strength when it feels more like a constant need for reassurance.",
+    "therapist": "I can really hear how challenging and distressing this feels for you, and it’s completely understandable to worry about adding to others' problems or feeling like you’re making them feel obligated. It’s tough to see reaching out as a sign of strength when it feels more like a need for reassurance. It might help to consider that your friends and family likely value your presence in their lives and appreciate the effort you put into staying connected, even if it’s just a small message. What do you think might be a small step you could take that feels less like a burden and more like maintaining a connection?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11304974555969238,
+    "aro_t": 0.06391572952270508,
+    "text_emotion": "Neutral"
+  }
+]

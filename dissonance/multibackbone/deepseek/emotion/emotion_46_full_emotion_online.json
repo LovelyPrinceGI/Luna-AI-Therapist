@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just don't know how I'm supposed to focus on studying when all I can think about is my grandpa. The exams start in a week and I keep breaking down crying every time I open my books. Part of me feels like I should just push through, but another part wonders if therapy can even help with something this painful.",
+    "therapist": "It sounds like you're carrying a heavy weight of grief while also feeling the pressure of upcoming exams—that's an incredibly difficult combination to manage. When you try to push through the pain to study, what thoughts come up about what might happen if you let yourself feel the grief instead?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3551037311553955,
+    "aro_t": 0.15380942821502686,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking that if I let myself really feel the grief, I'll completely fall apart and fail my exams. There's this voice in my head saying I don't deserve to grieve when I have so much work to do, like I should be able to push through it. But then I sit down to study and can't focus at all, which makes me feel even worse about myself.",
+    "therapist": "That self-critical voice sounds particularly harsh—it's telling you both that you shouldn't grieve *and* that you're failing by not studying, which must feel like an impossible bind. I wonder if we could examine whether pushing through grief has actually helped your studying so far, or if it might be creating more obstacles?",
+    "condition": "emotion_text_only",
+    "val_t": -0.5686456561088562,
+    "aro_t": 0.17172157764434814,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "You're right, it does feel impossible. When I try to push through the grief and force myself to study, I just end up staring at my notes for hours without absorbing anything. But if I let myself feel sad, then I get angry at myself for wasting time. Either way I feel like I'm failing. \n\nI guess I never really thought about whether pushing through actually helps - it just feels like what I *should* be doing. The idea that it might be making things worse is kind of scary to consider. What if I let myself grieve and then fall even further behind?",
+    "therapist": "It sounds like you're caught between two painful options right now—suppressing your grief isn't working, but fully feeling it feels too risky with exams approaching. That fear of falling behind makes complete sense—would you be open to exploring a middle path where we could create small, structured spaces for both grieving and studying?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4027191400527954,
+    "aro_t": 0.1478790044784546,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying about finding a middle ground, but I'm not sure how that would actually work. When I try to set aside time to grieve, it feels like opening a floodgate—I can't just turn it off when the time's up. And then I'm left feeling even more drained when I try to study. It's like I can't win either way.",
+    "therapist": "It sounds like when you've tried to control the grieving process, it ends up controlling you instead—that must feel incredibly frustrating when you're also trying to meet academic demands. What if we approached this differently—instead of trying to contain your grief, could we focus on building small moments of grounding *before* you study, to help you feel more in control of the transition?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22320520877838135,
+    "aro_t": 0.07420015335083008,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about grounding before studying, but when I'm grieving, even small tasks feel impossible. The grief just washes over me, and I can't imagine being able to ground myself enough to focus. It's like my brain refuses to cooperate when I'm feeling this way.",
+    "therapist": "It makes complete sense that grief can make even small tasks feel overwhelming—that's actually a very normal response when we're grieving deeply. When you notice that \"washed over\" feeling coming, what typically helps you feel even slightly more anchored in those moments, even if just for a brief time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3826723098754883,
+    "aro_t": 0.16983425617218018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Honestly, nothing really helps anchor me when the grief hits. I just feel completely lost in it. Sometimes I try to distract myself with TV or music, but it's like those things are happening in another world far away from me. \n\nAnd to be honest, when people suggest things like \"anchoring techniques,\" it makes me feel worse because it reminds me how disconnected I am from everything. Like even the things that used to comfort me don't work anymore.",
+    "therapist": "It sounds like you're experiencing grief in such an all-consuming way that even the usual comforts feel distant—that must feel incredibly isolating. When the grief makes everything feel so far away, what's the smallest, most immediate sensation you *can* still notice—maybe the weight of your body in the chair or the temperature of the air on your skin?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32025229930877686,
+    "aro_t": 0.16168320178985596,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I can feel the pressure of my hands gripping the armrests, and the air does feel a little cold on my face. But noticing those things just makes me feel worse, like I'm trying to distract myself from what really matters. It's like my brain keeps screaming that if I stop focusing on the loss for even a second, I'm betraying them somehow.",
+    "therapist": "That thought about \"betraying\" them by focusing elsewhere sounds particularly painful—it's as if your mind believes staying immersed in grief is the only way to honor their memory. I wonder if we could gently explore whether your grandfather would have wanted you to suffer this way, especially during such an important time in your life?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3979640007019043,
+    "aro_t": 0.18400037288665771,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That's a hard question to answer. I mean, logically I know he wouldn't want me to be miserable all the time. But when I try to focus on school or anything else, I immediately feel guilty, like I'm forgetting about him or moving on too fast. \n\nIt's only been six months. If I stop hurting this much, doesn't that mean I didn't love him enough? That's what keeps running through my head, even though I know that probably doesn't make sense.",
+    "therapist": "That guilt about \"moving on too fast\" sounds like it's adding an extra layer of suffering to your grief—as if your pain has become the measure of your love. Might we explore what other ways, besides this constant hurting, you could honor how much he meant to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28418707847595215,
+    "aro_t": 0.14444923400878906,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but I don't know how else to honor him except by holding onto this pain. If I try to feel better or enjoy things again, it's like I'm saying he didn't matter that much. The guilt gets worse when I catch myself laughing or having a good moment. It feels... wrong.",
+    "therapist": "It sounds like you're carrying this pain almost like a sacred duty—as if letting go of any amount of suffering would mean letting go of your connection to him. When you do have those rare good moments, what would it feel like to consider that joy might honor him too, especially if he cherished your happiness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1930687427520752,
+    "aro_t": 0.18940627574920654,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That idea makes me uncomfortable, like I'm betraying his memory by feeling happy. He's gone, and it feels wrong to enjoy things when he can't. But at the same time... I remember how he'd always try to make me laugh, even when he was sick. It's confusing.",
+    "therapist": "I hear that tension—how the memory of him wanting you to laugh clashes with this feeling that happiness would betray him now. That confusion makes complete sense when grief and love are so intertwined. What comes up when you imagine that honoring someone can include both remembering the pain of loss *and* celebrating the joy they brought into your life?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1248859167098999,
+    "aro_t": 0.20859956741333008,
+    "text_emotion": "Angry"
+  }
+]

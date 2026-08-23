@@ -21,7 +21,11 @@ from scipy.io.wavfile import write as write_wav
 import librosa
 
 # ----- paths (ปรับ BASE_DIR ให้ตรงเครื่องคุณ) -----
-BASE_DIR = r"C:\Luna-AI-Therapist"
+import platform
+if platform.system() == "Windows":
+    BASE_DIR = r"C:\Luna-AI-Therapist"
+else:
+    BASE_DIR = "/mnt/c/Luna-AI-Therapist"
 DIALOGUE_ID = 6  # default, overridden by synth_single_utterance parameter
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -47,14 +51,19 @@ DEFAULT_INPUT_JSON = os.path.join(BASE_DIR, "dissonance", "own_script", "dialogu
 OUTPUT_AUDIO_DIR = os.path.join(DIALOGUE_DIR, "voice")
 
 MODEL_ID = "Zonos-v0.1-transformer"
-ZONOS_MODEL_DIR = os.path.join(core_zonos_path, "models", MODEL_ID)
+# On Linux (WSL2), use local filesystem for fast model I/O (avoid slow /mnt/c/ 9pfs)
+if platform.system() == "Windows":
+    ZONOS_MODEL_DIR = os.path.join(core_zonos_path, "models", MODEL_ID)
+else:
+    import pathlib
+    ZONOS_MODEL_DIR = os.path.join(str(pathlib.Path.home()), "luna_models", MODEL_ID)
 
 MALE_VOICE_SAMPLE_PATH = os.path.join(core_zonos_path, "assets", "male_voice_android17.wav")
 FEMALE_VOICE_SAMPLE_PATH = os.path.join(core_zonos_path, "assets", "female_voice_android18.wav")
 
 emotion_order = ["Happiness", "Sadness", "Disgust", "Fear", "Surprise", "Anger", "Other", "Neutral"]
 MAX_RETRIES = 2            # ลดจาก 3 → 2 (speedup)
-MIN_SECONDS_PER_CHAR = 0.025  # ลดจาก 0.035 → 0.025 (match shorter 2-3 sent utterances)
+MIN_SECONDS_PER_CHAR = 0.025  # default (overridden by synth_single_utterance parameter)
 
 
 def load_zonos_model():
@@ -99,10 +108,11 @@ print("Loading Zonos model once at import...")
 _ZONOS_MODEL, _MODEL_SR, _MALE_EMB, _FEMALE_EMB = load_zonos_model()
 print("Zonos ready.")
 
-def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, prefix: str = "dialogue"):
+def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, prefix: str = "dialogue", min_sec_per_char: float = None):
     """
     idx = dialogue turn (1,2,3,...)
     input_json = path ไป JSON ที่มี directed_utterances (ของ turn นี้)
+    min_sec_per_char = optional: dynamic speaking rate from VA (overrides MIN_SECONDS_PER_CHAR)
     """
     print("Using INPUT_JSON:", input_json)
     if not os.path.exists(input_json):
@@ -152,11 +162,12 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
         speaker=selected_speaker_tensor,
     )
 
-    # heuristic: คาดว่า utterance ยาว ~ 0.035 วิ ต่อหนึ่งตัวอักษร
-    expected_min_sec = max(2.0, len(clean_text) * MIN_SECONDS_PER_CHAR)
-    print(f"Expected minimum duration ~{expected_min_sec:.2f}s for utterance {idx}")
+    # heuristic: dynamic from VA if provided, else module default
+    sec_per_char = min_sec_per_char if min_sec_per_char is not None else MIN_SECONDS_PER_CHAR
+    expected_min_sec = max(2.0, len(clean_text) * sec_per_char)
+    print(f"Expected min duration ~{expected_min_sec:.2f}s (rate={sec_per_char:.4f}) for utterance {idx}")
 
-    MIN_RMS = 0.3  # ปรับได้ตามที่ลองฟัง, ยิ่งสูงยิ่งคัดเงียบหนักขึ้น
+    MIN_RMS = 0.02  # lower from 0.3 → 0.02: sad/quiet voices are naturally soft
 
     best_out = None
     best_score = 0.0  # ใช้ score = duration_sec * rms เพื่อเลือกตัวดีที่สุด
@@ -174,9 +185,35 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
             audio_numpy = (wav_tensor.squeeze().numpy() * 32767).astype(np.int16)
 
             audio_float = audio_numpy.astype(np.float32) / 32767.0
-            y_trimmed, _ = librosa.effects.trim(audio_float, top_db=40)
+            if audio_float.size == 0:
+                print("Only silence after decode at utterance", idx, "attempt", attempt)
+                continue
+
+            # 3-pass audio cleaning pipeline
+            # Pass 1: spectral noise reduction
+            try:
+                import noisereduce as nr
+                audio_float = nr.reduce_noise(y=audio_float, sr=model_sr, prop_decrease=0.8)
+            except Exception:
+                pass  # noisereduce not installed -> skip
+
+            # Pass 2: remove dead air, preserve natural phrase boundaries
+            intervals = librosa.effects.split(audio_float, top_db=30)
+            if len(intervals) == 0:
+                print("Only silence after split at utterance", idx, "attempt", attempt)
+                continue
+            GAP_MS = 0.200  # 200ms natural pause between phrases
+            gap_samples = int(GAP_MS * model_sr)
+            segments = []
+            for s_start, s_end in intervals:
+                segments.append(audio_float[s_start:s_end])
+                segments.append(np.zeros(gap_samples, dtype=np.float32))
+            y_clean = np.concatenate(segments[:-1]) if len(segments) > 1 else audio_float
+
+            # Pass 3: gentle edge trim (preserves breathy endings, no global normalization)
+            y_trimmed, _ = librosa.effects.trim(y_clean, top_db=30)
             if y_trimmed.size == 0:
-                print("Only silence after trim at utterance", idx, "attempt", attempt)
+                print("Only silence after cleaning at utterance", idx, "attempt", attempt)
                 continue
 
             # วัด duration + RMS
@@ -185,26 +222,28 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
             score = duration_sec * rms
             print(f"Attempt {attempt}: duration={duration_sec:.2f}s, rms={rms:.3f}")
 
-            # เงื่อนไขผ่านแบบ "ดีพอ"
-            if duration_sec >= expected_min_sec and rms >= MIN_RMS:
-                audio_out = (y_trimmed * 32767).astype(np.int16)
-                out_name = f"{prefix}_{dialogue_id}_utterance_{idx}.wav"
-                out_path = os.path.join(OUTPUT_AUDIO_DIR, out_name)
-                write_wav(out_path, model_sr, audio_out)
-                print(
-                    f"Saved: {out_path} (dur={duration_sec:.2f}s, rms={rms:.3f}, attempt {attempt})"
-                )
-                return out_path
+            # quality check
+            audio_out_raw = (y_trimmed * 32767).astype(np.int16)
 
             # เก็บตัวที่ "ดีที่สุด" ไว้เป็น fallback
             if score > best_score:
                 best_score = score
                 best_out = (y_trimmed.copy(), model_sr, duration_sec, rms)
 
+            # เงื่อนไขผ่าน
+            if duration_sec >= expected_min_sec and rms >= MIN_RMS:
+                out_name = f"{prefix}_{dialogue_id}_utterance_{idx}.wav"
+                out_path = os.path.join(OUTPUT_AUDIO_DIR, out_name)
+                write_wav(out_path, model_sr, audio_out_raw)
+                print(
+                    f"Saved: {out_path} (dur={duration_sec:.2f}s, rms={rms:.3f}, attempt {attempt})"
+                )
+                return out_path
+
         except Exception as e:
             print("Error at utterance", idx, "attempt", attempt, ":", e)
 
-    # fallback: ถ้าไม่มีตัวไหนผ่านเกณฑ์ ใช้ตัวที่ดีที่สุดตาม score
+    # fallback: save best-effort audio even if quality check failed
     if best_out is not None:
         y_best, sr, best_dur, best_rms = best_out
         audio_out = (y_best * 32767).astype(np.int16)
@@ -212,8 +251,7 @@ def synth_single_utterance(idx: int, input_json: str, dialogue_id: int = 6, pref
         out_path = os.path.join(OUTPUT_AUDIO_DIR, out_name)
         write_wav(out_path, sr, audio_out)
         print(
-            f"[FALLBACK] Saved best-effort audio for utterance {idx} "
-            f"(dur={best_dur:.2f}s, rms={best_rms:.3f})"
+            f"[BEST-EFFORT] Saved utterance {idx} (dur={best_dur:.2f}s, rms={best_rms:.3f})"
         )
         return out_path
 

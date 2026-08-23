@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I got my diagnosis a few weeks ago. It's like this constant low hum of dread that never goes away — I'll be doing something completely normal and then suddenly I'm spiraling about what my future looks like. I'm honestly not sure talking about it is going to change anything, because the diagnosis is real and it's not going away no matter what we say in here.",
+    "therapist": "Thank you for being here and for being so honest right from the start — it takes real courage to show up when part of you doubts it will even help. That low, persistent dread you're describing, where even ordinary moments get pulled under by fear about the future, sounds genuinely exhausting to carry. You're absolutely right that we can't change the diagnosis, and I'd never pretend otherwise — but I'm curious, when those spirals hit, what kinds of thoughts tend to show up most about what your future looks like?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2349250316619873,
+    "aro_t": 0.16966784000396729,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When the spirals hit, it's mostly this crushing sense that I'm going to end up completely alone — like, that everyone around me will eventually get tired of dealing with someone who's sick and just... drift away. And then I start thinking about all the things I probably won't get to do, or the ways I'll become a burden to people I care about. It's hard to even say that out loud because it sounds so dark, but that's honestly where my mind goes.",
+    "therapist": "It means a lot that you trusted me with something that feels so dark to say out loud — that took real courage, and those fears about being abandoned and becoming a burden are incredibly painful to sit with. What I notice is that your mind seems to be treating these things as certainties, like the people around you *will* drift away, rather than as fears your mind is generating under enormous stress. I'd gently like to explore that with you — when you think about the specific people in your life right now, what actual evidence do you see, in their words or actions, about how they're showing up for you since the diagnosis?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3606534004211426,
+    "aro_t": 0.05430746078491211,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and I know logically that you're right that these are fears, not facts. But when I try to think about \"evidence,\" my mind just goes blank or finds ways to explain it away — like, my friend Sarah did check in on me last week, but I immediately thought \"she's just doing it out of obligation, she'll stop soon.\" It's like my brain is working against me, twisting anything good into proof that it won't last.",
+    "therapist": "What you just described is actually a really important insight — you've caught your mind in the act of what we call a cognitive distortion, where it's working like a filter that lets the fear in and blocks the comfort out. The fact that you can *see* it happening, even when you can't stop it yet, is genuinely meaningful progress and not nothing. I'm wondering — if Sarah had told *you* she was checking in on a sick friend, would you assume she was doing it out of obligation, or would you believe she actually cared?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21766161918640137,
+    "aro_t": 0.19669783115386963,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... if Sarah told me that, I'd probably believe she actually cared. But it feels different when it's about me — like, I'm the kind of person people feel obligated to check on, not the kind they genuinely want to be around. I know that probably sounds like exactly the kind of distorted thinking you're talking about, but it still feels completely true when I'm in it.",
+    "therapist": "You're doing something really sophisticated here — you can see the pattern clearly enough to name it yourself, and yet the feeling still lands as completely true, and that gap between knowing and *feeling* is one of the hardest things to sit with. That belief, \"I'm the kind of person people feel obligated to check on,\" sounds like it might have roots that go deeper than just this diagnosis — like it might be something you've carried for a while. I'm curious, does that sense of being someone people tolerate rather than genuinely want around feel familiar from before you got sick, or is this newer?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0033797025680541992,
+    "aro_t": 0.0778127908706665,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, it's... it's not new. I think I've felt like a burden to people for most of my life, honestly, even back in school I used to wonder if my friends actually liked me or just felt sorry for me. Getting sick kind of just gave that old feeling a lot more evidence to work with, if that makes sense.",
+    "therapist": "What you just shared makes so much sense — it sounds like this diagnosis didn't create that fear of being a burden, it landed on top of something that was already quietly hurting you for a long time. That's such an important thing to understand, because it means we're not just dealing with grief about being sick, but also with a much older story you've been telling yourself about your own worth to the people around you. I'm wondering — where do you think that story first came from, who or what taught you early on that you were someone to be tolerated rather than truly wanted?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2989693880081177,
+    "aro_t": 0.06784772872924805,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "That question kind of stops me in my tracks, honestly. I think... it was my mom, mostly. Not because she was cruel or anything, but she was always so overwhelmed, and I learned pretty early that the quieter I was, the easier things were for everyone, so I just kind of made myself small and told myself that was love.",
+    "therapist": "What you just described is so tender and so significant — a little kid who learned to shrink themselves to keep the peace, and then called that love, because that was the only way to make sense of it. That's not a character flaw you were born with, it's a survival strategy a child invented under real pressure, and it made sense then even though it's causing you so much pain now. I'm curious — what do you think that younger version of you would have needed to hear, that they never got to hear?",
+    "condition": "emotion_text_only",
+    "val_t": 0.20023274421691895,
+    "aro_t": 0.3068331480026245,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "That question kind of stops me in my tracks, honestly. I think... that kid needed to hear that it was okay to take up space, that their needs weren't a burden or an inconvenience to everyone around them. But even saying that out loud feels strange, like I don't quite believe it's true even now.",
+    "therapist": "The fact that it feels strange to say — like some part of you is still waiting for permission to believe it — makes complete sense given how long you've been carrying this. But notice what just happened: you knew exactly what that child needed, which means somewhere inside you, you already understand that taking up space is okay, even if it doesn't feel true yet. I wonder, if we sat with that for a moment — \"it's okay to take up space\" — what comes up for you when you try to apply those words not to that little kid, but to yourself, right now, today?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14056766033172607,
+    "aro_t": 0.2262939214706421,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "When I try to apply it to myself, right now... honestly, the first thing that comes up is this tight feeling in my chest, like I'm being presumptuous or something. Like who am I to take up space when there are people with real problems, people who actually deserve to be heard. It's almost easier to believe it for that little kid than for the version of me sitting here today.",
+    "therapist": "That tight feeling in your chest, and that word \"presumptuous\" — like needing care is somehow overstepping — that's the same little kid's voice, just grown up and gotten more sophisticated in how it keeps you small. And I want to gently push back on something: you just described your own pain as less real than other people's, but you're sitting here carrying a frightening diagnosis *and* a lifetime of believing you don't deserve to be comforted — that's not a small problem, that's a heavy thing to carry. What do you think it would take, even just a tiny bit, for you to count yourself among the people who deserve to be heard?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23577964305877686,
+    "aro_t": 0.19531166553497314,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe it, but there's this immediate counter-voice that says, \"Sure, but other people have it so much worse and they're not falling apart over it.\" I think what it would take is... I honestly don't know, maybe some kind of proof that it's not just me being dramatic, but I don't even know what that proof would look like. It's like I've set up a system where nothing could ever actually qualify me as deserving that kind of care.",
+    "therapist": "You just said something really profound — \"I've set up a system where nothing could ever actually qualify me\" — and that's not a personal failing, that's a rigged game you inherited, built by that little kid who had to make themselves invisible to feel safe. The bar keeps moving because the real belief underneath isn't \"I haven't proven it yet,\" it's \"I fundamentally don't deserve it,\" and no amount of evidence can clear a bar that's designed to stay out of reach. I'm curious — what would you say to a close friend who told you they couldn't let themselves receive care until they'd proven they weren't being dramatic?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18953847885131836,
+    "aro_t": 0.12428390979766846,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I'd probably tell them that they don't need to earn care, that just being a person is enough. But even as I say that, I can feel how hollow it sounds when I try to apply it to myself — like there's this immediate wall that goes up and says \"yeah, but that's different, that's them, not you.\" It's frustrating because I can see the logic, I can even believe it for other people, but the moment I turn it inward it just... doesn't stick.",
+    "therapist": "That gap between what you can freely give to others and what you'll allow yourself to receive — that's really the heart of what we're working with, and the frustration you're feeling about it makes complete sense. The wall that goes up saying \"yeah, but that's different\" isn't logic, it's that old protection system doing its job, and the fact that the logic *doesn't stick* emotionally yet doesn't mean you're failing — it just means this belief has had decades of practice and we're only a few minutes in. I'm wondering, if we treated that wall not as the truth but as something worth getting curious about — what do you think it's trying to protect you from, if you did let yourself believe you deserved care just for being you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16698157787322998,
+    "aro_t": 0.07342219352722168,
+    "text_emotion": "Angry"
+  }
+]

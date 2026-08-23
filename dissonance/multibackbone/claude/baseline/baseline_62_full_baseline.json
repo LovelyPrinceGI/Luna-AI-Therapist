@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my grandmother passed away last month. I can't seem to focus at work — I'll be in the middle of something and just completely lose my train of thought, or I'll find myself staring at my screen for twenty minutes without doing anything. I'm not sure talking about it is really going to change anything, but I figured I should at least try something because I can't keep going like this.",
+    "therapist": "It takes real courage to reach out, especially when part of you isn't sure it will help — and I want you to know that what you're experiencing makes complete sense given the loss you've just been through. Grief has a way of quietly taking over our mental bandwidth, so those moments of staring blankly or losing your train of thought aren't signs that something is wrong with you — they're signs that you're carrying something heavy. \n\nI'm really glad you decided to try, and I'd love to understand more — when you find yourself drifting at work, what kinds of thoughts or feelings tend to be there in those quiet moments?",
+    "condition": "baseline",
+    "val_t": -0.2898443937301636,
+    "aro_t": 0.11635816097259521,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, when I drift off at work, it's usually this wave of guilt that hits me out of nowhere — like I'll be in the middle of a spreadsheet and suddenly think about how I didn't visit my dad enough in those last few months. It's not even a specific memory, just this heavy, suffocating feeling that I wasted time I can never get back. And then I feel stupid for sitting there at my desk getting emotional over something I can't change anyway.",
+    "therapist": "That guilt you're describing — that suffocating sense of wasted time — is one of the most painful parts of grief, and it makes so much sense that it's pulling you under even in ordinary moments like staring at a spreadsheet. I also want to gently notice something: you called yourself \"stupid\" for feeling emotional, which tells me you might be holding yourself to a really harsh standard on top of already carrying so much. \n\nI'm wondering — if a close friend came to you feeling exactly what you're feeling right now, would you tell them they were stupid for grieving?",
+    "condition": "baseline",
+    "val_t": -0.5457576513290405,
+    "aro_t": 0.16570472717285156,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "No, I wouldn't say that to a friend. I'd probably tell them it makes complete sense, that grief doesn't follow a schedule or only show up in appropriate moments. But it feels different when it's me — like I should know better, or be further along by now, or just... have it more together.",
+    "therapist": "You just showed a lot of wisdom there — you already *know* the compassionate truth, and yet there's this other voice that holds you to a completely different, much harsher standard than you'd ever apply to someone you love. That gap between how we treat others and how we treat ourselves is so common, but it's worth paying attention to, because that inner critic can actually make grief harder to move through, not easier. \n\nI'm curious — where do you think that voice comes from, the one that says you should \"have it more together\" by now?",
+    "condition": "baseline",
+    "val_t": 0.017902851104736328,
+    "aro_t": 0.11679792404174805,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I think that voice has been there for a long time, way before my mom died. Growing up, showing too much emotion felt like weakness in my family — like you were burdening everyone around you, so you just learned to push through and keep moving. I guess I internalized that pretty deeply, and now even when I'm grieving my own mother, part of me is still standing there with a stopwatch waiting for me to \"get over it.\"",
+    "therapist": "What you just shared is really significant — you've connected something deep and long-standing, that this isn't just about grief, but about a belief you learned early on that your emotions are a burden, and that belief has been running quietly in the background your whole life. It makes complete sense that it would show up loudest right now, when you're experiencing one of the most emotionally overwhelming things a person can go through. \n\nI'm wondering — now that you can see that \"stopwatch\" voice for what it is, something learned rather than something true, does it feel any different to notice it when it shows up?",
+    "condition": "baseline",
+    "val_t": -0.299444317817688,
+    "aro_t": 0.18390357494354248,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I mean... kind of, yeah. When you put it that way, like it's something I *learned* rather than just the truth, there's a small part of me that goes \"oh, wait.\" But honestly, in the moment when the voice kicks in, it still feels completely real and valid, like I genuinely am being too much for people around me.",
+    "therapist": "That \"oh, wait\" moment is actually really important — it's a tiny crack of space between you and that voice, and that space is exactly where change begins, even if it's just a flicker right now. It makes complete sense that the feeling still hits as true in the moment, because beliefs we learn in childhood get practiced for decades and become almost automatic, like a reflex rather than a choice. \n\nI'd love to gently explore that specific fear — that you're \"too much\" for the people around you — because I'm curious, is there anyone in your life right now who has actually shown you, through their actions, that your grief is a burden to them?",
+    "condition": "baseline",
+    "val_t": -0.15895426273345947,
+    "aro_t": 0.20886385440826416,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I mean... honestly, when I think about it, no one has explicitly said \"you're too much\" or pushed me away because of my grief. But I kind of pull back before they even get the chance to, so I never really find out what would happen if I let them see the full weight of it. It's like I'm protecting them from something they haven't even asked to be protected from, and I don't know if that's me being considerate or just... scared.",
+    "therapist": "What you just said is incredibly insightful — you're protecting people from a burden they've never actually complained about, which means the evidence for that belief has never really been tested, it's just been assumed and then reinforced by pulling back. And I love that you named the uncertainty yourself: considerate, or scared — because that kind of honest self-reflection is genuinely hard to do. \n\nI'm wondering what it might feel like to run a small experiment — not sharing everything at once, but letting just one trusted person in your life see a little more of what you're carrying, and then noticing what actually happens?",
+    "condition": "baseline",
+    "val_t": -0.2714226245880127,
+    "aro_t": 0.19354164600372314,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me actually wants to try that... but then I think about who I'd even go to. Most of the people I'd consider \"trusted\" are the same ones I've been keeping at a distance for so long that it would feel really weird to suddenly open up, like they'd wonder why I'm bringing this to them now after years of acting like everything's fine. And honestly, I'm scared that if I do let someone in a little, they'll either not know what to say and it'll get awkward, or worse, they'll start treating me differently — like I'm fragile or something.",
+    "therapist": "Those fears are so understandable — the awkwardness of suddenly opening up after years of \"I'm fine,\" and the worry that vulnerability might change how someone sees you, these are real risks that make the idea of reaching out feel genuinely daunting rather than just a simple choice. But I want to reflect something back to you: you've already done something tonight that you've been avoiding for a long time — you let someone see the weight of what you're carrying, and you're still here, and it didn't break anything. \n\nI'm curious — how did it actually feel to share all of this today, and does that experience tell you anything about what might be possible with someone who already knows and cares about you?",
+    "condition": "baseline",
+    "val_t": -0.26883506774902344,
+    "aro_t": 0.21529841423034668,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I mean... yeah, it did feel like something to say all of this out loud. Like a little bit of pressure released, I guess, even though part of me is still waiting for it to somehow backfire. But I don't know if that means I can do the same thing with Marcus or Diane — you're a therapist, it's literally your job not to judge me, so it feels like a different kind of safe.",
+    "therapist": "That distinction you're making is really fair and honest — there *is* something different about this space, and I don't want to minimize that. But I'd gently push back on one thing: the relief you felt wasn't something I created for you, it came from *you* choosing to speak honestly, and that courage belongs to you and travels with you outside of this room. \n\nI'm wondering — what do you actually know about Marcus or Diane that might give you even a small reason to believe they *could* handle more of you than you've been showing them?",
+    "condition": "baseline",
+    "val_t": 0.11230659484863281,
+    "aro_t": 0.11754441261291504,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I guess... Marcus has never actually walked away when things got hard between us. There was that one time I told him I was struggling at work and he didn't try to fix it, he just kind of sat with me, which I didn't expect. But I still feel like there's a difference between him handling that and handling the full weight of how anxious and guilty I feel all the time — I don't want to become a burden to him.",
+    "therapist": "What you just described about Marcus — him sitting with you without trying to fix it — is actually one of the most important things a person can do for someone in pain, and he already showed you he knows how to do that. I also notice you've shifted from \"I'm scared he can't handle it\" to \"I don't want to become a burden,\" which brings us back to that old belief we were exploring — not evidence about Marcus, but that familiar voice telling you that you're too much. \n\nWhat do you think Marcus would say if you asked him directly whether he'd want to know what you've been carrying?",
+    "condition": "baseline",
+    "val_t": -0.3254539966583252,
+    "aro_t": 0.1947091817855835,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... if I'm being honest, I think he'd say he wants to know. He's told me before that he wishes I'd let him in more. But knowing what he'd probably say and actually believing I deserve to take up that space — those feel like two completely different things to me.",
+    "therapist": "You just named something really profound — this isn't about Marcus at all, it's about whether you believe you're *worth* being shown up for, and that's a much deeper wound than we can heal in one conversation, but it's exactly the right thing to be looking at. That belief, that you don't deserve to take up space, sounds like it's been with you even longer than the grief, quietly shaping so many of your choices. \n\nI'm wondering — where did you first learn that your presence, your needs, your emotions, were something you had to earn rather than something you simply deserved?",
+    "condition": "baseline",
+    "val_t": 0.010514259338378906,
+    "aro_t": 0.13611602783203125,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. After losing my grandfather, I can't seem to focus on my final exams that are starting next week. I keep feeling overwhelmed by grief and it's hard to see how I'll be able to get through everything.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandfather. Losing someone close can be incredibly difficult, especially when you have important exams coming up. It sounds like you're feeling really overwhelmed right now. Can you tell me more about what's been the hardest part for you in balancing your grief and preparing for your exams?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3441171646118164,
+    "aro_t": 0.22087371349334717,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. The hardest part is just finding the motivation to study. I keep getting distracted by memories of my grandfather, and it's hard to focus when I feel so sad and guilty for not being able to do more for him.",
+    "therapist": "I can really understand how challenging it must be to find the motivation to study when you're dealing with such deep emotions. It's completely normal to be distracted by memories and feelings of sadness and guilt. How have you been coping with these feelings when they arise, and do you think there are any small steps you could take to help yourself focus a bit more?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11275637149810791,
+    "aro_t": 0.12927770614624023,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's tough, because those feelings just seem to weigh me down so much. I try to distract myself by watching TV or scrolling through social media, but it doesn't really help in the long run. I don't know, the idea of finding ways to focus more just feels overwhelming right now.",
+    "therapist": "It sounds like you're really struggling with the weight of these emotions, and it's understandable that distractions like TV or social media don't provide lasting relief. It's okay to feel overwhelmed by the idea of finding ways to focus. What do you think might help you feel a bit lighter or more grounded when you're feeling this way? Even small steps can make a difference.",
+    "condition": "emotion_text_only",
+    "val_t": -0.11301982402801514,
+    "aro_t": 0.23065519332885742,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. I do feel like I'm just carrying this heavy weight all the time. Small steps sound good in theory, but it's hard to know where to start. I feel like I've tried so many things, and they just don't stick. Maybe I'm just not good at finding what works for me.",
+    "therapist": "I can really hear how exhausting it feels to carry that weight all the time, and it's completely understandable to feel stuck. Trying different things and not seeing them stick can be really frustrating. It might be helpful to take a step back and think about what has brought you even a tiny bit of relief or comfort in the past, even if it was just for a moment. What do you think might be a small, manageable step you could try today or this week, even if it's just to give yourself a little break from the heaviness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09514927864074707,
+    "aro_t": 0.07520699501037598,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard to find those moments of relief when everything feels so overwhelming. I guess I could try something small, like taking a short walk or listening to some music, but I often feel like those things don't really make a difference in the long run. It's hard to believe they'll help when the anxiety and guilt are so persistent.",
+    "therapist": "I understand that it can be really challenging to find those moments of relief when everything feels so overwhelming. It's normal to doubt whether small steps will make a difference, especially when anxiety and guilt are so persistent. Even if they don't solve everything, small actions like taking a short walk or listening to music can still provide some temporary relief and a break from the intensity. How do you think you might be able to incorporate these small steps into your routine, even if just for a little while, to see if they can offer you some comfort?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05358242988586426,
+    "aro_t": 0.14689850807189941,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I really do want to try, but it's hard to see how something as simple as a walk or listening to music could make a difference when my anxiety and guilt feel so all-consuming. It's like these small things are just a Band-Aid on a much bigger wound. I worry that if I try and it doesn't work, I'll just feel even more discouraged.",
+    "therapist": "I completely understand where you're coming from. It's natural to feel skeptical about the effectiveness of small steps when your anxiety and guilt feel so all-consuming. It's important to recognize that while these small actions might not cure everything, they can sometimes provide a temporary break or a moment of respite, which can be valuable in itself. What do you think might be a small, manageable action you could try today, even if it's just to give yourself a tiny bit of relief, without putting too much pressure on it to solve everything?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34625232219696045,
+    "aro_t": 0.1737145185470581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, and I really do want to try, but it feels like even small actions are just a Band-Aid on a much bigger issue. I worry that if I try something and it doesn't work, I'll just feel even more discouraged. It's hard to find that little bit of motivation when everything feels so overwhelming.",
+    "therapist": "I can really understand how overwhelming it feels, and it's completely valid to worry that small actions might not address the bigger issues. It's tough to find motivation when everything feels so heavy. Maybe we can think about this in a different way—what if the goal isn't to solve everything, but to find a tiny bit of relief or a moment of peace? What do you think might be a small, manageable action you could take today that could give you even a brief respite from the weight you're carrying?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28921687602996826,
+    "aro_t": 0.22052502632141113,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I can see where you're coming from, but it's hard for me to imagine that a small action could really make a difference when everything feels so overwhelming. It's like trying to fix a leaky roof with a Band-Aid. I guess I just feel like I need something more substantial to really feel better.",
+    "therapist": "I completely understand that it feels like you need something more substantial to really make a difference, especially when everything feels so overwhelming. It's a valid feeling, and it's important to address the bigger issues you're facing. At the same time, sometimes small actions can be a way to start building a foundation, even if they seem minor. What do you think might be a slightly bigger step you could take that feels more meaningful to you, even if it's still manageable? It could be something that helps you connect with your feelings or honor your grandfather's memory.",
+    "condition": "emotion_text_only",
+    "val_t": -0.07351076602935791,
+    "aro_t": 0.20374011993408203,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It's just hard to find something that feels both meaningful and manageable. Honoring my grandfather's memory is important to me, but I often feel stuck and unsure of how to do that in a way that really resonates with me. Maybe I could try writing a letter to him, expressing how much he meant to me and how I'm feeling now? But I worry that it might be too emotional and overwhelming.",
+    "therapist": "I understand that finding something both meaningful and manageable can be really challenging, especially when you're feeling stuck. Writing a letter to your grandfather could be a very powerful way to honor his memory and express your feelings. It's natural to worry that it might be too emotional, but it can also be a cathartic and healing experience. If you decide to try it, you might start with just a few sentences and see how it feels. How does that sound to you? Would you like to give it a try, or is there another way you might want to honor his memory that feels a bit more comfortable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11594569683074951,
+    "aro_t": 0.16924452781677246,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestion, but I'm really worried that writing a letter might bring up too many emotions. I've been holding it together lately, and I don't want to risk breaking down. Maybe there's a less intense way to honor his memory, like looking through old photos or something?",
+    "therapist": "I completely understand your concerns about writing a letter and the fear of bringing up too many emotions. It's important to find a way to honor your grandfather's memory that feels right for you and doesn't feel too overwhelming. Looking through old photos could be a gentle and meaningful way to do that. It can help you remember the good times and feel connected to him in a less intense way. How does that sound to you? Are there any particular photos or memories that stand out when you think about this?",
+    "condition": "emotion_text_only",
+    "val_t": -0.012328028678894043,
+    "aro_t": 0.0709906816482544,
+    "text_emotion": "Neutral"
+  }
+]

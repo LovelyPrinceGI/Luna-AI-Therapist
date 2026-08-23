@@ -30,31 +30,62 @@ The foundation of our dataset is a collection of 10 multi-turn CBT counseling di
 
 \begin{enumerate}
     \item \textbf{Turn-by-Turn Dialogue Generation.}
-    We simulate counseling sessions using a dual-LLM agentic role-play setup, following the structural principles of the CACTUS framework \cite{lee2024cactus}. A Client LLM (GPT-4o mini, configured with a resist persona) and a Therapist LLM (GPT-4o mini) interact turn by turn. In each turn, the client generates an utterance in response to the therapist's previous statement, and the therapist generates a CBT-oriented reply. The client persona introduces deliberate resistance---skepticism, questioning of advice, or reluctance to engage with therapeutic suggestions---to create the emotionally challenging conversational dynamics where dissonance detection is most valuable.
+    We simulate counseling sessions using a dual-LLM agentic role-play setup, following the structural principles of the CACTUS framework \cite{lee2024cactus}. A Client LLM (GPT-4o mini, configured with a resist persona) and a Therapist LLM (GPT-4o mini) interact turn by turn. In each turn, the client generates an utterance in response to the therapist's previous statement, and the therapist generates a CBT-oriented reply. The client persona introduces deliberate resistance, skepticism, questioning of advice, or reluctance to engage with therapeutic suggestions, to create the emotionally challenging conversational dynamics where dissonance detection is most valuable.
 
     \item \textbf{Vocal Parameter Assignment via Zonos Director LLM.}
     After each client utterance is generated, a separate Zonos Director LLM call assigns prosodic parameters to that utterance. The director receives the client's text and outputs a structured JSON specification containing: (a) an emotion vector with continuous values for Happiness, Sadness, Fear, Anger, and other affective dimensions (each in $[-1, 1]$), and (b) prosodic control parameters including speaking rate (10--25 range, e.g., \texttt{speaking\_rate: 15}) and pitch standard deviation (pitch\_std, 20--150 range, e.g., \texttt{pitch\_std: 100}). These director-assigned parameters specify the \emph{intended} vocal delivery and serve as control signals for the TTS engine; they are distinct from the post-hoc librosa measurements described in Phase~2, which capture the \emph{actual} acoustic realization. This step determines \emph{how} the utterance should sound, operating independently of the dialogue's textual content.
 
+The Zonos emotion vector is adapted from Paul Ekman's (1972) theory of seven basic emotions~\cite{ekman1972universals}, with two modifications to suit the requirements of a TTS synthesis pipeline. Ekman's original seven emotions are Happiness, Sadness, Anger, Fear, Disgust, Surprise, and Contempt. The Zonos engine retains six of these and makes two key adjustments:
+
+\begin{itemize}
+    \item \textbf{Contempt is omitted.} Contempt manifests primarily through facial micro-expressions and head posture (e.g., sneering, eye-rolling) rather than through distinctive vocal prosody. Its acoustic correlates are inconsistent across speakers and languages, making it a poor control dimension for TTS. Moreover, contempt is clinically low-relevance in a CBT therapeutic context: our focus is on distress-related affect, not social-moral judgment.
+    \item \textbf{Neutral and Other are added.} TTS synthesis requires a calibrated baseline state against which emotional deviation can be measured; hence \texttt{Neutral} serves as the zero-emotion reference point. \texttt{Other} functions as a practical catch-all for vocal qualities that do not map cleanly to any single discrete category (e.g., mixed affect, idiosyncratic prosodic styles, or ambiguous emotional blends).
+\end{itemize}
+
+Table~\ref{tab:zonos-emotions} summarizes the mapping between Ekman's basic emotions and the Zonos TTS emotion vector.
+
+\begin{table}[hbt!]
+\centering
+\caption{Mapping between Ekman's seven basic emotions and the Zonos TTS emotion vector}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\textbf{Ekman (1972)} & \textbf{Zonos TTS} & \textbf{Notes} \\ \hline
+Happiness & Happiness & Retained: positive-valence activation \\
+Sadness   & Sadness   & Retained: low-arousal negative affect \\
+Anger     & Anger     & Retained: high-arousal hostile affect \\
+Fear      & Fear      & Retained: high-arousal threat response \\
+Disgust   & Disgust   & Retained: revulsion, avoidance \\
+Surprise  & Surprise  & Retained: high-arousal orienting response \\
+Contempt  & --       & Dropped: weak vocal signature, low clinical relevance \\
+--       & Neutral   & Added: TTS baseline / resting state \\
+--       & Other     & Added: catch-all for unclassified affect \\
+\hline
+\end{tabular}%
+}
+\label{tab:zonos-emotions}
+\end{table}
+
     \item \textbf{Audio Synthesis via Zonos TTS.}
-    The vocal parameter specification is passed to the Zonos-v0.1-transformer TTS engine as direct control signals. Each utterance is synthesized with prosodic features---pitch, tempo, loudness, and emotional style---aligned to the intended psychological and emotional context, producing audio whose vocal delivery reflects the CBT-aligned emotional state specified by the director.
+    The vocal parameter specification is passed to the Zonos-v0.1-transformer TTS engine as direct control signals. Each utterance is synthesized with prosodic features, pitch, tempo, loudness, and emotional style, aligned to the intended psychological and emotional context, producing audio whose vocal delivery reflects the CBT-aligned emotional state specified by the director.
 
     \item \textbf{Post-Hoc Emotion Extraction.}
-    After synthesis, we extract emotional representations from both channels independently: text VA via vad-bert (Valence and Arousal regressed from the transcript) and speech VA via WavLM (Valence and Arousal predicted from the raw audio waveform). These extracted values---not the director-assigned parameters---serve as the emotional metadata for all therapist generation conditions and as the input to the dissonance computation described in Phase~4.
+    After synthesis, we extract emotional representations from both channels independently: text VA via vad-bert (Valence and Arousal regressed from the transcript) and speech VA via WavLM (Valence and Arousal predicted from the raw audio waveform). These extracted values, not the director-assigned parameters, serve as the emotional metadata for all therapist generation conditions and as the input to the dissonance computation described in Phase~4.
 \end{enumerate}
 
 The resulting dataset consists of multi-turn counseling dialogues where each client utterance is paired with: (1) its textual transcript, (2) text-derived VA values, (3) speech-derived VA values, (4) vocal prosodic descriptors (pitch, loudness, speaking rate) extracted from the audio waveform, and (5) synthesized audio via Zonos. This dataset serves as the controlled evaluation ground across the four therapist generation conditions, with only the therapist's prompt differing between conditions.
 
 \begin{figure}[hbt!]
     \centering
-    \includegraphics[width=\textwidth]{figures/framework_pipeline}
-    \caption{Overview of the full Luna AI Therapist pipeline. From dual-LLM turn-by-turn dialogue generation and Zonos Director parameter assignment, through Zonos TTS synthesis, to post-hoc text and speech VA extraction via vad-bert and WavLM, vocal descriptor extraction via librosa, dissonance computation, and finally four therapist generation conditions receiving different subsets of emotional metadata.}
+    \includegraphics[width=0.9\textwidth]{figures/framework_pipeline}
+    \caption{Overview of the full Luna AI Therapist pipeline: dual-LLM dialogue generation, Zonos TTS synthesis with director-assigned prosody, post-hoc text and speech VA extraction (vad-bert, WavLM), vocal descriptors (librosa), dissonance computation, and the four therapist generation conditions.}
     \label{fig:dataset-generation}
 \end{figure}
 
 % Figure 2: Preprocessing / feature extraction
 \begin{figure}[hbt!]
     \centering
-    \includegraphics[width=0.6\textwidth]{figures/preprocessing_pipeline}
+    \includegraphics[width=0.5\textwidth]{figures/preprocessing_pipeline}
     \caption{Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt{librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}
     \label{fig:preprocessing-pipeline}
 \end{figure}
@@ -68,14 +99,14 @@ For the Multimodal (Vocal-Aware) therapist condition, we extract raw acoustic fe
 \begin{itemize}
     \item \textbf{Pitch (F0).} Fundamental frequency is estimated via \texttt{librosa.piptrack}, yielding a pitch contour from which the mean F0 (ignoring unvoiced frames) is computed. This captures the overall pitch level of the utterance (e.g., higher pitch for anxious or distressed speech, lower pitch for flat or depressed delivery).
 
-    \item \textbf{Loudness (RMS).} Root-mean-square energy is computed via \texttt{librosa.feature.rms}, providing a measure of vocal intensity and dynamic range that reflects how forcefully or softly the speaker delivers the utterance.
+    \item \textbf{Loudness (RMS).} Root-mean-square energy is computed via \linebreak[0]\texttt{librosa.feature.rms}, providing a measure of vocal intensity and dynamic range that reflects how forcefully or softly the speaker delivers the utterance.
 
     \item \textbf{Speaking Rate.} Approximated as the number of words in the transcript divided by the audio duration in seconds, providing a coarse measure of speech tempo (slower rates often associated with sadness or fatigue; faster rates with anxiety or agitation).
 \end{itemize}
 
-These numerical measurements are mapped to human-readable natural-language descriptors using predefined threshold ranges. For example, pitch values are binned into categories (very low, low, moderate, high, very high), loudness into intensity levels (very quiet, soft-spoken, moderate volume, loud, very loud), and speaking rate into tempo descriptors (slow, moderate-paced, fast, very rapid). The resulting string---e.g., ``high pitch, soft-spoken, fast speech''---is injected as a \texttt{vocal\_descriptors} field into the Multimodal therapist prompt alongside the text and speech VA values.
+These numerical measurements are mapped to human-readable natural-language descriptors using predefined threshold ranges. For example, pitch values are binned into categories (very low, low, moderate, high, very high), loudness into intensity levels (very quiet, soft-spoken, moderate volume, loud, very loud), and speaking rate into tempo descriptors (slow, moderate-paced, fast, very rapid). The resulting string, e.g., ``high pitch, soft-spoken, fast speech'', is injected as a \texttt{vocal\_descriptors} field into the Multimodal therapist prompt alongside the text and speech VA values.
 
-Critically, these prosodic descriptors are \emph{extracted from the synthesized audio output} using signal processing---not from the director-assigned synthesis parameters described in Phase~1. While the Zonos Director LLM specifies intended vocal characteristics as control signals for the TTS engine (e.g., \texttt{speaking\_rate: 15}, \texttt{pitch\_std: 100}), the librosa-based extraction in this phase measures the \emph{actual acoustic realization} of those parameters in the final WAV file (e.g., \texttt{pitch: 180 Hz}, \texttt{RMS: 0.06}, \texttt{speaking rate: 3.2 w/s}). This distinction is important: the director's assignment represents a desired delivery style, whereas the librosa measurements reflect what the audio actually sounds like---including any fidelity loss or unintended variation introduced during synthesis. All subsequent multimodal therapist conditions (Multimodal and Dissonance-Aware) use these post-hoc extracted descriptors in their prompts, not the pre-synthesis director parameters.
+Critically, these prosodic descriptors are \emph{extracted from the synthesized audio output} using signal processing, not from the director-assigned synthesis parameters described in Phase~1. While the Zonos Director LLM specifies intended vocal characteristics as control signals for the TTS engine (e.g., \texttt{speaking\_rate: 15}, \texttt{pitch\_std: 100}), the librosa-based extraction in this phase measures the \emph{actual acoustic realization} of those parameters in the final WAV file (e.g., \texttt{pitch: 180 Hz}, \texttt{RMS: 0.06}, \texttt{speaking rate: 3.2 w/s}). This distinction is important: the director's assignment represents a desired delivery style, whereas the librosa measurements reflect what the audio actually sounds like, including any fidelity loss or unintended variation introduced during synthesis. All subsequent multimodal therapist conditions (Multimodal and Dissonance-Aware) use these post-hoc extracted descriptors in their prompts, not the pre-synthesis director parameters.
 
 
 \subsection{Phase 3: Emotional Feature Extraction from Text and Speech}
@@ -84,19 +115,19 @@ To enable multimodal emotion-aware therapist generation, we extract emotional re
 
 \begin{enumerate}
     \item \textbf{Text-Based Emotion (VA).}
-    Each client utterance is processed through a pre-trained VAD-BERT model (RobroKools/vad-bert) that regresses continuous Valence--Arousal values from text. The raw output (originally in the 1--5 range) is normalized to $[-1, +1]$ for both Valence ($V_{\text{text}}$) and Arousal ($A_{\text{text}}$), providing a compact emotional representation of the semantic content.
+    Each client utterance is processed through a pre-trained VAD-BERT model that regresses continuous Valence--Arousal values from text. The raw output (originally in the 1--5 range) is normalized to $[-1, +1]$ for both Valence ($V_{\text{text}}$) and Arousal ($A_{\text{text}}$), providing a compact emotional representation of the semantic content.
 
     \item \textbf{Speech-Based Emotion (VA).}
-    The corresponding synthesized audio is processed through a WavLM-based speech emotion model (3loi/SER-Odyssey-Baseline-WavLM-Multi-Attributes) that predicts Valence ($V_{\text{speech}}$) and Arousal ($A_{\text{speech}}$) from the acoustic signal. WavLM captures prosodic patterns including pitch contour, energy, and temporal dynamics learned from large-scale emotional speech data, outputting normalized values in $[-1, +1]$.
+    The corresponding synthesized audio is processed through a WavLM-based speech emotion model that predicts Valence ($V_{\text{speech}}$) and Arousal ($A_{\text{speech}}$) from the acoustic signal. WavLM captures prosodic patterns including pitch contour, energy, and temporal dynamics learned from large-scale emotional speech data, outputting normalized values in $[-1, +1]$.
 
     \item \textbf{Vocal Prosodic Descriptors (for Vocal-Aware condition).}
-    In parallel, raw acoustic features---pitch mean (F0), loudness (RMS energy), and speaking rate (words per second)---are extracted from the audio waveform using the \texttt{librosa} library. These numerical values are converted into natural-language contextual descriptors (e.g., ``high pitch, soft-spoken, fast speech'') and are used exclusively in the Multimodal (Vocal-Aware) therapist condition described in Phase~5.
+    In parallel, raw acoustic features, pitch mean (F0), loudness (RMS energy), and speaking rate (words per second), are extracted from the audio waveform using the \texttt{librosa} library. These numerical values are converted into natural-language contextual descriptors (e.g., ``high pitch, soft-spoken, fast speech'') and are used exclusively in the Multimodal (Vocal-Aware) therapist condition described in Phase~5.
 \end{enumerate}
 
 
 \subsection{Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}
 
-To complement the continuous VA representation with interpretable discrete emotion labels---enabling direct comparison between the client's verbal and vocal emotional states---we map each VA pair to one of nine discrete emotion categories using Russell's (1980) circumplex model of affect \cite{russell1980circumplex}.
+To complement the continuous VA representation with interpretable discrete emotion labels, enabling direct comparison between the client's verbal and vocal emotional states, we map each VA pair to one of nine discrete emotion categories using Russell's (1980) circumplex model of affect \cite{russell1980circumplex}.
 
 The circumplex model arranges emotions in a two-dimensional circular space where the angular position is determined by $\theta = \text{atan2}(A, V)$. The plane is divided into eight $45^{\circ}$ sectors, each centered on a canonical discrete emotion, plus a central Neutral region when both $|V| < 0.15$ and $|A| < 0.15$:
 
@@ -127,6 +158,7 @@ Table~\ref{tab:condition-features} summarizes which emotional features are avail
 \begin{table}[hbt!]
 \centering
 \caption{Feature access matrix across the four therapist generation conditions}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lccccccc}
 \hline
 \textbf{Condition} & \textbf{Transcript} & \textbf{Text VA} & \textbf{Text Disc.} & \textbf{Speech VA} & \textbf{Speech Disc.} & \textbf{Vocal Desc.} & \textbf{Dissonance} \\
@@ -136,7 +168,8 @@ Emotion (Text-Only)& $\checkmark$ & $\checkmark$ & $\checkmark$ & -- & -- & -- &
 Multimodal (Vocal) & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & -- \\
 Dissonance-Aware   & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ & $\checkmark$ \\
 \hline
-\end{tabular}
+\end{tabular}%
+}
 \label{tab:condition-features}
 \end{table}
 
@@ -159,12 +192,12 @@ A binary dissonance flag is set when the absolute difference in either dimension
     \end{cases}
 \end{equation}
 
-When the client's vocal tone and verbal content point in different emotional directions---for example, text suggests ``I'm fine'' but voice sounds tense, flat, or highly aroused---the dissonance flag signals a potential moment of \textbf{hidden affect}, where the client may be minimizing distress, masking emotion, or expressing a more complex inner state than words alone reveal. Critically, this signal is used therapeutically rather than forensically: it guides the therapist toward gentle exploration of unspoken feelings, not toward detecting deception.
+When the client's vocal tone and verbal content point in different emotional directions, for example, text suggests ``I'm fine'' but voice sounds tense, flat, or highly aroused, the dissonance flag signals a potential moment of \textbf{hidden affect}, where the client may be minimizing distress, masking emotion, or expressing a more complex inner state than words alone reveal. Critically, this signal is used therapeutically rather than forensically: it guides the therapist toward gentle exploration of unspoken feelings, not toward detecting deception.
 
 
 \subsection{Phase 5: Multimodal Therapist Response Generation}
 
-We implement four therapist generation conditions to isolate the contribution of each emotional signal type. All conditions use the same LLM (GPT-4o mini) with identical CBT-oriented system instructions, differing only in the emotional metadata provided in the prompt. Therapist responses are generated turn by turn within each multi-turn dialogue, maintaining full conversation history across turns.
+We implement four therapist generation conditions to isolate the contribution of each emotional signal type. All conditions use the same LLM (GPT-4o mini) with identical CBT-oriented system instructions, differing only in the emotional metadata provided in the prompt. Therapist responses are generated turn by turn within each multi-turn dialogue. Conversational continuity is maintained through the client LLM, which conditions each new utterance on the therapist's previous response; the therapist LLM receives the full conversation history alongside the current client utterance and its assigned emotional metadata.
 
 \begin{enumerate}
     \item \textbf{Baseline (Text-Only).}
@@ -177,7 +210,7 @@ We implement four therapist generation conditions to isolate the contribution of
     The therapist receives the dialogue transcript, text VA, speech VA ($V_{\text{speech}}, A_{\text{speech}}$), and vocal prosodic descriptors (pitch, loudness, speaking rate expressed as natural language). However, \emph{no explicit dissonance computation is performed}. This condition tests whether adding vocal cues without mismatch reasoning improves therapeutic quality over text-only emotion information, serving as the text+speech baseline.
     
     \item \textbf{Dissonance-Aware.}
-    The therapist receives the dialogue transcript, text VA, speech VA, and the computed dissonance signal ($\delta_V, \delta_A$, \texttt{is\_dissonant}). When dissonance is high, the system prompt instructs the therapist to gently explore potential emotional mismatch---reflecting what might be ``under the surface'' through curious, non-judgmental questions such as ``I wonder if part of you feels more scared or sad than the words suggest?'' This is the primary experimental condition.
+    The therapist receives the dialogue transcript, text VA, speech VA, and the computed dissonance signal ($\delta_V, \delta_A$, \texttt{is\_dissonant}). When dissonance is high, the system prompt instructs the therapist to gently explore potential emotional mismatch, reflecting what might be ``under the surface'' through curious, non-judgmental questions such as ``I wonder if part of you feels more scared or sad than the words suggest?'' This is the primary experimental condition.
 \end{enumerate}
 
 
@@ -187,7 +220,7 @@ Drawing on the MIRROR framework for multimodal cognitive reframing therapy \cite
 
 \begin{enumerate}
     \item \textbf{Client Resistance Persona.}
-    To test whether dissonance-aware prompting improves therapeutic handling of difficult moments, the client LLM is configured with a \emph{resist persona}. The client may partially resist reframing suggestions, question therapeutic advice, express doubts, or articulate obstacles to change (e.g., ``I don't think that will work for me,'' ``It's hard because...''). This deliberate resistance creates conversational moments where the gap between what the client explicitly says and what they implicitly feel becomes particularly salient---precisely the scenario where emotional dissonance detection should provide the greatest benefit for a therapist.
+    To test whether dissonance-aware prompting improves therapeutic handling of difficult moments, the client LLM is configured with a \emph{resist persona}. The client may partially resist reframing suggestions, question therapeutic advice, express doubts, or articulate obstacles to change (e.g., ``I don't think that will work for me,'' ``It's hard because...''). This deliberate resistance creates conversational moments where the gap between what the client explicitly says and what they implicitly feel becomes particularly salient, precisely the scenario where emotional dissonance detection should provide the greatest benefit for a therapist.
     
     \item \textbf{Automated Evaluation Protocol.}
     Following the MIRROR evaluation framework, we employ GPT-4o as a zero-shot judge to rate each full dialogue session on seven quantitative metrics spanning three evaluation dimensions:
@@ -196,7 +229,7 @@ Drawing on the MIRROR framework for multimodal cognitive reframing therapy \cite
         \item \textbf{Client Alliance:} Affective Bond (1--5), assessing the degree of emotional connection, trust, and empathy fostered by the therapist.
         \item \textbf{Cognitive Therapy Rating Scale (CTRS):} Collaboration, Guided Discovery, Focus, and Strategy (each 0--6), evaluating CBT-specific therapeutic competencies.
     \end{itemize}
-    Scores are averaged across 10 independently generated dialogues for each of the four therapist conditions, yielding a comparative assessment of how emotional metadata---and specifically the explicit dissonance signal---affects measurable therapeutic response quality. The full results are presented in Chapter~5.
+    Scores are averaged across 10 independently generated dialogues for each of the four therapist conditions, yielding a comparative assessment of how emotional metadata, and specifically the explicit dissonance signal, affects measurable therapeutic response quality. The full results are presented in Chapter~5.
 \end{enumerate}
 
 

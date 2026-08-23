@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I've been feeling really overwhelmed at my new job. Last week, my colleague pointed out some mistakes I made during a team meeting, and now I can't stop thinking about it. I'm worried I'm not cut out for this role, and I’m not sure if talking about it will actually help—it feels like I just need to figure it out on my own.",
+    "therapist": "It sounds like this experience has been weighing heavily on you, and it’s natural to feel overwhelmed when starting something new. I hear you questioning whether you’re suited for this role, but I wonder if there’s room to consider that making mistakes doesn’t mean you’re not capable—it might just mean you’re still learning. What do you think might help you feel more confident in navigating these challenges?",
+    "condition": "baseline",
+    "val_t": -0.3075716495513916,
+    "aro_t": 0.22608518600463867,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I get what you're saying about learning from mistakes, but it's hard to shake this constant fear that I'm just not good enough. Even small errors at work make me feel like a fraud, like they're proof I don't belong there. I've tried positive self-talk before, but it always feels fake to me - like I'm just lying to myself.",
+    "therapist": "It makes sense that simply telling yourself positive things would feel inauthentic when there's such a deep fear of not measuring up. The way you describe this \"fraud\" feeling makes me wonder how long you've been carrying this belief about not being good enough—do you think it started before this job?",
+    "condition": "baseline",
+    "val_t": -0.2374267578125,
+    "aro_t": 0.14408624172210693,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, it definitely started before this job. I remember feeling like I wasn't good enough even in school, like I was always just scraping by and everyone else had it together. It’s like no matter what I do, I can’t shake this feeling that I’m not really capable, and people are going to find out eventually. It’s exhausting.",
+    "therapist": "It sounds like this belief has been with you for a long time, and I can imagine how exhausting it must be to constantly feel like you're just barely keeping up. I wonder if part of what makes this so hard is that it feels like everyone else has it together, but do you think it's possible that others might also be struggling in ways that aren't always visible?",
+    "condition": "baseline",
+    "val_t": -0.21798193454742432,
+    "aro_t": 0.23594653606414795,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it’s hard to believe others are struggling as much as I am. When I scroll through social media or see people at work, they all seem so confident and put together. It makes me feel even more like I’m failing or falling behind. I know logically that people don’t show their struggles, but it doesn’t stop me from feeling isolated and inadequate.",
+    "therapist": "It’s understandable that seeing others appear so confident would amplify those feelings of isolation and inadequacy—comparison can be especially painful when we’re already feeling vulnerable. It sounds like you’re aware that social media and public personas don’t always reflect reality, but the emotions still feel so real. What do you think might help you shift from comparing yourself to others to focusing on your own progress, even if it’s small?",
+    "condition": "baseline",
+    "val_t": -0.22388935089111328,
+    "aro_t": 0.12075662612915039,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I know logically that social media isn’t real, but it’s hard to shake the feeling that everyone else has it together while I’m struggling. Even small progress feels insignificant when I see people achieving so much. I’m not sure how to stop comparing myself—it’s like my brain automatically jumps to it, even when I try to focus on my own journey.",
+    "therapist": "It sounds like this comparison happens almost automatically, and it’s frustrating when you’re trying to focus on your own path but still feel pulled into those thoughts. I wonder if there’s a way to gently challenge this automatic comparison by asking yourself, “What would I say to a friend who felt this way?” How might that shift your perspective on your own journey?",
+    "condition": "baseline",
+    "val_t": -0.0627431869506836,
+    "aro_t": 0.10310745239257812,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about treating myself like I would a friend, but it's hard to actually do that in the moment. When I see my friends succeeding, I can be happy for them, but then I immediately feel worse about myself - like their success highlights my own failures. The comparison just feels so automatic and painful.",
+    "therapist": "It makes sense that this comparison feels automatic and painful—it sounds like you're caught between genuinely wanting to celebrate others while also feeling it reflects poorly on yourself. I wonder if there's space to acknowledge both feelings: the happiness for your friends *and* the sadness or frustration you might be carrying about your own journey. What do you think might help you hold both those feelings at once without one canceling out the other?",
+    "condition": "baseline",
+    "val_t": -0.24804842472076416,
+    "aro_t": 0.0931631326675415,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about holding both feelings, but it's so hard in the moment. When I see my friends hitting milestones like getting married or buying houses, the happy-for-them feeling gets completely drowned out by this wave of \"why not me?\" It makes me feel like a terrible friend, which just adds guilt to the mix. \n\nI've tried journaling about it before, but then I just end up rereading my entries and feeling worse about myself. Like I'm documenting all the ways I'm falling behind.",
+    "therapist": "It sounds like this cycle of comparison, guilt, and self-criticism has become really overwhelming—almost like no matter what you try, it circles back to feeling like you're not measuring up. I hear how painful that is, especially when it affects your relationships too. What do you think might happen if you approached those journal entries with curiosity rather than judgment, like you're observing the patterns instead of proving yourself \"wrong\"?",
+    "condition": "baseline",
+    "val_t": -0.34388601779937744,
+    "aro_t": 0.10926711559295654,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about observing instead of judging, but whenever I read my old journal entries I just feel this hot wave of shame. Like, \"How could I think that way?\" or \"I should know better by now.\" It's hard to imagine stepping back from that, because the flaws feel so obvious and personal.",
+    "therapist": "It sounds like that shame comes on so quickly and intensely—it must feel impossible to step back when the self-criticism feels so immediate and true. I wonder if you’ve noticed any moments, even small ones, where the shame *didn’t* take over completely—what was different about those times?",
+    "condition": "baseline",
+    "val_t": -0.29780519008636475,
+    "aro_t": 0.12156403064727783,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "Hmm, I guess there was one time last week when I made a mistake at work and my boss pointed it out, but I didn't spiral like usual. I still felt bad, but it wasn't as intense. I think maybe because I was really focused on fixing the problem right away instead of dwelling on it. But that feels like such a rare exception—most times the shame just crashes over me like a wave.",
+    "therapist": "It’s really meaningful that you noticed this difference—that focusing on solving the problem seemed to soften the shame’s grip, even if just a little. I wonder what it would be like to explore that exception further—what do you think helped you stay grounded in problem-solving mode that time, instead of getting pulled under by the wave?",
+    "condition": "baseline",
+    "val_t": -0.2570347785949707,
+    "aro_t": 0.13125085830688477,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think what helped was that I was really focused on finding a solution—I didn't have time to spiral into shame. But I'm not sure I can recreate that on purpose. It feels like it was just a lucky moment, not something I can control.",
+    "therapist": "It sounds like you’re hesitant to trust that moment because it felt accidental rather than intentional—but even noticing that difference is a meaningful insight. What if you experimented with creating small, intentional moments like that—maybe by setting a timer for 5 minutes of focused problem-solving when shame starts to creep in? How does that idea land for you?",
+    "condition": "baseline",
+    "val_t": -0.020525813102722168,
+    "aro_t": 0.12131381034851074,
+    "text_emotion": "Neutral"
+  }
+]

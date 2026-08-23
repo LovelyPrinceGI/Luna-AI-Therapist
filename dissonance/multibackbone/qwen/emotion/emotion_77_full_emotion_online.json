@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately with my new role at work. Ever since I got the promotion, I feel like I'm drowning in responsibilities and constantly doubting whether I'm capable of handling it all. I know I should be grateful, but it's just so overwhelming.",
+    "therapist": "Hi there, it sounds like you're really going through a tough time with this new role. It’s completely understandable to feel overwhelmed and doubt yourself when there’s so much on your plate. Can you tell me more about what specifically makes you feel like you’re drowning in responsibilities?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12702977657318115,
+    "aro_t": 0.17375004291534424,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, it's just that there's so much to do and I feel like I don't have enough time or resources to handle it all. Every day, I wake up with a list of tasks that seems to grow longer, and I can't help but feel like I'm failing at everything. It's hard to see a way out of this cycle.",
+    "therapist": "It sounds really challenging, and it’s completely understandable to feel that way when the demands seem to outpace your resources. It’s important to acknowledge that you’re doing the best you can, and it’s okay to feel overwhelmed. Have you had a chance to talk to anyone at work about these feelings, or perhaps break down some of those tasks into more manageable pieces?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27810657024383545,
+    "aro_t": 0.13916254043579102,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's just hard because I feel like I'm supposed to handle everything on my own, and I don't want to come across as incompetent if I ask for help. Breaking down tasks sounds good in theory, but it feels like everything is interconnected and overwhelming. I don't think anyone at work really understands how much I'm struggling.",
+    "therapist": "I can really understand how tough it must be to feel like you’re on your own and worry about how others might perceive you. It’s a common fear, and it’s brave of you to be so open about it. Have you considered reaching out to a trusted colleague or mentor who might be able to offer some support or perspective? Sometimes just sharing your thoughts can help lighten the load and provide new insights.",
+    "condition": "emotion_text_only",
+    "val_t": -0.13443219661712646,
+    "aro_t": 0.2127145528793335,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just hard because I feel like everyone is so busy with their own stuff, and I don't want to burden anyone. Plus, I'm not sure they would really understand what I'm going through.",
+    "therapist": "I completely understand how isolating and challenging that can feel. It’s natural to worry about burdening others, especially when everyone seems busy. It’s important to remember that reaching out doesn’t always have to be about solving everything at once; sometimes, just sharing your feelings can make a big difference. Have you thought about writing down your thoughts or feelings to help process them, or perhaps finding a safe space to vent, even if it’s just a journal or a trusted friend outside of work?",
+    "condition": "emotion_text_only",
+    "val_t": -0.012499451637268066,
+    "aro_t": 0.10621511936187744,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, Luna. Writing things down sounds like a good idea, but it's hard for me because I often feel like I don't even know what to say. It feels like my thoughts are all jumbled up, and I worry that putting them on paper won't make them any clearer.",
+    "therapist": "It’s completely understandable to feel that way, and it’s okay to struggle with putting your thoughts into words. Sometimes, just the act of writing can help untangle those jumbled thoughts, even if it feels messy at first. You could start by jotting down whatever comes to mind, even if it’s just a few words or phrases. How do you think it might feel to give that a try, even for just a few minutes a day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11683368682861328,
+    "aro_t": 0.09323632717132568,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I know writing can be helpful, but it's hard for me to sit down and do it consistently. I often feel like I don't have anything valuable to write about, and it just ends up feeling like a chore. I'll try it, but I'm not sure how long I can keep it up.",
+    "therapist": "I completely understand how that can feel, and it’s totally normal to struggle with consistency and motivation. Writing doesn’t have to be a chore; it can be as simple as a few notes about your day or how you’re feeling. Maybe you could set a small, manageable goal, like writing for just five minutes a day, and see how it goes. What do you think might make it feel more manageable or less like a task to complete?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03967750072479248,
+    "aro_t": 0.09373283386230469,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, but it still feels like a lot to ask of myself, even just five minutes. I guess I worry that I'll start small and then feel guilty if I don't do more. It's hard because I already struggle with feeling like I'm not doing enough in other areas of my life.",
+    "therapist": "I can really understand how that worry about feeling guilty can add to the pressure. It’s important to be kind to yourself and recognize that even a small step can be valuable. Maybe we can think of it as a way to check in with yourself, rather than a task to complete. How about starting with just a quick note or two when you feel like it, without setting a specific time limit? What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23067831993103027,
+    "aro_t": 0.10418081283569336,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the idea of being kind to myself, but I still worry that even a quick note might feel like another thing on my to-do list. I guess I can try it, but I'm not sure how often I'll actually do it, you know? It's hard because I tend to feel guilty even when I do something for myself.",
+    "therapist": "I understand how challenging it can be to add even one more thing to your list, and it’s completely normal to feel that way. It’s important to recognize that taking care of yourself, even in small ways, is not a luxury but a necessity. Maybe we can think of this as a gentle reminder to pause and check in with yourself, rather than another task. How about starting with just a mental note or a quick thought to yourself whenever you have a moment? What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2324749231338501,
+    "aro_t": 0.05452406406402588,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, and I really do want to try, but it feels like even a mental note is one more thing to remember, and my mind is already so cluttered. It's hard to find the space to pause when every moment feels like it’s already filled with anxiety and responsibilities.",
+    "therapist": "I can see how overwhelming it must feel to have your mind so cluttered with anxiety and responsibilities. It’s completely understandable to feel like there’s no space to add even a small pause. Maybe we can think of this pause as a brief moment of breathing room, a chance to take a deep breath and reset, rather than another thing to remember. How does that feel to you? Could you imagine finding just one small moment in your day to take a deep breath and notice how you’re feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2311626672744751,
+    "aro_t": 0.24964213371276855,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, but it feels like even a small pause is one more thing I have to remember to do. I worry that I’ll just end up feeling guilty if I can't manage it, and that adds to my anxiety. It’s hard to find that space when every moment feels like it’s already accounted for.",
+    "therapist": "I can really see how much you’re struggling with feeling like every moment is already filled, and adding even a small pause feels like one more thing to manage. It’s completely understandable to worry about feeling guilty or adding to your anxiety. How about if we focus on just noticing when you naturally take a break, like when you’re waiting for the kettle to boil or during a brief walk? Can you think of any moments like that in your day where you might be able to take a deep breath and check in with yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.295894980430603,
+    "aro_t": 0.17942440509796143,
+    "text_emotion": "Angry"
+  }
+]

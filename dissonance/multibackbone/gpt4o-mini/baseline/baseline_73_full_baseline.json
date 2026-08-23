@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately, especially with family gatherings. After losing my grandmother two months ago, I just can't seem to enjoy being around everyone without feeling this intense sadness. It's like her absence is a dark cloud hanging over every moment, and I often wonder if therapy can actually help me work through this.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it's completely understandable to feel intense sadness during family gatherings, especially when her absence is so palpable. It's natural to question the effectiveness of therapy during such a difficult time, but it can provide a space to explore and process these feelings. What are some specific thoughts that come to mind when you’re at these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.41170966625213623,
+    "aro_t": 0.09600043296813965,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "When I'm at family gatherings, I often feel this heavy weight in my chest, like everyone else is moving on and I'm stuck in my grief. I think about how much my grandmother loved these occasions, and it just makes the absence feel even bigger. I also worry that if I talk about her, people might think I'm dwelling on the past or being a downer.",
+    "therapist": "It sounds incredibly heavy to feel that weight in your chest and to worry about how others might perceive your grief. Your feelings of being stuck while everyone else seems to be moving on are valid, and it's okay to honor your grandmother's memory in whatever way feels right to you. What do you think would happen if you shared your feelings or memories of her with your family?",
+    "condition": "baseline",
+    "val_t": -0.34383952617645264,
+    "aro_t": 0.07015681266784668,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that my feelings are valid, but I really worry about how my family might react. I feel like they’ve already moved on, and sharing my grief might just bring up a lot of awkwardness or even frustration. It’s hard for me to imagine them being supportive when they seem so far removed from what I'm feeling.",
+    "therapist": "It's understandable to feel apprehensive about how your family might react, especially when you perceive them as having moved on. Your concern about creating awkwardness or frustration is valid, but it’s also possible that they may be feeling their own grief and would appreciate the opportunity to connect. Have you thought about any small ways you could express your feelings or memories that might feel less overwhelming for both you and them?",
+    "condition": "baseline",
+    "val_t": -0.2008991241455078,
+    "aro_t": 0.11939704418182373,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but I really doubt that my family would want to hear what I have to say. It feels like they’ve moved on, and I’m just stuck in this place of sadness. Even if I wanted to share, I wouldn’t know how to do it without making things awkward or bringing up painful memories for everyone.",
+    "therapist": "It makes sense that you’d feel hesitant to bring up your feelings, especially if you believe your family has moved on and you’re afraid of making things awkward. It’s tough to navigate grief when it feels like you're on a different timeline than those around you. What if you considered sharing a fond memory of your grandmother instead, as a way to gently open the door to conversation without putting pressure on yourself or them?",
+    "condition": "baseline",
+    "val_t": -0.28399336338043213,
+    "aro_t": 0.13318955898284912,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate what you're saying, but I'm not sure sharing a memory would really help. It feels like I’d be drawing attention to something that everyone else is trying to move past. Plus, what if they don't want to talk about her at all? It just makes me anxious thinking about it.",
+    "therapist": "It’s completely understandable to feel anxious about drawing attention to something that feels so painful, especially when you sense that others might want to move past it. Your feelings of wanting to protect yourself and your family from more grief are valid. What do you think would help you feel a bit more comfortable in these gatherings, given your concerns about sharing?",
+    "condition": "baseline",
+    "val_t": -0.13817310333251953,
+    "aro_t": 0.1962144374847412,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you understand where I'm coming from, but honestly, I still feel really anxious about these gatherings. It feels like everyone else is just moving on, and I'm stuck in this place of grief. I don't know how to bring it up without feeling like I'm dragging everyone down or making them uncomfortable.",
+    "therapist": "It’s completely natural to feel anxious about these gatherings, especially when you perceive that others are moving on while you’re still processing your grief. Your concern about potentially dragging others down highlights your thoughtfulness and care for your family’s feelings. What if you took a moment for yourself during these gatherings to acknowledge your feelings privately, perhaps by writing them down or stepping outside for a breath of fresh air? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.379111647605896,
+    "aro_t": 0.26204562187194824,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that you understand my anxiety about these gatherings, but I’m not sure if stepping outside or writing things down would really help me in the moment. When I'm there, it feels like all the emotions are just swirling around, and I can't find a way to pause and process anything. Plus, I'm worried that if I take a break, people will notice and think something's wrong with me, which makes me even more anxious.",
+    "therapist": "It sounds really overwhelming to feel like your emotions are swirling and to worry about how others might perceive you if you take a moment for yourself. It’s perfectly okay to need space to process your feelings, but I can see how the fear of drawing attention could add to your anxiety. What might it look like for you to create a small, quiet ritual or grounding technique that you could use discreetly during these gatherings to help you feel a bit more centered?",
+    "condition": "baseline",
+    "val_t": -0.2738981246948242,
+    "aro_t": 0.20134198665618896,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate what you're saying, but creating a ritual feels a bit daunting. I often worry that if I take a moment for myself, people will notice and judge me for it. Plus, I don’t even know what kind of technique would work for me; it just feels like another thing to think about on top of everything else.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of creating a ritual, especially when you’re already managing so much. Your concerns about being noticed or judged are valid, and it’s okay to feel uncertain about what might help. What if you focused on something very simple, like taking a few deep breaths when you feel overwhelmed? How does that feel as a potential starting point for you?",
+    "condition": "baseline",
+    "val_t": -0.0271146297454834,
+    "aro_t": 0.13682925701141357,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you're saying about starting simple with deep breaths, but honestly, I don't know if that would help me. When I'm overwhelmed, it feels like my mind is racing, and I can't focus on something like breathing. Plus, there's this nagging feeling that if I try it and it doesn't work, I'll just end up feeling more frustrated.",
+    "therapist": "It’s completely understandable to feel frustrated at the thought of trying something that might not work, especially when your mind is racing and you're feeling overwhelmed. It can be challenging to find a moment of calm in those situations. Instead of focusing on one specific technique, would you be open to exploring a few different options together so you can find something that feels more natural and fitting for you?",
+    "condition": "baseline",
+    "val_t": -0.3054671287536621,
+    "aro_t": 0.26534807682037354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're trying to help me find something that fits, but honestly, I feel stuck. My mind is so chaotic that even thinking about exploring options feels overwhelming. What if I try something and it just adds to the pressure I’m already feeling?",
+    "therapist": "It sounds like you’re feeling really stuck and overwhelmed right now, which is completely understandable given everything you’re going through. The pressure to find a solution can be exhausting, especially when your mind is racing. What if we took a step back and focused on simply acknowledging those chaotic feelings for a moment, without the need to find a solution right away? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.1799074411392212,
+    "aro_t": 0.28616273403167725,
+    "text_emotion": "Angry"
+  }
+]

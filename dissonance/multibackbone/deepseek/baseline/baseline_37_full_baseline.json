@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I’ve been feeling really guilty lately because my partner keeps saying I’m never around. I know they’re right—I’ve been working late almost every night—but I don’t know how to fix it without risking my job. Part of me worries therapy won’t help because the real problem is just that there aren’t enough hours in the day.",
+    "therapist": "I hear how torn you feel between meeting your partner’s needs and your work responsibilities—that’s a really tough spot to be in. Let’s explore what thoughts come up when you imagine setting boundaries at work—what do you worry might happen?",
+    "condition": "baseline",
+    "val_t": -0.3648364543914795,
+    "aro_t": 0.11528646945953369,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I worry that if I set boundaries at work, my boss will think I'm not committed enough. And then when I do stay late to meet deadlines, I feel guilty about canceling plans with my partner again. It's like I can't win either way.",
+    "therapist": "It sounds like you're caught between two fears—letting your boss down and disappointing your partner. What would it feel like to explore whether these worries are based on facts or assumptions?",
+    "condition": "baseline",
+    "val_t": -0.35231852531433105,
+    "aro_t": 0.09003865718841553,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I know logically that my boss has never actually said anything negative about my work, but I still feel like I'm one mistake away from getting fired. And with my partner, it's more this nagging feeling that I'm not present enough when we're together because my mind is always on work. \n\nI don't know if exploring assumptions will help because even if they're not based on facts, the anxiety feels so real in the moment. Like my body reacts before my brain can think rationally.",
+    "therapist": "You're describing that powerful mind-body connection where anxiety can feel overwhelming before logic has a chance to catch up. Would it help to explore some grounding techniques for those moments when the physical anxiety hits?",
+    "condition": "baseline",
+    "val_t": -0.22456252574920654,
+    "aro_t": 0.3021414279937744,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know... I've tried breathing exercises before and they just made me feel more anxious because I couldn't do them \"right.\" My chest gets so tight during those moments that focusing on my breath actually makes me more aware of how panicked I feel. Maybe my anxiety is just too strong for those kinds of techniques to work.",
+    "therapist": "I hear how frustrating it's been when breathing exercises haven't worked—it makes sense that focusing on your breath might amplify the anxiety when you're already feeling panicked. Would you be open to trying a different approach, like grounding through your senses or movement instead?",
+    "condition": "baseline",
+    "val_t": -0.25789928436279297,
+    "aro_t": 0.30616867542266846,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess I could try something different, but I don't know if it'll help. When I'm really anxious, even small things like noticing my surroundings feel overwhelming. What if I try it and just feel worse?",
+    "therapist": "It's completely understandable to feel hesitant when previous attempts haven't worked—that fear of feeling worse is very real. What if we started with something very simple, like keeping a textured object in your pocket to focus on when anxiety hits, rather than trying to notice everything around you at once?",
+    "condition": "baseline",
+    "val_t": -0.2818719148635864,
+    "aro_t": 0.14658987522125244,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I could try carrying something like a smooth stone or a worry stone. But I'm worried I'll just forget it's there when I really need it. My anxiety comes on so strong sometimes that I don't think I'll remember to reach for it.",
+    "therapist": "That's a valid concern—anxiety can make it hard to remember coping tools in the moment. What if we paired the stone with something you already do daily, like checking your phone, to help build the habit before the anxiety hits?",
+    "condition": "baseline",
+    "val_t": -0.3105560541152954,
+    "aro_t": 0.13545286655426025,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying about pairing it with checking my phone, but my anxiety spikes are so unpredictable. Sometimes I'll be fine checking my phone all day, then suddenly get hit with panic when I'm not even near it. It feels like the stone would just become another thing I forget about when I need it most.",
+    "therapist": "It sounds like you're looking for something that can meet you in those unpredictable moments of panic. What if we explored creating a simple visual reminder—maybe a small dot on your hand—that could prompt you to check in with yourself throughout the day?",
+    "condition": "baseline",
+    "val_t": -0.23830485343933105,
+    "aro_t": 0.2694660425186157,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know... that seems too simple to actually help when I'm spiraling. When the panic hits, it feels like my whole world is crashing down - how is a dot supposed to stop that? Plus, I'd probably just ignore it when I'm really anxious because everything feels so overwhelming then.",
+    "therapist": "I hear how overwhelming those panic moments feel—like nothing could possibly break through that intensity. What if we reframe the dot not as a solution, but as a gentle invitation to pause and notice what's happening before the spiral takes over completely?",
+    "condition": "baseline",
+    "val_t": -0.3060804605484009,
+    "aro_t": 0.3028448820114136,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about pausing before the spiral, but in the moment it feels impossible. My thoughts race so fast that even trying to notice them makes me more anxious. What if the pause just gives the panic more time to build?",
+    "therapist": "It makes complete sense that trying to pause feels counterintuitive when your mind is racing—that urgency to \"do something\" can feel overwhelming. What if instead of trying to stop the thoughts, we practiced simply observing them like clouds passing by, without needing to change them right away?",
+    "condition": "baseline",
+    "val_t": -0.19711315631866455,
+    "aro_t": 0.22113776206970215,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about observing thoughts like clouds, but when my anxiety spikes, it feels impossible to just watch them pass. The thoughts feel so urgent and real, like alarms going off that I have to respond to immediately. It's frustrating because part of me knows they're just thoughts, but in the moment they completely take over.",
+    "therapist": "I hear how those urgent thoughts demand your full attention—it's incredibly difficult to step back when they feel so loud and immediate. What if we explored how to create just a tiny bit of space between you and those alarm-like thoughts, perhaps by giving them a silly voice or imagining them as pushy telemarketers?",
+    "condition": "baseline",
+    "val_t": -0.13087904453277588,
+    "aro_t": 0.2460261583328247,
+    "text_emotion": "Angry"
+  }
+]

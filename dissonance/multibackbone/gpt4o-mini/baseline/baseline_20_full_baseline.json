@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed lately because of these unexpected medical bills from my recent surgery. It’s like I can’t catch a break, and every time I think about my finances, I get this knot in my stomach. I’m starting to wonder if therapy can really help me deal with this anxiety about my future stability.",
+    "therapist": "It sounds like you're feeling a heavy weight from these unexpected medical bills, and it's completely understandable to feel anxious about your financial stability. Acknowledging that knot in your stomach is important; it shows just how much this situation is affecting you. What are some specific thoughts that come to mind when you think about your future stability?",
+    "condition": "baseline",
+    "val_t": -0.298612117767334,
+    "aro_t": 0.263156533241272,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I can't help but feel overwhelmed when I think about my future. I keep imagining all these worst-case scenarios, like not being able to pay my rent or having to choose between essentials. It's hard to shake the anxiety because it feels like there’s this constant pressure hanging over me, and I don't know how to manage it.",
+    "therapist": "It's completely normal to feel overwhelmed when facing uncertainty about the future, and those worst-case scenarios can create a lot of pressure. It’s important to recognize that when we focus on these thoughts, they can amplify our anxiety. Can we take a moment to explore what evidence exists for and against these worst-case scenarios?",
+    "condition": "baseline",
+    "val_t": -0.27952802181243896,
+    "aro_t": 0.3213714361190796,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, but it's tough for me to just brush aside those worst-case scenarios. They feel so real and possible, and I can't help but think about everything that could go wrong. Even if I try to find evidence against them, it feels like my mind is just stuck on the negatives, which makes me even more anxious.",
+    "therapist": "I hear you, and it’s completely valid to feel stuck in those negative thoughts, especially when they seem so real and possible. It can be challenging to shift our focus, especially when anxiety is high. What if we tried to look at one specific concern together and see if there are any small steps you could take to address it?",
+    "condition": "baseline",
+    "val_t": -0.25116944313049316,
+    "aro_t": 0.19461584091186523,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you acknowledging how overwhelming my thoughts can be. It feels like I'm constantly stuck in this loop of worrying about what could go wrong, and it's hard to see a way out. I’m not sure what specific concern to focus on, though; they all seem so tied together and heavy, making it feel like any small step would just be insignificant.",
+    "therapist": "It's understandable to feel that all your concerns are intertwined and heavy; that can make it hard to find a starting point. Every small step, no matter how insignificant it may seem, can contribute to breaking that loop of worry. Would you be open to identifying one small action related to managing your finances or seeking support, and we can explore how that might feel for you?",
+    "condition": "baseline",
+    "val_t": 0.015851259231567383,
+    "aro_t": 0.1355130672454834,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get that breaking things down can help, but finances really stress me out. I feel overwhelmed just thinking about it, and I worry that taking any action, no matter how small, won’t actually change anything. It’s hard to see how one small step could make a dent in my situation when I feel so buried in it.",
+    "therapist": "It’s completely understandable to feel that way, especially when finances can feel like such a massive burden. Recognizing that sense of being buried is an important step; it shows just how significant this stress is for you. What if we considered a very small, manageable action, such as writing down your current expenses or reaching out to a trusted friend for support? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.2782803773880005,
+    "aro_t": 0.15556228160858154,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you understand how overwhelmed I feel about my finances. The idea of writing down my expenses sounds simple, but it feels daunting. I worry that seeing everything laid out will only make me feel worse, like I’m staring at a mountain I can’t climb.",
+    "therapist": "I hear you, and it's completely valid to feel daunted by the idea of facing your finances head-on. That mountain can feel insurmountable, especially when you're already feeling overwhelmed. What if we approached it differently—perhaps by just jotting down one or two expenses at a time, rather than trying to document everything at once? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.16008400917053223,
+    "aro_t": 0.19602429866790771,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your understanding, but even the idea of jotting down just one or two expenses feels a bit overwhelming. I worry that I’ll procrastinate on it or forget to do it altogether. It just feels daunting to start when I know there’s so much more to tackle after that.",
+    "therapist": "It's completely understandable to feel daunted by even the smallest steps when you're carrying so much on your shoulders. Procrastination can often arise from that feeling of being overwhelmed, and it’s okay to acknowledge that. How about we set an even smaller intention, like just thinking about one expense you'd be comfortable noting down without any pressure to do it right away? Would that feel more manageable for you?",
+    "condition": "baseline",
+    "val_t": -0.07440006732940674,
+    "aro_t": 0.1632603406906128,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about feeling overwhelmed, and I definitely relate to that. But honestly, even thinking about one expense just feels like another thing on my to-do list, which makes it harder for me to get started. I’m worried that if I try to note something down, it’ll just add to my anxiety instead of helping me feel more in control.",
+    "therapist": "I appreciate your honesty, and it’s completely valid to feel that even small tasks can add to your anxiety, especially when you're already feeling overwhelmed. It sounds like the pressure to take action can feel counterproductive right now. What if we took a step back and focused on exploring how you’re feeling in this moment, rather than taking any action? How are you feeling about the situation right now?",
+    "condition": "baseline",
+    "val_t": -0.21614253520965576,
+    "aro_t": 0.20464038848876953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you understand how overwhelming it can feel, but honestly, it’s tough for me to just sit with my feelings. I keep thinking about all the things I should be doing, and that just makes the anxiety worse. I feel a bit trapped between wanting to process my emotions and the nagging guilt that I’m not being productive.",
+    "therapist": "It sounds like you're caught in a challenging space between wanting to acknowledge your feelings and the pressure to be productive, which can create a lot of inner conflict. It’s completely normal to feel trapped in that way, and it’s okay to prioritize your emotional well-being. What if we explored together how you might create a little space for your feelings, without any pressure to be productive in that moment? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.2687326669692993,
+    "aro_t": 0.19433653354644775,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about creating space for my feelings, but it feels really hard to let go of that pressure to be productive. I often feel guilty when I'm not working on something, like I'm wasting time or not living up to expectations. It’s frustrating because I know I need to acknowledge what I'm feeling, but it just feels wrong to take a break.",
+    "therapist": "It’s understandable to feel guilty about taking a break, especially in a culture that often emphasizes productivity. Acknowledging your feelings doesn’t mean you’re wasting time; it’s a crucial step toward finding balance and understanding yourself better. Can we explore what expectations you feel are guiding you right now, and how they might be influencing your feelings about taking a break?",
+    "condition": "baseline",
+    "val_t": -0.22373807430267334,
+    "aro_t": 0.06152963638305664,
+    "text_emotion": "Sad"
+  }
+]

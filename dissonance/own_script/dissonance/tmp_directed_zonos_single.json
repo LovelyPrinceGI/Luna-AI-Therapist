@@ -1,17 +1,22 @@
 {
   "directed_utterances": [
     {
-      "utterance_text": "I think if I allowed myself to be vulnerable, I would feel a mix of relief and terror. There's this part of me that craves connection and wants to share what I’m feeling, but I’m also so scared of being judged or rejected. I’ve been hurt before when I’ve opened up, and it makes me question whether it’s really worth the risk. The thought of emotions spilling out feels like a loss of control, and that’s just not something I’m comfortable with.",
+      "utterance_text": "I hear what you're saying, and part of me wants to believe that... but I've tried to \"build something new\" before and it just kind of fell apart, so I'm not sure why this time would be different. Like, the loneliness doesn't go away just because I reframe it — I still go home to an empty apartment every night and that's just the reality. I guess I'm scared that if I start hoping for something different, I'll just end up more disappointed than I already am.",
       "is_new_utterance_rule": true,
-      "utterance_level_direction": "[anxious, slow]",
+      "utterance_level_direction": "[resigned, heavy, quietly fearful]",
       "new_utterance_rule_definition": {
         "primary_zonos_vector_value": {
           "Happiness": 0.0,
-          "Sadness": 0.7,
-          "Fear": 0.6
+          "Sadness": 0.75,
+          "Disgust": 0.0,
+          "Fear": 0.45,
+          "Surprise": 0.0,
+          "Anger": 0.05,
+          "Neutral": 0.1,
+          "Other": 0.0
         },
-        "speaking_rate": 15.0,
-        "pitch_std": 100.0
+        "speaking_rate": 13.5,
+        "pitch_std": 45.0
       },
       "frame_level_directions": []
     }

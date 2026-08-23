@@ -6,21 +6,24 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}System Architecture and Workflow}{11}{section.3.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Phase 1: Dialogue Generation and Audio Synthesis}{11}{subsection.3.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Phase 2: Vocal Prosodic Descriptor Extraction}{12}{subsection.3.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.3}Phase 3: Emotional Feature Extraction from Text and Speech}{13}{subsection.3.1.3}\protected@file@percent }
+\citation{ekman1972universals}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping between Ekman's seven basic emotions and the Zonos TTS emotion vector}}{13}{table.caption.12}\protected@file@percent }
+\newlabel{tab:zonos-emotions}{{3.1}{13}{Mapping between Ekman's seven basic emotions and the Zonos TTS emotion vector}{table.caption.12}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Phase 2: Vocal Prosodic Descriptor Extraction}{13}{subsection.3.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.3}Phase 3: Emotional Feature Extraction from Text and Speech}{14}{subsection.3.1.3}\protected@file@percent }
 \citation{russell1980circumplex}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.4}Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}{14}{subsection.3.1.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.4}Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}{15}{subsection.3.1.4}\protected@file@percent }
 \citation{haydarov-etal-2025-towards}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{15}{subsection.3.1.5}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Feature access matrix across the four therapist generation conditions}}{16}{table.caption.14}\protected@file@percent }
-\newlabel{tab:condition-features}{{3.1}{16}{Feature access matrix across the four therapist generation conditions}{table.caption.14}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{16}{subsection.3.1.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Feature access matrix across the four therapist generation conditions}}{16}{table.caption.15}\protected@file@percent }
+\newlabel{tab:condition-features}{{3.2}{16}{Feature access matrix across the four therapist generation conditions}{table.caption.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{16}{subsection.3.1.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{17}{subsection.3.1.6}\protected@file@percent }
 \citation{kim-etal-2025-mirror}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{17}{subsection.3.1.7}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the full Luna AI Therapist pipeline. From dual-LLM turn-by-turn dialogue generation and Zonos Director parameter assignment, through Zonos TTS synthesis, to post-hoc text and speech VA extraction via vad-bert and WavLM, vocal descriptor extraction via librosa, dissonance computation, and finally four therapist generation conditions receiving different subsets of emotional metadata.}}{19}{figure.caption.12}\protected@file@percent }
-\newlabel{fig:dataset-generation}{{3.1}{19}{Overview of the full Luna AI Therapist pipeline. From dual-LLM turn-by-turn dialogue generation and Zonos Director parameter assignment, through Zonos TTS synthesis, to post-hoc text and speech VA extraction via vad-bert and WavLM, vocal descriptor extraction via librosa, dissonance computation, and finally four therapist generation conditions receiving different subsets of emotional metadata}{figure.caption.12}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt  {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}}{20}{figure.caption.13}\protected@file@percent }
-\newlabel{fig:preprocessing-pipeline}{{3.2}{20}{Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition}{figure.caption.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{18}{subsection.3.1.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the full Luna AI Therapist pipeline: dual-LLM dialogue generation, Zonos TTS synthesis with director-assigned prosody, post-hoc text and speech VA extraction (vad-bert, WavLM), vocal descriptors (librosa), dissonance computation, and the four therapist generation conditions.}}{19}{figure.caption.13}\protected@file@percent }
+\newlabel{fig:dataset-generation}{{3.1}{19}{Overview of the full Luna AI Therapist pipeline: dual-LLM dialogue generation, Zonos TTS synthesis with director-assigned prosody, post-hoc text and speech VA extraction (vad-bert, WavLM), vocal descriptors (librosa), dissonance computation, and the four therapist generation conditions}{figure.caption.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt  {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}}{20}{figure.caption.14}\protected@file@percent }
+\newlabel{fig:preprocessing-pipeline}{{3.2}{20}{Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition}{figure.caption.14}{}}
 \@setckpt{03-methodology}{
 \setcounter{page}{21}
 \setcounter{equation}{2}
@@ -38,7 +41,7 @@
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
 \setcounter{figure}{2}
-\setcounter{table}{1}
+\setcounter{table}{2}
 \setcounter{lofdepth}{1}
 \setcounter{lotdepth}{1}
 \setcounter{caption@flags}{2}

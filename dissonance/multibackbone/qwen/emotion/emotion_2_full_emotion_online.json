@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really anxious lately. Ever since I was laid off from my job at the tech startup last month, I can't stop worrying about my finances and what the future holds for my career. It feels like everything is uncertain, and I’m not sure if I’ll ever find something as fulfilling again.",
+    "therapist": "Hi there, it sounds like you're going through a really tough time right now. It’s completely understandable to feel anxious and uncertain after such a significant change. What are some of the thoughts that come up most often when you worry about your finances and career?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30031466484069824,
+    "aro_t": 0.21254289150238037,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. When I think about my finances and career, I often feel overwhelmed. I keep worrying about whether I’ll be able to make ends meet and if I’m making the right career choices. It’s hard not to feel like I’m falling behind everyone else.",
+    "therapist": "I can hear how overwhelming and stressful this is for you. It’s natural to have these concerns, especially when facing uncertainty. Can you share more about what it feels like to worry about falling behind, and what thoughts come up when you compare yourself to others?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04101061820983887,
+    "aro_t": 0.12882423400878906,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "It feels like there's this constant weight on my chest, you know? I can't help but think that everyone else is moving forward while I'm stuck or even going backward. It's hard not to feel like I'm failing, especially when I see others achieving their goals.",
+    "therapist": "It sounds like you’re carrying a heavy burden, and it’s completely understandable to feel that way. It’s tough to see others making progress while you’re facing these challenges. What are some of the specific things that you tell yourself when you feel like you’re falling behind?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17477643489837646,
+    "aro_t": 0.17533278465270996,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I often tell myself that I’m not doing enough, that everyone else is moving forward while I’m stuck. It makes me feel like I’m failing, and that just adds to my anxiety and guilt. It’s hard to break that cycle of negative thinking.",
+    "therapist": "It’s really tough to feel like you’re not measuring up, and those thoughts can definitely fuel anxiety and guilt. It’s important to recognize that everyone’s journey is different, and it’s okay to take your own path, even if it feels slower or different from others. What are some small steps or achievements you’ve made recently that you might be overlooking?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3988856077194214,
+    "aro_t": 0.10625565052032471,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, but it's hard to see those small steps sometimes. I feel like I'm constantly falling behind, and it's tough to celebrate the little things when the big picture feels so overwhelming. I mean, I know I should feel proud of the little achievements, but it's just hard to feel that way when I'm so anxious about everything else.",
+    "therapist": "I understand how challenging it is to see the small victories when the bigger picture feels so daunting. It’s okay to acknowledge that it’s hard, and it’s a natural response to feel that way. Can we try to identify some of those small steps or achievements, even if they don’t feel as significant right now? Sometimes, recognizing them can help shift your perspective a bit.",
+    "condition": "emotion_text_only",
+    "val_t": -0.04286015033721924,
+    "aro_t": 0.17538762092590332,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I do try to look for those small wins, but it’s really hard when everything feels so overwhelming. It’s like I can see the good things, but they just don’t feel real or significant enough to make a difference. I’m not sure if focusing on them will help me feel better.",
+    "therapist": "I can see how challenging it is to find comfort in small wins when the overall situation feels so overwhelming. It’s completely understandable to struggle with that. Sometimes, even acknowledging the small steps can be a start, even if they don’t feel as significant right now. What do you think might help you feel a bit more grounded or in control, even if just for a moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08512699604034424,
+    "aro_t": 0.14322245121002197,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I understand what you're saying, and I really do try to focus on the small wins, but it's hard when everything else feels so out of control. I guess I could try to find something that grounds me, like a short walk or a few deep breaths, but it’s hard to make myself do those things when I feel so overwhelmed. It’s like I’m stuck in this cycle of anxiety and guilt, and it’s tough to break out of it.",
+    "therapist": "It’s really tough to break out of that cycle of anxiety and guilt, especially when you feel so overwhelmed. I can see how challenging it is to find the motivation to do those grounding activities. Sometimes, even the smallest action can make a difference. What do you think might help you take that first step, even if it’s just a tiny one? Could it be setting a small, manageable goal for yourself, or perhaps reaching out to a friend for support?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28546714782714844,
+    "aro_t": 0.2234259843826294,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It's just really hard to see the point sometimes, you know? Setting a small goal sounds good in theory, but when I'm feeling so stuck, it's like I can't even decide what that small step should be. And reaching out to a friend? I feel so guilty and like a burden, I worry they won't want to hear from me again.",
+    "therapist": "I can really understand how hard it is to see the point when you’re feeling so stuck and overwhelmed. It’s completely normal to struggle with setting small goals or reaching out to friends when you’re dealing with such heavy emotions. What if we explore some gentle, non-pressuring ways to start breaking that cycle? For example, what’s something you used to enjoy or find a little bit of peace in, even if it’s just a small activity?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33130180835723877,
+    "aro_t": 0.1067349910736084,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you’re trying to help, Luna, but it’s hard for me to think of anything I used to enjoy. Everything just feels so heavy and draining lately. I mean, I used to like reading, but even that feels like too much effort these days.",
+    "therapist": "I completely understand how heavy and draining everything can feel right now. It’s tough when even the things we used to enjoy lose their appeal. Sometimes, just acknowledging that you’re going through a tough time can be a step in the right direction. What do you think might help you feel a little bit lighter, even if just for a moment? It could be something as simple as taking a few deep breaths or finding a quiet spot to sit and reflect.",
+    "condition": "emotion_text_only",
+    "val_t": -0.01725637912750244,
+    "aro_t": 0.1653122901916504,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It’s just hard to find those moments of lightness when everything feels so heavy. I’ve tried deep breathing before, but it doesn’t seem to make much of a difference. Maybe I’m just too stuck in my head.",
+    "therapist": "I can hear how challenging it is to find those moments of lightness when everything feels so heavy. It’s okay to feel stuck, and it’s natural for techniques like deep breathing to feel less effective when you’re in a tough emotional space. Sometimes, it can help to try a different approach or even a small change in your environment. What do you think about trying a short, gentle activity that doesn’t require much effort, like listening to a calming piece of music or looking at some nature photos? Sometimes, even a small shift can make a difference.",
+    "condition": "emotion_text_only",
+    "val_t": -0.0233687162399292,
+    "aro_t": 0.0764310359954834,
+    "text_emotion": "Neutral"
+  }
+]

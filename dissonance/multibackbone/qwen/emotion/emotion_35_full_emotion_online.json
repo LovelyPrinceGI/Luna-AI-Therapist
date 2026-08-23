@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I’ve been really struggling with my new job in marketing. The deadlines are so tight, and I feel like I’m not measuring up to my more experienced colleagues. I keep worrying that I’m not good enough, and it’s really affecting my confidence and stress levels. I’m not sure if therapy can really help with all this, but I’m willing to try.",
+    "therapist": "Hi there, it sounds like you're going through a really tough time with your new job. It's completely understandable to feel overwhelmed when facing tight deadlines and comparing yourself to more experienced colleagues. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06014668941497803,
+    "aro_t": 0.1586247682571411,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, yeah, it's been really tough. I find myself constantly second-guessing my work and feeling like I'm falling behind everyone else. I've been trying to stay late and work through my lunch breaks, but it just feels like I'm not making enough progress. It's really draining.",
+    "therapist": "It sounds really draining and stressful to be in that constant state of self-doubt and feeling behind. Working longer hours and skipping breaks can take a toll on your well-being. What are some thoughts or beliefs that come up for you when you feel like you're not measuring up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2259730100631714,
+    "aro_t": 0.14312243461608887,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I often feel like I’m not good enough, and that everyone else is moving ahead while I’m stuck. It’s hard because I see my colleagues getting promotions and recognition, and it makes me wonder if I’m just not cut out for this job. I try to push myself harder, but it just seems to make everything worse.",
+    "therapist": "It sounds really challenging to feel like you're not keeping up with your colleagues, and seeing their success can really shake your confidence. It's natural to have those self-doubts, but it's important to remember that everyone’s journey is different. Can you think of any specific evidence that supports or challenges the belief that you're not good enough?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28602564334869385,
+    "aro_t": 0.1402057409286499,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I know everyone's journey is different, but it's hard not to compare myself to others. I often feel like I'm falling behind, and it's tough to find evidence that challenges that belief. It seems like everyone else is doing so much better, and I can't help but wonder if I'm just not cut out for this.",
+    "therapist": "It's completely understandable to struggle with comparisons, especially when it feels like everyone else is doing better. It's tough to find that balance, but it's important to recognize your own strengths and progress, even if it's not as visible as others'. Can you think of any recent accomplishments or positive feedback you've received that might help shift this perspective?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10728263854980469,
+    "aro_t": 0.08697283267974854,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard because I feel like my accomplishments are so small compared to what others are achieving. Like, I got a small promotion at work, but it feels insignificant when I see my colleagues getting big projects and recognition. It's tough to feel good about it.",
+    "therapist": "I understand how you feel, and it's completely normal to have those thoughts when you see others getting more significant recognition. It's important to celebrate even the small wins, as they are steps forward in your own journey. What are some aspects of your recent promotion that you feel positive about, even if they seem small to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.045241594314575195,
+    "aro_t": 0.09339749813079834,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it's hard to feel positive when it seems like everyone else is getting more attention and recognition. I mean, sure, I got a promotion, but it feels like it's not as big of a deal as what others are achieving. It's hard to celebrate something that feels so small in comparison.",
+    "therapist": "I can really understand how challenging it is to feel like your achievements aren't as significant when you see others getting more recognition. It's important to acknowledge your feelings and the validity of your concerns. Can you think of any specific aspects of your promotion that you're proud of, or any ways in which it might be more impactful than you initially thought?",
+    "condition": "emotion_text_only",
+    "val_t": -0.007570505142211914,
+    "aro_t": 0.06669628620147705,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that, Luna. It’s hard to see the value in my promotion when it feels like others are getting so much more attention. I guess I can think about the hard work I put in and the new responsibilities I have, but it still feels like it’s not enough sometimes. It’s just hard to feel proud when it seems like no one else notices.",
+    "therapist": "I completely understand how difficult it is to feel proud of your achievements when it seems like others are getting more attention. It's important to recognize the hard work and new responsibilities that come with your promotion, even if it doesn't feel like enough right now. What are some specific things you've learned or accomplished in your new role that you can be proud of, even if they're not immediately visible to others?",
+    "condition": "emotion_text_only",
+    "val_t": 0.10358905792236328,
+    "aro_t": 0.16335856914520264,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you saying that, Luna. It's hard to feel proud when I see others getting so much more recognition. I guess I've learned a lot about managing a team and taking on more responsibility, but it still feels like it's not enough, you know? It's tough to feel like I'm not making a big enough impact.",
+    "therapist": "I can really understand how tough it is to feel like your efforts aren't getting the recognition you feel they deserve. It's important to acknowledge the growth and new skills you've developed, even if they don't seem as flashy. Learning to manage a team and take on more responsibility are significant achievements. What are some specific moments or feedback you've received that reflect the positive impact you're making, even if it's not as visible as you'd like?",
+    "condition": "emotion_text_only",
+    "val_t": 0.05292189121246338,
+    "aro_t": 0.1473069190979004,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you saying that, Luna. It's hard to see the positive impact when it feels like I'm constantly swimming upstream. I've had a few team members thank me for my support and guidance, but it's easy to dismiss those moments as not being enough, especially when I see others getting more visible recognition. It's tough to feel like my efforts are going unnoticed.",
+    "therapist": "I completely understand how demoralizing it can feel when your efforts seem to go unnoticed, especially when you see others getting more visible recognition. It’s important to acknowledge the positive impact you’re making, even in smaller ways. Those moments when your team members thank you for your support and guidance are significant and show that your efforts are valued. How can you start to recognize and celebrate these smaller victories more, even if they don’t feel as big as you’d like?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04665255546569824,
+    "aro_t": 0.06289255619049072,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it's hard to feel like those small moments are enough when I see others getting so much more attention and credit. It feels like I'm working just as hard, if not harder, but I'm not getting the same recognition. I don't know if celebrating the small things will really make a difference in how I feel.",
+    "therapist": "I understand how frustrating and disheartening it can be to feel like your hard work isn't getting the same recognition as others. It's completely valid to feel that way, and it's tough to find motivation when you're not seeing the same level of acknowledgment. Celebrating the small wins might not immediately change how you feel, but it can help build a more positive perspective over time. What are some other strategies or thoughts that might help you feel more valued and recognized in your role?",
+    "condition": "emotion_text_only",
+    "val_t": 0.030261993408203125,
+    "aro_t": 0.10267055034637451,
+    "text_emotion": "Neutral"
+  }
+]

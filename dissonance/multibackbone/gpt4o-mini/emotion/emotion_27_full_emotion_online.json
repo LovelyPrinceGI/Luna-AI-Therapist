@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since starting college last semester. I can’t seem to keep up with all the coursework, and it's made me isolate myself from my friends. I know I should reach out to them, but I just feel so guilty for not being able to handle things better.",
+    "therapist": "It sounds like you're facing a really challenging time, feeling overwhelmed and disconnected from your friends. It's understandable to feel guilty when things seem too much to handle, but remember that it's okay to ask for help. What do you think might happen if you reached out to a friend and shared how you're feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3532828092575073,
+    "aro_t": 0.1885145902633667,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that you understand how overwhelming this feels for me, but reaching out to a friend feels really daunting. I worry they won't understand or will judge me for feeling this way. Plus, what if they have their own problems and I end up burdening them even more? It’s hard to think about putting myself out there when I feel so disconnected.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of reaching out, especially when you’re worried about how your friends might react. It’s natural to fear being a burden, but often, sharing our feelings can strengthen connections rather than weaken them. What might it look like to take a small step towards reaching out, perhaps starting with someone you trust the most?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21355903148651123,
+    "aro_t": 0.11438119411468506,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying about sharing feelings strengthening connections, but it still feels really scary to reach out. I worry that if I talk about my anxiety, they might not know how to respond or they might think I'm just looking for attention. It's hard to believe that opening up would actually help, rather than just making things awkward.",
+    "therapist": "I can hear how scary and uncertain reaching out feels for you right now, especially with the fear of not being understood. It’s normal to worry about how others might react, but sharing your experiences can often lead to deeper connections and support. What if you started by sharing just a small part of how you’re feeling? How do you think that might change the conversation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08599209785461426,
+    "aro_t": 0.07785475254058838,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it feels really risky to open up even a little. I worry that if I share something small, people won't understand or they'll judge me, and that just makes my anxiety worse. It’s hard enough just to think about it; I don’t know if it would really lead to a deeper connection or just more loneliness.",
+    "therapist": "I can sense how risky and vulnerable opening up feels for you, and it’s completely valid to be anxious about the potential reactions of others. It’s tough to navigate those feelings of fear and worry, especially when you’re already feeling isolated. What if we explored some thoughts or beliefs that might be contributing to your anxiety about sharing? How do you typically see those situations unfold in your mind?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2816641330718994,
+    "aro_t": 0.1264958381652832,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you acknowledging how vulnerable it feels for me to open up. Honestly, I usually imagine the worst-case scenarios where people either don't understand me or react negatively. It makes me feel even more anxious about sharing because I worry I’ll end up feeling even lonelier if things go wrong.",
+    "therapist": "It sounds like your mind is creating some really tough scenarios that amplify your anxiety about reaching out, which can be incredibly isolating. It's natural to worry about negative reactions, but these imagined outcomes can often feel more powerful than the reality. What if we explored some alternative thoughts or experiences that could help challenge those worst-case scenarios? How might you feel if you considered a more positive possibility?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17433738708496094,
+    "aro_t": 0.10679864883422852,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it's hard for me to just flip a switch and think positively. My mind tends to focus on all the ways things could go wrong, like people not wanting to talk to me or judging me. I think the fear of rejection is just so overwhelming that it makes reaching out feel impossible.",
+    "therapist": "I completely understand how the fear of rejection feels overwhelming and makes reaching out seem impossible. It’s tough when your mind is stuck on those negative possibilities, and it’s okay to feel that way. What if we took a moment to reflect on times when you have reached out before—how did those experiences go, and what did you learn from them that might be different this time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2480999231338501,
+    "aro_t": 0.1646968126296997,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your understanding, but reflecting on those past experiences feels a bit daunting. I remember reaching out before, and while some times went okay, there were definitely moments where I felt rejected or misunderstood. It just makes me wonder if it’s worth it to try again, especially when I’m not sure anything will be different this time.",
+    "therapist": "It's completely understandable to feel hesitant about trying again after experiencing rejection in the past. Those feelings of uncertainty can be really heavy, especially when you’re not sure if things will be different this time. What if we explored some ways to prepare for those conversations, so you feel more equipped to handle any outcome? What small step could you take to make it feel a bit less daunting?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07290863990783691,
+    "aro_t": 0.08675014972686768,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about feeling hesitant, but honestly, it just feels overwhelming to think about preparing for those conversations. What if I go in and just freeze up again? I mean, what if I prepare all this stuff and it still doesn’t go well? It just makes me anxious thinking about it.",
+    "therapist": "I can feel how overwhelming the thought of preparing for those conversations makes you feel, and it's understandable to worry about freezing up or not getting the response you hope for. It’s tough when the fear of not being understood weighs heavily on you. What if we focused on just one small, manageable step you could take that feels less intimidating, like jotting down a few key points or even just a simple message to a friend? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16121399402618408,
+    "aro_t": 0.2515448331832886,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your understanding, but honestly, it feels like even jotting down a few key points is a bit overwhelming for me right now. I worry that I won't even know what to write or that it won't come out right. It just feels like I'm setting myself up to fail, and I don't want to add more pressure to myself.",
+    "therapist": "It sounds like the thought of jotting down points feels really heavy and adds to the pressure you’re already experiencing. It’s okay to feel that way; you’re navigating a lot right now. What if we took a step back and just focused on how you’re feeling in this moment, without any expectation to prepare anything? How do you feel about just sharing your thoughts or emotions as they come, without any pressure to get it \"right\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23340439796447754,
+    "aro_t": 0.1897754669189453,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you saying that, Luna. It does feel like there's a lot pressing down on me right now, and just the thought of jotting things down feels overwhelming. I guess I’m feeling a bit anxious about sharing too, like what if I don’t express it the right way or it doesn’t come out as I want?",
+    "therapist": "I can sense that the pressure to express yourself perfectly adds to your anxiety, and it’s completely normal to feel that way, especially when you’re already feeling weighed down. Remember, it's okay if your words don’t come out exactly as you’d like—what matters is that you’re trying to connect and share how you feel. How might it feel to focus more on simply being honest about your emotions, rather than worrying about getting the words just right?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11114156246185303,
+    "aro_t": 0.26747143268585205,
+    "text_emotion": "Angry"
+  }
+]

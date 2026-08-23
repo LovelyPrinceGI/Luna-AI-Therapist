@@ -1,0 +1,110 @@
+# Multi-Backbone AI Therapist Evaluation Report
+
+**Evaluator:** GPT-4o | **Dialogues:** 100 | **Conditions per backbone:** 4  
+**Date:** July 2026
+
+---
+
+## Cross-Backbone Comparison: Dissonance-Aware Method
+
+*All 4 backbones evaluated on the same 100 dialogues under the Dissonance-Aware condition.*
+
+| Backbone | Type | Under. (0-6) | Interp. (0-6) | Affect. (1-5) | CTRS-C (0-6) | CTRS-G (0-6) | CTRS-F (0-6) | CTRS-S (0-6) | Succ |
+|----------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Claude Sonnet 4.6** | Closed full | **5.15** | **5.15** | **4.16** | **5.15** | **5.15** | **5.15** | **5.15** | 100 |
+| **DeepSeek V3.2** | Open MoE | 5.00 | 5.00 | 4.00 | 5.00 | 4.94 | 4.96 | 4.69 | 100 |
+| **GPT-4o-mini** | Closed cheap | 4.99 | 4.97 | 3.99 | 4.97 | 4.58 | 4.75 | 4.18 | 100 |
+| **Qwen 2.5 72B** | Open 72B | 4.62 | 4.42 | 3.79 | 4.41 | 3.53 | 4.09 | 3.39 | 100 |
+
+### Key Findings:
+
+- **Claude Sonnet 4.6 dominates** all 7 metrics — consistently scores 5.15 across CTRS dimensions
+- **Dissonance-Aware universally outperforms** Baseline across all 4 backbones — no exception
+- **DeepSeek V3.2 (MoE)** matches GPT-4o-mini in Understanding (5.00 vs 4.99) and surpasses on CTRS metrics
+- **Qwen 2.5 72B** trails on CTRS (3.39-4.41) but still shows clear Dissonance advantage over Baseline
+- **Dissonance signal = architecture-agnostic** — benefits observed across closed/open, dense/MoE, and multiple vendors
+
+---
+
+## Per-Backbone Results (4 Conditions Each)
+
+### GPT-4o-mini (OpenAI)
+
+| Condition | Under. (0-6) | Interp. (0-6) | Affect. (1-5) | CTRS-C (0-6) | CTRS-G (0-6) | CTRS-F (0-6) | CTRS-S (0-6) | Succ |
+|-----------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Baseline | 3.92 | 2.99 | 2.98 | 2.95 | 2.11 | 2.86 | 2.10 | 100 |
+| Emotion (Text-Only) | 4.13 | 3.51 | 3.28 | 3.42 | 2.55 | 3.19 | 2.50 | 100 |
+| Multimodal (Vocal-Aware) | 4.78 | 4.24 | 3.75 | 4.09 | 3.14 | 3.51 | 3.14 | 100 |
+| **Dissonance-Aware** | **4.99** | **4.97** | **3.99** | **4.97** | **4.58** | **4.75** | **4.18** | 100 |
+
+**Dissonance uplift:** Understanding +1.07 | CTRS Focus +1.89 | CTRS Collab +2.02
+
+---
+
+### Claude Sonnet 4.6 (Anthropic)
+
+| Condition | Under. (0-6) | Interp. (0-6) | Affect. (1-5) | CTRS-C (0-6) | CTRS-G (0-6) | CTRS-F (0-6) | CTRS-S (0-6) | Succ |
+|-----------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Baseline | 5.00 | 5.00 | 4.00 | 5.00 | 4.87 | 4.99 | 4.69 | 100 |
+| Emotion (Text-Only) | 5.00 | 5.00 | 4.00 | 5.00 | 5.00 | 5.00 | 5.00 | 100 |
+| Multimodal (Vocal-Aware) | 5.01 | 5.01 | 4.01 | 5.01 | 5.01 | 5.01 | 4.97 | 100 |
+| **Dissonance-Aware** | **5.15** | **5.15** | **4.16** | **5.15** | **5.15** | **5.15** | **5.15** | 100 |
+
+**Dissonance uplift:** Understanding +0.15 | CTRS Focus +0.16 | CTRS Collab +0.15
+
+*Note: Claude's baseline is already near ceiling — Dissonance nudges it closer to perfect.*
+
+---
+
+### Qwen 2.5 72B (Alibaba)
+
+| Condition | Under. (0-6) | Interp. (0-6) | Affect. (1-5) | CTRS-C (0-6) | CTRS-G (0-6) | CTRS-F (0-6) | CTRS-S (0-6) | Succ |
+|-----------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Baseline | 3.81 | 3.08 | 3.59 | 2.97 | 2.07 | 2.79 | 2.07 | 100 |
+| Emotion (Text-Only) | 4.30 | 3.95 | 3.64 | 3.95 | 2.97 | 3.37 | 3.01 | 100 |
+| Multimodal (Vocal-Aware) | 4.46 | 3.89 | 3.65 | 3.81 | 2.86 | 3.33 | 2.82 | 100 |
+| **Dissonance-Aware** | **4.62** | **4.42** | **3.79** | **4.41** | **3.53** | **4.09** | **3.39** | 100 |
+
+**Dissonance uplift:** Understanding +0.81 | CTRS Focus +1.30 | CTRS Collab +1.44
+
+---
+
+### DeepSeek V3.2 (DeepSeek — MoE Architecture)
+
+| Condition | Under. (0-6) | Interp. (0-6) | Affect. (1-5) | CTRS-C (0-6) | CTRS-G (0-6) | CTRS-F (0-6) | CTRS-S (0-6) | Succ |
+|-----------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Baseline | 4.60 | 4.36 | 3.77 | 4.29 | 3.31 | 4.04 | 3.30 | 100 |
+| Emotion (Text-Only) | 4.97 | 4.96 | 3.98 | 4.96 | 4.83 | 4.91 | 4.78 | 100 |
+| Multimodal (Vocal-Aware) | 5.00 | 4.97 | 3.97 | 4.97 | 4.83 | 4.85 | 4.64 | 100 |
+| **Dissonance-Aware** | **5.00** | **5.00** | **4.00** | **5.00** | **4.94** | **4.96** | **4.69** | 100 |
+
+**Dissonance uplift:** Understanding +0.40 | CTRS Focus +0.92 | CTRS Collab +0.71
+
+---
+
+## Dissonance Uplift Summary (Dissonance − Baseline)
+
+| Backbone | Under. ∆ | CTRS-C ∆ | CTRS-G ∆ | CTRS-F ∆ | CTRS-S ∆ | Avg ∆ |
+|----------|:--:|:--:|:--:|:--:|:--:|:--:|
+| GPT-4o-mini | **+1.07** | **+2.02** | +2.47 | **+1.89** | +2.08 | **+1.91** |
+| Claude Sonnet 4.6 | +0.15 | +0.15 | +0.28 | +0.16 | +0.46 | +0.24 |
+| Qwen 2.5 72B | +0.81 | +1.44 | +1.46 | +1.30 | +1.32 | +1.27 |
+| DeepSeek V3.2 | +0.40 | +0.71 | +1.63 | +0.92 | +1.39 | +1.01 |
+
+### Interpretation:
+
+- **GPT-4o-mini shows the largest absolute uplift** — its baseline is low, so Dissonance has more room to improve
+- **Claude already scores near ceiling at baseline** — Dissonance provides modest but consistent gains
+- **Qwen shows strong uplift** — Dissonance helps compensate for a weaker base model
+- **DeepSeek's MoE architecture** starts from a strong baseline and benefits moderately from Dissonance
+- **All 4 backbones benefit from the Dissonance signal** — no exception across closed/open/dense/MoE
+
+---
+
+## Conclusion: RQ2 — Backbone Robustness
+
+> **H2 Confirmed.** The Dissonance-Aware framework provides consistent therapeutic quality gains across all 4 LLM backbones — GPT-4o-mini (OpenAI), Claude Sonnet 4.6 (Anthropic), Qwen 2.5 72B (Alibaba), and DeepSeek V3.2 (MoE architecture). The magnitude of gain varies by baseline strength, but the direction is universally positive. The dissonance signal — computed as VA delta between text and speech — is an **architecture-agnostic** feature that improves CBT-oriented therapist responses regardless of the underlying LLM.
+
+---
+
+*Evaluation completed in 136.5 minutes | GPT-4o as zero-shot judge | 1600 evaluation sessions (4 backbones × 100 dialogues x 4 frameworks)*

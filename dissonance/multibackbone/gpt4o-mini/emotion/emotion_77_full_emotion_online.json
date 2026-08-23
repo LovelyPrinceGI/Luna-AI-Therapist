@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since I got promoted at work. The increased responsibilities are making me doubt my abilities, and I constantly worry that I'm not good enough for the role. Sometimes I wonder if therapy can really help me with this, or if I just need to figure it out on my own.",
+    "therapist": "It sounds like you’re carrying a heavy burden with your new responsibilities, and it's completely understandable to feel overwhelmed and doubt your abilities. It's natural to question whether therapy can make a difference, especially when you're facing such self-doubt. What specific thoughts are coming up for you when you think about your role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22462522983551025,
+    "aro_t": 0.17809343338012695,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking that I’m not cut out for this role and that everyone else is doing better than I am. It’s like I’m constantly comparing myself to others and feeling like I fall short. I feel guilty for not being able to handle things more easily, and that just adds to my anxiety about it all.",
+    "therapist": "It sounds like you’re really grappling with feelings of inadequacy and guilt, which can be incredibly tough to navigate. Comparing ourselves to others often amplifies those feelings, making it even harder to see our own strengths. What evidence do you have that supports or challenges the belief that you're not cut out for this role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35490882396698,
+    "aro_t": 0.19316673278808594,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I often feel like I'm not measuring up, especially when I see others excelling. It’s hard to see my own strengths when I'm constantly comparing myself to their successes. I struggle to think of any evidence that might challenge that belief; it feels like I'm just stuck in this negative thought pattern.",
+    "therapist": "It sounds like you’re really feeling trapped in a cycle of negative thoughts, which can make it difficult to recognize your own accomplishments. It’s common to overlook our own strengths when we’re so focused on comparing ourselves to others. Can we explore some of your successes, no matter how small, to help shift your perspective a bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2718794345855713,
+    "aro_t": 0.0737227201461792,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it feels really hard for me to even think about my successes right now. I keep getting caught up in this feeling that nothing I do is good enough, and when I do try to reflect on my accomplishments, they seem so insignificant compared to what others have achieved. It just feels like a waste of time to focus on the small stuff when I’m struggling so much.",
+    "therapist": "I can sense how challenging it is for you to acknowledge your successes right now, especially when you’re feeling so weighed down by self-doubt. It’s understandable to view your accomplishments as insignificant when you’re in a tough spot, but every step forward counts, no matter how small. What would it feel like to recognize even one thing you’ve done that you’re proud of, even if it seems minor?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20080769062042236,
+    "aro_t": 0.0965796709060669,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you saying that, but it feels really hard to pinpoint anything I’m proud of right now. It’s like my mind is just filled with all the things I've done wrong or the times I’ve let myself down. Even if I try to think of something, it just feels so trivial compared to what I’m facing. I don’t know if I can see it that way.",
+    "therapist": "It sounds like you're really struggling to shift your focus from the negative experiences to anything positive, and that’s completely understandable given how heavy those feelings can be. It’s okay to feel this way; many people find it hard to see their own worth during tough times. What if we took a moment to explore one specific situation where you felt you made a positive impact, no matter how small it seemed at the time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15159356594085693,
+    "aro_t": 0.13832557201385498,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you trying to help me focus on the positive, but honestly, it feels like a stretch. I can think of moments where I might have done something good, but they always feel overshadowed by my mistakes or failures. It’s hard to believe those small impacts really matter when I'm constantly battling this heavy feeling of worthlessness.",
+    "therapist": "I hear you, and it sounds incredibly difficult to feel overshadowed by mistakes when you're trying to recognize any positives. The weight of worthlessness can be so heavy, making it hard to see that even small actions can have value. What if we explored a specific mistake that’s been on your mind? Sometimes breaking it down can help us see it in a different light and find some understanding or learning in it.",
+    "condition": "emotion_text_only",
+    "val_t": -0.18867135047912598,
+    "aro_t": 0.12456989288330078,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I guess one mistake that really sticks with me is how I handled a recent situation at work. I lost my temper in a meeting, and now I feel like everyone sees me as unprofessional. It’s hard to think about breaking it down because I just keep spiraling into guilt and wishing I could take it all back.",
+    "therapist": "It seems that losing your temper in that meeting has left you feeling a lot of guilt, and I can understand why that would weigh heavily on you. It’s really tough to carry that feeling of wishing you could change the past. What do you think led to that moment, and how can we explore it together to help you find some understanding and maybe even a path forward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4021388292312622,
+    "aro_t": 0.12532508373260498,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I’ve been feeling really guilty about that meeting, like I completely lost control and embarrassed myself. It’s hard to shake off that feeling, especially because I keep replaying it in my mind and thinking about what I could have said or done differently. I guess I just feel so frustrated with myself for letting my emotions get the best of me, and I’m not sure how to move past it.",
+    "therapist": "It sounds like you're really struggling with a lot of guilt and frustration over that moment, which is completely understandable. Replaying the situation in your mind can keep those feelings alive, making it hard to find a way to move forward. What if we explored some strategies together to help you process this experience and perhaps learn from it, so that it doesn’t feel so overwhelming?",
+    "condition": "emotion_text_only",
+    "val_t": -0.448309063911438,
+    "aro_t": 0.23525583744049072,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your understanding, but honestly, I’m not sure how exploring strategies can really help me. I keep going back to that moment, replaying it in my head, and it just feels like it’s part of me now. It’s hard to believe that I can learn anything from it when I just feel so stuck in the guilt and frustration.",
+    "therapist": "I can sense how deeply stuck you feel in that moment of guilt and frustration, and it’s completely valid to feel that way when something has such a strong hold on you. It’s difficult to see a way out when those feelings are so intense. What if we took a step back and looked at what you wish you could tell your past self in that situation? Sometimes reflecting on how we would approach things differently can provide a bit of clarity and compassion.",
+    "condition": "emotion_text_only",
+    "val_t": -0.2744346857070923,
+    "aro_t": 0.15065932273864746,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you understand how stuck I feel, but I have to be honest—I don’t know how reflecting on my past self will help me now. It feels like I’m just digging up old mistakes and re-living the guilt instead of moving forward. What if I just end up feeling worse?",
+    "therapist": "It’s completely understandable to be hesitant about revisiting those past moments, especially when you’re worried it might just amplify your feelings of guilt. It sounds like you’re seeking a way to move forward rather than getting stuck in the past, which is a valid desire. What if we focused on what you would like to achieve moving forward and explored some actions or thoughts that might help you feel more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35368597507476807,
+    "aro_t": 0.062365174293518066,
+    "text_emotion": "Sad"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. Since my dog passed away last month, I just can't seem to find joy in things I used to love doing. It feels like everything is kind of... pointless now. I know it's been hard, but I'm not sure if talking about it will actually help.",
+    "therapist": "Hi there, I'm so sorry to hear about your loss and how you've been feeling. It’s completely understandable that you might be struggling to find joy in things you once loved, especially after such a significant loss. How have you been coping with these feelings, and is there anything specific you think might help you start to reconnect with those activities?",
+    "condition": "baseline",
+    "val_t": -0.1498088836669922,
+    "aro_t": 0.17147982120513916,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really hard to even think about doing the things I used to enjoy. I feel so empty and guilty for not being able to find joy in them anymore. I don't know if anything can help me reconnect with those activities right now. It feels like I'm just going through the motions.",
+    "therapist": "I can hear how deeply you're feeling this loss and the emptiness it's brought. It’s natural to feel guilty or empty when we can’t enjoy things we used to, but these feelings are a sign of how much you cared for your dog. Can you think of any small, gentle ways you might start to explore those activities again, even if just for a few minutes, without putting too much pressure on yourself?",
+    "condition": "baseline",
+    "val_t": -0.019288182258605957,
+    "aro_t": 0.12051725387573242,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's just hard to imagine doing those things without feeling like I'm betraying his memory or reopening old wounds. I mean, I used to take him for long walks, and now every time I see the park, it just reminds me of him. It feels like I'm not honoring his memory if I go back there.",
+    "therapist": "I understand how deeply you feel about honoring his memory, and it’s completely normal to worry about reopening old wounds. It’s important to find a way that feels right for you. Could you perhaps find a new route in the park, or maybe bring along a photo of him, to feel connected while also creating a new, gentle experience for yourself? What do you think might feel manageable and meaningful for you?",
+    "condition": "baseline",
+    "val_t": 0.07894372940063477,
+    "aro_t": 0.20076048374176025,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your suggestions, Luna. Bringing a photo of him could be a nice way to feel connected, but I'm still worried that even a new route might trigger the same memories. It's hard because I want to honor him, but I also don't want to feel overwhelmed by the sadness.",
+    "therapist": "I can see how important it is for you to find a balance between honoring his memory and managing your sadness. It’s okay to take things at your own pace and to choose what feels right for you. Maybe you could start by just sitting in the park for a short time, perhaps with a meaningful object or photo, and see how it feels. What do you think about taking small steps like this, and how might you gauge whether it’s too much or just right for you?",
+    "condition": "baseline",
+    "val_t": -0.08058011531829834,
+    "aro_t": 0.1642465591430664,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your suggestion, Luna, but I'm still not sure if I'm ready to go to the park yet. It feels like a big step, and I worry that it might trigger more sadness than I can handle right now. I don't want to feel overwhelmed. Maybe there's a smaller step I could take first?",
+    "therapist": "I completely understand, and it’s important to honor your feelings and take things at a pace that feels manageable. Maybe there’s a smaller step you can take, like looking at photos of your walks together or sharing stories about your dog with a friend who knew him. What do you think might feel like a gentle way to start reconnecting with those memories without feeling overwhelmed?",
+    "condition": "baseline",
+    "val_t": -0.053185343742370605,
+    "aro_t": 0.1694549322128296,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your suggestions, Luna. Looking at photos or sharing stories does sound a bit easier, but I'm still worried it might trigger a lot of sadness and anxiety. It's hard to find the right balance between honoring those memories and not getting overwhelmed by the grief.",
+    "therapist": "I understand how challenging it is to find that balance, and it’s okay to take your time. Starting with something smaller, like looking at one or two photos or writing down a few memories, might help you gradually process your feelings without feeling overwhelmed. How does that feel to you, and is there a specific memory or photo that might be a good starting point?",
+    "condition": "baseline",
+    "val_t": -0.07860410213470459,
+    "aro_t": 0.10159480571746826,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you suggesting a smaller step, Luna. It does sound a bit more manageable, but I'm still worried about stirring up a lot of emotions. I guess I could try looking at one photo, but what if it makes me feel even more anxious or sad?",
+    "therapist": "I understand your concerns, and it’s completely valid to feel anxious about stirring up strong emotions. Starting with just one photo is a gentle way to begin, and you can take it at your own pace. Maybe you could set aside a specific time when you feel more emotionally resilient, and have a comforting activity planned afterward to help you ground yourself. What do you think about that, and is there a specific time or activity that might feel supportive for you?",
+    "condition": "baseline",
+    "val_t": -0.14339280128479004,
+    "aro_t": 0.14343702793121338,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. It does feel a bit overwhelming to think about looking at old photos, but I guess starting with just one could be manageable. I'm just worried that even one photo might bring up a lot of memories and emotions. Maybe I could try it on a weekend when I have more time to process, and maybe do something relaxing afterward, like taking a walk or listening to some music. What do you think?",
+    "therapist": "That sounds like a thoughtful and balanced approach, and I’m glad you’re considering a supportive activity afterward. Taking it one step at a time and having a plan to care for yourself can make a big difference. How do you feel about setting aside a specific time on the weekend to try this, and is there anything else you might need to feel more prepared or supported?",
+    "condition": "baseline",
+    "val_t": 0.15038597583770752,
+    "aro_t": 0.05480146408081055,
+    "text_emotion": "Happy"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your support, Luna. Setting aside time on the weekend sounds good in theory, but I'm worried about my anxiety flaring up again. It's hard because I tend to overthink things and talk myself out of doing them. How can I manage that?",
+    "therapist": "I understand how anxiety and overthinking can make it challenging to follow through, and it’s completely normal to feel that way. One strategy could be to gently acknowledge those anxious thoughts without letting them take over. You might try saying to yourself, \"It’s okay to feel anxious, but I can still take this small step.\" Additionally, setting a specific, brief time limit for the activity, like five minutes, can make it feel more manageable. How do you think you might handle those anxious thoughts when the time comes?",
+    "condition": "baseline",
+    "val_t": -0.09125113487243652,
+    "aro_t": 0.19605028629302979,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestions, Luna. It's just that when I'm in the moment, those anxious thoughts can be so overwhelming. I worry that even a small step might trigger a spiral, and I end up feeling paralyzed. It's hard to see a way out of that cycle.",
+    "therapist": "I can hear how overwhelming those anxious thoughts can be, and it’s completely understandable to feel paralyzed by them. It’s important to recognize that and give yourself permission to take things very gently. One approach could be to practice some grounding techniques, like deep breathing or focusing on your senses, to help you stay present and manage the anxiety when it arises. What do you think about trying a simple grounding exercise before you take that small step, to help you feel more centered?",
+    "condition": "baseline",
+    "val_t": -0.10064446926116943,
+    "aro_t": 0.13979768753051758,
+    "text_emotion": "Angry"
+  }
+]

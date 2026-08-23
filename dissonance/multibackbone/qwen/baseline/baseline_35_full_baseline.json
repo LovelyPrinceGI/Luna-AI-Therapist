@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately with my new job in marketing. The deadlines are so tight, and I feel like I'm not measuring up to my more experienced colleagues. I keep worrying that I’m not good enough, and it’s really getting to me. I’m not sure if therapy can even help with this, but I’m here to try.",
+    "therapist": "Hi there, I’m so glad you reached out and are giving therapy a try. It sounds like you’re under a lot of pressure and feeling really overwhelmed with your new role. How long have you been feeling this way, and what do you think might be the hardest part about comparing yourself to your more experienced colleagues?",
+    "condition": "baseline",
+    "val_t": -0.09342122077941895,
+    "aro_t": 0.18832147121429443,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I’ve been feeling this way since I started this new job about three months ago. The hardest part is definitely the constant comparison. I feel like I’m always lagging behind, and it’s hard not to doubt my abilities when everyone else seems so competent. I try to remind myself that they’ve been doing this longer, but it’s tough to shake off that feeling of inadequacy.",
+    "therapist": "It’s completely understandable to feel that way, especially when you’re in a new role and surrounded by more experienced colleagues. It’s natural to compare yourself, but it’s important to recognize the progress you’ve made and the unique strengths you bring to the team. What are some things you’ve accomplished or learned since starting your job that you’re proud of, no matter how small they might seem?",
+    "condition": "baseline",
+    "val_t": -0.08116114139556885,
+    "aro_t": 0.09604203701019287,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's hard to see it that way sometimes, though. I feel like I'm always playing catch-up, and the things I've learned so far just seem so basic compared to what everyone else already knows. I don't know if focusing on those small accomplishments will really help me feel better about my role.",
+    "therapist": "I can really hear how challenging this is for you, and it’s totally normal to feel that way when you’re in a new environment. It’s important to acknowledge those small accomplishments because they are the building blocks of your growth. Maybe we could explore some of the automatic thoughts that come up when you compare yourself to others. What are some of the thoughts that run through your mind during those moments?",
+    "condition": "baseline",
+    "val_t": 0.10289108753204346,
+    "aro_t": 0.05865943431854248,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I often find myself thinking that everyone else seems to be doing so much better, like they’ve got it all figured out. It makes me feel like I’m falling behind, even though I know logically that’s not true. It’s hard for me to shake those thoughts, though.",
+    "therapist": "It’s really common to have those kinds of thoughts, especially in a new and demanding role. Those thoughts can be really tough to shake, but recognizing them is a great first step. Can you think of a specific moment recently when you had those thoughts, and what was happening at that time?",
+    "condition": "baseline",
+    "val_t": -0.154649019241333,
+    "aro_t": -0.015558719635009766,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I remember it was during a team meeting last week. I was presenting a new project idea, and I could feel my heart racing. I kept thinking that everyone was judging me and that I wasn't making any sense. It was really hard to focus.",
+    "therapist": "It sounds like that meeting was really challenging for you, and it’s totally understandable to feel anxious and self-conscious in that situation. Having those thoughts can make it even harder to focus and feel confident. What do you think were some of the specific things you were worried about during your presentation? How did you manage to get through it?",
+    "condition": "baseline",
+    "val_t": -0.1782165765762329,
+    "aro_t": 0.21492207050323486,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I was really worried about stumbling over my words or saying something that would make me look incompetent. I kept thinking everyone was judging me, and that just made me more nervous. I managed to get through it by focusing on my notes and trying to take deep breaths, but it was really tough.",
+    "therapist": "It’s really brave of you to push through those challenging moments, especially when you’re feeling so self-conscious. Focusing on your notes and taking deep breaths are great strategies. It’s natural to worry about how others perceive you, but it’s also important to remember that your colleagues are likely there to support you. What do you think might happen if you were to share some of these concerns with a trusted colleague or mentor?",
+    "condition": "baseline",
+    "val_t": -0.32135605812072754,
+    "aro_t": 0.13536953926086426,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard because I feel like everyone is judging me, and I'm afraid they won't understand or will think I'm overreacting. Sharing my concerns feels risky, and I worry it might make things worse.",
+    "therapist": "I understand that sharing your concerns can feel really risky, and it’s completely valid to worry about how others might react. It’s important to find someone you trust and feel safe with, someone who can offer support and maybe even some helpful perspectives. What do you think are some of the benefits and drawbacks of sharing your feelings with a colleague or mentor?",
+    "condition": "baseline",
+    "val_t": -0.2361835241317749,
+    "aro_t": 0.16470110416412354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think the main benefit would be feeling less alone and maybe getting some advice or reassurance. But the drawback is that I worry they might not understand or might judge me. It’s hard to open up when I feel like I’m already struggling so much.",
+    "therapist": "It’s completely understandable to weigh the benefits and drawbacks of sharing your feelings. Feeling less alone and getting support can be incredibly helpful, but the fear of judgment or misunderstanding is a real concern. It might be helpful to start small, maybe by sharing just a little bit with someone you trust and see how it goes. What do you think might be a small step you could take in that direction?",
+    "condition": "baseline",
+    "val_t": -0.15356457233428955,
+    "aro_t": 0.041642069816589355,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I understand what you're saying, but it's still really hard for me to open up. I worry that even a small step could backfire, and I'd feel even more alone or misunderstood. It's tough to find that balance between wanting support and fearing rejection.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. It’s a tough balance to strike, and it’s important to take your time and go at a pace that feels right for you. Maybe we can explore some ways to build your confidence and resilience in the meantime, so you feel more prepared when you do decide to open up. What are some things that have helped you feel more confident or supported in the past, even if just a little?",
+    "condition": "baseline",
+    "val_t": -0.2457726001739502,
+    "aro_t": 0.07319343090057373,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. Thinking about it, I guess the times when I’ve felt more confident were when I had a close friend or someone I trusted to talk to. But it’s hard to find that kind of support now, and I often feel like I’m just a burden to others. How do I find that kind of support without feeling guilty or lonely?",
+    "therapist": "It’s really important to have that kind of support, and it’s completely normal to feel like a burden sometimes, especially when you’re struggling. It’s a sign of strength to recognize what you need and to seek it out. One way to find support without feeling guilty is to reach out in small, manageable ways. Maybe you could start by checking in with a friend or colleague just to see how they’re doing, or perhaps join a group or community where you share common interests. What do you think about trying one of these small steps?",
+    "condition": "baseline",
+    "val_t": -0.04633772373199463,
+    "aro_t": 0.10173535346984863,
+    "text_emotion": "Neutral"
+  }
+]

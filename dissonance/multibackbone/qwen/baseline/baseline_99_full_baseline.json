@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been feeling really overwhelmed lately with my new job at the tech startup. I've been working late hours almost every day for the past month, and it's starting to take a toll on me. I'm not sure if talking about it will really help, but I feel like I need to do something before I burn out.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and it's completely understandable to feel overwhelmed in this situation. Taking the step to talk about it is a brave and important move, and it can definitely help to process these feelings. How have you been coping with the long hours, and what do you think might be the hardest part for you right now?",
+    "condition": "baseline",
+    "val_t": -0.12856483459472656,
+    "aro_t": 0.2407170534133911,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for listening. The long hours are really taking a toll on me, and I feel like I'm constantly running on empty. The hardest part is probably the loneliness—I feel isolated and like no one really understands what I'm going through. It's hard to find the energy to reach out to friends or family.",
+    "therapist": "I can really hear how exhausting and isolating this has been for you. It’s completely normal to feel drained and disconnected when you’re in such a demanding situation. Reaching out to others can feel like a big step, but it’s also important to remember that you don’t have to go through this alone. Have you thought about sharing your feelings with any close friends or family, even if it’s just a brief message or call? What do you think might make it easier to connect with them?",
+    "condition": "baseline",
+    "val_t": -0.14969325065612793,
+    "aro_t": 0.07583129405975342,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that, Luna. It does feel really exhausting. I’ve thought about reaching out, but it’s hard because I feel like I’m always the one who has to initiate things, and I worry that I’ll just be a burden or that people won’t really understand what I’m going through. It’s tough to open up when I feel so vulnerable.",
+    "therapist": "I completely understand how tough it can be to reach out when you feel vulnerable and like you’re always the one initiating. It’s natural to worry about being a burden or feeling misunderstood, and those fears can make it even harder to connect. It’s important to remember that your friends and family likely care deeply about you and would want to support you. What do you think might make it feel a bit safer or easier to share with someone you trust?",
+    "condition": "baseline",
+    "val_t": -0.14617228507995605,
+    "aro_t": 0.13921940326690674,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It’s just hard because I’ve had moments where I’ve opened up, and it felt like it fell on deaf ears or made things awkward. I guess I worry that if I share more, it might push people away or make them feel uncomfortable. How do I get past that fear?",
+    "therapist": "It’s completely understandable to feel hesitant after those experiences. It’s natural to worry about how others will react when you share your feelings, especially if you’ve felt misunderstood in the past. One way to navigate this is to start small, maybe by sharing a little bit and gauging the response. You could also consider choosing a time and setting where you feel more comfortable and supported. What do you think might be a small step you could take to start reconnecting with someone you trust?",
+    "condition": "baseline",
+    "val_t": -0.10771918296813965,
+    "aro_t": 0.16177034378051758,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying, but it's still really hard for me to open up, even just a little bit. I worry that even if I choose someone I trust, they might still react in a way that makes me feel worse. It's hard to take that risk, especially when I've been hurt before.",
+    "therapist": "I completely understand how difficult it is to take that risk, especially when you’ve been hurt before. It’s natural to want to protect yourself from further pain. It might help to start with a very small step, like sharing a light, less vulnerable part of what you’re going through, just to test the waters. How do you think you might feel if you tried that, and who do you think might be a good person to start with?",
+    "condition": "baseline",
+    "val_t": -0.3072472810745239,
+    "aro_t": 0.07453298568725586,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's hard to imagine myself opening up even a little bit, though. I worry that even a small step might lead to more misunderstanding or disappointment. It's tough to find the right person to trust, too. How do I know they won't just brush it off or make things worse?",
+    "therapist": "I understand how challenging it is to take even a small step when you’ve had negative experiences in the past. It’s completely valid to feel cautious. One thing that might help is to think about the qualities you value in a supportive friend or family member—someone who has been there for you in the past, even in small ways. Reflecting on those qualities can help you identify who might be a safer person to open up to. What qualities do you think are most important in someone you can trust with your feelings?",
+    "condition": "baseline",
+    "val_t": -0.12278282642364502,
+    "aro_t": 0.060047268867492676,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's hard for me to trust people, even when I know they might have good intentions. I think the qualities I value most in a supportive person are empathy and reliability. But even when I find someone with those qualities, I still struggle to open up because I’m afraid of being misunderstood or burdensome. It’s a cycle that feels really tough to break.",
+    "therapist": "I completely understand how tough it is to break that cycle, and it’s okay to feel that way. Trusting people, especially when you’ve been hurt before, takes time and courage. It’s really valuable that you’ve identified empathy and reliability as important qualities in a supportive person. Sometimes, just acknowledging your fears and feelings to yourself can be a powerful step. What do you think might be a small, manageable step you could take to start addressing this cycle, even if it’s just a mental shift or a tiny action?",
+    "condition": "baseline",
+    "val_t": -0.11289763450622559,
+    "aro_t": 0.08502626419067383,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It’s hard to even think about taking a step, though. I feel like every time I try to open up, something goes wrong. I’m not sure if a mental shift is enough; it feels like I need a whole new way of interacting with people.",
+    "therapist": "I understand how overwhelming and discouraging it can feel when it seems like things keep going wrong. It’s completely valid to feel stuck and unsure if a mental shift alone is enough. Sometimes, a combination of small mental shifts and tiny actions can gradually build your confidence. What do you think might be a tiny action you could take, even if it’s just something that feels a little bit safer or less risky, to start breaking this cycle?",
+    "condition": "baseline",
+    "val_t": 0.1362820863723755,
+    "aro_t": 0.12542510032653809,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It does feel overwhelming, and I’m not sure if small actions will really make a difference. But I guess I could try something small, like reaching out to a friend for a quick chat. It’s hard because I often worry about bothering them or feeling like I’m not worth their time.",
+    "therapist": "I completely understand how overwhelming it can feel, and it’s okay to have doubts about whether small actions will make a difference. Taking that step to reach out for a quick chat, even with those worries, is a brave and important move. It’s about starting small and building from there. You could try framing the chat as a casual catch-up, which might feel less pressured. How do you think you might feel after reaching out, and what might you say to start the conversation?",
+    "condition": "baseline",
+    "val_t": -0.04331541061401367,
+    "aro_t": 0.09797298908233643,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, but it still feels really daunting. I worry that I'll say something awkward or that they won't want to talk to me. I guess I can try to start with something simple, like asking how they're doing, but I'm not sure if that will actually help me feel any better.",
+    "therapist": "I understand that reaching out can feel daunting, and it’s completely normal to worry about saying something awkward or feeling like you’re imposing. Starting with a simple check-in can be a gentle and low-pressure way to connect. Even a brief conversation can sometimes make a difference in how you feel. How do you think you might feel after making that small connection, and what might be a good time for you to try reaching out?",
+    "condition": "baseline",
+    "val_t": -0.07822728157043457,
+    "aro_t": 0.06290173530578613,
+    "text_emotion": "Neutral"
+  }
+]

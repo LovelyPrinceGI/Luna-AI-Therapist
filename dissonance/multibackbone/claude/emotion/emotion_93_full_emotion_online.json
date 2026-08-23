@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately because my final exams are coming up next week and I just don't feel prepared at all. I've been working so many hours at my part-time job that by the time I get home, I'm completely drained and can't focus on studying. I don't know if talking about it is actually going to help me catch up on everything I've missed, but I figured I'd give this a shot.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — balancing work exhaustion with the pressure of exams is genuinely tough, and it makes sense that you're feeling stretched thin. You're right that talking won't magically create more study hours, but it can help us figure out what's getting in the way and how to work with what you *do* have. What feels like the biggest obstacle right now — is it more about finding the time, or about being able to focus when you do sit down to study?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14394044876098633,
+    "aro_t": 0.12286889553070068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, it's both, but if I had to pick one, I'd say it's the focus thing. By the time I actually sit down to study after my shift, my brain just feels like static — I'll read the same paragraph four times and nothing sticks. And then I start panicking about how much time I've wasted just staring at the page, which makes it even harder to concentrate.",
+    "therapist": "That cycle you're describing — the brain fog leading to panic, which then makes the fog worse — is really common and incredibly frustrating, like being stuck in quicksand. From a CBT perspective, it's worth noticing that the panic itself is being fueled by a thought, something like *\"every wasted minute is a catastrophe,\"* which actually steals even more of your focus. What do you think would happen if you gave yourself permission to have a slow, unproductive first 10 minutes as a kind of warm-up, rather than treating it as lost time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17836737632751465,
+    "aro_t": 0.1889054775238037,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and part of me gets it logically, but honestly my first reaction is that giving myself permission to be unproductive just feels like giving up. Like, if I tell myself those 10 minutes are okay to waste, won't that just become 20, then 30, and suddenly the whole morning is gone? I already feel so guilty when I'm not performing at full capacity, so I'm not sure how relaxing my standards is supposed to help rather than make things worse.",
+    "therapist": "That fear makes a lot of sense, and it's worth taking seriously rather than dismissing — but I'd gently invite you to look at the evidence, because right now the *strict* standard is already resulting in that whole morning disappearing into panic and static. The guilt you're feeling isn't actually pushing you forward; it sounds like it's become part of what's blocking you. So what would you say to a close friend who was in your exact situation — would you tell them to be harder on themselves, or would you see it differently?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2626913785934448,
+    "aro_t": 0.11432421207427979,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and honestly, if a friend came to me with this I'd probably tell them to ease up on themselves. But it feels different when it's me — like I'm supposed to know better, or I have higher stakes somehow. And I'm not sure letting myself off the hook wouldn't just turn into an excuse to keep avoiding the work I actually need to do.",
+    "therapist": "It's really telling that you'd offer compassion to a friend but feel like you somehow don't deserve the same — that double standard is worth examining, because it suggests the harsh inner voice isn't actually based on logic, it's based on a belief that *you* need to be held to a different, harsher standard to function. And notice that \"easing up\" and \"making excuses to avoid work\" aren't the same thing — one is about managing your energy wisely, the other is about giving up entirely. What do you think that harsh inner voice is actually trying to protect you from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1094588041305542,
+    "aro_t": 0.11802113056182861,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess... maybe it's trying to protect me from becoming someone who just stops trying altogether. Like, if I let myself off the hook even a little, I'm scared I'll just spiral into doing nothing and then I'll fall even further behind at work, and people will finally see that I'm not as capable as they think I am. But I hear what you're saying about the difference between managing energy and giving up — I'm just not sure I trust myself to know where that line is.",
+    "therapist": "What you just named — that fear of people finally seeing you're not as capable as they think — that's a really vulnerable and important thing to say out loud, and it sounds like a lot of this pressure is connected to that deeper fear rather than just the exams themselves. That belief, that there's a \"real you\" who isn't capable and could be exposed, is worth gently questioning, because it's likely been driving that harsh inner voice far longer than just this exam season. Where do you think that belief that you're somehow fooling people came from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2274763584136963,
+    "aro_t": 0.11712133884429932,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think it goes back pretty far, honestly — maybe to when I was a kid and my parents would brag about me to their friends, like I was this trophy, and I always felt like I had to live up to whatever version of me they were selling. I never really felt like the smart, capable person they described, I just got good at performing that role. And now it's like I've been performing it for so long that I don't even know if there's anything real underneath it.",
+    "therapist": "What you just shared takes real courage, and it's a profound insight — you've spent so long performing capability for others that you've lost touch with who you actually are underneath that role. But I want to gently offer this: the fact that you've kept going, worked a demanding job, shown up for your studies even while exhausted, and had the self-awareness just now to trace this all the way back to your childhood — that's not a performance, that's genuinely *you*. What do you think it might feel like to start separating your worth as a person from how well you perform?",
+    "condition": "emotion_text_only",
+    "val_t": 0.056668877601623535,
+    "aro_t": 0.23225939273834229,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it just feels... abstract. Like, intellectually I can nod along, but when I'm actually at work or turning in an assignment, my worth and my performance feel completely fused together — I don't even know where one ends and the other begins. How do you actually separate those things in real life, not just as a concept?",
+    "therapist": "That's such an honest and grounding question, and you're right that the concept alone doesn't change anything — the real work happens in those specific moments when the fusion feels total. One place to start is by noticing, even just as an observer, when your performance goes well: is it because *you* are worthy, or because you *performed* well — and then asking whether a bad result would actually change who you fundamentally are, or just how one thing went. It's a small, quiet practice rather than a sudden shift, but over time those moments of noticing can start to create just a little space between the two. Can you think of a recent moment — maybe something small — where you did something that felt meaningful or real, separate from how well it was received by others?",
+    "condition": "emotion_text_only",
+    "val_t": 0.030798912048339844,
+    "aro_t": 0.15155363082885742,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I mean... there was this moment last week where I was helping my younger cousin with something she was struggling with, and I wasn't thinking about whether I was doing it right or impressing anyone. It just felt like I was actually present, actually useful in a real way. But then afterward I started second-guessing whether I'd given her the right advice, and the whole feeling kind of collapsed into this familiar worry that I'd somehow messed it up.",
+    "therapist": "That moment with your cousin is really significant — before the self-doubt rushed in, you had a genuine glimpse of yourself as someone present, caring, and real, completely outside of performance. Notice that the help you gave didn't change when you started worrying afterward; your cousin's experience of you in that moment was still real, even if your inner critic tried to take it back. What do you think it would take to let that original feeling count as evidence about who you are, rather than letting the second-guessing have the final word?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28153133392333984,
+    "aro_t": 0.17660605907440186,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe it, but the second-guessing feels so automatic that it's like it gets there before I even have a chance to hold onto the good feeling. It's like the doubt is louder and faster than anything else. I guess I'm not sure I trust myself to decide what counts as evidence about who I am, because my inner critic always seems to have a pretty convincing counter-argument ready.",
+    "therapist": "That automatic speed of the inner critic is really important to name — it's had years and years of practice, so of course it feels faster and louder than a newer, kinder voice that's only just beginning to find its footing. The good news from a CBT perspective is that you don't have to *out-argue* the critic or decide once and for all what counts as evidence — you just have to practice pausing long enough to notice that it's happening, like catching yourself mid-spiral rather than stopping it entirely. What do you think it might look like to treat that moment with your cousin not as something you need to defend against your inner critic, but simply as one small piece of data you're allowed to hold onto?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06768417358398438,
+    "aro_t": 0.2116180658340454,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me wants to hold onto that moment with my cousin as something good, but then my brain immediately goes \"yeah, but that was just one time, it doesn't really mean anything.\" Like, I can see the logic of what you're describing, but actually doing it in the moment feels really different from understanding it here in this room. How do I stop the critic from just immediately swallowing up that small piece of data before I even get a chance to look at it?",
+    "therapist": "That \"just one time\" move your critic makes is actually a really revealing pattern — it's a rule your inner critic invented, that single moments don't count, but you've never really chosen to agree to that rule, it just snuck in. One small but concrete practice is to literally write down moments like the one with your cousin, not to argue with the critic, but to build a physical record that exists *outside* your head where the critic can't immediately erase it. Over time, that list becomes harder to dismiss than a feeling — does that feel like something you could actually try this week, even just with one or two small moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1115422248840332,
+    "aro_t": 0.21560990810394287,
+    "text_emotion": "Angry"
+  }
+]

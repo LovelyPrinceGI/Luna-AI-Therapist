@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been feeling really overwhelmed lately. My job as a nurse is so demanding, and with my partner deployed, I'm the only one taking care of our two young kids. It's just a lot to handle, and I'm not sure if therapy can even make a difference.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and juggling so many responsibilities. It's completely understandable to feel overwhelmed, especially with everything on your plate right now. How have you been coping with these challenges so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16282916069030762,
+    "aro_t": 0.26546311378479004,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, it’s been really tough. I’ve been trying to stay on top of everything, but I often end up feeling like I’m just barely keeping my head above water. I’ve been trying to manage my time better and take short breaks, but it doesn’t seem to be enough. I feel like I’m constantly behind and that just adds to my anxiety.",
+    "therapist": "It sounds incredibly tough, and it’s clear you’re doing your best in a really challenging situation. It’s natural to feel like you’re barely keeping up, especially when the demands are so high. Have you had a chance to talk to anyone about how you’re feeling, or are there any small things that might help you feel a bit more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27807700634002686,
+    "aro_t": 0.22408950328826904,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Thanks, Luna. It does feel like I'm constantly juggling a million things, and sometimes it's hard to even catch my breath. I haven't really talked to anyone about it much—I feel like I should be able to handle it on my own, but it's getting harder. I don't know, maybe I just need to find a way to feel more in control, but it seems so overwhelming.",
+    "therapist": "It’s completely understandable to feel that way, and it’s okay to reach out for support. Juggling so many responsibilities can be incredibly draining, and it’s important to recognize when you need a little help. Have you considered talking to a friend, family member, or even a colleague who might understand what you’re going through? What small steps do you think could help you feel a bit more in control and less overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16423499584197998,
+    "aro_t": 0.3020259141921997,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just hard because I feel like everyone around me is so busy too, and I don't want to burden them with my problems. Plus, it's not like they can really understand what I'm going through. I've tried talking to a few people, but it hasn't really made a difference. It's hard to know what small steps I can take when everything feels so overwhelming.",
+    "therapist": "I can really understand how isolating and challenging this must feel, especially when you think others might not fully understand. It’s natural to worry about burdening others, but reaching out can be a powerful way to get the support you need. Have you considered any self-care practices or activities that might bring you a sense of relief or help you recharge, even if just for a little while? What do you think might help you feel a bit more supported or less alone in this?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11050820350646973,
+    "aro_t": 0.14686155319213867,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you understand, Luna. It's just hard to find things that really help. I've tried a few things like meditation and walking, but they don't seem to make a big difference. It feels like no matter what I do, the anxiety and loneliness are still there. I don't think reaching out to others will change much either, because I feel like I'm the only one who really gets what I'm going through.",
+    "therapist": "I can see how deeply you’re feeling this, and it’s understandable that you might feel like nothing is making a big difference right now. It’s tough when the usual coping strategies don’t seem to provide the relief you need. Have you thought about trying a new approach, like journaling your thoughts or setting aside a specific time each day just for yourself, even if it’s just a few minutes? How do you think you might start to find some small moments of peace or connection in your day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11830127239227295,
+    "aro_t": 0.12828218936920166,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your suggestions, but it feels like a lot to add something new to my routine right now. I mean, I already struggle with finding time for myself, and it seems like another thing to feel guilty about if I don’t do it consistently. It’s hard to see how small moments of peace will really make a difference when the anxiety and loneliness are so overwhelming.",
+    "therapist": "I completely understand how adding something new to your routine can feel overwhelming, especially when you’re already struggling to find time for yourself. It’s natural to feel guilty about not being able to stick to new practices consistently. Maybe we can focus on finding small, manageable ways to integrate a bit of self-care without it feeling like an additional burden. What do you think about setting aside just one or two minutes a day to do something that feels good or brings you a moment of peace, even if it’s just a deep breath or a quick stretch? How might that feel for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05345642566680908,
+    "aro_t": 0.15526854991912842,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I can see where you're coming from, and the idea of just a couple of minutes does sound more manageable. But I still worry that even a small commitment like that might slip my mind or feel like another thing I'm not doing right. It’s hard because I already feel so guilty about not taking care of myself enough.",
+    "therapist": "I understand how those worries can feel very real, and it’s completely valid to feel guilty about not taking care of yourself as much as you’d like. It’s okay to start small and be gentle with yourself. Maybe we can try a different angle—what if we focus on something that’s already a part of your day and find a way to infuse a bit of self-care into that? For example, could you take a moment to savor a warm drink or take a few deep breaths while you’re already sitting down for a meal or during a brief break with your kids? How does that feel as an approach?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20270204544067383,
+    "aro_t": 0.07789337635040283,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but it still feels like a lot to manage, especially with the kids around. I worry that even those small moments will be interrupted, and then I'll just feel more frustrated. It’s hard to find any quiet time, even for a moment.",
+    "therapist": "I completely understand how challenging it can be to find those quiet moments, especially with young kids around. It’s totally valid to worry about interruptions and feeling more frustrated. Maybe we can think about a different kind of self-care that doesn’t require quiet or alone time. For example, could you find a small, enjoyable activity that you can do with your kids, like a quick game or a short story, that might bring you both some joy and a sense of connection? How do you feel about trying something like that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17443430423736572,
+    "aro_t": 0.10359609127044678,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but it's hard because even the activities we do together can feel overwhelming sometimes. I worry that I might not be able to fully enjoy them if I'm still feeling so anxious and stressed. It's like I can't shake off the guilt of not being the perfect parent, and that just adds to my anxiety.",
+    "therapist": "I can see how deeply you’re feeling this, and it’s completely understandable to struggle with enjoying activities when you’re already feeling so anxious and stressed. The guilt of not being the perfect parent is a heavy burden to carry, and it’s okay to feel that way. It might be helpful to remind yourself that it’s not about being perfect, but about being present and doing the best you can. How do you think you could be kinder to yourself in these moments, and what might help you feel a bit more at ease when spending time with your kids?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27412664890289307,
+    "aro_t": 0.169342041015625,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I really appreciate you saying that, Luna. It's hard to shake off the feeling that I should be doing more, though. I know it’s not about being perfect, but it still feels like I’m falling short a lot of the time. I guess reminding myself to be kinder to myself sounds good, but it’s hard to do when I’m already so overwhelmed. How do I even start being kinder to myself in those moments?",
+    "therapist": "I’m glad you’re finding some of this helpful, and it’s completely understandable that it’s hard to shake off those feelings of falling short, especially when you’re already overwhelmed. Starting to be kinder to yourself can feel like a big step, but it’s something you can build gradually. One way to start is by noticing when you’re being self-critical and gently redirecting those thoughts. For example, when you catch yourself thinking you’re not doing enough, you might try saying something like, “I’m doing the best I can, and that’s enough.” How do you think you could incorporate a small, kind thought like that into your day, even if just once?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05896329879760742,
+    "aro_t": 0.17383944988250732,
+    "text_emotion": "Tense"
+  }
+]

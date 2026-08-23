@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really stressed out lately about my final exams coming up next month. I keep falling behind on my study schedule, and every time I sit down to study, I just freeze up or get distracted, and then I feel even worse about it. Honestly, I'm not sure talking about it is going to magically fix the fact that I have a ton of material to catch up on.",
+    "therapist": "It sounds like you're carrying a real weight right now — the stress of falling behind, then freezing up, then feeling worse about freezing up, all stacking on top of each other in a pretty exhausting cycle. You're right that talking won't magically add hours to your day, but what we *can* do is look at what's happening in those moments when you sit down to study and freeze — because that pattern itself might be something we can shift. What do you notice going through your mind in those moments just before the distraction or freeze kicks in?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36731743812561035,
+    "aro_t": 0.16426849365234375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, when I sit down to study, the first thing that hits me is this almost immediate sense of dread, like my brain just goes \"there's too much, you can't do this.\" And then I start thinking about how far behind I already am, which makes it feel even more pointless to start because catching up seems impossible anyway. So I guess I just... drift toward my phone or something else, because at least that doesn't make me feel like a failure in that exact moment.",
+    "therapist": "That thought — \"there's too much, you can't do this\" — is doing a lot of damage before you've even opened a single book, and it makes complete sense that your mind steers you toward your phone as a kind of relief from that crushing feeling. What you're describing is a really common but painful trap: the avoidance brings temporary relief, but then quietly feeds the belief that catching up is impossible. I'm curious — when that \"it's pointless to start\" thought shows up, is there any part of you that can see evidence that contradicts it, even a small one?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34100592136383057,
+    "aro_t": 0.17572569847106934,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... I guess there have been times when I actually did catch up after falling behind, like last semester I managed to pull through even when I thought I was totally screwed. But when I'm in that moment, staring at everything piling up, that memory feels so distant, like it happened to a different person or something. It's hard to hold onto it when the panic is so loud.",
+    "therapist": "That memory of last semester is actually really important evidence — it shows that *this version of you* has already proven the \"it's impossible\" thought wrong before, even when things felt dire. It makes sense that it feels distant when the panic is loud; that's exactly what panic does, it narrows your focus so much that past successes get crowded out. What if we worked on ways to make that evidence more *accessible* to you in those high-pressure moments, so it's harder for the panic to drown it out?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29581546783447266,
+    "aro_t": 0.23202908039093018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean, yeah, I guess that's true — I did get through last semester even when I was convinced I wouldn't. But in the moment when the panic hits, it honestly feels like that was a different person, like it doesn't really count as evidence for *me* right now. I'm not sure how you'd even make something like that more accessible when my brain is basically just screaming at me.",
+    "therapist": "It's like your brain has this frustrating habit of disowning your own wins right when you need them most — and that skepticism you're feeling about whether this could even work is completely understandable. One small but surprisingly powerful CBT tool is creating something concrete, like a few sentences written in *your own words* about last semester that you keep somewhere visible — because your future panicking self finds it much harder to dismiss evidence when it's literally in your own handwriting staring back at you. Would you be open to trying something like that, even if part of you doubts it'll work?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2507692575454712,
+    "aro_t": 0.3374820947647095,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I mean, I can see why that might work for some people, but honestly my first thought is that when I'm in full panic mode before an exam, I don't think a few sentences on a piece of paper are going to cut through all that noise in my head. It feels a little too simple for how overwhelming it gets. But I guess... I don't know, maybe there's a small part of me that's curious enough to try it, even if I'm not convinced it'll actually help.",
+    "therapist": "That skepticism is actually really healthy — you're not just passively accepting something that doesn't feel true to you, and that matters. The curious part of you that's willing to try even without being convinced is honestly all we need to start, because the goal isn't blind faith in a piece of paper, it's about experimenting and seeing what *your* experience actually tells you. What do you think you'd want to write down about last semester — what would feel most true and convincing coming from your own voice?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03394722938537598,
+    "aro_t": 0.161651611328125,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I guess if I'm being honest, what felt most real last semester was just... surviving it. Like, I showed up to every class even when I was so anxious I felt sick, and I still turned things in even when I was convinced they were terrible. But saying that out loud feels almost embarrassing, like it's not impressive enough to count as evidence of anything.",
+    "therapist": "What you just described — showing up sick with anxiety, turning things in even when your inner critic was screaming they were terrible — that's not a small thing to dismiss, that's actually exactly the kind of resilience that matters most. The fact that it feels \"not impressive enough\" is worth paying attention to, because that's the same voice that tells you catching up is impossible; it has a habit of shrinking your wins to keep the story of failure intact. What do you think it says about you that you kept showing up even when every part of you wanted to give up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1616896390914917,
+    "aro_t": 0.18235909938812256,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe it, but it's hard not to feel like \"showing up\" is just the bare minimum that everyone else does without even thinking about it. Like, I'm not special for dragging myself to class when I felt terrible — that's just what you're supposed to do. I guess it says something that I didn't completely fall apart, but it still feels more like survival than anything worth being proud of.",
+    "therapist": "There's something really worth gently challenging here — you're holding yourself to a standard where doing hard things \"counts\" only if it felt effortless, but the whole point is that it *wasn't* effortless for you, and you did it anyway, which is actually the definition of courage rather than just minimum effort. That voice that says \"everyone else does this without thinking\" is worth questioning, because you don't actually have access to everyone else's inner experience — you're comparing your difficult inside to their invisible outside. Where do you think that standard came from, the idea that something only counts if it didn't cost you anything?",
+    "condition": "emotion_text_only",
+    "val_t": -0.026038169860839844,
+    "aro_t": 0.14676189422607422,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me wants to agree with it, but there's this other part that just... doesn't buy it fully. Like, okay, maybe I don't know what's going on inside other people, but I've seen how my coworkers handle stressful situations at work without falling apart the way I do, and that feels like real evidence, not just a comparison. I think the standard probably came from growing up watching my dad just push through everything without ever seeming rattled, and somehow I absorbed this idea that struggling means you're weak.",
+    "therapist": "That's a really meaningful insight — connecting that standard back to watching your dad push through everything without cracking helps explain why struggling feels like a personal failure rather than just a human experience. It's worth gently asking though: do you know for certain that your dad *wasn't* struggling inside, or is it possible you were seeing his outside the same way you fear others see yours — and drawing the same incomplete conclusion? What do you think it would mean for you if it turned out that struggling and being capable weren't actually opposites?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13156187534332275,
+    "aro_t": 0.1343168020248413,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That question actually stopped me for a second, because honestly... I don't know. I never saw my dad cry or complain, but I also never really asked him how he was doing inside — we just didn't talk like that. Maybe I was filling in the blanks the same way I assume everyone sees me as weak when I'm struggling, and I just... never questioned it.",
+    "therapist": "That pause you just took is really significant — you've carried this standard for years without ever having actual evidence it was true, and just now you caught yourself doing the same thing with your dad that you do with your coworkers, filling in the blanks with the harshest possible interpretation. There's something quietly powerful about recognizing that the voice that's been judging you most harshly might have been built on an assumption rather than a fact. What feels different, even just slightly, about how you see your own struggling now compared to when we started talking today?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18812847137451172,
+    "aro_t": 0.10267245769500732,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think... something does feel slightly different, like maybe I've been the harshest critic in the room this whole time and didn't fully realize it. But I'm also a little scared to let go of that, because part of me feels like if I stop being so hard on myself, I'll just stop trying altogether. It's like the guilt and the pressure have been the only things keeping me functional, and I don't know what I look like without them.",
+    "therapist": "That fear makes so much sense — if self-criticism has felt like the engine keeping you going, of course loosening it feels risky, like you might just drift. But it's worth questioning whether the guilt and pressure have actually been *helping* you study, or whether they've been the very thing causing you to freeze and reach for your phone in the first place. What if being kinder to yourself isn't the opposite of trying hard, but actually what makes trying feel possible?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3350670337677002,
+    "aro_t": 0.21894490718841553,
+    "text_emotion": "Angry"
+  }
+]

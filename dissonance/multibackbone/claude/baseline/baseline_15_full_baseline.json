@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately with keeping everything together at university. Between trying to maintain a perfect GPA, working my part-time job, and actually having some kind of social life, I feel like I'm constantly drowning and never doing any of it well enough. Honestly, I'm not even sure talking about it is going to change anything, because the pressure is just... real, and I don't see how a conversation fixes that.",
+    "therapist": "It sounds like you're carrying an enormous amount right now, and that exhaustion and skepticism you're feeling makes complete sense — you're not imagining the pressure, it's genuinely there. I hear your doubt about whether talking helps, and I want to honor that honestly rather than just promise it fixes everything; what we can do together is look at whether some of the weight you're carrying is being made heavier by the way you're thinking about it, like that sense of \"never doing any of it well enough.\" I'm curious — when you say you're not doing any of it well enough, what does \"well enough\" actually look like to you, and where did that standard come from?",
+    "condition": "baseline",
+    "val_t": -0.2673475742340088,
+    "aro_t": 0.13160479068756104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, I'm not even sure I can answer that question because \"well enough\" just feels like... not this. Like, I'm always behind on work, I barely call my friends anymore, and when I do finally sit down with my family I'm half-distracted thinking about everything else I should be doing. I guess the standard came from somewhere — maybe watching my mom just handle everything without complaining — but putting it that way makes it sound simpler than it feels.",
+    "therapist": "What you just did there — tracing that standard back to watching your mom — is actually really insightful, even if it doesn't make the feeling simpler or smaller. It sounds like you absorbed this idea that handling everything quietly and completely is just what you're *supposed* to do, and now anything less feels like falling short, even when you're genuinely juggling more than most people could. I wonder — if a close friend described their life the way you just described yours, would you tell them they weren't doing well enough?",
+    "condition": "baseline",
+    "val_t": -0.06894171237945557,
+    "aro_t": 0.06045806407928467,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I know what you're going to say — that I'd tell a friend they were doing amazingly and to cut themselves some slack. And yeah, I probably would. But it feels different when it's me, like the rules just don't apply the same way, and I can't fully explain why that logic doesn't transfer even when I can see it clearly.",
+    "therapist": "You're already ahead of where many people get to — you can see the double standard clearly, and you're not pretending it away, which takes real honesty. That gap between *knowing* something and *feeling* it as true is actually one of the most important things we can work with, because it tells us the belief runs deeper than logic alone — it's not a thinking problem you can just reason your way out of. I'm curious, when you imagine actually extending yourself the same grace you'd give a friend, what comes up for you — does it feel impossible, or does it feel more like something you're not sure you *deserve*?",
+    "condition": "baseline",
+    "val_t": 0.03904426097869873,
+    "aro_t": 0.08560609817504883,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "Honestly, it feels more like something I don't deserve, which I know probably sounds like exactly what you'd expect me to say. There's this voice in my head that says extending myself grace is just making excuses, like I'd be letting myself off the hook for things I actually did wrong. It's hard to separate \"being kind to myself\" from \"not taking responsibility.\"",
+    "therapist": "That distinction you're drawing — between self-compassion and excuse-making — is actually a really important one, and the fact that you're holding yourself accountable so fiercely suggests responsibility isn't something you're lacking at all. The voice that calls kindness \"letting yourself off the hook\" sounds like it's been protecting you in some way, maybe keeping you striving, but it might also be costing you more than it's giving you. I'm wondering — can you think of a specific moment recently where you made a genuine mistake, and what would \"taking responsibility without cruelty\" have looked like in that moment, compared to what you actually did to yourself?",
+    "condition": "baseline",
+    "val_t": -0.2258530855178833,
+    "aro_t": 0.08919703960418701,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I keep coming back to this thing that happened at work last week — I forgot to send an important email, and a colleague had to scramble to cover for me, and I just... I didn't stop beating myself up about it for days. I mean, I apologized to her, I fixed what I could, but in my head I was still going over it on repeat, calling myself careless and unprofessional and wondering if people think I'm incompetent. I guess \"taking responsibility without cruelty\" would have looked like apologizing, correcting it, and then actually letting it go — but that last part feels almost impossible, like if I stop punishing myself, I'm saying it didn't matter.",
+    "therapist": "You actually described \"taking responsibility without cruelty\" perfectly — apologize, fix it, let it go — and you even did the first two, which means the part that's missing isn't accountability, it's permission to stop once the repair is done. That loop of replaying and self-punishing isn't actually protecting your colleague or making you more professional; it's just suffering that comes after the real work is already finished. I want to gently challenge that belief that stopping the punishment means it didn't matter — what if the opposite were true, that someone who truly didn't care wouldn't have spent days agonizing over it at all?",
+    "condition": "baseline",
+    "val_t": -0.31731128692626953,
+    "aro_t": 0.2013101577758789,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That last part actually stopped me for a second — the idea that someone who didn't care wouldn't have agonized over it at all. I think I've been operating under this assumption that if I stop feeling bad, it means I never really cared about her feelings, like the guilt is proof of my integrity or something. But I can see how that's kind of twisted logic, even if letting go of it feels terrifying in a way I can't fully explain.",
+    "therapist": "That reframe you just made — \"the guilt is proof of my integrity\" — is a really significant insight, because it shows how a feeling that's hurting you has also been serving a purpose, acting as evidence that you're a good person. The terrifying part of letting it go might be that without the guilt, you're not yet sure what else could tell you that you care, that you have integrity, that you matter. What do you think — are there other things about you, things you do or how you show up, that could be evidence of your character that don't require you to be in pain?",
+    "condition": "baseline",
+    "val_t": -0.3095647096633911,
+    "aro_t": 0.18585336208343506,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to agree, but honestly... when I try to think of other evidence, my mind just goes blank. Like, the guilt has been so loud for so long that I'm not sure I'd even recognize something quieter as proof that I'm a good person. It's kind of scary to admit that I might have been using the pain as a shortcut to feeling like I have a conscience.",
+    "therapist": "What you just said — that you've been using pain as a shortcut to feeling like you have a conscience — is one of the most honest and courageous things you could recognize about yourself, and the fact that you can see it so clearly is itself a kind of evidence about who you are. The blankness you feel when you try to find quieter proof makes complete sense; when we've relied on one very loud signal for a long time, the softer ones genuinely do become harder to hear, but that doesn't mean they aren't there. I'd love to try something small with you — between now and the next time we talk, would you be willing to notice just one moment where you acted with care or integrity, however minor it seems, and just let yourself register it without immediately dismissing it?",
+    "condition": "baseline",
+    "val_t": -0.30967020988464355,
+    "aro_t": 0.1815270185470581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me wants to believe it, but I'm already thinking about how I'll probably just talk myself out of whatever moment I notice. Like, I'll catch myself doing something decent and then immediately think \"well, that doesn't count because your motives weren't pure\" or something like that. That's kind of my pattern — I find the loophole that cancels it out before it can mean anything.",
+    "therapist": "You just described your own pattern with such precision that you've actually already done something important — you've named the loophole before it can ambush you, which means part of you is watching it now rather than just being inside it. That voice that finds the cancellation clause, \"your motives weren't pure,\" is worth paying attention to, because it sets an impossible standard where only perfectly selfless acts count, and no human being, not even the ones you admire most, could ever meet that bar. I'm curious — whose voice does that sound like to you, the one that audits your motives and finds them wanting?",
+    "condition": "baseline",
+    "val_t": -0.09083080291748047,
+    "aro_t": 0.08365678787231445,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "That question kind of stopped me cold, honestly. Because the first face that came to mind was my dad's, and I wasn't expecting that. He had this way of always questioning why you were really doing something, like nothing was ever just... good enough or genuine enough on its own.",
+    "therapist": "That moment of surprise you just had — your dad's face appearing before you even had time to think — tells you something important, that this voice has been with you for a very long time, long before university or work or any of the pressures you're carrying now. It sounds like you grew up in an environment where your goodness was always under cross-examination, and it makes so much sense that you'd internalize that auditor and keep doing his job for him, even now. I want to sit with you in how significant that is — how does it feel to see that connection, even if it's still a little raw?",
+    "condition": "baseline",
+    "val_t": -0.08252882957458496,
+    "aro_t": 0.1532686948776245,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It feels... kind of heavy, honestly, like something just clicked into place but I'm not sure I wanted it to. I've spent so long thinking this guilt and anxiety was just about work or friendships or whatever was happening right now, and now you're saying it goes all the way back, and that's a lot to sit with. Part of me wants to push back and say maybe I'm reading too much into it, because if it really started that early, what does that even mean for fixing it?",
+    "therapist": "That heaviness you're feeling is real, and it makes complete sense that a door opening onto something this deep would feel more overwhelming than relieving at first. I want to gently push back on the idea that \"it started early\" means \"it's harder to fix\" — in some ways, naming where something came from is actually the beginning of it losing its grip, because you can start to see it as something that *happened to you* rather than something that's simply *true about you*. And I notice you're already doing the thing your dad's voice taught you — questioning whether you're \"reading too much into it,\" auditing your own insight before it can land — so I'm wondering, what would it mean for you if you allowed this realization to just be valid, without needing to argue it away?",
+    "condition": "baseline",
+    "val_t": -0.2385408878326416,
+    "aro_t": 0.18694710731506348,
+    "text_emotion": "Angry"
+  }
+]

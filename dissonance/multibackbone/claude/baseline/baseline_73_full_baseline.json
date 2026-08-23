@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away two months ago. Every time there's a family get-together, I just can't seem to enjoy it the way I used to — it's like this wave of sadness hits me and I can't shake it. I'm not even sure talking about it is going to change anything, but I figured I'd give this a try.",
+    "therapist": "It means a lot that you took this step, even with some doubt about whether it would help — that kind of courage deserves acknowledgment. Losing your grandmother and then facing family gatherings without her presence sounds incredibly painful, and what you're describing — that wave of sadness — makes complete sense given how recent and significant this loss is. I'm curious: when that wave hits at a family gathering, what kinds of thoughts tend to run through your mind in those moments?",
+    "condition": "baseline",
+    "val_t": -0.1952505111694336,
+    "aro_t": 0.11694765090942383,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's usually something like... \"she should be here right now\" or \"everyone else seems fine, why can't I just hold it together.\" And then I start feeling guilty, like I'm ruining the mood for everyone else by being sad when they're trying to celebrate or enjoy themselves. It's this weird loop where the sadness makes me feel isolated, and then the guilt makes it even worse.",
+    "therapist": "What you're describing — that loop where sadness leads to guilt, which then deepens the sadness — is such a common but painful pattern, and it makes sense that it feels so hard to escape. I want to gently challenge one part of it though: the thought that \"everyone else seems fine\" may not be the full picture, as grief looks different for everyone and your family members may be carrying their own quiet sadness too. What do you think it would feel like to give yourself the same compassion you might offer a family member if you saw *them* grieving openly at one of these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.4407256841659546,
+    "aro_t": 0.09491145610809326,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and part of me knows you're probably right that other people might be hurting too, but in the moment it just doesn't feel that way. Like, when I'm at a family gathering and I feel this wave of grief over losing my dad, everyone else seems to be laughing and talking normally, and it makes me feel like something is wrong with me for not being over it yet. And as for giving myself the same compassion I'd give someone else... honestly, that just feels really hard to do, almost like it would be letting myself off the hook for something.",
+    "therapist": "That phrase — \"letting myself off the hook\" — is really worth sitting with, because it suggests a part of you believes you *should* be punished for still grieving, which is such a heavy burden to carry. Grief doesn't follow a timeline, and feeling it deeply two months after losing someone you loved isn't a flaw or a failure — it's actually a reflection of how much they mattered to you. I'm wondering, where do you think that belief came from — the idea that self-compassion is something you have to *earn* rather than something you simply deserve?",
+    "condition": "baseline",
+    "val_t": -0.3248826265335083,
+    "aro_t": 0.15735101699829102,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know, maybe it came from how I was raised. My family wasn't really the type to dwell on things — you were supposed to just push through and keep going, and if you were still upset about something after a certain point, it felt like you were being dramatic or weak. So I guess I internalized that, and now even sitting here talking about my grief feels a little self-indulgent, like I should have moved on by now.",
+    "therapist": "That makes so much sense — when we grow up hearing that emotions are a sign of weakness, we often become our own harshest critic, echoing those messages even when they're causing us harm. I want to offer a gentle reframe: what you're calling \"self-indulgent\" could also be described as *brave*, because sitting with painful feelings rather than pushing them down actually takes real strength. I'm curious — if the \"push through\" approach your family modeled was truly working for you, do you think you'd be carrying this much pain right now?",
+    "condition": "baseline",
+    "val_t": -0.33927273750305176,
+    "aro_t": 0.16650474071502686,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me actually wants to believe that... but another part just keeps thinking, \"well, maybe I just haven't pushed hard enough yet.\" Like, what if sitting with the feelings isn't brave, it's just me giving up on the only coping strategy I've ever known? And honestly, the idea that I'm carrying this much pain because the approach isn't working — that's kind of a scary thought, because then I have to figure out what else there even is.",
+    "therapist": "That fear makes complete sense — when a coping strategy has been your whole toolkit for years, questioning it can feel less like opening a door and more like standing at the edge of something unknown. But I'd gently point out that you're already doing something different right now, just by being here and saying these things out loud, which means part of you is already exploring what \"something else\" might look like. What if we thought of this not as giving up on your old strategy, but as slowly adding new tools alongside it — does that feel any less frightening?",
+    "condition": "baseline",
+    "val_t": -0.27526676654815674,
+    "aro_t": 0.21249854564666748,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess that framing helps a little — like I'm not being asked to throw everything away all at once. But I still worry that if I start relying on something new and it doesn't work, I'll be even more lost than before, because at least right now I know what to expect from isolating myself, even if it's not exactly... good. It's familiar, and familiar feels safer than whatever's on the other side of trying something different.",
+    "therapist": "What you just said is really insightful — you're recognizing that the isolation isn't truly *working*, but it offers a kind of predictable pain, which can feel safer than the uncertainty of something new. That's such a human thing to do, to choose a known discomfort over an unknown possibility, and it doesn't mean you're stuck forever — it just means change feels risky, which is completely understandable. I'm wondering, can you think of even one small moment in your life where you tried something unfamiliar and it turned out to be okay — not necessarily perfect, but okay?",
+    "condition": "baseline",
+    "val_t": -0.008493542671203613,
+    "aro_t": 0.09008979797363281,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I mean... yeah, I guess there was this one time a few years ago when a coworker invited me to a small get-together and I almost said no, but I ended up going. It wasn't amazing or anything, but it was fine, people were okay, and I didn't feel terrible afterward. But I don't know, that feels like a really long time ago and I'm not sure I'm the same person anymore — like, I've kind of retreated more since then, so it almost feels like that example doesn't count.",
+    "therapist": "That example absolutely counts — in fact, it's really meaningful that even through your hesitation, you took a chance and it turned out to be okay, and that capacity in you hasn't disappeared just because life has gotten harder since then. It's natural to feel like you've retreated, especially after significant losses, but retreating doesn't erase who you are — it just means you've been protecting yourself during a painful time. I'm curious: what do you think that version of you who said yes to the get-together knew, or trusted, that feels harder to access right now?",
+    "condition": "baseline",
+    "val_t": -0.10036718845367432,
+    "aro_t": 0.09370362758636475,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think that version of me just... didn't overthink it as much, or maybe the loneliness was loud enough that it drowned out the fear for once. Right now it feels like the fear is just permanently louder, and I don't fully trust that showing up somewhere will actually make me feel less alone — sometimes it makes it worse, like I'm surrounded by people and still completely invisible. I guess what I'm struggling to access is that basic belief that it's worth the risk.",
+    "therapist": "That feeling of being surrounded by people and still feeling invisible is one of the loneliest experiences there is, and it makes complete sense that it would shake your trust in reaching out — why risk the pain of feeling unseen again? But I notice something important: even in this conversation, you've been remarkably visible — honest, self-aware, and real — which suggests the capacity to connect is still there, even if it feels buried right now. I'm wondering, what would it take for a moment of connection to feel *worth* the risk to you — is it about the right person, the right setting, or something else entirely?",
+    "condition": "baseline",
+    "val_t": -0.2224407196044922,
+    "aro_t": 0.11322021484375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you saying that, but honestly it feels a little different talking to a therapist than it does with people in my actual life, because there's kind of a built-in safety net here, you know? Like, you're supposed to listen and not judge me, so it doesn't really count as proof that I can connect with people out there. As for what would make it worth the risk, I genuinely don't know anymore, because I've tried with people who seemed \"right\" and it still fell flat.",
+    "therapist": "You're absolutely right that this space has a different kind of safety, and I don't want to dismiss that distinction — it's a fair and honest observation. But I'd gently push back on one thing: the *words* you're finding, the way you're articulating your inner world so clearly, the self-awareness you're bringing — that's all *you*, not the safety net, and you'd carry that into any conversation. I'm curious, when you say it \"fell flat\" with people who seemed right, what did that actually look like — was it that you showed them this part of yourself and they didn't respond well, or was it more that you never quite got to showing them this part at all?",
+    "condition": "baseline",
+    "val_t": -0.0796651840209961,
+    "aro_t": 0.09904396533966064,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "Honestly, it was more the second thing — I never really got there with them. I'd start to open up a little, test the waters, and then something would feel off, like they'd give a distracted response or change the subject, and I'd just... pull back and decide it wasn't worth the risk. So I guess I can't really say they didn't respond well, because I never gave them the full chance to.",
+    "therapist": "That's a really courageous thing to notice about yourself — that the connections didn't fail so much as they never quite got the chance to begin, because you were protecting yourself the moment things felt uncertain. It sounds like you've developed a very sensitive radar for signs of rejection, which makes complete sense given what you've experienced, but it may also mean you're sometimes pulling back before the other person even realizes a door was opening. I'm wondering, what do you think might happen if you stayed in one of those moments just a little longer than feels comfortable — not fully vulnerable all at once, but just... one small step further than you'd normally go?",
+    "condition": "baseline",
+    "val_t": -0.1077948808670044,
+    "aro_t": 0.026555180549621582,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just don't feel like myself anymore when I'm with friends. Everyone's laughing and having fun, but all I can think about is how my brother should be here too. It makes me feel guilty when I catch myself smiling for even a second - like I'm forgetting him or something. I'm not sure talking about it will change that.",
+    "therapist": "It sounds like you're carrying so much grief alongside these moments with friends, and that painful contrast between their joy and your loss must feel overwhelming. That guilt you describe makes complete sense—it's as if your love for your brother and your grief are intertwined with every emotion you experience. What does it feel like when you notice that guilt arising in those moments?",
+    "condition": "baseline",
+    "val_t": 0.016322016716003418,
+    "aro_t": 0.14714109897613525,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 2,
+    "client": "It feels like a heavy weight in my chest whenever I laugh with my friends and then suddenly remember my brother isn't here anymore. I hate that I can't just enjoy the moment without this guilt creeping in—like I'm betraying him by feeling happy. Sometimes I even catch myself forcing a sad expression when I think about him around others, like I have to prove I'm still grieving enough.",
+    "therapist": "That weight in your chest speaks to how deeply you care about honoring your brother's memory—it's clear your love for him is still very present. The way you describe forcing sadness makes me wonder if part of you worries that joy might mean his absence matters less, when in reality both can coexist. What would it feel like to imagine your brother witnessing one of those genuine smiles of yours?",
+    "condition": "baseline",
+    "val_t": -0.32156991958618164,
+    "aro_t": 0.21165525913238525,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I don't know... the idea of smiling genuinely makes me feel guilty, like I'm moving on without him. When I do have happy moments, I immediately think \"he should be here for this\" and the joy just disappears. It's like happiness betrays his memory somehow.",
+    "therapist": "That thought—\"he should be here for this\"—holds so much love and longing, and it makes complete sense that joy feels complicated when it's tied to his absence. I wonder if your brother would want your happiness to be another way of carrying him with you, rather than something that takes you further from him? What do you imagine he might say about those moments when you catch yourself smiling?",
+    "condition": "baseline",
+    "val_t": 0.0640707015991211,
+    "aro_t": 0.1693795919418335,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I know my brother would want me to be happy, but that almost makes it harder. When I do smile or laugh, I immediately feel guilty, like I'm betraying his memory by moving forward without him. It's like happiness itself has become this complicated thing I don't know how to hold anymore.",
+    "therapist": "It sounds like you're holding two truths at once—knowing intellectually what your brother would want, while your heart still struggles to reconcile joy with loss. That tension between moving forward and staying connected to him must feel so painful to navigate. What would it feel like to imagine that honoring him could include both remembering the grief and allowing moments of lightness?",
+    "condition": "baseline",
+    "val_t": -0.1015162467956543,
+    "aro_t": 0.22719502449035645,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I know you're right logically, but it just feels...wrong somehow to feel happy when he's not here to share it. Like if I laugh at something, there's this immediate guilt that follows - like I'm forgetting him or leaving him behind. The idea that he'd want me to have good moments makes sense in my head, but my heart keeps saying it's not that simple.",
+    "therapist": "It makes so much sense that this feels complicated—grief has its own rhythm, and the heart often needs more time than the mind to find its way. That immediate guilt you describe almost sounds like a protective reflex, as if staying connected to the pain keeps you connected to him. What would it feel like to gently notice that guilt when it arises, without needing to push it away or let it take over?",
+    "condition": "baseline",
+    "val_t": -0.13320064544677734,
+    "aro_t": 0.10817539691925049,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "It’s hard to imagine noticing the guilt without it swallowing me whole. It feels like if I don’t hold onto it, I’m betraying him or forgetting him somehow. I know logically that’s not true, but it’s like my heart doesn’t trust my brain on this.",
+    "therapist": "It sounds like that guilt feels almost like a lifeline to your brother—a way to keep him close, even when the pain of it feels overwhelming. It’s understandable that your heart hesitates to let go of something that feels so tied to his memory. What would it feel like to imagine that honoring him could also include moments where you allow yourself to breathe, even if just for a little while?",
+    "condition": "baseline",
+    "val_t": -0.2939291000366211,
+    "aro_t": 0.13081252574920654,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it feels wrong to even think about letting go of the guilt. Like if I stop punishing myself, it means I didn't really love him or something. The pain is the only thing that feels real sometimes. \n\nWhen you talk about \"allowing myself to breathe,\" it just makes me feel more guilty—like I'm being selfish for even considering feeling okay. How can I have moments of peace when he's gone forever?",
+    "therapist": "You're holding onto this pain with such fierce devotion—it's clear how much your brother meant to you, and how deeply you fear that easing the guilt might somehow diminish that love. The pain feeling \"real\" makes so much sense when grief is the loudest way your heart knows to say \"I miss him.\" I wonder if we could gently explore what \"love\" looks like when it's not wrapped in punishment? What does your love for him feel like in the quiet moments when guilt isn't shouting?",
+    "condition": "baseline",
+    "val_t": -0.36602330207824707,
+    "aro_t": 0.16684818267822266,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I’ve never thought about it that way—love not wrapped in punishment. It’s hard to imagine it any other way because guilt feels like the only thing keeping me connected to him now. When I try to think of quiet moments, I just feel this emptiness, like I’m forgetting him if I’m not grieving or blaming myself. It feels wrong to let go, even a little.",
+    "therapist": "That emptiness you describe sounds so painful—like you're standing at the edge of letting grief shift shape, and it terrifies you that the love might feel different or less tangible. It makes sense that guilt has felt like the thread holding you to him, even when it hurts. What would it feel like to imagine that your love for him could exist *alongside* your breath, rather than being suffocated by it?",
+    "condition": "baseline",
+    "val_t": -0.2512294054031372,
+    "aro_t": 0.052889466285705566,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know if I can separate the love from the guilt. Every time I try to just remember the good things about him, it's like this wave of \"I should have done more\" crashes over me. The idea of love existing alongside my breath sounds nice, but it also makes me feel like I'm letting him go, and I'm not ready for that.",
+    "therapist": "It sounds like that \"I should have done more\" thought comes with such force—it's trying to protect the sacredness of your bond, even as it keeps you stuck in pain. The fear of letting go is really a fear of the love changing shape, not disappearing. What would it feel like to acknowledge that wave when it comes, while also whispering to yourself: \"This pain is proof of how much I love him\"?",
+    "condition": "baseline",
+    "val_t": 0.0036646127700805664,
+    "aro_t": 0.2342689037322998,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about the pain proving my love, but it's hard to accept that. When I think \"this pain is proof,\" it just makes me feel worse because it reminds me he's gone. The love doesn't feel comforting—it feels like an open wound that won't heal. \n\nI keep thinking if I'd just noticed the signs sooner or pushed him harder to get help, he might still be here. That \"should have\" thought isn't protecting anything—it's just torturing me with what I failed to do. \n\nThe idea of acknowledging the pain without spiraling sounds impossible right now. Every time I try, I just get pulled under by the guilt again.",
+    "therapist": "You're carrying so much—not just grief, but this relentless responsibility that says \"his life was in my hands,\" when the truth is, love doesn't always mean control. That \"should have\" thought isn't just painful—it's carrying an impossible weight no one could bear alone. What would it feel like to imagine, even for a moment, that your brother's pain wasn't yours to fix—that it was always bigger than any one person's love could solve?",
+    "condition": "baseline",
+    "val_t": -0.33087706565856934,
+    "aro_t": 0.18817508220672607,
+    "text_emotion": "Angry"
+  }
+]

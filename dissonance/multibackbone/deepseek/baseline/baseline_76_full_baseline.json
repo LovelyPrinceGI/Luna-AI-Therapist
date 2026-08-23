@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I've been feeling completely overwhelmed at work. I just started this marketing role a month ago, and I'm the only junior person on a team of really experienced people. Every time I get assigned something new, I panic that I'm going to mess it up or that they'll realize they made a mistake hiring me. \n\nI'm not sure talking about this will help because the problem is real - I actually don't know what I'm doing half the time. How is therapy supposed to fix that?",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to prove your worth in this new role, which is completely understandable when starting a fresh position. What if we explore how your thoughts about potentially \"messing up\" might be influencing your confidence and approach to tasks? Could you tell me more about a specific situation where you felt this panic and how it affected you?",
+    "condition": "baseline",
+    "val_t": -0.2816627025604248,
+    "aro_t": 0.21041476726531982,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I had this big presentation yesterday, and even though I prepared for days, my mind just went blank when I stood up to speak. I stumbled through it and could see people zoning out. Now I can't stop replaying every mistake - it's like I've proven I don't belong in this role. \n\nI know you're going to say I'm being too hard on myself, but it's hard not to feel this way when the evidence feels so obvious. Everyone else seems so much more competent than me.",
+    "therapist": "That presentation sounds like it was really distressing for you, and I can hear how much it's shaken your confidence. Rather than judging whether you're being \"too hard\" on yourself, I wonder if we could look at what this experience means to you - what does stumbling through a presentation say about you as a professional?",
+    "condition": "baseline",
+    "val_t": -0.13305771350860596,
+    "aro_t": 0.18294239044189453,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess stumbling through the presentation makes me feel like an impostor. Like everyone else has it together except me, and one day they'll all find out I don't actually know what I'm doing. The worst part is I prepared so much, but my mind just blanked when I saw all those faces staring at me. \n\nBut I don't know how to stop feeling this way – it's not like I can just decide not to care if I mess up at work. That seems unrealistic.",
+    "therapist": "That \"impostor\" feeling makes complete sense given how much pressure you're putting on yourself to perform perfectly right away. Even though the presentation didn't go as planned, I notice you're overlooking something important - you had the courage to prepare thoroughly and show up despite your fears. What would it look like to extend the same compassion to yourself that you might offer a colleague in this situation?",
+    "condition": "baseline",
+    "val_t": -0.36641573905944824,
+    "aro_t": 0.24346113204956055,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I know I should be kinder to myself, but it just feels like making excuses. If I had prepared even more or practiced more, maybe it would have gone better. I see my coworkers handling these presentations so smoothly and I just feel like I don't measure up no matter what I do.",
+    "therapist": "I hear how strongly you believe that \"more preparation\" would have guaranteed a different outcome, and how painful it is to compare yourself to others. Let's gently challenge that thought - have there been times when you prepared adequately and things still didn't go perfectly for your more experienced colleagues?",
+    "condition": "baseline",
+    "val_t": -0.07377207279205322,
+    "aro_t": 0.10182607173919678,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it's different with my colleagues. They just seem to handle mistakes so much better than I do. Even when I prepare, I keep replaying every little error in my head for days, while they just shake it off and move on. It makes me feel like I'm just not cut out for this job.",
+    "therapist": "It sounds like you're not just comparing your performances, but also how you each respond to mistakes afterward - and that difference feels especially painful to you. I wonder if we could explore what might be happening when you replay those errors - what are you hoping to achieve by going over them repeatedly?",
+    "condition": "baseline",
+    "val_t": -0.027864933013916016,
+    "aro_t": 0.05945467948913574,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "Yeah, I guess I keep replaying mistakes because part of me thinks if I analyze them enough, I'll finally figure out how to never mess up again. But the more I obsess over it, the more anxious I get about the next performance. It's like I'm trying to control something that's impossible to control perfectly. \n\nSometimes I worry that if I stop analyzing every little mistake, I'll become careless or complacent. But this constant self-criticism is exhausting too. I don't know how to find a middle ground.",
+    "therapist": "You've made such an important insight here - recognizing how this cycle of over-analyzing is actually increasing your anxiety rather than improving your performance. That tension between fearing complacency and needing relief from self-criticism is very real - what would it feel like to experiment with being just 10% gentler with yourself after mistakes?",
+    "condition": "baseline",
+    "val_t": -0.2992818355560303,
+    "aro_t": 0.17658376693725586,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about being gentler, but it's hard to imagine doing that without feeling like I'm letting myself off too easy. When I make mistakes at work, my brain immediately goes to \"this proves you're not good enough\" - and part of me thinks that harshness is what keeps me improving. The idea of being 10% gentler almost makes me anxious because it feels like lowering my standards.",
+    "therapist": "It's understandable that this harsh self-talk feels protective to you - like it's the only thing keeping you striving for excellence. I wonder if we could explore how this belief developed - when in your life did you first learn that being hard on yourself was the only way to achieve success?",
+    "condition": "baseline",
+    "val_t": -0.1839745044708252,
+    "aro_t": 0.18163526058197021,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think it started when I was in high school. My parents always pushed me to get perfect grades, and I internalized that anything less than perfect meant I wasn't good enough. But now I'm exhausted from constantly beating myself up over every little mistake - it's just become automatic. \n\nPart of me worries that if I stop being so hard on myself, I'll become lazy or mediocre. That fear makes it really hard to change this pattern, even though I know it's making me miserable.",
+    "therapist": "You've done such meaningful work connecting these patterns to your childhood experiences - that pressure to be perfect clearly runs deep. It makes sense that relaxing those standards now feels risky, like you might lose your motivation entirely. Would you be open to exploring how we might separate \"healthy striving\" from \"exhausting perfectionism\"?",
+    "condition": "baseline",
+    "val_t": -0.4059722423553467,
+    "aro_t": 0.2241429090499878,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but the idea of \"healthy striving\" just sounds like watered-down perfectionism to me. When I try to lower my standards even a little, I feel like I'm being lazy or settling for less. The thought of not pushing myself 100% makes me really anxious—like I'll lose control and everything will fall apart.",
+    "therapist": "That fear of losing control if you ease up even slightly shows how deeply tied this perfectionism is to your sense of safety and self-worth. It might help to recognize that your 100% effort looks very different now as a professional than it did in high school - what if we explored what \"good enough\" could look like in your current role?",
+    "condition": "baseline",
+    "val_t": -0.19423925876617432,
+    "aro_t": 0.2192234992980957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but the thought of aiming for \"good enough\" instead of perfect makes me really anxious. What if my boss notices I'm not giving absolutely everything? I've seen people get passed over for promotions when they weren't flawless, and I can't risk that happening to me. \n\nIt's not just about work either - I feel like if I let myself slip even a little, I'll lose the respect of my colleagues and friends who count on me.",
+    "therapist": "Your concerns about professional consequences and maintaining relationships feel very real and important. I wonder if we could explore whether \"flawless\" performance is truly what earned those promotions you mentioned, or if there might be other factors at play that you're not seeing right now? What would happen if you tested this belief with small, safe experiments in less critical areas of your life?",
+    "condition": "baseline",
+    "val_t": -0.23215150833129883,
+    "aro_t": 0.17210853099822998,
+    "text_emotion": "Angry"
+  }
+]

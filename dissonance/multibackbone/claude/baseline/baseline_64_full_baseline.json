@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away six months ago. Every time there's a family get-together, I just feel this hollow emptiness instead of the warmth I used to feel, like everyone else has moved on but I'm still stuck. I'm not even sure talking about it is going to change anything, but I figured I'd try.",
+    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I want you to know that what you're feeling — that hollow emptiness, that sense of being left behind in your grief — is a completely understandable response to losing someone so important to you. Grief doesn't follow a schedule, and the fact that family gatherings now feel different doesn't mean something is wrong with you; it means you loved her deeply. I'm curious — when you're at one of those get-togethers and that emptiness settles in, what kinds of thoughts tend to run through your mind in those moments?",
+    "condition": "baseline",
+    "val_t": -0.25480926036834717,
+    "aro_t": 0.11829173564910889,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the thoughts are kind of all over the place, but the main one is something like... \"everyone else has moved on and you're still stuck.\" I look around and see my cousins laughing and talking and it just makes me feel like I'm on the outside of a glass wall, watching something I can't be part of anymore. And then I feel guilty for even feeling that way, like I'm ruining the gathering just by being sad inside my own head.",
+    "therapist": "That image of being behind a glass wall is such a vivid and honest way to describe feeling disconnected, and I want to gently point something out — you're carrying not just the grief itself, but also a layer of guilt *on top* of it for simply feeling what you feel, which sounds exhausting. I'd also invite you to examine that thought \"everyone else has moved on\" — is it possible that others are also grieving quietly, but like you, hiding it so as not to \"ruin\" the gathering? What do you think your grandmother would say if she knew you were being this hard on yourself for missing her?",
+    "condition": "baseline",
+    "val_t": -0.33999645709991455,
+    "aro_t": 0.15489709377288818,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "That question about my grandmother... that actually hit me harder than I expected. She would have hated seeing me beat myself up like this — she was always the one telling me I was too hard on myself even when she was alive. But I guess part of me feels like if I let go of the guilt, it means I'm admitting I really am just... falling apart at these family things, and that feels worse somehow.",
+    "therapist": "It's really moving that her voice is still so present for you, and it sounds like she knew you deeply and loved you with real clarity. What you just named is so important — that the guilt, as painful as it is, might actually be serving as a kind of armor, protecting you from what feels like an even scarier truth about struggling. I'm wondering, though: is \"falling apart\" really what's happening, or might it be that you're someone who's still in the middle of something hard, doing your best to show up anyway — which actually sounds a lot more like strength than falling apart to you?",
+    "condition": "baseline",
+    "val_t": -0.45508265495300293,
+    "aro_t": 0.22375094890594482,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and part of me wants to believe it, but it's hard not to feel like \"doing my best\" is just a nice way of framing what still looks like failure from the inside. Like, my grandma never seemed to struggle the way I do — she just handled things, quietly and without all this... mess. I guess I worry that calling it strength is just something people say to make you feel better, not something that's actually true.",
+    "therapist": "It's so natural to hold her up as a kind of standard, especially when you loved and admired her so much — but I'd gently wonder whether you truly saw *all* of her inner life, or whether she, too, may have had her own quiet struggles that she kept hidden, perhaps even to protect the people she loved. What you're calling \"mess\" — this willingness to actually feel things, to question yourself, to sit here and do this hard work — is something real, not just a comforting phrase. Can you think of a time your grandmother showed vulnerability or struggle, even in a small way, that maybe you've been filtering out of the picture you hold of her?",
+    "condition": "baseline",
+    "val_t": -0.1712554693222046,
+    "aro_t": 0.0918264389038086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I have to admit, that question kind of stopped me for a second. There was this one time I remember my grandmother sitting at the kitchen table really late at night, just staring at nothing, and when I asked her if she was okay she kind of laughed it off and said \"just old thoughts, mija.\" I always filed that away as nothing, but maybe it wasn't nothing — maybe she was carrying something she didn't want me to see.",
+    "therapist": "That memory feels really significant — \"just old thoughts, mija\" is the voice of someone who knew how to carry weight quietly, just like you're trying to do now, which means you may be more like her than you've been giving yourself credit for. She protected you from her struggles out of love, and it makes sense you'd idealize her strength, but it also means you've been measuring yourself against an incomplete picture. What does it feel like to sit with the possibility that she wasn't without her own \"mess\" — just that she loved you too much to let you see it?",
+    "condition": "baseline",
+    "val_t": -0.030532479286193848,
+    "aro_t": 0.18681204319000244,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "That idea... it kind of breaks something open in me, honestly, because I've spent so long thinking she just had it together in a way I never could. If she was hiding her own mess out of love, then maybe I've been chasing this impossible standard that wasn't even real to begin with. But it also makes me feel a little sad, like I lost something — the version of her I thought I knew.",
+    "therapist": "What you're describing is actually a second layer of grief — mourning not just her presence, but also the image of her you held so closely, and that's a real and valid loss that deserves to be honored, not rushed through. And yet there's something quietly beautiful here too: the grandmother who emerges from this new understanding — someone who struggled, who carried \"old thoughts,\" who loved you enough to shield you — feels even more human and more genuinely connected to you than the impossible standard ever could have been. I'm wondering, if you could sit with her at that kitchen table right now, knowing what you know, what would you want to say to her — or maybe ask her?",
+    "condition": "baseline",
+    "val_t": -0.3300384283065796,
+    "aro_t": 0.18023788928985596,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I've been sitting with that question and... honestly, I think I'd want to ask her if she was lonely too. Like, did she carry all of that by herself, the way I feel like I'm carrying everything now, and just never let anyone see it? There's something both comforting and really sad about that thought, because it makes me feel closer to her, but it also makes me wonder if this loneliness is just... something that gets passed down, and I don't know how to break that.",
+    "therapist": "The way you just connected to her across that question — wondering if she was lonely too — feels like one of the most tender and honest moments of grief I've heard, and it speaks to how deeply you're still in relationship with her even now. I want to gently challenge one piece though: loneliness being \"passed down\" can feel like a life sentence, but you're actually doing something she may never have had the chance to do — you're naming it out loud, in the open, to another person, which is already a quiet act of breaking the pattern. What would it mean for you, and maybe even for her memory, if you chose to let people a little closer to your \"old thoughts\" instead of carrying them alone the way you imagine she did?",
+    "condition": "baseline",
+    "val_t": -0.18731868267059326,
+    "aro_t": 0.09377515316009521,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That's... a really hard question to sit with, because part of me wants to believe that sharing could actually change something, but another part of me keeps thinking, what if I let someone in and they just don't know what to do with it, or worse, they pull away. I think that's what scares me most about breaking the pattern — not the trying, but the possibility that I'd reach out and still end up alone anyway. And then I'd have proof that the loneliness isn't just inherited, it's just... mine.",
+    "therapist": "That fear makes complete sense — risking connection and still ending up alone would feel like the loneliness was confirmed as a fundamental truth about you, and that's a much scarier prospect than never testing it at all. But I want to reflect something back to you: you took exactly that risk today, right here, by sharing some of your most tender and frightening thoughts with me, and something happened — you weren't left alone with them. I'm wondering, is there one person in your life, even just one, who has ever given you a small sign that they might be capable of sitting with your \"old thoughts\" without pulling away?",
+    "condition": "baseline",
+    "val_t": -0.27551209926605225,
+    "aro_t": 0.15748441219329834,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying about today, and I guess... yeah, something in me does feel a little less alone right now, which is strange to admit. But when you ask about someone in my real life, my mind kind of goes blank, and then I start second-guessing every person I think of. There's my friend Dara, but she has her own stuff going on, and I always feel like I'm too much for her even though she's never actually said that.",
+    "therapist": "It's worth pausing on the fact that when you actually searched for someone, Dara's name came up — your mind didn't stay blank, it found her, which suggests some part of you already senses she might be safe. And that thought \"I'm too much for her\" is one I'd gently invite you to examine, because you said she's never actually said that — which means that belief is coming from inside you, not from her, and it may be the same protective armor we talked about earlier keeping you behind that glass wall. What do you think Dara might actually say if she knew you'd been carrying all of this alone for six months?",
+    "condition": "baseline",
+    "val_t": -0.1511625051498413,
+    "aro_t": 0.1883927583694458,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think Dara would probably say something like \"why didn't you tell me sooner\" and maybe be a little hurt that I kept her out. But that's kind of what scares me, honestly — the idea that she'd want to be there for me, because then I'd actually have to let her in, and I don't know if I can do that without falling apart completely. It's easier to tell myself she'd be overwhelmed than to face the possibility that she wouldn't be.",
+    "therapist": "You just said something really profound — that it's easier to protect yourself with a story that keeps people away than to face the more vulnerable truth that someone might actually show up for you, and that's such an honest and courageous thing to recognize about yourself. I also want to gently offer this: \"falling apart\" in front of Dara might not be the catastrophe it feels like — it might actually be the very thing that lets her finally reach you through that glass wall. What would \"falling apart\" in front of her actually look like in your mind, and is it possible that what you're imagining is worse than what would really happen?",
+    "condition": "baseline",
+    "val_t": -0.3160388469696045,
+    "aro_t": 0.265220046043396,
+    "text_emotion": "Angry"
+  }
+]

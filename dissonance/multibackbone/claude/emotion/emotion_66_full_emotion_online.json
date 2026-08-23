@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my dad passed away a few weeks ago. I can't seem to focus at work at all — I'll sit down to do something and then just... blank out, or find myself getting weirdly angry at nothing in particular. I'm not even sure talking about it is going to help, but I figured I should try something because I can't keep going on like this.",
+    "therapist": "I'm really glad you reached out, and I want you to know that what you're carrying right now — the grief, the difficulty concentrating, the unexpected bursts of anger — all of that makes complete sense given the loss you've just been through. It takes real courage to try something when you're not even sure it will help, and that willingness matters. Can you tell me a little more about what a typical moment looks like when you suddenly blank out or feel that anger rising — what's usually going on around you when it hits?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3768399953842163,
+    "aro_t": 0.1371445655822754,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It usually hits me when things get quiet, like when I'm sitting at my desk trying to work and there's no noise around me. My mind just... goes somewhere else, and then I realize I've been staring at the same sentence for twenty minutes and I feel this wave of frustration that turns into anger pretty fast. I think part of me is angry that I'm supposed to just keep functioning normally when nothing feels normal anymore.",
+    "therapist": "That insight you just shared — that you're angry about being expected to function normally when nothing *is* normal — feels really important, and honestly quite understandable given how raw everything still is. There's often an unspoken pressure we put on ourselves to \"keep going\" even while grieving, and that tension between what we feel and what we think we *should* be doing can quietly fuel a lot of frustration. When that expectation to function normally shows up, whose voice does it sound like — is it coming from others around you, or more from inside yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4162724018096924,
+    "aro_t": 0.28826892375946045,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, I think it's both, but if I'm being real with myself, the loudest voice is my own. Like, I've internalized this idea that falling apart is some kind of failure, that I should be able to handle this because other people have gone through worse. And then I feel guilty for even feeling this way, which just makes everything heavier.",
+    "therapist": "What you're describing — grief layered with guilt layered with self-judgment — is such a heavy combination to carry, and it makes sense that it's weighing you down. That thought, \"other people have gone through worse, so I should be able to handle this,\" is actually a really common thinking pattern we can explore together, because it essentially tells your pain it doesn't have the right to exist. What do you think you might say to a close friend who came to you with that exact same thought about their own grief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3059622049331665,
+    "aro_t": 0.11812889575958252,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... if a friend said that to me, I'd probably tell them that their pain is valid no matter what anyone else has been through. But it feels different when it's me saying it to myself — like that logic doesn't apply the same way. I don't know why I can extend that kind of compassion to other people but when I try to turn it inward it just feels hollow, like I'm lying to myself.",
+    "therapist": "You've just noticed something really profound — that you *know* the compassionate response, but it doesn't yet feel true when you direct it at yourself, and that gap between knowing and feeling is actually very common and very workable. That hollow feeling isn't evidence that self-compassion is a lie; it's more likely that you've had so much more practice being your own critic than your own supporter, so the kinder voice just hasn't built up its strength yet. What do you think has taught you, over time, that you deserve less gentleness than the people you care about?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27521204948425293,
+    "aro_t": 0.11165571212768555,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I think a lot of it goes back to this belief that I'm supposed to have things figured out by now, like there's some invisible standard I keep failing to meet. When other people struggle, I see it as understandable, human even, but when I struggle it feels like proof that something is fundamentally wrong with me. I'm not even sure where that came from, honestly, it's just always been there, like background noise I stopped questioning.",
+    "therapist": "That \"background noise you stopped questioning\" is such a vivid way to describe it — these deeply held beliefs about ourselves often feel less like *thoughts* and more like just... the truth, simply because they've been there so long. But the fact that you can now hear it, name it, and even feel a little uncertain about where it came from is actually the first real step toward loosening its grip. I'm curious — if that belief that \"something is fundamentally wrong with me\" had to present its evidence in court, what would it actually point to?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11077558994293213,
+    "aro_t": 0.08862602710723877,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I like the court metaphor, even if it feels a little uncomfortable. I guess the \"evidence\" would be things like... I've never really had close friendships that lasted, and I always seem to push people away before they get too close. But even as I say that out loud, I'm realizing I don't actually know if that proves something is wrong with me, or if it just means I've been really scared and lonely for a long time.",
+    "therapist": "That reframe you just made in real time is genuinely significant — you shifted from \"this is proof I'm broken\" to \"this might be evidence of pain and fear,\" and that's not a small thing. Those two interpretations point to completely different futures: one closes the door, the other opens it. I'd gently wonder with you — if loneliness and fear have been driving people away rather than something fundamentally wrong with you, what might that mean for what you actually need right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17880761623382568,
+    "aro_t": 0.02914583683013916,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe it... but it's hard not to immediately think, okay, even if that's true, what does it actually change? Like, if I've been pushing people away out of fear, that almost makes it worse in a way, because now I feel guilty on top of everything else. I guess what I need is connection, but that feels so far away and almost impossible to reach for right now.",
+    "therapist": "That guilt making its way in again — even when you find a kinder explanation, it finds a new angle to come through, and that's exhausting. What I want to gently reflect back is that recognizing the fear doesn't mean you've failed for all these years; it means you've been protecting yourself the best way you knew how, and that's actually very human. Connection feeling far away right now makes complete sense given everything you're grieving — but I'm curious, is there even one small, low-stakes moment or person in your life where something like connection, even briefly, feels slightly less impossible?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24092531204223633,
+    "aro_t": 0.17322933673858643,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate what you're saying, and part of me does hear it... but honestly, my first reaction is still that familiar \"yeah, but.\" There's this one coworker, Diane, who sometimes checks in on me in the break room, and those few minutes don't feel completely unbearable — but then I immediately think, she's just being polite, she doesn't actually care. I guess I'm wondering if that even counts, or if I'm just grasping at something that isn't really there.",
+    "therapist": "Those few minutes with Diane that feel \"not completely unbearable\" — that actually counts, and I don't want you to brush past it too quickly. Notice that your mind immediately reached for \"she doesn't actually care\" without really examining the evidence, which is that same inner critic finding a way to block connection before it can feel real. What would it look like to just let those moments with Diane exist without immediately having to decide whether they're real or not — to hold them a little more lightly, as something small but possibly worth paying attention to?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0651317834854126,
+    "aro_t": 0.16237866878509521,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, but honestly it feels kind of risky to let those moments just... exist without analyzing them. Like if I don't examine whether they're real, I might end up investing in something that turns out to be nothing, and then I'm just more hurt than before. I've done that before with people I thought cared, and it didn't end well.",
+    "therapist": "That fear makes a lot of sense given that you've actually been hurt before by trusting something that didn't hold — your mind learned that analyzing first is how you stay safe, and that was a really understandable adaptation. But I'm wondering if there's a cost to that protection too, where the very thing that keeps you from getting hurt is also keeping you from ever feeling close to anyone. What do you think it would take — even just a tiny bit — to feel like connection was worth the risk again?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2738683223724365,
+    "aro_t": 0.17565369606018066,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... yeah, I think you're right that there's a cost. I spend so much time analyzing whether people are trustworthy that I never actually let anyone in, and then I end up sitting alone on a Friday night wondering why I feel so disconnected. But when you ask what it would take to feel like connection is worth the risk again, honestly my first thought is \"nothing, because it's not\" — and I know that sounds bleak, but it feels true right now.",
+    "therapist": "Thank you for saying that honestly rather than giving me the answer you thought I wanted — that kind of honesty takes courage, and it tells me how tired and worn down you really are right now. I want to gently hold two things at once: that \"it's not worth it\" feels completely true *in this moment*, and that you're also a person who is still here, still talking, still trying something even when you weren't sure it would help. What do you think it means that some part of you showed up today anyway, even while another part feels like connection isn't worth the risk?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05876946449279785,
+    "aro_t": 0.07994294166564941,
+    "text_emotion": "Neutral"
+  }
+]

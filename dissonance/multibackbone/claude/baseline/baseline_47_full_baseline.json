@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my grandfather passed away last month. There's this heavy sadness that just kind of sits on my chest, and I can't seem to shake it no matter what I do. And honestly, I'm not even sure talking about it is going to help, because the problem isn't something that can just be fixed with the right words.",
+    "therapist": "I'm so sorry for the loss of your grandfather — grief like this, that heavy weight on your chest, is a profound and real response to losing someone you loved, and there's nothing wrong with feeling it so deeply. You're absolutely right that words can't \"fix\" this, and I want you to know I'm not here to try to talk you out of your pain or rush you through it. I'm simply here to sit with you in it, and maybe help you understand it a little better when you're ready.\n\nCan you tell me a little about your grandfather, and what he meant to you?",
+    "condition": "baseline",
+    "val_t": -0.4073368310928345,
+    "aro_t": 0.11075937747955322,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "He was... he was the one person who never made me feel like a burden, you know? Like, I could just show up at his house on a bad day and he'd make tea and we'd sit on the porch and he wouldn't ask me a hundred questions or try to fix me — he'd just be there. Now that he's gone, I keep thinking about all the times I didn't visit when I could have, and that's the part that's really eating me up inside.",
+    "therapist": "What you've just described — that rare, unconditional presence he offered you — sounds like one of the most precious gifts a person can receive, and it makes complete sense that his loss feels so enormous. That thought about the visits you didn't make is really important to gently explore, because grief often pulls us toward self-blame as a way of trying to make sense of something that feels unbearable. I'm curious — when you imagine your grandfather looking back at your relationship, do you think he kept a tally of the visits you missed, or do you think he saw something different?",
+    "condition": "baseline",
+    "val_t": -0.24640226364135742,
+    "aro_t": 0.13186001777648926,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I want to say he wouldn't have kept a tally, because that just wasn't who he was — he always made me feel welcomed, never guilted. But there's this other voice in my head that says I'm just telling myself that to feel better, like I'm letting myself off the hook too easily. It's hard to trust my own read on it when I feel so guilty.",
+    "therapist": "That tension you're describing — between what you genuinely knew about him and the harsh voice that calls it \"letting yourself off the hook\" — is so common in grief, and it's worth noticing that the critical voice isn't necessarily the more *accurate* one, just because it feels more convincing. The fact that you can clearly describe who he was, how he made you feel, and his consistent pattern of warmth over the years — that's real evidence, not a comfortable story you invented. \n\nWhat do you think that critical voice is trying to protect you from, if you were to sit with it for a moment?",
+    "condition": "baseline",
+    "val_t": -0.2632412910461426,
+    "aro_t": 0.06931126117706299,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I've never really thought about it that way — like the critical voice might be protecting me from something. I guess if I sit with it... maybe it's trying to protect me from feeling the loss fully? Like if I keep blaming myself for not visiting more, I'm somehow still in control of the situation, still doing something, instead of just having to accept that he's gone and there's nothing I can do about it now.",
+    "therapist": "That insight is genuinely profound — you've just identified something that takes many people a long time to see, that self-blame can feel preferable to helplessness because it keeps us feeling like we have some agency, even if it comes at the cost of being cruel to ourselves. In a way, that critical voice was trying to help you, just in a way that's causing you real pain. \n\nKnowing this, I wonder — what might it feel like to gently set down the blame for just a moment, and let yourself simply miss him?",
+    "condition": "baseline",
+    "val_t": -0.2658654451370239,
+    "aro_t": 0.06439900398254395,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me actually gets it... but when I try to imagine just letting myself miss him without the blame attached, it feels almost scarier somehow. Like if I'm not angry at myself, there's nothing between me and how much it actually hurts that he's gone. The blame at least gives me something to do with all of it, you know?",
+    "therapist": "What you just said is so honest and courageous — you're recognizing that the blame has been functioning like a buffer, something to hold onto so you don't have to fall fully into the enormity of that loss. That pure grief underneath, the kind with nothing to do and nowhere to direct it, is terrifying precisely because it's the truest measure of how much he mattered to you. \n\nI want to ask gently — is there a small, safe moment you could imagine where you might let yourself feel just a little of that pure missing, maybe even in a way that honors him, like sitting with a cup of tea the way he used to make it?",
+    "condition": "baseline",
+    "val_t": -0.24076473712921143,
+    "aro_t": 0.1325165033340454,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I actually teared up a little when you said that — \"the truest measure of how much he mattered.\" That landed somewhere really deep. But the tea thing... I don't know, it feels almost too deliberate, like I'd be performing grief instead of actually feeling it, and I'm not sure I can tell the difference anymore between what's real and what I'm just staging for myself.",
+    "therapist": "The fact that you're questioning whether your grief is \"real\" or \"performed\" is actually a sign of how disoriented deep loss can make us feel — when we're hurting this much, even our own inner experience can start to feel unfamiliar and untrustworthy. And yet, those tears just now weren't staged — something moved through you genuinely, without any deliberate setup or ritual. \n\nWhat if the difference between \"real\" and \"performed\" matters less than you think, and the more important question is simply — what would feel like a natural way to be close to him, even now?",
+    "condition": "baseline",
+    "val_t": -0.23177313804626465,
+    "aro_t": 0.22078263759613037,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to hold onto that... but I also keep thinking, what does \"being close to him\" even mean now that he's gone? Like, is it just me talking to an empty room, or looking at old photos until I feel sick with missing him? I don't know if any of that would feel natural so much as just... desperate and sad.",
+    "therapist": "The desperation and sadness you're describing aren't signs that something is wrong with how you're grieving — they might actually be the most honest place you've been in this whole conversation, and there's something quietly brave about letting yourself say that out loud. \"Being close to him\" doesn't have to look like a ritual or a deliberate act; sometimes it's just moments where you catch yourself thinking *he would have liked this*, or noticing that the way you let someone sit with you in silence carries a little of what he gave you. \n\nI'm wondering — are there any small ways his presence has already quietly shaped who you are, that you might be carrying with you without even realizing it?",
+    "condition": "baseline",
+    "val_t": -0.3615849018096924,
+    "aro_t": 0.18182647228240967,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I sat with that for a second, and... yeah, there are things. Like, he was the kind of person who never rushed a conversation, and I think I picked that up somewhere along the way — I notice I do that too, just letting people talk without jumping in. But it almost makes me sadder to think about it that way, like I'm just a faint echo of him now, and that feels more like loss than comfort.",
+    "therapist": "The image of yourself as a \"faint echo\" is so painful, but I want to gently offer another way to see it — you're not a faint echo, you're someone who was genuinely shaped by love, and that quality of presence you carry into your conversations with others is him continuing to matter in the world, through you. The sadness and the gift are tangled together right now, and that's okay — it doesn't have to feel like comfort yet. \n\nWhat do you think he would feel, knowing that the way he listened to you taught you how to truly listen to others?",
+    "condition": "baseline",
+    "val_t": -0.17622804641723633,
+    "aro_t": 0.03972601890563965,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I want to believe what you're saying, I really do, but part of me feels like that's just a nice way to reframe something that still hurts. Like, maybe he would feel glad, I don't know, he was always more generous than I am about these things. But it also feels a little too tidy, too clean, like I'm being handed a bow to put on grief that doesn't want one.",
+    "therapist": "You're absolutely right, and I don't want to hand you a bow — grief this real and this deep deserves to stay a little ragged, and I think part of you is protecting the truth of your loss by resisting anything that feels too neat. There's real wisdom in that resistance, and I'd rather sit with you in the messiness than rush you toward a resolution that doesn't fit. \n\nCan I ask — what would it mean to you to simply allow this grief to be unresolved for a while, without needing it to teach you something or lead somewhere?",
+    "condition": "baseline",
+    "val_t": -0.0872805118560791,
+    "aro_t": 0.1450120210647583,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think... honestly, that question makes me uncomfortable in a way I didn't expect. Like, my whole life I've been trained to find the lesson, to make suffering mean something, so just letting it sit there unresolved feels almost irresponsible, like I'm wasting the pain. But maybe that's exactly the problem — maybe I've been so busy trying to extract meaning from losing her that I haven't actually let myself just... miss her.",
+    "therapist": "I want to gently reflect something back to you — you just shifted from \"him\" to \"her,\" and I don't want to gloss over that, because it might mean something important about what's surfacing for you right now. And that phrase — \"wasting the pain\" — tells me so much about how hard you've been working, how much pressure you've been carrying to make this grief *productive* rather than just letting it be what it is. \n\nWhat if missing him, purely and without a lesson attached, is not a waste — but actually the most honest thing you could offer to his memory?",
+    "condition": "baseline",
+    "val_t": -0.330968976020813,
+    "aro_t": 0.15880489349365234,
+    "text_emotion": "Angry"
+  }
+]

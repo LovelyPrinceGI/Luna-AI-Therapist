@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I started this new job at the tech startup — the pace is just relentless and I feel like I'm drowning most days. Last week I missed a really important deadline, and I can't stop replaying it in my head, like it's on a loop. I'm not even sure talking about it is going to change anything, because the pressure is still there waiting for me when I leave this office.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — the relentless pace, the missed deadline replaying in your mind, and even some doubt about whether this conversation can help. That last part is worth gently noticing, because that thought — *\"talking won't change anything\"* — might itself be worth exploring, since it could be making it harder to find any relief. When you imagine leaving here today and facing that pressure again, what's the specific thought that feels most stuck or most painful?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29295575618743896,
+    "aro_t": 0.20707178115844727,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the thought that keeps coming back is something like \"I'm falling behind and I'm never going to catch up, and everyone can see it.\" It's like I'm constantly waiting for someone to call me out, to say I don't actually belong in this role. And the worst part is, even when I do get something done, it doesn't really feel like relief — it just feels like I bought myself a little more time before the next failure.",
+    "therapist": "What you're describing — this sense that even your wins just delay the next failure — sounds exhausting and relentless, like there's no safe ground to stand on. That pattern has a name in CBT: it's often called \"impostor thinking,\" where your mind discounts evidence of your competence and keeps moving the goalposts. I'm curious — if a colleague came to you and described making the same mistake you made last week, what would you actually think about *them* and their belonging in the role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.286556601524353,
+    "aro_t": 0.14440476894378662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, if a colleague made the same mistake I did, I'd probably think it was just a normal slip-up and that it doesn't define their whole ability to do the job. But when I try to apply that same logic to myself, it just... doesn't land the same way, like there's this wall that stops me from believing it. I know what you're getting at with the double standard, and part of me can see it intellectually, but it still feels like my situation is somehow different, like the rules don't apply to me the same way.",
+    "therapist": "It's really significant that you can see the double standard clearly — that awareness is genuinely important, even if it doesn't feel like enough yet. That wall you're describing, the sense that the rules somehow don't apply to you, is worth getting curious about — because it's doing a lot of work to keep that harsh self-judgment in place. What do you think that wall is protecting you from, if you *did* let yourself be treated with the same fairness you'd extend to a colleague?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2114558219909668,
+    "aro_t": 0.11500668525695801,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I've been sitting with that question and honestly my first reaction is... fear, I think. Like if I stop being so hard on myself, maybe I'll just stop trying altogether, or I'll miss something important that I should be catching and fixing. It's almost like the harsh voice is the only thing keeping me accountable, and without it I'm not sure I can trust myself.",
+    "therapist": "That fear makes a lot of sense — it's like your inner critic has taken on the role of a safety system, and letting it go feels genuinely risky, not just uncomfortable. But it's worth gently questioning the assumption underneath it: is there any real evidence from your life that self-compassion leads to carelessness, or might it actually be that the harsh voice is *draining* the energy you need to perform well? What would \"healthy accountability\" — the kind that motivates without punishing — even look like to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35785388946533203,
+    "aro_t": 0.2687569856643677,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and honestly, part of me wants to agree with it. But when I try to imagine being gentler with myself after I mess something up at work, I just feel this panic like... if I let myself off the hook even a little, I'll stop caring altogether. I don't actually have solid proof that's true, but the fear feels so real that it's hard to separate it from fact.",
+    "therapist": "You've just done something really important — you noticed that the fear feels real *and* that it isn't the same as being true, and that distinction is exactly where change becomes possible. That panic is your mind treating a story (\"I'll stop caring\") as a fact, when really it's a prediction that's never actually been tested. What might it look like to run a small, safe experiment — just once, after a minor slip-up — where you respond to yourself with a little more kindness and see what actually happens to your motivation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26609110832214355,
+    "aro_t": 0.2519204616546631,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me gets it intellectually, but honestly the idea of being kind to myself after a slip-up just feels... wrong, like I'd be letting myself off the hook too easily. Like, what if that one time I go easy on myself actually does make me care less, and then I've proven my own fear right? I guess I'm willing to try it, but I'm already dreading the guilt I'll feel for even attempting it.",
+    "therapist": "There's something quietly courageous in what you just said — you're willing to try even while dreading it, and that matters. It's also worth noticing that you're already anticipating guilt *for attempting self-compassion*, which suggests the inner critic is working overtime to protect its own job! What if the goal of the experiment isn't to feel good about the slip-up, but simply to respond to yourself the way you'd respond to that colleague — not letting yourself off the hook, just treating yourself as equally human?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26186251640319824,
+    "aro_t": 0.18097364902496338,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and the \"equally human\" framing actually lands a little differently than I expected. But I think my worry is that if I treat myself the way I'd treat a colleague, I'll just... stop caring enough to do better next time. Like, the guilt is uncomfortable, but it's also what makes me show up and try harder at work, and I'm scared that without it I'd just become someone who makes excuses for themselves.",
+    "therapist": "It sounds like the guilt has become so intertwined with your sense of responsibility that they feel like the same thing — but they might actually be quite different. Guilt that punishes you after the fact is different from genuine care about your work, and it's worth asking: when you think about the colleagues you respect most, do you imagine they're driven by harsh self-punishment, or by something that feels more like values and investment in what they do? What if the thing that actually makes you show up isn't the guilt itself, but a deeper care about your work that would still be there without it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31077730655670166,
+    "aro_t": 0.14703881740570068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That's... actually an interesting way to put it, and part of me wants to agree with you. But honestly, I'm not sure I trust that the care would still be there without the guilt — like, what if the guilt is the only thing keeping me from completely dropping the ball? It's been there so long that I genuinely can't picture what showing up to work would even feel like without that weight sitting on my chest.",
+    "therapist": "There's something really poignant in what you just said — the guilt has been there so long that it's become part of the furniture, and imagining life without it feels more disorienting than relieving. That actually tells us something important: this isn't really about motivation anymore, it's about identity — the guilt has become so familiar that it feels like *you*, rather than something happening *to* you. I'm curious — can you remember a time, even briefly, when you did something well at work and felt genuine satisfaction rather than just relief, and what was driving you in that moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16467583179473877,
+    "aro_t": 0.10589480400085449,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I have to think about that for a second... there was this one project about two years ago where I actually felt proud, not just relieved, when it went well. I'd stayed late a few nights because I genuinely cared about getting it right, not because I was scared of failing. But honestly, even as I say that, I notice I'm already second-guessing it, like maybe I'm just remembering it wrong or inflating it.",
+    "therapist": "That memory is really significant — you just described intrinsic motivation in action, staying late because you *cared*, not because you were afraid, and that's exactly the kind of drive that doesn't need guilt to exist. And notice what happened the moment you touched something positive: your mind immediately moved to discount it, which is that same inner critic doing its work in real time. What would it mean for your current story about yourself if that memory is actually accurate — that the care was real, and it was enough?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0038634538650512695,
+    "aro_t": 0.14961326122283936,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... if that memory is accurate, then maybe I'm not as hollow as I feel right now. But it's hard to hold onto that, because the person who stayed late that night feels like a stranger to me at this point. I don't know how to connect her to who I am now, when most days I can barely get myself to open my laptop without dreading everything that comes with it.",
+    "therapist": "What you just said — \"maybe I'm not as hollow as I feel right now\" — is a really tender and important crack of light, and I don't want it to pass by unnoticed. That person who stayed late isn't a stranger who disappeared; she's someone who got buried under two years of relentless pressure and self-criticism, and the fact that you can still remember what she felt like suggests she's still in there. What do you think she would need — even just one small thing — to start feeling a little less buried right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27063679695129395,
+    "aro_t": 0.2164074182510376,
+    "text_emotion": "Angry"
+  }
+]

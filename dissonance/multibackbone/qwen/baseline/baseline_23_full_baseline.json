@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately, especially with family gatherings. Every time I go, I feel this overwhelming sadness because I keep thinking about my dad who passed away two months ago. It's hard to be around everyone and feel like I can't fully participate or enjoy the time together. I don't know if talking about it will really make a difference, but I feel stuck.",
+    "therapist": "Hi there, I'm so glad you reached out. It sounds incredibly tough to navigate those family gatherings while carrying such a heavy heart. It's completely understandable to feel stuck and sad, especially when memories of your dad are so present. How have you been coping with these feelings when they come up?",
+    "condition": "baseline",
+    "val_t": -0.3720482587814331,
+    "aro_t": 0.15731489658355713,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really hard. I find myself trying to avoid family gatherings or just staying quiet when I'm there. Sometimes I end up feeling guilty for not being more engaged or for bringing down the mood. It's like I can't shake off the sadness and it just keeps me from enjoying the moment.",
+    "therapist": "I can see how much this is affecting you, and it's completely normal to feel guilty or withdrawn in these situations. It's okay to take time to grieve and to need space, but it's also tough when you feel like you're missing out or affecting others. Have there been any moments, no matter how small, where you felt a glimmer of connection or a brief respite from the sadness during these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.12709450721740723,
+    "aro_t": 0.1267768144607544,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's hard to think of those moments, to be honest. I feel like every time I try to connect, it just ends up making me feel worse about myself. I don't know if I can even remember a time when I felt a glimmer of connection lately.",
+    "therapist": "I can imagine how challenging it must be to even consider those moments, given the weight of your grief. It's completely understandable to feel like every attempt to connect just brings more pain. Sometimes, even the smallest moments of connection can be hard to recognize in the midst of such deep sadness. Is there a particular activity or person that, even in a small way, has ever brought you a sense of comfort or a brief moment of peace?",
+    "condition": "baseline",
+    "val_t": -0.16541194915771484,
+    "aro_t": 0.07698583602905273,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you saying that, Luna. It's hard to think about those moments because they do bring up a lot of pain. I guess there have been times when my dog, Max, has been a source of comfort. Just being with him, even if it's just sitting quietly, can make me feel a bit better, but it's still hard to see that as a real connection when everything else feels so isolating.",
+    "therapist": "It's really touching to hear about the comfort Max brings you. It's okay to acknowledge those moments of connection, even if they feel small or fleeting compared to the overall sadness. Connecting with Max might be a way to gently start rebuilding a sense of connection in your life. How do you think you could build more of those moments with Max into your routine, or even explore other small ways to find comfort during tough times?",
+    "condition": "baseline",
+    "val_t": -0.00435483455657959,
+    "aro_t": 0.041875481605529785,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's true, spending time with Max does make me feel a bit better, even if it's just for a little while. But it's hard to find the energy to make it a regular thing. I worry that if I try to force it, it won't feel genuine or that I'll just end up feeling more isolated when I can't keep it up.",
+    "therapist": "I understand how challenging it can be to find the energy to do things that bring comfort, especially when you're feeling so drained. It's completely valid to worry about forcing it or feeling more isolated. Maybe we could explore some small, gentle steps you could take to spend time with Max without it feeling like a big effort. For example, could you set aside just a few minutes each day to sit with him, maybe while you both relax or do something low-key together? How does that sound?",
+    "condition": "baseline",
+    "val_t": -0.07867550849914551,
+    "aro_t": 0.05902683734893799,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestion, Luna. It does sound easier than trying to force a big hangout, but I still worry that even a few minutes might feel overwhelming. I guess my mind keeps telling me that I'll just end up feeling guilty for not being more present or for not doing more.",
+    "therapist": "I completely understand those worries, and it's really common to feel that way when you're dealing with grief and sadness. It's important to be gentle with yourself and recognize that even a few minutes can be a meaningful act of self-care. What if we tried to reframe those few minutes as a small, kind gesture to yourself, rather than a task to be completed? How does it feel to think about those moments as a way to give yourself a little break, without the pressure to be more present or do more?",
+    "condition": "baseline",
+    "val_t": -0.14044785499572754,
+    "aro_t": 0.12324285507202148,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard for me to see those moments as kind gestures when I feel so overwhelmed by everything. I worry that if I take even a small break, I might fall further into my anxiety and guilt. It feels like a double-edged sword.",
+    "therapist": "I can see how overwhelming and conflicting those feelings are for you. It's completely understandable to worry that taking a break might lead to more anxiety and guilt. Maybe we can think of these small moments as a way to give yourself a tiny bit of relief, rather than a complete escape. How about starting with just a single, gentle act of self-care, like sitting with Max for a minute or two, and see how it feels? What do you think about trying that as a way to gently test the waters?",
+    "condition": "baseline",
+    "val_t": -0.12659692764282227,
+    "aro_t": 0.2386559247970581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, and I really do want to try, but it's hard to just take a minute for myself without feeling guilty. I worry that even a small break will make me feel like I'm not doing enough for Max or for myself. It's like I'm stuck in this cycle where I can't catch a break without feeling bad about it.",
+    "therapist": "I hear you, and it's completely valid to feel that way. Guilt and anxiety can really hold us back, even when we're trying to take care of ourselves. It might help to think of these small moments not as breaks, but as acts of kindness and self-compassion. Can we try to reframe these moments as a way to honor your feelings and your relationship with Max, rather than something you have to feel guilty about? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.3086799383163452,
+    "aro_t": 0.1377410888671875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you saying that, Luna. It's hard for me to see these moments as acts of kindness because I feel like I'm neglecting Max's needs. I worry that if I take too much time for myself, I won't be there for him when he needs me. It's a tough balance to find.",
+    "therapist": "I can see how much you care for Max and how important it is to you to be there for him. It's a tough balance, and it's completely understandable to feel like you're neglecting his needs when you take time for yourself. However, taking care of yourself can actually help you be more present and available for Max in the long run. Could we explore a way for you to take a small, gentle moment for yourself that also involves Max, like a short walk together or a quiet moment where you both just relax? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.07865476608276367,
+    "aro_t": 0.043007612228393555,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I understand what you're saying, and I really do want to find a way to take care of myself without feeling guilty. But it's hard because I worry that even a short walk or quiet time with Max might not be enough for him, and I'll end up feeling like I'm not doing enough. I guess I just need to figure out how to stop those guilty thoughts from taking over.",
+    "therapist": "I can see how much you're struggling with those guilty thoughts, and it's completely understandable to worry about not doing enough for Max. It's a common challenge, but it's important to remember that taking care of yourself isn't selfish—it's necessary for both of you. Could we try to identify some of those automatic thoughts that come up when you consider taking a moment for yourself? For example, what are some of the specific thoughts that make you feel guilty? Once we have a clearer picture, we can explore them together and see if there are other perspectives that might help you feel more at ease.",
+    "condition": "baseline",
+    "val_t": -0.2319432497024536,
+    "aro_t": 0.1408902406692505,
+    "text_emotion": "Angry"
+  }
+]

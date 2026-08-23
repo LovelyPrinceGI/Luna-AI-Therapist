@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed lately with everything going on in my final semester. There's this constant pressure to get top grades, and it got so much worse last week when I overheard some of my classmates talking about these incredibly detailed study schedules they already have mapped out — and I just felt completely behind and unprepared. I'm not sure talking about it is actually going to change anything, but I figured I'd give this a shot.",
+    "therapist": "It sounds like you're carrying a lot right now — the pressure of final semester combined with that moment of overhearing your classmates seems to have really stirred up some feelings of being behind, even if things may not be as dire as they feel in that moment. It's completely understandable to feel skeptical about whether talking will help, and I'm glad you decided to try anyway. I'm curious — when you heard your classmates talking about their schedules, what was the first thought that popped into your head about yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1254972219467163,
+    "aro_t": 0.27687323093414307,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "My first thought was something like, \"Everyone else has it figured out except me.\" It just hit me immediately, this sinking feeling that I'd somehow missed some memo that everyone else got about how to manage all of this. And then I felt kind of embarrassed, like I should already know what I'm doing by now — it's my final semester, after all.",
+    "therapist": "That thought — \"everyone else has it figured out except me\" — is such a painful one to carry, and it makes sense it brought that sinking, embarrassed feeling with it. In CBT, we'd call this a kind of \"mind reading,\" where we assume we know what's true for everyone else, often based on very limited information like a snippet of conversation. I wonder — if you stepped back for a moment, what's the actual evidence you have that your classmates truly \"have it all figured out,\" versus what might just be the version they're showing on the outside?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3978499174118042,
+    "aro_t": 0.2088996171951294,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and I guess logically I know people don't always show their struggles. But in the moment, when I'm sitting in class and everyone seems so confident and on top of things, it just feels really real, you know? Like, the evidence my brain latches onto is right there in front of me, and telling myself \"maybe they're just pretending\" feels kind of hollow and forced.",
+    "therapist": "You're touching on something really important — knowing something logically and *feeling* it as true are two very different experiences, and it makes sense that the rational reframe can feel hollow when the emotional pull of what you're seeing is so immediate and vivid. Rather than trying to convince yourself \"they're probably pretending,\" it might be more useful to gently shift the focus inward — not to compare, but to ask what *you* actually need right now to feel more prepared. What would feeling \"on top of things\" actually look like for you specifically, in a way that fits how you work best?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22183609008789062,
+    "aro_t": 0.23538494110107422,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and I guess shifting the focus to what I actually need makes more sense than trying to convince myself everyone else is faking it. But when I try to think about what \"on top of things\" would look like for me, I honestly just draw a blank — like I don't even know what that feels like anymore. It's been so long since I've felt prepared for anything that I'm not sure I have a reference point to work from.",
+    "therapist": "It sounds like the exhaustion has been going on long enough that you've almost lost touch with what feeling okay even feels like — that's a really important thing to notice, and it deserves some gentleness rather than pressure to figure it all out at once. Instead of reaching for a big picture of \"prepared,\" let's start smaller — can you think of even one moment, maybe earlier in your studies or in any area of life, where you felt even just a little bit capable or settled? That small memory might give us a thread to work with.",
+    "condition": "emotion_text_only",
+    "val_t": -0.07322824001312256,
+    "aro_t": 0.19073092937469482,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, but honestly it's hard to even think of a moment like that right now — my mind just kind of goes blank when I try to reach back for something positive. There was maybe a time in my first year when I finished an assignment and felt like, okay, I actually did that, but it feels so distant it almost doesn't feel real anymore. I guess I'm a little skeptical that holding onto one small memory is going to do much when everything right now feels so overwhelming.",
+    "therapist": "That memory from first year — even if it feels distant — is actually really meaningful, because it tells us that the capability you're doubting in yourself *has* existed, and that's not nothing. I hear your skepticism too, and I don't want to oversell one small memory as a fix for everything feeling this heavy right now. I'm wondering though — when you think about that moment of finishing that assignment, what was it about *how you worked* that made it happen, even if you can't fully feel it anymore?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13023030757904053,
+    "aro_t": 0.2483454942703247,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess... I just kept my head down and didn't let myself think too far ahead. Like, I broke it into smaller pieces and just focused on the next sentence, the next paragraph, instead of the whole thing looming over me. But honestly, it feels like a different person did that — I don't know if I can access that same headspace anymore, especially now when everything feels so much heavier and I'm so much more alone.",
+    "therapist": "What you just described — breaking things down, staying with just the next small step — that's actually a real skill, and it came from *you*, not from some version of you that's gone. I also want to gently hold onto the word you used just now — \"alone\" — because that feels like it might be carrying a lot of weight alongside everything else. Can you tell me a little more about what that loneliness looks like for you right now — is it about feeling disconnected from people around you, or more like feeling like no one else would really understand what you're going through?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2517225742340088,
+    "aro_t": 0.14596998691558838,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Yeah, \"alone\" is... it's both, I think. Like, I have people in my life — coworkers, a few friends I still text sometimes — but when I try to explain what's been going on with work and how overwhelmed I've been, I can see their eyes kind of glaze over, or they just say \"everyone's stressed\" like that's supposed to help. It ends up feeling worse somehow, like I reached out and still came back empty.",
+    "therapist": "That experience of reaching out and still coming back empty is such a specific kind of loneliness — almost worse than not trying, because there's that moment of hope before the disconnection. It makes sense you'd start to pull back or wonder why bother, when the attempts to connect leave you feeling more invisible than before. I'm curious — when your friends say things like \"everyone's stressed,\" what's the part that stings most: feeling like your struggle is being minimized, or something more like feeling like *you specifically* aren't being seen?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3333388566970825,
+    "aro_t": 0.152024507522583,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think it's both, honestly, but if I had to pick... it's more that I specifically aren't being seen. Like, I know everyone has hard times, I'm not saying my stress is more important than theirs, but when I try to open up and the response is basically \"yeah, same,\" it feels like I just got lumped into this general pile of struggling humanity and my actual experience just... disappeared. There's something almost humiliating about it, like I made myself vulnerable and it didn't even register.",
+    "therapist": "What you're describing — making yourself vulnerable and feeling like it just dissolved into the air without landing — that takes something from you each time it happens, and the humiliation in that is real and valid. It's not about your pain being bigger than others', it's about wanting to be *known* as a specific person with a specific experience, not just a category. I wonder, has there ever been a moment — even briefly — where someone *did* make you feel that kind of specific, seen feeling, and what made that different?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32120537757873535,
+    "aro_t": 0.16776537895202637,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "There was this one time, maybe two years ago, a coworker named Dara stayed late with me after a really rough meeting and just... asked follow-up questions. Like she actually remembered what I'd said the week before and connected it to what was happening in that moment. I remember feeling almost startled by it, like I wasn't used to someone tracking me that closely. But then she moved away for a new job a few months later, and I think that almost made it worse somehow, because now I know what it feels like and how rare it is.",
+    "therapist": "Dara sounds like she gave you something really precious — that experience of being *tracked*, of someone holding your story across time — and it makes complete sense that losing that made the absence of it everywhere else feel sharper and more painful, not easier. There's something bittersweet and tender in the way you described feeling almost startled by her attention, like part of you had already quietly accepted that level of care wasn't really available to you. I'm curious — what do you think it says about you that you were able to recognize and receive that connection so clearly when it was offered, even if it felt unfamiliar?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06153571605682373,
+    "aro_t": 0.17059767246246338,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I've been sitting with that question and... I think part of me wants to say it means something good about me, but another part immediately pushes back and says I was just desperate, you know? Like maybe I latched onto Dara's attention because I was so starved for it, not because I have some special capacity for connection. It's hard to tell the difference between being open-hearted and just being lonely enough to grab onto anything that feels warm.",
+    "therapist": "There's something really honest and courageous in the way you're holding both of those possibilities at once rather than just taking the easy, reassuring answer — and I'd gently push back on the idea that \"being lonely enough to recognize warmth\" and \"having a genuine capacity for connection\" are actually opposites. Someone who is purely desperate tends to latch onto *anyone*, indiscriminately — but you're describing something quite specific about *Dara*, about her follow-up questions, her memory, her attentiveness — which suggests you weren't just grabbing at warmth, you were recognizing something real and responding to it with real discernment. What do you think it would mean for how you see yourself if both things could be true — that you were lonely *and* that your capacity for connection is genuine?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1498798131942749,
+    "aro_t": 0.14752459526062012,
+    "text_emotion": "Angry"
+  }
+]

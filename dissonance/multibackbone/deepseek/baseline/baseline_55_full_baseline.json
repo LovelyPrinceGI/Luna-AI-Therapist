@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really stressed since losing my job back in February. Every time I sit down to update my resume, I just freeze up because I don't know how to make myself stand out anymore. The bills keep piling up and I feel like I'm falling behind everyone else my age.",
+    "therapist": "It sounds like losing your job has left you feeling stuck and overwhelmed, especially when facing tasks like updating your resume. That sense of comparing yourself to others must add another layer of pressure—what thoughts come up when you notice yourself making those comparisons?",
+    "condition": "baseline",
+    "val_t": -0.3477332592010498,
+    "aro_t": 0.1097564697265625,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking \"Everyone else is so much further ahead in their careers\" whenever I see LinkedIn updates from my old coworkers. It makes me feel like such a failure that I can't even bring myself to open my resume file - what's the point when I'll never measure up? \n\nBut then I also know this thinking isn't helping me move forward, which just makes me feel more stuck. It's like my brain is working against me.",
+    "therapist": "I hear how these comparisons create a painful cycle where the self-doubt makes taking action feel impossible, which then reinforces the feelings of falling behind. When you notice that thought \"I'll never measure up,\" what evidence might challenge or support that belief?",
+    "condition": "baseline",
+    "val_t": -0.3758605718612671,
+    "aro_t": 0.1159738302230835,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess the evidence against it would be that I have managed to accomplish some things in the past, like finishing school or holding down a job. But it's hard to focus on that when I see people my age buying houses or getting promotions - that's when the \"never measure up\" feeling hits hardest. \n\nThe evidence supporting the belief is everywhere though - social media, conversations with friends, even family members asking when I'll \"settle down.\" It feels like the world is constantly showing me how far behind I am.",
+    "therapist": "You're doing important work by recognizing both sides of this—your past accomplishments and the external pressures that trigger self-doubt. What do you notice happens to your motivation when you focus on those external comparisons versus when you remember your own capable moments?",
+    "condition": "baseline",
+    "val_t": -0.1805884838104248,
+    "aro_t": 0.11107957363128662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I notice that when I compare myself to others, I just freeze up and can't get anything done. But when I remember times I actually succeeded at something, I feel a little spark of energy—though it's hard to hold onto that feeling. It's frustrating because the comparisons feel automatic, while the positive memories take so much effort to focus on.",
+    "therapist": "It makes sense that those automatic comparisons feel more powerful—our brains are wired to notice threats, even social ones. That small spark when recalling your successes is valuable—what would it look like to gently nurture that spark when it appears?",
+    "condition": "baseline",
+    "val_t": 0.01521599292755127,
+    "aro_t": 0.12217879295349121,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about nurturing that spark, but it's hard when the negative comparisons feel so much louder and more real. When I do try to focus on my successes, it almost feels like I'm lying to myself or being arrogant. Like I'm just pretending to be better than I actually am.",
+    "therapist": "It sounds like there's a real tension between acknowledging your strengths and worrying it might be dishonest or boastful. What do you think makes it feel more acceptable to focus on shortcomings than to recognize your genuine capabilities?",
+    "condition": "baseline",
+    "val_t": -0.19715666770935059,
+    "aro_t": 0.17455852031707764,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess focusing on my shortcomings feels safer because it's what I'm used to. If I start acknowledging my strengths, it feels like I'm setting myself up for disappointment when I inevitably fail at something. Plus, I worry people will think I'm arrogant if I talk about what I'm good at.",
+    "therapist": "You've identified such an important pattern—how self-criticism can feel protective against both failure and judgment from others. What would it look like to balance this by acknowledging your skills while also accepting that setbacks are a normal part of growth?",
+    "condition": "baseline",
+    "val_t": -0.16457438468933105,
+    "aro_t": 0.08921539783477783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about accepting setbacks, but it's hard when mistakes feel so personal. Like last week at work when I messed up a presentation, I couldn't stop thinking how everyone must think I'm incompetent. Acknowledging my skills feels fake somehow - like I'm just pretending to be better than I am.",
+    "therapist": "It sounds like that presentation experience really reinforced the belief that mistakes define your competence, which makes acknowledging your strengths feel inauthentic. What would it look like to view that presentation not as proof of incompetence, but as an opportunity to learn and grow?",
+    "condition": "baseline",
+    "val_t": -0.2395116090774536,
+    "aro_t": 0.15874731540679932,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about seeing it as a learning opportunity, but it's hard to shake the feeling that I should have known better. Everyone else seemed so polished and prepared, while I stumbled over my words. It makes me question if I'm really cut out for this role at all. \n\nThe idea of reframing it sounds nice in theory, but in the moment it just felt like public proof that I'm not as capable as my colleagues.",
+    "therapist": "That moment of stumbling must have felt so exposing—like your inner doubts were suddenly visible to everyone. When you compare your preparation to others', what might you be overlooking about your own unique strengths that don't show up in polished presentations?",
+    "condition": "baseline",
+    "val_t": -0.11667025089263916,
+    "aro_t": 0.10949790477752686,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I've never really thought about my strengths in those moments. All I can focus on is how I messed up and how everyone must be judging me. It's like my brain only sees the flaws—even if other people don't notice them as much as I do. \n\nBut when you ask about unique strengths... I don't know. Maybe I'm better at reading the room than some people who just deliver perfect speeches? That doesn't feel very impressive though.",
+    "therapist": "It's interesting how quickly your focus shifts to what you perceive as flaws, while dismissing strengths like reading the room—which is actually a valuable skill in many professional settings. What would it feel like to gently redirect your attention to those unique qualities when self-doubt starts to take over?",
+    "condition": "baseline",
+    "val_t": -0.1534435749053955,
+    "aro_t": 0.0858311653137207,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but when I try to focus on my strengths, it just feels forced and fake. Like I'm trying to convince myself of something I don't really believe. The negative thoughts feel more real and automatic to me. \n\nIt's especially hard at work because I'll notice one small mistake and then suddenly all my \"strengths\" disappear from my mind. I know logically that reading people well is useful, but in the moment it never feels like enough.",
+    "therapist": "It makes complete sense that these positive reframes feel inauthentic when they contradict such deeply held beliefs about yourself. That automatic dismissal of your strengths—especially when mistakes happen—shows how powerful these thought patterns are. What would it be like to simply notice when this happens, without trying to force the positive thoughts just yet?",
+    "condition": "baseline",
+    "val_t": -0.09727036952972412,
+    "aro_t": 0.12145674228668213,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I'm just so exhausted all the time lately. Between working late at the law firm and trying to finish my master's thesis, I feel like I'm constantly drowning. I'm not sure talking about it will help because honestly, it's not like my workload is going to change - these deadlines are real and can't be negotiated.",
+    "therapist": "It sounds like you're carrying an incredibly heavy load right now, and that exhaustion feels inescapable because the demands are fixed. While we can't change the deadlines, we might explore how you're thinking about this situation - when you say you're \"constantly drowning,\" what thoughts go through your mind in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24520552158355713,
+    "aro_t": 0.11077594757080078,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking, \"I'll never catch up, and everyone will see I'm not good enough.\" It's like my brain is stuck on this loop where I imagine failing spectacularly at work. The worst part is I know it's irrational, but that doesn't make the panic any less real when it hits.",
+    "therapist": "That self-critical loop sounds really painful, especially when you intellectually know these fears may be exaggerated but your emotions still feel so intense. Let's look at this together - when you imagine \"failing spectacularly,\" what specific evidence do you have that contradicts this worst-case scenario?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35259032249450684,
+    "aro_t": 0.2515302896499634,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know logically that I haven't completely failed at things before, but my mind keeps going back to that one time I bombed a presentation at work last year. Even though my boss said it wasn't that bad, I still feel this intense shame when I think about it. It's like my brain focuses only on that moment and ignores all the times presentations went fine.",
+    "therapist": "It sounds like that one difficult experience has left a particularly strong emotional imprint, overshadowing your other successes. When you notice your brain focusing only on that memory, what would happen if you gently reminded yourself of three times your presentations actually went well?",
+    "condition": "emotion_text_only",
+    "val_t": -0.39595890045166016,
+    "aro_t": 0.16308534145355225,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but when I try to think about past successes, they just don't feel as real or important as that one bad experience. It's like my brain keeps going back to that failure no matter what - like it's trying to protect me from ever feeling that embarrassed again.",
+    "therapist": "It makes sense that protective part of you holds onto that memory so tightly - embarrassment can feel especially vulnerable. Let me ask: when you consider how much effort you're putting into avoiding that feeling again, what might it cost you to keep carrying this protective pattern?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2585015296936035,
+    "aro_t": 0.1966712474822998,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "It feels like this memory is just stuck to me, you know? Like no matter how much I try to push it away, the embarrassment creeps back in whenever I'm in similar situations. I don't want to keep carrying it, but the thought of actually facing it head-on makes my stomach twist - what if I just end up feeling even worse?",
+    "therapist": "That hesitation makes complete sense - when emotions feel this sticky, the idea of facing them can understandably bring up physical discomfort. Could we try something gentler than pushing through or avoiding - perhaps simply noticing when the memory surfaces, and observing how it affects you in the moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3747231960296631,
+    "aro_t": 0.26897871494293213,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I could try noticing it, but I don't see how that's different from what I'm already doing. When the memory comes up, I definitely notice it - that's the problem. It makes my chest feel tight and my hands shake, and then I just want to distract myself from it.",
+    "therapist": "I hear how intensely this memory affects you physically when it surfaces - that tightness and shaking sounds really uncomfortable. What if we approached this noticing differently, not to push the feelings away or get caught in them, but to simply observe them with curiosity, like watching waves come and go? Would you be willing to try that together now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20027410984039307,
+    "aro_t": 0.24820995330810547,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I don't know... when the anxiety hits that hard, it feels impossible to just observe it. It's like my whole body is screaming danger and I can't think straight. The wave metaphor sounds nice in theory, but in the moment it feels more like being caught in a tsunami than watching from shore. \n\nI've tried mindfulness stuff before and it just made me feel worse because I couldn't do it \"right.\" What if trying to observe the feelings just makes me focus on them more?",
+    "therapist": "I hear how overwhelming those physical sensations become - when your body's screaming danger, no wonder mindfulness approaches have felt impossible or even counterproductive before. Rather than forcing observation, what if we first worked on grounding techniques that help dial down the intensity, so you're not facing the tsunami directly? Would you be open to trying something more concrete together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2636007070541382,
+    "aro_t": 0.20399653911590576,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you acknowledging how intense the physical sensations are—most people just tell me to \"calm down\" like it's that simple. But I'm skeptical about grounding techniques too... last time I tried focusing on my senses, it just made me more aware of how fast my heart was racing and how shaky I felt. Doesn't that make things worse?",
+    "therapist": "It sounds like you've had some frustrating experiences where well-meaning suggestions ended up amplifying your distress rather than helping. Let's honor that skepticism - what if we approached this differently by finding just one small, concrete action that might create even a tiny bit of relief, without requiring you to focus inward when that feels too intense? Maybe we could brainstorm what's helped even momentarily in past moments of overwhelm?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17674636840820312,
+    "aro_t": 0.21509337425231934,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That actually sounds a little more doable than the usual therapy suggestions. I remember sometimes just pacing around my apartment helps take the edge off when I'm really wound up. But then I feel stupid, like I'm just avoiding dealing with the real issue. It's hard to trust that small things like that actually matter when the anxiety always comes crashing back.",
+    "therapist": "It's completely understandable to doubt whether small actions make a difference when the anxiety feels so persistent - that self-judgment about \"just avoiding\" adds another layer of difficulty. What if we reframed pacing as giving your nervous system what it needs in that moment, rather than seeing it as avoidance? When you've paced in the past, did you notice any shift, however slight, in how the anxiety felt afterward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11763334274291992,
+    "aro_t": 0.0849066972732544,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about reframing it as giving my nervous system what it needs, but honestly when I pace around my apartment, the anxiety just follows me. It feels like I'm just running away from my thoughts in circles. Sometimes it even makes me more aware of how restless and trapped I feel. \n\nI want to believe small actions help, but in the moment it's hard to notice any shift - maybe because I'm too focused on beating myself up for not being able to just sit still and handle it.",
+    "therapist": "I hear how that restlessness makes even movement-based coping feel frustrating when your critical thoughts follow you - that double layer of physical discomfort and self-judgment sounds exhausting. Rather than focusing on whether the pacing \"works,\" what if we simply noticed how you relate to your own attempts to cope? What happens if you try meeting that self-critical voice with some curiosity about where it's coming from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2096031904220581,
+    "aro_t": 0.27445363998413086,
+    "text_emotion": "Angry"
+  }
+]

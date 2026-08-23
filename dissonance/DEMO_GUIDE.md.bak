@@ -1,0 +1,247 @@
+# 🎬 Luna AI Therapist — Demo Guide
+
+คู่มือการรัน demo สำหรับอัดคลิปหน้าจอ (defense video)
+
+> ⭐ **อัปเดตล่าสุด:** มี **Custom Demo (Advisor Version)** — บทสนทนาสั้น 3 utterances ที่เขียนเอง + เสียงจริง เปรียบเทียบแบบ controlled (ประโยคเดียวกันเป๊ะทั้ง 2 conditions) → ดูวิธีทำที่ [Section 8](#8-custom-demo-advisor-version-) แนะนำใช้อันนี้เป็นวิดีโอหลัก
+
+---
+
+## 1. เตรียมสภาพแวดล้อม (ครั้งแรกครั้งเดียว)
+
+ติดตั้ง Gradio:
+
+```powershell
+pip install gradio
+```
+
+> ถ้าเครื่องมีหลาย Python ให้ใช้ตัวเดียวกับที่รัน pipeline เดิม (Python 3.11+)
+
+ตรวจว่าข้อมูลครบ:
+
+| ข้อมูล | Path | ต้องมี |
+|---|---|---|
+| Dialogues | `dissonance\multibackbone\gpt4o-mini\{baseline,dissonance}\` | ✅ |
+| Audio (WAV) | `dissonance\own_script\dissonance\voice\gpt4o-mini\` | ✅ |
+| Eval scores | `dissonance\evaluation\evaluation_outputs\` | ✅ |
+
+---
+
+## 2. รัน Demo
+
+```powershell
+cd C:\Luna-AI-Therapist\dissonance
+"C:\Users\Legion 5 Pro\AppData\Local\Programs\Python\Python311\python.exe" -m demo_luna
+```
+
+จะเห็นข้อความประมาณนี้:
+
+```
+* Running on local URL:  http://127.0.0.1:7860
+```
+
+เปิด browser ไปที่ **http://127.0.0.1:7860**
+
+หยุดโปรแกรม: กด `Ctrl+C` ใน terminal
+
+---
+
+## 3. วิธีใช้งานหน้า UI
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  Session Mode:  (•) Dissonance   ( ) Baseline            │
+│  Dialogue:      [ 42 ▼ ]          [ ↺ Reset ]            │
+├───────────────────────────────┬──────────────────────────┤
+│  CHAT                         │  METADATA PANEL          │
+│  (แชท client/therapist)       │  - Text VA / Speech VA   │
+│                               │  - Delta + 🚩 flag       │
+│  [ ▶ Next Turn ]              │  - Vocal descriptors     │
+│                               │  🔊 Audio player         │
+│                               │  📊 Final scores         │
+└───────────────────────────────┴──────────────────────────┘
+```
+
+| ปุ่ม/ส่วน | การทำงาน |
+|---|---|
+| **Session Mode** | สลับ Baseline ↔ Dissonance (chat จะ reset) |
+| **Dialogue** | เลือกบทสนทนา 1–100 (seed เดียวกัน = ปัญหาเดียวกันทั้ง 2 mode) |
+| **Next Turn** | เผยข้อความทีละ turn (client → therapist) + เล่นเสียงอัตโนมัติ (เฉพาะ Dissonance mode) |
+| **Reset** | เริ่มใหม่จาก turn 1 |
+| 🚩 | ปรากฏหน้าข้อความ client ที่ตรวจพบ dissonance |
+
+**พฤติกรรมสำคัญ:**
+- **Baseline mode** = ไม่มี audio, ไม่มี metadata panel (จงใจ — โชว์ว่า baseline มองไม่เห็นอะไรเลย)
+- **Dissonance mode** = มี audio + VA bars + delta + dissonance flag
+- ครบ 10 turns แล้ว → ตารางคะแนนเปรียบเทียบ Baseline vs Dissonance จะโผล่มาอัตโนมัติ
+
+---
+
+## 4. สคริปต์อัดวิดีโอแนะนำ (2–3 นาที) — Dialogue 88
+
+> **เนื้อเรื่อง:** client สูญเสียคนรักเมื่อ 3 เดือนก่อน — คำพูดเศร้า แต่เสียงดันมี "แววสว่าง/หวัง" → dissonance flag ตั้งแต่ **Turn 1**
+
+### Scene 1 — Intro (15 วิ)
+- เปิด UI ค้างไว้ที่ mode **Dissonance**, dialogue **88**
+- Voiceover: "This is Luna, our CBT therapist. We compare two sessions with the same client problem — she lost her partner three months ago."
+
+### Scene 2 — Baseline Session (30 วิ)
+1. สลับ mode → **Baseline Session (Text-Only)**
+2. กด **Next Turn** 2–3 ครั้ง
+3. ชี้ therapist ตอบ generic: *"I'm so sorry... it's completely understandable..."*
+4. Voiceover: "The text-only therapist validates the grief — standard, empathic. But it can only read words."
+
+### Scene 3 — Dissonance Session (60–90 วิ) ⭐ ฉากสำคัญ
+1. สลับ mode → **Dissonance Session (Multimodal)**
+2. กด **Next Turn ครั้งเดียว** → **Turn 1 คือ money shot ทันที**:
+   - เสียง client เล่น (Zonos voice — คำพูดเศร้าแต่น้ำเสียงเบา/มีแวว)
+   - ชี้ metadata panel: **Text = Angry (−0.24) vs Speech = Happy (+0.30)**
+   - ชี้ **🚩 DISSONANCE DETECTED** (ΔV = +0.54)
+3. อ่าน therapist response ที่จับสัญญาณได้:
+   > *"...while your words express deep sadness and struggle, your voice seemed to convey a hint of hope or perhaps a desire to connect."*
+4. กด Next Turn ต่ออีก 2–3 turns ให้เห็น session พัฒนาต่อ
+5. Voiceover: "Her words say grief. Her voice says something else entirely. Watch what the therapist catches — a text-only system would never hear this."
+
+### Scene 4 — Scores (15 วิ)
+1. กด Next Turn จนครบ 10 turns
+2. ตารางคะแนนโผล่: **Baseline 20 → Dissonance 34 (+14)**
+3. Voiceover: "Same client. Same problem. The dissonance-aware therapist scores 14 points higher."
+
+> ⚠️ **หมายเหตุเสียง Turn 1:** ไฟล์ audio ตัดจบประโยคเล็กน้อย (Zonos alpha) แต่อารมณ์เสียง "เบา/มีแวว" ยังได้ยินชัดเจน — ซึ่งคือจุดที่ต้องโชว์ ไม่กระทบ demo
+
+---
+
+## 5. การอัดหน้าจอ (OBS)
+
+1. เปิด **OBS Studio** → Sources → **+** → **Window Capture** → เลือก browser ที่เปิด demo
+2. ตั้งค่า: Settings → Output → Recording Quality = **High Quality, Medium File Size** (1080p พอ)
+3. กด **Start Recording** → เล่นตามสคริปต์ Scene 1–4 → **Stop Recording**
+4. ไฟล์อยู่ที่ `Videos\` (ดู path ได้ที่ Settings → Output → Recording Path)
+
+**Tips:**
+- ซูม browser ให้ใหญ่ (Ctrl + `+`) ก่อนอัด — ตัวหนังสือจะได้อ่านง่ายในวิดีโอ
+- ปิด notification ทั้งหมดก่อนอัด
+- ถ้าจะตัดต่อต่อ แนะนำ DaVinci Resolve (ฟรี) หรือ CapCut
+
+---
+
+## 6. Troubleshooting
+
+| อาการ | สาเหตุ | วิธีแก้ |
+|---|---|---|
+| `ModuleNotFoundError: gradio` | ยังไม่ได้ติดตั้ง | `pip install gradio` |
+| หน้าเว็บไม่ขึ้น | port ชน | `python demo_luna.py` แล้วดู URL ใน terminal (อาจเป็น 7861) |
+| Audio ไม่เล่น | หาไฟล์ WAV ไม่เจอ | เช็คว่าไฟล์อยู่ที่ `own_script\dissonance\voice\gpt4o-mini\dissonance_<id>_utterance_<turn>.wav` |
+| Dropdown ว่าง | ไม่มี dialogue ครบคู่ | demo เลือกเฉพาะ id ที่มีทั้ง baseline และ dissonance |
+| Metadata ว่าง | อยู่ใน Baseline mode | ปกติ — Baseline ไม่มี metadata โดยเจตนา |
+| Gradio เวอร์ชันเก่า error | API ต่างกัน | `pip install --upgrade gradio` |
+
+---
+
+## 7. Dialogue แนะนำสำหรับอัด
+
+| Dialogue ID | Dissonant turns | Score gain | คุณภาพเสียง | เหมาะสำหรับ |
+|---|---|---|---|---|
+| **88** ⭐ | 1 (Turn 1) | +14 | ดี — ไม่มี scream; U1 ตัดจบเล็กน้อยแต่อารมณ์ชัด | **Demo หลัก** — grief คำพูด vs เสียง Happy |
+| 5 | 1 | +14 | ยังไม่ได้ฟัง | สำรอง |
+| 54 | 1 | +14 | ยังไม่ได้ฟัง | สำรอง |
+| ~~42~~ | ~~2~~ | ~~+14~~ | ❌ Turn 6 เสียงพัง (scream) | ถอดออก — ใช้โชว์ไม่ได้ |
+| ~~70~~ | ~~1~~ | ~~+14~~ | ❌ Turn 7 เสียงพัง | ถอดออก |
+| ~~2~~ | ~~2~~ | ~~+11~~ | ❌ Turn 6 เสียงพัง | ถอดออก |
+
+> ใช้ dialogue 88 เป็นหลัก — flag อยู่ Turn 1 เลย ไม่ต้อง build-up นาน และ therapist response จับสัญญาณเสียงได้เป๊ะ
+>
+> หมายเหตุ: candidates อื่นหลายตัวถอดออกเพราะ Zonos (alpha) สังเคราะห์เสียงพังบาง utterance — จุดนี้ถูกบันทึกเป็น Weakness 3 (TTS fidelity) ในรายงานแล้ว
+
+---
+
+## 8. Custom Demo (Advisor Version) ⭐
+
+เวอร์ชันนี้สร้างตาม feedback อาจารย์: **เปรียบเทียบแบบ controlled** — client พูดประโยค **เดียวกันเป๊ะ** ทั้ง 2 conditions (baseline vs dissonance) ต่างกันแค่ therapist response + ใช้ **เสียงจริงของคุณ** แทน Zonos (ตัดจุดอ่อนเสียง TTS ออกจาก demo)
+
+### 8.1 แนวคิด
+
+```
+Scene A (Baseline):              Scene B (Dissonance):
+Client: "...completely fine."    Client: "...completely fine."   ← ประโยคเดียวกัน
+[🔊 เสียงคุณ]                     [🔊 เสียงคุณ + VA panel + 🚩]   ← ไฟล์เดียวกัน
+Therapist: generic               Therapist: probe ลึก
+```
+
+### 8.2 บทสนทนา (อยู่ใน `demo_custom/raw/script.json` สร้างอัตโนมัติ)
+
+| Turn | บท | วิธีอ่าน |
+|---|---|---|
+| **U1** 🚩 | "Honestly, work is going really well right now, I feel completely fine about everything." (14 words) | **ตึงแต่คุม** — เร็วกว่าปกตินิด, กรามแน่น, เสียงแบน-ตึง (strained-flat) → text บวก แต่เสียงตึง = flag |
+| **U2** | "But when I actually stop to think about it, I feel exhausted all the time." (15 words) | เหนื่อยจริง — ช้า, เบา, ถอนหายใจ (aligned ไม่ flag) |
+| **U3** | "Maybe I have just been pretending to be much stronger than I really am." (14 words) | เงียบ นุ่ม ยอมรับ (aligned) |
+
+> 💡 ถ้า calibrate แล้ว U1 ไม่ flag ให้เปลี่ยนบทเป็นบวกแรงขึ้น เช่น `"I'm honestly doing really great at work, everything is completely under control."` (แก้ใน script.json แล้วอัดใหม่)
+
+### 8.3 ขั้นตอนทำ
+
+```powershell
+cd C:\Luna-AI-Therapist\dissonance
+
+# 1) รันครั้งแรก — สร้าง script.json ให้ แล้วหยุดรอ (ยังไม่ต้องมีเสียงก็รันได้ จะ error บอกให้อัด)
+python generate_demo_dialogue.py
+
+# 2) อัดเสียง 3 ไฟล์ตามบท+วิธีอ่าน แล้วใส่:
+#    demo_custom\raw\U1.wav
+#    demo_custom\raw\U2.wav
+#    demo_custom\raw\U3.wav
+#    (ต้องเป็น .wav — แปลงจาก m4a/mp3 ด้วย Audacity หรือตัวแปลงออนไลน์)
+
+# 3) CALIBRATE (ฟรี ไม่เสียเงิน API) — ดูว่า U1 flag ติดไหม
+python generate_demo_dialogue.py --check
+
+# 4) ถ้า U1 flag ติด (🚩 YES) → รันเต็ม: สร้าง therapist + GPT-4o judge
+python generate_demo_dialogue.py
+```
+
+ผลลัพธ์ใน `demo_custom\`:
+```
+baseline_custom.jsonl      ← baseline session (3 turns)
+dissonance_custom.jsonl    ← dissonance session (3 turns, client เหมือนกันเป๊ะ)
+scores_custom.json         ← คะแนน GPT-4o judge ทั้ง 2 sessions
+audio\U1-3.wav             ← เสียงสำหรับ UI
+```
+
+### 8.4 Calibration: อ่านผลตาราง
+
+```
+T  Text VA         Voice VA        Text emo  Voice emo  dV     dA     FLAG
+1  (+0.30,+0.10)  (-0.25,+0.45)   Happy     Tense      -0.55  +0.35  🚩 YES  ← ต้องการแบบนี้ที่ U1
+2  (-0.40,+0.20)  (-0.35,+0.15)   Angry     Sad        +0.05  -0.05  no
+3  (-0.30,-0.10)  (-0.35,-0.20)   Sad       Depressed  -0.05  -0.10  no
+```
+
+- **Flag ติดเมื่อ |dV| ≥ 0.5 หรือ |dA| ≥ 0.5** (กฎเดียวกับ thesis เป๊ะ)
+- ถ้า U1 ได้ dV แค่ 0.3–0.4 (ใกล้) → อัดใหม่ **ตึงกว่าเดิม** (เร็วขึ้น แข็งขึ้น)
+- ถ้า U1 text VA ติดลบตั้งแต่แรก → บทไม่บวกพอ → เปลี่ยนบทสำรอง
+- ผู้ชายเสียงต่ำ: pitch descriptor จะขึ้น "low/moderate pitch" เป็นปกติ ไม่กระทบ flag
+
+### 8.5 ใช้งานใน Demo UI
+
+1. รัน `python demo_luna.py` → เปิด http://127.0.0.1:7860
+2. ที่ dropdown **Dialogue** จะมี **"★ Custom Demo (Advisor)"** (เลือกเป็น default อัตโนมัติ)
+3. ใช้งานเหมือนเดิมทุกอย่าง — Baseline mode จะเห็น panel "No voice analysis available" ส่วน Dissonance mode จะเห็น metadata + ได้ยินเสียงจริง
+4. ครบ 3 turns → **ตารางคะแนนจาก GPT-4o judge ของบทนี้เอง** โผล่ (Baseline vs Dissonance + Δ)
+
+### 8.6 สคริปต์อัดวิดีโอ (Advisor Version, ~2 นาที)
+
+| Scene | ทำอะไร | Voiceover แนะนำ |
+|---|---|---|
+| 1 | Intro บอกว่านี่คือบทสั้น 3 utterances, client เหมือนกันทุกประโยคทั้ง 2 ฝั่ง | "Same words. Same voice. The only difference is what the therapist can hear." |
+| 2 | Baseline mode → Next ×3 → T1 ตอบรับ "completely fine" ตามหน้าผาก | "The baseline takes the words at face value." |
+| 3 ⭐ | Dissonance mode → Next ครั้งแรก: เสียงจริงเล่น + ชี้ Text=Happy vs Voice=Tense + 🚩 → T1 probe ลงไป | "Moved to another framework. You say you're fine — but your voice says otherwise. The dissonance flag catches it instantly." "Watch — the framework catches TWO kinds of mismatch here: opposite emotions at turn 1, and depleted delivery at turn 3. Both are moments a text-only therapist would miss." |
+| 4 | Next จนครบ 3 turns → ชี้ตารางคะแนน judge + คอลัมน์ Δ สีเขียว | "Even in three utterances, the dissonance-aware therapist scores higher — and this pattern holds across 100 dialogues." (ตัดต่อสไลด์ผลจริง D88: 20→34 ต่อท้าย) |
+
+### 8.7 Troubleshooting (Custom Demo)
+
+| อาการ | แก้ |
+|---|---|
+| `Missing ... U1.wav` | ยังไม่ได้อัด/วางผิดที่ — ต้องอยู่ที่ `demo_custom\raw\` และเป็น .wav |
+| U1 flag ไม่ติดหลังอัด 2–3 รอบ | เปลี่ยนบท U1 เป็นบวกแรงขึ้นใน script.json แล้วอัดใหม่ |
+| WavLM อ่านเสียงเพี้ยนหมด | เสียงอัดมี noise/echo → อัดในห้องเงียบ ไมค์ใกล้ปากขึ้น |
+| `OPENAI_API_KEY` ไม่มี | script จะถาม key แบบ interactive ตอนเรียก API ครั้งแรก |
+| Judge ให้คะแนนใกล้กัน | ปกติถ้าบทสั้น — เน้นโชว์ pattern (Understanding/Guided Discovery) และตัดไปสไลด์ผล 100 dialogues ต่อ |

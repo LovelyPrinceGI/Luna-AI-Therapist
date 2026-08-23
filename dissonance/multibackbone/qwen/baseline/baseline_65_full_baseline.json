@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. After losing my grandmother last month, I feel so overwhelmed with sadness, and I'm not sure how to help my mom cope with her grief. It’s hard to see her in so much pain, and I feel helpless.",
+    "therapist": "Hi there, I'm so sorry to hear about your loss and how you're feeling. It's completely understandable to feel overwhelmed and helpless, especially when you're also concerned about your mom's grief. How have you been taking care of yourself while you're dealing with these feelings?",
+    "condition": "baseline",
+    "val_t": -0.4284858703613281,
+    "aro_t": 0.23520290851593018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really hard to take care of myself. I feel like I should be doing more to support my mom, but I end up feeling exhausted and guilty when I try to take some time for myself. It's a vicious cycle.",
+    "therapist": "It sounds like you're carrying a lot of guilt and exhaustion, and that must be really tough. It’s important to remember that taking care of yourself isn’t selfish; it’s necessary for you to be able to support your mom effectively. What are some small things you could do for yourself that might help you feel a bit more replenished?",
+    "condition": "baseline",
+    "val_t": -0.2766658067703247,
+    "aro_t": 0.14639735221862793,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you’re saying, but it feels like every moment I take for myself is a moment I’m not there for her. It’s hard to justify that, especially when she needs so much help. I don’t want to feel guilty for taking time for myself, but it’s just such a heavy weight.",
+    "therapist": "I can see how much you care for your mom, and it’s very understandable to feel that way. It’s a common concern, and it’s important to recognize that self-care isn’t about neglecting her; it’s about ensuring you’re in a better position to support her. What are some ways you think you could balance taking care of yourself with being there for your mom, even if it’s just in small moments?",
+    "condition": "baseline",
+    "val_t": -0.16880488395690918,
+    "aro_t": 0.05542171001434326,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I understand what you're saying, but it's hard to see how taking time for myself won't make me feel guilty. I worry that if I start prioritizing my own needs, even a little, I might not be there for her when she really needs me. It feels like a slippery slope, you know?",
+    "therapist": "I completely understand that feeling of guilt and the fear of letting her down. It’s a very real concern. It might help to think of it as refilling your own cup so you can pour into others. Could you start with very small, manageable steps, like taking a 10-minute break to do something you enjoy, and see how that affects your energy and ability to support your mom?",
+    "condition": "baseline",
+    "val_t": -0.17386925220489502,
+    "aro_t": 0.04493415355682373,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you mean about refilling my own cup, but I worry that even a small break might make my mom feel like I'm not there for her. It's hard because she needs so much support, and I don't want to add to her stress. I feel like every minute counts.",
+    "therapist": "I understand how deeply you care about not adding to your mom's stress. It’s a noble intention, but it’s important to find a balance so you don’t burn out. Maybe you could start by setting aside a specific time when you both agree that you’ll take a short break, and reassure her that you’ll be back. How do you think your mom would feel if you explained that taking a little time for yourself will help you be more present and supportive for her in the long run?",
+    "condition": "baseline",
+    "val_t": -0.09919798374176025,
+    "aro_t": 0.10420787334442139,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna, but it's hard for me to imagine my mom understanding that. She gets so anxious when I even mention taking a break, and I feel like it just adds to her stress. I worry that if I suggest it, it might backfire and make things worse for both of us.",
+    "therapist": "I can see how difficult that must be, and it’s understandable to worry about adding to her anxiety. It might help to find a way to take care of yourself that doesn’t feel like a break from her. For example, you could do something you enjoy while still being present with her, like listening to a podcast or music while sitting with her. How do you think she would respond if you found a way to do something for yourself that also keeps you connected with her?",
+    "condition": "baseline",
+    "val_t": -0.213226318359375,
+    "aro_t": 0.10307323932647705,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea, but I'm not sure it would work. It feels like I'm already so anxious and guilty about not doing enough for her, and I worry that doing something for myself, even if it's just listening to a podcast, might make her feel neglected. It's hard because I want to take care of myself, but I also don't want to add to her stress or make her feel like I'm not fully there for her.",
+    "therapist": "I understand how complicated and challenging this feels for you. It’s natural to worry about your mom’s reaction and to feel guilty about taking time for yourself. Maybe we can explore some other small, low-stress ways to take care of yourself that don’t involve separating from her. For example, you could try gentle breathing exercises or a short mindfulness activity while you’re with her. How do you think she might respond if you included her in a calming activity like that?",
+    "condition": "baseline",
+    "val_t": -0.3000006675720215,
+    "aro_t": 0.14453017711639404,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but I'm not sure how she would react. She can be quite critical, and I worry that she might see it as me trying to change her or not taking her seriously. It's hard because I want to take care of myself, but I don't want to create more tension.",
+    "therapist": "I completely understand your concerns about her potential reaction and the added tension that could create. It’s important to find a way that feels safe and supportive for both of you. Perhaps you could start by gently sharing your own feelings with her, letting her know that you’re feeling overwhelmed and need a bit of support too. How do you think she might respond if you approached her with your own needs in a non-confrontational way?",
+    "condition": "baseline",
+    "val_t": -0.16305291652679443,
+    "aro_t": 0.057993292808532715,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean, but I'm still worried. It feels like any attempt to share my feelings might just make things worse. She’s already so stressed, and I don’t want to add to that. It’s hard because I feel like I’m caught between trying to support her and needing some support myself.",
+    "therapist": "I understand how daunting it feels to share your own needs, especially when you're already worried about adding to her stress. It’s a tough balance to strike. One approach could be to start with a very gentle and empathetic conversation, where you express your love and concern for her, and also share how you’re feeling. How do you think it might feel to start by telling her how much you care about her and how hard you’re trying to support her, and then gently mentioning that you’re also feeling overwhelmed and could use a bit of support?",
+    "condition": "baseline",
+    "val_t": -0.3047398328781128,
+    "aro_t": 0.17680227756500244,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestion, but it feels really hard to bring up my own needs without feeling like I’m being selfish or adding to her stress. I worry that if I say something, it might make things worse between us, and I’m not sure I can handle that.",
+    "therapist": "I understand how challenging and scary it feels to bring up your own needs, especially when you’re so focused on supporting her. It’s natural to worry about how it might affect your relationship. One small step could be to practice how you might bring it up, maybe even writing down what you’d like to say. How do you think it might feel to gently express your feelings and needs in a way that reassures her of your support and care for her?",
+    "condition": "baseline",
+    "val_t": -0.2556033134460449,
+    "aro_t": 0.14317703247070312,
+    "text_emotion": "Angry"
+  }
+]

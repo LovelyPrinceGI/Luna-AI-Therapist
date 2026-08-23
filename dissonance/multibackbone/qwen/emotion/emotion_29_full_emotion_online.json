@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I’ve been really struggling lately. After getting laid off from my job last month, I feel overwhelmed by the uncertainty of my financial future and the pressure to find something new. It’s hard to stay positive, and I’m not even sure if therapy can really help with this.",
+    "therapist": "Hi there, I’m really sorry to hear that you’re feeling this way. It sounds like the uncertainty and pressure are taking a significant toll on you. It’s completely understandable to feel overwhelmed in such a challenging situation. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3113889694213867,
+    "aro_t": 0.237329363822937,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. I've been trying to manage my anxiety by staying busy and keeping a routine, but it only helps a little. Sometimes I feel like I'm just pushing the worry aside and it keeps coming back.",
+    "therapist": "I can see that you’ve been putting in a lot of effort to manage your anxiety, and it’s tough when those strategies only provide a bit of relief. It’s natural for worries to keep coming back, especially during such uncertain times. Have there been any moments or activities that have brought you a sense of calm or distraction, even if just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": 0.23277819156646729,
+    "aro_t": 0.10611879825592041,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, sometimes I find that going for a walk or listening to music helps a bit, but it feels so temporary. The anxiety always seems to come back, and it’s hard to find things that really make a lasting difference. I guess I’m just frustrated because I feel like I’m trying everything, but nothing seems to stick.",
+    "therapist": "It sounds like you’re doing your best to find moments of relief, and that’s really commendable. It’s completely understandable to feel frustrated when those moments feel temporary and the anxiety keeps coming back. It can be disheartening to feel like your efforts aren’t making a lasting difference. Have you tried exploring any new coping strategies or techniques that might help you manage the anxiety in a different way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.247589111328125,
+    "aro_t": 0.17767620086669922,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I’ve tried so many things already, and nothing seems to stick. I don’t know if there’s anything new out there that could really make a difference. It feels like a never-ending cycle, and that’s what’s so frustrating.",
+    "therapist": "I can really understand how frustrating it must be to feel like you’ve tried so many things and still not find lasting relief. It’s natural to wonder if there’s anything else that can help break the cycle. Sometimes, exploring different angles, like challenging some of the thoughts that come with the anxiety, can offer new insights. What are some of the thoughts or beliefs you find yourself returning to during these anxious moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09927976131439209,
+    "aro_t": 0.22644150257110596,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I often find myself thinking that I’m not good enough, that I’m failing at everything I do. It’s like a constant loop in my head, and it just makes me feel more isolated and anxious. I’ve tried to challenge these thoughts before, but they feel so deeply rooted that it’s hard to believe anything different.",
+    "therapist": "It’s really tough when those negative thoughts feel so persistent and deeply rooted. It’s understandable that they can make you feel isolated and anxious, especially when you’ve tried to challenge them before. It can be helpful to start by gently questioning the evidence for and against these thoughts. For example, what are some instances where you have succeeded or shown your capabilities, even if they seem small?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2955288887023926,
+    "aro_t": 0.1282339096069336,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I understand what you're saying, but it's hard for me to recall those moments of success when I feel so overwhelmed by my failures. It's like every small win gets overshadowed by the bigger picture of my struggles. I don't know if focusing on those small successes will really make a difference when the negative thoughts feel so overwhelming.",
+    "therapist": "I completely understand how challenging it can be to focus on those small successes when the bigger picture of your struggles feels so overwhelming. It’s natural for negative thoughts to overshadow the positive ones, especially when you’re feeling down. It might help to start with even the smallest of wins and build from there. Can you think of any tiny moments, no matter how small, where you felt a sense of accomplishment or progress recently?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2361515760421753,
+    "aro_t": 0.17224013805389404,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it's just really hard to find those small wins when everything feels so heavy. I mean, I did manage to get out of bed and do some chores yesterday, but it felt more like a chore than an accomplishment. It’s tough to see the good when the bad is so loud in my head.",
+    "therapist": "I hear you, and it’s completely understandable that it feels really hard to find those small wins when everything seems so heavy. It’s a testament to your resilience that you were able to get out of bed and do chores, even if it felt more like a chore than an accomplishment. Sometimes, just doing the basics can be a significant achievement in itself. How about we try to write down a few of these small moments each day, no matter how minor they might seem? It can help to build a more balanced view over time.",
+    "condition": "emotion_text_only",
+    "val_t": -0.03136622905731201,
+    "aro_t": 0.10357987880706787,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does feel like a small victory to just get through the day sometimes. But I'm not sure if writing down these moments will really make a difference. It feels a bit forced, and I'm worried it might just end up feeling like another thing on my to-do list.",
+    "therapist": "I understand that it can feel forced or like just another task, and I really appreciate your honesty about that. It’s important to find strategies that feel genuine and helpful to you. Maybe we can start with a lighter approach, like just noticing and acknowledging those small moments in the moment, without the pressure to write them down. How does that feel? Could there be other ways to celebrate these small victories that feel more natural to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06486093997955322,
+    "aro_t": 0.15041697025299072,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you understanding that, Luna. It does feel like less pressure to just notice those moments without writing them down. But I'm still a bit skeptical—how do I make sure I actually notice those moments, and what if I still feel like I’m not doing it right?",
+    "therapist": "I’m glad that acknowledging those moments without the pressure to write them down feels a bit more manageable. It’s totally normal to be a bit skeptical, and it’s important to find a way that feels right for you. One way to help yourself notice those moments could be to set gentle reminders for yourself, like a small alarm or a note, to pause and reflect on what you’ve accomplished or noticed during the day. What do you think about that? How can we make it feel more natural and less like another task?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05248212814331055,
+    "aro_t": 0.1631314754486084,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea of using reminders, but I worry it might end up feeling like another chore on my to-do list. It’s hard because I already feel overwhelmed with everything else I have to manage. How can we make sure it doesn’t add to my stress?",
+    "therapist": "I understand your concern about adding another task to your already full plate, and it’s really important to find something that doesn’t add to your stress. Instead of setting reminders, we could try a more spontaneous approach. For example, whenever you notice a small victory or a moment of progress, even if it’s just getting through a tough moment, you could take a deep breath and silently acknowledge it to yourself. How does that feel? Could this be a way to recognize your efforts without it feeling like another to-do item?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1678389310836792,
+    "aro_t": 0.17759358882904053,
+    "text_emotion": "Angry"
+  }
+]

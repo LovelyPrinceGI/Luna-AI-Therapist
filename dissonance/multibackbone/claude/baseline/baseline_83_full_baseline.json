@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my partner passed away six months ago from cancer. Everything just feels kind of gray and empty, like I go through the motions of the day but nothing actually feels meaningful anymore. I'm not even sure talking about it is going to change anything, but I figured I had to try something because I can't keep going on like this.",
+    "therapist": "I'm so glad you reached out, and I want you to know that what you're carrying — this grief, this grayness — makes complete sense after losing someone so deeply important to you. The feeling that nothing is meaningful right now isn't a sign that something is broken in you; it's a reflection of how much your partner mattered. \n\nI also hear a quiet flicker of courage in the fact that you're here, even with doubts that it will help — can you tell me a little about what a \"meaningful\" day used to feel like when your partner was still with you?",
+    "condition": "baseline",
+    "val_t": -0.3165779113769531,
+    "aro_t": 0.11770904064178467,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate you saying that, but I'm not sure \"courage\" is the right word — it feels more like desperation, honestly. A meaningful day used to be so simple... we'd have coffee together in the morning without even talking much, just being in the same space, and that was enough. I didn't realize how much of what felt meaningful was just... him being there in the background of everything.",
+    "therapist": "What you just described is so beautifully honest — that meaning wasn't in grand moments, but in the quiet, steady presence of someone woven into the fabric of your everyday life, and losing that has left a kind of silence that's hard to even put into words. And \"desperation\" is a completely valid way to describe what brought you here; it takes nothing away from the fact that some part of you is still reaching toward something, even in the darkest stretch. I'm curious — when you move through your days now, are there any moments, even very small or fleeting ones, where that grayness lifts even just slightly?",
+    "condition": "baseline",
+    "val_t": 0.041584014892578125,
+    "aro_t": 0.17869937419891357,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I have to think about that for a second, because honestly my first instinct is to say no, nothing helps. But... there are these moments in the morning, before I'm fully awake, where I forget for just a second that she's gone, and it's almost peaceful. Then I remember, and it crashes back down, so I don't know if that even counts as what you're asking about.",
+    "therapist": "That absolutely counts, and thank you for sitting with the question long enough to find it — that brief, peaceful moment isn't something to dismiss, even though the crash that follows is so painful. What's meaningful to me is that your mind and body still know how to find a moment of rest, even now, and that capacity hasn't been taken from you. I'm wondering — when the crash hits and the grief rushes back in, what does that voice inside your head tend to say to you in those first few seconds?",
+    "condition": "baseline",
+    "val_t": -0.08774435520172119,
+    "aro_t": 0.13941824436187744,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That voice... it's pretty brutal, honestly. It says something like \"you forgot, you actually forgot about her for a second, what kind of person does that\" — like I betrayed her just by having one quiet moment. And then it spirals into this feeling that if I stop grieving, even for a breath, I'm somehow letting her go or saying she didn't matter.",
+    "therapist": "That voice is lying to you, even though it feels absolutely convincing in the moment — forgetting for a breath isn't betrayal, it's your exhausted mind briefly setting down an unbearable weight, and that says nothing about how deeply you loved her. There's a painful irony here: that brutal voice is actually trying to protect your love for her, but it's doing it in a way that's punishing you for simply being human. I'd gently invite you to consider — do you think she would agree with that voice, or is there something she might have said to you in that moment instead?",
+    "condition": "baseline",
+    "val_t": -0.3228341341018677,
+    "aro_t": 0.20204806327819824,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I've been sitting with that question and it's... it's actually really hard to answer, because part of me knows she wouldn't have been cruel to me the way that voice is. She was always so gentle, even when I messed up at things that actually mattered. But admitting that feels almost dangerous, like if I let the voice go quiet, I'll lose my grip on how much she meant to me.",
+    "therapist": "What you just touched on is really important — you can already see the difference between that harsh voice and who she actually was, and that gap matters deeply. Grief and love don't require you to suffer to stay real; she lives in your memory, in the way you described her gentleness just now, in the fact that you still know exactly how she would have spoken to you. I'm wondering if we could sit with this idea gently — what if remembering her softness, rather than punishing yourself, could actually become one of the ways you stay connected to her?",
+    "condition": "baseline",
+    "val_t": -0.2659045457839966,
+    "aro_t": 0.22461485862731934,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe that... but it also feels like if I stop feeling guilty, I'm somehow letting go of her, like the pain is the last thread I have. It's almost like if I'm not suffering, then maybe I didn't love her enough, or maybe I'll just forget her completely. I know that probably sounds irrational, but it's hard to shake.",
+    "therapist": "It doesn't sound irrational at all — it sounds like someone who loved deeply and is terrified of what life looks like on the other side of this pain, and that fear makes complete sense. But I want to offer you something gently: you just described the exact way she took her coffee mornings, her gentleness when you made mistakes, the quiet comfort of her just being in the room — that's not someone you're in danger of forgetting, and none of that knowledge came from your suffering. I'm wondering, what do you think it would mean about your love for her if it turned out that joy, or even just peace, could also be a way of carrying her with you?",
+    "condition": "baseline",
+    "val_t": -0.24553346633911133,
+    "aro_t": 0.15952575206756592,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe it... but there's this other part that feels like if I let myself be okay, it's almost like I'm saying her death was okay too. Like peace would be some kind of verdict that I've moved on, that she mattered less now. I don't know how to separate those two things.",
+    "therapist": "You've just named something really profound — the fear that your own healing is a statement about her worth, as if peace means \"this was acceptable\" rather than \"I am still here, still loving her, still carrying her forward.\" But healing isn't a verdict on her life; it's actually a testament to it, because you are someone who was so transformed by loving her that you're still fighting to honor that love even now. I'm curious — is there anyone in your life, or even someone you've known of, who you believe truly loved someone they lost, and also eventually found moments of peace?",
+    "condition": "baseline",
+    "val_t": -0.04266965389251709,
+    "aro_t": 0.09594333171844482,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I sit with that for a moment, because honestly it's a question I wasn't expecting. My aunt lost her husband of 40 years and she still talks about him all the time, laughs about memories, keeps his photo on the fridge — and she doesn't seem broken by it anymore, just... shaped by it. But I immediately think, well, that's different, because she had decades with him, and I feel like my mom and I never got enough time, like there was still so much unfinished between us.",
+    "therapist": "I want to gently pause on something important — you've been referring to your partner as \"her\" and \"she\" throughout our conversation, and just now you said \"my mom,\" and I want to make sure I'm understanding who you've lost, because you deserve to be fully seen here. Whatever the answer, what strikes me is that you *do* have a living example — your aunt — that love doesn't disappear when the pain softens, and yet you immediately found a reason why that couldn't apply to you, which tells me that part of you is working very hard to keep the door to peace closed. I'm wondering, what feels so dangerous about the possibility that your experience, even with all its unfinished edges, could eventually look something like hers?",
+    "condition": "baseline",
+    "val_t": -0.046880483627319336,
+    "aro_t": 0.16068994998931885,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I lost my partner, Sarah. She died eight months ago and I still feel like I'm walking around with this open wound that everyone expects me to just... manage better by now.\n\nAs for what you said about keeping the door to peace closed — I don't know if it's dangerous exactly, but it almost feels like if I let myself imagine being okay someday, I'm already betraying her. Like I'm saying what we had wasn't worth staying broken over.",
+    "therapist": "Thank you for clarifying — I want to make sure Sarah gets to be fully present in our conversation, because she clearly matters so much. And I want to gently push back on one thing: staying broken isn't a measure of what your relationship was worth — the fact that losing her has shaken the entire foundation of your daily life, that you miss the quiet of morning coffee, that you know exactly how she would have spoken gently to you, *that* is the measure of what you had. I'm curious — when you imagine Sarah looking at you right now, carrying all of this weight and guarding your grief so carefully, what do you think she would most want for you?",
+    "condition": "baseline",
+    "val_t": -0.35923469066619873,
+    "aro_t": 0.20417392253875732,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I sat with that question for a moment, and honestly, it kind of broke through something I've been holding back. I think Sarah would want me to stop punishing myself, to maybe even laugh again without feeling like I'm betraying her. But knowing what she'd want and actually letting myself have it... those feel like two completely different things right now.",
+    "therapist": "What just happened in you as you said that is really significant — you found her voice, her actual wishes for you, and it broke through something real, and that matters deeply. You're absolutely right that knowing and *allowing* are two different things, and we don't have to collapse that distance all at once; even just holding both truths at the same time — \"she would want this for me\" and \"I'm not ready yet\" — is itself a gentle step forward. I'm wondering, is there one very small moment this week where you might let yourself borrow her gentleness toward you, even just for a breath, the way she would have offered it?",
+    "condition": "baseline",
+    "val_t": -0.0749502182006836,
+    "aro_t": 0.2842886447906494,
+    "text_emotion": "Tense"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. After my grandfather passed away last month, I've been feeling this overwhelming sadness, but I also can't shake this guilt for not being more present with him when he was alive. I keep thinking about all the moments I could have spent with him but didn't. It's been really tough, and I'm not sure if therapy can really help with this.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandfather and the difficult emotions you're experiencing. It's completely normal to feel a mix of sadness and guilt during such a tough time. How have you been coping with these feelings, and is there anything specific you've found that offers you some comfort?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3395804166793823,
+    "aro_t": 0.1205819845199585,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough. I've been trying to stay busy with work and spending time with family, but it feels like I'm just pushing the sadness away instead of dealing with it. I keep thinking I should have done more for him, you know? It's hard to find anything that really comforts me.",
+    "therapist": "I can hear how challenging this has been for you, and it's understandable to want to stay busy to avoid those tough feelings. It's also common to have those thoughts of \"should have\" when we lose someone we love. Have you tried talking about these feelings with anyone, or are there any specific memories of your grandfather that bring you some comfort, even in the sadness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07182621955871582,
+    "aro_t": 0.10698854923248291,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "It's hard to talk about it with others because I feel like they won't really understand what I'm going through. I do have some good memories of my grandfather, like when we used to go fishing together, but they often just make me feel more alone and guilty for not spending more time with him when I could. I don't think sharing them would help much.",
+    "therapist": "I understand how isolating it can feel when you think others might not fully grasp what you're going through. It's natural to have those bittersweet memories that can bring both joy and a sense of regret. Even though sharing these memories might feel challenging, it can sometimes help to process those feelings and realize that you're not alone in your grief. What do you think might be a small step you could take to start honoring your grandfather's memory in a way that feels meaningful to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3187112808227539,
+    "aro_t": 0.02322971820831299,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just hard to know where to start. I worry that anything I do won't feel right or might bring up more sadness. I guess I could try writing down some of my favorite memories of him, but it feels like it might just make me feel more alone.",
+    "therapist": "I completely understand that feeling of uncertainty and the fear that any step might bring up more sadness. It's okay to take it slow and do what feels right for you. Writing down your favorite memories could be a gentle way to honor your grandfather and process your feelings. Even if it feels challenging at first, it might help you connect with the joy and love you shared. What do you think might make this activity feel a bit more comforting for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12656843662261963,
+    "aro_t": 0.007628679275512695,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard because every time I try to think about those memories, I end up feeling overwhelmed with sadness. I worry that writing them down will just make it harder to let go and move on. Maybe if I just start with a few, it won't feel so daunting?",
+    "therapist": "It sounds like you're being very thoughtful about how to approach this, and that's a great step. Starting with just a few memories could be a gentler way to begin, and it might help you feel less overwhelmed. How about picking one or two particularly special moments to write about first? What do you think might be the most meaningful memory to start with?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13492631912231445,
+    "aro_t": 0.11441946029663086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It does feel more manageable to start small. But I'm still a bit hesitant because I'm worried that even a single memory might bring up a lot of emotions. I'm not sure if I'm ready to handle that.",
+    "therapist": "I understand your hesitation, and it's completely valid to feel that way. It's okay to take things at your own pace and give yourself permission to feel whatever comes up. Maybe you could start by just reflecting on one memory without writing it down, and see how that feels. What do you think about giving that a try, and perhaps sharing a bit about that memory here?",
+    "condition": "emotion_text_only",
+    "val_t": -0.00496518611907959,
+    "aro_t": 0.15813219547271729,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel a bit less overwhelming to just reflect without writing. I think I could try that. There's this one memory from when I was younger, during a family vacation, that keeps coming up for me. It’s a mix of happy and sad feelings, and I’m not sure how to untangle them.",
+    "therapist": "It's great to hear that reflecting on the memory feels a bit more manageable for you. That family vacation memory sounds significant. It's natural for it to bring up a mix of emotions, and there's no rush to untangle them all at once. Can you share a bit more about what happened during that vacation and what makes it stand out for you?",
+    "condition": "emotion_text_only",
+    "val_t": 0.10405004024505615,
+    "aro_t": 0.17025697231292725,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "That vacation was really special because it was the first time we all traveled together as a family. We went to this beach town, and I remember feeling so happy and relaxed, but there were also moments where I felt overwhelmed by the expectations to have a perfect time. I think what makes it stand out is that it was a mix of joy and anxiety, and I keep replaying those moments in my head.",
+    "therapist": "It sounds like that vacation was a rich and complex experience for you, filled with both joy and anxiety. It's understandable that you might be replaying those moments, especially now. Reflecting on these mixed emotions can help you understand your feelings more deeply. What do you think about the parts of that memory that bring you joy, and how do they contrast with the moments of anxiety?",
+    "condition": "emotion_text_only",
+    "val_t": 0.1873105764389038,
+    "aro_t": 0.35121309757232666,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I do feel a mix of emotions when I think about the vacation. The joy of being with my family and the beauty of the place is undeniable, but the anxiety about fitting in and not disappointing anyone looms large. It's hard to separate those feelings, and I often find myself dwelling on the anxious moments more.",
+    "therapist": "It's completely normal to feel a mix of emotions, especially with such a meaningful memory. The joy of being with your family and the beauty of the place are wonderful, but the anxiety about fitting in and not disappointing others can be very tough to navigate. It sounds like the anxious moments are more prominent in your mind right now. Is there a particular anxious thought that keeps coming up, and what do you think might be driving that worry?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10174143314361572,
+    "aro_t": 0.20277297496795654,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Yeah, the thought that keeps coming up is that I’m not good enough, that I’ll let people down. It’s hard because I really want to be there for my family and enjoy the moment, but I always end up feeling like I’m not measuring up. I guess I’m just worried that I’ll say or do something wrong and everyone will notice.",
+    "therapist": "It sounds like you're carrying a lot of pressure to be perfect and a deep fear of letting people down. That must be really challenging, especially when you're trying to enjoy special moments with your family. It's important to remember that everyone has moments where they feel they're not measuring up, and it doesn't make you any less valuable. What do you think might help you be more gentle with yourself in those moments, or is there a small step you could take to ease that pressure?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31717872619628906,
+    "aro_t": 0.15539896488189697,
+    "text_emotion": "Angry"
+  }
+]

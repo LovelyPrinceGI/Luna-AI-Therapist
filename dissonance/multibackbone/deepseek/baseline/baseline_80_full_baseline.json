@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "It's been really hard going to family dinners since my grandma passed away last month. Everyone tries to act normal, but I just feel this huge emptiness where she should be. I'm not sure talking about it will help - the pain just feels too deep.",
+    "therapist": "I hear how much you're missing your grandma's presence at these family gatherings, and it makes complete sense that the emptiness feels overwhelming right now. Grief often shows up in those familiar places where we most expect to see our loved ones. What comes up for you when you notice that urge to avoid talking about the pain?",
+    "condition": "baseline",
+    "val_t": -0.3887972831726074,
+    "aro_t": 0.08397459983825684,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It's just...every time I walk into her house now, I expect to smell her cooking or hear her voice calling from the kitchen. When it's silent, it feels like a punch to the gut. I know avoiding family dinners won't bring her back, but going feels worse somehow—like I'm pretending everything's normal when it's not.",
+    "therapist": "That expectation of seeing and hearing her is so natural when you're in the spaces filled with her memory, and the contrast with reality must feel incredibly painful. It sounds like you're caught between two difficult choices - enduring the grief at dinners or missing out on family connection. What would it feel like to acknowledge that things aren't normal, rather than pretending?",
+    "condition": "baseline",
+    "val_t": -0.33270692825317383,
+    "aro_t": 0.13629090785980225,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "It's just... I don't know how to acknowledge it without completely breaking down. When I try to say something about missing her at the table, everyone gets quiet and uncomfortable. Then I feel guilty for ruining the mood. Part of me thinks maybe it's better to just keep pretending, even though it's exhausting. \n\nI get what you're saying about acknowledging things aren't normal, but I'm scared if I start being honest about how much it hurts, I'll never stop crying. And my family depends on me to be strong right now.",
+    "therapist": "It sounds like you're carrying so much - both your own grief and this pressure to protect your family from their discomfort with sadness. That weight must feel incredibly heavy. I wonder what it might be like to explore small ways to honor your grandma at these dinners that feel manageable for you?",
+    "condition": "baseline",
+    "val_t": -0.3675733804702759,
+    "aro_t": 0.19240045547485352,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know... every time I think about doing something special for Grandma at dinner, I just freeze up. My family gets so uncomfortable with emotions, and I'm afraid if I try to honor her it'll just make everyone upset or they'll think I'm being dramatic. It's like I can't win - either I feel guilty for not remembering her, or anxious about how they'll react if I do.",
+    "therapist": "You're describing such a painful dilemma - wanting to honor your grandma while also navigating your family's discomfort with emotional expression. That tension between authenticity and keeping the peace must be exhausting to hold. What would it feel like to start small, perhaps by privately bringing something that reminds you of her to these dinners?",
+    "condition": "baseline",
+    "val_t": -0.30767154693603516,
+    "aro_t": 0.2385176420211792,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I like the idea of bringing something small to remember her by, but I'm worried my family will notice and make comments. They get uncomfortable with anything too sentimental. Maybe if I wore her favorite color or something subtle like that? But even that might feel like I'm making a statement when I just want to feel close to her.",
+    "therapist": "It sounds like you're thoughtfully considering ways to honor your grandma that feel true to you while also respecting your family's boundaries around grief. Wearing her favorite color could be a beautiful, personal way to carry her memory with you. How does it feel when you imagine having that small, private connection with her during dinner?",
+    "condition": "baseline",
+    "val_t": 0.0187380313873291,
+    "aro_t": 0.10321259498596191,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I like the idea of wearing her favorite color, but part of me worries my family will notice and think I'm not \"moving on\" like they want me to. It's hard because I want to honor her in my own way, but I also don't want to upset anyone or make dinner tense. \n\nWhen I imagine wearing the color, it does feel comforting, like she's still with me in some small way. But then I get this guilty feeling like I'm doing something wrong by not following my family's expectations.",
+    "therapist": "It's understandable to feel torn between honoring your own grieving process and meeting your family's expectations about \"moving on.\" That guilt you're describing shows how deeply you care about both your grandma's memory and your family's comfort. What would it be like to remind yourself that your way of grieving is just as valid as their way?",
+    "condition": "baseline",
+    "val_t": -0.267899751663208,
+    "aro_t": 0.1346374750137329,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I know logically that my grief is valid, but it's hard to shake the feeling that I'm being selfish by still being so upset. When my mom says things like \"Grandma wouldn't want us to be sad,\" it makes me feel like I'm failing at honoring her memory properly. \n\nThe idea of standing up for my own grieving process sounds exhausting - like I'd just be causing more tension in the family when everyone else seems ready to move on.",
+    "therapist": "It sounds like you're caught between honoring your authentic feelings and the pressure to conform to your family's timeline for grief - that's an incredibly difficult space to be in. When your mom says those things, I wonder if it might help to remember that honoring someone's memory can include both joy and sorrow? How does it feel when you consider that your continued sadness might actually be a testament to how much your grandma meant to you?",
+    "condition": "baseline",
+    "val_t": -0.357258677482605,
+    "aro_t": 0.20223557949066162,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about grief having both joy and sorrow, but it's hard to feel anything but guilt when my mom makes those comments. Like if I'm not visibly grieving enough, it means I didn't love my grandma properly. \n\nThe idea that my sadness honors her makes sense intellectually, but in the moment when my mom gives me that disappointed look, all I feel is this pressure to perform grief the \"right\" way. It makes me question my own feelings.",
+    "therapist": "It sounds like you're experiencing this painful double-bind - feeling judged whether you show your grief or try to contain it. That pressure to perform grief \"correctly\" must make it so hard to trust your own natural emotional process. What might it feel like to gently remind yourself that there's no single right way to love or miss someone?",
+    "condition": "baseline",
+    "val_t": -0.2497386932373047,
+    "aro_t": 0.1761016845703125,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess that makes sense logically, but when I'm actually around other people, I just freeze up. If I don't cry enough, I feel like they think I didn't care about my mom, but if I do cry, I feel like I'm making them uncomfortable. It's like no matter what I do, I'm failing somehow. \n\nThe idea of giving myself permission to grieve how I need to sounds nice in theory, but I've spent so long worrying about what others think that I don't even know what my \"natural\" grieving process would look like anymore.",
+    "therapist": "It sounds like you've been so focused on meeting others' expectations that you've lost touch with your own authentic way of grieving - that must feel incredibly disorienting. What small step might help you reconnect with what feels true for you, without worrying about how it looks to others?",
+    "condition": "baseline",
+    "val_t": -0.2686145305633545,
+    "aro_t": 0.16720712184906006,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I don't know if I even remember what \"authentic grieving\" feels like anymore. Every time I start to feel sad, I immediately worry about being too dramatic or making others uncomfortable. The idea of reconnecting with my own feelings sounds nice, but also terrifying - what if what comes up is too much to handle?",
+    "therapist": "It makes complete sense that reconnecting with your authentic feelings after suppressing them for so long would feel both appealing and scary. That fear of being overwhelmed is very common when we start opening up to emotions we've kept at bay. What would it feel like to explore this gradually, perhaps starting with brief moments of private reflection?",
+    "condition": "baseline",
+    "val_t": -0.24692535400390625,
+    "aro_t": 0.22518646717071533,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I’ve been feeling really down after failing my calculus final. It’s made me question whether I’m even cut out for my major or if I’m just not smart enough to handle it. I’m not sure if talking about it will really help, because it feels like the problem is just me not being good enough.",
+    "therapist": "It sounds like this setback has left you feeling really discouraged and doubting your abilities. When we face disappointments, our minds can sometimes jump to harsh conclusions—what evidence do you have that you're \"not good enough\" versus this being one challenging moment?  \n\nWould you be open to exploring how this thought might be affecting how you see yourself overall?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3741002082824707,
+    "aro_t": 0.09134650230407715,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I get what you're saying about it being just one moment, but it's hard not to see it as proof that I'm not cut out for this. Every time I fail at something, it just confirms that voice in my head telling me I'm not good enough. I know it's probably not logical, but the feeling is so strong.",
+    "therapist": "That feeling of certainty—that this failure defines you—must be really heavy to carry. It makes sense that when we're in that headspace, even knowing something might not be logical doesn't ease the emotional weight.  \n\nI wonder if we could slow down for a moment: when that voice says \"you're not good enough,\" what would it need to see or hear to start doubting that story?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15299975872039795,
+    "aro_t": 0.127815842628479,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I don't know what would make that voice doubt itself—maybe if I actually succeeded at something important for once. But even when good things happen, I always find a way to dismiss them as luck or people just being nice to me. It's like my brain won't let me believe anything positive about myself. \n\nThe idea of changing this story feels exhausting because I've believed it for so long. What if trying to doubt it just makes me feel more like a fraud?",
+    "therapist": "It sounds like you're caught in a cycle where even positive experiences get filtered through this deep-seated belief, leaving you feeling stuck and weary. That exhaustion makes total sense—when we've carried a story about ourselves for so long, challenging it can feel like trying to rewrite our own history.  \n\nWhat if we approached this not as \"changing the story\" all at once, but as gently noticing when that dismissive voice shows up? Could we explore one small recent moment where you might’ve overlooked your own agency or effort?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1817408800125122,
+    "aro_t": 0.16944968700408936,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I see what you're saying, but it’s hard for me to believe that just noticing the voice will make a difference. It feels like it’s always there, whispering that I’m not good enough or that I’ve messed things up. Even when I do try to notice it, it’s like I get swallowed up by the feeling that it’s true. \n\nI had a moment yesterday where I finished a project at work, and instead of feeling proud, I kept thinking about how it could’ve been better or how someone else would’ve done it faster. It’s like I can’t even give myself credit without feeling guilty for not doing more.",
+    "therapist": "That critical voice seems to rob you of any sense of accomplishment, leaving only guilt in its place—it must feel exhausting to never feel \"enough\" even when you've clearly put in the work.  \n\nWhen that whisper says someone else could’ve done it faster, do you think there might be space to also acknowledge what it took *for you* to complete it? What would it feel like to name just one small part of that project that required your unique effort or perspective?",
+    "condition": "emotion_text_only",
+    "val_t": -0.01845252513885498,
+    "aro_t": 0.2531651258468628,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it's hard to believe my effort was special when I see others doing similar things so effortlessly. Even if I try to name something unique I brought to the project, that voice just says \"but was that really good enough?\" It feels like I'm just making excuses for being slower. \n\nThe idea of acknowledging my unique perspective makes me uncomfortable because what if it wasn't actually valuable? I see coworkers solve problems in half the time with cleaner solutions - how can I honestly tell myself my way was worthwhile?",
+    "therapist": "It sounds like that voice has turned comparison into a weapon against yourself—always measuring your process against others' outcomes, which leaves no room for your own growth or humanity. That constant pressure to justify your worth must feel crushing.  \n\nWhat if we shifted focus from whether your way was \"as good\" to how it served *you* in that moment? For example, even if a solution took longer, did it perhaps deepen your understanding in a way that rushing wouldn’t have?",
+    "condition": "emotion_text_only",
+    "val_t": -0.025645136833190918,
+    "aro_t": 0.10870873928070068,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it's hard to stop comparing myself when I see other people just... getting it right the first time. Like last week at work, my coworker finished a project in half the time it took me, and everyone praised them. Even if I learned more by going slower, it still feels like I failed somehow. \n\nThe idea of focusing on how it served me makes sense intellectually, but in the moment, all I feel is this knot in my stomach telling me I should've been better.",
+    "therapist": "That knot in your stomach tells me how visceral this feeling is—it’s not just a thought, but a whole-body experience of falling short. When comparison hits that deeply, it makes complete sense that intellectual understanding doesn’t ease the ache.  \n\nCould we try something different? When that knot appears, what if you paused just to name what it feels like (tight? heavy?) without judging whether it’s “right”? Sometimes acknowledging the physical sensation can create a tiny space between you and that voice of failure.",
+    "condition": "emotion_text_only",
+    "val_t": -0.10134470462799072,
+    "aro_t": 0.1377415657043457,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about naming the physical feeling, but I don't know if that will help. When I feel that tightness in my stomach, all I can think is \"here we go again, another failure.\" It's like my body is confirming that I'm not good enough. \n\nI've tried similar techniques before and they just made me more aware of how awful I feel. Like poking at a bruise - it doesn't make it hurt less, just makes me notice it more.",
+    "therapist": "It makes sense that focusing on the discomfort might feel like amplifying it rather than soothing it—especially when that physical sensation has become so tied to self-criticism. That \"here we go again\" reaction shows how deeply these patterns are wired.  \n\nWhat if we tried shifting the focus slightly? Instead of staying with the bruise, could we gently ask yourself in those moments: *\"What does this feeling need right now?\"*—not to fix it, but to offer it a little kindness, like you would to a friend who was hurting?",
+    "condition": "emotion_text_only",
+    "val_t": -0.306410551071167,
+    "aro_t": 0.17981207370758057,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about offering kindness, but it's hard to imagine doing that when the anxiety hits. It feels like my brain just goes straight to \"you're failing again\" before I can even think about being gentle. And honestly, the idea of talking to myself like a friend feels kind of... fake? Like I'd just be pretending to care when I don't really believe it.",
+    "therapist": "That resistance makes total sense—when self-criticism has been your default for so long, kindness can feel foreign or even disingenuous. It’s like trying to speak a language you’ve never been taught while your brain keeps shouting in the old familiar dialect.  \n\nWhat if we started smaller? Instead of jumping to kindness, could we simply notice when that “you’re failing again” thought shows up and label it as *the critic*—just to create a bit of distance between you and its harshness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18737459182739258,
+    "aro_t": 0.1984570026397705,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about labeling the thoughts, but I'm not sure it'll help. When that \"you're failing\" voice shows up, it feels so true in the moment—like it's just stating facts about me. Trying to distance myself from it almost feels like I'm lying to myself. \n\nI do like the language metaphor though. It does feel like my brain is stuck in this harsh mode that's hard to switch out of. But what if noticing the critic just makes me more aware of how often I'm failing? That might make me feel worse.",
+    "therapist": "It sounds like you're caught between recognizing that this voice is harsh and fearing that acknowledging it might just reinforce the pain—that's such a vulnerable place to be. When thoughts feel like undeniable facts, even labeling them can seem like denying reality rather than observing it.  \n\nWhat if we experimented with curiosity instead of certainty? For example, when the critic says \"you're failing,\" could we gently ask: *\"Is this thought trying to protect me from something, even if it's doing it in a harsh way?\"*—not to agree with it, but to understand its role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24811065196990967,
+    "aro_t": 0.09965813159942627,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about curiosity, but it's hard not to take those thoughts at face value. When my brain says \"you're failing,\" it feels so true in the moment—like I'm just seeing reality clearly. The idea that it might be trying to protect me seems... I don't know, too nice? Like I'm making excuses for myself.",
+    "therapist": "It makes sense that curiosity might feel too lenient when the critic’s voice feels like cold, hard truth—almost as if softening toward it would mean ignoring real flaws. That tension between wanting relief and fearing self-deception is really tough.  \n\nWhat if we tried framing it differently: when that \"you're failing\" thought arises, could you notice how *absolute* it is? Not to argue with it, but to observe how it leaves no room for nuance—like a strict rule rather than a reflection of reality?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19742321968078613,
+    "aro_t": 0.16177833080291748,
+    "text_emotion": "Angry"
+  }
+]

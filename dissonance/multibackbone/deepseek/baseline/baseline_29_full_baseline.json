@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just got laid off from my marketing job last month, and I can't stop worrying about money. Every time I try to apply for new jobs, I freeze up because what if I fail again and can't pay my bills? It feels like this dark cloud hanging over everything I do.",
+    "therapist": "I hear how overwhelming this feels—losing your job has shaken your sense of security, and the fear of failing again makes it hard to take those first steps. When those \"what if\" thoughts arise, have you noticed any patterns in how they affect your ability to focus on applying?",
+    "condition": "baseline",
+    "val_t": -0.3844064474105835,
+    "aro_t": 0.19663143157958984,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, the \"what if\" thoughts hit me all the time when I sit down to apply. Like what if I mess up the interview again? What if no one wants to hire someone who got laid off? My hands get all shaky and I end up closing my laptop. It feels like my brain just freezes up with all these worst-case scenarios playing on loop. \n\nI know I *should* be applying, but the rejection from my last job still stings so bad. Part of me thinks maybe I'm just not cut out for this field anymore.",
+    "therapist": "It sounds like these thoughts create such intense physical and emotional reactions that applying feels impossible right now—and that past rejection is making you question your whole career path. When those doubts tell you \"you're not cut out for this,\" what's a small piece of evidence that contradicts that belief?",
+    "condition": "baseline",
+    "val_t": -0.3730052709579468,
+    "aro_t": 0.18264520168304443,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I did get an internship last summer that went pretty well—my supervisor said I had good attention to detail. But that feels different from full-time jobs where the stakes are higher. When I think about applying now, my chest gets tight and I just freeze up.",
+    "therapist": "That tightness in your chest shows how much this matters to you—it's not that you don't care, but that you care deeply and fear repeating that painful experience. What would it feel like to acknowledge that internship success as proof you *do* have skills, even if the job search feels scarier now?",
+    "condition": "baseline",
+    "val_t": -0.07723069190979004,
+    "aro_t": 0.21583914756774902,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but that internship was over a year ago now. It's hard to believe I still have those skills when I keep getting rejection emails. The more time passes, the more I feel like I'm falling behind and that success was just a fluke. \n\nThat tightness in my chest just gets worse every time I sit down to apply for jobs - it feels like my body's warning me I'm going to fail again. I know I should focus on past wins, but what if that internship was my peak?",
+    "therapist": "It makes sense that time passing makes those past successes feel distant, especially when rejection emails seem to confirm your fears. When your body reacts with that tightness, could it be responding to the anticipation of pain rather than an actual threat in this moment?",
+    "condition": "baseline",
+    "val_t": -0.1933356523513794,
+    "aro_t": 0.13322269916534424,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about my body reacting to anticipation, but it's hard to separate that from reality when the rejections keep coming. The tightness in my chest feels just as real whether I'm anticipating rejection or actually reading another \"no\" email. \n\nI know you're trying to help me see this differently, but when I look at my empty inbox day after day, it's hard to believe my anxiety is just about anticipation. It feels like my body is accurately predicting what's coming.",
+    "therapist": "You're absolutely right—those rejections are real, and your body is responding to very tangible disappointments, not just imagined ones. When the physical reaction matches the actual experience so closely, it makes total sense that it would feel like an accurate prediction. \n\nI wonder if we could explore how to acknowledge both truths: that rejections hurt, and that your body's response might be amplifying the impact beyond what's helpful for moving forward?",
+    "condition": "baseline",
+    "val_t": -0.1456812620162964,
+    "aro_t": 0.29941046237945557,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Yeah, I get what you're saying about the body amplifying things, but that doesn't make the hurt any less real in the moment. It's like my chest physically aches every time I get rejected, and then my mind spirals into thinking \"this will keep happening forever.\" I know logically that's probably not true, but the feeling is so intense it overrides everything else. \n\nThe worst part is that when I try to socialize now, I'm so focused on not getting hurt again that I come across awkward or distant, which probably makes rejection more likely. It's this awful cycle I can't seem to break.",
+    "therapist": "It sounds like this cycle—where the physical pain of rejection leads to spiraling thoughts and protective behaviors—feels impossible to escape, especially when it affects your social interactions too. What would it feel like to explore small ways to interrupt that cycle, even just noticing when your chest aches and gently reminding yourself it’s a reaction, not a prediction?",
+    "condition": "baseline",
+    "val_t": -0.32432782649993896,
+    "aro_t": 0.16337013244628906,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about noticing the physical reaction, but when my chest hurts like that, it feels so real and overwhelming in the moment. It's like my brain immediately jumps to \"see? This proves nobody really cares about you\" and that thought just takes over everything. \n\nI can try to notice it, but I'm not sure a gentle reminder would be enough to counter how intense that feeling is. It's like trying to whisper over a tornado siren.",
+    "therapist": "That tornado siren metaphor really captures how overpowering those moments feel—when the physical pain and the thought \"nobody cares\" drown out everything else. What if we explored what might make your inner whisper just a little more audible during those storms, even if it can't silence the siren completely?",
+    "condition": "baseline",
+    "val_t": -0.15220308303833008,
+    "aro_t": 0.27955174446105957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know...that whisper feels so small compared to the siren. Sometimes I try to tell myself that people do care, but then my brain immediately counters with all the times I've felt ignored or dismissed. It's like the pain physically drowns out any comforting thoughts before they can even take root.",
+    "therapist": "It makes sense that trying to force comforting thoughts feels futile when the pain is so loud—it's like trying to plant seeds in a hurricane. Instead of fighting the storm, what would it feel like to simply notice when those dismissals happened in the past, without letting them define every interaction now?",
+    "condition": "baseline",
+    "val_t": -0.3085981607437134,
+    "aro_t": 0.1363518238067627,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That analogy about the hurricane makes sense, but I’m not sure how to just “notice” the dismissals without feeling hurt by them all over again. It’s like they’re engraved in my mind, and every time I think about them, I spiral into guilt and anxiety. I guess I’m worried that noticing them will just make me feel worse, not better.",
+    "therapist": "That worry is completely valid—noticing painful memories can sometimes feel like reopening wounds rather than healing them. What if we approached those engraved memories with curiosity rather than judgment, asking what they might be trying to protect you from feeling now?",
+    "condition": "baseline",
+    "val_t": -0.4153258800506592,
+    "aro_t": 0.13928639888763428,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about curiosity, but when I think about those painful memories, I just feel this heavy weight in my chest. It's like my brain immediately goes to \"why did that happen to me?\" rather than being able to look at it objectively. The idea of them protecting me feels strange—they just hurt.",
+    "therapist": "That heavy weight in your chest tells me how raw those memories still feel—they're not abstract lessons, but real pain that hasn't softened yet. When you ask \"why did this happen to me?\", what would it feel like to sit with that question without needing an answer right away?",
+    "condition": "baseline",
+    "val_t": -0.29831504821777344,
+    "aro_t": 0.1912217140197754,
+    "text_emotion": "Angry"
+  }
+]

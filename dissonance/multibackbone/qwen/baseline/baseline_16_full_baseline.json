@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been feeling really overwhelmed lately. My boss just assigned me two new projects with tight deadlines, and I'm struggling to keep up with everything. I know I should be able to handle it, but I can't shake this feeling of anxiety and doubt. I'm not even sure if therapy can help with this.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and it’s completely understandable to feel overwhelmed and anxious with these new responsibilities. Therapy can definitely be a supportive space to explore these feelings and find strategies to manage them. How have you been coping with the stress so far?",
+    "condition": "baseline",
+    "val_t": -0.2823493480682373,
+    "aro_t": 0.290122389793396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to manage the stress by staying really organized and setting strict schedules, but it feels like no matter what I do, there's always something else to worry about. I feel like I'm constantly on edge, and it's starting to affect my sleep and my relationships.",
+    "therapist": "It sounds like you’re really putting in the effort to stay organized, which is a great strategy, but it’s also clear that the pressure is taking a toll on you. It’s completely normal for stress to impact your sleep and relationships. Have you noticed any specific thoughts or fears that come up when you feel on edge?",
+    "condition": "baseline",
+    "val_t": -0.016660094261169434,
+    "aro_t": 0.16260087490081787,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, I do notice that when I feel really on edge, I start worrying a lot about making mistakes or letting people down. It’s like I can’t shake the feeling that if I’m not perfect, everything will fall apart. I know it’s not rational, but it’s hard to control those thoughts.",
+    "therapist": "It’s really insightful of you to recognize those thoughts, and it’s completely understandable to have those fears when you’re under so much pressure. Perfectionism can be a tough cycle to break, but it’s important to remember that mistakes are a natural part of the learning process and don’t define your worth. What do you think might happen if you allowed yourself to not be perfect, just for a little while?",
+    "condition": "baseline",
+    "val_t": -0.282124400138855,
+    "aro_t": 0.1101984977722168,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I understand what you're saying, but it's hard for me to let go of that need for perfection. I feel like if I make a mistake, it will just confirm that I'm not good enough. It's a scary thought, and I worry that it might spiral into more anxiety and self-doubt.",
+    "therapist": "I can see how deeply you feel this, and it’s completely understandable to be scared of those outcomes. It’s important to acknowledge that these fears are valid and impactful for you. Have there been times in the past when you’ve made a mistake, and it turned out to be less catastrophic than you initially feared?",
+    "condition": "baseline",
+    "val_t": -0.3299194574356079,
+    "aro_t": 0.22197437286376953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I guess there have been times when things didn't turn out as badly as I thought they would. But it's hard to remember those times when I'm feeling so anxious and overwhelmed. It feels like every mistake could be the one that really screws everything up.",
+    "therapist": "It’s really helpful that you can recall those times, even if they feel distant when you’re in the thick of anxiety. It’s a reminder that your fears, while valid, might not always reflect the reality of the situation. Could we try a small experiment where you allow yourself a minor, low-stakes mistake and observe what happens? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.2901986837387085,
+    "aro_t": 0.2583963871002197,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the idea, but I'm not sure I'm ready for that yet. It feels like a big step, even if it's a small mistake. I worry that it might spiral into something bigger and more anxiety-inducing.",
+    "therapist": "I completely understand that taking that step can feel daunting, and it’s okay to move at your own pace. It’s important to feel safe and comfortable with any changes you make. Perhaps we could start with something even smaller, like acknowledging and accepting a minor imperfection without trying to fix it immediately. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.17603814601898193,
+    "aro_t": 0.1911783218383789,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you suggesting something smaller, Luna. It still feels a bit challenging, though. I worry that even acknowledging a minor imperfection might make me feel like I’m giving up or accepting something I shouldn’t. How do I know I’m not just settling for less?",
+    "therapist": "I understand your concern, and it’s important to find a balance where you feel you’re not compromising your standards. Acknowledging imperfections isn’t about settling for less; it’s about recognizing that perfection is often an unrealistic goal and that small imperfections are a natural part of life. Could we explore some of the benefits and potential outcomes of accepting a minor imperfection? How do you think it might affect your stress levels and overall well-being?",
+    "condition": "baseline",
+    "val_t": -0.007007598876953125,
+    "aro_t": 0.106315016746521,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and I understand the logic, but it's hard for me to let go of the idea that I should always strive for perfection. I worry that if I accept imperfections, I might start to lower my standards in other areas of my life, and that could lead to more problems. It feels like a slippery slope, you know?",
+    "therapist": "I completely understand your concern about the slippery slope, and it’s a valid worry. It’s important to maintain high standards, but it’s also crucial to find a balance that doesn’t lead to burnout or constant self-criticism. What do you think it would take for you to feel more comfortable with allowing some room for imperfection, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.1766810417175293,
+    "aro_t": 0.07892656326293945,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, and I know it's important to find a balance, but it's really hard for me to let go of my need for perfection. I worry that if I start allowing imperfections, even in small things, it will just spiral out of control and I'll start making more mistakes. It feels like a risk I'm not sure I'm ready to take.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. Change can be risky, especially when it comes to something as important as your standards and performance. It might help to start with a very small, controlled step, like allowing yourself to leave a task 95% complete instead of 100%, and see how it feels. What do you think about trying that as a way to test the waters?",
+    "condition": "baseline",
+    "val_t": -0.26301324367523193,
+    "aro_t": 0.10077857971191406,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea, but it's hard because I feel like that 5% can make a big difference. I worry that if I start letting things slide, even a little, it could spiral into a habit of not doing my best. How do I know it won't affect my performance or how others perceive me?",
+    "therapist": "I understand your concern, and it’s important to maintain your high standards. Starting with a very small and controlled experiment can help you see the impact without feeling like you’re compromising your performance. What if we try it just once and reflect on the outcome together? How do you think that might help you gain some insight into whether it really affects your performance or others' perceptions?",
+    "condition": "baseline",
+    "val_t": -0.14764487743377686,
+    "aro_t": 0.05726277828216553,
+    "text_emotion": "Sad"
+  }
+]

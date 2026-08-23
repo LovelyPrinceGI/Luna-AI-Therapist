@@ -1,0 +1,60 @@
+\chapter{INTRODUCTION} 
+
+\section{Background of the Study}
+The increasing demand for mental health support has significantly accelerated efforts to develop Large Language Models (LLMs) as accessible psychological counselors \cite{lee2024cactus}. Within therapeutic approaches, Cognitive Behavioral Therapy (CBT) stands out as one of the most effective non-pharmacological methods, proven to enhance well-being and reduce perceived stress \cite{shahrokhian2021effects}. To enable LLMs to function as effective CBT practitioners, it is crucial to train them on realistic, high-quality data that emulates real-world therapeutic interactions, a challenge addressed by recent efforts in dataset creation such as CACTUS \cite{lee2024cactus}.
+
+\section{Statement of the Problem}
+However, a critical shortcoming of current text-based LLMs is their inability to process the nuances of verbal communication; they excel at understanding what is said, but fail to grasp how it is said \cite{sun2024beyond}. This limitation ignores a vital channel of information, as clinicians and researchers have long recognized that non-verbal, paralinguistic vocal cues are powerful indicators of an individual's mental state \cite{cummins2015review}. The human voice is a highly sensitive output system, affected by the cognitive and physiological changes associated with conditions like depression, which manifest in features related to prosody, voice quality, and spectral characteristics \cite{cummins2015review}. Recent work in other domains has shown that integrating vocal cues such as pitch, loudness, and duration can significantly improve an LLM's decision-making capabilities, especially in situations with ambiguity \cite{sun2024beyond}. The critical gap, therefore, lies in the application of this principle to therapeutic AI; there is a lack of a framework that integrates real-time vocal cue analysis into an interactive AI to deliver in-the-moment therapeutic actions.
+
+\section{Research Questions}
+\begin{enumerate}
+    \item \textbf{RQ1 -- Dissonance Advantage.} Does the Dissonance-Aware therapist framework, which computes emotional mismatch (VA delta) between text and speech, consistently outperform Baseline (text-only), Emotion (text+VA), and Multimodal (text+speech+VA, without dissonance) methods on measurable therapeutic quality metrics?
+
+    \item \textbf{RQ2 -- Backbone Robustness.} Is the advantage of the Dissonance-Aware framework robust across different LLM backbones? Specifically, does the dissonance signal provide consistent performance gains when the underlying therapist LLM is changed (e.g., GPT-4o mini vs.\ DeepSeek V4 Pro vs.\ other models)?
+\end{enumerate}
+
+\section{Hypotheses}
+
+\begin{enumerate}
+    \item \textbf{H1 (Dissonance Advantage -- RQ1):} The Dissonance-Aware therapist will achieve the highest (or tied-highest) scores on all seven evaluation metrics---Understanding, Interpersonal Effectiveness, Affective Bond, CTRS Collaboration, Guided Discovery, Focus, and Strategy---compared to Baseline, Emotion (Text-Only), and Multimodal (Vocal-Aware) conditions.
+
+    \item \textbf{H2 (Backbone Robustness -- RQ2):} The performance advantage of the Dissonance-Aware framework over the other three conditions will persist across different LLM backbones, with the delta-driven dissonance signal providing a consistent, architecture-independent improvement.
+\end{enumerate}
+
+\section{Objectives of the Study}
+
+\begin{enumerate}
+    \item To construct a multimodal emotional analysis pipeline that independently extracts Valence-Arousal from text (via vad-bert) and speech (via WavLM), computes emotional dissonance as the VA delta between modalities, and injects that signal into therapist LLM prompts alongside vocal prosodic descriptors.
+
+    \item To implement and compare four therapist generation conditions across multiple LLM backbones, isolating whether the dissonance signal's therapeutic benefit is model-dependent or architecture-agnostic.
+\end{enumerate}
+
+\section{Methodology Overview}
+
+To address these questions, this thesis proposes a multimodal dissonance-aware therapist framework. The framework extracts emotional signals from two parallel channels: text-derived Valence-Arousal from the client's words, and speech-derived Valence-Arousal from their vocal delivery. A dissonance score---computed as the delta between these two channels---flags moments where what the client says and how they say it diverge. Four therapist generation conditions, each providing a different subset of these emotional signals to the same underlying LLM, are compared through automated GPT-4o evaluation across seven therapeutic quality metrics over 10 CBT dialogues. This controlled comparison isolates the specific contribution of the dissonance signal to therapist response quality.
+
+\section{Scope and Limitations}
+
+\textbf{In Scope (What This Research Will Do):}
+\begin{itemize}
+    \item \textbf{Develop a Framework:} Propose and build a multimodal therapist framework that integrates text and speech emotional signals to detect and respond to emotional dissonance in CBT-style dialogue.
+    \item \textbf{Synthetic Dataset:} Create and utilize a synthetically generated dataset of 10 multi-turn CBT counseling dialogues produced via CACTUS-style script generation and Zonos TTS synthesis with state-controlled prosody.
+    \item \textbf{Multimodal Condition Comparison:} Compare four therapist generation conditions---Baseline, Emotion (Text-Only), Multimodal (Vocal-Aware), and Dissonance-Aware---to quantify the contribution of each emotional signal type.
+    \item \textbf{Automated Evaluation:} Assess therapist response quality using GPT-4o as a zero-shot evaluator across seven metrics spanning Therapist Skills, Client Alliance, and the Cognitive Therapy Rating Scale.
+\end{itemize}
+
+\textbf{Out of Scope (What This Research Will NOT Do):}
+\begin{itemize}
+    \item \textbf{Not a Clinical Tool:} This project is a computer science exploration. The resulting AI is not a medical device and is not intended to replace professional human therapists or provide clinical diagnoses.
+    \item \textbf{No Real Patient Data:} For ethical and privacy reasons, this research will not use any real-world patient or clinical data. All training and testing will be performed on the synthetically generated dataset.
+    \item \textbf{Limited to English:} The current scope is limited to processing and generating English-language speech based on the available datasets (CACTUS, Zonos).
+    \item \textbf{No Other Modalities:} The analysis is strictly focused on vocal and textual information. We will not analyze other cues such as facial expressions or body language.
+\end{itemize}
+
+\section{Key Findings}
+
+The experimental results demonstrate a clear hierarchy of therapeutic quality across the four conditions. The Dissonance-Aware method led or co-led on all 7 evaluation metrics, with particularly notable improvements in Understanding (4.90 vs.\ 4.00 baseline, +0.90), CTRS Focus (4.50 vs.\ 3.00, +1.50), CTRS Guided Discovery (3.90 vs.\ 2.60, +1.30), and CTRS Collaboration (4.50 vs.\ 3.10, +1.40). The Multimodal (Vocal-Aware) condition showed clear improvement over Emotion (Text-Only) on Understanding (4.30 vs.\ 4.10), demonstrating that vocal cues contribute measurable value beyond text-level emotional information. These findings support the central thesis claim: the dissonance signal itself, not merely multimodal input, is the key driver of improved therapeutic attunement. Multi-backbone replication (RQ2) is planned as the next evaluation phase.
+
+\section{Contributions}
+
+The primary contributions of this work are: (1) a multimodal framework that independently extracts and aligns text and speech emotional representations (VA) for therapist response generation; (2) the operationalization of emotional dissonance---computed as a VA delta between modalities---as a prompt-level therapeutic signal; (3) a controlled four-condition experimental design that isolates the contribution of each emotional metadata type to response quality; and (4) a reproducible GPT-4o-based evaluation protocol with seven therapeutic quality metrics for benchmarking AI therapist performance. The remainder of this paper is organized as follows: Chapter~2 reviews related work, Chapter~3 details the methodology, Chapter~4 describes the experimental setup, and Chapter~5 presents and discusses the results.

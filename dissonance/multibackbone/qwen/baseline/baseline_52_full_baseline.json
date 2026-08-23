@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately with the pressure of my final exams coming up next month. I've been struggling a lot in my statistics class, and it's making me really anxious about how I'm going to manage everything. I don't know if therapy can really help with this, but I thought I'd give it a try.",
+    "therapist": "Hi there! It sounds like you're under a lot of pressure, and it's completely understandable to feel overwhelmed, especially with your final exams and the challenges you're facing in statistics. How have you been coping with these feelings so far, and what do you think might help you feel a bit more in control?",
+    "condition": "baseline",
+    "val_t": -0.11309349536895752,
+    "aro_t": 0.24297702312469482,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to study as much as I can, but I feel like I'm just not getting it, especially with statistics. It's really stressful, and I keep worrying that I'm going to fail. I've tried making study schedules and flashcards, but it doesn't seem to help much. Do you have any other ideas that might work for me?",
+    "therapist": "It sounds like you've been putting in a lot of effort, and it's really tough when it feels like it's not paying off. It's completely normal to feel stressed and worried, especially when you're facing a challenging subject like statistics. Have you thought about breaking down your study sessions into smaller, more manageable chunks, or maybe trying a different approach, like working through problems with a study group or using online tutorials? What do you think might make studying feel a bit more doable and less overwhelming?",
+    "condition": "baseline",
+    "val_t": 0.033788084983825684,
+    "aro_t": 0.1293783187866211,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate the suggestions, but I don't think breaking it down into smaller chunks will make much of a difference. I've tried that before, and I still end up feeling overwhelmed and anxious. Plus, finding a study group or using online tutorials feels like it might just add more pressure. It's hard because I feel like I'm already doing everything I can, and it's not enough.",
+    "therapist": "I can really understand how frustrating it must be to feel like you're already doing everything you can and still not seeing the results you want. It's totally valid to feel that way, and it's important to acknowledge the effort you're putting in. Sometimes, when we feel stuck, it can help to explore our thoughts and beliefs about the situation. For example, when you feel overwhelmed, what are some of the thoughts that come to mind? Are there any specific beliefs that might be contributing to your anxiety, and how might we gently challenge those thoughts?",
+    "condition": "baseline",
+    "val_t": -0.09501564502716064,
+    "aro_t": 0.20417821407318115,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you understanding how I feel. When I feel overwhelmed, I often think, \"No matter what I do, it's never enough,\" and that just makes me feel more anxious and guilty. I'm not sure if challenging those thoughts will make a difference, though. It feels so deeply ingrained.",
+    "therapist": "Thank you for sharing that with me. It's really common to have those kinds of thoughts, and they can definitely make things feel a lot harder. It's understandable that you might be skeptical about whether challenging these thoughts will help, but it's often a powerful way to start shifting how we feel. Could we try looking at some evidence that supports or challenges the thought \"No matter what I do, it's never enough\"? For example, are there times when you've felt like your efforts have made a difference, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.08556616306304932,
+    "aro_t": 0.17927074432373047,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you saying that, Luna. It's hard to see it sometimes, but I guess there have been moments where I felt like I made a difference, like when I helped a friend through a tough time. But it still feels like those moments are few and far between, and the guilt and anxiety just keep coming back. I'm not sure how to make those small wins feel more significant.",
+    "therapist": "It's really important to acknowledge those moments where you've made a difference, even if they feel few and far between. Recognizing your strengths and the positive impact you've had can be a powerful way to build your confidence. How do you think we could help those small wins feel more significant, maybe by finding ways to celebrate them or by reflecting on them more often? What do you think might help you hold onto those positive feelings a bit longer?",
+    "condition": "baseline",
+    "val_t": -0.013804078102111816,
+    "aro_t": 0.11378538608551025,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I understand what you're saying, but it's hard for me to feel like those small wins are significant. They often feel so insignificant compared to the bigger issues I face. I don't know, maybe it's just that I struggle to see the value in them. How can I change that? It feels like a big leap for me.",
+    "therapist": "I completely understand how challenging it can be to see the value in those small wins when you're facing bigger issues. It's a big leap, but it's one we can work on together. One approach could be to start by giving yourself credit for the effort you put in, regardless of the outcome. For example, recognizing that you took the time to help a friend or that you studied for a certain amount of time each day. What do you think about setting aside a few minutes each day to reflect on and write down one or two things you did well, no matter how small they might seem? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": 0.050542235374450684,
+    "aro_t": 0.14996254444122314,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea, but it feels a bit forced, you know? It's hard to feel good about something small when the big stuff feels so overwhelming. I worry that it might just make me feel worse if I can't find anything to write down, or if what I do write down seems trivial.",
+    "therapist": "I totally get what you mean—it can feel forced and even demotivating if it's not something you truly believe in. It's important to find a way that feels authentic to you. Maybe we could start with a more gentle approach, like taking a few minutes each day to simply notice and acknowledge your efforts, without the pressure to write them down. How does that feel? Or, we could explore other ways to manage the overwhelm, like mindfulness or relaxation techniques. What do you think might be a good starting point for you?",
+    "condition": "baseline",
+    "val_t": -0.20794856548309326,
+    "aro_t": 0.08774709701538086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. Taking a few minutes each day to acknowledge my efforts does sound more manageable and less forced. I think I might struggle with consistency, though—I often find it hard to stick with new routines, even when they seem simple. Maybe we could figure out some way to help me stay motivated or find a routine that really fits with my life.",
+    "therapist": "That's a great insight, and it's completely understandable to worry about consistency. Finding a routine that fits with your life and helps you stay motivated is key. One idea could be to tie this new practice to something you already do every day, like having a cup of tea or brushing your teeth. This way, it becomes a natural part of your routine. What do you think about linking it to an existing habit, or is there another way you might be able to integrate this into your day without it feeling like an extra task?",
+    "condition": "baseline",
+    "val_t": 0.1322261095046997,
+    "aro_t": 0.05317723751068115,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean about tying it to an existing habit, but I'm still a bit skeptical. It feels like just one more thing to remember, and I already struggle with keeping track of everything. Plus, I worry that if I start with something small, I'll just end up feeling guilty if I miss a day or two.",
+    "therapist": "I completely understand your skepticism and the concern about adding one more thing to remember. It's totally valid to worry about feeling guilty if you miss a day. Maybe we could start with a very low-pressure approach, where you don't set a specific time or tie it to a habit, but rather just try to notice your efforts when you naturally think of them, without any expectations. How does that feel? Or, we could explore a different strategy that might feel more comfortable and less like an additional burden. What do you think might work better for you?",
+    "condition": "baseline",
+    "val_t": -0.29691827297210693,
+    "aro_t": 0.0592195987701416,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you understanding my concerns, Luna. The idea of a low-pressure approach sounds more manageable, but I'm still a bit worried about feeling like I'm not doing enough. I guess I could try to notice my efforts when they come up naturally, but I'm not sure how to make sure I'm actually making progress without setting some kind of goal or expectation.",
+    "therapist": "I understand your concerns about feeling like you're not doing enough, and it's great that you're open to trying a low-pressure approach. Noticing your efforts naturally can be a gentle way to start, and you can gradually build from there. One way to track progress without feeling overwhelmed might be to keep a very simple journal or even a mental note of how you feel after noticing your efforts. This can help you see the positive impact over time, even if it's just a small change. How does that sound to you, and what might make it feel more doable?",
+    "condition": "baseline",
+    "val_t": 0.007123708724975586,
+    "aro_t": 0.1032637357711792,
+    "text_emotion": "Neutral"
+  }
+]

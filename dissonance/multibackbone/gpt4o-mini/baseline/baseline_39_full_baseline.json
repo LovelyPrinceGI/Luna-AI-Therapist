@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. It feels like a heavy cloud of sadness is hanging over me, and I can't seem to find joy in anything I do. Sometimes, I wonder if therapy can even help me work through this because it feels so deeply rooted and painful.",
+    "therapist": "I'm so sorry to hear about your grandmother's passing; it's completely understandable to feel overwhelmed by such a profound loss. It's okay to acknowledge that sadness and the weight it brings, and it's important to remember that therapy can offer support as you navigate these feelings. What are some small moments or memories of your grandmother that you hold dear, and how do they make you feel?",
+    "condition": "baseline",
+    "val_t": -0.3681473731994629,
+    "aro_t": 0.2684662342071533,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your kind words about my grandmother. It's just been really hard to think about her not being here anymore. I do have some nice memories of her, like when she would bake cookies with me, but they feel bittersweet now. I can't help but feel guilty for moving on when she’s gone. How am I supposed to just accept that she's not around anymore?",
+    "therapist": "It's completely normal to feel guilty when you're trying to move forward after losing someone so special. Those bittersweet memories reflect the love you shared, and it's okay to cherish them while also allowing yourself to feel joy again. How might you honor your grandmother's memory while also giving yourself permission to experience happiness in your life?",
+    "condition": "baseline",
+    "val_t": -0.10118567943572998,
+    "aro_t": 0.0993272066116333,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I feel a mix of sadness and guilt when I think about my grandmother. It's hard to imagine moving on and feeling happy without feeling like I'm betraying her memory. I want to honor her, but I also feel stuck in this cycle of missing her and feeling like I have to mourn forever.",
+    "therapist": "It's understandable to feel that mix of sadness and guilt, especially when you held such a close bond with your grandmother. Remember, honoring her memory doesn't mean you have to remain stuck in grief; it's possible to carry her love with you as you navigate your own path to healing. What are some ways you think you could honor her while also allowing yourself to explore what happiness might look like for you?",
+    "condition": "baseline",
+    "val_t": -0.4407237768173218,
+    "aro_t": 0.17733871936798096,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate what you're saying about honoring my grandmother's memory, but it feels overwhelming to think about exploring happiness right now. I feel guilty just imagining it, like I would be leaving her behind or betraying her somehow. The thought of carrying her love with me is comforting, but I'm not sure how to do that without feeling like I'm moving on too quickly.",
+    "therapist": "It’s completely understandable to feel overwhelmed at the idea of exploring happiness right now; those feelings of guilt can be very strong. Remember, carrying your grandmother's love with you doesn’t mean you have to forget her or your grief; it can simply be a part of the journey as you learn to navigate life without her. What small step do you think you could take that feels manageable, perhaps a way to celebrate her life while allowing yourself to feel a bit lighter?",
+    "condition": "baseline",
+    "val_t": 0.06054699420928955,
+    "aro_t": 0.2703373432159424,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate what you said about carrying my grandmother's love with me, but it feels so hard to even think about celebrating her life right now. I feel this heavy guilt when I consider being happy or doing something joyful, like it would mean I’m forgetting her. I guess I don't know how to honor her memory without feeling like I'm betraying the love we had.",
+    "therapist": "It’s completely valid to feel that heavy guilt when considering joy or celebration; it shows how deeply you cared for your grandmother. Honoring her memory can be a personal journey, and it might help to think of it as sharing your happiness with her rather than leaving her behind. What are some gentle ways you could acknowledge her presence in your life, perhaps through small actions or memories that feel comfortable for you right now?",
+    "condition": "baseline",
+    "val_t": -0.17783606052398682,
+    "aro_t": 0.2239898443222046,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate what you’re saying, but it feels really hard to even think about celebrating anything right now. I worry that if I try to find joy or do something to honor her, it might feel like I’m forgetting her or betraying her memory in some way. I just don’t know how to balance those feelings of guilt with the idea of moving forward.",
+    "therapist": "I hear you, and it's completely understandable to feel that way—balancing those feelings of guilt with the desire to move forward can be incredibly challenging. It's important to remember that honoring your grandmother can take many forms, and it doesn't have to mean letting go of your grief. What if you allowed yourself to explore small moments of joy while also creating space to remember her in those moments? How does that idea feel to you?",
+    "condition": "baseline",
+    "val_t": -0.15209734439849854,
+    "aro_t": 0.1464470624923706,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate what you're saying, but it feels really difficult for me to imagine finding joy right now. I mean, my grandmother meant so much to me, and I feel guilty even thinking about enjoying anything without her. It’s like I’m betraying her memory if I allow myself to feel happy.",
+    "therapist": "It's completely natural to feel that way, and your feelings of guilt reflect the deep love you had for your grandmother. Finding joy doesn't mean you are forgetting her; it can be a way to honor the happiness she brought into your life. What if you considered allowing yourself to experience small moments of joy while also holding space for your grief? How might that balance feel for you?",
+    "condition": "baseline",
+    "val_t": -0.09121930599212646,
+    "aro_t": 0.24440979957580566,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "It feels really complicated to think about allowing myself moments of joy right now. I feel like if I do that, it means I'm moving on or forgetting my grandmother, which makes me feel guilty. I guess I’m just scared that experiencing happiness will somehow diminish the love I have for her.",
+    "therapist": "I can see how complicated and heavy those feelings are for you. It's understandable to fear that experiencing happiness might diminish your love for your grandmother, but it's important to remember that joy and grief can coexist. Your love for her is a lasting part of who you are, and finding moments of joy can be a way to celebrate that love. What are some small, gentle ways you might explore bringing a bit of joy into your life while still honoring her memory?",
+    "condition": "baseline",
+    "val_t": -0.18793976306915283,
+    "aro_t": 0.21421074867248535,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your perspective, but it just feels so wrong to think about being happy when I miss her so much. It feels like if I let myself enjoy something, I’m somehow betraying her memory. I know what you’re saying makes sense, but I struggle with how to actually bring joy into my life when I feel this heaviness.",
+    "therapist": "I truly understand how heavy that feeling can be, and it’s okay to struggle with the idea of finding joy while you’re missing her so deeply. It’s a testament to the love you had for your grandmother that you want to honor her memory in such a meaningful way. Perhaps instead of trying to find joy right away, you could focus on small moments of comfort or connection to her, allowing yourself to feel both the sadness and the love without pressure to move on too quickly. What do you think might feel like a comforting step for you in this moment?",
+    "condition": "baseline",
+    "val_t": 0.02746450901031494,
+    "aro_t": 0.3001164197921753,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, but it feels so overwhelming to even think about finding comfort. I keep getting stuck in my memories of her and the sadness feels so heavy, I’m not sure how I could take a step toward comfort when the pain feels so consuming. I guess I'm just afraid that if I try to find those small moments, it might make the sadness even more intense.",
+    "therapist": "It's completely valid to feel consumed by that sadness, especially when memories of your grandmother are so vivid and powerful. Acknowledging that pain is an important part of the healing process, and it's okay to take your time. Rather than pushing yourself to find comfort or joy right now, what if you allowed yourself to simply sit with those memories and feelings, honoring them as part of your journey? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.3170355558395386,
+    "aro_t": 0.17966651916503906,
+    "text_emotion": "Angry"
+  }
+]

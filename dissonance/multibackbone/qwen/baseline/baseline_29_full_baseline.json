@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been a really tough month since I got laid off from my job at the marketing firm. I keep feeling overwhelmed by the uncertainty of my financial future and the pressure to find a new job. I'm not sure if therapy can really help with all this, but I'm trying to keep an open mind.",
+    "therapist": "Hi there, I’m really glad you reached out and decided to give therapy a try. It sounds like you’re going through a incredibly challenging time, and it’s completely understandable to feel overwhelmed with all the uncertainty and pressure. How have you been coping with these feelings so far?",
+    "condition": "baseline",
+    "val_t": -0.06310164928436279,
+    "aro_t": 0.1524425745010376,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for being here. I’ve been trying to cope by keeping really busy, but it feels like I’m just running in circles. I end up feeling more anxious and guilty because I can’t seem to get anything right.",
+    "therapist": "I can imagine how exhausting it must feel to be so busy yet still feel like you’re not making progress. It’s really common to feel anxious and guilty in these situations, especially when the pressure is high. What do you think might help you feel a bit more grounded or less guilty during this time?",
+    "condition": "baseline",
+    "val_t": -0.014341235160827637,
+    "aro_t": 0.22868812084197998,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It does feel exhausting, and the guilt just adds to it. I guess I struggle with finding time to just breathe and relax, because every moment feels like it needs to be productive. I don’t know, maybe I’m just too hard on myself. But when you suggest finding ways to feel more grounded, I’m not sure what that looks like in my current schedule. It feels like there’s no room for that.",
+    "therapist": "It’s really brave of you to recognize that you might be too hard on yourself, and it’s completely understandable to feel that way given the pressure you’re under. Finding moments to breathe and relax can be challenging, but even small steps can make a difference. What if we explored some brief, manageable activities that could help you feel a bit more grounded, even if it’s just for a few minutes each day? What do you think might be feasible for you right now?",
+    "condition": "baseline",
+    "val_t": -0.11270654201507568,
+    "aro_t": 0.11405754089355469,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you saying that, and I know it's important to take breaks, but it's hard to find the time or energy to do anything extra. I feel like even a few minutes of relaxation might just add to my list of things I should be doing. How can I make sure it doesn't feel like another obligation?",
+    "therapist": "I completely understand that adding anything else to your plate can feel overwhelming. It’s important to approach relaxation as something that nourishes you rather than another task. Maybe we can think of it as a way to recharge, so you have more energy and clarity for the other things you need to do. What if we tried to find a simple, enjoyable activity that you could do without any pressure, something that feels more like a treat than a chore? What comes to mind when you think about what might feel like a treat for you?",
+    "condition": "baseline",
+    "val_t": 0.041517019271850586,
+    "aro_t": 0.14348411560058594,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I can see what you mean about making it feel more like a treat, but it's hard for me to think of things that feel like treats these days. I feel like I've tried a lot of different things, and they just don't seem to stick or make me feel better for very long. It's hard to find something that feels genuinely enjoyable and not just another thing I have to do.",
+    "therapist": "I can really understand how challenging it is to find things that feel genuinely enjoyable when you’re under so much stress. It’s normal for things that once brought you joy to feel less appealing when you’re feeling down. Let’s try to think about this from a different angle. Is there something, even a small activity, that you used to enjoy or that you’ve always been curious about, but haven’t had the chance to explore? It could be something as simple as listening to a favorite song, trying a new recipe, or spending a few minutes outside. What do you think might resonate with you, even a little bit?",
+    "condition": "baseline",
+    "val_t": -0.003889918327331543,
+    "aro_t": 0.09825515747070312,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard because even the things I used to enjoy don't seem to bring me much joy anymore. I mean, I've tried listening to music and cooking, but it feels like a chore more than anything. I don't know if trying something new will make a difference. It feels like everything is just ... overwhelming.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way when you’re going through such a tough time. It’s really tough when even the things you used to enjoy lose their appeal. Sometimes, when we’re feeling overwhelmed, it can help to start with something very small and simple, even if it’s just a minute or two of deep breathing or a short walk. What do you think about trying something really gentle, just to see how it feels, without any pressure to enjoy it or make a big difference? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": 0.13640403747558594,
+    "aro_t": 0.23394513130187988,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard because even the thought of doing something, no matter how small, feels exhausting. I know it’s supposed to help, but right now, it’s like I’m stuck in this heavy fog and can’t see a way out.",
+    "therapist": "I can really see how heavy and exhausting this feels for you right now. It’s completely understandable to feel stuck in that fog when everything seems so overwhelming. Sometimes, just acknowledging how you’re feeling and giving yourself permission to rest can be a form of self-care. What if we focused on finding a way to give yourself a break, even if it’s just a moment to sit quietly and not do anything at all? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.052648067474365234,
+    "aro_t": 0.1834336519241333,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does feel really heavy, and I know I need a break, but it's hard to just sit and do nothing. My mind always finds a way to spiral into worry or guilt for not being productive. How can I stop that from happening?",
+    "therapist": "It’s really common to feel that way, and I’m glad you shared that with me. It’s tough when your mind keeps spiraling into worry and guilt, even when you’re trying to take a break. One thing that might help is to gently acknowledge those thoughts without judgment and then shift your focus to something more neutral or calming. For example, you could try focusing on your breath or a soothing image. What do you think about trying a short mindfulness exercise, where you simply observe your thoughts without getting caught up in them? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.19217586517333984,
+    "aro_t": 0.12329363822937012,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your suggestion, but I'm not sure if it will work for me. It's hard because my mind tends to wander back to those anxious thoughts really quickly, and I feel like I can't control it. I've tried mindfulness before, but it feels like a struggle to stay focused.",
+    "therapist": "I completely understand that mindfulness can be challenging, especially when your mind is already prone to wandering back to anxious thoughts. It’s totally normal to struggle with staying focused, and it doesn’t mean you’re doing it wrong. Sometimes, it can be helpful to start with very short periods, even just one minute, and gradually build up. What if we tried a different approach, like a guided mindfulness exercise or a relaxation technique that includes a physical component, like progressive muscle relaxation? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.09195005893707275,
+    "aro_t": 0.10998761653900146,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're trying to find something that might work for me. I do worry that even with a guided exercise, my mind will still drift off. It’s hard because I feel like I’m constantly battling my thoughts, and I’m not sure if I can manage to stay focused, even for a minute.",
+    "therapist": "I really appreciate your openness, and it’s completely understandable to feel that way. Battling your thoughts can be incredibly draining, and it’s okay if staying focused, even for a minute, feels challenging right now. Sometimes, it helps to have a different kind of distraction that engages your senses or a different part of your brain. For example, you could try a simple activity like coloring, playing with a stress ball, or even listening to a guided meditation that includes some background sounds or music. What do you think about trying something like that, just to see if it helps your mind feel a bit more at ease?",
+    "condition": "baseline",
+    "val_t": -0.008127212524414062,
+    "aro_t": 0.10833573341369629,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. Trying to balance my full-time job and taking care of the kids while my partner is away on a work trip has been really tough. I find myself constantly stressed and exhausted, and I’m not sure if therapy can even help with all this.",
+    "therapist": "It sounds like you're under a lot of pressure right now, and it’s completely understandable to feel overwhelmed and exhausted. Therapy can definitely help by providing strategies to manage stress and offering a supportive space to process these feelings. How have you been coping with the stress so far, and are there any specific times when you feel it the most?",
+    "condition": "baseline",
+    "val_t": -0.26307082176208496,
+    "aro_t": 0.1816474199295044,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's been really tough. I've been trying to cope by working out and staying busy, but it feels like the stress just keeps piling up. I notice it the most when I'm alone at night, and all the worries just flood in. It's hard to shake off that feeling of being overwhelmed.",
+    "therapist": "It sounds like you’ve been putting in a lot of effort to manage the stress, and it’s really tough when it feels like it’s not enough. Being alone at night can definitely amplify those feelings of overwhelm. Have you noticed any specific thoughts or worries that come up during those times, or any patterns in what triggers these feelings?",
+    "condition": "baseline",
+    "val_t": -0.2699190378189087,
+    "aro_t": 0.16693449020385742,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, at night, my mind just races with all sorts of worries. I often think about all the things I should have done differently during the day, and I feel this constant guilt. It's hard to pinpoint exactly what triggers it, but I think it's just the quiet and the darkness that make everything feel more intense.",
+    "therapist": "It makes sense that the quiet and darkness can amplify those feelings, and it’s common for our minds to race with worries and self-criticism during those times. Those thoughts about what you should have done differently can be really tough to shake. Can we explore some of those specific thoughts a bit more? For example, what are some of the things you tell yourself, and how do those thoughts make you feel?",
+    "condition": "baseline",
+    "val_t": -0.37090814113616943,
+    "aro_t": 0.0816270112991333,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "Sure, I guess the main things I tell myself are that I should have been more considerate or that I’m not good enough. It makes me feel really guilty and alone, like I’m the only one who can’t get things right. I know it’s irrational, but it’s hard to shake those thoughts, especially at night.",
+    "therapist": "Those are really powerful thoughts, and it’s understandable that they would bring up feelings of guilt and loneliness. It’s important to recognize that these thoughts, while very common, can be quite unkind to ourselves. Can we try to look at some evidence that might challenge these thoughts? For example, are there times when you have been considerate or when you’ve handled things well, even if it didn’t feel like it at the time?",
+    "condition": "baseline",
+    "val_t": -0.267819881439209,
+    "aro_t": 0.05585372447967529,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I understand what you’re saying, but it’s hard for me to see those moments when I’ve been considerate or handled things well. It feels like every time I try to think of something positive, my mind just goes back to all the things I’ve done wrong or could have done better. I don’t know if I can find those positive examples.",
+    "therapist": "It’s completely normal to have a hard time seeing the positive when you’re feeling overwhelmed and critical of yourself. Our minds can often focus on the negatives, especially when we’re under stress. Let’s try a small experiment: What if we set aside a specific time each day, even just a few minutes, to write down one thing you did well or something positive that happened? This can help balance out those critical thoughts over time. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": 0.01626431941986084,
+    "aro_t": 0.08844125270843506,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the idea, but it feels a bit challenging. I often struggle to find anything positive in my day, and forcing myself to write it down might just make me feel worse. I worry that it will just highlight how much I feel I’m failing.",
+    "therapist": "I completely understand that it can feel challenging and even counterproductive to try to find positive moments when you’re already feeling down. It’s important to approach this in a way that feels manageable and not overwhelming. Maybe we could start with a different approach, like simply acknowledging your efforts and the difficult tasks you handle each day, without necessarily focusing on finding something positive. What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.14203286170959473,
+    "aro_t": 0.08909523487091064,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel more manageable to just acknowledge my efforts without forcing myself to find something positive. But I still worry that even this might feel like another thing I'm not doing well enough, you know? It's hard to break that cycle of self-criticism.",
+    "therapist": "I completely understand, and it’s really common to feel that way, especially when self-criticism is a strong habit. It’s a gentle process, and it’s okay to start small. Maybe we can start with just one simple acknowledgment each day, like, “I did my best today,” or “I managed to get through another day.” Even a small step can make a difference over time. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.09397077560424805,
+    "aro_t": 0.047602176666259766,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. It does feel a bit overwhelming to even start with small steps, though. I worry that I won't be able to stick with it or that I'll just end up feeling more discouraged if I can't do it consistently. It's hard because my self-criticism is so deeply ingrained.",
+    "therapist": "I hear you, and it’s completely understandable to feel overwhelmed and concerned about consistency, especially when self-criticism is so deeply ingrained. It’s okay to take it one step at a time and to be gentle with yourself. What if we start with just noticing your efforts and acknowledging them, even if it’s just for a moment? For example, you could simply pause and say, “I’m trying my best,” whenever you notice yourself feeling overwhelmed. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.14985275268554688,
+    "aro_t": 0.09636032581329346,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but it's hard for me to even notice my efforts when I'm feeling so overwhelmed. I often don't recognize when I'm trying my best until it's too late, and then I just end up feeling guilty. It's a tough cycle to break.",
+    "therapist": "I completely understand how difficult it is to notice your efforts in the moment, especially when you’re feeling overwhelmed. It’s a tough cycle, and it’s okay to take it slowly. What if we try a little experiment where you set a reminder on your phone or a note somewhere visible, just to prompt you to pause and acknowledge your efforts, even if just for a moment? This can help you catch those moments of effort and reduce the guilt later. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.2775003910064697,
+    "aro_t": 0.11956596374511719,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I understand what you're saying, and it does sound like a good idea in theory. But I worry that it might just feel like one more thing to keep track of, and that could add to my anxiety instead of helping. It’s hard to find the balance sometimes.",
+    "therapist": "I totally get that adding another thing to keep track of can feel overwhelming, and it’s important to find what works best for you without adding more stress. Maybe we can start with something even simpler, like a mental note to yourself, “I am doing my best,” whenever you notice yourself feeling overwhelmed. This way, it’s not an additional task, but a gentle reminder to acknowledge your efforts. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.1822044849395752,
+    "aro_t": 0.09958219528198242,
+    "text_emotion": "Angry"
+  }
+]

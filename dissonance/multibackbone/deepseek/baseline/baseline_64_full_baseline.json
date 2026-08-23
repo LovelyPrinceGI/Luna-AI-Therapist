@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been avoiding family gatherings ever since my grandma passed away six months ago. When I do go, I just feel empty and disconnected from everyone else—like I'm just going through the motions while they're all laughing and enjoying themselves. Part of me wonders if talking about it will even help, since nothing can bring her back.",
+    "therapist": "It sounds like losing your grandma has left a deep void, and being around family gatherings without her presence feels particularly painful. Have you noticed any specific thoughts or memories that arise when you're in those moments, making it harder to connect with others?",
+    "condition": "baseline",
+    "val_t": -0.10704505443572998,
+    "aro_t": 0.11795246601104736,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's like... whenever I see her favorite chair empty at family dinners, I just shut down. I start remembering how she'd always save me a piece of her famous apple pie, and now it's like no one even notices that tradition is gone. I guess I just sit there thinking \"why is everyone acting like everything's normal?\" but I don't say anything because I don't want to kill the mood.",
+    "therapist": "Those traditions with your grandma sound so special and meaningful—it makes sense that seeing that empty chair would bring up such strong emotions. What do you imagine might happen if you shared those memories with your family during these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.25118088722229004,
+    "aro_t": 0.08404374122619629,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I’ve thought about sharing those memories, but I’m afraid it might make things worse. What if it just reminds everyone of the loss and makes the whole gathering sad? I don’t want to ruin the mood or make people uncomfortable. It feels safer to just keep those thoughts to myself.",
+    "therapist": "It sounds like you're carrying this grief very carefully, wanting to protect both yourself and your family from more pain. I wonder if keeping these memories to yourself might actually be making you feel more alone in your grief?",
+    "condition": "baseline",
+    "val_t": -0.17808806896209717,
+    "aro_t": 0.06370687484741211,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I never thought about it that way, but maybe you're right. It's just...when I try to talk about my dad who passed away, I see how uncomfortable it makes my mom and sister. So I stop myself because I don't want to upset them more. But then I end up feeling like I'm grieving all by myself. \n\nIt's like I'm stuck between hurting them or hurting myself, you know? I keep thinking I should be stronger for them, but it's exhausting pretending I'm okay when I'm not.",
+    "therapist": "It sounds like you're carrying this heavy burden of protecting your family while also needing space for your own grief—that must feel incredibly lonely. What would it be like to consider that sharing your honest feelings might actually create connection rather than just pain?",
+    "condition": "baseline",
+    "val_t": -0.34209907054901123,
+    "aro_t": 0.16549956798553467,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know... every time I've tried to open up before, it just makes everyone uncomfortable. My family expects me to be the strong one, and when I show weakness, they either change the subject or tell me to stay positive. It feels like my honesty just burdens them more.",
+    "therapist": "It sounds like you've had some painful experiences when trying to be vulnerable with your family, and that's made you feel even more isolated in your grief. I wonder if there might be other ways to honor your feelings that don't involve relying on your family's reactions—what would it feel like to express those memories in a way that's just for you?",
+    "condition": "baseline",
+    "val_t": -0.2197253704071045,
+    "aro_t": 0.11951982975006104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it's hard to imagine doing this alone. When I try writing about my feelings or memories, it just makes me more aware of how nobody in my family understands. It feels like I'm talking to a wall, even when it's just me and a journal. \n\nI guess part of me still wants their validation, even though I know I probably won't get it. Like if I don't share it with them, does it even matter? That probably sounds messed up.",
+    "therapist": "It sounds like you're yearning for their understanding and validation, which is such a natural and human desire—especially when you're grieving someone who meant so much to you. I wonder if there might be a way to honor your memories and feelings that feels meaningful to *you*, even if your family isn't able to fully understand or validate them?",
+    "condition": "baseline",
+    "val_t": -0.267389178276062,
+    "aro_t": 0.08309972286224365,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I guess I do want validation, but it feels impossible when my family just brushes it off like it’s nothing. I’m not sure how to honor my feelings in a way that feels meaningful—it’s hard to even know what that would look like. I feel like whatever I do, it’ll just remind me of how alone I am in this.",
+    "therapist": "It sounds like you're feeling stuck between this deep need for connection and the painful reality that your family might not be able to meet you in this grief right now. What if honoring your feelings could look different than you imagine—perhaps something as simple as lighting a candle for your grandma during those family gatherings, just for yourself?",
+    "condition": "baseline",
+    "val_t": -0.16680967807769775,
+    "aro_t": 0.14903533458709717,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about the candle, but it feels like such a small thing when the grief is so huge. My family acts like nothing happened, and me sitting there lighting a candle just makes me feel even more alone in it. Like I'm the only one who even remembers her. \n\nPart of me wants to try it, but another part worries it'll just make the pain sharper when nobody acknowledges what I'm doing. They'll probably just make some comment about the smell or tell me to blow it out if it's bothering someone.",
+    "therapist": "It sounds like the candle idea brings up both hope and fear—hope that it might help you feel connected to her, but fear that your family's reaction might deepen that sense of isolation. What if you tried this in private first, as a way to honor your grandma without depending on their acknowledgment?",
+    "condition": "baseline",
+    "val_t": -0.37962353229522705,
+    "aro_t": 0.15290987491607666,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I like the idea of doing it privately first—it feels safer somehow. But I also worry that keeping it hidden might make it feel less meaningful, like I’m still holding back out of fear of their judgment. Part of me wants to share it with them, even if it’s hard, because Grandma meant so much to all of us.",
+    "therapist": "It sounds like you're recognizing this beautiful tension—wanting to honor your grandma authentically while also protecting yourself from potential hurt. What would it feel like to experiment with both approaches, starting privately and then gently sharing when you feel ready?",
+    "condition": "baseline",
+    "val_t": 0.023587942123413086,
+    "aro_t": 0.1092606782913208,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "That makes sense in theory, but I’m not sure how to balance it. I feel like if I keep things private, I’ll just bottle everything up and feel guilty for not honoring her openly. But if I share, I’m scared people won’t understand or will judge me for being too emotional. It’s like there’s no safe middle ground. How do I even know when I’m “ready” to share?",
+    "therapist": "It sounds like you're wrestling with two very understandable fears—the fear of staying stuck in isolation and the fear of being misunderstood. What if \"ready\" isn't about waiting for the perfect moment, but about noticing when the desire to honor her together feels stronger than the fear of their reaction?",
+    "condition": "baseline",
+    "val_t": -0.17820560932159424,
+    "aro_t": 0.13066339492797852,
+    "text_emotion": "Angry"
+  }
+]

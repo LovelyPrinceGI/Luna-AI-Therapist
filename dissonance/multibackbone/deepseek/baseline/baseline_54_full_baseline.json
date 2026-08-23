@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed lately with my final exams coming up next month. I barely scraped by in chemistry last semester, and now I'm terrified of failing again. I keep doubting whether talking about this will actually help me study better or if it's just wasting time I should be spending on revision.",
+    "therapist": "It’s completely understandable to feel overwhelmed when facing such an important challenge, especially when past experiences weigh on your mind. It sounds like you’re caught in a cycle of doubt and fear, which can make it harder to focus on studying. What do you think might happen if you took some time to explore these feelings rather than pushing them aside?",
+    "condition": "baseline",
+    "val_t": -0.3370629549026489,
+    "aro_t": 0.25576794147491455,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess I do push the feelings aside because I’m scared if I focus on them, they’ll just get worse. I already feel like I’m drowning in anxiety, and the thought of sitting with it feels overwhelming. What if I just spiral and can’t focus on studying at all?",
+    "therapist": "It makes sense that you'd want to avoid these feelings when they already feel so intense - that's a natural protective instinct. But sometimes when we try to push emotions away, they actually grow stronger in the background. What would it be like to try acknowledging the anxiety just for a few minutes, without judgment, to see what happens?",
+    "condition": "baseline",
+    "val_t": -0.3401310443878174,
+    "aro_t": 0.2776235342025757,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but when I try to acknowledge the anxiety, it just feels overwhelming. Like if I let myself really feel it, I'm scared I'll get stuck in it and won't be able to function. It's not just uncomfortable - it feels dangerous somehow.",
+    "therapist": "That fear of being overwhelmed by your emotions makes perfect sense - anxiety can feel like standing at the edge of a cliff where one wrong step could send you falling. But what if we gently explored what \"getting stuck\" might actually look like in reality, rather than in your fears?",
+    "condition": "baseline",
+    "val_t": -0.32856011390686035,
+    "aro_t": 0.32507753372192383,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but when I imagine \"getting stuck\" it feels so real - like I'll just freeze up completely and everyone will notice how panicked I am. The worst part is knowing logically that it probably won't happen, but my body reacts like it's absolutely going to. \n\nIt's frustrating because part of me knows these thoughts are irrational, but they still control me so much. Like last week I almost canceled plans with friends because I was scared I'd have a panic attack in front of them.",
+    "therapist": "It sounds like you're experiencing that difficult gap between knowing something logically and feeling it emotionally - that's incredibly common with anxiety. Your mind is trying to protect you by anticipating danger, even when the rational part knows it's unlikely. What do you think might help bridge that gap between what you know and what you feel?",
+    "condition": "baseline",
+    "val_t": -0.3295760154724121,
+    "aro_t": 0.34897124767303467,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I know logically that most of my anxious thoughts are exaggerated, but that doesn't stop my stomach from twisting into knots. I've tried telling myself \"it's not real\" but my body still reacts like it is, and that makes me feel even more frustrated with myself. I'm not sure what would actually help bridge that gap - positive thinking just feels fake when my emotions are screaming so loud.",
+    "therapist": "It sounds like you've been trying to \"think\" your way out of the anxiety, but the body keeps holding onto the fear in a very real way. Maybe instead of trying to convince yourself the anxiety isn't real, we could explore ways to help your body feel safer in those moments? What physical sensations do you notice first when the anxiety starts building?",
+    "condition": "baseline",
+    "val_t": -0.3503143787384033,
+    "aro_t": 0.29783713817596436,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I do notice my chest getting tight and my breathing gets shallow when the anxiety starts. But I don’t know how to make my body feel safer—it feels like it’s betraying me, like it’s just reacting on its own no matter what I try. Sometimes I feel like I’m fighting against it, and it just makes things worse.",
+    "therapist": "It makes complete sense that you'd feel frustrated when your body seems to have a mind of its own - that fight against the anxiety can definitely make the physical sensations feel more intense. What if instead of fighting those sensations, we tried approaching them with curiosity - like noticing the tight chest as just a temporary reaction, not necessarily something dangerous?",
+    "condition": "baseline",
+    "val_t": -0.3917970657348633,
+    "aro_t": 0.22238993644714355,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about not fighting the anxiety, but it's hard to just observe it when my chest gets tight like that. It feels like I'm going to stop breathing or have a heart attack, and in that moment, curiosity is the last thing on my mind. \n\nI've tried noticing the sensations before, but my brain immediately jumps to worst-case scenarios no matter what I do. It's like my body is screaming danger even when I know logically that I'm probably okay.",
+    "therapist": "That immediate jump to worst-case scenarios is your brain's alarm system working overtime - it's trying to protect you, even if the danger isn't real. When those physical sensations feel so threatening, could we try something simple together, like just noticing how the breath still keeps coming in and going out on its own?",
+    "condition": "baseline",
+    "val_t": -0.17604684829711914,
+    "aro_t": 0.30836641788482666,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about noticing my breath, but when I'm in that panicked state, it feels impossible to focus on anything calming. My mind just races faster, and I start thinking, \"What if I can't control this?\" or \"What if I pass out?\" It’s like my body takes over, and I can’t trust it to just breathe normally.",
+    "therapist": "It sounds like those moments of panic create such intense fear that your mind becomes hyper-focused on the \"what ifs\" - that's a natural response when we feel out of control. When you notice those racing thoughts, what would it be like to gently remind yourself that your body knows how to breathe, even when your mind feels overwhelmed?",
+    "condition": "baseline",
+    "val_t": -0.21755540370941162,
+    "aro_t": 0.29210078716278076,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about the breathing, but in the moment it's like my brain just takes over completely. I'll try to focus on my breath, but then my chest feels so tight that I start worrying I'm actually not getting enough air. It's like my body betrays me even when I'm trying to help myself.",
+    "therapist": "It makes so much sense that focusing on your breath when you're already anxious could feel scary - almost like paying attention to it makes the sensations more noticeable. What if we shifted to something more neutral, like noticing the weight of your feet on the floor or the texture of your clothing, when breathing feels too intense to focus on?",
+    "condition": "baseline",
+    "val_t": -0.23078155517578125,
+    "aro_t": 0.2099066972732544,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That does sound less intense than focusing on my breath, but I’m not sure it would help. When I’m really anxious, it feels like everything around me is overwhelming, even something as simple as noticing my feet on the floor. I guess I’m worried it won’t be enough to distract me from the panic.",
+    "therapist": "It sounds like you're anticipating that even small grounding techniques might not match the intensity of what you're feeling - that's an understandable concern when anxiety feels so all-consuming. What if we thought of these not as distractions from the panic, but as tiny anchors that might help you feel slightly more present in those overwhelming moments?",
+    "condition": "baseline",
+    "val_t": -0.2554316520690918,
+    "aro_t": 0.2346125841140747,
+    "text_emotion": "Angry"
+  }
+]

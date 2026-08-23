@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. It’s hard to shake off this sadness, and it's affecting my ability to concentrate at work. I sometimes wonder if therapy can really help me through this, or if I’ll just be stuck feeling this way forever.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; that sounds incredibly overwhelming and painful. It's completely understandable to feel stuck in sadness during such a difficult time, and it's important to recognize how this grief is impacting your daily life. Therapy can be a helpful space to explore these feelings and find ways to cope. What do you think might be the first step toward feeling a bit more grounded?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3079162836074829,
+    "aro_t": 0.19852101802825928,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding, but honestly, I just feel so heavy with sadness right now. It feels like there's this cloud over me that just won't lift, and I'm not sure how to start feeling grounded when everything feels so chaotic. I guess I’m skeptical about what could really help me at this stage; it all seems a bit overwhelming.",
+    "therapist": "It sounds like you're carrying a lot of heaviness and uncertainty right now, which can be really challenging. It's normal to feel skeptical when you're in the midst of such deep sadness and chaos. Finding ways to ground yourself can be a gradual process, and it's okay to take small steps. What small action do you think you could try today that might help ease some of that heaviness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24341535568237305,
+    "aro_t": 0.16312038898468018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you acknowledging the heaviness I feel. It’s just hard for me to see how a small action could really make a difference when everything feels so overwhelming. I mean, what could I possibly do today that would actually help? It feels like even the smallest things become too much to handle sometimes.",
+    "therapist": "I hear you—everything can feel like a monumental task when you're carrying such a heavy emotional load. It's completely valid to feel that even the smallest actions seem overwhelming right now. Sometimes, just taking a moment to breathe or stepping outside for a brief walk can be a small but meaningful way to reconnect with yourself. What do you think about trying something gentle like that, or is there a different small action that feels more manageable for you?",
+    "condition": "emotion_text_only",
+    "val_t": 0.03717386722564697,
+    "aro_t": 0.16578471660614014,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but honestly, even the idea of stepping outside feels daunting right now. I get that it could be a good way to reconnect, but the thought of having to actually do it makes me anxious. What if I just can't bring myself to go out? It feels like another thing on my to-do list that I might not be able to handle.",
+    "therapist": "It sounds like even the thought of taking that step feels really daunting and adds to your anxiety, which is completely understandable. It’s okay to feel overwhelmed by what seems like small tasks when you’re in such a heavy place. Instead of thinking about going outside, perhaps we can explore something even smaller and more manageable that feels safe for you. What’s one tiny thing you could do right where you are that might bring you a little comfort?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13551151752471924,
+    "aro_t": 0.17588984966278076,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you’re trying to make this feel more manageable, but honestly, even the idea of doing something tiny feels like a lot right now. I can’t think of anything that would actually bring me comfort; it’s like my mind just shuts down when I try. What if I just can’t find anything that helps?",
+    "therapist": "It sounds like you're really feeling stuck and that your mind feels heavy and unresponsive right now, which can be incredibly frustrating. It’s okay to not have the energy or clarity to find comfort in this moment; sometimes, just being present with your feelings is a step in itself. What if we took a moment together to simply acknowledge how you’re feeling without the pressure to change it? Would that feel helpful for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05129194259643555,
+    "aro_t": 0.12817227840423584,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you're suggesting we just sit with my feelings, but it feels hard to just acknowledge them without wanting to push them away. I guess I'm so used to trying to fix things or make them better that being present feels uncomfortable, like I'm just stuck in a loop. I feel guilty for not being able to move past this, and that just adds to the heaviness.",
+    "therapist": "It's completely understandable to feel uncomfortable sitting with your feelings, especially when you're used to trying to fix things. The guilt you're experiencing for not moving past this is a heavy burden to bear, and it can make everything feel even more suffocating. It’s okay to acknowledge that you’re in a loop right now; many people struggle with this during tough times. What if we explored what it feels like to give yourself permission to just be in this moment, without the pressure to change anything?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1874450445175171,
+    "aro_t": 0.07682383060455322,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it feels so hard to just sit with my feelings. I feel like if I don't try to fix things, I’m just being lazy or giving up. The guilt just keeps piling on because I feel like I should be doing something to make it better instead of just... being.",
+    "therapist": "I can see how difficult it is for you to simply be with your feelings without the urge to fix them. It’s understandable to feel guilty when you believe you should be doing something, but allowing yourself to just exist in this moment doesn’t mean you’re giving up or being lazy; it’s a part of the healing process. What if we explored what it would look like to be gentle with yourself during this time, rather than judging yourself for how you feel?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32439887523651123,
+    "aro_t": 0.09473872184753418,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you saying that, but it feels really hard to just sit with my feelings. I keep thinking that if I don't do something about them, they’ll just spiral out of control. I feel guilty for not being productive or for not having a clear plan to fix everything, so it’s tough to imagine being gentle with myself right now.",
+    "therapist": "It's completely understandable to feel that your emotions might spiral if you don't take action, and that push to be productive can be really heavy. It sounds like you're caught in a cycle of guilt and pressure to fix everything right away, which can make being gentle with yourself feel impossible. Remember, allowing yourself to feel and process these emotions isn’t a sign of weakness; it’s actually a part of moving forward. What do you think might happen if you gave yourself a little space to simply acknowledge these feelings without the pressure to change them right away?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23720693588256836,
+    "aro_t": 0.043793559074401855,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you're saying, but it feels really hard to just sit with my emotions. I often think that if I don’t do something about them right away, they’ll just get worse or consume me. It’s like I’m afraid that if I acknowledge how I feel, I’ll get stuck in that feeling and never move forward.",
+    "therapist": "I understand that the fear of getting stuck in your emotions can feel really overwhelming, and it’s natural to want to take action to avoid that. It sounds like you're grappling with a lot of anxiety about acknowledging your feelings, thinking it might lead to deeper pain. What if we took a moment to explore what it would feel like to acknowledge those emotions without the pressure to act on them immediately? How might that shift your perspective on the feelings you're experiencing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3196467161178589,
+    "aro_t": 0.1697099208831787,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but the idea of just sitting with my emotions feels really daunting. I worry that if I start acknowledging them, I’ll get overwhelmed and spiral into darker thoughts. It’s like I’m afraid that once I open that door, I won’t be able to close it again.",
+    "therapist": "It sounds like you’re feeling a lot of fear around the idea of acknowledging your emotions, worried that it might lead to overwhelming thoughts that are hard to manage. That fear of opening a door you can’t close is completely valid, especially when you're feeling vulnerable. It's okay to take things at your own pace; we can explore those feelings gently together. What if we approached this by focusing on one specific emotion or thought for just a moment, rather than diving into everything at once? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23837745189666748,
+    "aro_t": 0.19174230098724365,
+    "text_emotion": "Angry"
+  }
+]

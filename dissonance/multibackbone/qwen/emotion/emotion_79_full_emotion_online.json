@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately. Ever since my grandmother passed away last month, I find myself feeling so sad all the time, and it's really hard to focus on my daily routine. I keep thinking about her and it's just overwhelming. I'm not even sure if therapy can really help with this.",
+    "therapist": "I'm so sorry to hear about your grandmother and the deep sadness you're feeling. It's completely understandable that you're finding it hard to focus and that the memories are overwhelming. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40786516666412354,
+    "aro_t": 0.19609689712524414,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thank you for understanding, Luna. It's been really tough. I've been trying to stay busy, but it doesn't help much. The memories just keep coming back, and I feel so alone with all of this.",
+    "therapist": "I can imagine how tough it must be to feel overwhelmed by these memories, especially when staying busy doesn't seem to help. It's natural to feel alone with such a heavy heart. Have you found any moments or activities that bring you a bit of comfort or peace, even if just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05216360092163086,
+    "aro_t": 0.09595739841461182,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "It's really hard to find things that bring me peace. Sometimes I try to watch a movie or listen to music, but it feels like a band-aid on a deep wound. I don't know if there's anything that can truly help me feel better for more than just a few minutes.",
+    "therapist": "I can hear how deeply you're struggling, and it's understandable that temporary distractions feel insufficient. It's okay to acknowledge that the pain is deep and that healing takes time. Have you considered reaching out to friends or family to share your feelings, or perhaps joining a support group where you can connect with others who might understand what you're going through?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20112812519073486,
+    "aro_t": -0.015090703964233398,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you're trying to help, but it's hard for me to reach out to friends or family. I feel like I'm a burden, and I worry they won't understand or will get tired of my problems. Joining a support group sounds like a good idea in theory, but I'm not sure I'm ready to open up to strangers.",
+    "therapist": "I understand how challenging it can be to reach out, especially when you feel like a burden. It's natural to worry about how others might react, and taking that step can feel daunting. What do you think might help you feel more comfortable or supported in sharing your feelings, even if just a little bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03512251377105713,
+    "aro_t": 0.11883795261383057,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just really hard for me to open up, even a little. I worry that people will judge me or think I'm overreacting, and that makes me feel even more alone. I don't know if there's a way to make that fear go away.",
+    "therapist": "I can hear how much you're struggling with the fear of judgment, and it's completely understandable to worry about that. Opening up can feel very vulnerable, especially when you're already feeling alone. Have you ever tried writing down your thoughts and feelings as a way to process them, even if just for yourself? Sometimes putting things on paper can help clarify your thoughts and make it easier to share them with others when you're ready.",
+    "condition": "emotion_text_only",
+    "val_t": -0.1950221061706543,
+    "aro_t": 0.1254422664642334,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, Luna. Writing things down is something I've tried before, but it often feels like it just reminds me of how I'm struggling. I worry that it might make me feel worse instead of better. It's hard because my thoughts can spiral so easily.",
+    "therapist": "I understand how writing can sometimes feel like it just reinforces the difficulties you're facing, and that can be really tough. It's important to find a way that feels right for you and doesn't make things worse. Have you thought about trying a different approach, like talking to yourself gently or practicing some mindfulness exercises to help manage those spiraling thoughts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09137570858001709,
+    "aro_t": 0.055475473403930664,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, but I'm not sure if talking to myself gently will make much of a difference. It feels like my thoughts are so tangled up that even gentle self-talk might just spiral into more anxiety. I'll try the mindfulness exercises, but I'm worried it might be hard to stick with them consistently.",
+    "therapist": "I can hear your concerns about gentle self-talk and the worry that it might not make a big difference. It's completely understandable to feel that way when your thoughts are so tangled. Mindfulness can be a helpful tool, and even small, consistent efforts can make a difference over time. What do you think might help you stay committed to practicing mindfulness, even if it feels challenging at first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09415245056152344,
+    "aro_t": 0.04631519317626953,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I do see the point about mindfulness, but it's hard to stay committed when I feel so overwhelmed and anxious all the time. I worry that it won't make a difference, and it's easy to give up when things don't seem to improve quickly. How can I stay motivated when I feel like I'm not seeing results right away?",
+    "therapist": "I understand how challenging it can be to stay motivated when you're feeling overwhelmed and anxious, and it's natural to want to see results quickly. Mindfulness is often a gradual process, and small steps can lead to significant changes over time. What are some small, manageable goals you can set for yourself to help you stay motivated, even if the improvements seem small at first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1953362226486206,
+    "aro_t": 0.2228693962097168,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and I know it makes sense, but it's hard for me to see the small steps when I feel so stuck. It's like I can only focus on how far I still have to go, and that just makes me feel more overwhelmed. Setting goals sounds good, but I'm not sure what would actually work for me right now.",
+    "therapist": "I can hear how overwhelming it feels to focus on the distance you still need to travel, and it's completely understandable to feel stuck. Sometimes, just acknowledging that it's hard can be a step in itself. What if we start with something very small, like taking a few deep breaths or noticing one thing you're grateful for each day? How does that feel as a starting point?",
+    "condition": "emotion_text_only",
+    "val_t": -0.018863558769226074,
+    "aro_t": 0.2005687952041626,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're suggesting something small, but I feel like those little steps won't really make a difference. It's hard for me to see how something like taking deep breaths or finding one thing to be grateful for can really help when I feel so stuck and overwhelmed. I guess I just need something that feels more substantial.",
+    "therapist": "I understand that those small steps might not feel substantial enough when you're feeling so stuck and overwhelmed. It's important to find something that feels meaningful to you. Have you considered trying a structured activity or a specific practice that you find engaging, even if it's just for a short time each day? Something that might help you feel a bit more in control or grounded, like a short walk, a creative hobby, or a guided meditation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09275174140930176,
+    "aro_t": 0.14668142795562744,
+    "text_emotion": "Angry"
+  }
+]

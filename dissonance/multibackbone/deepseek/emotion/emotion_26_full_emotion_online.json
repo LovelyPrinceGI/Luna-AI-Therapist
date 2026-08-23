@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I’ve been feeling so anxious lately with my final exams coming up next week. I keep worrying that I won’t do well enough, especially since my family has such high expectations for me. I’m not sure if therapy can really help with this—it feels like the pressure is just there, no matter what.",
+    "therapist": "It sounds like you’re carrying a lot of pressure, both from the exams and your family’s expectations, which can feel really overwhelming. When you say you’re not sure if therapy can help, I wonder if you’ve had a chance to explore how these worries are affecting your thoughts and behaviors? What comes to mind when you imagine not meeting those expectations?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2717221975326538,
+    "aro_t": 0.22198724746704102,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess when I imagine not meeting their expectations, I just feel this heavy dread in my chest. Like I’ll disappoint everyone and prove that I’m not as capable as they think I am. But at the same time, part of me wonders why their opinions matter so much—it’s my life, right? But that thought just makes me feel guilty for even questioning it.",
+    "therapist": "That mix of dread and guilt sounds like such a painful tug-of-war—like you're caught between others' expectations and your own needs. The fact that you're noticing this conflict is actually really important self-awareness. What do you think it would feel like to sit with that question—\"why do their opinions matter so much?\"—without judging yourself for asking it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.42372214794158936,
+    "aro_t": 0.0996084213256836,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I don't know if I can sit with that question without judging myself. Every time I try, I just hear this voice saying I'm selfish for even questioning it. My parents sacrificed so much for me - shouldn't their opinions matter more than my own wants? \n\nBut then I feel this tightness in my chest when I think about living my whole life trying to meet their expectations. It's like I can't win either way.",
+    "therapist": "That tightness in your chest tells me this isn't just an abstract dilemma—it's weighing on you physically and emotionally. The conflict between gratitude for their sacrifices and your own needs is so understandable, yet so painful to hold. \n\nWhen that \"selfish\" voice appears, could we gently examine what evidence it's using? For instance, does wanting your own path truly mean you don't appreciate them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3819471597671509,
+    "aro_t": 0.23634374141693115,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I know logically that wanting my own path doesn't mean I don't appreciate my parents, but the guilt still feels so heavy. Whenever I try to make choices for myself, I hear my mom's voice saying \"after all we've done for you\" and it makes me freeze up. \n\nI guess the evidence my \"selfish\" voice uses is just... how different my dreams are from what they expect? Like choosing a creative career instead of something stable would feel like throwing their sacrifices back in their face.",
+    "therapist": "It makes so much sense that this guilt lingers even when you know the logic—emotional wounds often take longer to heal than intellectual realizations. That freezing feeling when you hear your mom's voice suggests this isn't just about career choices, but about deep emotional bonds and fears of rejection. \n\nWhat would it feel like to imagine—just for a moment—that pursuing your creative dreams could actually honor their sacrifices by showing how well they raised someone brave enough to follow their heart?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3184983730316162,
+    "aro_t": 0.15267860889434814,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I never thought of it that way—that pursuing my art could actually honor them. But it's hard to imagine they'd see it that way when they've always pushed for stable careers. Part of me wants to believe that, but then I hear my mom's voice in my head saying \"Artists starve\" and the guilt comes rushing back.",
+    "therapist": "That inner voice repeating \"Artists starve\" must feel like a constant barrier when you try to hold onto hope—it's understandable that the guilt rushes back so powerfully. I notice you're speaking a bit more softly about this now, like the weight of it is settling differently. \n\nWhen that critical voice appears, could we try something? What if, just for today, you experimented with adding one gentle counter-thought—like \"Some artists thrive\"—without needing to fully believe it yet?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27610182762145996,
+    "aro_t": 0.12079846858978271,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I could try that, but it feels kind of forced. When I hear \"some artists thrive,\" my brain immediately counters with examples of friends who gave up and got \"real jobs.\" The guilt comes from feeling like I'm being irresponsible by even trying to make art my career.",
+    "therapist": "It sounds like that experiment brought up some very real doubts—your mind is quick to protect you with those \"what if\" scenarios, which makes total sense when the stakes feel so high. That tension between responsibility and passion must feel exhausting to carry alone. \n\nI wonder if we could zoom out slightly: When you think of those friends who switched paths, do you ever consider what they gained from trying—even if they ultimately chose differently?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3394918441772461,
+    "aro_t": 0.12236917018890381,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying about my friends, but it's different for me. They didn't have families depending on them, and they could afford to take risks. When I think about trying something new, all I see are the ways it could go wrong and leave my kids struggling. The guilt is overwhelming just considering it. \n\nAnd honestly? Hearing about their successes just makes me feel worse—like I missed my chance and now I'm trapped. I don't know if comparing myself helps.",
+    "therapist": "The weight of responsibility you're carrying for your family makes this feel so much heavier than just a career choice—it's about survival and protection, which explains why the guilt becomes overwhelming. That trapped feeling makes perfect sense when every alternative seems to risk your children's stability.  \n\nRather than comparing paths, what if we focused on small ways to honor both your responsibilities *and* that creative part of yourself—without needing to overhaul everything at once? What would feel safe enough to explore right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32086849212646484,
+    "aro_t": 0.14884650707244873,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I *want* to believe that small steps could help, but honestly, it just feels like rearranging deck chairs on the Titanic. Even if I scribble in a journal for 10 minutes or whatever, it doesn’t change the fact that my kids need food and stability. How is doodling supposed to measure up against that?  \n\nAnd the worst part is, I don’t even know if I’m actually good at creative stuff anymore—what if I try and realize I’ve lost that part of me completely?",
+    "therapist": "That deep frustration—like small creative acts can't possibly matter against such real responsibilities—makes so much sense when you're carrying this much weight. And that fear of discovering you've lost your creative spark altogether sounds like it's protecting you from even deeper disappointment.  \n\nWhat if we paused the pressure to \"measure up\" entirely for a moment? Not to dismiss your very real concerns, but to ask: When was the last time you let yourself create something *just* to see how it felt in your hands, without judging whether it was \"good\" or \"useful\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21338987350463867,
+    "aro_t": 0.13917696475982666,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you’re saying, but it’s hard to just “pause the pressure.” Even when I try to create something small, I can’t stop thinking about how it’s not good enough or how I should be doing something more productive instead. It feels like a waste of time, and then I just end up feeling guilty for even trying.  \n\nI don’t know, maybe I’m just not built to enjoy creating anymore. It used to feel good, but now it’s like I’m just going through the motions without any real joy.",
+    "therapist": "It sounds like even when you try to reconnect with creativity, those thoughts about productivity and \"not being good enough\" take over, leaving you feeling guilty and disconnected from any joy. That must feel incredibly disheartening, especially when you remember how it used to feel.  \n\nWhat if we shifted the goal entirely—not to create something \"good\" or \"useful,\" but simply to notice what happens in your body and mind during the process, even if it’s uncomfortable? How does that idea sit with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15292048454284668,
+    "aro_t": 0.132293701171875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That sounds... interesting, but I'm not sure I can separate the creative process from judging the outcome. Even if I try to just observe, my mind immediately jumps to \"this is a waste of time\" or \"you're not doing it right.\" It's like there's this constant pressure, even when I tell myself not to care. \n\nAnd honestly? The idea of sitting with discomfort makes me more anxious. What if I just feel worse the whole time? At least when I push through and force myself to create something \"good,\" there's some payoff eventually.",
+    "therapist": "It makes complete sense that simply observing the discomfort feels risky when your mind is so used to chasing that eventual \"payoff\"—that pressure to produce something \"good\" has probably been your survival strategy for a long time. The fear of feeling worse is so valid when creativity has become tangled with judgment and obligation.  \n\nI wonder if we could try something even smaller: What if, instead of creating, you simply held your art supplies for a minute—just noticing their weight or texture—as a way to gently reconnect without the pressure to perform? How does that feel to consider?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14356458187103271,
+    "aro_t": 0.17635130882263184,
+    "text_emotion": "Angry"
+  }
+]

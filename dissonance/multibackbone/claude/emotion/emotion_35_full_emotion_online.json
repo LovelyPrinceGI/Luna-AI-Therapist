@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I started a new job in marketing about six weeks ago, and honestly, it's been really rough. Everyone around me seems so confident and experienced, and I constantly feel like I'm just barely keeping my head above water with all these tight deadlines. I'm not even sure talking about it is going to change anything, because the pressure is just... real, and I don't see how sitting here is going to make it go away.",
+    "therapist": "It makes a lot of sense that you're feeling drained and a little skeptical right now — you're six weeks into a demanding new environment, surrounded by people who *seem* to have it all figured out, and you're carrying real, daily pressure. I hear you that talking won't make the deadlines disappear, and I wouldn't promise that it will. What I'm curious about, though, is that word *\"seem\"* — when you look at your colleagues and feel like they're so much more confident and experienced, what specific thoughts tend to run through your mind in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1173391342163086,
+    "aro_t": 0.19361913204193115,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the thoughts are pretty loud and specific — stuff like \"everyone else already knows how to do this\" or \"they're going to figure out I don't belong here soon enough.\" It's like I'm waiting for someone to tap me on the shoulder and say there's been a mistake, that I shouldn't be here. And the worst part is I can't tell if that's actually true or if I'm just... making it up in my head.",
+    "therapist": "What you're describing — that constant waiting to be \"found out\" — is actually something so many people experience, and it even has a name: impostor syndrome. The fact that you're already asking yourself \"is this actually true or am I making it up?\" is a really important moment of awareness. So let's gently pull on that thread — what's the actual evidence you've seen in six weeks that suggests you *don't* belong there?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29543912410736084,
+    "aro_t": 0.1798563003540039,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... okay, so my manager did tell me last week that my analysis on that project was really solid, and a couple of colleagues have asked for my input on things. But when you ask me to actually list evidence, my brain immediately goes to \"well, they just don't know you well enough yet\" or \"you got lucky with that one.\" It's like no matter what I come up with, there's this automatic counter-argument waiting to shoot it down.",
+    "therapist": "What you just did there is really significant — you found genuine, concrete evidence of competence, and then watched your mind immediately dismiss it, which is exhausting and can feel almost impossible to argue against. That pattern of automatically discounting the positive has a name in CBT: we call it \"disqualifying the positive,\" and it's one of the sneakiest thinking traps because it makes the game unwinnable no matter what you achieve. I'm curious — if a close friend came to you with that same evidence, the manager's praise and colleagues seeking their input, would you so quickly tell *them* they just got lucky?",
+    "condition": "emotion_text_only",
+    "val_t": 0.011489391326904297,
+    "aro_t": 0.16300475597381592,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "Okay, no, I wouldn't say that to a friend — I'd probably tell them they earned it and should feel proud. But it feels different when it's me, like the rules just... change somehow, and I can't explain why that makes logical sense but it still feels completely true. I guess that's the point you're making, but knowing it's a thinking trap doesn't automatically make it stop feeling real.",
+    "therapist": "You've just landed on something really honest and important — recognizing a thinking trap intellectually doesn't flip a switch and make the feeling disappear, and it would be unfair to expect it to. The feeling of \"the rules change when it's me\" often has deeper roots, usually in long-held beliefs about ourselves that formed long before this job, so the goal isn't to think your way out of it overnight but to gradually practice catching it and offering yourself the same fairness you'd give a friend. What do you think it would feel like, even just a little, to respond to that next moment of self-doubt with the same voice you'd use for someone you care about?",
+    "condition": "emotion_text_only",
+    "val_t": 0.035793185234069824,
+    "aro_t": 0.09189248085021973,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "Honestly, when I try to imagine using that kind of gentle voice with myself, it feels almost foreign, like I'd be putting on a costume that doesn't fit. There's this immediate reaction of \"that's not how you talk to yourself,\" like being kind to myself would mean I'm letting myself off the hook for something. I guess I'm not even sure what I'd actually be letting myself off the hook for, which is kind of unsettling to sit with.",
+    "therapist": "That unsettled feeling you're sitting with is actually really worth paying attention to — because you've stumbled onto something quite profound: the idea that self-kindness feels like a punishment you're avoiding, even when you can't identify what the \"crime\" is. That belief, that you need to stay hard on yourself to stay safe or accountable, is often one of the most deeply held and quietly exhausting rules people carry. I'm wondering — where do you think you first learned that being kind to yourself was something you had to earn, or maybe something a little dangerous?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1907118558883667,
+    "aro_t": 0.14956676959991455,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think it probably started with my dad, honestly. He had this way of making it clear that if you relaxed too much, if you stopped pushing yourself, you'd slip up and disappoint everyone. So being hard on yourself wasn't just expected, it was like... the responsible thing to do, the proof that you actually cared.",
+    "therapist": "There's something quietly heavy in what you just shared — that being hard on yourself wasn't cruelty, it was how you learned to show you cared, to prove you were responsible and worthy. That's a really significant thing to recognize, because it means the inner critic isn't random noise — it's actually an old, loyal part of you that learned this was how you stayed safe and loved. I'm curious, as you sit with that now, what does it feel like to consider that maybe you could care deeply *and* be kind to yourself at the same time — that those two things don't have to be opposites?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03053140640258789,
+    "aro_t": 0.02968919277191162,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "Honestly, when you put it that way, something in me kind of... softens, I guess, but then almost immediately there's this voice that says \"don't let your guard down.\" Like, if I'm kind to myself about the mistakes I make at work or how I've been pulling away from people, what's going to keep me from just... slipping into not caring at all? It feels like the self-criticism is the only thing holding me accountable.",
+    "therapist": "That moment of softening you noticed — even briefly — is really meaningful, and it makes sense that the old guard immediately rushed back in to protect you. But I want to gently offer this: the fact that you showed up to this job, that you're working hard, worrying about doing well, and even reflecting this deeply right now — that's not what \"not caring\" looks like. What if the self-criticism isn't actually what's keeping you accountable, but rather what's keeping you *afraid* — and those two things have just been tangled together for so long they feel like the same thing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22001099586486816,
+    "aro_t": 0.15145766735076904,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That actually... stops me a little, because I've never thought about it that way before. Like, I always assumed the harsh voice in my head was the thing making me try harder, and without it I'd just fall apart or stop caring about anything. But if you're saying they're not the same thing, I honestly don't even know what accountability without fear would feel like — it sounds almost too calm, too easy, like it wouldn't be real.",
+    "therapist": "That pause you just took is really important — something is genuinely shifting in how you're seeing this, and that takes courage. Accountability without fear doesn't mean effortless or passive; it actually tends to feel more like quiet determination, doing things because they matter to you rather than because you're frightened of what happens if you don't. I'm wondering — can you think of even one small area in your life, maybe outside of work, where you've done something well or kept a commitment that came from genuine care rather than fear of disappointing someone?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17665553092956543,
+    "aro_t": 0.16914868354797363,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I sat with that for a second, and honestly the first thing that came to mind was my dog. I take care of her every single day, walks, feeding, vet visits, all of it, and I don't do it because I'm scared of failing her, I do it because I genuinely love her and she depends on me. But then the anxious part of my brain immediately jumped in and said, \"well, that's easy, she's a dog, it doesn't count the same way as real responsibilities.\"",
+    "therapist": "What you just described with your dog is actually a perfect, real example of accountability rooted in love rather than fear — and notice how naturally and consistently it shows up, every single day, without a harsh inner critic driving it. The fact that your mind immediately moved to dismiss it as \"not counting\" is that same old pattern we've been talking about, disqualifying the positive, moving the goalposts so the evidence can never quite land. What do you think it would mean for you if you allowed that example to count — if you let it be genuine proof that you're capable of caring deeply without fear as the engine?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0077239274978637695,
+    "aro_t": 0.15761327743530273,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me wants to accept it, but there's this immediate \"yeah, but\" that kicks in. Like, caring for my dog feels easy because he never judges me, never leaves, never makes me feel like I'm too much — so maybe it doesn't really prove anything about how I am with actual people. I guess I'm worried that if I let it count as evidence, I'm just... letting myself off the hook for all the ways I've actually failed the people in my life.",
+    "therapist": "There's something really tender in what you just said — the idea that safe love, love without judgment or the risk of being \"too much,\" somehow doesn't count as real. But I want to sit with that phrase \"all the ways I've actually failed the people in my life,\" because that sounds like it's carrying a lot of weight, and I'm wondering if we could look at that more closely — when you say you've failed people, what's the specific failure your mind goes to first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19852828979492188,
+    "aro_t": 0.1619570255279541,
+    "text_emotion": "Angry"
+  }
+]

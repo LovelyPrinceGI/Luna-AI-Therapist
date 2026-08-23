@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been a tough week. Since losing my brother last year, I just can't seem to find joy in anything anymore. I feel so isolated from my friends, even though they try to include me. I don’t know if talking about it will really help, but I’m here trying.",
+    "therapist": "Hi there, I’m so glad you reached out today. It sounds like you’ve been carrying a heavy burden, and it’s completely understandable to feel isolated and struggle to find joy after such a significant loss. How have you been coping with these feelings, and is there anything specific you’d like to explore or talk about today?",
+    "condition": "emotion_text_only",
+    "val_t": -0.018595457077026367,
+    "aro_t": 0.15264618396759033,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for being here with me today. I've been feeling really overwhelmed and alone, like no one understands what I'm going through. I've been trying to keep busy, but it feels like a Band-Aid on a deeper wound. I guess I just want to understand why I can't shake this loneliness and anxiety, even when I know I should be doing better.",
+    "therapist": "Hi there, I’m really here for you, and I can hear how overwhelming and isolating this has been for you. It’s completely understandable to feel this way, especially when you’re dealing with such deep emotions. It sounds like you’re doing your best to keep busy, but that’s not always enough to address the deeper pain. Can we explore some of the thoughts that come up when you feel this loneliness and anxiety? What do you think might be contributing to these feelings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05875837802886963,
+    "aro_t": 0.21010172367095947,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "Hi Luna, thanks for being here. It’s just hard because it feels like no matter what I do, I can’t shake this constant feeling of being alone and anxious. I know I’m not actually alone, but the thought that I’m not truly understood or accepted by anyone is really weighing on me. It’s like I’m stuck in this loop of negative thoughts, and I don’t know how to break out of it.",
+    "therapist": "Hi there, I can really hear the weight of those feelings and how challenging it must be to feel stuck in that loop of negative thoughts. It’s completely understandable to feel this way, especially when you’re dealing with such deep emotions. Have you noticed any specific triggers or situations that make these feelings of loneliness and anxiety more intense? And when you have these thoughts, are there any particular beliefs or assumptions that come to mind about yourself or others?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2119983434677124,
+    "aro_t": 0.24071991443634033,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "Hi Luna, thanks for understanding. I do notice that my anxiety and loneliness get worse when I'm alone at home, especially in the evenings. I often end up thinking that no one really cares about me or understands what I’m going through, which just makes me feel more isolated. It’s hard to shake those thoughts, even though I know they might not be entirely true.",
+    "therapist": "Hi there, it’s really helpful that you’ve noticed those patterns, especially how your anxiety and loneliness seem to intensify when you’re at home alone, particularly in the evenings. It’s completely understandable to have those thoughts, and they can be very powerful. Have you tried any strategies to manage these feelings when they come up, or is there a particular thought or belief that you think might be a good place to start challenging?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15962088108062744,
+    "aro_t": 0.03227579593658447,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "Hi Luna, thanks for understanding. I have tried a few things, like trying to stay busy with hobbies or watching TV, but it doesn’t really help much. I think a big part of it is the belief that I’m somehow failing at life, which makes me feel even more alone and anxious. It’s hard to shake that feeling, you know?",
+    "therapist": "Hi there, I can really understand how difficult it must be to feel like those strategies aren’t providing the relief you’re looking for. It’s natural to feel that way, especially when you have a belief that you’re failing at life, which can certainly amplify those feelings of loneliness and anxiety. Can we explore some of the evidence that supports or challenges this belief? What are some instances where you’ve seen yourself succeeding or where others have shown they care about you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16338598728179932,
+    "aro_t": 0.16294777393341064,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you trying to help, but it feels like those moments are few and far between. When I do succeed or when someone shows they care, it often feels like a fluke or just a momentary thing. It’s hard to hold onto those feelings when the rest of the time I’m just overwhelmed by how much I feel like I’m falling short.",
+    "therapist": "I can hear how deeply you feel this struggle, and it’s completely understandable that those positive moments can feel fleeting when the overall pattern is one of feeling overwhelmed. It’s important to acknowledge both the positive and the challenging moments, even if the positive ones feel less significant right now. Can we try to break down some of these feelings of falling short? What are some specific things you tell yourself when you feel like you’re not measuring up, and how might we start to challenge those thoughts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11600863933563232,
+    "aro_t": 0.17443454265594482,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I often tell myself that I’m not doing enough, that I’m letting people down, and that I’m just not good enough. It’s hard to challenge those thoughts because they feel so deeply rooted in who I am. I worry that even if I try to think more positively, it won’t make a real difference.",
+    "therapist": "I hear you, and those thoughts can be incredibly powerful and difficult to shake, especially when they feel so deeply rooted. It’s natural to worry that positive thinking won’t make a real difference, but small steps can lead to significant changes over time. Let’s try to break down one of these thoughts together. For example, when you tell yourself you’re not doing enough, can we look at the evidence that supports and challenges this belief? What are some things you are doing that might be overlooked or undervalued?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2646898031234741,
+    "aro_t": 0.09618675708770752,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I understand what you're saying, but it feels like those thoughts are so deeply ingrained. It's hard to see the evidence against them because I feel like I'm constantly falling short, even when I do things that others might consider good. I guess I just struggle to give myself credit for the little things.",
+    "therapist": "I can really understand how deeply ingrained those thoughts can feel, and it’s completely valid to struggle with giving yourself credit for the little things. It’s often the case that we’re our own harshest critics. Let’s try to focus on some of those small accomplishments or moments of progress, even if they don’t feel significant to you right now. Can you think of a recent moment where you did something that, while it might seem small, was still a positive step forward? How did it feel in that moment, even if just for a brief time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22010207176208496,
+    "aro_t": 0.003754138946533203,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It's hard to pinpoint those moments because they often feel so insignificant. But maybe when I finally managed to leave the house to go for a short walk the other day, even though I was dreading it. It felt good for a little while, but the guilt and anxiety came back pretty quickly. It’s just hard to hold onto that positive feeling.",
+    "therapist": "I can absolutely understand how challenging it is to hold onto those positive feelings, especially when they can be so fleeting. It’s really significant that you managed to go for a short walk, even though it was difficult. Acknowledging and celebrating those small steps is important, even if the positive feelings don’t last as long as you’d like. What do you think might help you hold onto that good feeling for a bit longer, even when the guilt and anxiety return? Are there any small things you can do or thoughts you can remind yourself of to help sustain that sense of accomplishment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16814088821411133,
+    "aro_t": 0.12653088569641113,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you’re seeing my effort, but it’s hard to hold onto those positive feelings when the guilt and anxiety are so persistent. I feel like I’m constantly fighting an uphill battle. I guess I could try to remind myself of the small victories, but it feels like they get overshadowed so quickly by the negative thoughts. It’s hard to know what will really make a difference.",
+    "therapist": "I can really see how challenging and exhausting this uphill battle feels for you. It’s completely understandable to feel like those positive moments get overshadowed by the persistent guilt and anxiety. Reminding yourself of those small victories is a good start, but it’s also important to be gentle with yourself and recognize that it’s okay to have these struggles. What do you think might help you find a bit more balance, even if it’s just a small shift? Are there any coping strategies or activities that have brought you even a little bit of relief in the past, or any supportive people in your life you can reach out to?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09240257740020752,
+    "aro_t": 0.13840842247009277,
+    "text_emotion": "Angry"
+  }
+]

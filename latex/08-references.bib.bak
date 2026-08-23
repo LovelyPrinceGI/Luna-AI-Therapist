@@ -1,0 +1,148 @@
+@article{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, A},
+  journal={Advances in Neural Information Processing Systems},
+  year={2017}
+}
+
+@article{ho2020denoising,
+  title={Denoising diffusion probabilistic models},
+  author={Ho, Jonathan and Jain, Ajay and Abbeel, Pieter},
+  journal={Advances in neural information processing systems},
+  volume={33},
+  pages={6840--6851},
+  year={2020}
+}
+
+@article{lee2024cactus,
+  title   = {Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Therapy with Large Language Models},
+  author  = {Lee, {FirstName} and Others},
+  journal = {arXiv preprint arXiv:2407.03103},
+  year    = {2024}
+}
+
+@article{shahrokhian2021effects,
+  author  = {Shahrokhian, Nasim and Hassanzadeh, Saeid and Hashemi Razini, Hadi and Ramshini, Maryam},
+  title   = {The Effects of Cognitive-Behavioral Therapy (CBT) in Well-Being and Perceived Stress in Adolescents with Low Academic Performance During the COVID-19 Pandemic},
+  journal = {International Journal of Sport Studies for Health},
+  year    = {2021},
+  volume  = {4},
+  number  = {2},
+  pages   = {e122504},
+  doi     = {10.5812/intjssh.122504}
+}
+
+@inproceedings{liang2024aligncap,
+  author    = {Liang, Ziqi and Shi, Haoxiang and Chen, Hanhui},
+  title     = {AlignCap: Aligning Speech Emotion Captioning to Human Preferences},
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  year      = {2024},
+  pages     = {3837--3846},
+  publisher = {Association for Computational Linguistics}
+}
+
+@inproceedings{sun2024beyond,
+  author    = {Sun, [First Name] and [Other Authors]},
+  title     = {Beyond Text: Improving LLMs' Decision-Making for Robot Navigation via Vocal Cues},
+  booktitle = {Proceedings of the [Conference Name]},
+  year      = {2024},
+  pages     = {[pages if available]},
+  publisher = {[Publisher]}
+}
+
+@article{cummins2015review,
+  author  = {Cummins, Nicholas and Scherer, Stefan and Krajewski, Jarek and Schnieder, Tobias and Epps, Julien and Quatieri, Thomas F.},
+  title   = {A Review of Depression and Suicide Risk Assessment Using Speech Analysis},
+  journal = {Speech Communication},
+  year    = {2015},
+  volume  = {71},
+  pages   = {10--49},
+  doi     = {10.1016/j.specom.2015.03.004}
+}
+
+@inproceedings{mitsios-etal-2024-improved,
+    title = {Improved Text Emotion Prediction Using Combined Valence and Arousal Ordinal Classification},
+    author = {Mitsios, Michail and Vamvoukakis, Georgios and Maniati, Georgia and Ellinas, Nikolaos and Dimitriou, Georgios and Markopoulos, Konstantinos and Kakoulidis, Panos and Vioni, Alexandra and Christidou, Myrsini and Oh, Junkwang and Jho, Gunu and Hwang, Inchul and Vardaxoglou, Georgios and Chalamandaris, Aimilios and Tsiakoulis, Pirros and Raptis, Spyros},
+    booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)},
+    month = jun,
+    year = {2024},
+    address = {Mexico City, Mexico},
+    publisher = {Association for Computational Linguistics},
+    doi = {10.18653/v1/2024.naacl-short.72},
+    pages = {808--813},
+}
+
+@inproceedings{yan-etal-2024-talk,
+    title = {Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction},
+    author = {Yan, Haoqiu and Zhu, Yongxin and Zheng, Kai and Liu, Bing and Cao, Haoyu and Jiang, Deqiang and Xu, Linli},
+    booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    month = aug,
+    year = {2024},
+    address = {Bangkok, Thailand},
+    publisher = {Association for Computational Linguistics},
+    doi = {10.18653/v1/2024.acl-long.801},
+    pages = {15009--15022},
+}
+
+@misc{wang2024evaluationdatainconsistencymultimodal,
+    title = {Evaluation of data inconsistency for multi-modal sentiment analysis},
+    author = {Yufei Wang and Mengyue Wu},
+    year = {2024},
+    eprint = {2406.03004},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CL},
+}
+
+@inproceedings{haydarov-etal-2025-towards,
+    title = {Towards {AI}-Assisted Psychotherapy: Emotion-Guided Generative Interventions},
+    author = {Haydarov, Kilichbek and Mohamed, Youssef and Goldenhersch, Emilio and OCallaghan, Paul and Li, Li-jia and Elhoseiny, Mohamed},
+    booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+    month = nov,
+    year = {2025},
+    address = {Suzhou, China},
+    publisher = {Association for Computational Linguistics},
+    doi = {10.18653/v1/2025.emnlp-main.1664},
+    pages = {32736--32755},
+}
+
+@inproceedings{thirunavukkarasu2024deep,
+    author = {Thirunavukkarasu, J and Shiny Jebamathi, M and Varshaa, P and Nisha, M and Nanthitha Sri, M},
+    title = {Deep Multimodal Fusion for Depression Detection: Integrating Facial Emotion Recognition, EEG Signals and Audio Cues},
+    booktitle = {2024 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)},
+    year = {2024},
+    pages = {1--7},
+    doi = {10.1109/ACCAI61061.2024.10602143},
+}
+
+@inproceedings{kim-etal-2025-mirror,
+    title = {{MIRROR}: Multimodal Cognitive Reframing Therapy for Rolling with Resistance},
+    author = {Kim, Subin and Kim, Hoonrae and Lee, Jihyun and Jeon, Yejin and Lee, Gary},
+    booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+    month = nov,
+    year = {2025},
+    address = {Suzhou, China},
+    publisher = {Association for Computational Linguistics},
+    doi = {10.18653/v1/2025.emnlp-main.751},
+    pages = {14840--14869},
+}
+
+@article{russell1980circumplex,
+    author = {Russell, James A.},
+    title = {A Circumplex Model of Affect},
+    journal = {Journal of Personality and Social Psychology},
+    year = {1980},
+    volume = {39},
+    number = {6},
+    pages = {1161--1178},
+    doi = {10.1037/h0077714},
+}
+
+@book{ekman1972universals,
+    author    = {Ekman, Paul},
+    title     = {Universals and Cultural Differences in Facial Expressions of Emotion},
+    year      = {1972},
+    publisher = {University of Nebraska Press},
+    address   = {Lincoln},
+    booktitle = {Nebraska Symposium on Motivation}
+}
+

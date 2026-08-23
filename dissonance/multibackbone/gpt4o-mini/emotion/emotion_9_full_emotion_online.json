@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. It feels like this heavy cloud of sadness just hangs over me, and I can't seem to shake it off. It's affecting my focus at work, and I often find myself lost in thoughts about her, which makes everything feel overwhelming. I'm not sure if talking about it will even help.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds like you're carrying a heavy burden of sadness right now. It’s completely understandable that this would impact your focus and thoughts at work. Talking about your feelings can sometimes help lighten that load—what do you think might be most helpful to explore together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33786463737487793,
+    "aro_t": 0.18940508365631104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I really appreciate your understanding, but I’m just feeling so overwhelmed right now. It feels like every time I think about my grandmother, I get this wave of sadness that makes it hard to concentrate on anything else. I don’t even know where to start when it comes to talking about my feelings—what if it just makes things worse?",
+    "therapist": "It sounds like you're really feeling the weight of your grief, and it’s understandable to worry about how talking about it might affect you. Those waves of sadness can feel incredibly intense and can make it hard to concentrate on anything else. Perhaps we can take it one step at a time—what specific memories or feelings come to mind when you think of your grandmother that you’d feel comfortable sharing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2912663221359253,
+    "aro_t": 0.23058533668518066,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Talking about my grandmother brings up a mix of warmth and sadness. I remember her laughter and how she used to tell stories that made me feel safe, but then it hits me that I won’t hear those stories again. It’s hard to focus on the happy memories when the loss feels so heavy; I’m not sure how to share that without getting overwhelmed.",
+    "therapist": "It’s beautiful that you have such warm memories of your grandmother, but it’s completely natural to feel a mix of happiness and sadness as you reminisce. The sense of loss can often overshadow those joyful moments, making it difficult to fully embrace them. It might help to explore one specific memory that brings you warmth—how does that memory make you feel, and what was it about her stories that made you feel safe?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08391499519348145,
+    "aro_t": 0.15613996982574463,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but it’s tough to focus on just one memory. When I think about my grandmother, I feel this mix of joy from those warm moments and a heavy sadness from her absence. It’s like I can’t fully enjoy the memories because I’m constantly reminded of what I’ve lost, and that makes it hard to see them as just happy moments.",
+    "therapist": "It sounds like you’re in a really difficult place, feeling both the joy of those cherished memories and the pain of your loss at the same time. It's understandable that this mix of emotions can make it challenging to fully embrace the happy moments. Would it help to explore how you might honor those memories while also acknowledging the sadness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0709301233291626,
+    "aro_t": 0.11920607089996338,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I'm really struggling with that balance right now. I want to remember the good times, but it feels like doing so just brings back the hurt even more. Honoring those memories sounds nice in theory, but I worry that it might just make the sadness worse instead of helping me feel better.",
+    "therapist": "It’s understandable to feel hesitant about honoring those memories when it seems like they bring up more pain than comfort. The struggle to find that balance can feel really overwhelming. Perhaps we can look at ways to remember your grandmother that also allow space for your feelings—what do you think might feel safe or manageable to try in honoring her memory?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2941704988479614,
+    "aro_t": 0.03346741199493408,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you saying that, but I just don't know if I can handle it right now. Honoring my grandmother feels like opening up a wound that never really healed. I worry that if I start remembering the good times, it will just remind me of the loss and make everything feel heavier.",
+    "therapist": "It sounds like you’re feeling really hesitant about opening that door to your memories, as if it might just deepen the pain you’re already experiencing. It’s completely valid to feel that way, and it’s important to prioritize your emotional safety. Maybe we can explore some gentle ways to acknowledge your feelings without diving too deep—what would feel most comfortable for you in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19603252410888672,
+    "aro_t": 0.07762765884399414,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that my feelings are valid; it does help to hear that. I’m just really worried that even acknowledging those memories will make everything feel worse, like I’ll get stuck in a loop of pain. I guess I’m not sure what “gentle ways” look like; it sounds good in theory, but I’m afraid I won’t know how to handle it if it becomes overwhelming.",
+    "therapist": "I’m glad to hear that acknowledging your feelings helps a bit; it shows that you're being very courageous in facing this. It’s completely normal to be afraid that exploring those memories might lead to feeling overwhelmed. Gentle ways could include writing down a few thoughts or memories when you feel ready, without the pressure to dive deep, or perhaps lighting a candle in her memory when you want to reflect on her. What do you think about trying something small like that when you feel comfortable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16292834281921387,
+    "aro_t": 0.1446155309677124,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestions, but honestly, I feel a bit skeptical about them. Writing down my thoughts feels daunting because I worry that it might just bring up all the emotions I try to keep at bay. And lighting a candle? I don’t know, that feels a bit too sentimental for me; I’m not sure it would help.",
+    "therapist": "It’s completely okay to feel skeptical about those suggestions; it shows you’re being mindful of your emotional state. Acknowledging that these ideas might feel daunting or too sentimental can be an important part of the process. Maybe we can brainstorm together to find other options that feel more manageable or comfortable for you—what are some small things you enjoy that might help you connect with your feelings without feeling overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10110974311828613,
+    "aro_t": 0.12989532947540283,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you understand my skepticism, but honestly, I'm not sure what small things I enjoy that could help me connect with my feelings. It feels like I often get lost in my thoughts and just end up avoiding those feelings altogether. Sometimes, I worry that whatever I come up with won’t really make a difference or will feel forced.",
+    "therapist": "It sounds like you’re feeling a bit stuck, and that’s completely understandable when you’re navigating such heavy emotions. It can be tough to think of ways to connect with your feelings when it feels like avoidance is the easier path. Perhaps we could explore what you typically enjoy doing, even if they feel small or insignificant right now—what activities have brought you comfort in the past, even if you’re unsure they’ll help now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16377651691436768,
+    "aro_t": 0.07260072231292725,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you saying that it’s understandable to feel stuck, but I can't help but feel like those activities I used to enjoy seem so far removed from me now. It’s hard to think about what brought me comfort because everything feels heavy and overwhelming. I worry that even if I try to engage in something I used to like, it won’t bring me any relief; it just feels pointless.",
+    "therapist": "It sounds like you’re feeling really disconnected from the things that once brought you comfort, and that can be such a heavy weight to bear. It’s understandable to worry that engaging in those activities might feel pointless when everything feels so overwhelming. Let’s take a moment to explore this together—what's one small thing you think you could try, even if it seems insignificant, that might help you feel a little more connected to yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21252810955047607,
+    "aro_t": 0.1722484827041626,
+    "text_emotion": "Angry"
+  }
+]

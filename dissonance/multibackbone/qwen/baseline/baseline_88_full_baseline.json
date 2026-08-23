@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, it's been really tough lately. Since losing my partner three months ago, I just can't seem to find the motivation to do anything I used to enjoy. I know you're here to help, but I'm not sure if talking about it will actually make a difference.",
+    "therapist": "I'm really sorry to hear that you're going through such a tough time, and it's completely understandable to feel this way after such a significant loss. It's okay to doubt whether talking will help, but just taking this step to share how you're feeling is a big deal. How have you been coping with these feelings of lack of motivation?",
+    "condition": "baseline",
+    "val_t": -0.11078286170959473,
+    "aro_t": 0.16288697719573975,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's been really hard to find the energy to do anything, even the things I used to enjoy. I keep thinking about how much my friend meant to me, and it just feels like everything is pointless without them. I try to stay busy, but it’s like nothing fills the void.",
+    "therapist": "It sounds incredibly challenging to navigate these feelings of emptiness and loss. It's natural to feel like nothing holds the same meaning without your friend, and it's okay to take your time to grieve. Can you tell me more about what thoughts come up when you try to engage in activities you used to enjoy?",
+    "condition": "baseline",
+    "val_t": -0.12878048419952393,
+    "aro_t": 0.14999830722808838,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "When I try to do things I used to enjoy, I just feel so hollow inside. It's like everything is a reminder of what I've lost, and it's hard to find any joy in it. I know I should try to do more, but it just feels futile.",
+    "therapist": "I can see how deeply those feelings of hollowness and loss are affecting you, and it's completely understandable to feel that way. It's not about what you \"should\" do, but rather about what feels genuine and possible for you right now. What do you think would be a small, manageable step you could take to start reconnecting with something that brings you even a tiny bit of comfort or meaning?",
+    "condition": "baseline",
+    "val_t": -0.23208534717559814,
+    "aro_t": 0.22338390350341797,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just really hard to find anything that feels meaningful right now. I guess I could try to call a friend or family member, but I worry it might just make me feel more isolated if the conversation doesn't go well.",
+    "therapist": "I understand that reaching out can feel daunting, especially when you're worried about how the conversation might go. It's totally valid to feel that way. Maybe we could explore what a successful conversation might look like for you, or what a small, low-pressure way to connect might be. What do you think might help you feel more comfortable or supported in reaching out?",
+    "condition": "baseline",
+    "val_t": -0.03959476947784424,
+    "aro_t": 0.020274043083190918,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just really hard for me to imagine a conversation going well when I feel so anxious and self-conscious. I worry that I'll say something wrong or that the other person won't understand me. It's hard to even think about what a successful conversation would look like.",
+    "therapist": "I can see how much anxiety and self-consciousness you're carrying, and it's completely understandable to worry about how a conversation might go. It's okay to take small steps and set realistic expectations for yourself. What if we started by imagining a conversation where you feel heard and understood, even if it's just a little bit? What might that look like, or what small part of it could you focus on?",
+    "condition": "baseline",
+    "val_t": -0.044852256774902344,
+    "aro_t": 0.11222827434539795,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard for me to imagine a conversation where I feel truly heard. I often feel like people are just waiting for their turn to speak or they don't really get what I'm going through. But maybe I could try to focus on just one small part, like finding a way to express one thing I really need to say without feeling rushed or interrupted.",
+    "therapist": "That's a really insightful and manageable approach, and I'm glad you're considering focusing on one small part of the conversation. It's completely valid to feel like people might not fully understand, but expressing one thing you need to say without feeling rushed can be a powerful step. What might that one thing be, or how could you prepare to share it in a way that feels safe and meaningful for you?",
+    "condition": "baseline",
+    "val_t": 0.0893019437789917,
+    "aro_t": 0.14773285388946533,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel like a small step, but it's hard to pinpoint exactly what I want to say. I worry that even if I manage to say one thing, it might not be received the way I intend, or it could make things worse. How do I even start preparing for that? It feels overwhelming.",
+    "therapist": "It's completely understandable to feel overwhelmed and unsure about how to start. Taking that small step can be challenging, but it's a sign of your resilience. One way to prepare might be to write down the one thing you want to say and think about how you can express it clearly and honestly. What do you think might help you feel more confident or comfortable when you share this?",
+    "condition": "baseline",
+    "val_t": -0.10811150074005127,
+    "aro_t": 0.24887597560882568,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but I'm still really worried about how it will come across. Writing it down sounds good in theory, but I often overthink things and end up feeling even more anxious. It's hard to find that balance between being honest and not coming off as too negative or needy.",
+    "therapist": "I understand that the fear of overthinking and coming across as too negative or needy can add to your anxiety. It's natural to want to find that balance. Maybe we can start by writing down just one or two sentences that feel true to you, without putting too much pressure on them. How does that feel? Could you try writing down one thing you'd like to share, and we can look at it together?",
+    "condition": "baseline",
+    "val_t": -0.20137310028076172,
+    "aro_t": 0.10465002059936523,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the idea, but I'm still a bit hesitant. I worry that even a couple of sentences might come off as too much or not enough. It's hard for me to find the right balance, and I don't want to overthink it or feel like I'm doing it wrong.",
+    "therapist": "I completely understand your hesitation and the fear of getting it wrong. It's okay to take it slow and not rush into anything that feels uncomfortable. Maybe we can start with a simple, non-judgmental statement that reflects how you're feeling right now, without worrying about it being perfect. What might that statement be, or what does it feel like to even consider writing it down?",
+    "condition": "baseline",
+    "val_t": -0.12112462520599365,
+    "aro_t": 0.09371078014373779,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It does feel a bit overwhelming to even start, but I guess I could try writing something down. I'm just worried that it will bring up a lot of negative feelings or that I won't be able to find the right words. It feels like a big step, even if it's just a simple statement.",
+    "therapist": "It's completely normal to feel overwhelmed and worried about bringing up negative feelings or finding the right words. Taking that step, no matter how small, is a brave and important one. Maybe we can start with a simple statement that acknowledges how you're feeling right now, without putting too much pressure on it. What might a gentle, honest statement look like for you, or what does it feel like to consider it?",
+    "condition": "baseline",
+    "val_t": 0.06843709945678711,
+    "aro_t": 0.11714351177215576,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately. Ever since my grandmother passed away, I find it hard to concentrate at work and I feel overwhelmed by sadness during the day. I know therapy is supposed to help, but sometimes I just feel like nothing will make it better.",
+    "therapist": "I'm so sorry to hear about your grandmother and how you've been feeling. It's completely understandable to feel overwhelmed and like the sadness is a heavy burden to carry. Can you tell me more about what it's like for you when you feel that way, or what thoughts come up during those moments?",
+    "condition": "baseline",
+    "val_t": -0.3417229652404785,
+    "aro_t": 0.1301347017288208,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It feels like there's this constant weight on my chest, like I can't catch my breath. I keep thinking about all the times we could have spent together that we didn't, and I can't help but feel guilty. It's like I should have done more, said more, been there more.",
+    "therapist": "It sounds incredibly heavy and painful, and it’s natural to feel that way after losing someone so important to you. The guilt you're feeling is common, but it's also important to remember that you did the best you could with the time you had. Can you think of any moments you shared with your grandmother that feel meaningful or bring you some comfort, even in the sadness?",
+    "condition": "baseline",
+    "val_t": -0.3578908443450928,
+    "aro_t": 0.17279398441314697,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's hard to think about the good moments without feeling guilty. I know she loved me, but I can't help thinking about all the things I wish I had said or done differently. It feels like those moments of comfort are tainted by what I perceive as my shortcomings.",
+    "therapist": "I can see how those feelings of guilt can make it difficult to focus on the positive memories. It’s a very human response to reflect on what might have been, but it’s important to recognize the love and connection you shared, which can’t be diminished by any perceived shortcomings. How do you think your grandmother would want you to remember her, and what might she say to you about these feelings of guilt?",
+    "condition": "baseline",
+    "val_t": -0.2717297077178955,
+    "aro_t": 0.0863962173461914,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I think she would want me to remember the good times, the laughter, and the warmth we shared. But it's hard not to feel guilty about the times I wasn't there for her or when I didn't do enough. It feels like I'm letting her down even now, and I can't shake that feeling.",
+    "therapist": "It’s clear that you have a deep love and respect for your grandmother, and it’s understandable that you’re holding onto those feelings of guilt. However, it’s important to honor her memory by focusing on the love and warmth she brought into your life. What are some ways you can start to shift your focus to the positive memories, even if just for a few moments each day?",
+    "condition": "baseline",
+    "val_t": -0.20527493953704834,
+    "aro_t": 0.13523590564727783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I do want to focus on the good memories, but it's hard because the guilt feels so heavy sometimes. I worry that if I let go of the guilt, I might forget the lessons she taught me. It's like I'm trying to hold onto her in the only way I know how.",
+    "therapist": "It’s really important that you’re able to hold onto the lessons and the impact your grandmother had on your life. Guilt can sometimes feel like a way to stay connected, but it doesn’t have to be the only way. What are some ways you can honor her memory and the lessons she taught you without the weight of guilt? Maybe there are specific actions or traditions you can embrace that keep her spirit alive in your life.",
+    "condition": "baseline",
+    "val_t": -0.257246732711792,
+    "aro_t": 0.10091662406921387,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I understand what you're saying, and I really do want to honor her memory in a positive way. But it feels hard sometimes because the guilt is so intertwined with how I remember her. I worry that if I let go of the guilt, I might forget some of the important things she taught me.",
+    "therapist": "I can see how intertwined those feelings are, and it’s completely understandable to worry about forgetting the important lessons she taught you. It might help to find a way to actively remember and celebrate those lessons, perhaps through a small daily practice or by sharing her wisdom with others. How do you think you could incorporate some of her teachings into your life in a way that feels meaningful and positive?",
+    "condition": "baseline",
+    "val_t": -0.21242988109588623,
+    "aro_t": 0.09292018413543701,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I like the idea of keeping her teachings alive, but it feels a bit overwhelming. I worry that I won't do it justice or that I'll forget the specifics of what she taught. It's hard because I want to honor her memory, but I also feel like I might mess it up.",
+    "therapist": "It’s completely normal to feel that way, and it’s okay to take it one step at a time. Honoring her memory doesn’t have to be perfect; it’s more about the intention and effort you put into it. Maybe you could start with something small, like writing down a few key lessons she taught you or sharing a story about her with a friend. What do you think might be a manageable first step for you?",
+    "condition": "baseline",
+    "val_t": -0.18893659114837646,
+    "aro_t": 0.16692161560058594,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does feel overwhelming to think about doing something big to honor her memory. Writing down a few lessons or sharing a story sounds manageable, but I worry that it might feel too small or insignificant. What if it doesn’t capture how much she meant to me?",
+    "therapist": "I understand that worry, and it’s natural to feel that way. Starting small doesn’t diminish the depth of your feelings or the importance of your grandmother in your life. Each small step can be a way to keep her memory alive and to honor her in a way that feels authentic to you. What do you think might be a meaningful first step that feels both manageable and significant to you?",
+    "condition": "baseline",
+    "val_t": 0.09624576568603516,
+    "aro_t": 0.15280580520629883,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It's just hard because I feel like any small step won't do justice to how much she meant to me. But maybe I could start by looking through some of her old photos or writing down some of the stories she used to tell me. It feels a bit daunting, though, because I don't want to open up old wounds.",
+    "therapist": "I completely understand how daunting it can feel to start, especially when you’re worried about reopening old wounds. Looking through photos and writing down stories can be a gentle and meaningful way to honor her memory. You might find that it brings both comfort and a sense of connection. How do you think you could approach this in a way that feels supportive and not overwhelming? Maybe setting aside a specific, manageable time to do this could help.",
+    "condition": "baseline",
+    "val_t": -0.14559590816497803,
+    "aro_t": 0.09461987018585205,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, but it still feels like a big step. Setting aside time sounds good in theory, but I worry that it might stir up too many emotions all at once. I’m not sure I’m ready to face everything that might come up.",
+    "therapist": "I completely understand your concerns, and it’s okay to take things at your own pace. You don’t have to rush into anything that feels too overwhelming. Maybe you could start with a very small step, like looking at one photo or writing down one story, and see how you feel. What do you think might be a gentle way to begin that feels manageable for you right now?",
+    "condition": "baseline",
+    "val_t": -0.042195916175842285,
+    "aro_t": 0.11705350875854492,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I lost my job last month — the financial pressure is just constant, and I can't stop thinking about how I'm going to pay the bills and take care of my family. It feels like this weight sitting on my chest all the time, and I can't seem to shake it no matter what I do. Honestly, I'm not even sure talking about it is going to change anything practical, like it won't magically put money in my bank account.",
+    "therapist": "What you're carrying right now sounds genuinely exhausting — the financial worry, the responsibility for your family, and that relentless mental loop all at once is a heavy load. You're right that our conversation won't directly pay the bills, and I appreciate your honesty about that, because it tells me you're looking for something *real* rather than just reassurance. What I can offer is a space to help untangle some of the thoughts that might be making this weight even heavier than it needs to be — so I'm curious, when that worry takes over, what kinds of thoughts tend to show up most loudly for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21938300132751465,
+    "aro_t": 0.20055067539215088,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the loudest thought is probably something like \"I'm failing everyone who depends on me.\" It just plays on repeat, especially late at night when I can't sleep and I'm lying there doing the math in my head over and over. And then I start thinking that if I were smarter, or had made better choices years ago, none of this would be happening.",
+    "therapist": "That thought — \"I'm failing everyone\" — is such a painful one to carry, especially in those quiet nighttime hours when there's nothing to distract you from it. I want to gently notice that your mind seems to be treating this as a settled fact, when really it's an interpretation of a very difficult situation that happened *to* you. If a close friend came to you having lost their job through no simple fault of their own, would you look at them and honestly conclude they were failing the people they love?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2601267099380493,
+    "aro_t": 0.10041773319244385,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and no, I wouldn't tell a friend they were failing their family just because they lost their job. But somehow it feels completely different when it's me — like the rules don't apply the same way. I think part of me believes I should have seen it coming, should have done something differently, and that makes it feel more like my fault than just something that happened to me.",
+    "therapist": "You've just noticed something really important — that you hold yourself to a completely different, much harsher standard than you'd ever apply to someone you care about, and that's such a common but painful pattern worth exploring. That belief that you \"should have seen it coming\" is worth gently examining — because hindsight has a way of making things feel predictable that genuinely weren't at the time. What actual evidence did you have *back then*, before it happened, that would have clearly told you this was coming?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3021409511566162,
+    "aro_t": 0.12159740924835205,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... when I actually try to think back, I guess there weren't really clear warning signs that I could point to. But it still feels like I should have just known somehow, like there's this voice in my head saying a smarter or more perceptive person would have figured it out. I don't know, maybe I'm just trying to make excuses for myself by saying the signs weren't there.",
+    "therapist": "It's really significant that when you actually examined the evidence, the warning signs weren't there — and yet your mind immediately reframed that honest reflection as \"making excuses,\" which shows how hard you're working to hold onto self-blame even when the facts don't support it. That inner voice calling you \"not smart enough\" isn't a neutral truth-teller — it's actually a thought worth questioning, just like any other. What do you think that voice is protecting you from, or trying to do for you, by insisting the fault must lie with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2503798007965088,
+    "aro_t": 0.1138380765914917,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me gets it logically, but it still feels really uncomfortable to let go of that self-blame. Like... if it wasn't my fault for missing the signs, then what does that mean — that I was just helpless, that bad things can happen and I have no control over them? I think maybe that voice keeps me feeling like I have some power in the situation, even if that \"power\" is just blaming myself.",
+    "therapist": "That's a profound insight — you've just identified exactly why self-blame can feel so hard to release, because it offers a sense of control in the face of something that felt random and frightening. It's almost like your mind made a deal: \"I'd rather be guilty than powerless.\" But I wonder if there's a middle ground worth exploring — because accepting that some things are outside your control doesn't have to mean you're helpless, it might actually mean you're someone who handled an unfair situation as best they could. What would it feel like to hold onto a sense of your own capability and strength, without needing the self-blame to do that job?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25503969192504883,
+    "aro_t": 0.10570895671844482,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That actually... makes a strange kind of sense, and it's a little unsettling to hear it put that way. Like, if I let go of the guilt, what's left — just the fact that something bad happened and I couldn't stop it? I don't know if \"capable and strong\" feels like enough to hold onto when the outcome was still so awful.",
+    "therapist": "There's something really courageous happening right now — you're sitting with a genuinely uncomfortable truth rather than retreating back into the familiar comfort of self-blame, and that takes real strength even if it doesn't feel that way. What you're describing — \"something bad happened and I couldn't stop it\" — is painful, but it's also just *true*, and there's something quietly powerful about being able to face reality clearly rather than distorting it to feel in control. I'm wondering, when you imagine a future version of yourself who has come through this difficult chapter, what qualities do you think carried them through — and do you recognize any of those in yourself right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16963303089141846,
+    "aro_t": 0.14263534545898438,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That question kind of catches me off guard, honestly, because I'm so used to focusing on what I did wrong that imagining a \"future me who made it through\" feels almost foreign. I guess if I think about it, that person would have to be someone who kept going even when they felt completely alone in it, which... I suppose I am doing, in a way, even if it doesn't feel like strength. But it's hard to trust that, because part of me still wonders if I'm just telling myself a nicer story to avoid facing how much I messed things up.",
+    "therapist": "What you just did — recognizing that *you are already that person*, someone who keeps going even while feeling alone and overwhelmed — that's not a nicer story, that's you seeing yourself more accurately than you have this whole conversation. The fact that it feels unfamiliar or suspect is actually very telling, because it suggests you've been so practiced at the harsh narrative that the truthful one feels like cheating somehow. I'm curious — what would it take, even just a small thing, for you to begin treating that more accurate version of yourself as the real story rather than the generous one?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13242268562316895,
+    "aro_t": 0.19158577919006348,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me wants to believe it, but it still feels like I'm just... waiting to be proven wrong about myself. Like if I start treating that version as the real one, I'll let my guard down and then something will happen that confirms the harsher story was right all along. I guess what would help is if it didn't feel so risky to just... try believing it for a day, but I don't know how to make it feel safe enough to do that.",
+    "therapist": "That fear of letting your guard down makes complete sense — it's like your self-criticism has been functioning as a kind of armor, and taking it off even briefly feels genuinely risky. But I want to offer a gentle reframe: believing a more accurate story about yourself for one day isn't \"letting your guard down,\" it's actually an experiment, and experiments can't prove you wrong — they just give you information. What if you tried it not as a permanent commitment, but as a small, low-stakes test — just noticing tomorrow whether the kinder story holds up against real life, rather than assuming in advance that it won't?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17947125434875488,
+    "aro_t": 0.18917155265808105,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and I like the idea of calling it an experiment — that does take some of the pressure off. But I guess my worry is that even one day of being kinder to myself and then having something go wrong at work, like making a mistake or someone criticizing me, will just feel like proof that I was fooling myself. It's like I'm already bracing for the experiment to backfire, which probably tells you something about how much I actually trust myself right now.",
+    "therapist": "The fact that you're already anticipating the experiment failing actually reveals something important — your mind has a rule that says any mistake automatically becomes *proof* of the harshest story, which means the experiment is rigged before it even starts. That's worth noticing, because a single criticism or mistake at work wouldn't disprove that you're someone who keeps going through hard things — it would just mean you're human, which was never in question. What if part of the experiment was also watching *how you respond* to any setbacks that come up, rather than just whether setbacks happen at all?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15410757064819336,
+    "aro_t": 0.1704697608947754,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me gets it logically, but it still feels like you're asking me to watch myself fail in slow motion and call that useful. Like, if I mess up a report or say the wrong thing in a meeting, I'm not sure I'll have the presence of mind in that moment to think \"oh, this is just data.\" The anxiety kind of takes over and I stop being an observer, I just become the mistake.",
+    "therapist": "That image — \"I become the mistake\" — is such a honest and vivid way of describing what anxiety does, and it makes complete sense that in those moments the observer part of you gets completely swallowed up. You're right that we can't always catch ourselves in real time, and that's actually okay — the reflection doesn't have to happen *during* the difficult moment, it can happen afterward, when you're calmer. So rather than asking you to be a detached observer mid-anxiety, what if the experiment was simply this: after something hard happens, you come back and ask yourself one question — \"did I keep going anyway?\" — and just notice what the answer is?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24347221851348877,
+    "aro_t": 0.2502557039260864,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed lately with my job at the marketing agency. My boss just assigned me two new projects, and the deadlines are tight, which makes everything feel even more stressful. I’m starting to doubt whether I can handle it all, and honestly, I’m not sure if talking about it in therapy will really help.",
+    "therapist": "It sounds like you’re feeling really overwhelmed with the pressure from your job and the new projects. Doubting your ability to handle everything can be a heavy burden to carry. I want you to know that it’s completely valid to feel this way. What specific thoughts are coming up for you when you consider those deadlines?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19490885734558105,
+    "aro_t": 0.1889427900314331,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I'm definitely feeling the pressure, and I keep thinking that I'm not capable of meeting those deadlines. It feels like everyone expects me to perform at my best all the time, and I worry that if I fall short, I’ll let them down. I guess I just feel really anxious about failing and disappointing myself and others.",
+    "therapist": "It’s understandable that you’re feeling pressured and anxious about meeting expectations, both from others and yourself. That fear of disappointing people can be really heavy, and it’s normal to question your abilities in such a high-stakes situation. Can you share more about what you believe would happen if you don’t meet those deadlines?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3318350315093994,
+    "aro_t": 0.1649763584136963,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I really worry that if I don’t meet those deadlines, people will think I’m not capable or that I’m a failure. It feels like there’s this constant pressure to prove myself, and the idea of disappointing others just makes my anxiety worse. I guess I fear that if I don’t deliver, I’ll be judged or left behind, which just adds to my feelings of loneliness.",
+    "therapist": "It sounds really tough to carry that fear of judgment and the pressure to prove yourself, especially when it feels like your worth is tied to your performance. The loneliness that comes with those feelings can be isolating. What are some ways you’ve coped with this pressure in the past, or have you noticed any moments where you felt a little more at ease despite the stress?",
+    "condition": "emotion_text_only",
+    "val_t": -0.47191834449768066,
+    "aro_t": 0.19511163234710693,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I often cope by keeping myself busy with work and trying to distract myself from those feelings, but it doesn’t really help in the long run. Sometimes I try to socialize, but it feels forced, and I end up feeling even more alone. I guess I’ve had moments where I felt at ease when I’m doing something I genuinely enjoy, like reading or listening to music, but those moments are few and far between.",
+    "therapist": "It sounds like you’ve been using work as a way to cope, but it’s clear that it’s not providing the relief you need. Finding joy in activities like reading or music is important, even if those moments feel rare. How can we create a plan to incorporate more of those fulfilling activities into your routine, especially when you’re feeling overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04377269744873047,
+    "aro_t": 0.017364978790283203,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about work not being enough to cope, and I know I should find joy in other activities. But honestly, when I’m overwhelmed, I just can't seem to make the time or energy for things like reading or listening to music. It feels like I have to push through work first, and by the time I’m done, I’m too tired to enjoy anything else.",
+    "therapist": "It sounds like you’re in a tough cycle where the overwhelming demands of work leave you feeling drained, making it hard to carve out time for activities that bring you joy. It’s completely understandable to feel that way, but it’s also important to recognize that taking even small breaks can help recharge your energy. What might a brief moment of enjoyment look like for you, even amidst a busy day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.022826790809631348,
+    "aro_t": 0.23311829566955566,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it feels hard to even think about taking breaks when I'm constantly swamped with tasks. My mind is usually racing with everything I need to do, and it feels like I don't have time for anything else. Even if I wanted to take a moment for myself, I worry I’d just end up feeling guilty for not being productive.",
+    "therapist": "It sounds like you're feeling really caught in a cycle of constant busyness and guilt, which can be exhausting. The idea of taking a break seems to bring up a lot of pressure to stay productive, and that can make it even harder to find time for yourself. What if we explored some small, guilt-free ways to integrate short moments of rest into your day, even if just for a few minutes?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2803339958190918,
+    "aro_t": 0.07999241352081299,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about being caught in a cycle, and I do feel that pressure to be productive all the time. But honestly, the idea of taking a break feels so foreign to me; I worry that if I stop, I won't be able to get back into my routine. It just seems really difficult to find even a few minutes without feeling guilty about what I should be doing instead.",
+    "therapist": "It sounds like the thought of taking a break feels really challenging for you, and I can understand why it might feel foreign when you’re so used to being in a productive mindset. That worry about losing momentum can make it seem even harder to step away, but it’s important to acknowledge that rest can actually help you be more effective in the long run. What if we brainstormed some very small, manageable breaks that wouldn’t feel overwhelming or disruptive to your routine?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25697970390319824,
+    "aro_t": 0.15764951705932617,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about rest being important, but it feels really hard for me to even imagine taking a break. I'm so used to pushing through and being productive that the idea of stepping away feels like I'm just going to fall behind. Plus, I worry that if I take a break, I might lose my focus completely and not be able to get back into my routine.",
+    "therapist": "I can see how challenging it is for you to even consider taking a break when you’ve built such a strong habit of pushing through. It’s common to feel like stepping away might lead to losing focus, especially when you’re under so much pressure. Maybe we can explore some strategies that allow you to incorporate short breaks in a way that feels manageable and doesn’t disrupt your flow—what do you think would feel least intimidating for you to try?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17756569385528564,
+    "aro_t": 0.053603529930114746,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you acknowledging how tough it is for me to take breaks. Honestly, it feels like if I stop, everything will fall apart, and I’ll lose my momentum. I’m not sure how I could incorporate breaks without feeling guilty or like I’m wasting time.",
+    "therapist": "I really appreciate your honesty about how difficult it feels to take breaks without guilt. It’s understandable to fear that stopping will lead to losing your momentum, especially when you’re juggling so much. What if we looked at breaks not as a waste of time, but as a way to recharge and maintain your productivity in the long run? Can we brainstorm some tiny, specific moments you might feel comfortable with that could help you gradually ease into taking those breaks?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11973106861114502,
+    "aro_t": 0.12551093101501465,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about breaks being necessary for recharging, but it just feels so counterintuitive to me. I worry that if I take even a small break, I'll just fall behind or lose focus. It’s hard to shake off that guilt, and I don’t really know how to start incorporating breaks without feeling like I'm slacking off.",
+    "therapist": "It sounds like the idea of taking breaks feels really counterintuitive and guilt-inducing for you, which can make it even harder to find a way to incorporate them into your routine. That tension between wanting to recharge and fearing that you’ll fall behind is completely understandable. What if we explored the idea of small, intentional breaks that feel more like a part of your workflow rather than a disruption? How might you feel about setting a timer for just a minute or two to start with?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21879875659942627,
+    "aro_t": 0.06998538970947266,
+    "text_emotion": "Sad"
+  }
+]

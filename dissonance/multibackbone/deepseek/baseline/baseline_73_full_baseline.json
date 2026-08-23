@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I've been dreading seeing my family because every time we get together, all I can think about is how my grandma should be there with us. It's like the empty chair at the table is screaming at me, and I end up either zoning out or having to leave early when the sadness hits. I don't even know if talking about it will help - it's not like it'll bring her back, you know?",
+    "therapist": "I hear how painful these family gatherings have become for you, and how deeply you're feeling your grandmother's absence. That empty chair seems to hold so much meaning - what comes up for you when you notice it there?",
+    "condition": "baseline",
+    "val_t": -0.3947610855102539,
+    "aro_t": 0.18421149253845215,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's not just the empty chair - it's the way everyone tiptoes around it. Like we're all pretending she's just in the kitchen or something. I get so angry when my aunt starts telling stories from \"back when mom was here,\" but then stops herself. Why can't we just say how much it hurts?",
+    "therapist": "It sounds like what's especially painful is this unspoken rule in your family that the grief shouldn't be acknowledged directly. I wonder what it would feel like if someone did say out loud how much they miss her?",
+    "condition": "baseline",
+    "val_t": -0.3002258539199829,
+    "aro_t": 0.14285051822662354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It would feel... really strange, honestly. Like breaking some sort of taboo that's been in place for years. Part of me wants that so badly - to just say how much I miss Mom out loud - but another part is terrified of how my dad or sister might react. \n\nI tried once to bring her up at dinner last month and my dad just got up and started clearing the plates like I hadn't said anything. That silence hurts worse than anything.",
+    "therapist": "That moment with your dad sounds incredibly painful - like your attempt to connect was met with this wall of silence. I'm curious, when you imagine speaking about your mom again despite that risk, what feels most frightening about that possibility?",
+    "condition": "baseline",
+    "val_t": -0.37778937816619873,
+    "aro_t": 0.20300090312957764,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "The thought of bringing up mom again terrifies me because I know exactly how he'll react - that same blank stare, like I'm speaking a foreign language. It makes me feel like I'm being weak or overdramatic for still needing to talk about her after all these years. \n\nAnd honestly? Part of me thinks maybe he's right - maybe I should just be over it by now. But I'm not, and that just makes me feel worse.",
+    "therapist": "It sounds like you're carrying two heavy burdens - the grief itself, and this shame about still grieving. I wonder if we could gently explore what \"over it\" would realistically look like to you?",
+    "condition": "baseline",
+    "val_t": -0.3721277713775635,
+    "aro_t": 0.17763221263885498,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That’s the thing—I don’t even know what \"over it\" looks like. Part of me thinks I should just wake up one day and not feel sad anymore, but that doesn’t seem realistic. And then I get frustrated because people around me act like I’m choosing to dwell on it, but the grief just keeps showing up when I least expect it.",
+    "therapist": "It sounds like you're stuck between these impossible expectations - from yourself and others - and the natural, unpredictable waves of grief. What would it feel like to give yourself permission to grieve in your own way, on your own timeline?",
+    "condition": "baseline",
+    "val_t": -0.4112100601196289,
+    "aro_t": 0.15476369857788086,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I don't know if I can give myself that permission. Part of me feels like if I stop pushing through the grief, I'll just drown in it. And then there's this voice in my head saying I should be over this by now - my family keeps hinting at that too. \n\nIt's like I'm failing at grieving properly, if that even makes sense. Like there's some right way to do this that I'm not figuring out.",
+    "therapist": "That \"failing at grieving\" thought feels really important to notice - grief isn't something we can pass or fail at, yet that judgment is adding another layer of pain to your experience. What might it feel like to challenge that idea that there's a \"proper\" way to grieve?",
+    "condition": "baseline",
+    "val_t": -0.33999693393707275,
+    "aro_t": 0.17321181297302246,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I know logically that grief isn't supposed to have rules, but I still feel like I'm doing it wrong. Everyone else seems to be moving on, but I'm stuck in this heavy sadness months later. It makes me feel weak and defective, like there's something wrong with me for still hurting this much.",
+    "therapist": "It sounds like you're measuring your grief against others' and finding yourself coming up short, which must feel incredibly isolating. I wonder how it might shift things to acknowledge that what you're experiencing isn't weakness, but simply the depth of your love for your grandmother?",
+    "condition": "baseline",
+    "val_t": -0.4676399230957031,
+    "aro_t": 0.16061365604400635,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I know you're right logically, but it's hard not to compare. When I see how quickly my cousins seem to have moved on after the funeral, it makes me feel like I'm failing at grief somehow. Like if I really loved her as much as they did, I should be able to function normally by now too.",
+    "therapist": "It's understandable that these comparisons hurt - grief isn't a competition, yet we often judge ourselves as if it were. I wonder if your cousins are truly moving on, or if they might just be grieving differently from you?",
+    "condition": "baseline",
+    "val_t": -0.19458043575286865,
+    "aro_t": 0.12611842155456543,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I never thought about it that way – that they might just be grieving differently. I just assumed that because they’re smiling and talking about their lives, they’re over it. But maybe they’re just better at hiding it? It still feels like I’m failing somehow, though, because I can’t seem to move forward like they are.",
+    "therapist": "It sounds like that \"failing\" feeling persists even as you consider this new perspective - like there's still this pressure to measure up to others' ways of coping. What would it feel like to acknowledge that your visible grief isn't a weakness, but perhaps a testament to how deeply you loved your grandmother?",
+    "condition": "baseline",
+    "val_t": -0.19988083839416504,
+    "aro_t": 0.058028578758239746,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I know logically that grief isn't weak, but when I see my coworkers functioning normally while I'm barely holding it together, I can't help but feel broken. It's like everyone else got an instruction manual on how to be a person after loss, and mine was missing pages.",
+    "therapist": "That feeling of being \"broken\" while others seem to function so normally must be incredibly isolating. I wonder if we could explore what \"holding it together\" looks like for you right now - not compared to others, but simply as your authentic experience of grief?",
+    "condition": "baseline",
+    "val_t": -0.2593345642089844,
+    "aro_t": 0.10899531841278076,
+    "text_emotion": "Angry"
+  }
+]

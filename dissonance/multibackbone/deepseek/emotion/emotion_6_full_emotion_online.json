@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling with my job lately. Last week we missed a major project deadline, and now I just feel constantly on edge, like I'm failing at everything. I don't even know if talking about it will help - the work isn't going to magically get easier, you know?",
+    "therapist": "It sounds like you're carrying a heavy weight of pressure and self-doubt from this work situation. That \"on edge\" feeling often comes when our minds start generalizing one setback into \"failing at everything\"—could we explore what thoughts go through your head when that feeling arises?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3590354919433594,
+    "aro_t": 0.1500462293624878,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I know you're right about generalizing, but when I mess up at work it really does feel like proof I'm failing at everything. My mind just floods with thoughts like \"they're all realizing I'm not cut out for this\" and \"I'll never get promoted now.\" It's like one mistake erases all the good work I've done before.",
+    "therapist": "That flood of self-critical thoughts sounds really painful—it's like your mind becomes a courtroom where one mistake outweighs all your past successes. When those thoughts about being \"not cut out for this\" come up, have you noticed any patterns in when they hit hardest, like right after feedback or during quiet moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2861248254776001,
+    "aro_t": 0.19025933742523193,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's usually worst right after meetings with my manager. Even if the feedback is mostly positive, I'll fixate on one tiny critique and replay it over and over. I know logically that one comment shouldn't erase my two years at the company, but my brain keeps tallying up failures like they're the only things that count. \n\nYesterday my manager said my report was \"thorough but could use more visuals\" and I spent the whole night convinced I'm terrible at my job.",
+    "therapist": "It sounds like these meetings trigger a very specific kind of mental accounting where critiques carry much more weight than praise—almost like your mind has a magnifying glass for criticism while appreciation gets filtered out. When you notice yourself replaying that one critique about visuals, could we try pausing to ask: \"What would I tell a colleague who received this same feedback?\"",
+    "condition": "emotion_text_only",
+    "val_t": -0.22586274147033691,
+    "aro_t": 0.13054406642913818,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That's an interesting way to put it, but I don't know if it would help. When it's me getting the feedback, it just feels personal and true in a way that it wouldn't if it were someone else. My brain immediately jumps to \"they're right, I'm not good enough\" and that feeling sticks.",
+    "therapist": "That immediate \"they're right, I'm not good enough\" reaction sounds like it carries such a deep sense of conviction—almost like your brain has installed these thought patterns on autopilot. When that feeling sticks so stubbornly, do you notice any physical sensations that come with it, like tension or heaviness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.013252973556518555,
+    "aro_t": 0.13224077224731445,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I definitely feel it physically—my chest gets tight, and my shoulders tense up like I'm bracing for something. But what's the point of noticing that? It's not like knowing where the tension is makes the thoughts any less true. I mean, when people criticize me, they're usually not wrong—I do mess up a lot.",
+    "therapist": "Your body's tension makes complete sense—it's like you're physically bracing against both the criticism and those harsh self-judgments. But what if we viewed these physical signals not as proof the thoughts are true, but as signs of how deeply you're feeling them? When your shoulders tense next, could you try noticing it as your body's way of saying \"this hurts\" rather than \"this is fact\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23063719272613525,
+    "aro_t": 0.15618836879730225,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about separating the physical reaction from the truth of the thoughts, but when my body tenses up like that, it just feels like confirmation that I really messed up. Like my muscles know the truth even if I try to convince myself otherwise. It's hard to see it any other way when the feeling is so strong and immediate.",
+    "therapist": "That immediate physical confirmation feels so compelling—it's like your body and mind team up to say \"this is definitely true.\" When those sensations and thoughts reinforce each other so strongly, what happens if we pause just to notice that pattern, without trying to change it yet? Like observing \"Ah, there's that familiar tightening—my system is reacting strongly again\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2221153974533081,
+    "aro_t": 0.22799694538116455,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about noticing the pattern, but sometimes just observing it makes me feel worse. Like now I'm hyper-aware of my chest tightening and my thoughts racing, and it just confirms how broken I feel. It's hard to just watch that happen without panicking about it.",
+    "therapist": "This makes so much sense—when we notice the pain more clearly, it can feel like we're just amplifying the distress rather than helping. That fear of being \"broken\" sounds especially heavy right now. Could we try shifting focus for a moment to what usually helps these sensations ease, even just a tiny bit, when they feel overwhelming?",
+    "condition": "emotion_text_only",
+    "val_t": -0.308111310005188,
+    "aro_t": 0.26359808444976807,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about focusing on what helps, but honestly, even when I try small things like breathing exercises, part of me thinks \"this isn't fixing the root problem.\" It's like putting a bandaid on something that needs stitches. The loneliness still creeps back in the second I stop distracting myself.",
+    "therapist": "It sounds like those small coping strategies feel insufficient against the deeper sense of loneliness you're experiencing—like they're surface-level fixes when what you really need is something more substantial. When that loneliness creeps back in, what kind of connection or support do you imagine would feel more like \"stitches\" rather than a bandaid?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16100800037384033,
+    "aro_t": 0.05597710609436035,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I imagine having someone who really *gets* me—someone I don’t have to explain myself to all the time. But it feels impossible to find that kind of connection. Even when I’m with people, I feel like I’m on the outside looking in, like I’m just pretending to fit in. I don’t know if I even know how to let someone in that deeply.",
+    "therapist": "That longing for someone who truly *gets* you feels so deep—it's like you're yearning for a connection where you don't have to wear a mask or pretend to fit in. When you think about letting someone in that deeply, what feels like the biggest barrier—is it fear of rejection, or maybe not knowing where to start?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1510157585144043,
+    "aro_t": 0.08678138256072998,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It's both, I think. The fear of rejection is huge—what if I open up and they just don't care? But also...I don't even know how to start being vulnerable like that. Every time I try, I just freeze up and pretend everything's fine. It's like my brain won't let me take that risk.",
+    "therapist": "That freeze response sounds so familiar—it's like your protective instincts kick in just when you want to take a step toward connection, leaving you stuck in that \"everything's fine\" mask. When you think about times you've tried to be vulnerable before, what do you notice about what happens right before you freeze—any particular thoughts or physical sensations that show up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2958338260650635,
+    "aro_t": 0.19255602359771729,
+    "text_emotion": "Angry"
+  }
+]

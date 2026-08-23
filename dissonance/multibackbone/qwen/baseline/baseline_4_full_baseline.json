@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling with family gatherings lately. Ever since my grandmother passed away last month, I can't seem to enjoy them. All I can think about is how much I miss her and how different everything feels without her. I know it's been tough, but I'm not sure if therapy can really help me get through this.",
+    "therapist": "Hi there, I'm so glad you reached out. It's completely understandable to feel this way, especially after losing someone so dear. Your grandmother was an important part of your life, and her absence can deeply affect how you experience family gatherings. How have you been coping with these feelings, and what do you think might help you feel more connected during these times?",
+    "condition": "baseline",
+    "val_t": -0.2521038055419922,
+    "aro_t": 0.09227311611175537,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough, especially during family gatherings. I find myself feeling so lonely and out of place without her. I've been trying to stay busy, but it doesn't really help much. I don't know what would make me feel more connected; sometimes it feels like nothing will fill that gap.",
+    "therapist": "I can hear how deeply you miss your grandmother and how much her absence is affecting you. It's natural to feel lonely and out of place in situations that used to bring you joy. Staying busy can be a way to cope, but it sounds like it's not fully addressing the emotional pain. Have you considered any ways to honor her memory during these gatherings, or perhaps sharing stories about her with your family? How do you think that might feel?",
+    "condition": "baseline",
+    "val_t": -0.10101580619812012,
+    "aro_t": 0.12531042098999023,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that you understand how much I miss her. The idea of sharing stories about her sounds nice in theory, but it feels like it might be too painful. I worry that it could make me feel even more alone and sad, especially if others don't react the way I hope they would.",
+    "therapist": "I understand that sharing stories can feel daunting, and the fear of it being too painful is very real. It's important to find a way to honor her memory that feels right for you. Maybe you could start with a small, manageable step, like looking through old photos or writing down some of your favorite memories of her. What do you think about trying that, and how might it feel to do something like this on your own first?",
+    "condition": "baseline",
+    "val_t": -0.23558402061462402,
+    "aro_t": 0.10224282741546631,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your suggestions, Luna, but it's really hard for me to even look at photos or think about writing down memories. It feels like it will just bring up too much pain and sadness. I worry that if I start, I won't be able to stop, and I'll just end up feeling overwhelmed.",
+    "therapist": "I completely understand how overwhelming that can feel, and it's okay to take things at your own pace. It's important to find a balance where you can honor your grandmother's memory without pushing yourself into a place that feels too painful. Have you thought about any other small, gentle ways to keep her memory alive, like lighting a candle or having a special object nearby during family gatherings? How do those ideas feel to you?",
+    "condition": "baseline",
+    "val_t": -0.21028661727905273,
+    "aro_t": 0.21804046630859375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. The idea of lighting a candle or having a special object nearby does feel a bit more manageable. I just worry that it might not be enough to truly honor her memory, you know? It feels like I should be doing more, even though I know I'm struggling with it.",
+    "therapist": "I understand that feeling of wanting to do more to honor her memory. It's important to recognize that any way you choose to remember her, no matter how small, is a meaningful tribute to your relationship with her. Lighting a candle or having a special object nearby can be a powerful and personal way to feel her presence. What do you think it would be like to try one of these small steps, and how might it help you feel more connected to her during family gatherings?",
+    "condition": "baseline",
+    "val_t": 0.07863163948059082,
+    "aro_t": 0.10880804061889648,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard because sometimes these small gestures feel like they're not enough, you know? I worry that I'm not doing enough to keep her memory alive, especially when I'm around my family and they're all sharing their own ways of remembering her. It's like I'm falling behind or not contributing enough.",
+    "therapist": "I can understand how those feelings of inadequacy can come up, especially when you see others sharing their own ways of remembering her. It's important to remember that everyone processes grief differently, and there's no right or wrong way to keep her memory alive. Your feelings and your way of honoring her are just as valid. What do you think it would be like to share with your family that you're finding it hard to participate in the same way, and perhaps ask for their understanding and support?",
+    "condition": "baseline",
+    "val_t": -0.06826746463775635,
+    "aro_t": 0.09793925285339355,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate what you're saying, but it's hard to open up to my family about this. I feel like they already have their own ways of coping, and I don't want to disrupt that or make them feel like I'm not doing enough. It's just easier to keep it to myself, even if it means I feel more alone.",
+    "therapist": "I understand that opening up can feel really challenging, especially when you're worried about disrupting how others are coping. It's a natural concern to want to protect your family's sense of stability. At the same time, sharing your feelings might actually bring you closer together and help them understand what you're going through. What do you think might be the smallest step you could take to express how you're feeling, even if it's just to one person you feel safe with?",
+    "condition": "baseline",
+    "val_t": -0.08332622051239014,
+    "aro_t": 0.06921243667602539,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and I know you're right. It's just really hard for me to find that one person I trust enough to open up to. I worry that if I do, it might just add more stress to everyone's lives, and I don't want to be a burden. It feels safer to keep it all inside, even though I know it's not healthy.",
+    "therapist": "I completely understand how hard it is to find that person to open up to, and it's natural to worry about adding more stress or feeling like a burden. It's important to recognize that keeping everything inside can be tough on you, too. Is there anyone in your life, even a friend or a family member, who has shown empathy or support in the past, someone you might feel a little more comfortable talking to? Or perhaps there are other forms of support, like a support group or online community, that might feel a bit less overwhelming?",
+    "condition": "baseline",
+    "val_t": -0.1288069486618042,
+    "aro_t": 0.09842157363891602,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your understanding, but it's hard for me to think of anyone who I feel truly comfortable opening up to. I worry that even if I do find someone, they won't really get it or they'll judge me. As for support groups, I've tried a few in the past, but I always feel like I'm not fitting in or that I'm too much of a burden. It's just really tough to let my guard down.",
+    "therapist": "I can hear how difficult it is for you to find that sense of trust and comfort, and it's completely valid to have those worries about being understood or judged. Opening up can feel incredibly vulnerable, especially when you've had experiences where you felt like you didn't fit in or were a burden. It's important to go at your own pace and find a way that feels safe for you. Have you thought about any small steps you could take, even if it's just writing down your thoughts or feelings in a journal? How does that feel as a way to start expressing yourself without the immediate pressure of another person's reaction?",
+    "condition": "baseline",
+    "val_t": -0.19367408752441406,
+    "aro_t": 0.01921689510345459,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. Writing things down does sound like it could be a good starting point, but I'm still a bit hesitant. It's hard because I feel like even when I put my thoughts on paper, they don't seem to make sense or they just make me feel worse. I worry that it won't really help or that I'll just end up ruminating over the same things.",
+    "therapist": "I understand that putting your thoughts on paper can feel daunting, especially if it seems like it doesn't provide the relief you're looking for or even makes you feel worse. It's important to approach this gently and without pressure. You might try writing for a short period each day, focusing on how you feel in the moment, and even noting any small moments of joy or connection you experience. What do you think about starting with just a few minutes a day and seeing how it feels? Or is there another small step you can imagine taking that might feel more manageable?",
+    "condition": "baseline",
+    "val_t": -0.19073355197906494,
+    "aro_t": 0.10472977161407471,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,332 @@
+"""
+Luna AI Therapist — Demo UI
+============================
+Replays pre-generated therapy dialogues for defense video recording.
+
+- Baseline Session : text-only therapist (no audio, no metadata)
+- Dissonance Session: multimodal therapist (audio + VA + dissonance flags)
+
+Run:   python demo_luna.py
+Open:  http://127.0.0.1:7860
+"""
+
+import json
+from pathlib import Path
+
+import gradio as gr
+
+# ------------------------------------------------------------------
+# Paths
+# ------------------------------------------------------------------
+BASE = Path(__file__).resolve().parent
+DATA_DIR = BASE / "multibackbone" / "gpt4o-mini"
+VOICE_DIR = BASE / "own_script" / "dissonance" / "voice" / "gpt4o-mini"
+EVAL_DIR = BASE / "evaluation" / "evaluation_outputs"
+
+CONDITIONS = {
+    "Baseline Session (Text-Only)": "baseline",
+    "Dissonance Session (Multimodal)": "dissonance",
+}
+
+# ------------------------------------------------------------------
+# Data loading
+# ------------------------------------------------------------------
+
+def available_dialogues() -> list[int]:
+    """Dialogue ids that exist in BOTH conditions."""
+    ids = []
+    for i in range(1, 101):
+        b = DATA_DIR / "baseline" / f"baseline_{i}_full_baseline.jsonl"
+        d = DATA_DIR / "dissonance" / f"dissonance_{i}_full_dissonance_online.jsonl"
+        if b.exists() and d.exists():
+            ids.append(i)
+    return ids
+
+
+def _read_json_or_jsonl(base_no_ext: Path) -> list[dict]:
+    jsonl = base_no_ext.with_suffix(".jsonl")
+    if jsonl.exists():
+        turns = []
+        with open(jsonl, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    turns.append(json.loads(line))
+        return turns
+    js = base_no_ext.with_suffix(".json")
+    if js.exists():
+        with open(js, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else [data]
+    raise FileNotFoundError(str(base_no_ext))
+
+
+def load_dialogue(mode_key: str, dialogue_id: int) -> list[dict]:
+    if mode_key == "baseline":
+        stem = DATA_DIR / "baseline" / f"baseline_{dialogue_id}_full_baseline"
+    else:
+        stem = DATA_DIR / "dissonance" / f"dissonance_{dialogue_id}_full_dissonance_online"
+    return _read_json_or_jsonl(stem)
+
+
+def load_scores(dialogue_id: int) -> dict:
+    out = {}
+    for label, fname in [("Baseline", "baseline"), ("Dissonance", "dissonance")]:
+        path = EVAL_DIR / f"ai_eval_multibackbone_gpt4o-mini_{fname}.jsonl"
+        if not path.exists():
+            continue
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                j = json.loads(line)
+                if j.get("dialogue_id") == dialogue_id:
+                    out[label] = j
+                    break
+    return out
+
+
+# ------------------------------------------------------------------
+# Formatting helpers
+# ------------------------------------------------------------------
+
+def va_bar(value: float) -> str:
+    """Inline horizontal bar for a VA value in [-1, 1]."""
+    pct = int(round((value + 1.0) / 2.0 * 100))
+    pct = max(2, min(100, pct))
+    color = "#34A853" if value >= 0 else "#EA4335"
+    return (
+        '<div style="background:#e6e6e6;border-radius:4px;height:10px;width:100%;">'
+        f'<div style="background:{color};height:10px;width:{pct}%;border-radius:4px;"></div></div>'
+    )
+
+
+def metadata_html(turn: dict | None) -> str:
+    if turn is None:
+        return (
+            "<h4 style='margin:0 0 8px 0;'>Emotion Metadata</h4>"
+            "<div style='color:#777;font-style:italic;'>"
+            "Press <b>Next Turn</b> to reveal the client's voice analysis.</div>"
+        )
+    dis = turn.get("is_dissonant", False)
+    if dis:
+        flag = (
+            "<div style='background:#EA4335;color:#fff;padding:8px 10px;border-radius:6px;"
+            "font-weight:bold;font-size:15px;margin-bottom:10px;'>"
+            "🚩 DISSONANCE DETECTED — words and voice disagree</div>"
+        )
+    else:
+        flag = (
+            "<div style='background:#9E9E9E;color:#fff;padding:5px 10px;border-radius:6px;"
+            "font-size:12px;margin-bottom:10px;'>No dissonance this turn</div>"
+        )
+    vt, at = turn.get("val_t", 0.0), turn.get("aro_t", 0.0)
+    vs, ar = turn.get("val_s", 0.0), turn.get("aro_s", 0.0)
+    dv, da = turn.get("delta_valence", 0.0), turn.get("delta_arousal", 0.0)
+    return f"""
+<h4 style='margin:0 0 8px 0;'>Emotion Metadata</h4>
+{flag}
+<b>Turn {turn.get('turn', '?')} — Emotion Analysis</b><br><br>
+
+<b>What they SAY (text)</b> → {turn.get('text_emotion', '-')}<br>
+Valence {vt:+.2f} {va_bar(vt)}
+Arousal {at:+.2f} {va_bar(at)}<br>
+
+<b>How they SOUND (voice)</b> → {turn.get('speech_emotion', '-')}<br>
+Valence {vs:+.2f} {va_bar(vs)}
+Arousal {ar:+.2f} {va_bar(ar)}<br>
+
+<b>Delta (voice − text)</b><br>
+ΔV = <b>{dv:+.2f}</b> &nbsp;&nbsp; ΔA = <b>{da:+.2f}</b>
+&nbsp;(flag when |Δ| ≥ 0.5)<br><br>
+
+<b>Vocal descriptors</b><br>
+{turn.get('vocal_descriptors', '-')}
+"""
+
+
+def baseline_meta_html() -> str:
+    """Muted placeholder shown in Baseline mode — tells the viewer what the
+    text-only therapist cannot see."""
+    return (
+        "<h4 style='margin:0 0 8px 0;color:#9E9E9E;'>Emotion Metadata</h4>"
+        "<div style='background:#f5f5f5;color:#9E9E9E;padding:12px;border-radius:6px;"
+        "border:1px dashed #cccccc;font-style:italic;'>"
+        "No voice analysis available.<br>"
+        "The Baseline therapist is text-only &mdash; "
+        "it cannot hear how the client sounds.</div>"
+    )
+
+
+def score_html(scores: dict) -> str:
+    """Transposed score table (metrics as rows) with a Δ column.
+
+    Explicit inline colors on every cell — Gradio dark mode otherwise makes
+    header text invisible (white-on-white)."""
+    if not scores:
+        return ""
+
+    def vals(s):
+        if not s:
+            return None
+        ts, ca, ct = s["therapist_skills"], s["client_alliance"], s["ctrs"]
+        return [ts["understanding"], ts["interpersonal_effectiveness"],
+                ca["affective_bond"], ct["collaboration"],
+                ct["guided_discovery"], ct["focus"], ct["strategy"]]
+
+    bv, dv = vals(scores.get("Baseline")), vals(scores.get("Dissonance"))
+    names = ["Understanding", "Interpersonal Eff.", "Affective Bond",
+             "CTRS Collaboration", "CTRS Guided Disc.", "CTRS Focus", "CTRS Strategy"]
+    TD = "border:1px solid #444;padding:5px;text-align:center;color:#eee;"
+
+    rows = ""
+    for i, name in enumerate(names):
+        b = bv[i] if bv else "&ndash;"
+        d = dv[i] if dv else "&ndash;"
+        if bv and dv:
+            dl = dv[i] - bv[i]
+            dtxt = (f"<span style='color:#34A853;font-weight:bold'>+{dl}</span>"
+                    if dl > 0 else str(dl))
+        else:
+            dtxt = "&ndash;"
+        rows += (f"<tr><td style='{TD}text-align:left;'>{name}</td>"
+                 f"<td style='{TD}'>{b}</td><td style='{TD}'>{d}</td>"
+                 f"<td style='{TD}'>{dtxt}</td></tr>")
+
+    if bv and dv:
+        bt, dt = sum(bv), sum(dv)
+        rows += (f"<tr style='background:#1f2937;font-weight:bold;'>"
+                 f"<td style='{TD}text-align:left;color:#fff;'>TOTAL</td>"
+                 f"<td style='{TD}color:#fff;'>{bt}</td>"
+                 f"<td style='{TD}color:#fff;'>{dt}</td>"
+                 f"<td style='{TD}'>"
+                 f"<span style='color:#34A853;font-weight:bold'>+{dt - bt}</span></td></tr>")
+
+    return f"""
+<h4 style='margin-top:12px;'>Final Evaluation Scores (GPT-4o judge, blind)</h4>
+<div style='overflow-x:auto;'>
+<table style='border-collapse:collapse;width:100%;font-size:14px;'>
+  <tr style='background:#2d3748;'>
+    <th style='{TD}text-align:left;color:#fff;'>Metric</th>
+    <th style='{TD}color:#fff;'>Baseline</th>
+    <th style='{TD}color:#fff;'>Dissonance</th>
+    <th style='{TD}color:#fff;'>&Delta;</th>
+  </tr>
+  {rows}
+</table>
+</div>
+"""
+
+
+# ------------------------------------------------------------------
+# UI logic
+# ------------------------------------------------------------------
+
+def on_session_change(mode_label: str, dialogue_id: int):
+    """(Re)load a session — clears chat and rewinds to turn 0."""
+    mode_key = CONDITIONS[mode_label]
+    turns = load_dialogue(mode_key, dialogue_id)
+    scores = load_scores(dialogue_id)
+    is_dissonance = mode_key == "dissonance"
+    intro = metadata_html(None) if is_dissonance else baseline_meta_html()
+    return (
+        turns, scores, 0, [], intro,
+        gr.update(visible=is_dissonance, value=None),
+        "",
+    )
+
+
+def on_next(turns, scores, idx, mode_label, dialogue_id):
+    if not turns:
+        return turns, scores, idx, [], "No dialogue loaded.", None, ""
+    if idx >= len(turns):
+        return turns, scores, idx, gr.update(), gr.update(), gr.update(), score_html(scores)
+
+    turn = turns[idx]
+    idx += 1
+
+    history = []
+    for t in turns[:idx]:
+        client_msg = t["client"]
+        if t.get("is_dissonant"):
+            client_msg = "🚩 " + client_msg
+        history.append({"role": "user", "content": client_msg})
+        history.append({"role": "assistant", "content": t["therapist"]})
+
+    mode_key = CONDITIONS[mode_label]
+    audio_val = None
+    if mode_key == "dissonance":
+        wav = VOICE_DIR / f"dissonance_{dialogue_id}_utterance_{turn['turn']}.wav"
+        if wav.exists():
+            audio_val = str(wav)
+        meta_panel = metadata_html(turn)
+    else:
+        meta_panel = baseline_meta_html()
+
+    scores_panel = score_html(scores) if idx >= len(turns) else ""
+    return turns, scores, idx, history, meta_panel, audio_val, scores_panel
+
+
+# ------------------------------------------------------------------
+# Build UI
+# ------------------------------------------------------------------
+def build_demo() -> gr.Blocks:
+    ids = available_dialogues()
+    default_id = 88 if 88 in ids else (ids[0] if ids else 1)
+
+    with gr.Blocks(title="Luna AI Therapist — Demo") as demo:
+        gr.Markdown(
+            "# Luna AI Therapist — Demo\n"
+            "One client problem, two therapy sessions. "
+            "**Baseline** = text-only. **Dissonance** = multimodal "
+            "(voice + emotional dissonance detection)."
+        )
+
+        with gr.Row():
+            mode_radio = gr.Radio(
+                choices=list(CONDITIONS.keys()),
+                value=list(CONDITIONS.keys())[1],
+                label="Session Mode",
+            )
+            dialogue_dd = gr.Dropdown(
+                choices=ids, value=default_id, label="Dialogue (same seed = same client problem)"
+            )
+            reset_btn = gr.Button("↺ Reset", scale=0)
+
+        with gr.Row():
+            with gr.Column(scale=3):
+                chatbot = gr.Chatbot(height=540, label="Therapy Session")
+                next_btn = gr.Button("▶ Next Turn", variant="primary", size="lg")
+            with gr.Column(scale=2):
+                meta = gr.HTML()
+                audio = gr.Audio(
+                    label="Client Voice (Zonos TTS)",
+                    type="filepath",
+                    autoplay=True,
+                    interactive=False,
+                    visible=True,
+                )
+                scores_out = gr.HTML()
+
+        turns_state = gr.State([])
+        scores_state = gr.State({})
+        idx_state = gr.State(0)
+
+        session_inputs = [mode_radio, dialogue_dd]
+        session_outputs = [turns_state, scores_state, idx_state, chatbot, meta, audio, scores_out]
+
+        mode_radio.change(on_session_change, session_inputs, session_outputs)
+        dialogue_dd.change(on_session_change, session_inputs, session_outputs)
+        reset_btn.click(on_session_change, session_inputs, session_outputs)
+
+        next_btn.click(
+            on_next,
+            [turns_state, scores_state, idx_state, mode_radio, dialogue_dd],
+            session_outputs,
+        )
+
+        demo.load(on_session_change, session_inputs, session_outputs)
+
+    return demo
+
+
+if __name__ == "__main__":
+    build_demo().launch()

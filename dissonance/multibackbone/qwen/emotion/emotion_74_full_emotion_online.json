@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really lonely and disconnected lately. It's been six months since my partner moved to a different country for work, and I just can't shake this feeling of being so far apart, both physically and emotionally. I know we talk, but it doesn't feel like it's enough. I’m not sure if therapy can really help with this, but I’m here and willing to try.",
+    "therapist": "Hello! I’m really glad you reached out. It sounds like you’re going through a tough time with feeling lonely and disconnected, especially with the distance between you and your partner. It’s completely understandable to feel this way, and it’s great that you’re open to exploring how therapy can support you. Can you tell me more about what you’ve been missing most in your connection with your partner?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06774210929870605,
+    "aro_t": 0.17393839359283447,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I guess what I miss the most is just the everyday moments we used to share. It’s the little things, like having a meal together or just being in the same room, that make me feel really lonely now. It’s hard because we’re both so busy, and it feels like we’re drifting apart.",
+    "therapist": "Hi there, I can really understand how much those everyday moments mean to you. It’s the little things that often make us feel the most connected, and it’s completely normal to miss them deeply. It sounds like you’re both very busy, which can make it even harder to stay connected. Have you tried finding small ways to recreate some of those moments, even if it’s just a virtual meal together or a quick check-in during the day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09646236896514893,
+    "aro_t": 0.050411224365234375,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, but it's hard because our schedules are so different. I feel like even when we do try to connect, it’s not the same as it used to be. I worry that it’ll just feel forced or awkward if we try to recreate those moments.",
+    "therapist": "I understand that the mismatch in your schedules makes it challenging, and it’s completely normal to feel like those connections might not be as natural as they used to be. It’s important to acknowledge that it’s okay to feel this way, and finding a balance can take some time and effort. Have you had a chance to talk with your partner about how you’re feeling and maybe brainstorm some ways to make those moments feel more genuine and less forced?",
+    "condition": "emotion_text_only",
+    "val_t": -0.055072903633117676,
+    "aro_t": 0.10045647621154785,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I've tried talking to them a few times, but it feels like we just end up agreeing to do the same things we always do, and it doesn't really change how I feel. It's hard because I want to feel closer, but it seems like we’re just going through the motions. I don't know if there's a way to make it feel more genuine.",
+    "therapist": "It sounds like you’ve been trying your best to bridge that gap, but it’s understandably frustrating when it feels like nothing is changing. It’s really important to keep communicating how you feel, even if it’s difficult. Have you considered sharing some specific ideas or activities that you think might help you feel more genuinely connected, or perhaps setting aside a special time that works for both of you, even if it’s just once a week?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04365873336791992,
+    "aro_t": 0.06284201145172119,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying, but it feels like I've tried that before, and it just ends up making things more awkward. It's hard because I feel like I'm the only one putting in effort, and I worry that suggesting specific activities might come off as too forced or desperate. How do I bring it up without making it seem like I'm trying too hard?",
+    "therapist": "I can really understand how frustrating and challenging that feels. It’s tough when it seems like the effort isn’t reciprocated, and you’re right to be concerned about coming across as too forceful. One approach could be to share your feelings in a gentle and open way, perhaps by expressing how much you value your connection and how you’re feeling. For example, you might say, \"I really miss our time together, and I feel like we’ve both been so busy. I’d love to find a way to spend some quality time, even if it’s just a short call or a shared activity. How do you feel about that?\" What do you think about trying this approach?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21909832954406738,
+    "aro_t": 0.1654735803604126,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your suggestion, Luna. It makes sense in theory, but I worry that it might come off as needy or pushy. I feel like I’ve tried similar things before, and it just ended up making me feel more rejected. It’s hard to find the right balance.",
+    "therapist": "I understand your concerns, and it’s completely valid to feel that way, especially if past attempts haven’t gone as smoothly as you hoped. It’s tough to find that balance and not feel like you’re coming across as needy or pushy. One thing that might help is to frame your request in a way that emphasizes mutual benefit and shared goals. For example, you could say, \"I’ve been feeling a bit distant lately, and I think it would be great for both of us to find some time to reconnect. What do you think about trying something new, like a virtual game night or a movie night, just to shake things up a bit?\" How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2013075351715088,
+    "aro_t": 0.11496388912200928,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you mean, and it makes sense in theory, but I worry that it might come off as too calculated or insincere. It’s hard for me to gauge how the other person will react, and I don’t want to seem like I’m just trying to manipulate the situation. Plus, I often feel like I’m the one always reaching out, and it can be exhausting.",
+    "therapist": "I completely understand your concerns. It’s natural to worry about how your efforts will be perceived, especially when you feel like you’re the one always reaching out. It’s important to find a way to express your feelings that feels genuine and not forced. Perhaps you could start by sharing your own feelings and experiences, focusing on how you’ve been feeling and what you’re hoping for, rather than making specific demands. For example, you might say, \"I’ve been feeling a bit drained lately, and I miss our connection. I’m hoping we can find a way to support each other more, even with our busy schedules.\" How do you think that might feel for you to share?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12784922122955322,
+    "aro_t": 0.15837907791137695,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestions, Luna. It makes sense to focus on my feelings and what I’m hoping for, but I worry that it might come off as needy or that they’ll just dismiss my concerns. It’s hard because I want to be honest, but I also don’t want to push people away.",
+    "therapist": "I understand how difficult it is to strike that balance, and it’s completely normal to worry about coming off as needy or having your concerns dismissed. It’s important to be honest about your feelings while also being mindful of how you communicate them. You might try starting with a gentle and open approach, like saying, \"I’ve been feeling a bit down lately and I wanted to share how I’m feeling. I really value our relationship and I’m hoping we can find a way to stay connected that feels good for both of us.\" How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13050305843353271,
+    "aro_t": 0.10962808132171631,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but I worry that if I open up like that, it might make things awkward or push people away. It’s hard for me to find the right words without feeling like I’m overstepping or being too much. How do I even start a conversation like that without feeling overwhelmed?",
+    "therapist": "I can really understand how overwhelming it can feel to open up, especially when you’re worried about overstepping or causing awkwardness. It’s completely valid to feel that way. One way to start the conversation could be by focusing on your own feelings and experiences, rather than making it about what the other person is or isn’t doing. For example, you might say, \"I’ve been feeling a bit disconnected lately and I miss the closeness we used to have. I’d love to find a way to stay more connected, even with the distance. How have you been feeling?\" This can help set a tone of mutual support and understanding. How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13221728801727295,
+    "aro_t": 0.23309683799743652,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestion, Luna. It makes sense to focus on my own feelings, but I still worry that bringing it up might make things awkward or push the other person away. It’s hard because I feel so vulnerable when I open up, and I don’t want to risk losing the little connection we have left.",
+    "therapist": "I completely understand how vulnerable and challenging it can feel to open up, especially when you’re worried about making things awkward or pushing the other person away. It’s natural to feel that way, and it’s important to take your time and approach the conversation with care. You might start by expressing your feelings in a gentle and non-blaming way, like, \"I’ve been feeling a bit vulnerable and I miss our connection. I’d really appreciate it if we could talk about how we can stay closer, even with the distance. What do you think?\" How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08856844902038574,
+    "aro_t": 0.12266576290130615,
+    "text_emotion": "Angry"
+  }
+]

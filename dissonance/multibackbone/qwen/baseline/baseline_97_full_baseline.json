@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really anxious lately about my academic future. After failing that crucial exam last semester, I can't stop worrying about whether I'll be able to keep my scholarship. It feels like everything is riding on this, and I’m not sure if I can handle the pressure.",
+    "therapist": "Hi there, it sounds like you're carrying a lot of weight on your shoulders right now, and that must be really tough. It’s completely understandable to feel anxious after such a significant setback. How have you been coping with these worries day to day?",
+    "condition": "baseline",
+    "val_t": -0.24323821067810059,
+    "aro_t": 0.30767107009887695,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, yeah, it's been really tough. I find myself constantly worrying about what might go wrong next, and it's hard to shake off that feeling of impending doom. I've been trying to distract myself with work and hobbies, but it only helps for a little while.",
+    "therapist": "It sounds like you’re doing your best to manage your anxiety, but those worries keep coming back, which can be really challenging. It’s natural to feel this way when you’re facing uncertainty. Can you tell me more about what specific thoughts come up when you feel this sense of impending doom?",
+    "condition": "baseline",
+    "val_t": -0.0653524398803711,
+    "aro_t": 0.13499200344085693,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "Well, it's like a never-ending loop. I keep thinking that something terrible is going to happen, even if there's no real reason for it. It's hard to shake off the feeling that I’m not safe or that I’m going to fail at something important. It’s exhausting, and I don’t always know how to break that cycle.",
+    "therapist": "It sounds like you’re trapped in a cycle of negative thoughts, and that’s really draining. It’s understandable to feel this way, especially when you’ve had a setback. Have you noticed any specific triggers that seem to set off these thoughts, or any times when the anxiety is a bit more manageable?",
+    "condition": "baseline",
+    "val_t": -0.31638777256011963,
+    "aro_t": 0.16247117519378662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "Yeah, I've noticed that when I'm by myself, especially at night, the anxiety really ramps up. I guess being alone gives me too much time to overthink things. It’s hard to pinpoint exactly what triggers it, though. It feels like it could be anything.",
+    "therapist": "It makes sense that being alone, especially at night, can amplify those anxious thoughts. It’s really common to feel that way, as the quiet can often bring up a lot of reflections and worries. Have you tried any strategies to help manage the anxiety when you’re alone, or are there any activities that you find somewhat comforting during those times?",
+    "condition": "baseline",
+    "val_t": -0.12291133403778076,
+    "aro_t": 0.1567286252975464,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I’ve tried a few things, but nothing seems to stick. I listen to music sometimes, but it doesn’t really help with the anxiety. It’s hard because the quiet just makes me focus more on my worries, and I end up feeling even more alone and scared. I don’t know what else to try.",
+    "therapist": "It sounds like you’ve been trying different things to manage your anxiety, and it can be really frustrating when they don’t seem to make a big difference. Listening to music is a good start, but it’s understandable that it might not be enough when the quiet amplifies your worries. Have you considered trying some relaxation techniques, like deep breathing or mindfulness, to help ground you in the moment? What do you think might help you feel a bit more connected or supported during those times?",
+    "condition": "baseline",
+    "val_t": -0.3753739595413208,
+    "aro_t": 0.21851658821105957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestion, but I find it hard to believe that deep breathing or mindfulness will really make a difference. It feels like I've tried so many things, and nothing seems to stick. Plus, it can be really tough to find the time and space to do those things when I'm already feeling overwhelmed.",
+    "therapist": "I completely understand how you feel, and it’s totally valid to be skeptical when you’ve tried so many things without much relief. It can be really discouraging to feel like you’re not making progress. At the same time, small, consistent steps can sometimes make a difference over time. What do you think might be a small, manageable step you could take to start feeling a bit more in control, even if it’s just for a moment?",
+    "condition": "baseline",
+    "val_t": -0.14171254634857178,
+    "aro_t": 0.14498889446258545,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you understanding where I'm coming from. It's just hard to see how small steps will make a difference when everything feels so overwhelming. I mean, I've tried so many things, and it seems like nothing really changes. What kind of small step do you think might actually help?",
+    "therapist": "I hear you, and it’s completely understandable to feel that way when you’ve been struggling for a while. It’s important to acknowledge that you’ve been trying and that’s a sign of your resilience. Sometimes, even small steps can feel significant when they’re consistent. For example, setting aside just a few minutes each day to do something you enjoy or find calming, like reading a few pages of a book or taking a short walk, can gradually build a sense of control and normalcy. What do you think about trying something like that, even if it feels small?",
+    "condition": "baseline",
+    "val_t": 0.13906633853912354,
+    "aro_t": 0.1457909345626831,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It's just hard because I feel like I've tried these small steps before, and they don't seem to make much of a difference. It's like I'm putting in the effort, but the anxiety and loneliness are still there, and it's frustrating.",
+    "therapist": "I understand how frustrating it can be to put in the effort and still feel like you’re not seeing the results you hoped for. It’s important to recognize that change can be slow, and it’s okay to feel that way. Sometimes, it can be helpful to explore the thoughts that come up when you try these small steps. For example, what goes through your mind when you take those few minutes for yourself? Are there any particular thoughts or feelings that stand out?",
+    "condition": "baseline",
+    "val_t": -0.1596900224685669,
+    "aro_t": 0.1811760663986206,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get that change is slow, but it's hard not to feel discouraged. When I try to take those few minutes for myself, I often end up thinking, \"What’s the point? It’s not going to make a difference anyway.\" It’s like I can’t shake off the feeling that I’m just spinning my wheels.",
+    "therapist": "It’s completely understandable to feel discouraged when those thoughts of “What’s the point?” come up. It’s a tough cycle to break, especially when you’ve been putting in effort and not seeing immediate results. Have you ever noticed any small moments, even brief ones, where you felt a tiny bit better or more grounded, despite the overall discouragement? It can be helpful to build on those moments, no matter how small they might seem.",
+    "condition": "baseline",
+    "val_t": -0.19477307796478271,
+    "aro_t": 0.124275803565979,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Yeah, I do remember a few times when I felt a bit better, like when I went for a walk and the fresh air helped, or when I talked to a friend who really listened. But those moments feel so fleeting, and I often find myself slipping back into the same anxious thoughts. It’s hard to see how those small moments can really make a difference when the anxiety feels so overwhelming.",
+    "therapist": "It’s really important that you noticed those moments, even if they felt fleeting. Recognizing those times when you felt a bit better can be a valuable starting point. It’s natural to feel like those moments are too short-lived, but they can still provide some insight into what helps you feel more grounded. What do you think might help you hold onto those moments a bit longer, or perhaps find ways to bring them back more often, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.13573098182678223,
+    "aro_t": 0.15910744667053223,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really down lately, especially during family gatherings. Since my grandmother passed away six months ago, it feels like there's this huge void, and I can't find joy in being around my relatives anymore. I often feel isolated, like I'm just going through the motions but not really connecting with anyone. I sometimes wonder if therapy can actually help me with this.",
+    "therapist": "It sounds like you’re carrying a heavy burden with your grandmother's passing, and feeling isolated during family gatherings must be incredibly challenging. It's understandable to question whether therapy can help, especially when you're feeling so disconnected. What are some thoughts or memories that come to mind when you think about your time with your family?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31191420555114746,
+    "aro_t": 0.011178374290466309,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "When I think about family gatherings, I mostly remember how my grandmother would always try to bring everyone together. Now, it feels like there's this huge gap because she's not there anymore, and the energy is just different. I often feel like I’m on the outside looking in, and it’s hard to connect with anyone when I’m stuck in my own head.",
+    "therapist": "It sounds like your grandmother created a special warmth at family gatherings, and her absence has left a noticeable emptiness that makes it tough for you to engage. Feeling like you're on the outside looking in must be really disheartening. Have there been moments during these gatherings where you’ve felt even a small connection, or is it mostly that sense of isolation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07121098041534424,
+    "aro_t": 0.05611753463745117,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I've definitely felt that emptiness during family gatherings since my grandmother passed away. I find myself sitting there, trying to engage, but it feels like I'm just going through the motions. Sometimes I catch a moment of laughter or a shared memory that makes me feel connected, but it’s fleeting, and then I’m right back to feeling alone in the crowd.",
+    "therapist": "It sounds like those moments of laughter and shared memories are precious, but they feel so temporary, leaving you to grapple with that overwhelming sense of loneliness once again. It's completely understandable to feel this way, especially after such a significant loss. What do you think might help you hold onto those fleeting connections a bit longer during these gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1150064468383789,
+    "aro_t": 0.08264195919036865,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you acknowledging that sense of loneliness that creeps back in after those moments. It’s hard because I feel like I have to put on a brave face during gatherings, but once I’m home, that emptiness returns, and it’s like nothing really changes. I’m not sure how to hold onto those connections longer; it feels like they slip away so quickly no matter how hard I try.",
+    "therapist": "I can sense how exhausting it must be to feel like you have to hide your true feelings while you’re with family, only to be left with that emptiness once you return home. It’s really tough when those moments of connection feel so fleeting, especially when you're trying so hard to hold onto them. What do you think would feel manageable to try, even in small ways, to create more of those moments or to process your feelings after gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12584424018859863,
+    "aro_t": 0.06924557685852051,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you saying that, Luna. It does feel exhausting to keep everything inside, especially around my family. I guess I could try to create more moments, but I’m not sure how to do that without feeling vulnerable or judged. It’s hard to imagine opening up when I worry they won’t understand or might dismiss my feelings.",
+    "therapist": "It’s completely understandable to feel apprehensive about opening up, especially when you worry about being judged or misunderstood by your family. That fear of vulnerability can make it even more challenging to create those meaningful moments. What if we explored some small, safe ways to express yourself that might help you feel a little more connected without feeling overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04199373722076416,
+    "aro_t": 0.12464559078216553,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but the idea of expressing myself feels really intimidating. I worry that if I share even a little, it might lead to misunderstanding or judgment, and that just makes me want to retreat even more. What kind of small ways are you thinking about? I’m not sure I can handle even small risks right now.",
+    "therapist": "It's completely valid to feel intimidated by the idea of expressing yourself, especially when the fear of misunderstanding or judgment is so strong. It sounds like you're in a delicate place right now, and that's okay. Maybe we could think about starting with something very simple, like sharing a memory of your grandmother or a light-hearted moment from the past that feels safe to discuss. How does that sound, and do you think that could feel more manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12389266490936279,
+    "aro_t": 0.1859961748123169,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that suggestion, but honestly, even sharing a simple memory feels overwhelming. I worry that I won't express it the right way or that it won't come across as meaningful. Plus, what if I get emotional talking about it? It just makes me feel more anxious thinking about it.",
+    "therapist": "I can see how the thought of sharing even a simple memory feels overwhelming right now, especially with the fear of not expressing it perfectly or getting emotional. That anxiety is completely understandable, especially when it comes to discussing something so close to your heart. What if we focused on finding a way to honor your feelings without the pressure of sharing them with others? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14780616760253906,
+    "aro_t": 0.20706486701965332,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you understand how overwhelming it feels. It’s just that the thought of expressing something so personal makes me really anxious. Honoring my feelings sounds nice in theory, but I worry that if I don’t share them with others, they’ll just stay bottled up inside me, and that makes me feel even more alone.",
+    "therapist": "I hear you—it sounds like you're caught in a difficult cycle between wanting to honor your feelings and the fear of keeping them bottled up. That tension can feel really isolating, and it’s completely understandable to worry about being alone with those emotions. What do you think about finding a safe space to express your feelings, perhaps through writing or even talking to a trusted friend, as a first step? Would that feel less overwhelming for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17823898792266846,
+    "aro_t": 0.11847376823425293,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that suggestion, Luna, but I’m not sure how writing or talking to someone would help me. It feels like sharing those feelings would just make me more vulnerable, and I worry about being misunderstood. I guess I just don’t know if I can trust anyone to really get what I’m going through.",
+    "therapist": "I can sense how deeply you're feeling the weight of vulnerability and the fear of being misunderstood right now. Trusting someone with your feelings can be incredibly challenging, especially when you're navigating such complex emotions. It’s okay to take your time with this; what if we explored what it would take for you to feel more secure in sharing your feelings, whether that's with someone or even just with yourself? What does that look like for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12920141220092773,
+    "aro_t": 0.0869365930557251,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you acknowledging how heavy this feels for me. The idea of sharing my feelings, even with myself, feels daunting. I guess I worry that if I dig too deep, I might uncover emotions that I can't handle, or that I’ll just end up feeling more misunderstood.",
+    "therapist": "It sounds like you're really grappling with the fear of diving deeper into your emotions, and I can completely understand why that feels daunting. Uncovering feelings that seem overwhelming can make anyone feel apprehensive, especially when you’re concerned about being misunderstood. What if we took a gentle approach to exploring those feelings, perhaps by identifying just one small emotion or thought that feels manageable to look at? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10166680812835693,
+    "aro_t": 0.15393352508544922,
+    "text_emotion": "Angry"
+  }
+]

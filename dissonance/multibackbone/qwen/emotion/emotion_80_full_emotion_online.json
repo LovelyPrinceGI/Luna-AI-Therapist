@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been a tough few weeks. Ever since my grandmother passed away last month, I find it really hard to enjoy family gatherings. Her absence just feels so heavy, and I can't help but feel overwhelmed and sad whenever we get together. I don't know if therapy can really help with this, but I feel like I need to try something.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandmother and how difficult these family gatherings have been for you. It's completely understandable to feel overwhelmed and sad, especially when you're surrounded by memories and the absence of someone so dear. Have you found any moments or activities that bring you a bit of comfort during these tough times?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19066214561462402,
+    "aro_t": 0.23665201663970947,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks, Luna. It's been really tough, and I haven't really found much that helps. Sometimes I try to distract myself with music or a book, but it feels like a Band-Aid on a deeper wound. I don't know, maybe I'm just being too hard on myself for not coping better.",
+    "therapist": "It sounds like you're carrying a lot of emotional weight, and it's okay to feel that way. Coping with loss is a deeply personal and challenging process, and it's natural to feel like temporary distractions aren't enough. Can you tell me more about what you think might help you feel a bit more at ease during these gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18632328510284424,
+    "aro_t": 0.03931772708892822,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I feel like I just need a break from all the emotions, but I don't know how to do that without feeling guilty. I think maybe if I could find a way to be more present and engaged, it might help, but it's hard to shake off the sadness and anxiety that come with these gatherings. It's like I'm stuck in this cycle, and I don't know how to break it.",
+    "therapist": "It sounds like you're really struggling with a mix of emotions and feeling stuck, which is completely understandable. Taking a break from the intensity of these feelings can be important, and it's okay to give yourself that space without guilt. Have you tried any mindfulness techniques or grounding exercises that might help you feel more present and engaged during these gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3314555883407593,
+    "aro_t": 0.19937074184417725,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you're suggesting mindfulness and grounding, but I find it hard to stay present when I'm so anxious. It's like my mind just races with all these worries and what-ifs, and I don't think I can just switch that off. I've tried a few mindfulness exercises before, but they don't seem to stick. It's hard because I feel like I'm failing at it.",
+    "therapist": "I completely understand how challenging it can be to stay present when your mind is racing with worries and what-ifs. It's natural to feel frustrated when techniques don't seem to work as you'd hoped. Instead of focusing on whether you're \"failing\" at mindfulness, let's think about what might make it more manageable for you. What are some small, manageable steps you could take to gently bring yourself back to the present moment, even if just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1979975700378418,
+    "aro_t": 0.11367571353912354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard because when I try to be mindful, my mind just spirals into more anxiety. I feel like I'm doing it wrong, and that just makes me more frustrated. I'm not sure what small steps would actually help—everything seems so overwhelming.",
+    "therapist": "I can hear how frustrating it is when your efforts to be mindful seem to spiral into more anxiety. It's important to be gentle with yourself and recognize that it's a process. Sometimes, starting with very small, manageable steps can make a big difference. For example, you might try focusing on one simple thing at a time, like the sensation of your breath or the sounds around you. What do you think might be a small, manageable step you could try next time you feel overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23920929431915283,
+    "aro_t": 0.25494158267974854,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard because when I try to focus on something simple like my breath, my mind starts racing with all the things I need to do or worry about. It feels like even those small steps are too big for me sometimes. I don't know if I can stick with it.",
+    "therapist": "I understand how overwhelming it can feel when even small steps seem too big. It's okay to feel that way, and it's important to be kind to yourself during these moments. Sometimes, just acknowledging that you're feeling overwhelmed can be a helpful first step. Could we explore some alternative strategies that might feel more manageable for you, like a short walk or a simple grounding exercise? What do you think might feel more doable for you right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.023300766944885254,
+    "aro_t": 0.15920031070709229,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard because even the small things feel like too much sometimes. I know a walk or grounding exercise might help, but I worry that I'll just end up feeling guilty for not doing enough. How do I stop myself from spiraling into that negative thought pattern?",
+    "therapist": "It sounds like you're really struggling with feeling guilty and worrying about not doing enough, even with small steps. That's a common challenge, and it's important to recognize that these feelings are valid. One way to address this is by gently challenging those negative thought patterns. For example, when you notice yourself feeling guilty, you might ask yourself, \"What would I say to a friend in this situation?\" or \"Is there a more compassionate way to look at this?\" How do you think that might help you when you feel like you're spiraling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23926639556884766,
+    "aro_t": 0.09009242057800293,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the idea, but I feel like it's hard to be compassionate with myself when I'm already so critical. It's like I can't help but focus on all the things I'm not doing right. I worry that even trying to be kinder to myself might just feel forced or fake.",
+    "therapist": "I can understand how challenging it can be to be compassionate with yourself, especially when you're feeling critical. It's natural to focus on the things you feel you're not doing right, but it's important to remember that everyone has moments when they struggle. Trying to be kinder to yourself doesn't have to feel forced or fake; it can start with small, genuine moments of acknowledgment. For example, you might try saying to yourself, \"It's okay to feel this way,\" or \"I'm doing the best I can right now.\" How do you think you might start to incorporate a bit more self-compassion, even in small ways?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17117416858673096,
+    "aro_t": 0.11446964740753174,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and I do want to try being kinder to myself. It's just hard because I feel like I'm always falling short of what I think I should be. I worry that if I start being too lenient, I'll just let myself off the hook for things I need to improve. How do I balance that?",
+    "therapist": "I hear you, and it's completely understandable to feel that way. Balancing self-compassion with the drive to improve can be tricky, but it's an important part of the process. One way to approach this is by setting realistic and achievable goals for yourself, and recognizing that progress often comes in small steps. When you notice those critical thoughts, you might try asking yourself, \"What would a supportive friend say to me right now?\" This can help you find a more balanced and compassionate perspective. How do you think you might start setting those realistic goals and practicing self-compassion?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08210647106170654,
+    "aro_t": 0.09593641757965088,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestions, but it feels really hard to be compassionate with myself when I'm so used to being critical. Setting realistic goals sounds good, but I worry that I'll just end up feeling like I'm not doing enough, no matter what I set. It's tough to break that cycle of self-doubt.",
+    "therapist": "I understand how difficult it can be to shift from a critical mindset to a more compassionate one, especially when you're so used to being hard on yourself. It's completely normal to feel that way, and breaking that cycle of self-doubt takes time and patience. One step you might consider is starting with very small, achievable goals that feel manageable, and then gradually building from there. For example, you could focus on one small act of self-care each day, and celebrate yourself for taking that step. How do you think you might start with a small, manageable goal that feels right for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15026867389678955,
+    "aro_t": 0.040232300758361816,
+    "text_emotion": "Sad"
+  }
+]

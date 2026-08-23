@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. Last week, I received a rejection letter from my dream university, and ever since then, I've been feeling really inadequate and down on myself. I know you can help, but sometimes I wonder if therapy can really make a difference in something like this.",
+    "therapist": "Hi there, I'm so sorry to hear about the rejection letter and how it's been affecting you. It's completely understandable to feel inadequate and down after such a significant setback. How have you been coping with these feelings so far?",
+    "condition": "baseline",
+    "val_t": -0.28920507431030273,
+    "aro_t": 0.13245892524719238,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. Honestly, I've been struggling a lot. I keep replaying the rejection in my head, wondering what I could have done differently. It's hard not to feel like I'm just not good enough. I've tried to distract myself with other things, but it doesn't really help for long.",
+    "therapist": "I can imagine how difficult and frustrating it must be to keep replaying those thoughts. It's natural to question what could have been done differently and to feel inadequate. Have you noticed any specific thoughts that come up most often when you're feeling this way?",
+    "condition": "baseline",
+    "val_t": -0.14151322841644287,
+    "aro_t": 0.15149974822998047,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, I find myself thinking a lot about how I should have handled things differently, especially in social situations. It's like I can't shake the feeling that I always say the wrong thing or come off as awkward. I guess I just can't help but wonder if people think less of me because of it.",
+    "therapist": "It sounds like you're really hard on yourself, and those thoughts about social situations can be really tough to shake. It's common to worry about how we come across to others, but it can also be helpful to explore how realistic those thoughts are. What evidence do you have that people think less of you because of what you say or how you act?",
+    "condition": "baseline",
+    "val_t": -0.20093810558319092,
+    "aro_t": 0.07198488712310791,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it's hard for me to shake those thoughts. I feel like I can see the judgment in people's eyes when I say something awkward or stumble over my words. I know it's not logical, but it's just how I feel. It's tough to think about it differently when those moments are so vivid in my mind.",
+    "therapist": "I totally understand how vivid and powerful those moments can be, and it's completely normal to feel that way. It's important to acknowledge how you feel without dismissing it. Have you ever tried to test out these thoughts by perhaps asking a trusted friend for their perspective on how they perceive you in social situations?",
+    "condition": "baseline",
+    "val_t": -0.13714385032653809,
+    "aro_t": 0.03910088539123535,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestion, but I don't think that would work for me. It's hard because I already feel so self-conscious, and asking someone else to comment on how I come across could just make me feel more vulnerable and anxious. Plus, I worry that they might not be completely honest with me, or their opinion might just confirm my worst fears.",
+    "therapist": "I completely understand your concerns about feeling more vulnerable and anxious, and it's totally valid to worry about how others might respond. It's important to take small, manageable steps that feel safe for you. What do you think about reflecting on a recent social interaction and identifying any moments where you felt particularly self-conscious? We can explore what was happening in those moments and see if there are any alternative perspectives that might help.",
+    "condition": "baseline",
+    "val_t": -0.30888819694519043,
+    "aro_t": 0.07781517505645752,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, Luna. Reflecting on a recent social interaction sounds good, but I'm worried it might just make me more self-conscious. I feel like I already overanalyze those moments, and it ends up making me feel even worse.",
+    "therapist": "I understand your concern about overanalyzing and feeling worse. It's important to approach this in a way that feels supportive and not overwhelming. How about we start by gently exploring just one recent interaction, focusing on what went well and any positive aspects, rather than the self-critical parts? That way, we can build a more balanced view. What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.19816577434539795,
+    "aro_t": 0.05870258808135986,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea of focusing on the positive aspects, but I worry that I might still end up feeling guilty about the things I think I did wrong. It's hard for me to just let go of those negative thoughts, even when I try. Can we work on how to manage those feelings of guilt while we do this?",
+    "therapist": "Absolutely, we can definitely work on managing those feelings of guilt. It's completely understandable to struggle with letting go of negative thoughts, and it's a common challenge. One approach we can try is to gently acknowledge the negative thoughts and then shift your focus to more positive or neutral aspects of the interaction. How does that sound to you? We can practice this together and see how it feels.",
+    "condition": "baseline",
+    "val_t": -0.11114537715911865,
+    "aro_t": 0.12847578525543213,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but I'm not sure if it will be that easy for me. It's hard to just shift my focus when I'm feeling so guilty about things I've said or done. It feels like those thoughts are just stuck in my head, and I can't just turn them off.",
+    "therapist": "I understand that it can feel really challenging to shift your focus, especially when those guilty thoughts feel so persistent. It's okay to acknowledge that it's not easy, and it's a process. What if we try a small experiment where we gently notice the guilty thoughts and then gently redirect your attention to something neutral or positive, even if it's just for a short moment? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.21289372444152832,
+    "aro_t": 0.07637536525726318,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you're trying to help, but I'm not sure if I can manage to shift my focus like that. It feels like the guilty thoughts are so deeply rooted that even a small redirection seems overwhelming. I worry that it might just bring up more anxiety.",
+    "therapist": "I completely understand that the idea of shifting focus can feel overwhelming, especially when the guilty thoughts are so deeply rooted. It's important to approach this at a pace that feels manageable for you. How about we start by just noticing those guilty thoughts without trying to change them right away? We can practice observing them and then gently bringing your attention back to the present moment, even if it's just for a few seconds. What do you think about trying that?",
+    "condition": "baseline",
+    "val_t": -0.19518721103668213,
+    "aro_t": 0.17732393741607666,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, Luna. It does sound less intense than just diving in, but I'm still not sure how noticing the thoughts will actually help. It feels like they're so automatic, I might not even realize when they're happening.",
+    "therapist": "I understand your concerns, and it's totally normal to feel unsure about how noticing the thoughts will help. The idea is to create a bit of space between you and those automatic thoughts, so you can start to see them as just thoughts rather than absolute truths. We can practice this together, and over time, you might find that you have a bit more control over how much they affect you. What do you think about giving it a try, even if it feels a bit unfamiliar at first?",
+    "condition": "baseline",
+    "val_t": 0.03713119029998779,
+    "aro_t": 0.12617003917694092,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, it's been a tough month since my grandmother passed away. I find myself struggling to enjoy family gatherings because every moment feels like it's overshadowed by her absence. I know everyone is trying to be supportive, but I just can't seem to shake off the sadness and it's making me feel really isolated. I'm not sure if therapy can really help with this, but I'm here to try.",
+    "therapist": "I'm so sorry to hear about your grandmother's passing and how deeply it's affecting you, especially during family gatherings. It's completely understandable to feel a sense of sadness and isolation when such a significant loss looms over these moments. How have you been coping with these feelings, and are there any specific thoughts or memories that come up for you during these gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10760700702667236,
+    "aro_t": 0.12617456912994385,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thank you for understanding, Luna. It’s been really tough. Every time we gather, I can’t help but think about all the times we spent together and how much she meant to me. It’s hard not to feel overwhelmed by the sadness and sometimes I just want to be alone, even though I know that’s not what she would want.",
+    "therapist": "I can hear how much you miss your grandmother and how meaningful your relationship was. It’s completely natural to feel overwhelmed by sadness, especially during times that remind you of her. Have you found any moments or activities that bring you a sense of comfort or connection to her memory, even if just a little?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08349621295928955,
+    "aro_t": 0.15018582344055176,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's hard to find things that comfort me, but sometimes when I cook the dishes she taught me, I feel a little closer to her. It’s not the same, though. I miss the way she would tell me stories and how her laugh could fill a room. I worry that these moments of comfort are just not enough to fill the void.",
+    "therapist": "Cooking those dishes must bring a bittersweet comfort, a way to feel closer to her through the traditions you shared. It’s completely normal to miss the warmth of her presence and the joy she brought to your life. Have you considered sharing these dishes or the stories you remember with others in your family? Sometimes, sharing these moments can help you feel more connected and less alone in your grief.",
+    "condition": "emotion_text_only",
+    "val_t": 0.053522706031799316,
+    "aro_t": 0.11834776401519775,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's true, cooking those dishes does make me feel closer to her. But sharing them with others feels like it might be too hard. I worry that it won't be the same, or that they won't understand the depth of what I feel when I make these things.",
+    "therapist": "I understand that sharing these dishes with others might feel challenging right now, and it's okay to take things at your own pace. It's important to honor your feelings and do what feels right for you. Have you thought about journaling your thoughts or writing down the recipes and memories you have of your grandmother? Sometimes putting pen to paper can help process these emotions and preserve the special moments you shared.",
+    "condition": "emotion_text_only",
+    "val_t": 0.05038726329803467,
+    "aro_t": 0.14644110202789307,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestion, but I don't think journaling will work for me. It feels like it might just stir up more emotions, and I'm already struggling to manage how I feel. Plus, writing down the recipes and memories might make it harder to let go of the physical dishes, which is already a big challenge.",
+    "therapist": "I completely understand your concerns about journaling, and it’s important to find methods that feel supportive and not overwhelming. It’s okay to take a different approach if writing isn’t the right fit for you right now. Have you considered talking to a close friend or family member about your feelings? Sometimes sharing your thoughts and memories verbally can provide a different kind of comfort and help you feel more connected.",
+    "condition": "emotion_text_only",
+    "val_t": -0.08927834033966064,
+    "aro_t": 0.08791124820709229,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your suggestion, Luna, but I feel like talking to someone about my feelings might just make me feel more vulnerable and exposed. It’s hard for me to open up, and I worry about being a burden to others or having them not understand what I’m going through.",
+    "therapist": "I understand how difficult it can be to open up and feel vulnerable, especially when you're worried about being a burden or not being understood. It's completely valid to have those concerns. What helps you feel more grounded or in control when you're feeling this way? Are there any small steps you can take that feel manageable, even if they don’t involve talking to someone directly?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21807563304901123,
+    "aro_t": 0.09087264537811279,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "It's hard to find things that make me feel grounded when I'm feeling so anxious and alone. Sometimes I try to distract myself with work or hobbies, but it feels like a band-aid solution. I don't know if there's anything that really helps in a lasting way. When you say small steps, I'm not sure what that would look like for me. It feels like everything is so big and overwhelming right now.",
+    "therapist": "It sounds like you're really struggling with finding a sense of grounding and peace, and that the usual distractions aren't providing the relief you need. That can feel incredibly overwhelming. Small steps can be as simple as taking a few deep breaths, noticing the sensations around you, or spending a few minutes with a calming activity that you enjoy, even if it doesn’t feel like much at first. What do you think might be a small, manageable step you could try today to help you feel a bit more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15312838554382324,
+    "aro_t": 0.24393236637115479,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but it feels like even those small steps are a bit out of reach right now. It's hard because I can't shake this feeling of being overwhelmed, and I worry that even trying to do something small might just end up making me feel worse. I guess I'm just not sure where to start or if I even have the energy to try.",
+    "therapist": "I can hear how overwhelming and exhausting this all feels, and it’s completely understandable to worry that even small steps might feel too much right now. It’s okay to take a moment to acknowledge your feelings and give yourself permission to rest. Sometimes, just recognizing that you’re doing the best you can is a powerful step in itself. What do you think might help you feel a bit more supported or less alone in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21570003032684326,
+    "aro_t": 0.1452573537826538,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I really appreciate that, Luna. It does feel overwhelming, and sometimes I just don't know how to make it all better. I think what might help is having someone to just listen and be there, but it's hard to find people who really get it, you know? It feels like I'm always explaining myself, and that can be exhausting.",
+    "therapist": "I completely understand how exhausting it can be to constantly feel like you’re explaining yourself, and it’s so important to have someone who can just listen and be there for you without judgment. It sounds like you’re carrying a lot, and it’s okay to seek that kind of support. Have you thought about reaching out to a support group or online community where others might share similar experiences? Sometimes, connecting with people who truly understand can provide a sense of relief and validation.",
+    "condition": "emotion_text_only",
+    "val_t": -0.0473865270614624,
+    "aro_t": 0.23406624794006348,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It does feel exhausting sometimes. I've thought about joining a support group, but I worry that it might just add more pressure to open up and share my feelings, especially when I’m not always sure how to put them into words. It’s hard to imagine it being a safe space when I struggle with trust and feeling understood.",
+    "therapist": "I completely understand your concerns about joining a support group, especially when it feels like there might be added pressure to open up. It’s totally valid to worry about feeling understood and safe, especially when trust is a challenge. It’s okay to take your time and explore what feels right for you. Have you considered any other ways to connect with others who might share your experiences, even if it’s in a more low-pressure setting, like an online forum or a small, informal group? Or is there a specific activity that might help you feel more grounded and less alone?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05584144592285156,
+    "aro_t": 0.11217331886291504,
+    "text_emotion": "Neutral"
+  }
+]

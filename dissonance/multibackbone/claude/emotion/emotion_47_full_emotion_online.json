@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my grandfather passed away last month. There's this heavy sadness that just sits on my chest most of the time, and I can't seem to shake it no matter what I do. I also keep replaying all these moments where I could have visited more or called more, and honestly I'm not even sure talking about it is going to make any of that feel better.",
+    "therapist": "I'm so sorry for the loss of your grandfather — that heavy, lingering sadness you're describing makes complete sense, and it takes real courage to even show up and talk about it when part of you doubts it will help. Those replaying moments — the \"I should have visited more\" thoughts — are incredibly common in grief, and while they feel like truth right now, they're worth gently examining together. Can you tell me a little about what your grandfather meant to you, and what those visits or calls represented to you when they did happen?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36329030990600586,
+    "aro_t": 0.08162510395050049,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "He meant a lot to me — he was kind of the one person in my family who never made me feel judged, you know? When I did visit, we'd just sit on his porch and talk about nothing important, and somehow that always felt like enough. But now I keep thinking those visits were too rare, and no matter how good they were, there just weren't enough of them.",
+    "therapist": "What a beautiful and rare gift he gave you — that feeling of being completely accepted, no judgment, just peaceful connection on that porch. I notice that even as you describe those moments, there's a quiet tenderness there alongside the pain, which tells me those visits clearly *were* enough in a very real sense — they were deeply meaningful to both of you. I'm curious: if your grandfather were sitting with you right now, what do you think he would say about the way you're measuring the worth of your relationship by counting the visits?",
+    "condition": "emotion_text_only",
+    "val_t": 0.05305027961730957,
+    "aro_t": 0.11483609676361084,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I think he'd probably tell me to stop being so hard on myself, that he knew I loved him even when I wasn't there. But it's hard to actually believe that when I'm the one who has to live with the fact that I chose work or other things over visiting him, you know? Like, I can imagine the words, but they don't quite reach the part of me that still feels like I failed him.",
+    "therapist": "It's really meaningful that you can already hear his voice saying those words — that's not nothing, that's you accessing something true about who he was and how he saw you. The gap you're describing, between *knowing* something and *feeling* it in your bones, is one of the most human struggles there is, and it often points to a belief running underneath that's worth exploring — something like \"love has to be proven through presence, or it doesn't count.\" What do you think that belief might be costing you right now, beyond just the grief itself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23512864112854004,
+    "aro_t": 0.12292623519897461,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I think it's costing me a lot, honestly — like I keep measuring everyone in my life against this impossible standard where they have to be physically there, constantly, or I convince myself they don't really care. But I don't know if I buy that it's just a belief I can swap out, because it feels more like... evidence? Like his absence at the end really did happen, and I was alone in that hospital room, and no reframe changes that fact.",
+    "therapist": "You're absolutely right that no reframe erases what actually happened — you were in that hospital room, and that loneliness was real, and I don't want to gloss over that with a tidy cognitive swap. But I wonder if there's a difference between \"that painful moment happened\" and \"that moment is the full measure of everything\" — because the evidence you're describing is real, but it might be one piece of a much larger picture of who you were to each other. What would it mean for you if both things could be true at once — that you experienced a genuinely painful absence *and* that you were still a loving, present grandson in the ways that mattered most to him?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16624832153320312,
+    "aro_t": 0.1701197624206543,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me wants to believe that both things can be true at once. But it's hard, because in my mind that hospital room keeps feeling like the moment that counted most, like everything else I did before doesn't stack up against it. I guess I'm scared that if I let myself off the hook too easily, I'm just making excuses for something that was genuinely a failure on my part.",
+    "therapist": "There's something really honest and even conscientious about that fear — you don't want to let yourself off the hook too easily because you genuinely care about being a good person, and that actually says a lot about your character. But I want to gently ask: is there a difference between *making excuses* and *being fair to yourself* — because one dismisses what happened, while the other holds the full truth, including all the porch conversations and the love that was clearly there? What do you think it would look like to hold yourself accountable in a way that's honest, but not harsher than you would ever be to someone you loved?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27839934825897217,
+    "aro_t": 0.11268508434295654,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me actually wants to believe there's a difference between making excuses and being fair to myself. But when I try to apply that to my dad, it just feels like I'm building a case for the defense when really I should be sitting with the fact that I wasn't there enough in those last few years. I guess I'm scared that if I'm too gentle with myself, I'll just... let it slide, and then what was the point of any of it?",
+    "therapist": "There's something really poignant in what you just said — \"what was the point of any of it\" — because it sounds like part of you is using guilt as a way to keep the relationship alive, to make sure it *meant* something, which is actually a very tender impulse even if it's hurting you. But I want to offer a gentle challenge: the love you had with your grandfather, and whatever you're working through with your dad, doesn't need your suffering as proof of its importance — the meaning was already there, in the porch conversations, in the fact that you're still here carrying all of this. What do you think it would feel like to honor those relationships not through self-punishment, but through something that actually reflects the kind of person they saw in you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20035982131958008,
+    "aro_t": 0.12572193145751953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That's... a really hard thing to sit with, honestly. Because part of me knows what you're saying makes sense, but another part of me feels like if I stop punishing myself, it's like I'm just moving on and forgetting them, and that feels almost disloyal. I don't even know what \"honoring them\" would look like without the guilt attached to it, because the guilt has been so tangled up with how I think about both of them for so long.",
+    "therapist": "What you just named is so important — the guilt has quietly become the language you speak love in, and so releasing it feels like a betrayal rather than a healing, which makes complete sense given how long it's been woven into these relationships. But I wonder if loyalty and guilt are actually the same thing, or whether loyalty might also live in the way you carry their values forward, the way you show up for people you love now, even the way you're sitting here trying to understand yourself more honestly. What's one small thing — not grand, just quiet — that you think your grandfather would recognize as *you* honoring who he was to you, that has nothing to do with guilt?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3146880865097046,
+    "aro_t": 0.1071474552154541,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "That question kind of stopped me for a second, because I wasn't expecting it. I think... he used to say that showing up was everything, just being present and not running away from hard things, and I guess sitting here counts as that even if it doesn't feel heroic. But it's strange, because acknowledging that feels almost too easy, like I'm letting myself off the hook somehow.",
+    "therapist": "There's something quietly powerful happening right now — you just caught yourself doing the very thing your grandfather valued most, showing up and not running away, and then almost immediately your mind tried to take it away from you by calling it \"too easy.\" I wonder if that's worth noticing — that the bar you've set for yourself is so high that even genuine courage doesn't quite count. What if \"too easy\" is actually just what it feels like when something is finally, gently, true?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04620969295501709,
+    "aro_t": 0.11519777774810791,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe it... but another part of me just feels suspicious of it, like maybe it's too convenient, too neat of a reframe. Because if showing up to therapy once counts as courage, then what does that say about all the times I actually failed the people I care about, when I pulled away from my grandfather in those last months because I just couldn't handle watching him get weaker? That's the thing that sits in my chest like a stone, and I don't think a gentle reframe is going to move it.",
+    "therapist": "That stone in your chest — that's the real thing you've been carrying, and I'm glad it finally found words, because what you're describing isn't a failure of love, it's the unbearable weight of watching someone you adored slip away and not knowing how to hold that. Pulling back when someone we love is dying is one of the most human responses there is — not because we don't care, but often because we care so much that the pain becomes almost impossible to be near. I want to ask you gently: when you pulled away in those last months, what were you actually trying to protect yourself from, and do you think your grandfather — the man who never made you feel judged — would have recognized that in you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1999495029449463,
+    "aro_t": 0.1407073736190796,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I've been sitting with that question and... I think I was trying to protect myself from watching him become someone I didn't recognize anymore. He was always so sharp, so present, and seeing him confused and frail felt like losing him twice — once while he was still alive, and then again when he actually died. As for what he would have thought... I want to believe he'd understand, but there's this stubborn part of me that keeps saying I don't deserve that kind of grace.",
+    "therapist": "What you just described — losing him twice — is one of the most painful forms of grief there is, and the fact that you stayed away not out of indifference but out of love and self-protection speaks to something really important about who you are. I want to gently stay with that last thing you said, because \"I don't deserve that kind of grace\" is doing a lot of quiet damage — it's not a conclusion you arrived at through evidence, it's more like a verdict you handed down on yourself before the trial even started. Where do you think that belief that you don't deserve grace came from, and is your grandfather the only one you struggle to accept it from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3694946765899658,
+    "aro_t": 0.1913166046142578,
+    "text_emotion": "Angry"
+  }
+]

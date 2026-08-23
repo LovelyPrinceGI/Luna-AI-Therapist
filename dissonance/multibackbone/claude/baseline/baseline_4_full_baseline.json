@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. Every time there's a family get-together, I just can't seem to enjoy it — all I keep thinking about is that she's not there, and it makes me feel this hollow kind of sadness the whole time. I'm not even sure talking about it is going to change anything, because she's still gone no matter what I say here.",
+    "therapist": "I'm so sorry for the loss of your grandmother — the hollow sadness you're describing makes complete sense, and it speaks to how deeply she mattered to you. You're right that nothing we say here will bring her back, and I'd never want to suggest otherwise; but sometimes talking can help us carry the weight of grief a little differently, rather than alone. I'm curious — when you're at those family gatherings and that sadness washes over you, what kinds of thoughts tend to run through your mind about what it *means* that she's no longer there?",
+    "condition": "baseline",
+    "val_t": -0.4580061435699463,
+    "aro_t": 0.1490306854248047,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I guess the thoughts that come up are things like... \"She's the only one who really got me,\" and \"Now there's no one left in the family who I can actually talk to.\" It's like her being gone exposed this loneliness that was maybe always there, but she was kind of... papering over it, if that makes sense. And then I feel guilty for even thinking that, like I'm making her death about me somehow.",
+    "therapist": "What you're describing makes a lot of sense — grief often works like that, pulling back a curtain on feelings that were quietly there all along, and that doesn't diminish your love for her one bit. The guilt you're feeling is really common, but I'd gently ask you to consider: would your grandmother have thought you were being selfish for having these feelings, or might she have understood them? I'm also wondering — when you think about the belief that \"there's no one left who I can really talk to,\" is there any part of you that's uncertain about that, or does it feel completely true?",
+    "condition": "baseline",
+    "val_t": -0.42012298107147217,
+    "aro_t": 0.07849502563476562,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, when you ask what my grandmother would have thought... she probably would have told me I was being ridiculous for feeling guilty. She was like that, very practical, she'd say something like \"stop being so hard on yourself.\" But even knowing that, it doesn't really make the guilt go away, it's like my head understands it but my chest doesn't.\n\nAnd as for whether there's anyone else I can really talk to... I mean, there are people in my life, but it's not the same. With her I never had to explain myself or worry about being judged, and I just don't have that with anyone else right now. So it feels pretty true, even if I guess technically I'm not completely alone.",
+    "therapist": "That gap between what your head knows and what your chest feels is one of the most human experiences there is, and it's actually really meaningful that you could hear her voice so clearly just now — that practical, caring part of her still lives in you somewhere. What you had with her sounds genuinely rare and precious: that feeling of being known without having to earn it or explain yourself, and it makes sense that losing that would leave a specific kind of ache that \"technically not being alone\" doesn't touch. I'm wondering — has there ever been anyone else in your life, even briefly, where you've felt even a small fraction of that ease, or does it feel like she was truly one of a kind in that way?",
+    "condition": "baseline",
+    "val_t": -0.14908051490783691,
+    "aro_t": 0.10265254974365234,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I've been sitting with that question and... honestly, my first instinct is to say no, she was completely one of a kind, but then I remembered this guy I worked with about six years ago, Marcus, and there were maybe a handful of conversations where it felt like that, like I didn't have to perform being okay. But it was fleeting, and we lost touch, and I think part of me is scared to admit that because it feels like I'm somehow minimizing what I had with her if I say someone else came close, even a little. Does that make sense, or am I just making it more complicated than it needs to be?",
+    "therapist": "It makes complete sense, and I think you're actually being remarkably honest with yourself right now — noticing Marcus doesn't take anything away from your grandmother, any more than loving more than one person divides the love rather than multiplies it. What strikes me is that you've now found two pieces of evidence that quietly challenge the thought that \"there's no one who can ever really get me\" — her, and a glimpse of it with Marcus — which suggests this capacity for deep connection might live in you, not just in her. I'm curious: when you think about what made those conversations with Marcus feel safe, do you have a sense of what ingredients were there that allowed you to drop the performance, even briefly?",
+    "condition": "baseline",
+    "val_t": -0.10499989986419678,
+    "aro_t": 0.20356988906860352,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That's a good question, and I've been sitting with it... I think part of it was that Marcus and I were both kind of lost at the same time, like neither of us had anything to prove to the other. There wasn't this pressure to seem like I had it together, because he clearly didn't either. But I guess what worries me is that maybe that only worked because it was a specific moment in time, and I don't know if I could recreate that or if I'd just go back to performing again.",
+    "therapist": "What you've just identified is really insightful — that safety came from a kind of mutual vulnerability, where neither of you was performing for the other, and that's actually something you can bring to connections rather than just waiting for the perfect circumstances to align. It's worth gently noticing that right now, in this conversation, you've been remarkably un-performed — you've admitted guilt, uncertainty, fear, and a memory you almost didn't let yourself acknowledge, and the world didn't end. I'm wondering: when you imagine trying to bring even a small amount of that same honesty into a current relationship in your life, what feels like the biggest thing standing in the way?",
+    "condition": "baseline",
+    "val_t": -0.10885214805603027,
+    "aro_t": 0.11314582824707031,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe it's that simple — that I could just... let someone see me the way I've let myself be seen here. But this feels different, safer somehow, because you're a therapist and it's your job not to judge me, whereas with the people in my actual life, the stakes feel so much higher. If I show that kind of vulnerability to, say, my friend Marcus or my coworker Diane, and they pull back or get weird about it, I don't just lose the moment — I lose the relationship, or at least the version of it I've been carefully maintaining.",
+    "therapist": "You're naming something really real — the stakes *are* different with people you see at the barbecue or the office, and it would be dishonest of me to pretend otherwise. But I want to gently reflect something back: the version of those relationships you're protecting is one where you're performing, which means in a way you're already experiencing a kind of loneliness inside them — so I'm curious whether the \"safe\" version is actually giving you what you need, or just protecting you from a specific kind of pain. What do you imagine you might *gain* if you took a small, low-stakes risk with someone like Diane — not full vulnerability all at once, but just one small moment of not pretending to be completely okay?",
+    "condition": "baseline",
+    "val_t": -0.12363708019256592,
+    "aro_t": 0.17292523384094238,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That's... actually a hard thing to hear, because I think you're right that I'm already lonely in those relationships, but knowing that doesn't make the risk feel any smaller. Like, if I let Diane see that I'm struggling and she responds with some awkward platitude or just changes the subject, I think that would feel worse than the current distance — at least right now I can tell myself the closeness just hasn't happened yet. I guess what I might gain is some kind of... realness, but I'm honestly not sure I trust that the people in my life are capable of showing up for that.",
+    "therapist": "What you just said about being able to tell yourself \"the closeness just hasn't happened yet\" is really honest and worth sitting with — it's a way of protecting hope, but it also means the connection stays permanently in the future, always possible but never tested. And I notice you've shifted slightly from \"there's no one who can really talk to me\" to \"I'm not sure the people in my life are capable of showing up\" — which is a more open question, one that hasn't been answered yet rather than a closed door. I'm wondering: is there a small, specific moment you could imagine with Diane — not a big revelation, just a crack in the door — where you might let her respond and actually find out what she's capable of, rather than deciding for her in advance?",
+    "condition": "baseline",
+    "val_t": -0.10961735248565674,
+    "aro_t": 0.044292330741882324,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me knows you're right that I've been deciding for Diane before she even gets a chance. But when I actually try to picture that moment — like, telling her I've been feeling lonely or that I need more from our friendship — I feel this wave of dread, like I already know it'll be awkward and she'll say something well-meaning but completely miss the point. And then I'll feel worse than before, because at least right now I still have the \"maybe\" to hold onto.",
+    "therapist": "That dread is worth taking seriously, and I don't want to just talk you past it — but I'm curious about something: you've predicted the outcome so specifically, right down to her being well-meaning but missing the point, which makes me wonder if part of you has already rehearsed this scene many times and decided how it ends. The \"maybe\" you're holding onto is precious, I understand that, but I'm gently wondering whether it's also become a way of staying safe from finding out the truth — and whether living inside that uncertainty is actually more comfortable than the risk of being surprised, in either direction. What do you think it would mean for you if you did open that door with Diane and she *didn't* miss the point — would that feel like relief, or would some part of that be unsettling too?",
+    "condition": "baseline",
+    "val_t": -0.2920513153076172,
+    "aro_t": 0.1987823247909546,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That question kind of stopped me, honestly, because I hadn't thought about it that way before. Like, if Diane actually got it, actually understood what I've been carrying around... I think part of me would feel relief, but there's also something almost threatening about that, like it would take away the story I've been telling myself about being fundamentally alone in this. And that's a weird thing to admit, that maybe I'm protecting something by keeping that distance between us.",
+    "therapist": "What you just said takes real courage to admit, and it's actually a profound insight — that the story of being fundamentally alone, as painful as it is, might also be doing something for you, maybe protecting you from the vulnerability of actually being known and then possibly losing that, the way you lost your grandmother. It makes a certain kind of sense that after losing someone who truly saw you, part of you might not want to risk building that again. I'm wondering: when you sit with that idea — that the loneliness might be partly something you're maintaining, not just something happening to you — what comes up for you?",
+    "condition": "baseline",
+    "val_t": -0.17320668697357178,
+    "aro_t": 0.16034603118896484,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... when you put it that way, something in me wants to push back and say no, that's not it, I'm not choosing this. But then there's this other part that goes quiet, because honestly, there have been moments where someone wanted to get closer and I found a reason to pull away, and I told myself it was because they wouldn't really understand me anyway. I don't know if that's protecting myself or just... making sure the thing I'm afraid of doesn't get a chance to happen.",
+    "therapist": "The fact that one part of you wants to push back while another part goes quiet is really significant — that quieter part seems to know something important, and it took honesty and courage to let it speak just now. What you're describing, finding reasons to pull away before someone gets close enough to either truly see you or disappoint you, sounds less like a character flaw and more like a very understandable response to loving someone deeply and then losing them. I'm curious: when you think about those moments where someone wanted to get closer and you pulled away, do you have a sense of what it would have meant to let them in — what you were most afraid would happen?",
+    "condition": "baseline",
+    "val_t": -0.20107734203338623,
+    "aro_t": 0.1671590805053711,
+    "text_emotion": "Angry"
+  }
+]

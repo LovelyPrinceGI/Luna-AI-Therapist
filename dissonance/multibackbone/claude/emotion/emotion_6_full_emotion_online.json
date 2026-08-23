@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately with everything piling up at work. I'm a project manager, and my team missed a major deadline last week, and I just can't stop thinking about it — like it's playing on a loop in my head. I'm not even sure talking about it is going to fix anything, because the pressure isn't going away, it's just going to keep building.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — that constant mental replay after a missed deadline can be exhausting, almost like your mind won't let you rest even when you need it most. It makes sense that you'd feel skeptical about whether talking helps when the external pressure is still very real and ongoing. I'm glad you're here though, and I'd love to understand more — when that loop plays in your head, what's the thought that tends to come up most often?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24966037273406982,
+    "aro_t": 0.14253413677215576,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess the thought that keeps coming back is something like, \"You let everyone down, and now they all know you can't handle it.\" It's not just about the deadline itself — it's more like this feeling that it confirmed something I've always suspected about myself, that I'm not as capable as people think I am. And then I start worrying that my boss and my teammates are quietly reassessing me, like they're realizing they made a mistake trusting me with things.",
+    "therapist": "That thought — \"I've been found out, and now everyone can see I'm not really capable\" — is such a painful one to carry, and it sounds like this deadline didn't just feel like a setback, it felt like *proof* of something you've feared about yourself for a long time. This is actually something CBT has a name for: it's called the **impostor pattern**, where our mind latches onto one piece of evidence that confirms our worst fears while quietly ignoring all the evidence that contradicts it. I'm curious — if you were to look at the fuller picture, what's some evidence that *doesn't* fit the story that you can't handle this role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3372758626937866,
+    "aro_t": 0.15860819816589355,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and I know logically there must be some evidence that contradicts it, but right now my brain just... won't go there. Like, I can acknowledge that I've hit deadlines before, that my manager gave me positive feedback last quarter, but it all feels like luck or like I just fooled everyone for a while. It's hard to trust that evidence when this one failure feels so much more real and solid than any of the good stuff.",
+    "therapist": "What you're describing is so common and yet so frustrating — your mind is essentially applying different weights to the evidence, where failures feel like solid, undeniable facts and successes feel like smoke that could disappear at any moment. That's not a reflection of reality, it's actually a very well-documented thinking pattern called **discounting the positive**, and the fact that you can even name the good evidence — the met deadlines, the positive feedback — means it *is* in there, even if it doesn't feel convincing right now. I'd love to gently explore this with you: if a close colleague came to you describing their own success as \"just luck,\" what would you say to them, and does any part of you believe that when it's directed at yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15800344944000244,
+    "aro_t": 0.13823473453521729,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean, if a colleague said that to me, I'd probably tell them they're being too hard on themselves and that luck doesn't explain consistent results over time. But when I try to turn that around on myself, it just... doesn't land the same way, it feels hollow, like I'm just saying words I don't actually believe. I guess I can see what you're pointing at with the double standard, but knowing about it doesn't automatically make it go away.",
+    "therapist": "You've actually just named something really important — that *knowing* about a bias and *feeling* differently because of it are two very separate things, and it's okay that insight alone doesn't instantly rewire the feeling. That gap between understanding something intellectually and truly believing it is exactly where the real work happens, and it usually takes more than one conversation to build that inner voice into something that feels as solid as the critical one. I'm wondering — when you told yourself those reassuring words and they felt hollow, where do you think that hollowness is coming from — is it more like \"I don't deserve to believe this,\" or more like \"I just don't have enough evidence yet\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1786351203918457,
+    "aro_t": 0.10166811943054199,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Honestly, I think it's more the second one — like I just don't have enough evidence yet — but I'm not totally sure that's the whole story. When I try to tell myself \"people at work don't think you're incompetent,\" there's this immediate counter-voice that pulls up specific moments, like that time my manager gave me that look after a presentation, and suddenly the reassurance feels like I'm just making things up to feel better. It's like the critical voice has receipts and the kind voice is just guessing.",
+    "therapist": "I love how you put that — \"the critical voice has receipts and the kind voice is just guessing\" — that's a really sharp observation, and it points to something worth examining: that critical voice isn't necessarily a more *accurate* narrator, it's just a more *practiced* one that's had years to build its case. That look from your manager, for example — your mind filed it as evidence of incompetence, but there could be a dozen other explanations that never got the same airtime. What if part of the work here was helping the kind voice start collecting its own receipts — not making things up, but genuinely logging the moments that don't fit the \"incompetent\" story — do you think that feels like something worth trying?",
+    "condition": "emotion_text_only",
+    "val_t": 0.010968565940856934,
+    "aro_t": 0.052242159843444824,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe it could work, but honestly the idea of \"logging the moments\" feels a little forced to me. Like, if I have to go searching for evidence that I'm not incompetent, doesn't that already feel kind of desperate, or like I'm trying to convince myself of something that isn't true? I guess I'm worried it'll just feel hollow, like I'm collecting participation trophies while the real scoreboard still says what it says.",
+    "therapist": "That resistance makes a lot of sense, and I want to honor it rather than push past it — because you're not wrong that forcing yourself to collect evidence can feel artificial if it's coming from a place of desperation. But here's a reframe worth sitting with: lawyers on *both* sides of a case have to actively gather evidence — that's not desperation, that's just how you build a fair case, and right now your inner courtroom has only ever heard from the prosecution. The question isn't whether the kind voice is \"making things up,\" it's whether the critical voice has been the only one allowed to present — so I'm curious, does it feel different if we think of it less as \"convincing yourself\" and more as just... making sure the trial is actually fair?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24888944625854492,
+    "aro_t": 0.167191743850708,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That courtroom metaphor actually landed a little differently than I expected — like, I can see what you mean about the trial being one-sided. But I guess my worry is that even if I try to present the other side, the critical voice is just... louder, more practiced, it's been the only lawyer in the room for so long that I'm not sure the kind voice even knows how to argue back. It feels less like an unfair trial and more like showing up to debate someone who's had years of preparation while I'm just winging it.",
+    "therapist": "The image of showing up underprepared to debate a seasoned opponent is such a vivid way to describe it, and it actually tells me something hopeful — because you're not saying the kind voice *doesn't exist*, just that it's undertrained, and that's something that genuinely can change with practice over time. The critical voice feels so fluent and automatic precisely because it's had years of rehearsal, not because it's closer to the truth, and the kind voice will always feel clumsy and hesitant at first — that's just what it sounds like when something new is finding its footing. I'm wondering, can you think of even one moment recently where the kind voice managed to get a word in, however briefly — what did that feel like?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21883738040924072,
+    "aro_t": 0.15376031398773193,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I have to think about that for a second... there was this one moment last week when I missed a deadline at work and instead of just spiraling into \"you're incompetent and everyone knows it,\" there was this tiny flicker of something like \"okay, you're overwhelmed, that's why this happened.\" But it lasted maybe five seconds before the other voice bulldozed right over it, so it almost feels embarrassing to even count it. I guess I'm not sure if that qualifies, or if I'm just telling myself it does because you're asking me to find something.",
+    "therapist": "That five-second flicker absolutely counts — in fact, I'd say it's one of the most important things you've shared today, because it means the kind voice didn't just theoretically exist, it actually *showed up* in the exact moment it was most needed, even if it got drowned out quickly. And I want to gently push back on the embarrassment you feel about naming it — the fact that you almost didn't mention it, almost dismissed it as \"not qualifying,\" is exactly the pattern we've been talking about, where the critical voice gets to be headline news and the kind voice barely makes the footnotes. What do you think it would mean for you if that five-second moment was actually the beginning of something, rather than just a blip?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20221543312072754,
+    "aro_t": 0.19844532012939453,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe that... but honestly, calling it \"the beginning of something\" feels like a stretch. It was five seconds, and then I was right back to beating myself up for not calling my sister sooner, for being such a bad sibling. I guess I'm scared that if I make too much of it, I'll just end up disappointed when the critical voice comes roaring back like it always does.",
+    "therapist": "There's something really significant in what just happened — you started talking about work, and then almost without noticing, the weight shifted to your sister, which tells me this critical voice isn't just a work problem, it's more like a lens you carry everywhere that's always looking for the next place to land. And that fear of hoping — \"if I believe this could change, it'll hurt more when it doesn't\" — is actually one of the most understandable protective instincts there is, but it also means the critical voice wins by default, because you never quite let the other side build momentum. I'm curious, when you think about being a \"bad sibling,\" does that feel like a separate story, or does it have the same shape as the one we've been talking about at work?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2880101203918457,
+    "aro_t": 0.23808109760284424,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It does have the same shape, honestly, and that's kind of unsettling to realize right now. Like, it's the same voice telling me I'm not doing enough, I'm not showing up enough, I'm just fundamentally not enough — whether it's at work or with her. But I guess what I'm sitting with is... if it's the same voice everywhere, that feels even harder to fight, not easier, because where do you even start?",
+    "therapist": "What you just recognized is genuinely significant — that this isn't about work or your sister separately, it's one voice with a single, deeply held belief at its core: \"I am not enough.\" And I want to sit with you in how unsettling that feels, because it *is* a lot to take in, but here's the thing — fighting a hundred separate battles is exhausting, and what you've just done is identify that there's actually one source, which means there's also one place to start. If you were to put words to that core belief — not the work version or the sibling version, but the rawest form of it — what do you think it's really saying about you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1571129560470581,
+    "aro_t": 0.1689854860305786,
+    "text_emotion": "Angry"
+  }
+]

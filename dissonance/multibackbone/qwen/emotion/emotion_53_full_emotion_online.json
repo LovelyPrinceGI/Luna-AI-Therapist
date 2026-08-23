@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really anxious about the family reunion next month. My cousin always criticizes my career choices in front of everyone, and it makes me feel so embarrassed and defensive. I'm not sure if therapy can really help with this, but I thought I'd give it a try.",
+    "therapist": "Hi there, I'm glad you reached out. It sounds like the thought of the family reunion is bringing up a lot of anxiety, especially with the concern about your cousin's comments. It's completely understandable to feel embarrassed and defensive in those situations. How long have you been feeling this way about the upcoming reunion?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12888240814208984,
+    "aro_t": 0.26271700859069824,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for listening. I've been feeling anxious about the reunion for a couple of weeks now. Every time I think about it, I get this knot in my stomach, and I start worrying about what my cousin might say or how everyone will react to me. It's hard to shake off these thoughts.",
+    "therapist": "It's clear that these worries are really weighing on you, and it's normal to feel anxious when you're anticipating a difficult interaction. The knot in your stomach and the constant worry are telltale signs of that anxiety. Have you tried any strategies to manage these thoughts when they come up, or is there a particular part of the situation that feels most challenging to handle?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11819016933441162,
+    "aro_t": 0.22390949726104736,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, it's really tough. I've tried deep breathing and mindfulness, but it doesn't seem to make much of a difference. The part that feels the most challenging is imagining the worst-case scenario, like saying something stupid or being judged. It's hard to shake off those thoughts.",
+    "therapist": "It sounds like you're really putting in effort with deep breathing and mindfulness, and it's understandable that it can be frustrating when those techniques don't fully alleviate the anxiety. Imagining the worst-case scenarios can be particularly tough and can keep you stuck in a cycle of worry. Have you considered exploring some of the evidence for and against these worst-case scenarios? What might be some more balanced or realistic outcomes of the interaction with your cousin?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13830840587615967,
+    "aro_t": 0.08323860168457031,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you're trying to help me see things differently, but it's hard for me to imagine anything other than the worst-case scenarios. When I start thinking about talking to my cousin, my mind just goes to all the things that could go wrong. It feels overwhelming, and I'm not sure if trying to find evidence against those thoughts will actually make a difference.",
+    "therapist": "I can really understand how overwhelming and frustrating it must feel to keep getting stuck in those worst-case scenarios. It's completely normal to feel that way, especially when you've had negative experiences in the past. Let's try to break it down a bit more. Can you think of any times when things didn't go as badly as you expected, or even a small moment where the interaction was more neutral or positive? Sometimes, even a small example can help shift the balance a little.",
+    "condition": "emotion_text_only",
+    "val_t": -0.056690096855163574,
+    "aro_t": 0.20125043392181396,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, but it's really hard for me to think of those moments. It feels like every time I try to interact with people, things just spiral out of control. I guess there was one time when a colleague was more understanding, but that was a rare exception, and it didn't change how I generally feel about social situations.",
+    "therapist": "I hear you, and it's completely understandable that it feels like these negative experiences are the norm. It can be really challenging to find those moments of positivity when the negative ones stand out so much. Even though that one time with your colleague was rare, it's a reminder that not every interaction has to be negative. What do you think might help you feel more prepared or confident going into the family reunion? Are there any small steps you could take to make the situation a bit more manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03816080093383789,
+    "aro_t": 0.03394889831542969,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you're trying to help me see the positive, but it's hard to feel confident when I think about the family reunion. I worry so much about saying the wrong thing or being misunderstood. I guess I could try to prepare a few conversation starters, but it feels like that won't change the overall atmosphere. It's hard because my family dynamics are so complex and often tense.",
+    "therapist": "I completely understand how challenging and complex family dynamics can be, and it's totally normal to feel uncertain about how to navigate them. Preparing some conversation starters is a good step, even if it feels like a small one. It can help you feel more in control and give you a bit of a safety net. Have you thought about setting some personal goals for the reunion, like focusing on connecting with one or two family members who are more supportive? What do you think might help you feel more grounded and less overwhelmed during the event?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10436487197875977,
+    "aro_t": 0.07356369495391846,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your suggestions, Luna. It does make sense to have some goals, but I'm still really worried about how I'll actually handle things in the moment. It's hard because I feel like I can't predict how people will react, and that makes me anxious. I'll try to focus on connecting with a couple of supportive family members, but I'm not sure how to keep my anxiety from spiraling if things get tense.",
+    "therapist": "I can really understand how unpredictable family interactions can make you feel, and it's natural to be anxious about how things might unfold. Focusing on connecting with supportive family members is a great start, and it's okay to take it one step at a time. If you feel your anxiety starting to spiral, what are some grounding techniques or coping strategies you can use in the moment to help you stay centered? Maybe deep breathing, taking a short break, or even reminding yourself of your goals can make a difference. How do you think these strategies might help you during the reunion?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09940004348754883,
+    "aro_t": 0.1926950216293335,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestions, Luna. It's hard for me to imagine those strategies working in the heat of the moment, though. I feel like my anxiety can get so overwhelming that it's tough to remember to do something like deep breathing or taking a break. It's like my mind just spirals out of control, and I can't find a way to ground myself.",
+    "therapist": "I understand how overwhelming it can feel when your anxiety takes over, and it's completely normal to struggle with remembering coping strategies in the heat of the moment. It sounds like your anxiety can be very intense, and that makes it tough to find a way to ground yourself. Have you ever tried practicing some of these techniques in a calmer setting, so they become more automatic when you need them? Or is there a particular grounding technique that you've found helpful in the past, even a little bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07469666004180908,
+    "aro_t": 0.2225630283355713,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I've tried a few grounding techniques before, like deep breathing and focusing on my senses, but I often forget to use them when I'm really anxious. It's hard because when the anxiety hits, my mind just goes blank, and I can't think straight. I worry that practicing in a calmer setting won't make a difference when I'm in the thick of it.",
+    "therapist": "It sounds like your anxiety can be really intense and overwhelming, making it difficult to remember and use grounding techniques in the moment. That's a common challenge, and it's understandable that you might feel skeptical about practicing in a calmer setting. However, practicing these techniques regularly can help them become more automatic over time, even if it feels challenging at first. What do you think might make it a bit easier to remember these techniques when you're feeling anxious, or is there a particular technique you'd like to try practicing more?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13094162940979004,
+    "aro_t": 0.11031365394592285,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I understand that practicing these techniques in a calm setting can help, but it feels like a stretch to think I'll remember them when I'm in the thick of it. It's hard because when I'm really anxious, my mind just goes blank, and I feel like I can't focus on anything. Maybe if there was a way to make the techniques feel more natural, like a habit, it might help.",
+    "therapist": "I completely understand how challenging it can be to remember and apply techniques when you're in the midst of intense anxiety. It's a common struggle, and it's great that you're thinking about how to make these techniques feel more natural and habitual. One approach could be to practice them in small, manageable ways throughout your day, so they become more second nature. For example, you might try a quick deep breath or a brief sensory check-in whenever you notice a slight increase in anxiety. What do you think about incorporating these practices into your daily routine to see if they become more automatic over time?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0929875373840332,
+    "aro_t": 0.08242428302764893,
+    "text_emotion": "Neutral"
+  }
+]

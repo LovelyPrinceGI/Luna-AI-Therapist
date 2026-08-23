@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really anxious lately since I lost my job last month because of the downsizing. It's hard not to think about how I'm going to pay my rent next week, and that just adds to the stress. I sometimes wonder if therapy can really help me with these overwhelming feelings.",
+    "therapist": "It sounds like you're going through an incredibly tough time right now, and it's completely understandable to feel anxious about your situation. Losing a job can create a lot of uncertainty, especially when it comes to finances. It’s important to explore these feelings and how they impact your thoughts. Can you tell me more about the specific thoughts that come up when you think about your rent and future?",
+    "condition": "emotion_text_only",
+    "val_t": -0.366865873336792,
+    "aro_t": 0.14907121658325195,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I feel this heavy weight in my chest whenever I think about rent and my future. My mind races with thoughts about how I’m going to make ends meet, and it’s like a constant loop of worry. I can’t help but feel overwhelmed and a bit helpless, especially since I don’t have a backup plan.",
+    "therapist": "It sounds like you're feeling really trapped by these worries, and that heavy weight in your chest must be really uncomfortable. It’s understandable to feel overwhelmed, especially when you don’t have a clear plan in place. Let’s take a moment to explore those racing thoughts—what specific worries come up for you when you think about making ends meet?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3213745355606079,
+    "aro_t": 0.2282480001449585,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I really worry about not being able to pay my bills on time. I constantly think about how I’ll manage my rent, and the idea of falling behind makes me feel so anxious. It’s like this weight is always there, and even when I try to plan or budget, I just feel lost and overwhelmed.",
+    "therapist": "It sounds like you're carrying a heavy burden with your worries about bills and rent, and I can see how that would lead to feeling lost and overwhelmed. Even when you try to take practical steps like planning or budgeting, those anxious thoughts can make it hard to find clarity. What would it feel like to take a small step, even if it's just writing down your thoughts or exploring possible options?",
+    "condition": "emotion_text_only",
+    "val_t": -0.345015287399292,
+    "aro_t": 0.2111748456954956,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you recognizing how heavy this feels for me. Writing down my thoughts sounds simple, but I worry it might just make me feel more overwhelmed. What if I end up just fixating on everything I'm worried about instead of feeling any sense of relief?",
+    "therapist": "I really appreciate your honesty about your concerns with writing things down. It makes sense to worry that it could lead to more fixation rather than relief. Perhaps we can look at it as a way to gently acknowledge your thoughts without getting stuck in them. What if we tried to set a time limit for writing, or focus on just a few specific worries? Would that feel more manageable for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.058840155601501465,
+    "aro_t": 0.16184937953948975,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you're trying to make it feel less overwhelming, but I'm still skeptical about writing things down. It feels like every time I try to do that, I just end up spiraling deeper into my thoughts instead of acknowledging them. Plus, setting a time limit feels tricky—what if I can't get everything out that I need to in that short time?",
+    "therapist": "It's completely understandable to feel skeptical about writing things down, especially if past attempts have led to feeling even more overwhelmed. It sounds like the fear of not being able to express everything you need to is really holding you back. How about we explore some alternatives together? For instance, we could try talking through your thoughts instead, or perhaps focusing on just one worry at a time. What feels most comfortable for you right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10916554927825928,
+    "aro_t": 0.1251002550125122,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, but I'm still feeling a bit hesitant about talking through my thoughts. It feels like everything is jumbled up in my head, and I worry that if I focus on just one worry, I’ll forget the others that seem just as important. It’s hard for me to see how this will help when I often feel like I don’t express myself well anyway.",
+    "therapist": "I hear you—feeling hesitant and jumbled can make it really hard to know where to start. It’s okay to feel that way, especially when you have many important thoughts vying for your attention. Maybe instead of trying to tackle everything at once, we could find a way to gently prioritize the worries that feel most urgent for you right now. What do you think would help you feel more comfortable in expressing what’s on your mind?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17010629177093506,
+    "aro_t": 0.041852474212646484,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that you're trying to help me prioritize my thoughts, but honestly, it feels overwhelming to even pick one. Everything feels urgent to me, and I worry that if I focus on one thing, I'll neglect another important issue. Plus, I just don’t know if talking about it will really change anything for me.",
+    "therapist": "I can see how trying to choose just one worry feels like an impossible task when everything feels urgent and important. It’s completely valid to question whether talking about it will bring any change, especially when you're feeling overwhelmed. Instead of trying to tackle everything at once, what if we focused on simply sharing how these worries make you feel? Sometimes, just having a space to express those feelings can be a first step. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.037000417709350586,
+    "aro_t": 0.21056675910949707,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you’re saying about sharing my feelings, but it feels like I’m just going to sound repetitive or even silly. I have all these worries swirling around in my head, and they make me feel anxious and heavy, but talking about them seems like it won’t really change anything. What if I just end up feeling worse after sharing? It’s hard to believe that just expressing it will help.",
+    "therapist": "It’s completely understandable to feel hesitant about sharing your worries, especially when you're concerned it might feel repetitive or not lead to any relief. Those swirling thoughts can make it seem like expressing them won’t change anything, but sometimes voicing them can help lighten that heavy feeling, even just a little. What if we tried to explore one of those worries together, without the pressure of finding a solution? It might help to just let it out, and we can see where it takes us. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2334686517715454,
+    "aro_t": 0.11908173561096191,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess it sounds okay, but I worry that opening up won’t really change anything. I often feel like I’m just repeating myself without making any progress. Sometimes it feels like I'm stuck in this loop of anxiety and guilt, and I’m not sure how talking about it will help me feel any lighter.",
+    "therapist": "It sounds really frustrating to feel like you’re stuck in a loop of anxiety and guilt, and it's understandable to worry that opening up might not lead to any meaningful change. That sense of repetition can make it feel like you’re not making progress, which can be really disheartening. Let’s take a moment to acknowledge those feelings—what do you think is at the heart of this loop for you? I’m here to help you sift through it.",
+    "condition": "emotion_text_only",
+    "val_t": -0.24325013160705566,
+    "aro_t": 0.03689253330230713,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you acknowledging how frustrating it is. I think the heart of this loop for me is this constant feeling of not being good enough, which leads to guilt about not living up to expectations—both my own and others'. It feels like I’m always in this cycle of second-guessing myself, and I just don’t know how to break free from it.",
+    "therapist": "It sounds like you’re dealing with a heavy burden of feeling not good enough, and that cycle of second-guessing can be really exhausting. It’s understandable to feel guilty about not meeting those expectations, especially when they come from both yourself and others. What if we explored where those expectations come from? Sometimes, understanding their roots can help us see them in a new light. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18145644664764404,
+    "aro_t": 0.13999366760253906,
+    "text_emotion": "Angry"
+  }
+]

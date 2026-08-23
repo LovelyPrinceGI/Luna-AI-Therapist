@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling at work lately — I'm a project manager and things have just been piling up more and more, and then last week my team missed a major deadline, which made everything feel even worse. I keep replaying it in my head, wondering what I could have done differently, and I can't seem to turn that off even when I'm at home. Honestly, I'm not totally sure talking about it is going to fix anything, but I figured I should at least try something.",
+    "therapist": "It takes real courage to reach out even when you're not sure it will help, and I'm glad you gave it a try. The way you're replaying that missed deadline over and over sounds genuinely exhausting — like your mind is stuck in a loop trying to solve something even when you need rest. I'm curious, when that replay happens, what's the thought that tends to come up most strongly — is it more about what *you* should have done, or something else entirely?",
+    "condition": "baseline",
+    "val_t": -0.30676698684692383,
+    "aro_t": 0.12353932857513428,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's definitely more about what I should have done. Like, the thought that keeps coming back is \"you knew this was coming, why didn't you just start earlier\" — and it just loops on repeat. It makes me feel like I'm fundamentally lazy or irresponsible, not just someone who made a mistake this one time.",
+    "therapist": "That thought — jumping from \"I made a mistake\" to \"I am fundamentally lazy and irresponsible\" — is such a painful leap, and it's really worth noticing that distinction, because one is about a single event and the other is a verdict on your whole character. I'd gently ask: if a trusted colleague came to you and said they'd missed a deadline, would you conclude they were fundamentally lazy, or would you look for other explanations? What do you think it says that you're holding yourself to a completely different standard than you'd apply to someone else?",
+    "condition": "baseline",
+    "val_t": -0.2950986623764038,
+    "aro_t": 0.1287907361984253,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, if a colleague told me they missed a deadline, I'd probably assume they had too much on their plate or something came up, I wouldn't just write them off as lazy. But when I try to apply that same thinking to myself, it feels almost like I'm making excuses, like I'm letting myself off the hook too easily. I guess I don't really trust myself to be honest about whether I actually had a good reason or whether I'm just... avoiding responsibility again.",
+    "therapist": "What you just noticed is really insightful — there's a kind of double bind happening where self-compassion feels like dishonesty to you, which means you can never quite win. I'm wondering if that fear of \"letting yourself off the hook\" might actually be evidence *against* the idea that you're irresponsible — because someone who truly avoided accountability probably wouldn't be this worried about it. What do you think it would feel like to hold yourself accountable for the mistake *and* acknowledge that circumstances played a role, without those two things canceling each other out?",
+    "condition": "baseline",
+    "val_t": -0.20674514770507812,
+    "aro_t": 0.09812211990356445,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That's... actually kind of a relief to hear, that being worried about it might mean I'm not as irresponsible as I think. But I'm not sure I fully buy it yet, because it feels like I could just be someone who worries a lot AND is still irresponsible. The idea of holding both things at once — like, yes I made a mistake, and yes the situation was complicated — honestly just feels slippery to me, like I'd be using the circumstances as an excuse without really meaning to.",
+    "therapist": "That worry — that you might be fooling yourself without even realizing it — actually shows a really honest, self-aware mind at work, and that's worth acknowledging. The \"slippery\" feeling makes a lot of sense, but there's a difference between using circumstances as an excuse to avoid learning anything, versus acknowledging them so you can understand what *actually* happened and respond more effectively next time. I'm curious — if you were to look at the lead-up to that deadline as neutrally as possible, like a project post-mortem rather than a personal trial, what factors would you actually put on the list?",
+    "condition": "baseline",
+    "val_t": -0.08127832412719727,
+    "aro_t": 0.14825916290283203,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I like the idea of a \"project post-mortem\" framing, it does feel a little less like I'm on trial. But when I actually try to list the factors, I keep second-guessing whether I'm being honest or just building a case for myself. I guess if I'm really trying to be neutral... the anxiety started spiking about a week before the deadline, I was sleeping badly, and I kept avoiding the work because opening the file felt like confirming how behind I was.",
+    "therapist": "What you just described — avoiding the file because opening it felt like confirming how behind you were — is actually a really well-known anxiety pattern, where the thing that could help feels too threatening to approach, so the avoidance grows and makes everything worse. That's not laziness, that's anxiety doing what anxiety does. I'm wondering, when you look at that spiral — the stress, the poor sleep, the avoidance — does it change at all how you'd describe the person who was managing that week?",
+    "condition": "baseline",
+    "val_t": -0.19012844562530518,
+    "aro_t": 0.12689006328582764,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me gets it intellectually — like, okay, it's anxiety, not laziness. But honestly, it doesn't really change how I feel about myself in that moment, because I still didn't get the work done, and other people managed to, so the result is the same regardless of the reason. It's hard to give myself a pass just because there's a name for what I was doing.",
+    "therapist": "That gap between understanding something intellectually and actually *feeling* it differently is so real, and it's important that you named it — that's not a failure of insight, it's just how change actually works, it rarely happens all at once. The comparison to others who \"managed to\" is worth gently examining though, because you're comparing your internal experience — the anxiety, the sleep deprivation, everything you just described — to their external outcome, without knowing what was happening inside them. What do you think it would take, not to give yourself a pass, but just to hold a little more curiosity about your own experience rather than using other people's results as the only measuring stick?",
+    "condition": "baseline",
+    "val_t": -0.11225259304046631,
+    "aro_t": 0.10183823108673096,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me gets it — like, I can't actually see inside anyone else's head, so comparing myself to them isn't really fair. But honestly, curiosity feels like a luxury right now, because when I'm lying awake at 3am replaying everything I did wrong on that project, it doesn't feel like a space where I can just get curious and detached about it. It feels more like I'm stuck in this loop where the anxiety just keeps feeding itself, and I don't know how to step outside of it long enough to even try what you're describing.",
+    "therapist": "That 3am loop sounds genuinely exhausting, and you're right that \"just get curious\" isn't very useful advice when anxiety has already hijacked the moment — so I want to acknowledge that what I described is much easier said than done in those specific hours. What might actually help is having a small, concrete thing to do *when* the loop starts, not to solve the problem, but just to interrupt the spiral enough to give your nervous system a little breathing room. I'm wondering — when you're in that loop at 3am, is there anything, even something small or seemingly unrelated, that has ever helped you feel even slightly less stuck?",
+    "condition": "baseline",
+    "val_t": -0.18892133235931396,
+    "aro_t": 0.24065029621124268,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "Honestly, sometimes when it gets really bad I'll just get up and make tea, not because it helps me sleep or anything, but just to have something to do with my hands. But then I end up sitting at the kitchen table still running through all the same thoughts, just now with a mug in front of me, so I'm not sure it actually breaks anything. It feels more like I'm just moving the anxiety to a different room.",
+    "therapist": "Moving the anxiety to a different room is actually more significant than it might seem — you're already doing something instinctively to interrupt the physical experience, which is a real skill, even if the thoughts follow you there. What might be worth experimenting with is giving that tea moment a small additional anchor — something that gently occupies your mind just enough to loosen the loop's grip, like a simple grounding exercise, slow breathing, or even a deliberately boring podcast — not to force the thoughts away, but to give your brain something else to lightly hold alongside them. When you imagine that kitchen table moment, is there anything that feels like it might be a natural fit to try layering in, or does even that feel like too much to ask of yourself at 3am?",
+    "condition": "baseline",
+    "val_t": -0.21188044548034668,
+    "aro_t": 0.1368011236190796,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "Honestly, the idea of a podcast or something like that at 3am feels a bit... I don't know, forced maybe? Like I'd just be lying there listening to some stranger's voice while my brain is still screaming at me about everything I did wrong that day. I guess slow breathing might be the most realistic thing, but even that feels like it takes effort I don't really have in those moments when the guilt is already sitting heavy on my chest.",
+    "therapist": "That image of guilt sitting heavy on your chest is really vivid, and it tells me the anxiety isn't just in your thoughts at that point — it's physical, and that actually makes slow breathing more relevant, not less, because even one or two slower breaths can gently signal to your body that it's not in immediate danger, without requiring much from you mentally. It doesn't have to be a formal exercise — it could be as small as just one slow exhale while you're holding that mug, something your hands are already doing anyway. I'm curious, when you notice that heaviness in your chest, do you tend to fight it or try to push through, or does some part of you ever just let yourself sit with it for a moment?",
+    "condition": "baseline",
+    "val_t": -0.22438538074493408,
+    "aro_t": 0.19073140621185303,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Honestly, I mostly try to push through it — like if I just keep moving or stay busy, maybe it won't catch up with me. But sometimes late at night when I can't distract myself anymore, it just kind of... sits there, and I don't really have a choice but to feel it. I'm not sure if that counts as \"sitting with it\" or if I'm just too exhausted to fight it anymore.",
+    "therapist": "There's actually something really meaningful in what you just described — those moments when you're too exhausted to fight might be the closest you get to genuine rest from the struggle, even if they don't feel that way. Whether it's \"real\" acceptance or just exhaustion, your nervous system gets a brief break either way, and that's not nothing. I'm wondering, in those moments when the heaviness just sits there and you stop fighting it, does anything shift at all — even slightly — or does it feel exactly the same as when you're actively pushing against it?",
+    "condition": "baseline",
+    "val_t": -0.13815689086914062,
+    "aro_t": 0.07615101337432861,
+    "text_emotion": "Angry"
+  }
+]

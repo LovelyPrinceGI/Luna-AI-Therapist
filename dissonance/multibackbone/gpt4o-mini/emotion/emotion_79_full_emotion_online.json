@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. It's like this heavy sadness just hangs over me all the time, and I can't seem to shake it off. Even simple things like getting out of bed or focusing on work feel so difficult right now, and I’m starting to wonder if talking about it in therapy will even make a difference.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing. It sounds incredibly overwhelming to carry that heavy sadness and struggle with daily tasks. It's completely understandable to question whether talking about it will help, but sometimes sharing our feelings can be a vital step in processing our grief. What do you think might be the most difficult part about opening up in therapy?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3431704044342041,
+    "aro_t": 0.21767723560333252,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess the hardest part is feeling like my emotions are just too much to handle. I worry that if I start talking about my grandmother, I'll just fall apart completely. It feels overwhelming to think about opening up, especially since I’m not sure if it will actually help me feel better in the long run.",
+    "therapist": "It sounds like you're really grappling with the fear of being overwhelmed by your emotions, especially when it comes to talking about your grandmother. It’s completely normal to feel apprehensive about opening up, particularly when it feels like your emotions might spill over. Remember, it’s okay to take small steps in therapy; you don’t have to dive into everything at once. What do you think might help you feel a bit more comfortable when discussing your feelings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1699446439743042,
+    "aro_t": 0.20290374755859375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that you understand my fear of being overwhelmed, but it's still really tough to think about opening up about my grandmother. I often feel like if I start talking, I won't be able to stop, and that just makes me more anxious. It's hard to imagine how small steps could make a difference when the emotions feel so big and heavy.",
+    "therapist": "It sounds incredibly challenging to face the idea of opening up when your emotions feel so big and heavy. It's completely understandable to worry about losing control if you start talking about your grandmother. Perhaps we can explore some gentle ways to approach your feelings, like starting with a memory or a specific moment that feels manageable. What do you think might be a small step you could take that feels less daunting?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20633625984191895,
+    "aro_t": 0.20908856391906738,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that suggestion, but I honestly don't know if any memory feels manageable right now. My grandmother's passing has left such a heavy weight on me, and just thinking about her brings up so many feelings that I can't quite sort out. It feels like I'm stuck in this loop of sadness and guilt, and I'm not sure how to even begin to express that without spiraling.",
+    "therapist": "I can sense how deeply you're feeling the weight of sadness and guilt right now, and it's completely understandable to feel stuck in that loop. It must be really tough to navigate those intense emotions when they feel so overwhelming. Sometimes, it can be helpful to focus on what you’re experiencing in the moment rather than trying to sort everything out at once. What do you think you might need most right now to help you take a small step forward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.274295449256897,
+    "aro_t": 0.10993564128875732,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, Luna. It feels like I'm stuck in this cycle of sadness and guilt, and it's hard for me to even think about what a small step might look like. I often feel like I need to sort everything out before I can move forward, but it feels impossible to do that when I’m this overwhelmed.",
+    "therapist": "It sounds like you're feeling trapped in a cycle of sadness and guilt, and I can understand how frustrating it must be to want to sort everything out but feel overwhelmed in the process. It's okay to not have all the answers right now; sometimes, just acknowledging those feelings is a step in itself. What if we focused on what you’re feeling in the moment, without pressure to sort it all out? Would it help to explore one specific feeling or thought that’s been particularly heavy for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14858627319335938,
+    "aro_t": 0.16748392581939697,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you saying that it's okay to not have all the answers right now. I guess one feeling that’s been really heavy is guilt, especially when I think about how I’ve let people down in my life. It just lingers with me, and I often feel like I’m not doing enough or that I’m failing somehow. It’s hard to shake that off and focus on anything else.",
+    "therapist": "It's really tough to carry that heavy feeling of guilt, especially when it feels like you're letting people down or not doing enough. It’s understandable to feel that way during such a difficult time, and it can be hard to focus on anything else when those thoughts linger. Maybe we can try to explore the evidence behind those feelings of guilt—are there specific situations or thoughts that lead you to feel this way? What would you say to a friend who was feeling similarly?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25478053092956543,
+    "aro_t": 0.05080235004425049,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that, but it’s hard to shake off this guilt. I keep thinking about how I haven't been able to be there for friends and family during tough times, and it eats away at me. If a friend came to me with the same feelings, I would probably tell them that it’s okay to not be perfect and everyone has their struggles, but I can't seem to give myself that same grace.",
+    "therapist": "It sounds like you're really being hard on yourself for not being there for others, and I can see how that guilt is weighing heavily on you. It’s so compassionate of you to offer your friends understanding and grace, yet it feels much harder to extend that same kindness to yourself. It might be helpful to reflect on what you truly need during this time—how can you offer yourself some of that same compassion you would give a friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16256046295166016,
+    "aro_t": 0.10867643356323242,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate what you're saying about compassion, but it's really hard for me to turn that kindness inward. I keep thinking about all the times I could have done more for my friends, and it feels selfish to focus on my needs right now. I don’t know how to shift my mindset when guilt keeps creeping back in.",
+    "therapist": "It’s understandable that you find it difficult to turn that kindness inward, especially when guilt is such a strong presence. It sounds like you’re feeling torn between wanting to care for others and acknowledging your own needs. Remember, taking care of yourself doesn’t mean you’re neglecting others; in fact, it can help you be more present for them in the long run. What might it look like for you to begin prioritizing your own needs, even in small ways?",
+    "condition": "emotion_text_only",
+    "val_t": -0.319543719291687,
+    "aro_t": 0.06970727443695068,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you’re saying about taking care of myself helping me be more present for others, but it just feels so selfish to even think about it. I keep feeling this nagging guilt that if I focus on myself, I’ll be letting other people down. It’s hard to imagine what prioritizing my own needs would even look like, especially when I’ve always put others first.",
+    "therapist": "It sounds like you're really struggling with the idea of prioritizing your own needs, feeling that it might mean letting others down. It’s completely normal to feel that way, especially if you’ve always put others first. However, taking time for yourself doesn’t diminish your care for others; it can actually enhance your ability to support them. What’s one small thing you might be able to do for yourself that feels manageable, without adding to that guilt?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3160654306411743,
+    "aro_t": 0.06601119041442871,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate what you're saying, Luna, but it feels really hard to think about doing something for myself without feeling guilty. I always worry that if I take time for myself, it will leave others hanging or disappointed. I guess I’m just not sure how to balance my needs with everyone else's expectations.",
+    "therapist": "It’s completely understandable to feel that tension between your needs and the expectations of others, especially when you've been so dedicated to caring for them. It sounds like you’re feeling a lot of pressure to meet those expectations, which can make it really challenging to think about self-care without guilt. Balancing your needs with those of others is important, and it might help to explore what that balance could look like for you. What’s one small way you could begin to prioritize your needs while still feeling connected to those you care about?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17359280586242676,
+    "aro_t": 0.060091495513916016,
+    "text_emotion": "Sad"
+  }
+]

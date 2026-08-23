@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been feeling really overwhelmed lately. My mom's Alzheimer's has gotten worse, and I'm finding it harder to keep up with all the demands of taking care of her. I know I should be grateful to be able to help her, but sometimes I just feel so drained and unsure if I can keep doing this.",
+    "therapist": "Hi there, I'm so glad you reached out. It's completely understandable to feel overwhelmed and drained given everything you're juggling with your mom's care. How have you been coping with these feelings, and are there any moments when you feel a bit more resilient?",
+    "condition": "baseline",
+    "val_t": -0.25397658348083496,
+    "aro_t": 0.21527612209320068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough, and most days I just feel so drained and guilty. I try to find moments to take a break, but it feels like I can never fully relax because I'm always worrying about my mom or feeling like I should be doing more. Sometimes I feel like a failure because I can't manage it all.",
+    "therapist": "I can hear how tough this is for you, and feeling both drained and guilty is such a heavy burden to carry. It's natural to want to do everything you can for your mom, but it's also important to recognize that taking care of yourself is not a luxury but a necessity. What are some small ways you might allow yourself to relax or recharge, even if just for a few minutes at a time?",
+    "condition": "baseline",
+    "val_t": -0.21168029308319092,
+    "aro_t": 0.11216294765472412,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know you're right, but it feels selfish to take time for myself when my mom needs so much help. I worry that if I take even a few minutes to relax, something might happen, and I won't be there for her. It's hard to justify that time for myself when I feel like every moment counts.",
+    "therapist": "I completely understand that feeling of guilt and the worry that something might happen if you take a moment for yourself. It's a common concern, and it shows how much you care for your mom. At the same time, it's important to remember that taking care of yourself isn't selfish; it's essential for you to be able to continue supporting her effectively. Have you ever noticed how you feel or function after taking even a short break, and how that might impact your ability to care for your mom?",
+    "condition": "baseline",
+    "val_t": -0.21519410610198975,
+    "aro_t": 0.10359489917755127,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, and I know it's important to take care of myself. But it's hard because every time I take a break, I feel this intense guilt. I worry that something could happen while I'm not there, and I'd blame myself for it. It's just really tough to shake that feeling.",
+    "therapist": "I can really hear how much you're struggling with that guilt and worry. It's completely understandable to feel that way, especially given the responsibility you have. It might be helpful to explore what some of those automatic thoughts are when you take a break—like the fear that something could happen. How do you think those thoughts might be impacting your ability to take care of yourself and, in turn, your mom?",
+    "condition": "baseline",
+    "val_t": -0.38842177391052246,
+    "aro_t": 0.03684842586517334,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I feel like those thoughts are just always there, you know? They make it really hard to relax or take time for myself because I'm always worried something could go wrong. I don't know how to turn them off, and it feels like if I do, I might miss something important.",
+    "therapist": "It sounds like those thoughts are really persistent and can make it incredibly difficult to find any peace. It's understandable to feel that way, especially when you're so deeply invested in your mom's care. One thing we can try is gently challenging those thoughts by looking at the evidence. For example, how often has something actually gone wrong when you've taken a short break, and how might taking care of yourself actually help you be more present and effective when you're with your mom?",
+    "condition": "baseline",
+    "val_t": -0.29226207733154297,
+    "aro_t": 0.062117695808410645,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you're saying, and I know it makes sense logically, but it's hard to shake the feeling that if I take a break, something will go wrong. I've been so focused on making sure she's okay that I worry taking time for myself might make me less attentive when I need to be. It's hard to trust that taking care of myself won't backfire.",
+    "therapist": "I completely understand how challenging it is to trust that taking care of yourself won't backfire, especially when you're so focused on ensuring your mom's well-being. It's a very real concern. One thing we can explore is the idea of a small experiment. What if you tried taking a very short break, maybe just 5-10 minutes, and then reflected on how you feel afterward? Did it affect your attentiveness or ability to care for your mom in a negative way, or did it perhaps help you feel more refreshed and present?",
+    "condition": "baseline",
+    "val_t": -0.1338796615600586,
+    "aro_t": 0.046739816665649414,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I see where you're coming from, but I'm really worried that even a short break might make me feel guilty or distracted. It's hard because I feel like every moment I'm not directly helping her is a moment wasted, and that just adds to my anxiety. I don't think taking a break will help me feel more refreshed; it might just make me feel worse.",
+    "therapist": "I hear your concerns very clearly, and it's completely understandable to feel that way given how much you care for your mom. It's a tough balance, and it's okay to feel unsure about taking a break. What if we explore some alternative ways to recharge that might feel less like a break and more like a way to support both of you? For example, could you find a small activity that you both enjoy, or perhaps involve someone else in her care for a short time so you can have a moment to yourself without feeling guilty? How do you think that might feel?",
+    "condition": "baseline",
+    "val_t": -0.3304327726364136,
+    "aro_t": 0.1436671018600464,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It's just hard because I feel like any time I take for myself, even a little, she seems to notice and it makes her upset. I worry that involving someone else might just add more stress to the situation. How can I make sure that I'm not making things worse for her?",
+    "therapist": "I understand how challenging that must be, and it's very thoughtful of you to consider your mom's feelings in everything you do. It's natural to worry about adding more stress, especially when she seems to notice your absence. One approach could be to gradually introduce small changes and see how they go. For example, you might start by finding a short, shared activity that you both enjoy, which can give you both a moment of respite and connection. How do you think that might work, and are there any activities you've both enjoyed in the past that you could try again?",
+    "condition": "baseline",
+    "val_t": -0.2044379711151123,
+    "aro_t": 0.18793940544128418,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I like the idea of gradually introducing changes, but I'm worried that even small activities might feel forced or awkward. My mom and I used to enjoy watching movies together, but lately, even that feels tense. I don't want to make things worse by trying to force a connection.",
+    "therapist": "I can understand how even activities you used to enjoy together might feel forced or tense now, and it's natural to worry about making things worse. It might be helpful to start with something very simple and low-pressure, like a short walk or a quiet activity that doesn't require much conversation. Sometimes, just being present in a calm, shared space can be comforting. How do you think your mom might respond to a gentle, low-key activity like that?",
+    "condition": "baseline",
+    "val_t": -0.11893916130065918,
+    "aro_t": 0.10259091854095459,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestion, but I'm still pretty anxious about it. My mom can be really sensitive, and I worry that even a simple walk might lead to some kind of argument or awkward silence. I don't want to make things worse, you know?",
+    "therapist": "I totally understand your anxiety about trying something new, especially given how sensitive your mom can be. It's important to approach things gently and with care. Maybe we can start even smaller, like just sitting together in a quiet room or a comfortable spot where you both can relax without any specific expectations. Sometimes, just being in the same space without the pressure to do or say anything can be comforting. How does that feel to you, and do you think it might be a bit easier to manage?",
+    "condition": "baseline",
+    "val_t": -0.2138301134109497,
+    "aro_t": 0.13711297512054443,
+    "text_emotion": "Angry"
+  }
+]

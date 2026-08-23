@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my partner passed away six months ago from cancer. Everything just feels kind of gray and empty, like I go through the motions every day but nothing actually feels meaningful anymore. I'm not even sure talking about it is going to change anything, but I guess I'm here because I didn't know what else to do.",
+    "therapist": "Thank you so much for being here, and for finding the courage to reach out even when it felt uncertain — that matters more than you might realize right now. What you're describing, that gray, going-through-the-motions feeling after losing your partner, sounds deeply exhausting and lonely, like you're carrying something very heavy while the world just keeps moving around you. I want you to know this space is yours, and we can go at whatever pace feels right — can you tell me a little about what a typical day looks like for you lately?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2797924280166626,
+    "aro_t": 0.0722048282623291,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, a typical day... I don't know, I wake up and the first few seconds are okay, and then it just hits me again that she's not there. I go through the motions — make coffee, maybe eat something, stare at my phone for a while — but it all feels kind of pointless, like I'm just filling time until I can go back to sleep. The evenings are the worst, honestly, because that's when we used to actually talk and be together, and now it's just this awful quiet.",
+    "therapist": "Those first few seconds in the morning before it hits you again — there's something particularly heartbreaking about that, like your mind briefly offers you a moment of peace before the loss rushes back in. And the evenings sound especially painful, because that quiet isn't just silence — it's the absence of *her*, of something that was warm and real and yours. I'm wondering, in those long evening hours, what does your mind tend to do — does it drift toward memories of her, or more toward thoughts about the future, or something else entirely?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2086399793624878,
+    "aro_t": 0.06376683712005615,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "It kind of does both, honestly — I'll start replaying specific memories, like the way she'd curl up next to me on the couch, and then before I know it my mind spirals into this terrifying thought that no one will ever know me like that again. It's like the memories are almost comforting for a second, but then they turn into evidence for how alone I'm going to be. And that's the part that really scares me — not just missing her, but feeling like that kind of closeness is just... gone now, permanently.",
+    "therapist": "That shift you're describing — from a tender memory to a terrifying conclusion about the rest of your life — is such a painful spiral, and it makes a lot of sense that it frightens you. What I want to gently notice is that your mind is taking something real, the depth of what you two shared, and using it as proof of a future that hasn't happened yet. That thought, \"no one will ever know me like that again,\" feels absolutely true right now — but I'm curious, if you examine it closely, is it something you *know*, or something you *fear*?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21459949016571045,
+    "aro_t": 0.20714199542999268,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and I know intellectually that it's a fear and not a fact. But it doesn't feel that way — it feels like evidence, like every quiet moment I've had since he left just confirms it. I guess I'm scared that if I let myself believe it's just a fear, I'll stop taking it seriously and end up blindsided again.",
+    "therapist": "What you just said is really important — there's a part of you that's holding onto this fear almost protectively, like it's keeping you safe from being hurt the way you were hurt before. That makes so much sense after a loss this profound; your mind is trying to shield you, even if the shield is also causing you pain. I'm wondering — do you think there's a difference between *taking grief seriously* and *accepting a permanent verdict about your future*, or does that distinction feel impossible to hold onto right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31876468658447266,
+    "aro_t": 0.2428455352783203,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I think I understand the distinction you're making, but honestly, in the moment it feels almost impossible to separate them. Like, when I'm actually in it — when it's late at night and the loneliness just hits — grief and \"this is just how it's going to be forever\" feel like the same thing. I guess part of me worries that if I let myself believe the future could be different, I'm somehow betraying how serious this loss was.",
+    "therapist": "That fear of betrayal is so tender and so understandable — like staying in the pain is a way of honoring her and the magnitude of what you lost. But I want to offer you a gentle reframe: believing your future could hold meaning and connection again isn't a statement about how much she mattered — it might actually be a reflection of *how much she taught you about love*. I'm curious, what do you think she would have wanted for you in these quiet, lonely evenings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2926899194717407,
+    "aro_t": 0.112068772315979,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I've thought about that before, actually, and I know she would have wanted me to be okay — she always worried about me being alone even when she was still here. But hearing you say it out loud makes me feel almost guilty, like if I let myself believe that, I'm using her as permission to stop grieving. It's hard to explain, but moving forward feels like it would prove that the loneliness without her isn't actually unbearable, and some part of me needs it to be unbearable.",
+    "therapist": "What you just said takes real courage and self-awareness — that you *need* the pain to be unbearable because its unbearability is proof of how irreplaceable she was. There's something almost loyal about that, like the grief itself has become the monument to her. But I wonder if we can sit with this question together: is it possible that the depth of your love for her is already permanent and unchangeable, and that no amount of healing — or not healing — could ever add to or take away from what she meant to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12758886814117432,
+    "aro_t": 0.15747201442718506,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe that... that the love is just there, fixed, no matter what. But there's this other part that keeps whispering that if I stop hurting this much, it means I've moved on, and moving on feels like a betrayal, like I'm saying she didn't matter enough to break me forever. I don't know how to separate the love from the pain when they've been tangled together for so long.",
+    "therapist": "There's something profound in what you just named — that love and pain have become so intertwined that they feel like the same thing, and separating them feels like losing her a second time. But I want to offer you this: pain is what happens when love has nowhere to go anymore, and as unbearable as it is, it was never the love itself — the love was the laughter, the way she curled up next to you, the fact that she worried about you being alone. What do you think it might feel like to carry *her* forward, rather than carrying the loss — even if that's just a small, tentative idea for now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18428266048431396,
+    "aro_t": 0.212713360786438,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me wants to believe it... but honestly, when I try to imagine \"carrying her forward,\" it just feels abstract, like something people say that sounds nice but doesn't actually mean anything concrete. Like, what does that even look like on a Tuesday night when the apartment is quiet and I reach for my phone to text someone and remember there's no one to text? The pain isn't just grief, it's also this reminder that she was kind of the last person who really knew me, and without her I'm just... alone in a way that feels permanent.",
+    "therapist": "That moment you described — reaching for your phone and then remembering — is so achingly specific and real, and it cuts right to the heart of what makes this kind of loss different from just sadness: it's the loss of a witness, someone who *knew you*. I don't want to offer you abstractions, so let's make it concrete — \"carrying her forward\" might simply mean that the version of you she knew, the one she worried about and loved, is still here, still real, even on a quiet Tuesday. I'm wondering, are there any small moments — even fleeting ones — in these past six months where you've felt even briefly like yourself, the self she knew?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2886474132537842,
+    "aro_t": 0.17469274997711182,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I have to think about that for a second, because my first instinct is to say no, not really. But there was this one morning a few weeks ago where I made her recipe for that lemon pasta, the one she used to make when I was stressed, and for maybe ten minutes I wasn't drowning in missing her, I was just... cooking. I don't know if that counts, or if I'm just grasping at something because you're asking me to find it.",
+    "therapist": "That absolutely counts — and I don't think you're grasping at something artificial, I think you found something genuinely true. For ten minutes, you weren't just surviving her absence; you were in relationship with her in a different way, letting her take care of you through something she left behind. I'm curious — what do you make of the fact that it was *her* recipe that gave you that small moment of breathing room, rather than something completely separate from her?",
+    "condition": "emotion_text_only",
+    "val_t": 0.00993645191192627,
+    "aro_t": 0.18074500560760498,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I think... it makes sense, actually, when you put it that way. Like she was still doing what she always did, looking after me, even now. But then that thought kind of turns on me, because it makes me miss her even more sharply, and I start wondering if leaning on those memories is just keeping me stuck instead of actually moving forward.",
+    "therapist": "There's something really meaningful in what just happened — you touched something warm and true, that she's still looking after you, and then your mind immediately questioned whether you were allowed to have it. That pattern, of comfort turning into doubt, seems to come up a lot for you, and it might be worth gently noticing that \"staying connected to her\" and \"moving forward\" don't have to be opposites pulling against each other. I'm wondering — when you imagine \"moving forward,\" what does that actually look like to you, because I want to make sure we're not working against a version of it that feels like abandonment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21678483486175537,
+    "aro_t": 0.11223995685577393,
+    "text_emotion": "Angry"
+  }
+]

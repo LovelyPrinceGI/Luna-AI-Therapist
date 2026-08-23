@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandma passed away last month. Every time my family gets together now, it just feels wrong without her there - like there's this huge empty space nobody knows how to fill. I'm not sure talking about it will help because... well, she's still gone no matter what we say.",
+    "therapist": "I hear how deeply you're missing your grandma and how her absence creates this painful emptiness during family gatherings. While talking won't bring her back, it might help you process these complex feelings you're carrying. What's one small way your grandma used to make family gatherings special that you could try to honor?",
+    "condition": "baseline",
+    "val_t": -0.3127121925354004,
+    "aro_t": 0.08814859390258789,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I think about how Grandma always made her special apple pie for holidays. It was her signature dish, and everyone looked forward to it. But trying to recreate it feels... I don’t know, almost disrespectful because I could never make it like she did. It’s like I’d be failing her memory if I tried and messed it up.",
+    "therapist": "It sounds like baking her pie feels like a way to both honor her and highlight her irreplaceable presence - that's such a natural conflict to feel. Maybe instead of seeing it as needing to perfectly recreate her pie, you could view it as continuing her tradition in your own way? What do you think Grandma would say about you keeping this special ritual alive, even if the pie isn't identical?",
+    "condition": "baseline",
+    "val_t": -0.1481262445449829,
+    "aro_t": 0.16894495487213135,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know you're right logically, but it still feels wrong when the pie doesn't taste exactly like hers. Like I'm failing her memory somehow. She was so precise about her recipes - I can still hear her saying \"measure twice, pour once\" whenever I'm in the kitchen. \n\nThe idea of making it my own way makes me anxious because what if that means losing her completely? The taste was such a specific connection to her.",
+    "therapist": "I hear how important it is for you to preserve that exact connection to your grandma through her pie - it's not just about the recipe, but about keeping her presence alive in a very tangible way. That anxiety about losing her completely makes so much sense when this tradition feels like such a precious thread to her memory. What would it feel like to bake her pie exactly as written, while also giving yourself permission for it to be okay if it's not perfect?",
+    "condition": "baseline",
+    "val_t": -0.11443674564361572,
+    "aro_t": 0.20586585998535156,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but the idea of it being okay if it's not perfect makes me really uncomfortable. When I mess up the pie, it feels like I'm failing her somehow, like I'm letting her memory slip away. And honestly, even thinking about changing anything makes me anxious - what if it stops feeling like her pie altogether?",
+    "therapist": "It sounds like this pie represents so much more than just a dessert - it's become a sacred way to maintain your connection with your grandma. That pressure to keep everything exactly the same shows how deeply you love and honor her. What do you think your grandma would say about you being so hard on yourself when you try to make her pie?",
+    "condition": "baseline",
+    "val_t": -0.26260054111480713,
+    "aro_t": 0.20489561557769775,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I never really thought about what Grandma would say... She was always so patient with me when I was learning to bake with her. But that just makes me feel worse when I can't get it right now. Like I'm failing her memory somehow. \n\nI know logically she wouldn't want me to stress this much, but the idea of changing anything about the recipe makes me feel like I'm losing her all over again. It's the last tangible thing we shared.",
+    "therapist": "It's clear this recipe holds profound meaning as one of your last physical connections to your grandma - no wonder any change feels so threatening to that precious bond. That tension between knowing she'd be patient and feeling like you're failing her must be so painful to carry. What would it feel like to think of baking her pie not as a test of your love, but as an ongoing conversation with her memory?",
+    "condition": "baseline",
+    "val_t": -0.30863475799560547,
+    "aro_t": 0.1573272943496704,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That idea of it being a conversation instead of a test... it makes me tear up a little. But part of me worries that if I stop trying to make it perfect, it'll mean I'm letting her go too much. When I mess up the crust, I can almost hear her teasing voice saying \"Oh honey, you rushed it again didn't you?\" - but now that just makes me feel worse instead of comforted. \n\nI want to believe she'd be patient with me, but what if changing how I think about this just makes the memories fade faster? It already feels like I can't quite remember the exact way her kitchen smelled when she baked.",
+    "therapist": "It sounds like you're holding onto these traditions so tightly because they're such precious connections to your grandma - and that fear of the memories fading is completely understandable. Maybe instead of seeing this as all-or-nothing (perfect recreation versus letting go), there could be space for both honoring her exact ways while also being gentle with yourself? What if her teasing voice could become a comforting reminder of her love, rather than a standard you're failing to meet?",
+    "condition": "baseline",
+    "val_t": -0.2834458351135254,
+    "aro_t": 0.19907474517822266,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about making the memories comforting instead of stressful, but it's really hard to shift that mindset. Every time I try to make her recipes and they don't turn out right, it just feels like I'm losing her all over again. Maybe I'm putting too much pressure on myself, but I don't know how to celebrate her memory without doing everything exactly like she did.",
+    "therapist": "It makes complete sense that you'd want to preserve everything exactly as she did it - that's how much her memory means to you. This pressure you're putting on yourself comes from love, not failure. What would it feel like to start with just one small baking step where you give yourself permission to be imperfect, while still feeling connected to her?",
+    "condition": "baseline",
+    "val_t": -0.06168079376220703,
+    "aro_t": 0.1484144926071167,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but even changing one small thing feels like I'm betraying her. What if I mess it up and it stops tasting like her recipe? That thought makes my chest tighten up. It's not just about the baking - it's like I'll lose my last connection to her.",
+    "therapist": "I hear how terrifying that thought is - that changing anything might sever this precious thread to your grandma. That physical reaction in your chest shows how deeply meaningful this connection is for you. Could we explore what other ways, beyond the recipe, you still feel connected to her love and presence?",
+    "condition": "baseline",
+    "val_t": -0.2493036985397339,
+    "aro_t": 0.26604676246643066,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know... it's not the same. When I make her recipe, it's like she's right there with me in the kitchen. Looking at old photos or remembering stories just makes me miss her more. It feels empty compared to cooking together like we used to. \n\nI get what you're saying about finding other connections, but it's hard to imagine anything feeling as real and comforting as keeping her traditions exactly the same. What if trying new things makes me forget the little details she taught me?",
+    "therapist": "It's clear that cooking her recipes feels like the most tangible way to keep her presence alive - that's such a precious connection to preserve. Your worry about forgetting those little details shows how deeply you cherish those moments with her. What if keeping her traditions alive could include both honoring her exact ways and also gently adapting them as your relationship with her memory evolves?",
+    "condition": "baseline",
+    "val_t": -0.13359439373016357,
+    "aro_t": 0.09100615978240967,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about adapting her recipes, but it makes me feel guilty even thinking about changing anything. What if I mess it up and can't remember how she originally made it? Her lasagna was perfect exactly how she made it - the way she layered the noodles, the specific brand of tomatoes she used. Changing anything feels like I'm letting go of her, you know? \n\nSometimes I just stand in the grocery store staring at the tomato cans, paralyzed because the store doesn't carry her brand anymore. I know it sounds silly, but it's like if I can't do it exactly right, I'm failing her memory somehow.",
+    "therapist": "I hear how deeply important it is for you to preserve every exact detail of how your grandma made her lasagna - those specific brands and techniques feel like sacred connections to her. That fear of \"failing her memory\" shows how much love and respect you have for her traditions. What would it feel like to think of making her lasagna not as a test you might fail, but as an act of love that honors what she taught you, even if some ingredients change over time?",
+    "condition": "baseline",
+    "val_t": -0.2411254644393921,
+    "aro_t": 0.1622542142868042,
+    "text_emotion": "Angry"
+  }
+]

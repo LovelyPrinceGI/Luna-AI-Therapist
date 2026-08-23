@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having trouble sleeping because I can't stop thinking about my exams next week. Between my part-time job and classes, I feel like I'm way behind on studying, and the anxiety is making it hard to focus even when I do have time. I'm not sure talking about it will help when what I really need is more hours in the day.",
+    "therapist": "It sounds like you're feeling quite overwhelmed with everything on your plate right now, and that anxiety is making it harder to focus when you do have study time. Let's explore how these thoughts about being behind might be affecting your sleep and energy levels—what typically goes through your mind when you lie awake at night?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2616819143295288,
+    "aro_t": 0.1755673885345459,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When I'm lying awake at night, all I can think about is how much I haven't done yet and how I'm going to fail my exams. It's like my brain won't shut off, and then I feel even more exhausted the next day which makes everything worse. \n\nI know I should try to relax, but it feels impossible when I'm this far behind - like if I'm not worrying about it, then I'm just being irresponsible.",
+    "therapist": "I hear how stuck you feel in this cycle of worry and exhaustion—it makes complete sense that you'd feel this way when your mind is constantly reminding you of unfinished tasks. Let's examine that thought about being irresponsible if you're not worrying—do you think there might be another way to look at that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.43045151233673096,
+    "aro_t": 0.12388670444488525,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but when I try to stop worrying, it feels like I'm being careless. Like if I'm not constantly thinking about all the things I need to do, they'll never get done. It's like my anxiety is the only thing keeping me responsible.",
+    "therapist": "It sounds like your anxiety has taken on this role of being the \"task manager\" in your mind, but I can hear how draining that feels. What if we explored whether there might be a different way to stay organized and responsible that doesn’t leave you feeling so overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27899718284606934,
+    "aro_t": 0.23080646991729736,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "But the anxiety is what *keeps* me on top of things. Without it, I’d probably forget everything and let people down. I don’t know how to be responsible without that constant worry pushing me. It’s like my brain thinks if I relax even a little, everything will fall apart.",
+    "therapist": "It sounds like you’ve come to rely on that anxiety as a kind of safety net—like it’s the only thing keeping you from dropping the ball. But I’m hearing how exhausting it feels to carry that constant worry. What do you think might happen if we experimented with building trust in other ways to stay organized, rather than relying on anxiety to drive you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2738916873931885,
+    "aro_t": 0.19833672046661377,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That makes sense logically, but the anxiety feels so automatic at this point. When I try to relax, my brain starts screaming at me that I'm forgetting something important. Even if I make lists or set reminders, I don't *feel* like I can trust them the same way I trust that anxious pit in my stomach to keep me alert. It's like my anxiety has become my most reliable alarm system.",
+    "therapist": "It sounds like your anxiety has become such a familiar companion that stepping away from it feels unsafe, even when logic tells you otherwise. That tension between knowing better but feeling pulled back to worry must be so frustrating. What would it be like to test that \"alarm system\" just a little—maybe by scheduling short, intentional breaks where you practice trusting your reminders instead of the anxiety?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18759453296661377,
+    "aro_t": 0.24693357944488525,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about testing the alarm system, but it feels like my anxiety is there for a reason—like it’s protecting me from something going wrong. If I try to ignore it, even for a short break, I worry I’ll miss something important or make a mistake. It’s hard to trust those reminders because what if they’re wrong and my anxiety is right?",
+    "therapist": "I hear how protective that anxiety feels—like it's watching out for you when nothing else can be fully trusted. That uncertainty about whether reminders will catch everything must make it so hard to step away, even for a moment. What do you think it would take for you to feel just a little more confident that your systems could work *with* you, rather than against your anxiety?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2163856029510498,
+    "aro_t": 0.21169531345367432,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I don't know if I could ever trust any system completely. Even when I set reminders and checklists, my brain keeps coming up with \"what if\" scenarios - what if I missed something, what if the reminder doesn't go off. It feels like the anxiety is the only thing thorough enough to catch every possible mistake. \n\nThe idea of relying on systems sounds nice in theory, but in practice it just makes me more anxious because then I'm worrying about the systems failing too. It's like adding another layer of things that could go wrong.",
+    "therapist": "It sounds like you're caught in a really tough spot—where even the solutions meant to help end up feeding the cycle of worry. That constant \"what if\" thinking must feel exhausting, like your mind is always one step ahead trying to anticipate every possible slip-up. What would it feel like to start small—maybe by testing just *one* reminder for a low-stakes task, to see how it goes without the anxiety as backup?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24344086647033691,
+    "aro_t": 0.16626298427581787,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but even small things feel high-stakes to me. Like if I forget to take out the trash, my roommate might think I'm irresponsible. And then I start worrying they'll stop trusting me with bigger things. It's not really about the trash, you know? It's about all the ways things could spiral.",
+    "therapist": "I hear how these small moments feel loaded with bigger meaning—like each one could unravel into something much more serious. That weight of potential consequences must make everyday tasks feel so heavy. Could we explore where that belief—that small mistakes lead to big losses of trust—might come from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1488969326019287,
+    "aro_t": 0.10301554203033447,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know...I guess it comes from always being the \"reliable one\" growing up. If I slipped up even a little, my parents would get this disappointed look like I'd broken some unspoken promise. Now at work, when I forget to reply to an email right away, my chest gets tight imagining my boss thinking I'm completely incompetent. But part of me knows that's probably not true? It's just hard to shake the feeling.",
+    "therapist": "It sounds like those early experiences of needing to be perfect still echo loudly in how you see yourself today—that tightness in your chest when you imagine others' disappointment feels so real, even when your logical mind knows better. That gap between what you *know* and what you *feel* must be really frustrating to carry around. What do you think might help bridge that distance, even just a little?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33629822731018066,
+    "aro_t": 0.11227333545684814,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I know logically that people don't expect perfection from me, but that doesn't stop the panic when I think I've messed up. Even small things like sending an email with a typo make me feel like I'm failing at life. I don't know what would help bridge that gap - part of me feels like I *should* be perfect, even though I know that's impossible.",
+    "therapist": "It sounds like that gap between knowing perfection isn't possible and still feeling like you *should* achieve it is really hard to reconcile—especially when even small mistakes bring up that sense of failure. That tension between what you know and what you feel must be exhausting to carry. What do you think it would feel like to practice responding to small mistakes with the same kindness you'd offer a friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21676850318908691,
+    "aro_t": 0.22721362113952637,
+    "text_emotion": "Angry"
+  }
+]

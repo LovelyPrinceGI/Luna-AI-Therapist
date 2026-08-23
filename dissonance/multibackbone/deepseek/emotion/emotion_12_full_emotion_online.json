@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, family gatherings have been really hard for me since my grandma passed away last month. Every time we’re all together, I just feel her absence so strongly, and it’s like I can’t enjoy anything anymore. I’m not sure if therapy can really help with this—it just feels like something I have to get through on my own.",
+    "therapist": "It sounds like these family gatherings have become a painful reminder of your loss, and it’s understandable to feel overwhelmed by her absence. Grief can make it hard to find joy in moments that used to feel meaningful—what thoughts tend to come up for you when you’re in those situations?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28715527057647705,
+    "aro_t": 0.0781552791595459,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking about how she should be there with us, laughing and talking like she always did. It feels so wrong to be sitting around the table without her, and I end up feeling guilty if I even smile or enjoy myself for a moment. I know people say I should try to focus on the good memories, but it’s hard when her absence feels so heavy.",
+    "therapist": "It sounds like her absence feels so present in those moments, and the guilt you’re experiencing makes it even harder to allow yourself any sense of joy—almost like enjoying yourself might mean forgetting her. Have you noticed if there are any specific memories or thoughts that make the guilt feel stronger?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07810807228088379,
+    "aro_t": 0.1642165184020996,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, that’s exactly how it feels—like if I let myself enjoy anything, it’s like I’m betraying her memory. There are certain moments, like when I’m cooking her favorite meal or driving past places we used to go together, that hit me the hardest. It’s like the guilt just floods in, and I can’t shake it. I don’t know how to move past that without feeling like I’m dishonoring her.",
+    "therapist": "It sounds like these moments—whether it's cooking or passing familiar places—become painful triggers where the guilt feels almost like a duty to her memory. I wonder, what would your grandmother say about you carrying this guilt so heavily? Do you think she would want it to weigh on you this way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3101084232330322,
+    "aro_t": 0.204473614692688,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That's a hard question... I don't know if she'd want me to feel this way, but she also sacrificed so much for me. If I stop feeling guilty, it's like I'm forgetting all she did. The thought of letting go makes me feel even worse, like I'd be abandoning her memory. \n\nI can imagine her telling me not to dwell on it, but that feels too easy somehow. Like I'm just making excuses to feel better when I don't deserve to.",
+    "therapist": "It sounds like this guilt has become intertwined with your love for her—almost as if holding onto it keeps her close in some way. What would it look like to honor her memory *and* allow yourself moments of peace, without viewing them as a betrayal?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34845829010009766,
+    "aro_t": 0.1300950050354004,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "That's an interesting way to put it, but I'm not sure I can separate the two. Whenever I start to feel okay, the guilt comes rushing back even stronger. It's like if I'm not suffering, I'm not remembering her properly. How am I supposed to enjoy anything when she can't?",
+    "therapist": "It sounds like there’s a fear that easing your pain might mean her memory fades—that the suffering itself has become a way to keep her close. What would it feel like to challenge that idea, even just a little? For example, could remembering her laughter or warmth also be a way to honor her, without the guilt?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21526873111724854,
+    "aro_t": 0.1274857521057129,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That’s... really hard to imagine. It feels like if I let go of the guilt, I’m letting go of her. The pain is the only thing that feels real sometimes. Like, if I start focusing on happy memories, does that mean I didn’t love her enough? What if I forget how much it hurt to lose her?",
+    "therapist": "It sounds like the guilt has become so tied to your love for her that letting go of one feels like letting go of the other—that’s such a painful place to be. What if, instead of measuring your love by how much it hurts, we considered how deeply your grief reflects how much she meant to you? Could there be room for both the pain *and* the warmth of her memory?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3221522569656372,
+    "aro_t": 0.11306333541870117,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I understand what you're saying, but it’s hard to separate the guilt from the love. Every time I think about her, I feel like I should’ve done more, been more present. It’s like the guilt reminds me of how much I failed her, and that overshadows the good memories. I’m not sure I can just reframe it—it feels like I’d be letting myself off the hook too easily.",
+    "therapist": "It sounds like the guilt feels so deeply rooted in your sense of responsibility toward her, almost as if easing it would mean ignoring what you perceive as your shortcomings. What would it feel like to explore whether those thoughts—“I should’ve done more”—are truly reflective of reality, or if they’re part of the weight grief has placed on you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23767316341400146,
+    "aro_t": 0.06660544872283936,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I guess I never really thought about whether those thoughts are realistic or not. It’s just always felt true—like I failed her by not doing more. But now that you mention it, I don’t know if I can separate what’s real from what grief is making me feel. It’s hard to even consider that I might be blaming myself unfairly, because it feels like letting myself off the hook somehow.",
+    "therapist": "It sounds like this guilt has become such a familiar part of your grief that questioning it feels almost uncomfortable—like it might mean dismissing your responsibility to her. What would it look like to gently examine those thoughts, not to let yourself off the hook, but to understand whether they’re serving you or keeping you stuck in pain?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3068920373916626,
+    "aro_t": 0.06892788410186768,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I guess the idea of examining these thoughts makes me nervous because what if I realize I didn't do enough? The guilt feels like the only way to honor her memory, you know? Like if I stop beating myself up, it would mean I don't care as much.",
+    "therapist": "It sounds like the guilt has become a way to prove your love for her—as if letting go of it would risk diminishing how much she meant to you. What if honoring her could include both acknowledging your pain *and* recognizing that your love doesn’t need to be measured by suffering?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23038196563720703,
+    "aro_t": 0.15362727642059326,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I never thought about it that way before. It's just... when I start to feel less guilty, it almost feels like I'm forgetting her or something. But you're right, the pain isn't the only proof I loved her. It's just hard to imagine how to honor her without this constant weight. \n\nWhat if I stop feeling guilty and then realize I didn't love her as much as I thought? That thought scares me more than the guilt itself.",
+    "therapist": "It makes so much sense that this fear—of your love being tied to the guilt—feels even scarier than the pain itself. Would it be worth exploring what *other* ways your love for her shows up, even beyond the guilt? Like the ways you still carry her with you in your actions or memories?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34287726879119873,
+    "aro_t": 0.19572961330413818,
+    "text_emotion": "Angry"
+  }
+]

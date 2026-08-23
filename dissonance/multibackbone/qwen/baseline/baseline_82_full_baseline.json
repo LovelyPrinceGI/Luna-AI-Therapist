@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really anxious lately about meeting my partner's friends this weekend. I'm worried they won't accept me, and it's been hard to shake off this feeling. I know therapy can help, but sometimes I wonder if it really will make a difference.",
+    "therapist": "Hi there, it’s completely understandable to feel anxious about meeting your partner’s friends, and it’s natural to have doubts about how therapy can help. Can you tell me more about what you’re worried might happen if they don’t accept you?",
+    "condition": "baseline",
+    "val_t": -0.13837742805480957,
+    "aro_t": 0.19951701164245605,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess I'm worried that they might think I'm not good enough for their friend, or that they'll find some flaw in me and judge me for it. It feels really important to be accepted by them, and the thought of being rejected or criticized is just making me really anxious. I don't know if there's a way to make that feeling go away.",
+    "therapist": "It makes sense that you’re feeling this way, and those worries can be really tough to manage. It’s important to acknowledge how much you value your partner’s friends’ acceptance. Have there been times in the past when you’ve faced similar situations and managed to handle them well, or any instances where you felt accepted despite your initial fears?",
+    "condition": "baseline",
+    "val_t": -0.35178864002227783,
+    "aro_t": 0.22470879554748535,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you acknowledging that, Luna. I guess there have been times when I managed to push through my fears and things turned out okay, but it feels different now. This time, the stakes feel higher, and I’m just so worried about what they might think of me. It’s hard to shake off that feeling of not being good enough.",
+    "therapist": "It’s completely understandable that this situation feels different and more intense. It’s natural for the stakes to feel higher, especially when it’s important to you. What do you think might be some of the reasons why this particular situation feels more significant to you?",
+    "condition": "baseline",
+    "val_t": -0.12203586101531982,
+    "aro_t": 0.13440954685211182,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I guess it feels more significant because it involves someone I really care about, and I don’t want to mess things up. It’s hard because I’ve had similar situations in the past where I ended up feeling guilty or alone, and I’m scared that history might repeat itself.",
+    "therapist": "It’s clear how much you care about your partner and their friends, and it’s natural to feel protective of those relationships. Past experiences can really shape how we approach new situations, and it’s understandable that you’re worried about history repeating itself. Can you think of any specific thoughts or beliefs that come up when you worry about feeling guilty or alone again?",
+    "condition": "baseline",
+    "val_t": -0.30457842350006104,
+    "aro_t": 0.0961451530456543,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I often feel like I'm walking on eggshells, afraid that I might say or do something that could push people away. I worry that if I mess up, I'll end up feeling isolated and guilty all over again. It's hard to shake off those old fears, even when I know I have a good relationship now.",
+    "therapist": "It sounds like those old fears are really weighing on you, and it’s completely understandable to feel like you’re walking on eggshells. It’s brave of you to share this. How do you think those fears might be influencing your interactions with your partner and their friends, even before you meet them?",
+    "condition": "baseline",
+    "val_t": -0.33406615257263184,
+    "aro_t": 0.1240086555480957,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I think those fears make me overly cautious and maybe even a bit distant. I worry so much about saying the wrong thing or coming off as awkward that I end up not engaging as much as I should. It’s hard because I really want to be more present and involved, but the anxiety just feels overwhelming.",
+    "therapist": "It’s really insightful of you to recognize how those fears are impacting your interactions. It’s completely understandable to become cautious or distant when you’re worried about saying the wrong thing. Have you considered any small steps you could take to help yourself feel more present and engaged, even if just a little bit, during the meeting with your partner’s friends?",
+    "condition": "baseline",
+    "val_t": -0.30014753341674805,
+    "aro_t": 0.21056056022644043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just really hard to know where to start. I mean, I feel like every time I try to engage, I end up overthinking and worrying about how I come across. It’s a vicious cycle, and I’m not sure if taking small steps will really make a difference.",
+    "therapist": "I can see how challenging and frustrating that cycle can be, and it’s completely understandable to feel unsure about where to start. Taking small steps can be a gentle way to break the cycle, even if the impact seems small at first. What do you think might be a tiny, manageable step you could take to start feeling more present, even if it’s just for a moment during the meeting?",
+    "condition": "baseline",
+    "val_t": -0.09481310844421387,
+    "aro_t": 0.15292668342590332,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I understand what you're saying, but it feels like even those tiny steps are too big sometimes. I mean, I try to focus on the present, but my mind just wanders back to all the things I’m worried about. It’s hard to break that pattern when it feels so automatic.",
+    "therapist": "I hear you, and it’s completely valid to feel that even small steps can be overwhelming. It’s tough when your mind automatically wanders back to worries. Have you ever tried any techniques to gently bring your focus back to the present, like mindfulness or deep breathing? Even if it’s just for a few moments, it can sometimes help create a bit of space from those automatic thoughts.",
+    "condition": "baseline",
+    "val_t": -0.14136505126953125,
+    "aro_t": 0.12741315364837646,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I've tried mindfulness a few times, but it's hard to stick with it. It feels like my mind just keeps drifting back to all the things I’m anxious about, and I end up feeling even more frustrated. I don’t think it will work for me, to be honest.",
+    "therapist": "It’s totally understandable to feel frustrated when mindfulness doesn’t seem to work as you hoped. It can be really tough to stick with it, especially when your mind keeps drifting back to anxious thoughts. Sometimes, it helps to approach mindfulness with a bit of kindness and patience, recognizing that it’s a skill that takes time to develop. What do you think might make it a bit easier for you to stick with mindfulness, even if it’s just for short periods?",
+    "condition": "baseline",
+    "val_t": -0.30629825592041016,
+    "aro_t": 0.15372693538665771,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, and I know it's supposed to help, but I find it really hard to be kind to myself when I'm feeling so anxious. It feels like I'm failing every time my mind wanders, and that just makes me more frustrated. I guess I’m just not sure how to be patient with myself when I’m already so overwhelmed.",
+    "therapist": "I completely understand how challenging it can be to be kind to yourself when you’re feeling so anxious and overwhelmed. It’s natural to feel like you’re failing when your mind wanders, but it’s important to remember that mindfulness is about noticing those wandering thoughts without judgment. What if we tried to reframe those moments of wandering as opportunities to practice self-compassion, rather than failures? How might you speak to yourself with more kindness during those times?",
+    "condition": "baseline",
+    "val_t": -0.31893444061279297,
+    "aro_t": 0.27358853816986084,
+    "text_emotion": "Angry"
+  }
+]

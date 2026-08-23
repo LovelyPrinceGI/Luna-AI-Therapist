@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been a tough month since my grandmother passed away. I find myself constantly feeling sad and it's really affecting my ability to concentrate at work. I'm not sure if therapy can help with this, but I thought I'd give it a try.",
+    "therapist": "Hello, I'm so glad you reached out. It sounds like you're going through a really tough time, and the loss of your grandmother is understandably weighing heavily on you. It's completely normal to feel sad and find it hard to concentrate after such a significant loss. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10844826698303223,
+    "aro_t": 0.10008788108825684,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thank you for listening. It's been really hard. I've been trying to stay busy with work and some light exercise, but my mind keeps drifting back to all the times I spent with my grandmother. I feel so guilty for not visiting her more often, and I can't shake this sadness. It's hard to focus on anything else.",
+    "therapist": "I can imagine how challenging this must be for you, especially with the mix of sadness and guilt. It's natural to have these thoughts and feelings, and it's important to be gentle with yourself. What do you think might help you process these memories and the guilt you're feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1357210874557495,
+    "aro_t": 0.09674060344696045,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, but it's hard to be gentle with myself when I feel like I should have done more for them. I keep thinking about what I could have said or done differently. It feels like no matter what I do, the guilt will still be there. How can I even start to process this? It seems so overwhelming.",
+    "therapist": "I understand how overwhelming and intense these feelings of guilt can be. It's common to replay those moments and wonder if things could have been different, but it's important to remember that you did the best you could with what you had at the time. One step you can take is to explore the evidence for and against your guilt. What are some things you did for your grandmother that you can be proud of?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2654820680618286,
+    "aro_t": 0.18252944946289062,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's hard to feel proud when I keep thinking about the times I could have done more. I did visit her often and tried to help with her groceries, but it feels like it wasn't enough. I worry that if I start listing the good things, I'll just end up feeling guilty for not doing more.",
+    "therapist": "I hear you, and it's completely understandable to feel that way. It's natural to focus on the things you think you could have done differently, but it's also important to acknowledge the positive things you did do. You visited her often and helped with her groceries, which are significant acts of love and support. Can we try to balance these thoughts by writing down both the things you did and the things you wish you had done? This can help us see the full picture and maybe ease some of the guilt.",
+    "condition": "emotion_text_only",
+    "val_t": -0.12659704685211182,
+    "aro_t": 0.1284959316253662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I understand what you're saying, and it makes sense on some level, but I still can't shake the feeling that I could have done more. Writing things down sounds good, but I'm not sure it will change how I feel inside. It's hard because the guilt is so deeply rooted in my mind.",
+    "therapist": "I completely understand how deeply rooted those feelings of guilt can be, and it's okay to still feel that way even when you recognize the positive things you did. Writing things down can be a helpful first step, even if it doesn't immediately change how you feel. It can provide a clearer perspective over time. What do you think might be a small step you can take today to start this process, even if it feels like a small victory?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28950488567352295,
+    "aro_t": 0.08461129665374756,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, Luna. Writing things down sounds good in theory, but it's hard for me to even know where to start. I feel like every time I try to do something like this, I end up feeling worse because I just see all the things I've done wrong. How do I make sure this doesn't just make me feel more guilty?",
+    "therapist": "I understand how challenging it can be to start this process, and it's natural to worry about feeling worse. It's important to approach this gently and with self-compassion. One way to start could be by writing down just one thing you did for your grandmother that you feel proud of, and one thing you wish you had done differently. This can help you see both sides and might make the process feel more manageable. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27513647079467773,
+    "aro_t": 0.18743300437927246,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I'm still a bit hesitant. It feels like every time I try to look back, I end up feeling even more guilty and overwhelmed. I don't know if writing it down will make it any easier to handle.",
+    "therapist": "I understand your hesitation, and it's completely valid to feel that way. It's important to approach this process at your own pace and in a way that feels safe for you. Maybe we can start with a simpler exercise, like focusing on a single positive memory you have with your grandmother. This can help shift your focus and might make it easier to see the good without overwhelming you. What do you think about trying that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17518627643585205,
+    "aro_t": 0.1867067813873291,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you're trying to make it less overwhelming. I do have some good memories with my grandmother, but I'm not sure if focusing on just one will really help. It feels like the guilt and anxiety are so intertwined with everything else, I'm not sure how to untangle them.",
+    "therapist": "I understand that the guilt and anxiety can feel very intertwined with your memories, and it's natural to feel unsure about how to untangle them. Starting with a single positive memory can be a gentle way to begin, even if it doesn't immediately resolve all the feelings. It can help create a small shift in your focus and provide a bit of relief. How about we try to find one memory that brings a smile to your face, even if it's a small one? What memory comes to mind when you think about the times you shared with your grandmother?",
+    "condition": "emotion_text_only",
+    "val_t": -0.005159139633178711,
+    "aro_t": 0.12507224082946777,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the idea, but it feels really hard to find a positive memory right now. When I think about my grandmother, most of the memories are wrapped up in the guilt and sadness I feel about not seeing her enough before she passed away. I worry that trying to focus on a positive memory might just make me feel worse.",
+    "therapist": "I completely understand how difficult it can be to find a positive memory when you're feeling so overwhelmed by guilt and sadness. It's okay to take things at your own pace and to acknowledge that these feelings are very real and valid. If focusing on a positive memory feels too challenging right now, we can try a different approach. How about we explore some of the thoughts that come up when you think about your grandmother? Sometimes, just talking about these thoughts can help us understand them better and find a way to move forward. What are some of the thoughts that come to mind when you think about her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2688544988632202,
+    "aro_t": 0.06491947174072266,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "When I think about my grandmother, a lot of mixed feelings come up. On one hand, I remember how she always made me feel safe and loved, but on the other hand, I can't help but feel guilty for not visiting her as often as I should have. It's hard to reconcile these feelings, and I often end up feeling stuck and overwhelmed.",
+    "therapist": "It sounds like you're experiencing a lot of mixed emotions, and that can be really challenging. It's natural to feel both the warmth and love from those memories and the guilt over what you think you could have done differently. These conflicting feelings can make it hard to find a way forward. Can you tell me more about what it feels like to be stuck between these two emotions? What thoughts come up for you when you're feeling overwhelmed by them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2098391056060791,
+    "aro_t": 0.1109076738357544,
+    "text_emotion": "Angry"
+  }
+]

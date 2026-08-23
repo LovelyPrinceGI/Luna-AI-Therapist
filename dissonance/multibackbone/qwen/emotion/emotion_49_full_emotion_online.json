@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really anxious lately. I failed to meet the deadline for my final project at university, and I can't stop worrying about how this is going to impact my overall grade. I feel like I’m spiraling, and I’m not sure if talking about it will really help, but here I am.",
+    "therapist": "Hi there, I’m so glad you reached out. It sounds like you’re really struggling with a lot of anxiety and worry right now, especially about the impact on your grade. It’s completely understandable to feel this way, but let’s try to break it down a bit. What are some of the specific thoughts that keep coming up for you when you think about the missed deadline?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22181439399719238,
+    "aro_t": 0.21686005592346191,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking that I’m going to fail the class because of this missed deadline. It feels like no matter what I do, I can’t catch up, and that just makes me more anxious. I guess I’m also worried about how this will affect my overall academic performance and my future opportunities.",
+    "therapist": "It sounds like you’re really caught in a cycle of worry, and that can be incredibly overwhelming. It’s natural to fear the worst, especially when you feel like you’re falling behind. Let’s take a moment to look at the evidence. What are some steps you could take to address the missed deadline and improve your chances of success in the class? How might these steps also help you feel more in control of the situation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3903146982192993,
+    "aro_t": 0.1934340000152588,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know, it feels like everything is piling up and I’m just not sure where to start. I mean, I could reach out to the professor and explain what happened, but I’m worried they’ll just think I’m making excuses. It’s hard to even imagine how I can catch up now, especially with everything else on my plate.",
+    "therapist": "It sounds like you’re feeling overwhelmed and unsure about how to move forward, which is completely understandable given everything you’re dealing with. Reaching out to your professor can be a daunting step, but it’s often the case that they are more understanding than we expect. What do you think might be the best way to approach them, or is there someone else, like a mentor or advisor, who could offer some support and guidance?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27550315856933594,
+    "aro_t": 0.12025392055511475,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but I'm really worried about how my professor will react. I feel like I've already let them down so many times, and I don't want to make it worse. It's hard to imagine they'll be as understanding as you think.",
+    "therapist": "I can really hear the concern and worry you’re feeling about reaching out to your professor. It’s completely understandable to fear their reaction, especially if you feel like you’ve let them down before. It’s tough to take that step, but sometimes it can be helpful to frame it as a chance to show your commitment to making things right. What do you think might be the worst-case scenario, and how might you be able to handle that if it happens?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22615563869476318,
+    "aro_t": 0.10724949836730957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I understand what you're saying, and I know it's important to face my fears, but the worst-case scenario is that the professor could be really disappointed in me again. I feel like I've already let them down so many times, and I'm not sure I can handle that kind of rejection. It's hard to see it as a chance to make things right when I feel so guilty and anxious about it.",
+    "therapist": "I hear you, and it’s completely understandable to feel guilty and anxious about facing your professor again, especially if you’ve had similar experiences in the past. It’s tough to push through those feelings of rejection and disappointment. At the same time, it might be helpful to consider that your professor might also recognize your efforts and willingness to improve. What do you think might be a small step you could take to start addressing this, even if it feels a bit uncomfortable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4245511293411255,
+    "aro_t": 0.17801058292388916,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I understand what you're saying, but it's really hard to see it that way. I feel like every time I try to talk to my professor, I just end up feeling more rejected. I don't think a small step will make much of a difference, and I'm worried it will just confirm my fears.",
+    "therapist": "I can really understand how difficult and discouraging it must feel to have those past experiences with your professor. It’s natural to fear that the same thing will happen again, and it’s okay to feel hesitant. At the same time, sometimes taking a small step, even if it’s just to gather more information or support, can help you feel a bit more in control. What do you think might be a small, manageable step you could take, even if it’s just to explore your options or get some advice from another source?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3644212484359741,
+    "aro_t": 0.14429140090942383,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your understanding, Luna. It's just hard because I feel so stuck and afraid of making the wrong move. I don't want to open myself up to more disappointment or criticism. I guess I could try talking to another professor or someone in the department, but what if they don't take me seriously or just brush me off like the last time? It feels risky.",
+    "therapist": "I completely understand how you’re feeling—it’s really tough to take that risk when you’ve been hurt before. It’s natural to fear more disappointment or criticism. At the same time, reaching out to another professor or someone in the department might provide a fresh perspective and some much-needed support. What do you think might be a way to approach this that feels a bit safer for you, even if it’s just a small step? Maybe you could start by drafting a message or making a list of what you’d like to say?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20188379287719727,
+    "aro_t": 0.16036474704742432,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It's just hard to put myself out there again, especially when I feel like I've been brushed off before. Writing a message sounds like a good idea, but I’m worried it might come off as needy or desperate. How do I make sure I’m not overthinking it?",
+    "therapist": "I understand how challenging it can be to put yourself out there again, especially when you’ve had negative experiences in the past. It’s completely normal to worry about coming across as needy or desperate. One way to approach this is to focus on being clear and concise in your message. You can explain your situation and your concerns in a straightforward way, while also expressing your willingness to take responsibility and find a solution. What do you think might be the key points you want to include in your message to ensure it’s clear and professional?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15053892135620117,
+    "aro_t": 0.20984280109405518,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean, but I'm still really worried about how it will come across. I want to be clear, but I also don't want to seem like I'm making excuses or overexplaining things. It's hard because I feel like I've already messed up, and I'm not sure how to make it right without sounding desperate.",
+    "therapist": "I completely understand your concerns. It’s really important to strike a balance between being clear and not coming across as overexplaining or making excuses. One way to approach this is to focus on the facts and your willingness to find a solution. You can acknowledge the mistake and express your commitment to doing better. For example, you might say something like, \"I missed the deadline due to [brief explanation], and I understand the impact this has. I’m committed to completing the project and would appreciate any guidance on how to move forward.\" What do you think about this approach, and how does it feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35858333110809326,
+    "aro_t": 0.19568192958831787,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestions, Luna. It makes sense to focus on the facts and show my commitment, but I still worry that it might come off as insincere or that they won’t believe me. It’s hard because I’ve made mistakes before, and I don’t want to lose their trust.",
+    "therapist": "I understand your concerns, and it’s natural to worry about coming across as insincere, especially if you’ve had past mistakes. It’s important to be genuine and show your commitment to improvement. You might consider starting your message with a brief, honest acknowledgment of your past mistakes and then focus on your current commitment and steps you plan to take. For example, you could say, \"I know I’ve made mistakes in the past, and I take full responsibility for them. I’m committed to completing the project and would appreciate any guidance on how to move forward and regain your trust.\" How does that feel to you, and do you think it captures your sincerity and commitment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18954753875732422,
+    "aro_t": 0.09461116790771484,
+    "text_emotion": "Angry"
+  }
+]

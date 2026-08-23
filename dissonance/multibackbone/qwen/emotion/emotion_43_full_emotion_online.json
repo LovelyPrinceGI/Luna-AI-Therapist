@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately with my new job as a project manager. We missed a major deadline last week, and I can't shake the guilt and anxiety that comes with it. I know I should be more on top of things, but it feels like everything is just piling up. I'm not even sure if therapy can really help with this.",
+    "therapist": "Hi there, it sounds like you're carrying a lot of weight with this new role and the recent missed deadline. It's completely understandable to feel overwhelmed and guilty, but it's important to remember that everyone faces challenges and setbacks. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2582889795303345,
+    "aro_t": 0.25102102756500244,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hey Luna, yeah, it's been really tough. I've been trying to stay on top of everything, but it feels like no matter what I do, I can't catch up. I've been really hard on myself, and it's hard to shake off the guilt. I've tried to just push through, but it's not really working.",
+    "therapist": "It sounds really tough, and it's understandable to feel that way when you're under so much pressure. Being hard on yourself can make it even more challenging to move forward. Have you had a chance to reflect on any small wins or successes, even if they seem minor, in your new role?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27583765983581543,
+    "aro_t": 0.14151060581207275,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that, Luna. It's just hard to see any small wins when I feel like I'm constantly making mistakes. I know I should be more positive, but it feels like every little thing I do wrong is magnified in my head. It's tough to step back and recognize the good stuff.",
+    "therapist": "I understand how challenging it can be to see the good when you're feeling this way. It's natural for our minds to focus on the negatives, especially during stressful times. Have you tried writing down some of the positive aspects of your work, no matter how small, to help balance out those critical thoughts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05640721321105957,
+    "aro_t": 0.11106300354003906,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it feels like a stretch to find positives when I'm so overwhelmed at work. It's hard because the negatives are so loud and it feels like they drown out everything else. I don't think writing them down will change how I feel.",
+    "therapist": "I can see how overwhelming this feels, and it's completely understandable that the negatives seem to dominate your thoughts right now. It's a tough cycle to break, but recognizing the impact of those thoughts is a big first step. What do you think might help you start to shift your focus, even if just a little, away from the negatives?",
+    "condition": "emotion_text_only",
+    "val_t": -0.01973593235015869,
+    "aro_t": 0.17292582988739014,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you understand how tough this is for me. Shifting my focus sounds good in theory, but it's hard because the negative thoughts just feel so real and persistent. I'm not sure where to start, to be honest. It feels like a big leap from where I am now.",
+    "therapist": "I completely understand how real and persistent those negative thoughts can feel, and it's okay to acknowledge that shifting your focus is a big challenge. Starting small can often be more manageable—maybe try setting aside a few minutes each day to reflect on one positive thing, no matter how small, or one thing you learned. How does that sound?",
+    "condition": "emotion_text_only",
+    "val_t": -0.005459427833557129,
+    "aro_t": 0.16683900356292725,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestion, but it's hard because even finding one positive thing can feel like a monumental task on my bad days. I worry that I might just end up feeling more frustrated or guilty if I can't come up with anything.",
+    "therapist": "I understand that even the smallest tasks can feel monumental when you're feeling this way, and it's natural to worry about adding more frustration or guilt. It's okay to start with something incredibly simple, like noticing a moment of peace or a small act of kindness. What do you think might be a tiny step you could take to start acknowledging these moments, even if they feel insignificant at first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25838756561279297,
+    "aro_t": 0.13173282146453857,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel overwhelming to even think about adding more to my plate. Noticing a moment of peace sounds nice, but I worry that it might be hard to find those moments when I'm constantly feeling anxious and guilty. How do I even start looking for them?",
+    "therapist": "I understand that it can feel daunting to add even one more thing to your plate, especially when you're already feeling anxious and guilty. Starting with something as simple as taking a deep breath and noticing how it feels can be a gentle way to begin. Even a brief moment of calm can be a start. What do you think about setting a reminder on your phone for a specific time each day to pause and take a few deep breaths?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14106786251068115,
+    "aro_t": 0.17084848880767822,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the idea, but it's hard for me to see how just taking deep breaths will make a difference. I feel like there's so much more to my anxiety and guilt, and I worry that it won't really help. Plus, I'm already struggling to keep up with everything else; adding another thing, even if it's just a reminder, feels overwhelming.",
+    "therapist": "I completely understand how you feel, and it's totally valid to be skeptical about whether something as simple as deep breathing will make a difference when you're dealing with so much. It's important to find strategies that feel manageable and meaningful to you. What do you think might be a small, low-stress way to start addressing your anxiety and guilt, even if it doesn't feel like a big solution?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07955265045166016,
+    "aro_t": 0.22019922733306885,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you understanding my skepticism. It's just hard to imagine something like deep breathing making a real difference when I feel so overwhelmed. Maybe I could try something really small, like taking a few deep breaths when I start to feel anxious, but I'm not sure it will help much. What if it doesn't work and I just feel more frustrated?",
+    "therapist": "I understand your concerns, and it's totally normal to feel skeptical about whether small steps will make a difference. Trying something like taking a few deep breaths when you start to feel anxious can be a gentle way to begin, even if it feels small. The goal is to give yourself a moment of pause and a sense of control, which can sometimes help ease the intensity of the anxiety. What do you think about giving it a try and seeing how it feels, without putting too much pressure on it to \"work\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16805791854858398,
+    "aro_t": 0.19810640811920166,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, and I do see the logic in taking small steps. But I worry that something as simple as deep breathing won't really make a dent in my anxiety. It's hard because my mind tends to spiral so quickly, and I'm not sure a few breaths will be enough to stop that.",
+    "therapist": "I understand your concerns, and it's completely valid to feel that way when your mind tends to spiral quickly. Deep breathing might not solve everything, but it can sometimes provide a momentary anchor to help you regain a bit of calm. It's about finding small tools that can give you a sense of control. What do you think about also trying to identify a supportive person or activity that can help you when you start to feel overwhelmed?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07008373737335205,
+    "aro_t": 0.12484622001647949,
+    "text_emotion": "Neutral"
+  }
+]

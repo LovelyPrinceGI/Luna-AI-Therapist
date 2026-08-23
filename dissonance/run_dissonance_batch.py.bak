@@ -1,0 +1,532 @@
+#!/usr/bin/env python3
+"""
+Batch run Dissonance-Aware therapist generation for N dialogues.
+Extracted from dialogue_1_dissonance_resist.ipynb.
+Supports incremental runs via --start/--end arguments.
+Runs on WSL2 with Flash Attention for 2-3x Zonos speedup.
+"""
+import argparse
+import os
+import sys
+import json
+import math
+from pathlib import Path
+from typing import Tuple
+
+import torch
+import numpy as np
+import soundfile as sf
+import librosa
+from openai import OpenAI
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForAudioClassification
+
+# =====================================================
+# Platform-aware paths
+# =====================================================
+import platform
+if platform.system() == "Windows":
+    BASE_DIR = Path(r"C:\Luna-AI-Therapist")
+else:
+    BASE_DIR = Path("/mnt/c/Luna-AI-Therapist")
+
+SYNTH_DIR = BASE_DIR / "dissonance" / "own_script" / "dialogue_6"
+sys.path.insert(0, str(SYNTH_DIR))
+from run_synthesis_dialogue_6_module import synth_single_utterance
+
+VOICE_DIR = BASE_DIR / "dissonance" / "own_script" / "dissonance" / "voice"
+TMP_ZONOS_JSON = BASE_DIR / "dissonance" / "own_script" / "dissonance" / "tmp_directed_zonos_single.json"
+OUTPUT_DIR = BASE_DIR / "dissonance" / "own_script" / "dissonance" / "output"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# =====================================================
+# OpenAI setup
+# =====================================================
+MODEL = "gpt-4o-mini"
+
+def setup_client() -> OpenAI:
+    key = os.environ.get("OPENAI_API_KEY")
+    if not key:
+        key = input("Enter OPENAI_API_KEY: ")
+        os.environ["OPENAI_API_KEY"] = key
+    return OpenAI()
+
+client = setup_client()
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Device: {device}")
+
+# =====================================================
+# Text VA: vad-bert
+# =====================================================
+VAD_MODEL_NAME = "RobroKools/vad-bert"
+tokenizer = AutoTokenizer.from_pretrained(VAD_MODEL_NAME)
+vad_model = AutoModelForSequenceClassification.from_pretrained(VAD_MODEL_NAME).to(device)
+vad_model.eval()
+
+V_MIN, V_MAX = 1.0, 5.0
+A_MIN, A_MAX = 1.0, 5.0
+
+def _to_minus1_1(x: float, xmin: float = 1.0, xmax: float = 5.0) -> float:
+    return float(2 * (x - xmin) / (xmax - xmin) - 1.0)
+
+def get_text_VA(text: str) -> Tuple[float, float]:
+    enc = tokenizer(text, padding=True, truncation=True, max_length=128, return_tensors="pt")
+    enc = {k: v.to(device) for k, v in enc.items()}
+    with torch.no_grad():
+        out = vad_model(**enc)
+    vad = out.logits.cpu().numpy()[0]
+    v_raw, a_raw, d_raw = vad.tolist()
+    return _to_minus1_1(v_raw, V_MIN, V_MAX), _to_minus1_1(a_raw, A_MIN, A_MAX)
+
+# =====================================================
+# WavLM: speech VA
+# =====================================================
+WAVLM_MODEL_NAME = "3loi/SER-Odyssey-Baseline-WavLM-Multi-Attributes"
+print(f"Loading WavLM: {WAVLM_MODEL_NAME} ...")
+_wavlm = AutoModelForAudioClassification.from_pretrained(WAVLM_MODEL_NAME, trust_remote_code=True).to(device)
+_wavlm.eval()
+_target_sr = _wavlm.config.sampling_rate
+_mean = _wavlm.config.mean
+_std = _wavlm.config.std
+
+def _predict_file(path: str) -> Tuple[float, float, float]:
+    audio, sr = sf.read(path)
+    if audio.ndim > 1:
+        audio = audio.mean(axis=1)
+    if sr != _target_sr:
+        audio = librosa.resample(audio, orig_sr=sr, target_sr=_target_sr)
+    audio = (audio - _mean) / (_std + 1e-6)
+    wavs = torch.tensor(audio, dtype=torch.float32).unsqueeze(0).to(device)
+    mask = torch.ones(1, wavs.shape[1], dtype=torch.float32).to(device)
+    with torch.no_grad():
+        pred = _wavlm(wavs, mask)
+    logits = pred.cpu().numpy()[0].astype(float)
+    return float(logits[0]), float(logits[1]), float(logits[2])
+
+def _scale_0_1_to_minus1_1(x: float) -> float:
+    return 2.0 * x - 1.0
+
+def get_speech_VA(wav_path: Path) -> Tuple[float, float]:
+    aro, dom, val = _predict_file(str(wav_path))
+    return _scale_0_1_to_minus1_1(val), _scale_0_1_to_minus1_1(aro)
+
+# =====================================================
+# Vocal Descriptors: librosa
+# =====================================================
+def get_vocal_descriptors(wav_path: Path, client_text: str) -> str:
+    y, sr_native = librosa.load(str(wav_path), sr=None)
+    duration = len(y) / sr_native
+
+    pitches, _ = librosa.piptrack(y=y, sr=sr_native)
+    pitch_vals = pitches[pitches > 0]
+    pitch_mean = float(pitch_vals.mean()) if len(pitch_vals) > 0 else 0.0
+
+    rms = librosa.feature.rms(y=y)
+    rms_mean = float(rms.mean())
+
+    word_count = len(client_text.split())
+    speech_rate = word_count / duration if duration > 0 else 1.0
+
+    if pitch_mean < 100:        pitch_desc = "very low pitch"
+    elif pitch_mean < 150:      pitch_desc = "low pitch"
+    elif pitch_mean < 200:      pitch_desc = "moderate pitch"
+    elif pitch_mean < 250:      pitch_desc = "high pitch"
+    else:                       pitch_desc = "very high pitch"
+
+    if rms_mean < 0.02:         loud_desc = "very quiet"
+    elif rms_mean < 0.05:       loud_desc = "soft-spoken"
+    elif rms_mean < 0.10:       loud_desc = "moderate volume"
+    elif rms_mean < 0.15:       loud_desc = "loud"
+    else:                       loud_desc = "very loud"
+
+    if speech_rate < 2.0:       rate_desc = "slow speech"
+    elif speech_rate < 3.0:     rate_desc = "moderate-paced speech"
+    elif speech_rate < 4.0:     rate_desc = "fast speech"
+    else:                       rate_desc = "very rapid speech"
+
+    return f"{pitch_desc}, {loud_desc}, {rate_desc}"
+
+# =====================================================
+# Discrete Emotion: Russell (1980) circumplex
+# =====================================================
+def get_discrete_emotion(val: float, aro: float) -> str:
+    distance = math.sqrt(val**2 + aro**2)
+    if distance < 0.15:
+        return "Neutral"
+    angle = math.degrees(math.atan2(aro, val))
+    if angle < 0:
+        angle += 360
+    centers = [(0, "Happy"), (45, "Excited"), (90, "Tense"),
+               (135, "Angry"), (180, "Sad"), (225, "Depressed"),
+               (270, "Calm"), (315, "Content")]
+    closest = min(centers, key=lambda c: min(abs(angle - c[0]), 360 - abs(angle - c[0])))
+    return closest[1]
+
+# =====================================================
+# Zonos Director LLM (vocal parameter assignment)
+# =====================================================
+ZONOS_DIRECTOR_SYSTEM = """
+You are a master Vocal Director simulating the emotion2vec framework.
+
+Given ONE client utterance from a CBT therapy session, you must output
+a JSON object with a single directed utterance for Zonos, matching this schema:
+
+{
+  "utterance_text": "...",
+  "is_new_utterance_rule": true,
+  "utterance_level_direction": "[anxious, slow]",
+  "new_utterance_rule_definition": {
+    "primary_zonos_vector_value": {
+      "Happiness": 0.0,
+      "Sadness": 0.8,
+      "Fear": 0.4
+    },
+    "speaking_rate": 15.0,
+    "pitch_std": 100.0
+  },
+  "frame_level_directions": []
+}
+
+Rules:
+- Copy the client utterance EXACTLY into "utterance_text".
+  Do NOT rewrite, paraphrase, summarize, or change any words.
+- Use only these emotion keys in primary_zonos_vector_value:
+  Happiness, Sadness, Disgust, Fear, Surprise, Anger, Neutral, Other.
+- Values should be between -1.0 and 1.0.
+- speaking_rate: between 10.0 and 25.0
+- pitch_std: between 20.0 and 150.0
+- is_new_utterance_rule must always be true.
+- frame_level_directions can be an empty list [].
+
+Output ONLY the JSON object, with keys exactly:
+utterance_text, is_new_utterance_rule, utterance_level_direction,
+new_utterance_rule_definition, primary_zonos_vector_value,
+speaking_rate, pitch_std, frame_level_directions.
+Do NOT include any extra commentary.
+"""
+
+def make_directed_zonos_for_text(client_text: str) -> dict:
+    user_prompt = f'Client utterance:\n\n"""\n{client_text}\n"""\n\nGenerate ONE directed utterance JSON following the schema and rules.\nOutput only the JSON.'
+    raw = chat_once(ZONOS_DIRECTOR_SYSTEM, user_prompt)
+    import re
+    m = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not m:
+        raise ValueError(f"Could not find JSON in Zonos director output:\n{raw}")
+    return json.loads(m.group(0))
+
+def write_tmp_zonos_json(directed: dict) -> None:
+    data = {"directed_utterances": [directed]}
+    TMP_ZONOS_JSON.parent.mkdir(parents=True, exist_ok=True)
+    with TMP_ZONOS_JSON.open("w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def synthesize_client_audio(client_text: str, turn: int, dialogue_id: int, min_sec_per_char: float = None) -> Path:
+    directed = make_directed_zonos_for_text(client_text)
+    write_tmp_zonos_json(directed)
+    print(f"  [TURN {turn}] Zonos synth (rate={min_sec_per_char}) ...")
+    out_path_str = synth_single_utterance(turn, str(TMP_ZONOS_JSON), dialogue_id=dialogue_id, prefix="dissonance", min_sec_per_char=min_sec_per_char)
+    if out_path_str is None:
+        raise RuntimeError(f"Zonos failed to synthesize utterance {turn}")
+    wav_path = Path(out_path_str)
+    if not wav_path.exists():
+        raise FileNotFoundError(f"Expected audio not found: {wav_path}")
+    return wav_path
+
+
+# Dynamic speaking rate: higher for sad/depressed (slow), lower for excited (fast)
+def get_min_sec_per_char(val_t: float, aro_t: float) -> float:
+    base = 0.035
+    va_factor = val_t * -0.002 + aro_t * -0.007  # arousal drives speech rate more than valence
+    return max(0.020, min(0.060, base + va_factor))
+
+# =====================================================
+# LLM helper
+# =====================================================
+def chat_once(system_prompt: str, user_prompt: str) -> str:
+    resp = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        temperature=0.7,
+        max_tokens=512,
+    )
+    return resp.choices[0].message.content.strip()
+
+# =====================================================
+# Client prompts
+# =====================================================
+CLIENT_SYSTEM = """
+You are a CBT therapy client talking to therapist "Luna".
+
+- You struggle with anxiety, guilt, and loneliness in your life.
+- You sometimes feel misunderstood or skeptical about therapy.
+- When the therapist suggests reframing, advice, or homework,
+  you may partially resist, question it, or bring up obstacles
+  (e.g., "I don't think that will work for me", "It's hard because ...").
+- Speak in a natural, first-person voice.
+- Stay emotionally consistent across turns.
+- Describe thoughts, feelings, and situations in 2–3 sentences per turn.
+- In each full dialogue, you must focus on only ONE life problem scenario.
+- Do not mix multiple problem seeds in the same dialogue.
+- Once a problem seed is assigned for a dialogue, keep that same core life problem throughout the whole dialogue.
+"""
+
+CLIENT_USER_TEMPLATE_FIRST = """
+Start the first message to your therapist.
+
+Describe what has been bothering you lately (2–3 sentences).
+You may already feel unsure whether therapy can really help.
+
+Important:
+- This dialogue has exactly ONE assigned life problem scenario.
+- You must only use the following scenario in this whole dialogue.
+- Do not introduce a second major life problem.
+
+Assigned life problem scenario:
+{problem_seed}
+"""
+
+CLIENT_USER_TEMPLATE_NEXT = """
+Therapist just said:
+"{therapist_text}"
+
+Continue the conversation as the client.
+Describe what you think and feel now in 2–3 sentences.
+If the therapist gives advice, interpretations, or homework,
+you can question it, express doubts, or explain why it feels difficult.
+
+Important:
+- Stay within the same assigned life problem scenario for this whole dialogue.
+- Do not switch to a new major life problem.
+"""
+
+# =====================================================
+# Shared problem seeds (loaded from generate_shared_seeds.py output)
+# =====================================================
+SHARED_SEEDS_PATH = OUTPUT_DIR / "shared_seeds.json"
+if not SHARED_SEEDS_PATH.exists():
+    raise FileNotFoundError(
+        f"Run generate_shared_seeds.py first!\nExpected: {SHARED_SEEDS_PATH}"
+    )
+with open(SHARED_SEEDS_PATH, "r", encoding="utf-8") as f:
+    SHARED_SEEDS = json.load(f)
+print(f"Loaded {len(SHARED_SEEDS)} shared seeds from {SHARED_SEEDS_PATH}")
+
+
+def get_problem_seed(dialogue_id: int) -> str:
+    return SHARED_SEEDS[dialogue_id - 1]
+
+
+# =====================================================
+# Therapist prompts (Dissonance-Aware)
+# =====================================================
+THERAPIST_SYSTEM = """
+You are "Luna", a CBT therapist with access to both the client's words and
+an analysis of their voice, including how their vocal delivery matches or
+mismatches those words.
+
+For each client message you receive:
+- Text-based emotion:
+  - Valence_text, Arousal_text (from -1 to +1)
+- Voice-based emotion:
+  - Valence_speech, Arousal_speech (from -1 to +1)
+- Vocal prosodic descriptors (contextual cues):
+  - pitch level, loudness, speaking rate
+- Dissonance:
+  - delta_valence = speech - text
+  - delta_arousal = speech - text
+
+Interpretation guidelines:
+- Large |delta_valence| or |delta_arousal| means the client's tone and words
+  are pulling in different directions (they might be minimizing or masking something).
+- Vocal descriptors provide additional context about the client's emotional
+  delivery beyond the VA numbers alone.
+- Example: text seems "I'm fine" (positive) but voice is very flat or tense (negative).
+
+Your job:
+- When dissonance is small, respond as in normal emotion-aware CBT.
+- When dissonance is large, gently explore the mismatch:
+  - Reflect what might be "under the surface".
+  - Ask curious, non-judgmental questions like
+    "I wonder if part of you feels more scared/sad than the words suggest?"
+
+Important:
+- NEVER mention numbers, "dissonance", or "analysis".
+- Speak only in natural language.
+- Still follow CBT principles (thoughts, evidence, alternative perspectives).
+"""
+
+THERAPIST_USER_TEMPLATE = """
+Client just said:
+"{client_text}"
+
+Estimates from analysis:
+- Text emotion:
+    - Valence_text: {val_t:.2f}
+    - Arousal_text: {aro_t:.2f}
+- Voice emotion:
+    - Valence_speech: {val_s:.2f}
+    - Arousal_speech: {aro_s:.2f}
+- Vocal cues (prosodic features):
+    {vocal_descriptors}
+- Dissonance (speech - text):
+    - delta_valence: {delta_v:.2f}
+    - delta_arousal: {delta_a:.2f}
+
+Overall dissonance flag: {is_dissonant}
+
+Write your next therapist response using this information internally.
+If the mismatch (absolute delta) is large, gently explore what might be
+unspoken or minimized, without naming any numbers.
+"""
+
+# =====================================================
+# Save helper
+# =====================================================
+def save_dialogue_json_and_jsonl(turns, base_path: Path):
+    base_path.parent.mkdir(parents=True, exist_ok=True)
+    json_path = base_path.with_suffix(".json")
+    jsonl_path = base_path.with_suffix(".jsonl")
+    with json_path.open("w", encoding="utf-8") as f:
+        json.dump(turns, f, ensure_ascii=False, indent=2)
+    with jsonl_path.open("w", encoding="utf-8") as f:
+        for rec in turns:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    print(f"  [SAVE] {jsonl_path}")
+
+# =====================================================
+# Main loop: run a single dialogue
+# =====================================================
+def run_single_dialogue(dialogue_id: int, max_turns: int = 10):
+    problem_seed = get_problem_seed(dialogue_id)
+    print(f"\n=== DISSONANCE-AWARE dialogue {dialogue_id} ===")
+
+    turns = []
+
+    # ---- turn 1 ----
+    first_prompt = CLIENT_USER_TEMPLATE_FIRST.format(problem_seed=problem_seed)
+    client_text = chat_once(CLIENT_SYSTEM, first_prompt)
+    print(f"CLIENT (t=1): {client_text[:80]}...")
+
+    val_t, aro_t = get_text_VA(client_text)
+    text_emo = get_discrete_emotion(val_t, aro_t)
+    rate = get_min_sec_per_char(val_t, aro_t)
+    wav_path = synthesize_client_audio(client_text, turn=1, dialogue_id=dialogue_id, min_sec_per_char=rate)
+    val_s, aro_s = get_speech_VA(wav_path)
+    vocal_desc = get_vocal_descriptors(wav_path, client_text)
+    speech_emo = get_discrete_emotion(val_s, aro_s)
+
+    delta_v = val_s - val_t
+    delta_a = aro_s - aro_t
+    is_dissonant = (abs(delta_v) >= 0.5) or (abs(delta_a) >= 0.5)
+    emotion_mismatch = (text_emo != speech_emo)
+
+    print(f"  VA: text=({val_t:.2f},{aro_t:.2f}) speech=({val_s:.2f},{aro_s:.2f}) | delta=({delta_v:.2f},{delta_a:.2f}) | dissonance={is_dissonant} | emo={text_emo}/{speech_emo} mismatch={emotion_mismatch}")
+
+    therapist_text = chat_once(
+        THERAPIST_SYSTEM,
+        THERAPIST_USER_TEMPLATE.format(
+            client_text=client_text,
+            val_t=val_t, aro_t=aro_t,
+            val_s=val_s, aro_s=aro_s,
+            vocal_descriptors=vocal_desc,
+            delta_v=delta_v, delta_a=delta_a,
+            is_dissonant=is_dissonant,
+        ),
+    )
+    print(f"THERAPIST (t=1): {therapist_text[:80]}...")
+
+    turns.append({
+        "turn": 1,
+        "client": client_text,
+        "therapist": therapist_text,
+        "condition": "dissonance_aware_therapist",
+        "val_t": val_t, "aro_t": aro_t,
+        "val_s": val_s, "aro_s": aro_s,
+        "text_emotion": text_emo, "speech_emotion": speech_emo,
+        "vocal_descriptors": vocal_desc,
+        "delta_valence": delta_v, "delta_arousal": delta_a,
+        "is_dissonant": is_dissonant, "emotion_mismatch": emotion_mismatch,
+        "audio_path": str(wav_path),
+    })
+
+    # ---- turns 2..max_turns ----
+    for t in range(2, max_turns + 1):
+        client_text = chat_once(CLIENT_SYSTEM, CLIENT_USER_TEMPLATE_NEXT.format(therapist_text=therapist_text))
+        print(f"CLIENT (t={t}): {client_text[:80]}...")
+
+        val_t, aro_t = get_text_VA(client_text)
+        text_emo = get_discrete_emotion(val_t, aro_t)
+        rate = get_min_sec_per_char(val_t, aro_t)
+        wav_path = synthesize_client_audio(client_text, turn=t, dialogue_id=dialogue_id, min_sec_per_char=rate)
+        val_s, aro_s = get_speech_VA(wav_path)
+        vocal_desc = get_vocal_descriptors(wav_path, client_text)
+        speech_emo = get_discrete_emotion(val_s, aro_s)
+
+        delta_v = val_s - val_t
+        delta_a = aro_s - aro_t
+        is_dissonant = (abs(delta_v) >= 0.5) or (abs(delta_a) >= 0.5)
+        emotion_mismatch = (text_emo != speech_emo)
+
+        print(f"  VA: text=({val_t:.2f},{aro_t:.2f}) speech=({val_s:.2f},{aro_s:.2f}) | delta=({delta_v:.2f},{delta_a:.2f}) | dissonance={is_dissonant} | emo={text_emo}/{speech_emo} mismatch={emotion_mismatch}")
+
+        therapist_text = chat_once(
+            THERAPIST_SYSTEM,
+            THERAPIST_USER_TEMPLATE.format(
+                client_text=client_text,
+                val_t=val_t, aro_t=aro_t,
+                val_s=val_s, aro_s=aro_s,
+                vocal_descriptors=vocal_desc,
+                delta_v=delta_v, delta_a=delta_a,
+                is_dissonant=is_dissonant,
+            ),
+        )
+        print(f"THERAPIST (t={t}): {therapist_text[:80]}...")
+
+        turns.append({
+            "turn": t,
+            "client": client_text,
+            "therapist": therapist_text,
+            "condition": "dissonance_aware_therapist",
+            "val_t": val_t, "aro_t": aro_t,
+            "val_s": val_s, "aro_s": aro_s,
+            "text_emotion": text_emo, "speech_emotion": speech_emo,
+            "vocal_descriptors": vocal_desc,
+            "delta_valence": delta_v, "delta_arousal": delta_a,
+            "is_dissonant": is_dissonant, "emotion_mismatch": emotion_mismatch,
+            "audio_path": str(wav_path),
+        })
+
+    base_name = f"dissonance_{dialogue_id}_full_dissonance_online"
+    base_path = OUTPUT_DIR / base_name
+    save_dialogue_json_and_jsonl(turns, base_path)
+
+
+# =====================================================
+# CLI Entry point
+# =====================================================
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--start", type=int, default=1)
+    parser.add_argument("--end", type=int, default=100)
+    parser.add_argument("--max-turns", type=int, default=10)
+    args = parser.parse_args()
+
+    print(f"Dissonance-Aware batch: dialogues {args.start} to {args.end}")
+    print(f"Output: {OUTPUT_DIR}")
+    print(f"Voice: {VOICE_DIR}")
+    print(f"Model: {MODEL}")
+    print(f"Device: {device}")
+    print()
+
+    for i in range(args.start, args.end + 1):
+        try:
+            run_single_dialogue(dialogue_id=i, max_turns=args.max_turns)
+        except Exception as e:
+            print(f"ERROR on dialogue {i}: {e}")
+            # Continue with next dialogue
+            continue
+
+    print(f"\nDONE. Dialogues {args.start}-{args.end} complete.")
+    print(f"Output: {OUTPUT_DIR}")

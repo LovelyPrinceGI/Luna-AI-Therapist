@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately. Ever since I lost my job at the tech startup last month, I can't shake this anxiety about my financial security and what my future holds. It feels like everything is uncertain now, and I'm not sure if I'll ever find a job as good as the one I had.",
+    "therapist": "I'm really sorry to hear about your job loss and how it's affecting you. It's completely understandable to feel anxious and uncertain in this situation. What are some of the thoughts that come up for you when you think about your future and job prospects?",
+    "condition": "baseline",
+    "val_t": -0.2693294286727905,
+    "aro_t": 0.20357298851013184,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's been really tough. I keep thinking that I might not find another job that pays as well or fits me as well as the one I lost. The uncertainty just makes me feel so anxious and stuck.",
+    "therapist": "It sounds like those thoughts are really weighing on you and causing a lot of anxiety. It's natural to worry about finding a job that matches the one you had, especially when you felt it was a great fit. How do you think these thoughts are affecting your daily life and your ability to move forward?",
+    "condition": "baseline",
+    "val_t": -0.36437976360321045,
+    "aro_t": 0.16673648357391357,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, these thoughts are really getting in the way. I find myself constantly comparing every new opportunity to my old job, and it's making it hard to even apply for new positions. I know I need to move forward, but it feels like I'm stuck in this loop of self-doubt and fear.",
+    "therapist": "It's really common to get stuck in those kinds of thought patterns, especially after losing a job you valued. It sounds like the self-doubt and fear are making it tough to see new opportunities clearly. What do you think might help you start to break out of this loop and approach new opportunities with a bit more openness?",
+    "condition": "baseline",
+    "val_t": -0.2528480291366577,
+    "aro_t": 0.20507776737213135,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it's hard to break out of that loop. I keep thinking that every new opportunity will just lead to more disappointment, and that makes me hesitant to even try. I don't know how to trust that things will be different this time.",
+    "therapist": "I can really understand how those feelings of potential disappointment and fear of failure can make it hard to take the next step. It's important to acknowledge that these feelings are valid, but they don't have to be the only guide for your decisions. What if we explored some small steps you could take to test out whether new opportunities might be more positive than you expect? What do you think might be a manageable first step for you?",
+    "condition": "baseline",
+    "val_t": -0.20919430255889893,
+    "aro_t": 0.07708561420440674,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you're trying to help, but I feel like even small steps can be really daunting. I worry that if I try something new and it doesn't work out, it will just confirm all my fears. How do I know I won't just end up feeling worse?",
+    "therapist": "I completely understand how daunting even small steps can feel, especially when you're worried about confirming your fears. It's natural to want to avoid situations that might lead to more disappointment. One thing we can consider is breaking down those small steps even further, so they feel more manageable and less risky. What do you think about starting with something very small, like updating your resume or reaching out to a former colleague for advice? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.22822904586791992,
+    "aro_t": 0.15188193321228027,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, Luna. It does feel daunting, even thinking about those small steps. I worry that updating my resume or reaching out to a former colleague might just highlight how much I've fallen behind, and that makes me feel even more anxious and inadequate. It's hard to see how those small steps won't just make me feel worse.",
+    "therapist": "I can see how those small steps might feel like they could highlight your concerns and make you feel more anxious. It's really important to acknowledge those feelings and the fear of feeling inadequate. What if we explored some ways to reframe these small steps as opportunities to gather information and gain insights, rather than as definitive measures of your worth or progress? How does that perspective shift feel to you?",
+    "condition": "baseline",
+    "val_t": -0.2057209014892578,
+    "aro_t": 0.1109309196472168,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's hard for me to see those small steps as anything other than a measure of my worth, though. I worry that if I fail at even the smallest thing, it will just confirm all the negative things I believe about myself. It's a tough mindset to shift.",
+    "therapist": "I understand how deeply those worries can affect your mindset, and it's completely valid to feel that way. Shifting that mindset can be a gradual process, and it's okay to take it one step at a time. What if we focused on just one small, low-stakes action that feels a bit easier to manage, and we treat it as an experiment to learn from, rather than a test of your worth? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.07268404960632324,
+    "aro_t": 0.056223154067993164,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It sounds reasonable, but I still feel a bit skeptical. It's hard because even small actions can feel overwhelming when I'm already so anxious and guilty. How do I know if I'm just setting myself up for more disappointment?",
+    "therapist": "I totally understand your skepticism and the overwhelming feelings you're dealing with. It's completely normal to feel that way, especially when anxiety and guilt are already high. One way to approach this could be to set very gentle, manageable goals and focus on the process rather than the outcome. For example, you might set a goal to spend just 10 minutes updating your resume or drafting a message to a former colleague, without any expectations of immediate results. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.2641648054122925,
+    "aro_t": 0.21752941608428955,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the idea of setting small, manageable goals, but I still feel a bit overwhelmed. It’s hard to even start, especially when I feel so anxious and guilty about not doing enough. I worry that even a small step might just highlight how much I haven’t accomplished.",
+    "therapist": "I can really hear how overwhelming and daunting it feels to even consider taking small steps, and it's completely understandable to feel that way. It's okay to take things at your own pace and to be gentle with yourself. What if we focused on just one thing you can do today that feels a little bit easier and doesn't have to be perfect? It could be something as simple as taking a short walk or writing down three things you're grateful for. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.17710435390472412,
+    "aro_t": 0.15879952907562256,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It does feel overwhelming, and I'm not sure if I can even manage something as simple as a short walk or writing down gratitude. It's hard because I feel so stuck and tired all the time, and I worry that even these small things won't make a difference.",
+    "therapist": "I can hear how truly exhausting and stuck you feel, and it's completely valid to feel that way. It's okay to take a moment to acknowledge and accept those feelings without pushing yourself too hard. What if we just focus on giving yourself some compassion and understanding for how you're feeling right now? How does it feel to just sit with the idea of being kind to yourself, even if you don't feel like doing anything else today?",
+    "condition": "baseline",
+    "val_t": -0.005004286766052246,
+    "aro_t": 0.15787720680236816,
+    "text_emotion": "Tense"
+  }
+]

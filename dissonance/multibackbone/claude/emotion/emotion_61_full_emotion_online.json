@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling with this networking event coming up next week for work. Every time I think about it, my heart just starts racing and I get this sick feeling in my stomach — like I know I'm going to have to walk up to strangers and introduce myself, and I just freeze up even imagining it. I'm not even sure talking about it here is going to change anything, because when the moment actually comes, it's a whole different story.",
+    "therapist": "It sounds like even just anticipating this event brings up a lot of physical discomfort and dread, and I really hear that skepticism about whether talking will help when the real moment hits — that's such a valid concern. What you're describing, that freeze response, often comes from a thought underneath the anxiety, like a prediction about what will happen or what it would mean about you. Can you tell me more about what your mind is telling you in those moments when you imagine walking up to a stranger — what's the worst thing you picture happening?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21898150444030762,
+    "aro_t": 0.28745734691619873,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the worst thing I picture is just... going completely blank. Like, I walk up to someone and my mind just empties out, and I'm standing there looking like an idiot with nothing to say, and they give me that look — you know, that slightly uncomfortable, pitying look — and then they find an excuse to walk away. And somehow that feels like proof of something, like it confirms that I'm just fundamentally not someone people want to be around.",
+    "therapist": "That fear of going blank and having it \"confirm\" something deeper about yourself — that's such a painful place to be, and it makes so much sense that the event feels so heavy when that's what's waiting underneath it. In CBT, we'd call that a core belief, this sense of being fundamentally unwanted, and it's worth noticing how much weight that one imagined moment is being asked to carry as \"proof.\" I'm curious — if a close friend described that same scenario to you, going blank for a moment at a networking event, would you see it as proof that *they* are someone people don't want to be around?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33774566650390625,
+    "aro_t": 0.1622612476348877,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... no, obviously I wouldn't think that about a friend. But it feels different when it's me — like there's already so much evidence stacked up, you know, years of feeling like I'm on the outside of things, so one more moment just kind of fits into this pattern I've built up. I guess I hear what you're saying about the \"core belief\" thing, but it's hard to just decide that the pattern isn't real when it's all I've ever really known.",
+    "therapist": "It's really meaningful that you can see the double standard for your friend versus yourself, even if it doesn't *feel* the same yet — that gap is actually important and worth holding onto. You're right that I'm not asking you to just decide the pattern isn't real; years of feeling on the outside is a real experience, and we're not trying to erase it. But I'm wondering — when you look at that \"evidence\" you've built up over the years, is it possible that the belief itself has been acting like a filter, maybe causing you to notice the moments that fit the pattern and discount the ones that don't?",
+    "condition": "emotion_text_only",
+    "val_t": -0.040137290954589844,
+    "aro_t": 0.044757723808288574,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... yeah, I can see what you're saying about the filter thing, and part of me knows it's probably true. But it's hard to just accept that, because it feels like I'd be dismissing all the times I genuinely was left out or forgotten about — like I'd be gaslighting myself. And honestly, even if the filter exists, that doesn't make the loneliness feel any less real right now.",
+    "therapist": "The loneliness is real, and I want to be clear — questioning the filter is never about dismissing those painful moments of being left out, because those happened and they mattered. The goal isn't to gaslight yourself, but actually the opposite: to see the *full* picture rather than just the parts the belief has been highlighting. I'm curious, when you think about the loneliness you're feeling right now, what would it mean for you if even small moments of genuine connection *did* exist alongside all that pain — would there be room for both to be true at the same time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2419184446334839,
+    "aro_t": 0.07654154300689697,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I guess... maybe both could be true at the same time, but it almost feels dangerous to admit that. Like if I acknowledge the small good moments, I'm somehow letting people off the hook for all the times they've made me feel invisible, or I'm minimizing how much it actually hurts. It's easier to just hold onto the pain because at least that feels honest.",
+    "therapist": "There's something really honest and courageous in what you just said — that holding onto the pain feels like the most truthful thing you can do, like it's a form of loyalty to yourself and your experience. But I want to gently offer this: acknowledging a good moment doesn't cancel out the hurt, just like feeling the hurt doesn't erase the good — holding both isn't letting anyone off the hook, it's actually giving yourself a fuller, more honest picture than the pain alone can offer. What do you think it would feel like to hold onto the hurt *and* allow a small good moment to count at the same time — not instead of the pain, but alongside it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1507962942123413,
+    "aro_t": 0.08080112934112549,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe it's possible to hold both at once. But honestly, when I try to imagine letting a good moment count, there's this immediate voice that says I'm being naive or that I'm starting to forget how lonely and overlooked I've actually felt. It's like allowing the good in feels like the first step toward convincing myself everything is fine when it really isn't.",
+    "therapist": "That voice makes a lot of sense — it developed to protect you, to make sure you never get caught off guard by pain again, and that's actually a kind of self-loyalty even if it's keeping you stuck. But notice what it's assuming: that holding onto awareness of the good is the same as pretending everything is fine, when really those are two very different things. What if allowing a good moment to count wasn't a step toward forgetting the loneliness, but actually a way of wanting *more* for yourself than just pain — do you think there's a difference between those two things?",
+    "condition": "emotion_text_only",
+    "val_t": 0.008720636367797852,
+    "aro_t": 0.15240991115570068,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and I guess intellectually I can see there might be a difference. But in the moment, when something good happens, it doesn't feel like wanting more for myself — it feels more like I'm setting myself up, like I'm handing something over to be taken away. I think part of me genuinely believes that if I let myself enjoy it, I'm just making the eventual loneliness hit harder when it comes back.",
+    "therapist": "What you're describing is so understandable — if joy has reliably been followed by loss in your experience, then your mind has learned to treat good moments as threats rather than gifts, and that's a really painful way to have to live. It's worth noticing though that this belief — \"enjoying it makes the fall harder\" — is actually a prediction, and it's one that's never really been tested, because you've been protecting yourself from the experiment. I'm curious, can you think of a time when you did allow yourself something good, even briefly, and what actually happened afterward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.055538058280944824,
+    "aro_t": 0.18859529495239258,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I mean... there was this one afternoon a few months ago where I let myself just enjoy a walk in the park, no phone, no worrying, and it actually felt okay for a little while. But then that evening I got a call from my mom and she was upset about something, and I remember thinking \"see, there it is.\" I know you're probably going to say that's not proof of anything, but it really did feel like the universe confirming what I already believed.",
+    "therapist": "It's really significant that you actually remembered that afternoon — that it felt okay, that you gave yourself that, and I don't want that to get lost in what came after. What's striking is that two separate things happened: a genuinely peaceful moment, and then a hard phone call with your mom — but the belief stitched them together into one story where the good moment *caused* or *predicted* the pain. What do you think would have happened to that evening's phone call if you'd spent the afternoon worrying instead of enjoying the walk — do you think it would have gone any differently?",
+    "condition": "emotion_text_only",
+    "val_t": -0.02974832057952881,
+    "aro_t": 0.234960675239563,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "Honestly... no, I don't think the phone call would have gone any differently. My mom was going to say what she said regardless of what I'd been doing that afternoon. But it's hard to really believe that, because part of me still feels like enjoying myself was somehow tempting fate, like I let my guard down and that's why it hurt so much.",
+    "therapist": "You just made a really important connection on your own — that the phone call would have happened regardless, that your afternoon of peace had no actual power over what your mom said, and that's not a small thing to recognize. The feeling of \"tempting fate\" is the belief talking, trying to maintain control in a world that sometimes just hurts regardless of what you do — but notice that the guard you kept up all those other times didn't actually protect you from the hard moments either. What do you think it would mean for you if letting yourself enjoy life *wasn't* the thing making the painful moments hurt more — if the pain was just sometimes going to show up anyway?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2184736728668213,
+    "aro_t": 0.16595911979675293,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me wants to believe it... but there's this other part that immediately pushes back, like \"yeah, but what if you're wrong?\" I think if enjoying life didn't make the pain worse, it would mean I've been punishing myself for nothing all this time, and that's actually a really uncomfortable thought to sit with. It's almost easier to believe I had some control, even if it was making me miserable, than to accept that sometimes things just hurt and there's nothing I could have done.",
+    "therapist": "What you just said takes real courage to admit — that the idea of having no control, even painful control, feels safer than accepting that sometimes life just hurts without reason or fault. That realization, that you may have been punishing yourself unnecessarily, is genuinely grief-worthy, and it makes sense that it feels uncomfortable rather than freeing right now. I want to sit with that for a moment with you — if you could slowly start to let go of that self-punishment, not all at once but just a little, what do you think you might allow yourself that you've been holding back?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33906280994415283,
+    "aro_t": 0.12527883052825928,
+    "text_emotion": "Sad"
+  }
+]

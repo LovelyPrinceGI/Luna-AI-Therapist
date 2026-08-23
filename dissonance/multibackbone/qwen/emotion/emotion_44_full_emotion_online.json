@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really anxious lately. Since losing my job at the tech startup last month, I can't stop worrying about my financial security and what my future career might look like. It feels overwhelming, and I'm not even sure if therapy can really help with all this.",
+    "therapist": "Hi there, I can really hear how anxious and overwhelmed you're feeling right now. It’s completely understandable to worry about your financial security and career path after such a significant change. How have you been coping with these thoughts so far, and is there anything specific that’s been helping or making things more difficult?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33003151416778564,
+    "aro_t": 0.31055939197540283,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough. I've been trying to distract myself with hobbies and staying busy, but it feels like I can't shake the worry. Whenever I think about the future, it just spirals into more anxiety. It's hard to find anything that really helps.",
+    "therapist": "I can see how tough this has been for you, and it’s clear that the worry is really sticking around despite your efforts to distract yourself. It’s normal to feel that way when facing such uncertainty. Have you tried any specific techniques to manage the spiraling thoughts, or are there any small steps you think might help you feel a bit more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17579329013824463,
+    "aro_t": 0.1879122257232666,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I've tried a few things, like deep breathing and mindfulness, but it feels like the anxiety just comes back stronger. I guess I'm just not sure what else to do. It's hard because I feel like these worries are just a part of who I am now.",
+    "therapist": "It sounds like you’ve been putting in a lot of effort to manage your anxiety, and it can be really frustrating when those techniques don’t seem to provide lasting relief. It’s natural to feel like these worries have become a part of you, but remember, you’re not defined by your anxiety. What do you think might help you feel a bit more grounded or in control, even if it’s just a small step?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2210063934326172,
+    "aro_t": 0.14730632305145264,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It’s just hard because sometimes it feels like no matter what I try, the anxiety always comes back. I guess I’m struggling to find something that really sticks, something that helps me feel more in control for longer than just a few minutes. It’s hard to know where to start, especially when I feel so overwhelmed most of the time.",
+    "therapist": "I can really understand how frustrating and overwhelming it must feel when the anxiety keeps coming back despite your efforts. It’s important to acknowledge that finding what works for you can take time and patience. Have you considered breaking down your goals into smaller, more manageable steps? Sometimes, focusing on tiny, achievable actions can help build a sense of control and progress. What small step might feel doable for you today, even if it’s just a tiny bit different from what you’ve tried before?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11137223243713379,
+    "aro_t": 0.2228487730026245,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, Luna. It does feel overwhelming, and I'm not sure breaking things down into smaller steps will make much of a difference. I've tried that before, and it still feels like I'm not making any real progress. It's hard because the anxiety seems to creep back in no matter what I do.",
+    "therapist": "I can see how deeply you’re struggling with this, and it’s completely understandable to feel that way when you’ve tried different strategies without seeing the results you hoped for. It’s tough when the anxiety keeps creeping back in, making it feel like you’re not making progress. Let’s try to explore some different angles. What about your hobbies or activities—have any of them provided even a small sense of relief or enjoyment, even if just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10105562210083008,
+    "aro_t": 0.20373070240020752,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I do find that playing guitar sometimes helps, but it feels like a temporary fix. The anxiety always comes back, and it's hard to keep up with it when it feels like I'm just distracting myself rather than solving the problem. I’m not sure how to make it more than just a momentary escape.",
+    "therapist": "It’s great to hear that playing guitar can provide you with some relief, even if it feels temporary. It’s common to feel like you’re just distracting yourself rather than solving the problem, but those moments of relief are still valuable. Have you ever considered using those moments as a foundation to explore your thoughts and feelings more deeply? For example, after playing, you might take a few minutes to journal about what you’re feeling or what thoughts are coming up. Could that help you gain some insights or make the relief last a bit longer?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03626072406768799,
+    "aro_t": 0.08400452136993408,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying, but it's hard for me to sit down and journal right after playing. It feels like the moment I try to think about it too much, the relief just slips away. I worry that forcing myself to write might end up making me feel worse instead of better.",
+    "therapist": "I understand that it can feel counterproductive to try to journal right after doing something that brings you relief, especially if it seems like it might take away from that moment. It’s important to find a balance that works for you. What if you tried journaling a little later, when you’re feeling more settled, or perhaps just jotting down a few quick notes about how you feel after playing? This way, you might be able to capture those feelings without disrupting the relief you’re experiencing in the moment. How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24694907665252686,
+    "aro_t": 0.04866290092468262,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I see your point, and I do want to try and capture those positive feelings without ruining the moment. It’s just hard because I often find that by the time I’m settled, I’ve already lost some of the clarity and emotion from that relief. I’ll give it a shot, though, and see how it goes.",
+    "therapist": "I can understand how challenging it can be to hold onto those positive feelings, especially when they fade quickly. It’s great that you’re willing to give it a try, even if it feels a bit daunting. Maybe starting with just a few quick notes right after playing, or even talking to someone you trust about how you feel, could help you capture those moments more effectively. How do you think you might approach this the next time you play your guitar?",
+    "condition": "emotion_text_only",
+    "val_t": 0.13403809070587158,
+    "aro_t": 0.14435338973999023,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but it's hard for me to imagine that writing a few notes will make much of a difference. It feels like those good moments are so fleeting, and I worry that trying to capture them will just make me more aware of how quickly they disappear. I'm not sure how talking to someone else about it would help either—I feel like I'd just end up feeling more vulnerable and alone.",
+    "therapist": "I completely understand how you’re feeling. It can be really tough to see those good moments slip away, and the idea of trying to capture them might feel like it just highlights how fleeting they are. It’s normal to worry about feeling more vulnerable, especially when you’re already feeling so much anxiety. Have you ever tried just acknowledging those good moments without trying to hold onto them too tightly? Sometimes, simply recognizing and appreciating them, even if briefly, can be a way to honor those feelings without adding more pressure. How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2082120180130005,
+    "aro_t": 0.06205618381500244,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I see what you're saying, and I get that acknowledging the good moments without trying to hold onto them might help. But it feels like those moments are so rare and precious, and if I don’t try to keep them, they might just slip away completely. It’s hard because I already feel so much anxiety and guilt about not enjoying life enough. How do I just let them go without feeling like I’m letting myself down?",
+    "therapist": "I can really understand how precious those moments feel, and it’s completely natural to want to hold onto them, especially when they are rare. It’s tough to find a balance between appreciating those moments and not feeling guilty about not enjoying life enough. One approach might be to practice mindfulness during those good moments, simply noticing and being present with the positive feelings without trying to grasp them. This can help you appreciate them more fully in the moment, without the pressure of trying to keep them forever. How does that idea resonate with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22820162773132324,
+    "aro_t": 0.21829259395599365,
+    "text_emotion": "Angry"
+  }
+]

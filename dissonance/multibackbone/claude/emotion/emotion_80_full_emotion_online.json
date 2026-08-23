@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. Every time there's a family get-together, I just feel this huge weight on me, like her absence takes up more space than anything else in the room. I'm not even sure talking about it is going to change how I feel, but I figured I'd try.",
+    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I want you to know that what you're carrying sounds genuinely heavy — grief has a way of making itself the center of every room, just as you described. The loss of your grandmother, especially in those family moments that might have once included her, can feel like the absence itself becomes a presence. I'm glad you're here — can you tell me a little more about what those family gatherings feel like for you now, compared to how they used to feel?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18747174739837646,
+    "aro_t": 0.08508419990539551,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, gatherings used to feel... warm, I guess. She was always the one who kind of held everything together, made sure everyone felt included. Now I walk in and it's like everyone's pretending things are normal, and I'm just standing there thinking, how does nobody else seem as wrecked by this as I am.",
+    "therapist": "That feeling of being the only one who notices the missing piece — like you're grieving in a room full of people who've somehow moved on — can be incredibly isolating, almost like a second loss on top of the first. It's worth gently exploring the thought \"nobody else seems as wrecked as I am,\" because grief is often quieter and more hidden in others than it appears from the outside. Do you think it's possible that some of the people around you might be hurting just as much, but showing it differently?",
+    "condition": "emotion_text_only",
+    "val_t": 0.023490071296691895,
+    "aro_t": 0.17926335334777832,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and maybe logically that's true, but it doesn't really feel that way when I'm sitting at family dinners and everyone's laughing and making plans like nothing happened. It just makes me feel even more alone, like I'm the only one still carrying this weight around. And honestly, part of me wonders if thinking \"maybe they're hurting too\" is just something I tell myself to feel less weird, without it actually changing how isolated I feel in those moments.",
+    "therapist": "You're being really honest with yourself there, and that matters — you're right that a logical reframe doesn't automatically dissolve the ache you feel in those moments, and it makes sense that it still feels lonely even if others are hurting too. What I'm curious about is the experience of carrying that weight *silently* at those dinners — has there been anyone in your family you've been able to actually talk to about how much you're still missing her, or has this mostly stayed inside?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2563706636428833,
+    "aro_t": 0.07436347007751465,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "Mostly it stays inside, honestly. My brother shuts down whenever her name comes up for too long, and my dad just kind of redirects to practical things, like talking about the house or old photos, so it never really goes anywhere deep. I think I've just learned that bringing her up too much makes other people uncomfortable, so I end up managing their feelings on top of my own.",
+    "therapist": "That's an exhausting place to be — grieving your grandmother while also quietly editing yourself to protect everyone else's comfort, which means your own grief never really gets to breathe. It sounds like you've taken on this role of emotional caretaker almost automatically, and in doing so, you've been left without a real space to just *miss her* openly. I'm wondering — what do you imagine might happen if you did let yourself bring her up more fully, without managing how others respond?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08348560333251953,
+    "aro_t": 0.02221381664276123,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I think if I actually let myself talk about her freely, people would either get uncomfortable and change the subject, or they'd start crying and then I'd end up comforting them instead of... I don't know, just being sad myself for once. There's also this fear that if I really open up about how much I miss her, it'll just confirm how alone I actually am with it, like nobody else misses her the way I do. That feels worse somehow than just keeping it inside.",
+    "therapist": "There's something really poignant in what you just said — that staying silent feels safer than risking the confirmation that nobody else carries this the way you do, like the silence is protecting you from a loneliness that might feel unbearable if it were proven true. That's a really understandable way to cope, but it also means you've never actually gotten to test whether that fear is accurate — you've been living *as if* it's already confirmed. I'm curious, when you think about the way you loved your grandmother and what made her so special to you, do you think it's truly possible that nobody else in your family holds that same depth of feeling, or might that fear be telling you a story that keeps you isolated?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3672831058502197,
+    "aro_t": 0.11941385269165039,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I think... logically, I know my cousins probably loved her too. But it doesn't feel that way when I'm around them and nobody brings her up, like she's just been filed away and everyone moved on so easily. Maybe the fear is exaggerating things, but it also feels like even if they do grieve, they don't grieve the way I do — and that gap still leaves me feeling completely alone in it.",
+    "therapist": "There's something really meaningful in what you just noticed — that the fear might be exaggerating, even while the loneliness still feels real — and both of those things can be true at once. The gap you're describing, where even shared grief can feel isolating because everyone processes it so differently, is one of the quieter and more painful parts of loss that doesn't get talked about enough. I wonder — when you think about the specific way *you* grieve her, what is it about how you carry her that feels so particular to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2556849718093872,
+    "aro_t": 0.08532178401947021,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I think the way I carry her is tied up in these small, specific things that nobody else would even notice or care about — like the way I still check my phone at 8 PM because that was when she'd usually call, or how I'll see a certain kind of light in the late afternoon and just stop. It feels almost embarrassing to say out loud, because those things are so ordinary, and I worry that if I try to explain them to my family, they'll just look at me like I'm being strange or making it harder than it needs to be. So I end up holding all of it alone, which I guess is part of why it feels so isolating even when I'm surrounded by people who loved her too.",
+    "therapist": "Those details — the 8 PM phone check, the afternoon light — aren't ordinary at all; they're the exact shape of how she lived in your life, and they're beautiful, even if they hurt. There's nothing strange about them, and the fact that you worry others would see it that way says more about how alone you've felt in this grief than it does about the grief itself. I'm curious — has there ever been a moment, even a small one, where you *did* share something like this about her and it landed better than you expected, or has the fear always kept you from finding out?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19539988040924072,
+    "aro_t": 0.13271868228912354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "There was one time, maybe a few months after she died, when I mentioned to my coworker that I still set a place for her at the table on her birthday, and instead of looking at me weird, she just said \"that sounds really right.\" I remember being so surprised that I almost cried right there in the break room. But that was one person, one moment, and I think I've been too scared to test it again because if the next person reacts badly, it might somehow undo how good that felt.",
+    "therapist": "That moment in the break room sounds like it cracked something open — being truly *met* in your grief, even briefly, clearly meant so much that you've been carefully protecting it ever since, almost like a fragile thing you don't want to risk. It makes complete sense that you'd want to guard that feeling, but I wonder if there's also something worth noticing there — that when you did take the risk, the response was more than you hoped for, not less. What do you think it would mean for you if that moment wasn't just a lucky exception, but actually a small piece of evidence about what's possible when you let someone in?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13285887241363525,
+    "aro_t": 0.2681847810745239,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe that... but I also keep thinking, what if Marcus just caught me at the right moment, and he was in the right mood, and it was just circumstances lining up? Like, it feels dangerous to take one good moment and build some kind of theory around it, because then if I try again with someone else and it goes badly, I've lost even that. I think I'd rather keep it as this one perfect thing than risk it becoming evidence of the opposite.",
+    "therapist": "There's something really tender in how carefully you're holding that moment with your coworker — keeping it perfect and untested, like a keepsake you're afraid to take out too often in case it loses its shine. What you're describing is actually a very human way of protecting yourself, but it also means you've quietly decided that one painful response in the future would carry more weight than the one genuinely good thing that already happened. I'm wondering — what does it say about how much that moment meant to you, that you're willing to stay isolated in order to preserve it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16859281063079834,
+    "aro_t": 0.1997830867767334,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That question kind of stopped me for a second, because I hadn't thought about it that way. I guess if I'm going that far to protect one small moment, it must have meant more to me than I've been letting myself admit. But it also feels scary to say that out loud, because then it means I actually care about connecting with her, and caring means I could really get hurt.",
+    "therapist": "What you just did takes real courage — letting yourself acknowledge that the connection mattered, even as the fear of being hurt by caring too much sits right there alongside it. That tension you're naming, where opening up to connection means opening up to potential pain, is at the very heart of what's been keeping you isolated — but it's also worth noticing that you've already been hurting, quietly, by staying closed. I'm curious — when you sit with both of those options, the pain of risking connection versus the pain of continuing to carry this alone, which one feels more like *living* to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25363802909851074,
+    "aro_t": 0.1841195821762085,
+    "text_emotion": "Angry"
+  }
+]

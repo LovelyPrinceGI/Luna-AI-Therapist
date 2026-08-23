@@ -7,32 +7,42 @@
 \@writefile{toc}{\contentsline {section}{\numberline {4.2}Research Questions}{21}{section.4.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.3}Dataset}{21}{section.4.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.4}Experimental Conditions (Independent Variable)}{22}{section.4.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Baseline (Text-Only) condition: the therapist LLM receives only the dialogue transcript without any emotional metadata.}}{23}{figure.caption.15}\protected@file@percent }
-\newlabel{fig:baseline-model}{{4.1}{23}{Baseline (Text-Only) condition: the therapist LLM receives only the dialogue transcript without any emotional metadata}{figure.caption.15}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Multimodal (Vocal-Aware) condition: prosodic features (pitch, loudness, speaking rate) and speech VA are extracted from the audio and injected as contextual descriptors into the therapist prompt alongside text VA.}}{24}{figure.caption.16}\protected@file@percent }
-\newlabel{fig:proposed-model}{{4.2}{24}{Multimodal (Vocal-Aware) condition: prosodic features (pitch, loudness, speaking rate) and speech VA are extracted from the audio and injected as contextual descriptors into the therapist prompt alongside text VA}{figure.caption.16}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.1}Multi-Backbone LLMs}{23}{subsection.4.4.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Therapist LLM backbones used in the multi-backbone replication}}{23}{table.caption.16}\protected@file@percent }
+\newlabel{tab:backbones}{{4.1}{23}{Therapist LLM backbones used in the multi-backbone replication}{table.caption.16}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {4.5}Procedure}{24}{section.4.5}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.6}Chat Demonstration: Baseline vs.\ Dissonance-Aware}{25}{section.4.6}\protected@file@percent }
-\newlabel{fig:chat-baseline}{{4.3a}{26}{Subfigure 4 4.3a}{subfigure.4.3.1}{}}
-\newlabel{sub@fig:chat-baseline}{{(a)}{a}{Subfigure 4 4.3a\relax }{subfigure.4.3.1}{}}
-\newlabel{fig:chat-dissonance}{{4.3b}{26}{Subfigure 4 4.3b}{subfigure.4.3.2}{}}
-\newlabel{sub@fig:chat-dissonance}{{(b)}{b}{Subfigure 4 4.3b\relax }{subfigure.4.3.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Comparison of therapist responses for the same client utterance under two conditions.}}{26}{figure.caption.17}\protected@file@percent }
-\newlabel{fig:chat-comparison}{{4.3}{26}{Comparison of therapist responses for the same client utterance under two conditions}{figure.caption.17}{}}
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {(a) Baseline (Text-Only) -- The therapist receives only the transcript and responds generically to the semantic content.}}}{26}{subfigure.3.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {(b) Dissonance-Aware -- The therapist receives vocal cues and the dissonance signal, enabling a response that addresses the underlying emotional state.}}}{26}{subfigure.3.2}\protected@file@percent }
+\newlabel{sec:chat-demo}{{4.6}{25}{Chat Demonstration: Baseline vs.\ Dissonance-Aware}{section.4.6}{}}
+\newlabel{fig:chat-baseline}{{4.1a}{26}{Subfigure 4 4.1a}{subfigure.4.1.1}{}}
+\newlabel{sub@fig:chat-baseline}{{(a)}{a}{Subfigure 4 4.1a\relax }{subfigure.4.1.1}{}}
+\newlabel{fig:chat-dissonance}{{4.1b}{26}{Subfigure 4 4.1b}{subfigure.4.1.2}{}}
+\newlabel{sub@fig:chat-dissonance}{{(b)}{b}{Subfigure 4 4.1b\relax }{subfigure.4.1.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Therapist responses to the same client utterance under two conditions, shown in the demonstration interface. The scripted session uses the identical extraction pipeline and prompts as the main experiments; only the therapist's input metadata differs between conditions.}}{26}{figure.caption.17}\protected@file@percent }
+\newlabel{fig:chat-comparison}{{4.1}{26}{Therapist responses to the same client utterance under two conditions, shown in the demonstration interface. The scripted session uses the identical extraction pipeline and prompts as the main experiments; only the therapist's input metadata differs between conditions}{figure.caption.17}{}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {(a) Baseline (Text-Only) -- The therapist receives only the transcript and takes the client's positive wording at face value.}}}{26}{subfigure.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {(b) Dissonance-Aware -- The therapist additionally receives the voice analysis: the dissonance flag is raised ($|\delta _V| = 1.05$), and the response gently probes beneath the surface.}}}{26}{subfigure.1.2}\protected@file@percent }
 \citation{kim-etal-2025-mirror}
 \@writefile{toc}{\contentsline {section}{\numberline {4.7}Evaluation Protocol (Dependent Measures)}{27}{section.4.7}\protected@file@percent }
+\newlabel{sec:evaluation-protocol}{{4.7}{27}{Evaluation Protocol (Dependent Measures)}{section.4.7}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.7.1}Automated Judge}{27}{subsection.4.7.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.7.2}Evaluation Metrics}{27}{subsection.4.7.2}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Evaluation metrics, dimensions, and scoring ranges}}{27}{table.caption.18}\protected@file@percent }
-\newlabel{tab:evaluation-metrics}{{4.1}{27}{Evaluation metrics, dimensions, and scoring ranges}{table.caption.18}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Evaluation metrics, dimensions, and scoring ranges}}{27}{table.caption.18}\protected@file@percent }
+\newlabel{tab:evaluation-metrics}{{4.2}{27}{Evaluation metrics, dimensions, and scoring ranges}{table.caption.18}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.7.3}Scoring and Aggregation}{28}{subsection.4.7.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.8}Implementation Details}{28}{section.4.8}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Implementation components}}{28}{table.caption.19}\protected@file@percent }
-\newlabel{tab:implementation}{{4.2}{28}{Implementation components}{table.caption.19}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces Implementation components}}{28}{table.caption.19}\protected@file@percent }
+\newlabel{tab:implementation}{{4.3}{28}{Implementation components}{table.caption.19}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.9}Prompt Engineering}{29}{section.4.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9.1}Shared Problem Seeds}{29}{subsection.4.9.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9.2}Client Prompt: Resist Persona}{29}{subsection.4.9.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9.3}Therapist Prompts: Four Conditions}{30}{subsection.4.9.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces Emotional metadata fields present in each condition's therapist prompt}}{30}{table.caption.20}\protected@file@percent }
+\newlabel{tab:prompt-diff}{{4.4}{30}{Emotional metadata fields present in each condition's therapist prompt}{table.caption.20}{}}
+\citation{kim-etal-2025-mirror}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9.4}Zonos Vocal Director Prompt}{31}{subsection.4.9.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9.5}Evaluation LLM Prompt: GPT-4o as Zero-Shot Judge}{31}{subsection.4.9.5}\protected@file@percent }
 \@setckpt{04-experiment}{
-\setcounter{page}{29}
+\setcounter{page}{33}
 \setcounter{equation}{0}
 \setcounter{enumi}{4}
 \setcounter{enumii}{0}
@@ -42,13 +52,13 @@
 \setcounter{mpfootnote}{0}
 \setcounter{part}{0}
 \setcounter{chapter}{4}
-\setcounter{section}{8}
-\setcounter{subsection}{0}
+\setcounter{section}{9}
+\setcounter{subsection}{5}
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{3}
-\setcounter{table}{2}
+\setcounter{figure}{1}
+\setcounter{table}{4}
 \setcounter{lofdepth}{1}
 \setcounter{lotdepth}{1}
 \setcounter{caption@flags}{2}
@@ -56,7 +66,7 @@
 \setcounter{section@level}{0}
 \setcounter{Item}{29}
 \setcounter{Hfootnote}{0}
-\setcounter{bookmark@seq@number}{45}
+\setcounter{bookmark@seq@number}{52}
 \setcounter{BibCnt}{0}
 \setcounter{NAT@ctr}{0}
 \setcounter{parentequation}{0}

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really stressed out lately because I got a lower grade than I expected on my last exam, and now I can't stop thinking about how it might ruin my GPA. It feels like everything is riding on these grades, and if I slip up even once, it all falls apart. Honestly, I'm not even sure talking about it will change anything, because the pressure is just... real, and I don't see how a conversation fixes that.",
+    "therapist": "I hear you — the pressure you're feeling is absolutely real, and I'm not here to wave it away with just words. It makes complete sense that one unexpected grade would trigger that spiral of \"what if this unravels everything,\" especially when you've worked so hard to hold it all together. I'm curious though — when you imagine everything \"falling apart,\" what does that picture actually look like for you?",
+    "condition": "baseline",
+    "val_t": -0.3149639368057251,
+    "aro_t": 0.20141470432281494,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When I imagine it falling apart, I see myself losing my scholarship, having to tell my parents I failed, and just... watching all the sacrifices they made for me go to waste. It's like this image of my dad's face when he finds out, disappointed but trying to hide it, and that's honestly the worst part. I've built so much of my identity around being the one who succeeds, and without that I don't really know who I am.",
+    "therapist": "That image of your dad's face — that's such a tender and heavy thing to carry, and it tells me how deeply you love your family and how much their sacrifices mean to you. I want to gently notice something with you: you described your identity as \"the one who succeeds,\" which sounds like it might leave very little room for you to just be a person who's allowed to struggle sometimes. What do you think it would mean about *you* as a person — not your grades, but *you* — if you did have to have that hard conversation with your dad?",
+    "condition": "baseline",
+    "val_t": -0.39937281608581543,
+    "aro_t": 0.19106411933898926,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I think it would mean I'd failed him, not just academically but as a son. Like, all those years of him working double shifts and my mom skipping things for herself — that wasn't just love, it was an investment, and I'd be telling him the investment didn't pay off. And honestly, I don't even know who I am if I'm not the one who's going to make all of that worth it.",
+    "therapist": "The weight you're carrying isn't just about a grade — you've taken on the role of being the return on your entire family's sacrifice, and that's an enormous thing for one person to hold. I want to gently offer a different lens: your parents' love and those double shifts — is it possible those were given *to you*, not as an investment expecting a financial return, but because you matter to them as a person, not a performance? What do you think your dad would actually say if you asked him directly whether his love for you depends on your GPA?",
+    "condition": "baseline",
+    "val_t": -0.28493428230285645,
+    "aro_t": 0.14563000202178955,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I want to believe that, I really do. But when I picture actually asking my dad that question, my stomach just drops — because what if his answer, even if he says the right words, still feels like it comes with conditions attached? I've watched him brag to relatives about my grades my whole life, and I don't know how to separate that from whether he actually loves me just for being me.",
+    "therapist": "That fear — that even the \"right\" answer might feel hollow — is so understandable, and it shows real self-awareness that you can name that distinction between words and what you'd actually feel in your body. It sounds like you've spent years reading between the lines of his pride, wondering if the bragging means his love has a condition written in small print, and that kind of uncertainty is exhausting to live with. I'm wondering — has there ever been a moment with your dad, maybe small or easy to overlook, where you felt loved by him in a way that had nothing to do with your achievements?",
+    "condition": "baseline",
+    "val_t": -0.1064453125,
+    "aro_t": 0.2662159204483032,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I have to think about that for a second, because my first instinct is to say no, but that feels too easy, too convenient for the story I tell myself. There was this one time I was maybe nine or ten, I had a really bad stomach flu and he just sat on the edge of my bed all night, didn't say much, just was there. I don't know if that counts, because he never brought it up again, never made it part of his repertoire of things to be proud of, so maybe it was just... him being a dad, not him loving me specifically.",
+    "therapist": "The fact that he never brought it up again, never turned it into a story to tell relatives — that might actually be the most important part, because it means he wasn't there for an audience or to invest in something, he was just there *for you*. You caught yourself just now doing something really significant: you noticed your first instinct felt \"too convenient,\" which tells me a part of you already suspects the story you've been telling yourself about conditional love might not be the whole truth. What does it feel like to sit with the possibility that that quiet night might be one of the truest expressions of how he sees you?",
+    "condition": "baseline",
+    "val_t": -0.10901916027069092,
+    "aro_t": 0.1247028112411499,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I want to believe that, I really do. But there's this part of me that keeps saying, \"okay, but one quiet night doesn't erase all the times he made me feel like I had to earn his approval.\" It's like I can hold both things at the same time and still not know which one is the real truth about how he feels about me.",
+    "therapist": "You're doing something really sophisticated right now — holding two truths at once without forcing them to resolve, and that's actually much closer to how love and relationships really work than the all-or-nothing story our anxious minds prefer. It doesn't have to be that one night *erases* the pressure you felt growing up; both things can be real — a father who sometimes made you feel you had to earn approval, *and* a father who once sat in the dark just because you were suffering. I'm curious — if both of those things are true about him, what might that open up about whether *you* get to be both things too: someone who achieves, and someone who's allowed to struggle?",
+    "condition": "baseline",
+    "val_t": -0.07037627696990967,
+    "aro_t": 0.18436312675476074,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "That question kind of stops me in my tracks, honestly. Like, I've never really thought about it that way — that maybe I'm allowed to be both things, not just the version of myself that has it together. But there's this voice in my head that immediately says \"yeah, but if you let yourself struggle too much, you'll lose everything you've worked for,\" and I don't know how to argue with that voice yet.",
+    "therapist": "That voice isn't your enemy — it developed to protect you, and for a long time it probably worked, keeping you focused and driven. But I want to gently point out that it's speaking in absolutes: \"struggle\" automatically leads to \"lose everything,\" with no middle ground where a person can stumble, recover, and still be okay. What's the smallest piece of evidence from your own life that struggling with something didn't ultimately cost you everything?",
+    "condition": "baseline",
+    "val_t": -0.12563025951385498,
+    "aro_t": 0.1321507692337036,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and I guess... there was that time in college when I completely fell apart during finals week, like I could barely get out of bed for a few days. I still passed my classes, not with great grades, but I didn't lose everything. But it feels different now, like the stakes are so much higher at work, and part of me worries that example doesn't really count because I was younger and had more room to fail back then.",
+    "therapist": "You just did something really important — you found the evidence, and then immediately your mind tried to disqualify it, which is such a classic move that protective voice makes to keep its story intact. I want to sit with what you actually said though: you fell apart, you got back up, and you survived — and that wasn't luck or youth, that was *you* being more resilient than the voice gives you credit for. What do you think it would take for your own lived experience to count as real evidence, rather than an exception your mind can explain away?",
+    "condition": "baseline",
+    "val_t": -0.22951793670654297,
+    "aro_t": 0.1200556755065918,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That's... actually a hard question to sit with, because part of me wants to say \"I don't know\" just to avoid answering it. I think the honest truth is that I'm not sure my own experience ever feels like enough proof, because there's always this voice that says \"yeah, but this time is different, this time you won't make it.\" It's like no matter how many times I've gotten through something, the counter resets to zero and I'm starting from scratch all over again.",
+    "therapist": "What you just described — the counter resetting to zero — is one of the most exhausting patterns a mind can run, because it means your resilience never gets to accumulate into something you can actually lean on. That's not a character flaw; it's a thinking pattern, and the fact that you can see it so clearly right now is genuinely significant. I'm wondering — what might it look like to start keeping a record, even a small one, of moments you've survived that the voice said you wouldn't, so that evidence has somewhere to live other than a counter that keeps getting wiped?",
+    "condition": "baseline",
+    "val_t": -0.21071815490722656,
+    "aro_t": 0.12910258769989014,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me thinks it makes sense, but another part of me is already skeptical. Like, if I write things down, I'll probably just look at the list and think \"okay but those were smaller things, this current thing is different and worse.\" That's genuinely what my brain does — it finds a way to disqualify whatever evidence I bring to it. I guess I'm worried the record would just become another thing I use against myself instead of for myself.",
+    "therapist": "You just described your own mind's defense system with remarkable precision, and that kind of self-awareness is actually the first crack in its armor — because you can't strategize around a pattern you can't see, and you clearly see it. You're right that a list alone won't work if the same disqualifying voice is the one reading it, which means the real work might not be about gathering more evidence, but about gently questioning *why that voice gets to be the sole judge* of what counts. What do you think it would mean for you — not your grades, not your family's sacrifices, but you as a person — if that voice turned out to be a prosecutor rather than an honest witness?",
+    "condition": "baseline",
+    "val_t": -0.21412193775177002,
+    "aro_t": 0.07170796394348145,
+    "text_emotion": "Sad"
+  }
+]

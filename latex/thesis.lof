@@ -2,16 +2,14 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the full Luna AI Therapist pipeline. From dual-LLM turn-by-turn dialogue generation and Zonos Director parameter assignment, through Zonos TTS synthesis, to post-hoc text and speech VA extraction via vad-bert and WavLM, vocal descriptor extraction via librosa, dissonance computation, and finally four therapist generation conditions receiving different subsets of emotional metadata.}}{19}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}}{20}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the full Luna AI Therapist pipeline: dual-LLM dialogue generation, Zonos TTS synthesis with director-assigned prosody, post-hoc text and speech VA extraction (vad-bert, WavLM), vocal descriptors (librosa), dissonance computation, and the four therapist generation conditions.}}{19}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Vocal prosodic descriptor extraction pipeline. Raw audio waveforms from Zonos synthesis are processed via \texttt {librosa} to extract pitch (F0), loudness (RMS), and speaking rate, which are then converted into natural-language contextual descriptors for the Multimodal therapist condition.}}{20}{figure.caption.14}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Baseline (Text-Only) condition: the therapist LLM receives only the dialogue transcript without any emotional metadata.}}{23}{figure.caption.15}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Multimodal (Vocal-Aware) condition: prosodic features (pitch, loudness, speaking rate) and speech VA are extracted from the audio and injected as contextual descriptors into the therapist prompt alongside text VA.}}{24}{figure.caption.16}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Comparison of therapist responses for the same client utterance under two conditions.}}{26}{figure.caption.17}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(a) Baseline (Text-Only) -- The therapist receives only the transcript and responds generically to the semantic content.}}}{26}{subfigure.3.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(b) Dissonance-Aware -- The therapist receives vocal cues and the dissonance signal, enabling a response that addresses the underlying emotional state.}}}{26}{subfigure.3.2}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Therapist responses to the same client utterance under two conditions, shown in the demonstration interface. The scripted session uses the identical extraction pipeline and prompts as the main experiments; only the therapist's input metadata differs between conditions.}}{26}{figure.caption.17}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {(a) Baseline (Text-Only) -- The therapist receives only the transcript and takes the client's positive wording at face value.}}}{26}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {(b) Dissonance-Aware -- The therapist additionally receives the voice analysis: the dissonance flag is raised ($|\delta _V| = 1.05$), and the response gently probes beneath the surface.}}}{26}{subfigure.1.2}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A1}{\ignorespaces Doge.}}{37}{figure.caption.24}%
+\addvspace {10\p@ }

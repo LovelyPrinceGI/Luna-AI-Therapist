@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been really tough lately. Every time I go to a family gathering, I feel this overwhelming sadness when I think about my dad. I know everyone is trying to be supportive, but it's just so hard to be around everyone and not have him there. I’m not sure if talking about it will really make a difference, but I’m here to try.",
+    "therapist": "Hi there, I'm so glad you reached out. It sounds like these family gatherings are bringing up a lot of sadness and it's completely understandable given the loss you've experienced. It’s tough to navigate these emotions, especially when you feel the absence of someone so important. How have you been coping with these feelings when they come up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10323929786682129,
+    "aro_t": 0.15930593013763428,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough. I try to distract myself by staying busy, but sometimes it feels like no matter what I do, the sadness just keeps coming back. I guess I’m just not sure how to deal with it when it hits me so hard.",
+    "therapist": "I’m here for you, and it’s completely normal to feel this way. Staying busy can be a helpful distraction, but it’s also important to acknowledge and process the sadness when it arises. Have you tried any specific strategies or techniques to help manage these intense feelings when they hit you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14020705223083496,
+    "aro_t": 0.1655024290084839,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I've tried some things, like going for walks or listening to music, but sometimes it feels like nothing really helps. It's hard because the sadness just seems to come back, no matter what I do. I guess I'm just not sure how to break that cycle.",
+    "therapist": "It sounds like you’ve been trying different ways to cope, but the sadness keeps coming back, which can be really challenging. It’s understandable to feel stuck in that cycle. Sometimes, it can help to explore the thoughts that come up when you feel sad. What are some of the thoughts or beliefs that you notice when the sadness hits you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23398935794830322,
+    "aro_t": 0.01934194564819336,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I often find myself thinking that I’m not good enough, that I’m letting people down, and that I’m all alone. It’s like these thoughts just circle around in my head, and I can’t shake them off. It’s hard because I know they’re not entirely true, but they still feel so real when I’m feeling down.",
+    "therapist": "It sounds like those thoughts can be really persistent and overwhelming, even when you know they might not be entirely true. It’s tough when those negative beliefs feel so real and hard to shake. Have you tried any techniques to challenge or reframe these thoughts when they come up, or do you think it might be helpful to explore some new strategies together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28867602348327637,
+    "aro_t": 0.08221673965454102,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, I've tried a few things, like writing down my thoughts and trying to see the positive side, but it feels like the negative stuff just keeps coming back. I guess I'm a bit skeptical about finding something that really works for me, especially when the anxiety feels so intense. It's hard because I feel like I've tried so much already.",
+    "therapist": "It’s completely understandable to feel skeptical and frustrated, especially when you’ve tried several things and still feel like the negative thoughts and anxiety keep coming back. It can be really disheartening. Sometimes, it helps to take a step back and gently explore what might be maintaining these patterns. What do you think might be contributing to the persistence of these negative thoughts and feelings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.169103741645813,
+    "aro_t": 0.20039021968841553,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I feel like I've been in this cycle for so long, and it's hard to see a way out. I think a big part of it is the loneliness—I feel so isolated, and it's tough to connect with people. When you're always in your head, it's easy to spiral into these negative thoughts. I don't know if just talking about it will make a difference.",
+    "therapist": "It sounds like you’ve been in this cycle for a while, and the loneliness and isolation are really taking a toll on you. It’s tough when you feel so disconnected from others, and it can definitely make it easier to spiral into negative thoughts. Talking about it can be a first step in finding a way forward, even if it feels challenging. What are some small steps you might be willing to try to start breaking this cycle, or to help you feel a bit more connected?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3378235101699829,
+    "aro_t": 0.052301883697509766,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that, Luna. It does feel really tough, and I know I need to do something, but it's hard to know where to start. I worry that if I try to reach out, people won't understand or they'll just brush me off. It feels safer to stay in my comfort zone, even though it’s not a good one.",
+    "therapist": "I completely understand how tough and isolating this can feel. It’s completely normal to worry about how others will respond when you reach out, and it can be really daunting to step out of your comfort zone, even if it’s not a good one. What if we explored some small, manageable steps you could take to start feeling more connected, while also preparing for how to handle any potential reactions from others? What do you think might be a small first step that feels a bit more doable for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.035927414894104004,
+    "aro_t": 0.06389808654785156,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It’s just so hard to know where to start. I worry that if I reach out, people might not respond the way I hope, or they might not understand what I’m going through. Maybe I could try sending a text to a friend, but what if they don’t reply? It feels like a risk.",
+    "therapist": "I understand how daunting it can feel to reach out, especially when you're worried about how others might respond. It’s totally normal to feel that way, and it’s great that you’re considering a small step like sending a text to a friend. If you decide to try that, you could set some realistic expectations for yourself, like giving them a bit of time to respond without putting too much pressure on it. What do you think might be a supportive message you could send, or is there someone specific you feel more comfortable reaching out to?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12501347064971924,
+    "aro_t": 0.09519875049591064,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I’ve reached out before and it didn’t go well. I worry that if I send a text, they might not respond, and then I’ll feel even more alone and rejected. Who do you think I should reach out to, or what kind of message could I send that wouldn’t make things worse?",
+    "therapist": "I can really understand how past experiences have made you hesitant to reach out again. It’s tough when you feel like you’ve tried and it didn’t go well, and the fear of rejection can be really strong. It might help to choose someone you feel a bit more comfortable with, someone who has shown understanding in the past. For the message, you could keep it simple and gentle, like, \"Hey, I’ve been feeling a bit down lately and just wanted to check in. How are you doing?\" This way, you’re opening the door for a conversation without putting too much pressure on yourself or them. What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27689194679260254,
+    "aro_t": 0.1933155059814453,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestions, Luna. It’s just really hard for me to take that step, you know? I worry a lot about being a burden or that they won’t want to talk to me, and I end up just staying in my head and not reaching out. It feels safer, even though it’s not good for me.",
+    "therapist": "I completely understand how difficult it is to take that step, and it’s totally natural to worry about being a burden or not wanting to impose. It’s a very common concern, and it’s understandable that staying in your head can feel safer, even though it’s not ideal. It might help to remind yourself that reaching out can be a sign of strength and that your friends likely care about you and would want to support you. What do you think might be a small, manageable way to start breaking this pattern, even if it’s just a tiny step?",
+    "condition": "emotion_text_only",
+    "val_t": 0.051154255867004395,
+    "aro_t": 0.08866572380065918,
+    "text_emotion": "Neutral"
+  }
+]

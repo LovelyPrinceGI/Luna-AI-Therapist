@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandma passed away last month. At family dinners now, I just sit there feeling empty because her chair is empty, and everyone else seems to be moving on while I'm stuck in grief. I'm not sure talking about it will help - the pain feels too deep to just \"fix\" with words.",
+    "therapist": "It sounds like you’re carrying a deep sense of loss, and it’s understandable that seeing her empty chair feels so heavy. Grief can feel isolating, especially when it seems others are moving forward while you’re still processing. What thoughts come up for you when you notice that difference in how you and your family are feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.45942437648773193,
+    "aro_t": 0.09169113636016846,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking they didn't love her as much as I did, and that's why they're moving on so fast. It makes me feel even more alone, like I'm the only one who really misses her. Sometimes I wonder if there's something wrong with me for still feeling this way after six months.",
+    "therapist": "It makes sense that comparing your grief to others' would leave you feeling isolated—like your love for her was somehow different or deeper. Grief doesn’t follow a timeline, and six months is still very fresh when it comes to losing someone so important. What would it feel like to consider that others might just be expressing their grief differently, rather than loving her less?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3268423080444336,
+    "aro_t": 0.10863697528839111,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but when I see my cousins moving on with their lives so quickly, it makes me feel like I'm doing grief wrong. Like maybe I loved her too much or in an unhealthy way. It's been six months and I still cry every day - shouldn't I be stronger by now?",
+    "therapist": "It sounds like you're judging your own grief harshly by comparing it to others, which is adding another layer of pain to an already difficult experience. There’s no \"right\" amount of love or \"correct\" timeline for grief—your tears just show how deeply she mattered to you. What would it feel like to offer yourself the same compassion you’d give a friend who was grieving someone they loved this much?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3600602149963379,
+    "aro_t": 0.24789893627166748,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I understand what you're saying, but it’s hard to believe I deserve that same compassion. My sister seemed to handle our mom’s passing so much better—she’s always been stronger than me. I feel like I’m failing at grieving, like I’m making it harder than it needs to be. It’s not just about missing her; it’s about feeling like I’m doing it wrong.",
+    "therapist": "It sounds like you’re not only grieving your mom but also wrestling with self-criticism about how you’re handling it. Comparing yourself to your sister adds an extra layer of pain, as if there’s a \"right\" way to grieve. What would it feel like to let go of the idea that grief is something you can succeed or fail at?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30491042137145996,
+    "aro_t": 0.16707634925842285,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I know logically that grief isn't a competition, but I can't help feeling like I'm failing at it when I see my sister handling everything so well. She's planning the memorial service and taking care of Dad, while I just cry in my room most days. It makes me feel weak and selfish.",
+    "therapist": "It’s clear this comparison is weighing heavily on you—almost like grief has become another way to measure yourself against others, which only deepens the hurt. Your sister’s outward strength doesn’t make your pain any less valid or your love any less meaningful. Could we explore what “strength” might look like for *you* in this process, rather than holding yourself to someone else’s way of coping?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4120098352432251,
+    "aro_t": 0.1841036081314087,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I know you're right logically, but it's hard not to compare when my sister seems to handle everything so effortlessly. I feel weak for still struggling months later when she was back to normal after just a few weeks. What if my way of grieving isn't strength at all, but just... falling apart?",
+    "therapist": "It sounds like you're caught between knowing grief isn't a race and still feeling like you're \"losing\" it—and that tension itself is exhausting. What if your tears aren't weakness, but proof of how deeply you're letting yourself feel this loss? Could we try shifting the focus from comparing timelines to noticing what your grief might need from you right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22465360164642334,
+    "aro_t": 0.14750683307647705,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about not comparing timelines, but that's the hard part. When I see other people moving on while I'm still crying over old photos, it just makes me feel broken. Like maybe I'm clinging to the pain too much instead of healing the \"right\" way. \n\nThe idea of focusing on what my grief needs sounds nice in theory, but how do I even figure that out? Sometimes I just feel numb, other times it's like a wave crashing over me out of nowhere. It doesn't feel like something I can control or give \"what it needs.\"",
+    "therapist": "It makes sense that grief would feel so unpredictable—like waves that come and go without warning—and that unpredictability itself can be unsettling. Rather than seeing this as \"broken,\" could we view it as your heart processing in its own rhythm? What small, gentle thing might feel supportive in those moments when the wave crashes—even if it's just acknowledging, \"This hurts, and that's okay for now\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30128705501556396,
+    "aro_t": 0.13878142833709717,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I like the idea of being kinder to myself when grief hits, but it's hard in practice. When the sadness comes, I just want it to stop—it feels like drowning, not healing. The idea that this pain might have some purpose feels too optimistic right now.",
+    "therapist": "It sounds like you're caught between wanting to be compassionate with yourself and the very real, overwhelming pain that makes self-kindness feel impossible in the moment. That tension—between what you know would help and what grief actually *feels* like—is exhausting in itself. Could we explore what \"drowning\" looks like for you in those moments, and maybe find just one small anchor to hold onto?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08391773700714111,
+    "aro_t": 0.09273815155029297,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I know logically that being kind to myself would help, but in those moments it just feels like I'm lying to myself. The drowning feeling... it's like this heavy weight in my chest and my thoughts just spiral about all the ways I've messed up. Even small anchors seem impossible when everything feels so overwhelming.",
+    "therapist": "It makes sense that self-kindness would feel like a lie when the weight of grief and self-criticism feels so physically heavy—like your body and mind are both working against you. When those spirals start, could we try naming just one thing that’s true in that moment, even if it’s as simple as \"This is really hard right now\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2830781936645508,
+    "aro_t": 0.22668766975402832,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I guess I can try saying \"this is hard\" when the spiral starts, but it feels kind of pointless. Like, of course it's hard - naming it doesn't make the pain go away. And part of me worries that if I start acknowledging how bad it feels, I'll just sink deeper into it. \n\nSometimes I wonder if I even deserve to be kind to myself when I'm the one who messed everything up in the first place. The guilt just feels like the truth.",
+    "therapist": "It sounds like there’s a real fear beneath this—that acknowledging the pain might somehow make it worse, or that self-compassion would mean ignoring the guilt you’re carrying. Guilt can feel so convincing, like it’s the only truth that matters right now. What would it feel like to test that belief gently—not to make the pain disappear, but to see if the guilt might have room for even a sliver of understanding alongside it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.39600634574890137,
+    "aro_t": 0.08094727993011475,
+    "text_emotion": "Sad"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away recently. It feels like I can't concentrate on anything at work, and I find myself overwhelmed by sadness throughout the day. Sometimes I wonder if talking about it in therapy will actually help me feel better or if it's just going to be more of the same.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; that sounds incredibly painful and overwhelming. It's completely understandable to feel unfocused and weighed down by sadness during such a difficult time. Talking about your feelings in therapy can be a valuable step, even if it feels daunting. What do you think might help you feel more comfortable sharing your thoughts and emotions here?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35239481925964355,
+    "aro_t": 0.0955362319946289,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding, but honestly, I don’t even know where to start. Everything feels so heavy right now, and I’m not sure if talking about it will really help. I just feel so lost in my sadness, and it’s hard to think about opening up when I’m still trying to process everything.",
+    "therapist": "It sounds like you're carrying a lot right now, and it’s completely normal to feel lost when dealing with such heavy emotions. Processing grief can be a complex journey, and it often takes time to find the right words. Maybe we can start by exploring just one small part of what you're feeling—what stands out to you the most in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25498533248901367,
+    "aro_t": 0.14024293422698975,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Right now, I feel this heavy weight in my chest, like there's a sadness that refuses to go away. I keep thinking about how everything feels so different without that person in my life. It's overwhelming, and I don't even know where to start in processing it all; it just feels like a lot.",
+    "therapist": "It sounds like the sadness you're experiencing is really intense and has created a profound sense of loss for you. It's completely understandable to feel overwhelmed when everything around you has shifted. It might help to break things down a bit—what’s one specific memory or thought about your grandmother that comes to mind when you feel that heaviness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21114826202392578,
+    "aro_t": 0.2595250606536865,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I keep thinking about the last time I visited her in the hospital. I remember holding her hand and feeling so helpless as she struggled to speak. That memory just brings up this overwhelming weight of guilt and sadness, like I could have done something more for her. It’s hard to even look back at it without feeling that heaviness again.",
+    "therapist": "That memory sounds incredibly difficult to carry, and it's completely normal to feel a mix of guilt and sadness when reflecting on such a poignant moment. It’s understandable to wish you could have done more, but it’s important to remember that you were there for her in a meaningful way. How might it feel to explore some of those feelings of guilt and see if there are ways to honor her memory positively?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40019690990448,
+    "aro_t": 0.15385007858276367,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you acknowledging how heavy that memory is for me. I guess I just keep going back to the feeling that I could have done more to help her, and it just eats away at me. Exploring those feelings of guilt feels really daunting because I’m afraid it might just make me feel worse instead of honoring her memory.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of exploring those feelings of guilt, especially when it feels so heavy. It shows how much you cared for your grandmother. Instead of diving deep right away, perhaps we could take a gentle approach—what’s one small way you could honor her memory that feels manageable for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1585756540298462,
+    "aro_t": 0.1022043228149414,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that suggestion, but honestly, it feels overwhelming to think about honoring her memory right now. I keep thinking about how I could have done more for her when she was alive, and those thoughts just spiral into guilt. A part of me thinks that maybe I should just let it be instead of bringing it back up again.",
+    "therapist": "It sounds like you're feeling really stuck in that cycle of guilt and overwhelmed by the thought of honoring her memory right now. It’s perfectly okay to take a step back and not force yourself to address everything at once. Sometimes just allowing yourself to sit with those feelings without pressure can be a way to start processing. What do you think might help you feel a little more at ease in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23460805416107178,
+    "aro_t": 0.0472264289855957,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying it's okay to take a step back, but it feels like I should be doing more to honor her memory. I’m just overwhelmed with guilt for not being able to process everything the way I think I should. It’s hard to know how to just sit with those feelings when they feel so heavy.",
+    "therapist": "It sounds like you're in a tough spot, feeling the weight of guilt while also wanting to honor your grandmother's memory. It's natural to feel like you should be doing more, but processing grief doesn’t follow a set path, and it’s okay to take your time. Perhaps we can explore what \"honoring her memory\" means to you without feeling pressured to act on it right away. What are some small, gentle thoughts or memories about her that bring you comfort?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23862206935882568,
+    "aro_t": 0.1696910858154297,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I feel a mix of sadness and guilt when I think about my grandmother. I keep worrying that I’m not honoring her memory the way I should, like I’m somehow failing her. It’s hard to focus on the comforting memories because I feel this pressure to do something grand in her honor, rather than just remembering the little things.",
+    "therapist": "It's understandable to feel that mix of sadness and guilt, especially when you’re grappling with the idea of how to properly honor your grandmother. It’s common to feel pressure to do something grand, but sometimes the little, comforting memories can hold just as much significance. What if we took a moment to reflect on one of those small, special memories? How might it feel to share that without any pressure to make it something more?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19195842742919922,
+    "aro_t": 0.1258026361465454,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate what you're saying, but it feels a bit overwhelming to think about sharing a memory right now. I feel this pressure to make it meaningful, and I can't shake the guilt that maybe I'm not honoring her enough if I just focus on something small. What if it feels insignificant? I don't want to disrespect her memory.",
+    "therapist": "It sounds like the pressure to find the \"right\" way to honor your grandmother is really weighing on you, and that’s completely understandable. Feeling that sense of guilt can make it hard to focus on anything, even the small, meaningful moments. Remember, every little memory holds value and is a reflection of your love for her. What if we took a moment to just acknowledge that it’s okay to feel this way, and you don’t have to share anything until you feel ready? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0716637372970581,
+    "aro_t": 0.20159423351287842,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you acknowledging my feelings, but it’s hard for me to shake off this guilt. I keep thinking that if I don’t honor her in the “right” way, I’m somehow failing her memory. It feels like there’s this weight pressing down on me, and I’m not sure how to move past it or even where to start.",
+    "therapist": "It’s really tough to feel that weight of guilt, especially when you’re trying to navigate how to honor your grandmother’s memory. The pressure to do it “right” can feel paralyzing, making it hard to see a way forward. It might help to remind yourself that honoring her can take many forms and doesn’t have to be grand. What would it look like to take just one small step, without the pressure of perfection, to acknowledge her in a way that feels true to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21934497356414795,
+    "aro_t": 0.12759637832641602,
+    "text_emotion": "Angry"
+  }
+]

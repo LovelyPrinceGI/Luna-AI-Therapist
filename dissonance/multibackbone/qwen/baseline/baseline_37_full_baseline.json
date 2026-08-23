@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately with my partner. They've been expressing frustration over the fact that I've been so distant, and I'm afraid their patience is wearing thin. I know it's because of all the late nights at work, but I just can't seem to find a way to balance everything. I’m not even sure if therapy can really help with this.",
+    "therapist": "I can hear how challenging this situation is for you, and it's completely understandable to feel overwhelmed. It's great that you're reaching out for support; therapy can definitely help you explore these feelings and find ways to navigate this balance. How do you think your partner would feel if you shared your concerns and the steps you're taking to address the situation?",
+    "condition": "baseline",
+    "val_t": -0.2777845859527588,
+    "aro_t": 0.10956931114196777,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that, Luna. I just worry that if I bring it up, it might make things worse. I feel like I'm already putting so much pressure on myself, and I don't want to add to it by causing more tension. It's hard because I care about him a lot, but I'm also really struggling with my own anxiety and guilt.",
+    "therapist": "It's completely understandable to worry about potentially adding more tension, and it's clear that you're trying to protect both your relationship and your own well-being. It's often helpful to think about how you might approach the conversation with your partner in a way that feels safe and supportive for both of you. What do you think might be a gentle way to start that conversation, or is there a specific time or setting that feels more comfortable?",
+    "condition": "baseline",
+    "val_t": -0.2513505220413208,
+    "aro_t": 0.17351603507995605,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I really appreciate that you're trying to help me find a gentle way to approach this, but I'm still feeling really anxious about it. I worry that even if I try to be gentle, it might still come off the wrong way, and I don't want to risk making things worse. It's hard to find the right time and setting when I feel like every moment is already so tense.",
+    "therapist": "I can hear how much anxiety you're feeling about this, and it's completely valid to worry about how your words might be received. It's okay to take your time and find the right moment to approach the conversation. Have you considered starting with a small, non-confrontational topic to ease into the discussion, or perhaps setting a specific time to talk when you both feel a bit more relaxed?",
+    "condition": "baseline",
+    "val_t": -0.21752464771270752,
+    "aro_t": 0.18712329864501953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but I don't think it will work for me. It's hard because I feel like I've tried being gentle and indirect before, and it just leads to more confusion and frustration. I worry that if I don't get straight to the point, things will just drag on and get worse.",
+    "therapist": "I understand that past attempts to be gentle haven't worked out the way you hoped, and it's completely natural to feel frustrated and anxious about trying again. Sometimes, being direct can be more effective, especially when you're clear and concise about your feelings and needs. What do you think would be the most important points you'd want to communicate to your partner to help them understand where you're coming from?",
+    "condition": "baseline",
+    "val_t": -0.27400505542755127,
+    "aro_t": 0.11042308807373047,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, Luna. It's just that every time I try to be direct, it feels like it backfires and we end up in a big argument. I worry that if I'm too blunt, it might push them away even more. How do I find that balance?",
+    "therapist": "It's really tough when you feel like being direct leads to arguments, and it's understandable to worry about pushing your partner away. Finding that balance can be challenging, but it often helps to focus on expressing your feelings and needs clearly while also showing empathy for their perspective. What do you think might help you stay calm and centered during these conversations, or is there a specific way you could frame your concerns that feels both honest and considerate?",
+    "condition": "baseline",
+    "val_t": -0.032712697982788086,
+    "aro_t": 0.1639798879623413,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I really do want to communicate better. But it's hard because I often feel like my words get twisted, and then I end up feeling defensive. I worry that even if I try to be clear and empathetic, it might still lead to a misunderstanding or an argument. How can I make sure my intentions are understood without things escalating?",
+    "therapist": "It's completely understandable to feel like your words get twisted, and it's natural to worry about misunderstandings and arguments. One strategy that can help is to use \"I\" statements to focus on your own feelings and experiences, rather than making assumptions about your partner's thoughts or intentions. For example, you might say, \"I feel overwhelmed when I work late, and I worry that it's affecting our relationship.\" How do you think this approach might help in your conversations, or is there a specific situation where you think this could make a difference?",
+    "condition": "baseline",
+    "val_t": -0.23332703113555908,
+    "aro_t": 0.1709756851196289,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you mean about using \"I\" statements, but it feels like it might not change much. My partner often jumps to conclusions anyway, and sometimes it feels like they don't really listen to what I'm saying. It's hard to believe that just changing how I phrase things will make a big difference.",
+    "therapist": "I understand your skepticism, and it's valid to feel that way when past efforts haven't yielded the results you hoped for. It can be really frustrating when it feels like your partner isn't listening or jumps to conclusions. Sometimes, though, even small changes in communication can make a difference over time. What do you think might help your partner feel more open to listening, or is there a specific time or context where they seem more receptive?",
+    "condition": "baseline",
+    "val_t": -0.014216899871826172,
+    "aro_t": 0.06849730014801025,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you're trying to help, but it's hard to see how small changes will make a difference when it feels like every conversation just ends up in a fight. I've tried being calm and rational, but it seems like my partner just gets defensive and shuts down. I don't know if there's a specific time when they're more open; it feels like it's always a struggle.",
+    "therapist": "I can hear how discouraging and frustrating it must be to feel like every conversation ends in a fight, despite your best efforts to remain calm and rational. It's completely understandable to feel stuck in this pattern. Sometimes, it can be helpful to take a step back and focus on building moments of positive connection outside of these difficult conversations. Are there any activities or shared interests that you and your partner enjoy together, or is there a way to create a more supportive environment that might help reduce some of the tension?",
+    "condition": "baseline",
+    "val_t": -0.12761247158050537,
+    "aro_t": 0.13540291786193848,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you're trying to help, but it's hard to see how we can find those positive moments when it feels like every interaction ends up in an argument. I guess we used to enjoy hiking together, but even that has become tense lately. It's just tough to imagine how we can create a supportive environment when there's so much underlying tension and mistrust.",
+    "therapist": "I can hear how deeply challenging this is for you, and it's completely understandable to feel that way when even activities you once enjoyed have become tense. It's tough to find those positive moments, but revisiting something you both used to enjoy, like hiking, might still have the potential to bring some connection back, even if it feels strained at first. What do you think it would take to make a small step towards trying that again, or is there another way you can see yourselves reconnecting, even if it's just for a brief moment?",
+    "condition": "baseline",
+    "val_t": -0.03899824619293213,
+    "aro_t": 0.08745288848876953,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're trying to find a way for us to reconnect, but honestly, even the thought of going hiking again feels overwhelming. It's hard because every time we try to do something together, it just ends up feeling forced and awkward, and I worry that it will just highlight how much we've drifted apart. I guess I'm just not sure how to make that first step without it feeling like a disaster.",
+    "therapist": "I can hear how overwhelming and daunting it feels to even consider trying to reconnect, especially when past attempts have been so difficult. It's completely understandable to worry that it might just highlight how much you've drifted apart. Sometimes, even small, low-stakes activities can help create a more relaxed environment. What do you think about starting with something simple, like a short walk or a casual chat over a cup of coffee, where the pressure is low and the focus is just on being present with each other? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.2017841339111328,
+    "aro_t": 0.1926809549331665,
+    "text_emotion": "Angry"
+  }
+]

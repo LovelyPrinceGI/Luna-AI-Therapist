@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Luna, I've been feeling really lost since my mom passed away six months ago. It's like this weight of grief is constantly hanging over me, and I can't seem to connect with my friends anymore. They seem to have moved on, and I feel stuck in this place where everything feels heavy and lonely.",
+    "therapist": "I'm so sorry to hear about your loss; it makes complete sense that you're feeling this heaviness and disconnection. Grief can be such a complex and isolating experience, especially when it feels like those around you are moving forward. What are some ways you’ve tried to connect with your friends or express your feelings during this time?",
+    "condition": "baseline",
+    "val_t": -0.470220685005188,
+    "aro_t": 0.16876304149627686,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It’s been really hard to connect with my friends lately. I feel like they just don’t understand what I’m going through, and I don’t want to burden them with my feelings. I’ve tried to reach out a couple of times, but each time I just end up feeling more alone.",
+    "therapist": "It sounds like you're feeling trapped between wanting support and worrying about burdening your friends, which can be a really difficult place to be. It's completely understandable to feel that way, especially during such a heavy time. Have you considered sharing your feelings with a friend, even just to let them know where you are emotionally?",
+    "condition": "baseline",
+    "val_t": -0.35648977756500244,
+    "aro_t": 0.03344619274139404,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I'm just not sure if sharing my feelings would really help. I worry that my friends will think I'm being dramatic or that they won't know how to respond, and that makes me hesitant. It feels like I'm stuck in this cycle where I want to reach out, but then I spiral into guilt about being a burden.",
+    "therapist": "It's so understandable to feel hesitant about sharing your feelings, especially when you're worried about how others might react. Your concerns about being a burden are valid, and it's common to feel that way when you're navigating grief. What would it look like for you to express just a small part of what you're feeling to a friend, without the pressure of sharing everything?",
+    "condition": "baseline",
+    "val_t": -0.3112751245498657,
+    "aro_t": 0.03958487510681152,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but the idea of sharing even a small part of my feelings feels overwhelming. I worry that if I open up even a little, it might lead to more questions or deeper conversations that I'm just not ready for. What if they don’t understand or think I’m being dramatic?",
+    "therapist": "It's completely natural to feel overwhelmed at the thought of opening up, especially when you're not sure how someone might respond. Your feelings are valid; it's okay to take things at your own pace. What if you considered writing down your thoughts or feelings first? This way, you can express yourself without the immediate pressure of a conversation, and it might help clarify what you want to share when you feel ready. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.07927525043487549,
+    "aro_t": 0.19957220554351807,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I understand that writing down my thoughts could help, but I feel like it might not capture everything I want to say. There's this pressure to get it right, and I'm worried that if I write it down, it might just end up being another thing I avoid. Plus, what if I can't find the right words? It’s hard for me to open up in any form.",
+    "therapist": "It sounds like you're feeling a lot of pressure to express yourself perfectly, which can make the idea of writing down your thoughts feel even more daunting. It’s okay to not have the right words or to worry about capturing everything; the act of expressing yourself, even in a messy way, can still be valuable. What if you approached writing as a way to simply get your feelings out, without the expectation of it being perfect? How might that shift your perspective on the process?",
+    "condition": "baseline",
+    "val_t": -0.13739538192749023,
+    "aro_t": 0.04009103775024414,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I understand what you’re saying, but it feels really hard to let go of that need for perfection. When I think about writing down my feelings, I worry a lot about how it will come out and whether it will even make sense. It’s like I have this internal critic that just won’t let me write anything unless it’s \"just right.\"",
+    "therapist": "It sounds like that internal critic is creating a lot of pressure for you, making it hard to express yourself without fear of judgment. It's completely understandable to want things to be \"just right,\" but sometimes, that can keep us from sharing our truth at all. What if you tried setting a timer for just five minutes and wrote without worrying about perfection—almost like a brain dump? How do you think that might feel?",
+    "condition": "baseline",
+    "val_t": -0.1930021047592163,
+    "aro_t": 0.06342124938964844,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about the internal critic, and I do feel that pressure a lot. But setting a timer and just writing freely feels really intimidating to me. What if I end up writing something that doesn’t make any sense or that I feel ashamed of later? It just seems hard to let go of that perfectionism.",
+    "therapist": "I can see how that idea feels intimidating, especially when the fear of shame and perfectionism is so strong. It’s perfectly okay to feel that way; many people struggle with the same pressure. What if you allowed yourself to write just one sentence or even a few words about how you’re feeling in that moment, without worrying about it being perfect? It’s not about the quality but rather about giving yourself permission to express whatever comes up. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.10488557815551758,
+    "aro_t": 0.16123700141906738,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but I’m really not sure it would help me. Writing down my feelings feels so vulnerable, and I worry that whatever I put down will just sound silly or not make sense. Plus, I have this nagging thought that if I can't do it perfectly, then what's the point?",
+    "therapist": "It’s completely understandable to feel vulnerable about writing down your feelings, especially when perfectionism is weighing on you. It’s important to recognize that your thoughts and emotions are valid, regardless of how they come out on paper. What if you framed writing as a way to simply explore your feelings rather than as a task with a specific outcome? How might that change how you approach it?",
+    "condition": "baseline",
+    "val_t": -0.2548079490661621,
+    "aro_t": 0.13767004013061523,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about writing being more of an exploration, but it still feels really daunting to me. I worry that if I don’t do it perfectly, I’ll end up feeling worse instead of better. It’s hard to let go of that pressure when I’ve always held myself to such high standards, you know?",
+    "therapist": "It's really understandable that letting go of those high standards feels daunting, especially when you’ve held yourself to them for so long. It's a significant shift to allow yourself to explore your feelings without that pressure. What if you took a moment to reflect on how those high standards have served you and how they might be holding you back right now? How does that feel to consider?",
+    "condition": "baseline",
+    "val_t": -0.09505367279052734,
+    "aro_t": 0.11857032775878906,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it feels really complicated for me. On one hand, those high standards have pushed me to achieve things, but on the other, they also make me feel like I'm never good enough. It feels overwhelming to think about letting go of them, like I'm losing a part of my identity or direction.",
+    "therapist": "It sounds like you’re grappling with a real conflict between the drive those high standards give you and the feelings of inadequacy they also create. It's completely valid to feel that letting go of them might feel like losing a part of who you are. What if you considered finding a balance, where you can still strive for your goals but also allow yourself the grace to be imperfect? How might that shift your perspective on both your identity and your journey?",
+    "condition": "baseline",
+    "val_t": -0.19173312187194824,
+    "aro_t": 0.22791802883148193,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just feel like I'm drowning lately. Between the 12-hour shifts at the hospital and being the only parent at home, I'm constantly exhausted. I feel guilty because I snap at my kids when I'm tired, but I don't know how to keep up with everything.",
+    "therapist": "It sounds like you're carrying an immense weight right now, feeling pulled in so many directions. When you notice yourself snapping at your kids, what thoughts tend to come up for you in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40654492378234863,
+    "aro_t": 0.1282585859298706,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I immediately feel guilty and frustrated with myself. I think things like \"I'm failing as a parent\" or \"Why can't I keep it together?\" But then I also feel angry because it's not like I want to snap—I'm just so overwhelmed with everything I have to do. It's like I'm drowning in responsibilities.",
+    "therapist": "It sounds like you're caught in a cycle of self-criticism and frustration, which must feel exhausting on top of everything else you're managing. When you notice these thoughts about failing as a parent, do you ever stop to consider what evidence might support or challenge that belief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.45933854579925537,
+    "aro_t": 0.3410741090774536,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know logically that I'm not a complete failure as a parent - my kids are fed and clothed and all that. But the thoughts keep coming that I'm not doing enough, that I'm missing some important emotional connection with them. It's just hard to shake the feeling when I see other parents doing crafts or having deep talks with their kids.",
+    "therapist": "It sounds like you're recognizing some logical counterpoints to those harsh thoughts, but still struggling with this nagging sense of not doing enough. What do you think it would look like to give yourself the same compassion you'd give to another parent in your situation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12407541275024414,
+    "aro_t": 0.06503605842590332,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I know logically that I'd be kinder to another parent, but it feels different when it's me. Like there's this voice saying \"You should know better, you're the adult here.\" It's exhausting to constantly feel like I'm falling short as a parent. \n\nEven when I try to be compassionate toward myself, it just feels fake, like I'm making excuses for not being good enough. I see other parents handling things so effortlessly while I'm barely keeping it together.",
+    "therapist": "That self-critical voice sounds incredibly persistent and draining—like no matter what you do, it keeps insisting you're falling short. I notice you're comparing your behind-the-scenes struggles to other parents' highlight reels—what do you think might happen if you shifted that comparison to include how they might feel on *their* hardest days?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09496963024139404,
+    "aro_t": 0.16972744464874268,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it's hard to imagine other parents struggling as much as I do. When I see them at school drop-off, they all look so put together while I'm barely keeping it together. Even if they do have hard days, they probably handle them way better than me. \n\nThe comparison thing makes me feel even worse because I think \"Why can't I cope like normal people do?\" It's like proof I'm failing at this parenting thing.",
+    "therapist": "It sounds like these comparisons have become such solid \"proof\" of falling short that it's hard to imagine any other perspective—that must feel really isolating. I wonder, what would it feel like to acknowledge that keeping it together at school drop-off might actually be *part* of coping well, even if it doesn't feel that way inside?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29751598834991455,
+    "aro_t": 0.11842870712280273,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but when I see other parents chatting and laughing at drop-off, it just feels like I'm barely holding it together in comparison. Even if I'm managing to get my kid there on time, inside I'm just counting the minutes until I can leave and stop pretending to be okay. \n\nIt's hard to see that as \"coping well\" when everyone else makes it look so effortless. Like they're actually enjoying this part of parenting while I'm just surviving it.",
+    "therapist": "It sounds like even in those moments when you're outwardly managing, there's this exhausting internal effort of keeping up appearances—that must feel so draining. I wonder if we could explore what it would feel like to acknowledge that survival mode *is* a valid way of coping, even if it doesn't look like what others are showing?",
+    "condition": "emotion_text_only",
+    "val_t": 0.07686769962310791,
+    "aro_t": 0.17900097370147705,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "It’s true, it does feel draining. I guess I’ve always thought of survival mode as something I *should* move past, not something valid. It’s hard to see it that way when everyone around me seems to be thriving and I’m just barely keeping it together. Admitting that feels like admitting failure, but I also don’t know how much longer I can keep pretending.",
+    "therapist": "It sounds like you're carrying this heavy pressure to move past survival mode, while also feeling stuck in it—that must be so hard to hold. What would it feel like to acknowledge that survival mode might not be a failure, but a necessary response to everything you're managing right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24354040622711182,
+    "aro_t": 0.08470523357391357,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I guess I never thought of it that way—like survival mode isn’t a failure but just a response to everything. It’s hard to accept, though, because I feel like I *should* be doing more, like I’m falling behind. Part of me wants to believe it’s okay to just survive, but another part keeps telling me I’m weak or lazy for not pushing harder. It’s like I’m stuck between wanting to give myself grace and feeling like I don’t deserve it.",
+    "therapist": "That internal tug-of-war between wanting self-compassion and feeling undeserving sounds so emotionally exhausting—it makes sense that this would feel like being stuck in place. I’m curious, what would it feel like to gently challenge that belief that rest or survival means weakness, especially when you’re juggling so much? Where do you think that \"should be doing more\" voice originally came from?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30319416522979736,
+    "aro_t": 0.08538854122161865,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I think that voice comes from my parents always pushing me to do more, even when I was a kid. Straight A's weren't enough - they wanted me in all the extracurriculars too. But when I try to challenge that belief now, it just makes me feel guilty, like I'm making excuses to be lazy.",
+    "therapist": "It sounds like that critical voice has been with you for so long—passed down in a way—that challenging it now brings up deep-rooted guilt, almost like you're betraying those old expectations. What do you think it would mean about you if, just for today, you let yourself be \"lazy\" by those impossible standards?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29684436321258545,
+    "aro_t": 0.13627219200134277,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It feels really uncomfortable to even consider being \"lazy\" like that. Like I'd be letting everyone down—my parents, my teachers, even myself. There's this voice that says if I'm not constantly productive, I'm worthless. \n\nBut part of me is also exhausted from keeping up this pace. I just don't know how to stop without feeling like I'm failing at life.",
+    "therapist": "It sounds like this belief that your worth is tied to productivity runs so deep that even considering rest feels like a betrayal—that must create such an exhausting inner conflict. What do you think it would take to start seeing your exhaustion not as failure, but as your body's way of telling you what it needs?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4146801233291626,
+    "aro_t": 0.1413348913192749,
+    "text_emotion": "Sad"
+  }
+]

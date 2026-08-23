@@ -16,7 +16,7 @@ However, a critical shortcoming of current text-based LLMs is their inability to
 \section{Hypotheses}
 
 \begin{enumerate}
-    \item \textbf{H1 (Dissonance Advantage -- RQ1):} The Dissonance-Aware therapist will achieve the highest (or tied-highest) scores on all seven evaluation metrics---Understanding, Interpersonal Effectiveness, Affective Bond, CTRS Collaboration, Guided Discovery, Focus, and Strategy---compared to Baseline, Emotion (Text-Only), and Multimodal (Vocal-Aware) conditions.
+    \item \textbf{H1 (Dissonance Advantage -- RQ1):} The Dissonance-Aware therapist will achieve the highest (or tied-highest) scores on all seven evaluation metrics, Understanding, Interpersonal Effectiveness, Affective Bond, CTRS Collaboration, Guided Discovery, Focus, and Strategy, compared to Baseline, Emotion (Text-Only), and Multimodal (Vocal-Aware) conditions.
 
     \item \textbf{H2 (Backbone Robustness -- RQ2):} The performance advantage of the Dissonance-Aware framework over the other three conditions will persist across different LLM backbones, with the delta-driven dissonance signal providing a consistent, architecture-independent improvement.
 \end{enumerate}
@@ -31,7 +31,7 @@ However, a critical shortcoming of current text-based LLMs is their inability to
 
 \section{Methodology Overview}
 
-To address these questions, this thesis proposes a multimodal dissonance-aware therapist framework. The framework extracts emotional signals from two parallel channels: text-derived Valence-Arousal from the client's words, and speech-derived Valence-Arousal from their vocal delivery. A dissonance score---computed as the delta between these two channels---flags moments where what the client says and how they say it diverge. Four therapist generation conditions, each providing a different subset of these emotional signals to the same underlying LLM, are compared through automated GPT-4o evaluation across seven therapeutic quality metrics over 10 CBT dialogues. This controlled comparison isolates the specific contribution of the dissonance signal to therapist response quality.
+To address these questions, this thesis proposes a multimodal dissonance-aware therapist framework. The framework extracts emotional signals from two parallel channels: text-derived Valence-Arousal from the client's words, and speech-derived Valence-Arousal from their vocal delivery. A dissonance score, computed as the delta between these two channels, flags moments where what the client says and how they say it diverge. Four therapist generation conditions, each providing a different subset of these emotional signals to the same underlying LLM, are compared through automated GPT-4o evaluation across seven therapeutic quality metrics over 10 CBT dialogues. This controlled comparison isolates the specific contribution of the dissonance signal to therapist response quality.
 
 \section{Scope and Limitations}
 
@@ -39,7 +39,7 @@ To address these questions, this thesis proposes a multimodal dissonance-aware t
 \begin{itemize}
     \item \textbf{Develop a Framework:} Propose and build a multimodal therapist framework that integrates text and speech emotional signals to detect and respond to emotional dissonance in CBT-style dialogue.
     \item \textbf{Synthetic Dataset:} Create and utilize a synthetically generated dataset of 10 multi-turn CBT counseling dialogues produced via CACTUS-style script generation and Zonos TTS synthesis with state-controlled prosody.
-    \item \textbf{Multimodal Condition Comparison:} Compare four therapist generation conditions---Baseline, Emotion (Text-Only), Multimodal (Vocal-Aware), and Dissonance-Aware---to quantify the contribution of each emotional signal type.
+    \item \textbf{Multimodal Condition Comparison:} Compare four therapist generation conditions, Baseline, Emotion (Text-Only), Multimodal (Vocal-Aware), and Dissonance-Aware, to quantify the contribution of each emotional signal type.
     \item \textbf{Automated Evaluation:} Assess therapist response quality using GPT-4o as a zero-shot evaluator across seven metrics spanning Therapist Skills, Client Alliance, and the Cognitive Therapy Rating Scale.
 \end{itemize}
 
@@ -57,4 +57,4 @@ The experimental results demonstrate a clear hierarchy of therapeutic quality ac
 
 \section{Contributions}
 
-The primary contributions of this work are: (1) a multimodal framework that independently extracts and aligns text and speech emotional representations (VA) for therapist response generation; (2) the operationalization of emotional dissonance---computed as a VA delta between modalities---as a prompt-level therapeutic signal; (3) a controlled four-condition experimental design that isolates the contribution of each emotional metadata type to response quality; and (4) a reproducible GPT-4o-based evaluation protocol with seven therapeutic quality metrics for benchmarking AI therapist performance. The remainder of this paper is organized as follows: Chapter~2 reviews related work, Chapter~3 details the methodology, Chapter~4 describes the experimental setup, and Chapter~5 presents and discusses the results.
+The primary contributions of this work are: (1) a multimodal framework that independently extracts and aligns text and speech emotional representations (VA) for therapist response generation; (2) the operationalization of emotional dissonance, computed as a VA delta between modalities, as a prompt-level therapeutic signal; (3) a controlled four-condition experimental design that isolates the contribution of each emotional metadata type to response quality; and (4) a reproducible GPT-4o-based evaluation protocol with seven therapeutic quality metrics for benchmarking AI therapist performance. The remainder of this paper is organized as follows: Chapter~2 reviews related work, Chapter~3 details the methodology, Chapter~4 describes the experimental setup, and Chapter~5 presents and discusses the results.

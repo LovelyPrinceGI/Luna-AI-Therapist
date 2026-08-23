@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been feeling really down lately. Ever since my grandmother passed away last month, I find myself struggling to enjoy anything. I know I should be moving on, but it’s just so hard.",
+    "therapist": "Hi there, I’m so sorry to hear that you’re feeling this way. Losing a loved one can be incredibly difficult, and it’s completely understandable that you’re finding it hard to enjoy things right now. Can you tell me more about what’s been the most challenging part of this experience for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26812636852264404,
+    "aro_t": 0.05722618103027344,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. The hardest part is probably the guilt I feel for not being able to move on. I keep thinking that if I start enjoying things again, it means I’m forgetting about them or not honoring their memory properly. It’s just so hard to find a balance.",
+    "therapist": "I can really understand how you might be feeling guilty about moving on and enjoying things again. It’s a common concern, and it’s important to remember that finding joy in life doesn’t mean you’re forgetting your grandmother or dishonoring her memory. What do you think it would mean to you to honor her memory in a way that also allows you to find happiness again?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11935842037200928,
+    "aro_t": 0.10997498035430908,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It’s just hard to shake the feeling that moving on and being happy is somehow betraying her. I guess I worry that if I start to enjoy things again, I might not be honoring her memory as much as I should. How do I find that balance?",
+    "therapist": "I understand how deeply you feel about this, and it’s natural to worry about balancing your grief with finding happiness. It’s important to remember that honoring her memory can take many forms, and allowing yourself to be happy doesn’t diminish the love and respect you have for her. What are some ways you think you could honor her memory that might also bring you some joy and comfort?",
+    "condition": "emotion_text_only",
+    "val_t": 0.049069762229919434,
+    "aro_t": 0.10263407230377197,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate what you're saying, but it feels really hard to find a balance. I worry that if I start doing things that make me happy, it might seem like I'm forgetting about her or not taking her memory seriously enough. It’s a constant struggle, and I’m not sure how to navigate it.",
+    "therapist": "I can see how challenging and conflicting this feels for you. It’s a delicate balance, and it’s okay to take it one step at a time. Maybe we can explore some ways to integrate activities that bring you joy while also keeping her memory alive. For example, what are some things you enjoyed doing together that you could continue to do in her memory?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10377311706542969,
+    "aro_t": 0.1091310977935791,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I really appreciate that, Luna. It’s just hard because the things we enjoyed together, like hiking or cooking, feel so tied to her. I worry that doing them alone might feel hollow or disrespectful to her memory. But at the same time, I know I need to find a way to keep living.",
+    "therapist": "I completely understand how those activities can feel deeply connected to your grandmother and how doing them alone might seem different. It’s a natural concern, and it’s okay to take your time with it. Maybe you could start by finding small ways to incorporate her memory into these activities. For example, you could cook one of her favorite recipes and share it with someone else, or go on a short hike and take a moment to reflect on the memories you shared. How do you feel about trying something like that?",
+    "condition": "emotion_text_only",
+    "val_t": 0.028862595558166504,
+    "aro_t": 0.07029974460601807,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestions, but it feels like it won't be the same without her. I worry that doing these things alone might just make me miss her more, and the memories might be too painful to handle. It's hard to imagine finding joy in them without her being there.",
+    "therapist": "I understand how deeply you feel about this, and it’s completely normal to worry that the memories might be too painful without her. It’s okay to take your time and grieve at your own pace. Maybe we can think about ways to gradually ease into these activities, or find new ways to connect with her memory that feel right for you. What do you think might help you feel more comfortable with the idea of doing these things again?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03602278232574463,
+    "aro_t": 0.17107272148132324,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just really hard to imagine doing those things without her. I worry that it'll feel like I'm betraying her memory or that I won't be able to handle the emotions. I don't know if there's a way to do it that doesn't feel so overwhelming.",
+    "therapist": "I can really understand how overwhelming and conflicting this feels for you. It’s natural to worry about betraying her memory or feeling overwhelmed by the emotions. Maybe we can start by finding small, manageable ways to connect with those activities or memories. For example, you could look through photos or write down some of your favorite memories of her. How do you feel about trying something like that to start?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06422817707061768,
+    "aro_t": 0.23442864418029785,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but it feels like it might just stir up more pain. I'm afraid that looking through photos or writing down memories will make me feel even more alone and sad. It's hard to find the motivation to do something that feels so heavy.",
+    "therapist": "I completely understand how heavy and painful that can feel, and it’s okay to take your time with it. It’s important to honor your feelings and not push yourself into something that feels too overwhelming right now. Maybe we can think about smaller, gentler ways to connect with your memories that don’t feel as daunting. For example, you could light a candle in her memory or play some music that reminds you of her. What do you think about trying something like that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31960582733154297,
+    "aro_t": 0.06711971759796143,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, Luna, but I'm not sure it will make a difference. It feels like no matter what I do, the guilt and loneliness just linger. Lighting a candle or playing music might help a little, but it feels like such a small step when the weight of everything is so heavy.",
+    "therapist": "I can hear how heavy and overwhelming this all feels for you, and it’s completely understandable to feel that way. It’s okay to take things one small step at a time, even if it doesn’t feel like it’s making a big difference right away. Sometimes, those small steps can be the start of a longer journey. What do you think might help you feel a bit more supported or less alone in this process?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14855027198791504,
+    "aro_t": 0.12221407890319824,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I’m already trying to take those small steps, but it doesn’t seem to make much of a difference. I guess what makes me feel less alone is when I can talk to someone who really gets it, but finding that kind of support isn’t easy.",
+    "therapist": "I completely understand how isolating and frustrating it can feel when it seems like those small steps aren’t making much of a difference. It’s really important to have someone who can truly understand and support you through this. Have you considered reaching out to any friends or family members who might be able to provide that kind of understanding and support? Or is there a specific way I can help you feel less alone in this process?",
+    "condition": "emotion_text_only",
+    "val_t": -0.027322888374328613,
+    "aro_t": 0.05897510051727295,
+    "text_emotion": "Neutral"
+  }
+]

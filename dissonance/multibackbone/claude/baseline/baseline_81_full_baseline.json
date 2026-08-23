@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my mom passed away six months ago. It happened so suddenly, and I feel like I'm still stuck in this fog while everyone around me, even my closest friends, just seems to have moved on with their lives. I'm not even sure talking about it is going to change anything, but I didn't know what else to do.",
+    "therapist": "I'm so glad you reached out, and I want you to know that what you're feeling — that heavy fog, that sense of being left behind while the world keeps moving — makes complete sense after such a sudden, profound loss. Grief doesn't follow a timeline, and the fact that others seem to have \"moved on\" doesn't mean anything is wrong with you; it just means you loved her deeply. \n\nCan you tell me a little about what that fog feels like for you day to day — is it more like numbness, sadness, or something harder to name?",
+    "condition": "baseline",
+    "val_t": -0.36733126640319824,
+    "aro_t": 0.1551976203918457,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's kind of all three, honestly — some days I wake up and I just feel completely hollow, like someone scooped everything out of me, and other days it hits me like a wave and I can't stop crying in the middle of doing something completely ordinary, like making coffee. But the hardest part to name is this constant low hum of guilt underneath everything, like I should have called her more, visited more, said more things while I still had the chance. I don't know if that's grief or just me punishing myself.",
+    "therapist": "That image of feeling hollowed out, and then those unexpected waves catching you off guard at the coffee maker — you're describing grief in such an honest, human way, and all of it is valid. What you're naming about the guilt is really important, and I want to gently reflect something back to you: that voice telling you \"I should have done more\" is incredibly common in grief, but it's worth asking whether it's actually true, or whether it's a painful story your mind is telling you in the absence of being able to do *anything* more for her now. \n\nWhen that guilt shows up, what does it say to you most — is it about specific moments, or more of a general feeling that you weren't enough?",
+    "condition": "baseline",
+    "val_t": -0.4003937244415283,
+    "aro_t": 0.16184008121490479,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "It's more specific moments, honestly. Like there's this one time she called me and I let it go to voicemail because I was tired from work, and I kept telling myself I'd call her back tomorrow, and then... there wasn't a tomorrow. I know you're saying my mind might be constructing a story, but that one feels pretty real to me, not just a story.",
+    "therapist": "You're right to push back on that, and I don't want to minimize what happened — that moment is real, and the pain around it makes complete sense. But I want to gently ask you something: in the whole of your relationship with your mom, was that one unanswered call the full story of who you were as her child, or was it one tired evening inside what sounds like a much larger, loving relationship? \n\nWhat do you think *she* would have said about who you were to her, if she could answer that question honestly?",
+    "condition": "baseline",
+    "val_t": 0.003020763397216797,
+    "aro_t": 0.10775613784790039,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I know she would have said I was a good son. She used to tell me that all the time, actually. But somehow that doesn't stop the guilt from feeling just as loud, because in my head I keep coming back to that one night and thinking, what if she needed me and I just wasn't there?",
+    "therapist": "It's so meaningful that you can hold both of those things at once — knowing she saw you as a good son, and still feeling that guilt loudly — because that tension is actually really important to pay attention to. What you're describing sounds like your mind has latched onto that one moment as a kind of \"proof,\" while quietly setting aside the countless moments she called you a good son, which is something our minds often do when we're grieving and looking for somewhere to put the pain. \n\nI'm curious — when you imagine that night and ask \"what if she needed me,\" what is it you're most afraid that means about you?",
+    "condition": "baseline",
+    "val_t": -0.23073959350585938,
+    "aro_t": 0.10316526889801025,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I think what I'm most afraid it means is that I'm selfish. Like, when it really mattered, when she actually might have needed me, I chose my own comfort — I was tired, I wanted to sleep — and that's just... who I am at my core. It's easier to hear \"you were a good son\" a hundred times than to shake the feeling that one moment revealed the truth about me.",
+    "therapist": "That fear — that one moment pulled back a curtain and showed you who you \"really\" are — is one of the most painful thoughts a person can carry, and I want to sit with you in that for a moment rather than rush past it. But I'd also gently invite you to consider: if a close friend told you they'd missed a call because they were exhausted, and then lost someone, would you look at them and think \"now I see the selfish truth of who you are\" — or would you see a tired, human person who had no way of knowing what was coming? \n\nWhat do you think makes it so much easier to extend that compassion to others than to yourself?",
+    "condition": "baseline",
+    "val_t": -0.20579004287719727,
+    "aro_t": 0.19099879264831543,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and honestly, if a friend told me that story, I wouldn't think badly of them at all. But it feels different when it's me, like there's a different standard that applies, and I can't fully explain why except that I was the one who actually had the chance to pick up and didn't. I guess part of me thinks that extending that compassion to myself would be like... letting myself off the hook too easily, like I'd be making excuses for something that can't be excused.",
+    "therapist": "What you just said is so honest and worth sitting with — this idea that self-compassion feels like an excuse, like it would somehow betray your mom or erase the weight of what happened. But I want to offer a gentle reframe: compassion for yourself isn't about deciding the moment didn't matter, it's about acknowledging that you were a tired, loving person who made a very human choice, and that *both* things can be true at once — it mattered, and you are not a selfish person at your core. \n\nDo you think there's a part of you that feels like carrying this guilt is a way of staying connected to her, like letting it go might feel like losing her all over again?",
+    "condition": "baseline",
+    "val_t": -0.11761021614074707,
+    "aro_t": 0.0809866189956665,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "That question just... hit me somewhere I wasn't expecting. I think you might be right, and that's actually really unsettling to sit with, because if letting go of the guilt means letting go of some connection to her, then I don't know if I want to let it go at all. It's like the guilt has become this strange way of keeping her present, keeping that last night present, even though it was painful.",
+    "therapist": "What you just discovered about yourself takes real courage to look at, and I want you to know that it makes profound sense — grief will find a way to keep love alive, even if the only thread available is a painful one. But I wonder if we might gently explore this together: is guilt really the truest way to keep her present, or are there other parts of her — her voice telling you that you were a good son, the relationship you actually had — that could hold her memory in a way that doesn't cost you so much?\n\nWhat's one small moment with her, completely separate from that last night, that you'd want to keep alive?",
+    "condition": "baseline",
+    "val_t": -0.23464596271514893,
+    "aro_t": 0.1420116424560547,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I sit with that for a moment, because it's not a question I was expecting. There's this memory that comes up immediately — she used to hum while she made coffee in the morning, this tuneless little sound, and I'd hear it from my room and just know everything was okay. But then I feel this pull, like if I let myself just... live in that memory without the guilt attached, I'm somehow letting go of her, like the guilt is the price I pay for being allowed to remember her at all.",
+    "therapist": "That memory is so tender and alive — the sound of her humming, the feeling of safety it gave you — and the fact that it came to you so immediately tells me that *that* is where she truly lives in you, not in that one unanswered call. I want to gently challenge the idea that guilt is the price of remembering her, because she doesn't sound like someone who would want her presence in your life to cost you this much pain — the woman who hummed in the kitchen and told you that you were a good son sounds like someone who would want to be remembered with warmth, not punishment. \n\nWhat do you think she would feel if she knew the price you've been paying just to keep her close?",
+    "condition": "baseline",
+    "val_t": -0.17445504665374756,
+    "aro_t": 0.19041669368743896,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That question just... hit me somewhere I wasn't expecting. I think she would have hated seeing me like this, honestly — she was always telling me not to carry things so heavy, that I was too hard on myself even back then. But it's strange, because knowing that doesn't just make the guilt go away — if anything, it almost adds another layer, like now I feel guilty for feeling guilty, if that makes any sense.",
+    "therapist": "It makes complete sense, and what you just named — guilt about the guilt — is actually a really important signal that this weight has been compounding for a long time, not just since you lost her. There's something almost tender in the fact that even her voice, telling you not to be so hard on yourself, is something you've been carrying all along; she knew this about you before any of this happened, and she loved you anyway. \n\nI'm wondering — when she used to tell you that you carried things too heavy, what did it feel like to hear that from her in those moments?",
+    "condition": "baseline",
+    "val_t": -0.3211853504180908,
+    "aro_t": 0.14551329612731934,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It felt... I don't know, kind of annoying at the time, honestly. Like she was seeing something in me I didn't want to admit was there, and it made me feel exposed. But there was also something really safe about it, because she wasn't saying it to criticize me, she was saying it because she actually saw me.",
+    "therapist": "That combination — feeling exposed and yet completely safe at the same time — is actually one of the most precious things another person can offer us, and it sounds like she had a rare gift for seeing you clearly and loving what she saw. And I notice something beautiful in what you just shared: she saw this tendency in you long before that last night, which means the person she called a good son was *already* someone who carried things too heavy, already someone who was hard on himself — and she loved that person fully, without reservation. \n\nI'm curious — is there any part of you that can let her seeing you, really seeing you, feel like enough?",
+    "condition": "baseline",
+    "val_t": -0.0932697057723999,
+    "aro_t": 0.22608768939971924,
+    "text_emotion": "Tense"
+  }
+]

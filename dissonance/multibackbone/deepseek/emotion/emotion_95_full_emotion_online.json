@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I’ve been really anxious at work because my colleague Jessica keeps taking credit for my ideas in meetings. It makes me feel like my contributions don’t matter, and I’m worried it could affect my job security. I’m not sure if therapy can help with something like this—it feels like a work problem, not a “me” problem.",
+    "therapist": "It sounds like this situation with Jessica is really weighing on you and stirring up some understandable concerns about being valued at work. Let’s explore how you’ve been thinking about this—do you notice any patterns in your thoughts when this happens, like assumptions about what it means for your job security?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2683607339859009,
+    "aro_t": 0.11816143989562988,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess I do tend to jump to conclusions when Jessica gives me feedback at work. I immediately think she’s trying to undermine me or that I’m not good enough for the role. It’s hard not to feel like my job is at risk every time she points something out, even though logically I know she’s just doing her job as my manager. I just can’t shake the feeling that it’s personal, though.",
+    "therapist": "It sounds like you’re caught between recognizing Jessica’s feedback might be routine and yet feeling personally threatened by it—that must be really exhausting to navigate. What evidence do you have that supports or challenges the idea that her feedback is personal rather than professional?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22516262531280518,
+    "aro_t": 0.1324608325958252,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I don’t have concrete evidence that Jessica’s feedback is personal—it’s just the way she delivers it feels so pointed and critical. I keep replaying her tone and facial expressions in my head, and it makes me feel like I’m failing or not good enough. It’s hard to separate her intentions from how it hits me emotionally.",
+    "therapist": "It makes sense that her tone and expressions would stick with you—those subtle cues can feel loaded when we're already feeling vulnerable. When you replay those moments, do you notice if your interpretation of her intentions shifts depending on your mood or stress level that day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19921183586120605,
+    "aro_t": 0.1245812177658081,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "You know, I never really thought about it that way, but yeah... when I'm already feeling down, those memories feel way more painful. Like last week when I was stressed about work, I kept replaying how she rolled her eyes at me, and it made me feel completely worthless. But on better days, I guess I can kinda brush it off as her just being in a bad mood. \n\nIt's just hard because even knowing that, the hurtful moments still feel so real when they pop into my head. Like my brain latches onto them no matter what.",
+    "therapist": "It sounds like you're noticing an important pattern—how your existing stress levels can amplify the impact of those moments with Jessica. That awareness is really valuable. What do you think might help you create a little more space between those painful memories and the meaning you assign to them in tougher moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.37084710597991943,
+    "aro_t": 0.17548036575317383,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I know I should try to create some distance from those memories, but it's hard when they feel so real and painful in the moment. When Jessica ignored me at that party last month, it just confirmed all my worst fears about being unlikable. I can't help but replay it in my head.",
+    "therapist": "That memory from the party seems to carry a lot of weight for you—like it's become proof of something deeper about how you're perceived. When those painful thoughts arise, have you noticed if there are any moments where you *don't* feel unlikable—times that might challenge this belief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2732020616531372,
+    "aro_t": 0.17606604099273682,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess there are a few people who seem to like me, but it's hard to trust that. At the party, I saw my friends laughing together and immediately thought they were laughing at me. Even when people are nice to me, I keep waiting for them to turn on me like they did that night.",
+    "therapist": "It sounds like that painful experience at the party has created a sort of filter where even positive interactions feel uncertain—like you're bracing for them to shift at any moment. What do you think it would take to start testing that filter, even in small ways, with the people who've shown you kindness?",
+    "condition": "emotion_text_only",
+    "val_t": 0.029601097106933594,
+    "aro_t": 0.26139724254608154,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it's hard to trust that people's kindness is genuine. Last time I let my guard down, I got hurt really badly. Even when people are nice now, I keep waiting for the other shoe to drop. \n\nThe idea of testing this \"filter\" makes me anxious because what if I'm right and people do turn on me again? It feels safer to just assume the worst from the start.",
+    "therapist": "It makes complete sense that you'd want to protect yourself after being hurt before—that guardedness comes from a very human place of self-preservation. I wonder if we could explore what \"safer\" looks like in smaller steps—are there any relationships where you've noticed even a tiny bit of that guard coming down, even briefly?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22586584091186523,
+    "aro_t": 0.11546802520751953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I guess I do feel a little more open with my coworker Sarah sometimes. We grab coffee together and I don't overthink everything I say to her. But then afterwards I'll worry that I shared too much or that she's just being nice out of obligation. It's like I can't trust that small feeling of safety when it does happen.",
+    "therapist": "It sounds like with Sarah, you're experiencing moments of genuine connection—but then that old fear comes rushing back to question it. That push-and-pull must feel exhausting. What do you think it would be like to notice those quieter moments with Sarah *without* immediately following them with doubt—even just for a few seconds longer?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04447340965270996,
+    "aro_t": 0.07731735706329346,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I want to believe those good moments with Sarah are real, but it's like my brain won't let me. The second I start feeling close to her, this voice in my head says \"she's just being nice\" or \"she'll realize you're not worth it.\" It's exhausting, but I don't know how to make it stop. \n\nEven when you suggest trying to sit with the good feelings longer, I immediately think \"but what if I get too comfortable and then she leaves?\" It's like I can't win.",
+    "therapist": "It sounds like that critical voice has become so automatic that it's drowning out any chance to truly savor those moments of connection with Sarah—and that must feel incredibly frustrating. I wonder if we could try something: next time you notice that voice saying \"she'll leave,\" what happens if you simply acknowledge it as an old protective habit, rather than a truth? Not to argue with it, just to notice it's there.",
+    "condition": "emotion_text_only",
+    "val_t": -0.1956087350845337,
+    "aro_t": 0.19392192363739014,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it's not that easy. When that voice pops up, it feels so real in the moment—like my brain is screaming at me that I'm going to get hurt again. Even if I try to notice it, the anxiety still takes over and ruins everything. \n\nI had this exact thing happen last night when Sarah was telling me about her day. My chest got tight and I couldn't focus on what she was saying because all I could think was \"she's getting bored of you.\" How am I supposed to just notice that without reacting?",
+    "therapist": "It sounds like in those moments with Sarah, the physical anxiety and racing thoughts become so intense that simply noticing them doesn't feel like enough—and that makes complete sense when your body is reacting as if there's real danger. When you felt that tightness in your chest last night, did you notice any small ways the anxiety shifted over time, even slightly, without you trying to force it away?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2765796184539795,
+    "aro_t": 0.3124505281448364,
+    "text_emotion": "Angry"
+  }
+]

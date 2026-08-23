@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. It feels like I'm constantly overwhelmed by sadness, and I can't seem to focus on anything at work. I just keep thinking about her, and it's hard to push through the day.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it's completely understandable to feel overwhelmed by sadness during such a difficult time. It's important to acknowledge those feelings instead of pushing them aside. Can you share more about what specific thoughts or memories are coming up for you when you're at work?",
+    "condition": "baseline",
+    "val_t": -0.382876992225647,
+    "aro_t": 0.08804738521575928,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Lately, when I'm at work, I keep thinking about the last time I saw my grandmother. It was such a simple moment, just sitting together and talking, but now it feels heavy with regret because I didn't appreciate it enough. I feel really sad and distracted, and it's hard to focus on my tasks when those memories keep coming up.",
+    "therapist": "It sounds like that memory holds a lot of weight for you, turning a simple moment into something filled with regret and sadness. It’s natural to reflect on the past, especially during grieving, but it can be tough when those thoughts interfere with your daily life. What do you think might help you honor that memory while also finding a way to stay present at work?",
+    "condition": "baseline",
+    "val_t": -0.39920341968536377,
+    "aro_t": 0.11956727504730225,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you acknowledging how much that memory weighs on me. It’s hard to think about honoring it while trying to focus on work. I feel guilty for not being more present, but then I worry that if I let go of that memory, I’ll be forgetting something important.",
+    "therapist": "It's completely understandable to feel that tension between wanting to honor your grandmother's memory and needing to focus on your work. Remember, honoring her doesn't mean you have to hold onto the sadness; it can be about remembering the joy of that moment instead. How might you create a small ritual or practice that allows you to acknowledge her memory without it overwhelming your day-to-day activities?",
+    "condition": "baseline",
+    "val_t": -0.06348347663879395,
+    "aro_t": 0.06314647197723389,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate what you're saying, but it feels complicated. I want to remember my grandmother, but every time I try to focus on the good memories, I get this wave of sadness that makes it hard to concentrate on work. I’m not sure how a ritual would fit into my busy day or if it would even help.",
+    "therapist": "It’s completely normal to feel conflicted about wanting to remember the good times while also grappling with the sadness. It sounds like the waves of emotion can be quite overwhelming, especially when you're trying to navigate a busy workday. What if, instead of a formal ritual, you considered a brief moment in your day—maybe just a minute or two—to acknowledge a happy memory of your grandmother? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.16466188430786133,
+    "aro_t": 0.040974974632263184,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that suggestion, but honestly, I’m not sure it would help me. I sometimes feel like if I open that door to remembering her, it will just lead to a flood of sadness that I can’t control, especially during a hectic day at work. It feels risky, like I’d be setting myself up to feel even more overwhelmed.",
+    "therapist": "It makes sense that you would feel hesitant about opening that door, especially when you're already feeling overwhelmed. Acknowledging your fear of being flooded with emotions is important; it shows how deeply you care about your grandmother and the memories you share. What do you think would help you feel a bit more in control if you did choose to reflect on those memories, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.26871633529663086,
+    "aro_t": 0.22825586795806885,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate what you're saying, but I still feel really hesitant about it. Reflecting on memories with my grandmother feels like opening a floodgate that I’m not sure I can handle. I worry that if I start thinking about her too much, I’ll just end up feeling even more overwhelmed and sad.",
+    "therapist": "It’s completely valid to feel hesitant about diving into those memories when you're already feeling so overwhelmed. It shows how much you care about your emotional well-being. Would it feel safer to explore those memories in a more controlled way, like writing them down when you're feeling calm, rather than bringing them up during a hectic workday? How does that idea sound to you?",
+    "condition": "baseline",
+    "val_t": -0.2875328063964844,
+    "aro_t": 0.18222904205322266,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about exploring those memories in a more controlled way, but it still feels really daunting to even think about writing them down. I worry I might just end up spiraling into those feelings instead of processing them. Plus, finding a calm moment when I'm not overwhelmed seems almost impossible lately.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of writing things down, especially when you worry it might lead to overwhelming emotions. Finding calm moments can feel like a challenge, especially when you're in the midst of grief. What if we shifted the focus away from writing for now and instead thought about small ways to create brief moments of grounding during your day? How might that feel for you?",
+    "condition": "baseline",
+    "val_t": -0.10217940807342529,
+    "aro_t": 0.08649146556854248,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion to focus on grounding instead of writing, but I’m not sure how to even start with that. It feels like my mind is always racing, and I struggle to find those calm moments you’re talking about. What if I try to ground myself and just end up feeling more overwhelmed?",
+    "therapist": "It’s completely understandable to feel unsure about where to start with grounding techniques, especially when your mind feels so busy. The fear of becoming more overwhelmed is a common concern, and it shows your desire to protect yourself during this difficult time. What if we brainstormed some very simple grounding techniques that you could try for just a minute or two, starting with something that feels manageable? Would you be open to exploring that together?",
+    "condition": "baseline",
+    "val_t": -0.16551244258880615,
+    "aro_t": 0.2688368558883667,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you're trying to help me find ways to manage my anxiety, but I’m still feeling skeptical about grounding techniques. They seem so simple that I worry they won’t actually work for me when I'm feeling overwhelmed. Plus, even just taking a minute or two feels like it might be hard to fit into my day, especially when everything feels chaotic.",
+    "therapist": "I understand your skepticism; it’s completely normal to question whether simple techniques can truly make a difference, especially when you're feeling overwhelmed. It can indeed be challenging to carve out even a minute in a chaotic day. What if we approached this by thinking about small, subtle ways to ground yourself during moments you might already be experiencing, like while taking a brief pause at your desk or during a short walk? How does that idea feel to you?",
+    "condition": "baseline",
+    "val_t": -0.141668438911438,
+    "aro_t": 0.18499279022216797,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you trying to help me find ways to ground myself, but I feel a bit doubtful about it. When I’m at my desk or out for a walk, my mind is usually racing with thoughts and worries, so I’m not sure how I could effectively pause and focus on grounding myself. It just feels like another thing to add to my already overwhelming list.",
+    "therapist": "It's completely understandable to feel doubtful, especially when your mind is racing with thoughts and worries. It can feel like just another task to manage, which adds to the overwhelm. How about we explore the idea of integrating grounding into something you’re already doing, like taking a few deep breaths before you start a new task or during a transition? Would that feel more manageable for you?",
+    "condition": "baseline",
+    "val_t": -0.10209369659423828,
+    "aro_t": 0.1876842975616455,
+    "text_emotion": "Angry"
+  }
+]

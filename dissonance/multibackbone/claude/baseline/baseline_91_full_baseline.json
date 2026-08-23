@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my grandmother passed away last month. There's this coffee shop she loved, and every time I walk past it or go inside, I just get hit with this wave of sadness that I can't shake. I'm not even sure talking about it is going to help, because it's not like anything can change what happened.",
+    "therapist": "I'm so sorry for the loss of your grandmother — grief like this is one of the most profound things we can carry, and it makes complete sense that a place so connected to her would bring those waves of feeling rushing back. You're right that nothing can change what happened, and I want you to know I'm not here to try to \"fix\" that or take the sadness away. What talking can do is help you understand what you're carrying and find ways to move through it gently, rather than feeling so alone in it. \n\nCan you tell me a little more about what goes through your mind in those moments when you walk past the coffee shop — what thoughts tend to surface first?",
+    "condition": "baseline",
+    "val_t": -0.38008201122283936,
+    "aro_t": 0.08732044696807861,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "When I walk past that coffee shop, the first thing that hits me is this flash of... I don't know, like she should still be there. Like if I just walked in, she'd be sitting at her usual table with her tea, waiting for me. And then almost immediately after that comes this wave of guilt, because I keep thinking about the last few months before she died when I was so busy with work that I didn't visit as much as I should have.",
+    "therapist": "That image of her waiting at her usual table is so tender — it speaks to how real and alive she still is in your heart, and that's a beautiful thing even when it hurts. The guilt you're describing is incredibly common in grief, but I want to gently notice something: your mind seems to be telling you that being busy with work means you didn't care enough, and I'm curious whether that's really the full picture of who you were to her. What do you think your grandmother would say if she could see the love that's behind all this pain you're carrying right now?",
+    "condition": "baseline",
+    "val_t": -0.3861149549484253,
+    "aro_t": 0.11741518974304199,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I want to say she'd tell me she understood, that she knew I loved her... but honestly, part of me thinks she'd just be sad that I wasn't there more. It's hard to trust that version because it feels like I'm just letting myself off the hook too easily. Like, what if believing she forgave me is just something I'm making up to feel better, not something that's actually true?",
+    "therapist": "That's such an honest and self-aware thing to notice, and it actually tells me a lot about your integrity — you *want* to hold yourself accountable rather than just reach for comfort. But I'd gently invite you to consider whether your mind might be applying a double standard here, where the forgiving version of your grandmother gets dismissed as \"made up,\" while the version that judges you gets treated as the trustworthy truth. What actual evidence from your *relationship with her* — the things she said, the way she treated you — might help you evaluate which version is closer to who she really was?",
+    "condition": "baseline",
+    "val_t": -0.11338341236114502,
+    "aro_t": 0.127951979637146,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That's... actually a really uncomfortable question, because when I try to think about concrete things she said or did, I can come up with examples on both sides. She used to check in on me when I was sick without me even asking, and she never once brought up my mistakes at family gatherings the way some other relatives did. But my brain immediately wants to say \"well, that was just her being polite\" or find some way to discount it, and I can hear what you're pointing at — that I'm doing exactly what you described.",
+    "therapist": "It takes real courage to catch your own mind in the act like that, and the fact that you can see it happening is genuinely significant. What's striking is that when evidence supports her warmth and forgiveness, your mind works hard to disqualify it — but I'd gently ask, would you apply that same skeptical standard to evidence that she *was* disappointed in you, or does that version get a free pass? That asymmetry might be worth sitting with, because it can tell us something important about how you're treating yourself in this grief.",
+    "condition": "baseline",
+    "val_t": -0.12512028217315674,
+    "aro_t": 0.13819658756256104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That question kind of stops me in my tracks, honestly. Because yeah, I think you're right — if she had seemed even slightly distant or tired when we talked, I'd hold onto that as proof she was disappointed in me, no questions asked. But when she hugs me or says something kind, I immediately find a reason why it doesn't count.",
+    "therapist": "What you've just described is such an important insight — your mind has essentially built a system where anything that confirms your guilt gets accepted as solid evidence, while anything that challenges it gets cross-examined until it's dismissed. That's not you being realistic or holding yourself accountable; that's your grief and guilt quietly stacking the deck against you. I'm wondering, if a close friend described treating themselves this way after losing someone they loved, what would you want to say to them?",
+    "condition": "baseline",
+    "val_t": -0.013460993766784668,
+    "aro_t": 0.2306351661682129,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me knows you're right — if a friend told me they were doing this to themselves, I'd probably tell them they were being way too hard on themselves. But when I try to turn that around on myself, it just feels different, like the rules don't apply the same way. I guess I feel like I actually deserve the guilt because I was there, I was the one who could have done something, and my friend wasn't.",
+    "therapist": "That distinction you're making — \"I was there, I could have acted differently\" — is actually worth taking seriously, because you're not wrong that responsibility matters. But there's a difference between acknowledging that you wish you'd visited more and concluding that you *deserve* to suffer, and I'm curious whether the guilt is actually serving the purpose your mind thinks it is. Do you think carrying this guilt is somehow keeping you connected to her, or honoring her in some way — like letting it go might feel like another kind of abandonment?",
+    "condition": "baseline",
+    "val_t": -0.3291705846786499,
+    "aro_t": 0.1608278751373291,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That question kind of stopped me in my tracks, because... yeah, I think you might be right about that. Like, if I stop feeling guilty, it almost feels like I'm saying it didn't matter that I wasn't there, or that she didn't matter. But at the same time, hearing you say it out loud makes me realize how twisted that logic is — she wouldn't have wanted me to torture myself like this.",
+    "therapist": "That moment of recognition you just had — holding both things at once, seeing the logic clearly even while feeling its pull — that's genuinely meaningful work, and it's not easy. You've essentially discovered that the guilt has been acting as a kind of love letter to her, a way of saying \"you mattered,\" but you're also starting to see that there might be other ways to honor her that don't require you to suffer. I'm wondering, what might it look like to carry her memory in a way that feels more like a tribute to who she actually was — that warm, forgiving woman who never once used your mistakes against you?",
+    "condition": "baseline",
+    "val_t": -0.30105888843536377,
+    "aro_t": 0.30527639389038086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I really like how you put that — a love letter. That actually made me tear up a little, because it's true, she did matter, she mattered so much, and I think part of me was terrified that if I let go of the guilt, it would mean I was letting go of her. But when you ask what a tribute to her would actually look like... honestly, I'm drawing a blank, and that scares me, because what if I try to find another way to honor her and it just feels hollow compared to this weight I've been carrying?",
+    "therapist": "That fear makes so much sense — the guilt has been so present and so heavy that it's become familiar, almost like a companion, and of course something unfamiliar feels hollow by comparison at first. But I'd gently offer that hollowness might just be what newness feels like before it becomes meaningful, not a sign that it isn't real. You mentioned she had a usual table at that coffee shop — I'm curious whether some small part of you might one day want to sit at that table not to feel the weight of her absence, but to feel close to her in the way she actually lived, with warmth and tea and love for you?",
+    "condition": "baseline",
+    "val_t": -0.15554141998291016,
+    "aro_t": 0.28183746337890625,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That image actually stopped me for a second, because I've walked past that coffee shop a few times and always looked away. The idea of sitting at her table feels... I don't know, almost too intimate, like I'd be trespassing on something that belongs to her. But I hear what you're saying, and maybe there's a difference between avoiding that place out of guilt versus choosing to go there someday out of love.",
+    "therapist": "The distinction you just drew yourself — avoidance out of guilt versus choosing to go out of love — is really profound, and I want you to notice that *you* found that framing, not me. And that word \"trespassing\" is so tender, because it actually suggests you still see that space as hers, which means part of you already knows she's still present there in some way. There's no rush to walk through that door, but I'm curious — when you imagine eventually sitting at her table and ordering something, maybe even her usual tea, what feeling comes up alongside the sadness?",
+    "condition": "baseline",
+    "val_t": -0.02544271945953369,
+    "aro_t": 0.2149186134338379,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I sit with that for a moment, because honestly it catches me off guard that you pointed out I found that framing myself. When I imagine sitting at her table and ordering her tea, there's this strange mix of things — sadness, yes, but also something that almost feels like closeness, like I'd be doing something she'd recognize. But then almost immediately I feel this wave of guilt, like I'd be performing grief instead of actually feeling it, like I'd be making it into some kind of ritual for my own comfort rather than for her.",
+    "therapist": "That worry about \"performing\" grief rather than truly feeling it is so revealing, because it's actually the same pattern we've been noticing all along — your mind finding a way to disqualify any moment of comfort or connection as somehow not genuine enough. But I'd gently point out that rituals of remembrance are one of the most human ways we've ever found to stay connected to people we've lost, and the fact that it would bring you comfort doesn't make it selfish — it might actually be exactly what she'd want for you. What do you think she would feel, watching you sit at her table, holding a warm cup of her favorite tea, and finally letting yourself feel close to her again?",
+    "condition": "baseline",
+    "val_t": -0.31409549713134766,
+    "aro_t": 0.12585031986236572,
+    "text_emotion": "Sad"
+  }
+]

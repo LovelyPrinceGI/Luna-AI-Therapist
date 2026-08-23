@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been really tough lately. Since losing my partner to cancer six months ago, I find it hard to enjoy anything anymore. I feel so isolated from my friends and just can't seem to reconnect with them. I know you're here to help, but I'm not sure if therapy can really change how I feel.",
+    "therapist": "Hi there, I'm so sorry to hear about your loss and the challenges you've been facing. It's completely understandable to feel isolated and to struggle with reconnecting after such a profound loss. How have you been coping with these feelings of isolation, and are there any moments, however small, where you've felt a glimmer of connection or joy?",
+    "condition": "baseline",
+    "val_t": -0.19947421550750732,
+    "aro_t": 0.13628685474395752,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thank you, Luna. It's been really tough. I've been trying to stay busy with work, but it feels hollow. I did have a moment the other day when I talked to an old friend, and it felt nice, but it was short-lived. I just find it hard to sustain those connections, you know?",
+    "therapist": "I can imagine how hollow it must feel to stay busy with work, and it's completely normal to crave more meaningful connections. It's great that you had a moment with your friend that felt nice, even if it was short-lived. What do you think might help you sustain those connections, or is there a small step you could take to nurture those moments of connection?",
+    "condition": "baseline",
+    "val_t": -0.0599747896194458,
+    "aro_t": 0.07298886775970459,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that you understand how I feel. It's hard to know what steps to take to sustain those connections, though. I worry that if I try to reach out more, I might come off as needy or pushy, and that could push people away.",
+    "therapist": "It's completely understandable to have those worries; reaching out can feel vulnerable, especially when you're grieving. It's important to pace yourself and perhaps start with small, low-pressure interactions, like sending a quick message to a friend or joining a small group activity that interests you. What do you think about starting with something small like that, and how does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.1711183786392212,
+    "aro_t": 0.10391390323638916,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I understand what you're saying, and I really do want to try, but it feels like such a big step. I worry that even a small interaction might bring up a lot of emotions, and I'm not sure I'm ready to handle that. It's hard to imagine myself doing that right now.",
+    "therapist": "It's completely normal to feel that way, and it's okay to take things at your own pace. Grief can make even small steps feel overwhelming, and it's important to be gentle with yourself. Maybe we can explore some strategies to help you manage those emotions when they arise, or think about a very small, manageable step you could take that feels less daunting. What do you think might be a tiny step that feels doable for you right now?",
+    "condition": "baseline",
+    "val_t": -0.11414539813995361,
+    "aro_t": 0.17696678638458252,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard to pinpoint what that tiny step might be. I feel like everything seems so big and overwhelming right now, and I worry that even a small step might end up feeling too much.",
+    "therapist": "I completely understand how overwhelming everything can feel right now. It's okay to take things very slowly and to prioritize what feels manageable. Maybe we can start by focusing on how you can create a bit of space for yourself to process your emotions, even if it's just a few minutes a day. What do you think about finding a quiet moment to reflect on your feelings, perhaps through writing or just sitting quietly? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.05988919734954834,
+    "aro_t": 0.19008862972259521,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It does sound helpful, but I'm just so used to pushing through and not taking time for myself. I worry that if I start to sit with my feelings, it might all just become too much. How do I make sure I don't get overwhelmed?",
+    "therapist": "I understand that pushing through has been your way of coping, and it's natural to worry about feeling overwhelmed when you start to sit with your feelings. One way to approach this is to set a specific, short amount of time, like 5 or 10 minutes, where you allow yourself to feel and reflect, and then gently shift your focus back to something grounding or calming. This can help you manage the intensity and give you a sense of control. What do you think about trying this, and how does it feel to set a specific time limit for reflection?",
+    "condition": "baseline",
+    "val_t": -0.10713958740234375,
+    "aro_t": 0.16982877254486084,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea of setting a time limit, but I'm not sure if I can manage it. It feels like a lot to sit with my feelings, even for just 5 or 10 minutes. I worry that it might spiral into something more overwhelming, and I'm not sure I have the tools to bring myself back to a calm state.",
+    "therapist": "I understand that even a short time can feel like a lot, and it's completely valid to have those concerns. We can start even smaller, maybe with just a minute or two, and focus on a single, manageable emotion or thought. It might also be helpful to have a calming activity ready to transition into afterward, like listening to a favorite song or taking a few deep breaths. How does that feel to you, and is there a specific calming activity that you find helpful?",
+    "condition": "baseline",
+    "val_t": -0.11447536945343018,
+    "aro_t": 0.10470318794250488,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you're trying to make it more manageable, but I'm still really nervous about even starting. It feels like a big step, even if it's just a minute. I do like listening to music to calm down, but I worry that it won't be enough to help me feel better after trying to focus on my emotions.",
+    "therapist": "I completely understand your nervousness, and it's okay to take things at your own pace. It's great that you have music as a calming tool, and we can explore other small, gentle strategies to help you feel more supported. Maybe we can start with a very gentle practice, like focusing on your breath for just a minute, and then transitioning into your calming music. How does that feel to you, and is there a specific song that you find particularly soothing?",
+    "condition": "baseline",
+    "val_t": -0.06297147274017334,
+    "aro_t": 0.1512230634689331,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but I'm not sure if focusing on my breath will really help. It's hard for me to calm down when my mind is racing, and I worry that it might just make me more anxious. I do have a song that I find really soothing, though—it's a piano piece that always helps me feel a bit more at ease.",
+    "therapist": "I understand your concerns about focusing on your breath, and it's okay if that doesn't feel right for you right now. It's great that you have a piano piece that helps you feel more at ease. Music can be a powerful tool for soothing the mind and emotions. Perhaps we can start with listening to that song and see if it helps you feel more centered. How does it feel to set aside a few minutes to listen to that piano piece, and what do you think about using it as a regular part of your calming routine?",
+    "condition": "baseline",
+    "val_t": 0.2138059139251709,
+    "aro_t": 0.10917079448699951,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're suggesting something that feels more natural to me. Listening to that piano piece does help, but I'm not sure if I can make it a regular routine. It's hard because I often feel guilty for taking time for myself, like I should be doing something more productive.",
+    "therapist": "It's completely understandable to feel guilty about taking time for yourself, especially when you're used to being productive. It's important to remember that taking care of your emotional well-being is just as important as any other task. Perhaps we can reframe this time as a necessary part of your self-care, rather than something unproductive. How does it feel to think of listening to that piano piece as a way to recharge and support yourself, so you can be more present and effective in other areas of your life?",
+    "condition": "baseline",
+    "val_t": -0.03288877010345459,
+    "aro_t": 0.02442026138305664,
+    "text_emotion": "Neutral"
+  }
+]

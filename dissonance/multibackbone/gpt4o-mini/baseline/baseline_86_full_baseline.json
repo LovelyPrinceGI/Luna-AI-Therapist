@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Luna, I’ve been feeling really overwhelmed lately with the pressure to maintain a perfect GPA while juggling my part-time job at the cafe. It feels like I’m constantly stressed and anxious about my grades, and I worry that I’m not giving enough attention to my job or social life. Sometimes I wonder if therapy can really help me manage this pressure, or if it’s just something I have to deal with on my own.",
+    "therapist": "It sounds like you’re carrying a heavy load right now, trying to balance your academic expectations with your job and social life. It’s completely understandable to feel overwhelmed in such a demanding situation. Let’s explore those thoughts together—what specific worries do you have about your grades and how they relate to your other commitments?",
+    "condition": "baseline",
+    "val_t": -0.2636681795120239,
+    "aro_t": 0.17869949340820312,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I definitely feel like there's just not enough time in the day. I'm constantly worried that my grades are going to drop because I can't give my studies the attention they need while juggling work and trying to have some sort of social life. It's frustrating because I know that if I focus too much on one area, like school, everything else falls apart, and I just feel stuck.",
+    "therapist": "It sounds like you're feeling trapped in a cycle where every area of your life feels like it’s competing for your attention, which can be incredibly frustrating. It's normal to worry about maintaining balance, especially when you care deeply about your studies and relationships. What do you think might happen if you allowed yourself to focus on one area for a little while, even just temporarily?",
+    "condition": "baseline",
+    "val_t": -0.38621652126312256,
+    "aro_t": 0.09815347194671631,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I understand what you're saying, but focusing on just one area feels really overwhelming to me. I worry that if I ignore the other parts of my life, everything will fall apart or people will be disappointed in me. It’s like I’m stuck in this constant need to juggle everything at once, and the thought of letting something go feels risky.",
+    "therapist": "It’s understandable to feel that way; the fear of disappointing others or letting things slip can make it seem risky to shift your focus. It sounds like you’re holding a lot of responsibility and that the pressure to keep everything in balance is weighing heavily on you. What if we looked at ways to prioritize or set small, achievable goals in each area, so you can feel a sense of progress without feeling like you have to do it all at once?",
+    "condition": "baseline",
+    "val_t": -0.21154403686523438,
+    "aro_t": 0.19658148288726807,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your understanding, but honestly, the idea of prioritizing feels overwhelming. I worry that if I don’t give my full attention to everything, I’ll let someone down or things will fall apart. Setting small goals sounds nice in theory, but I’m not sure how to even start without feeling like I’m neglecting other responsibilities.",
+    "therapist": "It's completely valid to feel overwhelmed at the thought of prioritizing, especially when you're concerned about letting others down. It can be tough to find that balance, and it’s okay to take a step back and acknowledge that feeling. How about we start by identifying just one small thing you could do this week that feels manageable, and see how that impacts your sense of balance? What’s one area you feel you could give a little attention to without feeling like you’re neglecting everything else?",
+    "condition": "baseline",
+    "val_t": -0.12961208820343018,
+    "aro_t": 0.09169316291809082,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you acknowledging how overwhelming it can be to prioritize things. Honestly, I'm not sure I can even think of one small thing right now. It feels like everything is pulling at me, and even if I pick one area to focus on, I worry that it’ll just make me feel guilty about neglecting the others.",
+    "therapist": "It’s completely understandable to feel that way; guilt can be a heavy burden, especially when you care about all areas of your life. It might help to remember that taking small steps doesn’t mean neglecting your responsibilities; it’s more about giving yourself permission to ease some of the pressure. Can we explore what feelings come up when you think of prioritizing just one area, and how you might turn that guilt into a more compassionate understanding of your limits?",
+    "condition": "baseline",
+    "val_t": -0.10685575008392334,
+    "aro_t": 0.11531281471252441,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about easing the pressure, but it feels impossible to prioritize just one area without letting others slip. The guilt hits hard when I think of focusing on myself, like I'm being selfish. I worry about what will happen if I drop the ball on my responsibilities; it feels like everything will fall apart.",
+    "therapist": "It’s really powerful that you’re recognizing how deeply that guilt impacts you, and it’s completely normal to fear that focusing on yourself might feel selfish. It sounds like you’re carrying a lot of responsibility and concern for others, which can make it hard to take a step back. What if we reframed the idea of prioritizing—could focusing on your well-being actually strengthen your ability to handle your responsibilities in the long run? How might you feel about that perspective?",
+    "condition": "baseline",
+    "val_t": -0.31000661849975586,
+    "aro_t": 0.08286643028259277,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it still feels wrong to focus on myself when there are so many people depending on me. It’s like I’m afraid that if I take a step back, everything will fall apart. I don’t know if prioritizing myself would actually help me manage my responsibilities better; it just seems like it would create more guilt.",
+    "therapist": "I hear you, and it’s clear that you have a deep sense of responsibility towards others, which can make it really challenging to even consider prioritizing yourself. It’s understandable to feel that stepping back might lead to more guilt or chaos, but self-care can actually help you recharge and be more present in your responsibilities. What if we explored the idea that taking small moments for yourself might not only lessen that guilt but also enhance your ability to support those you care about? What do you think about that possibility?",
+    "condition": "baseline",
+    "val_t": -0.2709190845489502,
+    "aro_t": 0.07193291187286377,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about self-care helping me recharge, but it just feels so selfish to even think about taking time for myself. I worry that if I step back, everything will fall apart, and I’ll end up feeling even more guilty. It’s like I have this constant pressure that if I’m not always available, I’m letting everyone down.",
+    "therapist": "It’s completely understandable to feel that way; wanting to be available for others can create a lot of pressure and guilt. It shows how much you care about those around you, but it’s important to remember that your well-being is also essential for you to be there for them. What if we explored some small, non-selfish ways you could carve out a moment for yourself that still allows you to support others? How might that look for you?",
+    "condition": "baseline",
+    "val_t": -0.35043632984161377,
+    "aro_t": 0.1600099802017212,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but it just feels so hard to prioritize myself when I know others need me. I often think that if I take a moment for myself, I’ll be letting someone down or missing out on helping them. It feels like there’s this constant tug-of-war between my own needs and the expectations I feel from others.",
+    "therapist": "It sounds like you’re caught in a difficult tug-of-war between your own needs and the expectations of those around you, which can be incredibly exhausting. It’s clear you care deeply about supporting others, but it’s also essential to acknowledge that your needs matter too. How might you feel about exploring ways to communicate your boundaries or needs to those around you, so you can find a little space for yourself without feeling like you’re letting anyone down?",
+    "condition": "baseline",
+    "val_t": -0.16665780544281006,
+    "aro_t": 0.11687183380126953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you’re saying, and I do feel that tug-of-war a lot. The idea of setting boundaries sounds nice, but I worry that if I try to communicate my needs, I’ll end up disappointing someone or making things awkward. It feels like I’m always walking on eggshells, and I just don’t know if I can handle the fallout from that.",
+    "therapist": "I can see how the thought of setting boundaries feels daunting, especially when you're concerned about disappointing others or creating awkwardness. It’s tough to navigate those feelings, and it’s completely valid to want to maintain harmony in your relationships. What if we explored ways to start small with your boundaries, perhaps testing the waters with someone you trust? What would that look like for you, and how might it feel to express your needs in a gentle, manageable way?",
+    "condition": "baseline",
+    "val_t": -0.1220703125,
+    "aro_t": 0.1561037302017212,
+    "text_emotion": "Angry"
+  }
+]

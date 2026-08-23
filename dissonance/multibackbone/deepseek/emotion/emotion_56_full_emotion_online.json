@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I’ve been avoiding family gatherings because they just make me feel worse. Every time I go, I’m reminded that my grandma isn’t there anymore, and it’s so painful. I’m not sure if therapy can really help with this—I mean, how can talking about it change the fact that she’s gone?",
+    "therapist": "It sounds like these gatherings bring up a deep sense of loss, and I can understand how painful it must feel to miss your grandma so much. While therapy can’t change the fact that she’s gone, it might help you find ways to honor her memory while navigating these difficult moments—what’s something about her that brings you comfort when you think of her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.378454327583313,
+    "aro_t": 0.09098303318023682,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It’s comforting to think about her laugh—it was so warm and full of life. But sometimes focusing on those memories just makes me miss her more, and I end up feeling even lonelier. I’m not sure if trying to think about her in those moments will really help, because it might just remind me of how much I’ve lost.",
+    "therapist": "It sounds like those warm memories of her laugh bring both comfort and sadness, which can feel like a bittersweet mix. Sometimes, it’s okay to let those feelings coexist—grief doesn’t have to be fixed or resolved right away. How do you feel about exploring ways to balance honoring her memory while also caring for yourself in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06447827816009521,
+    "aro_t": 0.12178146839141846,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I like the idea of letting the feelings coexist, but it’s hard because the sadness feels so overwhelming sometimes. I worry that if I let myself feel it fully, I’ll just get stuck in it and won’t be able to move forward. Honoring her memory feels important, but I’m not sure how to do that without feeling like I’m drowning in grief.",
+    "therapist": "It makes sense that the sadness feels so big right now—grief can feel like waves, sometimes overwhelming and other times more gentle. What if we explored small, manageable ways to honor her—like lighting a candle or sharing a story—that might feel less overwhelming than full gatherings? How does that idea sit with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2601604461669922,
+    "aro_t": 0.12713992595672607,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don’t know… lighting a candle feels kind of empty to me, like it’s not really doing anything meaningful. And sharing stories—it’s just so hard to talk about her without feeling like I’m going to break down. I guess I’m worried that trying to honor her in small ways will just make me feel worse, like I’m not doing enough.",
+    "therapist": "I hear how deeply you're struggling with finding ways to remember her that don't amplify the pain—it sounds like you're caught between wanting to honor her and protecting yourself from being overwhelmed. Maybe we could explore what \"doing enough\" would look like to you—is there a way you'd like to remember her that wouldn't feel forced or painful?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2577381134033203,
+    "aro_t": 0.05387890338897705,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know what \"doing enough\" would look like. Every time I try to remember her in a positive way, it just makes me miss her more and feel guilty that I didn't do more when she was here. Even looking at photos feels painful now—like I'm just torturing myself. \n\nPart of me worries that if I don't feel the pain when remembering her, it means I didn't love her enough. Does that make sense? It's like the grief is proof of our connection.",
+    "therapist": "It sounds like you're carrying so much weight—not just the grief of losing her, but also this belief that your pain is the only way to prove your love. That must feel incredibly heavy. What if we gently explored whether there might be other ways to honor your connection with her, without equating suffering with love?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28099000453948975,
+    "aro_t": 0.19034039974212646,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it feels wrong to even consider feeling better. If I stop hurting so much, it's like I'm letting her go or forgetting her. The pain is the only thing that still connects me to her now that she's gone. \n\nI know logically that suffering doesn't equal love, but my heart keeps telling me that if I heal too much, I'm betraying her memory somehow. It's like I'm stuck between wanting relief and being terrified of what relief would mean.",
+    "therapist": "I hear how deeply conflicted you feel—like healing would somehow mean losing your bond with her, even though that pain is so heavy to carry. It makes me wonder: what if honoring her could include *both* the love *and* the relief, without one canceling out the other? Could we explore what she might want for you in this grief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3488752841949463,
+    "aro_t": 0.18881702423095703,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I’ve never thought about it that way—honoring her while also allowing myself relief. It feels strange, almost like I’m betraying her by not holding onto the pain. I guess I’m scared that if I let go of the guilt, I’ll forget her or stop caring as much. But the idea that she might want me to feel relief... that’s hard to wrap my head around.",
+    "therapist": "It sounds like this idea feels both unfamiliar and unsettling—like stepping into unknown territory where relief doesn’t erase the love you have for her. It’s okay to take this slowly; healing doesn’t mean forgetting. What do you think she might say to you if she could see how much you’re struggling with this guilt?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0842125415802002,
+    "aro_t": 0.06295454502105713,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think she’d probably tell me to stop being so hard on myself, but it’s hard to believe that. I feel like I failed her, and no amount of reassurance changes that. Even if she’d forgive me, I don’t know if I can forgive myself.",
+    "therapist": "It sounds like this guilt feels deeply rooted, and even imagining her forgiveness doesn’t seem to ease it—that must feel so heavy to carry. What if we explored what \"forgiving yourself\" might look like in small, manageable steps, rather than all at once? How does that idea sit with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27066123485565186,
+    "aro_t": 0.09848892688751221,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know if I even deserve to forgive myself, honestly. The thought of letting myself off the hook makes me feel like I'm just making excuses for what I did. It's like... if I stop feeling guilty, then I'm saying what happened was okay, and it wasn't.",
+    "therapist": "It sounds like you're holding onto this guilt because it feels like the only way to acknowledge how much you cared—like letting go would mean dismissing what happened entirely. That’s such a painful place to be stuck. What if we explored how you might honor what happened *without* needing the guilt to prove how much it mattered to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21919119358062744,
+    "aro_t": 0.12068986892700195,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but the guilt is the only thing keeping me connected to that person. If I stop feeling bad about what happened, it's like I'm forgetting them or saying it didn't matter. I don't know how to honor them without this pain.",
+    "therapist": "I hear how deeply important it feels to hold onto this guilt—like it's the thread keeping your connection alive, even though it hurts so much. It might help to gently explore: what if love and remembrance *don't* require pain to be real? Could we try imagining what a quieter, kinder connection might look like?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31177306175231934,
+    "aro_t": 0.08640158176422119,
+    "text_emotion": "Sad"
+  }
+]

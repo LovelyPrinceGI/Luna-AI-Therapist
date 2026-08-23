@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed since my grandfather passed away last month. I keep getting hit with waves of sadness, but I also feel this heavy guilt for not being more present with him when he was alive. It's like I can't escape these feelings, and I'm not sure how to process any of it.",
+    "therapist": "I'm really sorry to hear that you're feeling so overwhelmed. Losing someone we love can bring up a lot of intense emotions, and it's completely understandable to feel sadness and guilt. It sounds like you're navigating through a lot right now. Can you share more about what specific thoughts or memories come to mind when you feel those waves of sadness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4049642086029053,
+    "aro_t": 0.1712779998779297,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking about the last conversation I had with them, and it lingers in my mind. I feel this heavy guilt that maybe I didn't say everything I should have or that I could have done more. It's like I’m stuck in this loop of what-ifs, and I can't seem to shake it off.",
+    "therapist": "It sounds like those lingering thoughts and feelings are really weighing on you, and it's tough to feel stuck in that loop of \"what-ifs.\" Guilt can be a heavy burden, especially when it comes to relationships that mean so much to us. Have you had a chance to reflect on some of the positive moments you shared with your grandfather, or perhaps think about what he might have wanted for you moving forward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3961735963821411,
+    "aro_t": 0.11155176162719727,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you bringing that up, but honestly, it feels really hard to focus on the positive moments right now. My mind keeps circling back to the regrets and what I wish I had done differently. I know my grandfather would want me to be happy and move on, but the guilt just feels so suffocating sometimes.",
+    "therapist": "I can see how difficult it is for you to focus on the positive moments when the weight of guilt feels so suffocating. It's completely natural to get caught up in those feelings, especially when you care deeply about someone. It might help to explore what specific regrets come to mind—sometimes putting them into words can allow us to process them more fully. What do you think those regrets are telling you about your values and your relationship with your grandfather?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3331564664840698,
+    "aro_t": 0.11848175525665283,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you trying to help me process my feelings, but it feels overwhelming to even think about my regrets right now. I have so many thoughts swirling around, especially about my grandfather and how I wish I had done things differently. I guess part of me is scared that if I say them out loud, it’ll just make the guilt feel heavier.",
+    "therapist": "It makes sense that you're feeling overwhelmed by the idea of facing those regrets, especially when it feels like they carry so much weight. It’s okay to take your time with these feelings. Sometimes just acknowledging them internally can be a first step. What if we tried to explore those thoughts together at a pace that feels more comfortable for you? What do you think might help you feel a little lighter in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3230191469192505,
+    "aro_t": 0.18024194240570068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, but it’s just hard to think about those regrets without feeling weighed down. I feel like every time I try to acknowledge them, I just get stuck in this spiral of guilt and anxiety. I’m not sure if exploring them more will actually help; it feels like opening a can of worms that I might not be ready to deal with.",
+    "therapist": "It sounds like the thought of exploring those regrets feels really daunting for you right now, and I want to honor that hesitation. It’s understandable to want to avoid feelings that seem too heavy to handle. Instead of diving deep into those thoughts, how about we focus on what you're feeling in the present moment? What do you think would feel more manageable to talk about today?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2061249017715454,
+    "aro_t": 0.177048921585083,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you acknowledging how heavy those regrets feel for me. Right now, I think I’m feeling a mix of anxiety and guilt, like I’m carrying this weight that I can't quite shake off. It’s hard to pinpoint what’s causing it, but I know it’s tied to missed opportunities and decisions I regret. I’m not sure talking about the present will help, though; it feels like I need to address those deeper feelings first.",
+    "therapist": "I can hear how much weight those feelings of anxiety and guilt are carrying for you right now, and it’s completely understandable that you want to address them. It’s okay to feel that urgency to explore those deeper feelings, especially when they’re tied to missed opportunities. How about we take a moment to identify one specific regret that feels particularly heavy for you? Sometimes just naming it can help us find a way to process it together. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1803497076034546,
+    "aro_t": 0.10594475269317627,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you acknowledging how heavy these feelings are for me. It's hard to pinpoint just one regret, though, because they all seem to blend together and weigh me down equally. I guess if I had to choose, it would be the time I didn’t pursue a job opportunity that I was really excited about; I keep thinking about how different my life might be if I had taken that chance.",
+    "therapist": "It sounds like that missed job opportunity holds a lot of weight for you, and it’s understandable to wonder how things might have been different. Those thoughts can feel really heavy, especially when we think about the paths we didn't take. Would you be willing to share what excited you about that opportunity? Sometimes exploring what drew us to something can help us understand our feelings better.",
+    "condition": "emotion_text_only",
+    "val_t": 0.007564663887023926,
+    "aro_t": 0.1735391616821289,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I felt really excited about that job because it seemed like a perfect fit for my skills and interests. I thought it would be a great chance to grow and connect with people in a meaningful way. Now, though, I just feel this weight of regret and wonder if I’ll ever find something like that again.",
+    "therapist": "It’s clear that the excitement you felt about that job opportunity was tied to your passions and aspirations, which makes the regret feel even more profound. It’s completely natural to worry about finding another chance that feels as right as that one did. Instead of focusing solely on the regret, what if we explored what skills and interests you felt excited about? They might guide you toward new possibilities that resonate with you now. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13558423519134521,
+    "aro_t": 0.25331270694732666,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your perspective, but I can't help feeling stuck in my regret. It feels overwhelming to think about my skills and interests right now when I can't shake off the disappointment of losing that opportunity. What if I can't find anything else that excites me as much?",
+    "therapist": "I can really sense how stuck you feel in your regret, and it’s understandable to feel that disappointment weighing heavily on you. It’s challenging to think about the future when the past feels so consuming. What if we took a moment to focus on what that job represented for you—what aspects of it excited you? Sometimes reflecting on those elements can help us find sparks of inspiration in unexpected places. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2613116502761841,
+    "aro_t": 0.2644352912902832,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, but it’s hard to think about what that job represented when all I feel is the loss and regret. I remember being excited about the opportunity to grow and make a difference, but now it just feels like a reminder of what I missed. I don’t know if focusing on those positive aspects will help—it feels like they’re overshadowed by all the disappointment.",
+    "therapist": "I can hear how deeply the loss and regret are affecting you, and it’s completely understandable that the excitement you once felt is overshadowed by disappointment. It can be really tough to shift our focus when those feelings are so strong. It sounds like you’re in a place where processing the grief of that missed opportunity is important. What do you think it might look like to allow yourself to feel that disappointment for a bit longer, without pushing it away?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10233354568481445,
+    "aro_t": 0.16730868816375732,
+    "text_emotion": "Angry"
+  }
+]

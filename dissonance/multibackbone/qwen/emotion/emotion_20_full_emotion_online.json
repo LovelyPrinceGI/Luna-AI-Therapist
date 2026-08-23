@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately. The medical bills from my recent surgery are piling up, and I just feel so overwhelmed and anxious about how I’m going to manage everything. It’s hard to see a way out, and I’m not sure if therapy can even help with something like this.",
+    "therapist": "I’m really sorry to hear that you’re feeling so overwhelmed and anxious, especially with the added stress of medical bills. It’s completely understandable to feel this way, and it’s okay to be unsure about how therapy can help. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33291447162628174,
+    "aro_t": 0.2586069107055664,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. I've been trying to stay busy with work and distract myself, but it's hard to keep up. I feel like I'm just pushing the anxiety down, and it keeps coming back stronger.",
+    "therapist": "It sounds like you’re doing your best to manage the anxiety by staying busy, but it’s understandable that it keeps coming back. Pushing it down can only work for so long, and it’s important to find a way to address the underlying feelings. Have you had any moments recently where you felt a bit more in control or less overwhelmed, even if just for a short time?",
+    "condition": "emotion_text_only",
+    "val_t": 0.012007594108581543,
+    "aro_t": 0.23083579540252686,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I do feel like staying busy helps, but it's only a temporary fix. There was a moment last week when I went for a walk in the park, and I felt a bit more at peace. It was nice, but it didn't last long. I guess I just feel like those moments are hard to hold onto.",
+    "therapist": "It’s great that you found some peace during your walk in the park, even if it was just for a short time. Those moments can be really valuable, and it’s important to recognize them. What do you think helped you feel more at peace during that walk? Could there be ways to bring more of that feeling into your daily life, even if in small ways?",
+    "condition": "emotion_text_only",
+    "val_t": 0.001982450485229492,
+    "aro_t": 0.031397461891174316,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I think the quiet and the natural surroundings really helped me feel more at ease. It’s almost like being in nature gives me a break from all the noise in my head. But it’s hard to replicate that feeling at home or at work, where there’s always something pulling at my attention. How can I bring that peace into my daily life when there are so many distractions?",
+    "therapist": "It sounds like the quiet and natural surroundings provided a much-needed break from the noise and distractions in your life. That’s a valuable insight. One way to bring some of that peace into your daily life could be to create small, dedicated moments for yourself, even if it’s just a few minutes. Maybe you could try incorporating a short nature-inspired break, like looking at nature photos or listening to nature sounds, or finding a quiet corner where you can take a few deep breaths and focus on the present. What do you think about trying something like that?",
+    "condition": "emotion_text_only",
+    "val_t": 0.10124468803405762,
+    "aro_t": 0.06207418441772461,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I like the idea of bringing some of that peace into my daily life, but it feels hard to find the time and space for it. I work long hours, and even when I’m home, there’s always something that needs my attention. It’s not that I don’t want to, but it feels like a luxury I can’t afford right now.",
+    "therapist": "I understand that finding the time and space for peace can feel like a luxury when you’re juggling so much. It’s completely normal to feel that way, especially with long hours and constant demands. Even small moments of self-care can make a difference, though. Have you considered setting aside even just a few minutes each day, perhaps right when you wake up or before bed, to focus on something that brings you a sense of calm? What do you think might be the smallest step you could take to start incorporating more peace into your day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.030698537826538086,
+    "aro_t": 0.08592617511749268,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and I know it makes sense in theory. But it's hard for me to carve out even a few minutes when every moment feels like it's already accounted for. I feel like I'd just be adding another thing to the list, and that just adds more pressure. How can I make it feel less like another task and more like a break?",
+    "therapist": "I can really understand how adding another thing to your list, even if it’s meant to be a break, can feel like more pressure. It’s important to find a way to make it feel like a genuine break rather than another task. Maybe you could start by simply noticing the moments when you feel the most stressed during the day and see if you can take a brief pause right then, even if it’s just for a deep breath or a quick stretch. How does that sound? Could you try to find a natural moment in your day where a short break might naturally fit in without feeling like an added task?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07195830345153809,
+    "aro_t": 0.14512550830841064,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It makes sense to try and find natural breaks, but I worry that even a deep breath or a stretch might feel like another thing I have to remember to do. I guess I just feel so overwhelmed that adding anything, no matter how small, seems daunting.",
+    "therapist": "I completely understand how overwhelming it can feel to add even the smallest thing to your already full plate. It’s totally valid to feel that way. Maybe instead of thinking of it as adding something new, we can look at it as finding moments within your existing routine where you can naturally pause and take a breath. For example, when you’re waiting for a file to load at work or when you’re making a cup of tea at home. What do you think about finding these natural pauses and using them as opportunities to take a moment for yourself?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04266166687011719,
+    "aro_t": 0.1959599256515503,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you're trying to find a way to fit self-care into my day without making it feel like another task. It's a good idea in theory, but I often find that even these small moments get filled with other things, like checking emails or worrying about what I need to do next. It's hard to break that habit and actually use those pauses to relax.",
+    "therapist": "I understand how challenging it can be to break the habit of filling those small moments with other tasks or worries. It’s a common struggle, especially when you’re feeling so overwhelmed. One approach could be to gently shift your focus during those pauses by using a simple mindfulness technique, like focusing on your breath or noticing the sensations around you, just for a moment. This can help train your mind to recognize and value those breaks. What do you think about trying to use one of these natural pauses today to practice a brief moment of mindfulness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.015887022018432617,
+    "aro_t": 0.0021011829376220703,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but I'm not sure it will work for me. It's hard because my mind is always racing, and even the thought of trying to focus on my breath feels overwhelming. I worry that I'll just end up feeling more anxious if I can't do it right.",
+    "therapist": "I can really understand how overwhelming it feels when your mind is racing, and the idea of trying to focus on your breath might seem like just another source of anxiety. It’s completely okay to feel that way, and it’s important to approach these things gently. Maybe we can start with something even simpler, like noticing one thing in your environment that you find calming or interesting, just for a few seconds. This can help your mind shift focus without the pressure of mindfulness. What do you think about trying that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25053536891937256,
+    "aro_t": 0.19078874588012695,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you’re trying to make it easier, but I still feel a bit skeptical. I worry that even noticing something in my environment might not be enough to distract me from the anxiety and guilt I’m feeling. It’s hard because my mind tends to spiral, and I’m not sure if such a small step will make a difference.",
+    "therapist": "I completely understand your skepticism and how challenging it can be when your mind tends to spiral. It’s totally valid to feel that way, especially when the anxiety and guilt are so persistent. Let’s try to approach this from a different angle. Instead of aiming for a big change, we can focus on acknowledging and validating how you feel right now. Sometimes, just recognizing and accepting your feelings can provide some relief. How does it feel to hear that it’s okay to feel this way, and that you don’t have to force a change immediately?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21755051612854004,
+    "aro_t": 0.11842846870422363,
+    "text_emotion": "Angry"
+  }
+]

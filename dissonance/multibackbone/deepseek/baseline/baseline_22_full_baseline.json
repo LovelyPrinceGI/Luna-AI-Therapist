@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having trouble sleeping lately because I can't stop thinking about my psychology final. I got a C on my last paper, and now I'm terrified that I'm going to fail the exam and ruin my GPA. Everyone keeps telling me to just study more, but I feel like no matter how much I prepare, it won't be enough.",
+    "therapist": "That sounds really overwhelming—it's understandable to feel anxious when your academic performance feels tied to your self-worth. I notice your mind is jumping to the worst-case scenario—could we explore what evidence you have that you might actually do better than you fear?",
+    "condition": "baseline",
+    "val_t": -0.3640948534011841,
+    "aro_t": 0.26335132122039795,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I get what you're saying, but it feels like my mind is stuck in this loop where I can only see failure. Even when I try to think positively, it feels fake, like I’m just lying to myself. The evidence is shaky because I’ve had moments where I thought I’d do well and still messed up, so it’s hard to trust that things will be different this time.",
+    "therapist": "It makes sense that forcing positivity would feel inauthentic when past experiences make you doubt yourself. Maybe instead of trying to think \"positively,\" we could focus on thinking more realistically—what would a balanced perspective look like in this situation?",
+    "condition": "baseline",
+    "val_t": -0.23296821117401123,
+    "aro_t": 0.10424363613128662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying about balanced thinking, but when I try to be realistic, my mind just jumps to the worst-case scenarios. It's like my brain has this automatic filter that only lets in the negative possibilities. Even when I try to see things more neutrally, I end up feeling like I'm just lying to myself.",
+    "therapist": "That automatic negative filter must feel exhausting—it's like your mind is working against you even when you're trying to help yourself. What if we looked at those worst-case scenarios together to see if they're as certain as they feel right now?",
+    "condition": "baseline",
+    "val_t": -0.19766151905059814,
+    "aro_t": 0.12128841876983643,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I guess it does feel exhausting... but it's hard to imagine those worst-case scenarios not happening. They feel so real and inevitable to me right now. Part of me thinks looking at them will just make me more anxious, like I'm digging into things I'd rather avoid.",
+    "therapist": "It's completely understandable to want to avoid things that feel painful or scary—that's a natural human instinct. But sometimes gently examining our fears can actually make them feel less overwhelming—would you be willing to try looking at one of them together, just for a moment?",
+    "condition": "baseline",
+    "val_t": -0.2702312469482422,
+    "aro_t": 0.23464536666870117,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess I could try, but I'm not sure it'll help. The anxiety just feels so real and overwhelming when it hits. Like last night I couldn't sleep because I kept worrying about failing at work, even though rationally I know I'm doing okay there.",
+    "therapist": "It sounds like these anxious thoughts are really persistent, even when your rational mind knows the facts don't completely support them. I wonder if we could explore what happens physically when that anxiety hits—do you notice any patterns in how your body reacts?",
+    "condition": "baseline",
+    "val_t": -0.17752456665039062,
+    "aro_t": 0.2051377296447754,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Yeah, my body definitely reacts before my brain even catches up. My chest gets tight and my hands start shaking, especially when I'm alone at night. It's frustrating because even though I know logically there's no immediate danger, my body acts like there is. \n\nSometimes I wonder if paying attention to the physical stuff will just make it worse though. Like if I focus on the shaking, won't that just amplify the anxiety?",
+    "therapist": "It's so common for our bodies to react before our minds can catch up—that fight-or-flight response can feel like it's working against you. What if we tried noticing those physical sensations with curiosity rather than fear, like observing waves coming and going?",
+    "condition": "baseline",
+    "val_t": -0.234125018119812,
+    "aro_t": 0.276955246925354,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about observing the physical sensations, but when my heart starts racing and my chest gets tight, it's really hard not to panic. It feels like something terrible is about to happen, not just a wave passing through. \n\nI've tried noticing my breathing before, but my mind just jumps to worst-case scenarios anyway. How am I supposed to stay curious when my body feels like it's in danger?",
+    "therapist": "That sense of impending danger must feel so real and overwhelming in those moments—your body is doing exactly what it's designed to do when it perceives threat. What if we tried pairing the physical awareness with a simple grounding technique, like noticing three things you can see around you when the panic starts?",
+    "condition": "baseline",
+    "val_t": -0.24844717979431152,
+    "aro_t": 0.2865419387817383,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about grounding techniques, but when the panic hits, it feels impossible to even think straight enough to notice my surroundings. My vision gets all tunnel-visiony and I just focus on whatever danger my brain is convinced is coming. Have you had other clients who actually made this work during full-blown panic attacks?",
+    "therapist": "It's completely understandable that these techniques feel impossible during full-blown panic—many clients describe exactly what you're experiencing. Would it help if we practiced a simpler version now, while you're calm, so it might feel more accessible when anxiety strikes?",
+    "condition": "baseline",
+    "val_t": -0.1758037805557251,
+    "aro_t": 0.23824727535247803,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I guess practicing now could help, but I’m not sure it’ll stick when I’m actually panicking. My mind feels so scrambled during those moments—it’s like everything goes out the window. Plus, I’ve tried things like deep breathing before, and it didn’t seem to make much of a difference.",
+    "therapist": "It makes total sense that past attempts haven't felt helpful—panic can make even simple things feel impossible. What if we tried something more concrete together, like keeping a comforting object nearby to focus on when anxiety hits—something that doesn't rely solely on your racing thoughts?",
+    "condition": "baseline",
+    "val_t": -0.08660268783569336,
+    "aro_t": 0.15306413173675537,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but I'm not sure how much a comforting object would actually help. When my anxiety gets bad, I can barely focus on anything physical around me—it's like my brain just takes over completely. Plus, I've tried stress balls and stuff before and they just ended up making me feel silly rather than calm.",
+    "therapist": "That feeling of your brain completely taking over must be so frustrating—it's like you're watching it happen but can't stop it. Maybe we could explore what specifically makes these tools feel silly or ineffective, because sometimes that self-judgment actually feeds the anxiety cycle?",
+    "condition": "baseline",
+    "val_t": -0.1289881467819214,
+    "aro_t": 0.14437556266784668,
+    "text_emotion": "Angry"
+  }
+]

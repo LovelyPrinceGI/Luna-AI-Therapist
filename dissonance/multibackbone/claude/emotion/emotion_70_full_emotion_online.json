@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really stressed out lately about my scholarship. Last semester I got a pretty bad grade on my final project, and now I'm terrified that if I slip up again this term, I'll lose my funding completely. I honestly don't know if talking about it is going to change anything, because the pressure is just... real, and it's not going away.",
+    "therapist": "It makes complete sense that you're feeling this weight on your shoulders — the stakes feel very real, and that kind of pressure can make it hard to even imagine a way through. I'm glad you're here, even if you're not sure it'll help, because sometimes just untangling what's going on in our minds can shift how we relate to the pressure, even when the pressure itself doesn't disappear. Can you tell me a bit more about what that fear looks like day-to-day — like, what kinds of thoughts tend to show up when you're worrying about slipping up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36646056175231934,
+    "aro_t": 0.23275518417358398,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, it's like this constant background noise in my head at work — I'll be in the middle of something normal, like sending an email or sitting in a meeting, and suddenly I get this flash of \"what if I say the wrong thing and everyone realizes I don't actually know what I'm doing.\" It's not just a passing thought either, it kind of sticks and then I start replaying every interaction from that day, looking for evidence that I messed up somehow. By the time I get home I'm exhausted from all of it, but I still can't really switch it off.",
+    "therapist": "That sounds genuinely exhausting — like your mind is running a constant audit on yourself, searching for proof of failure even when nothing has actually gone wrong. What you're describing is a really common cognitive pattern called \"mental filtering,\" where we unconsciously scan for the negative and it crowds out everything else. I'm curious — when you're replaying those interactions at the end of the day, do you ever find any actual evidence that you messed up, or does the search mostly come up empty?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2305811643600464,
+    "aro_t": 0.11513936519622803,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, most of the time the search does come up empty — like, I'll replay a conversation with a coworker and I can't actually point to anything they said that confirmed I messed up. But that almost makes it worse, because then I start thinking maybe I just can't see it, like the evidence is there and I'm too oblivious to notice. So the emptiness doesn't feel like relief, it feels like another reason to keep searching.",
+    "therapist": "What you just described is really insightful — your mind has essentially made the search \"unfalsifiable,\" where even the absence of evidence becomes evidence to keep worrying, so there's no possible outcome that lets you rest. That's a really sneaky thinking trap, because it means the anxiety gets to win no matter what you find. I wonder — if a close friend came to you with this same logic, saying \"I couldn't find proof I messed up, so I must just be too oblivious to see it,\" what would you say to them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2818107604980469,
+    "aro_t": 0.0695488452911377,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I'd probably tell a friend that they're being way too hard on themselves and that not finding proof is actually a good sign. But when it comes to me... it just feels different, like I'm the exception to that rule somehow. I know that probably sounds like exactly the kind of twisted thinking you're pointing out, but the feeling that I genuinely might have hurt someone at work and just not realized it is so strong that it's hard to dismiss it the same way I would for someone else.",
+    "therapist": "You already know, on some level, that you're applying a harsher standard to yourself than you would to anyone else — and that self-awareness is actually really meaningful, even if the feeling doesn't budge just yet. That sense of being \"the exception\" is one of the most common and painful parts of anxiety; it's not a sign that your fear is correct, it's actually a hallmark of how convincingly anxiety can disguise itself as logic. I'm curious — can you think of a time in the past where you had this same strong feeling that you'd hurt someone or messed up, and it turned out not to be true?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3270987272262573,
+    "aro_t": 0.10098814964294434,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I mean... yeah, there was this one time at work where I was convinced I'd completely offended my coworker Sarah by something I said in a meeting, and I spent like three days replaying it over and over. It turned out she hadn't even registered it the way I did, and when I finally worked up the nerve to check in with her, she was totally fine. But I guess part of me still feels like this situation with my friend is different, like the stakes are higher or something, so it doesn't quite feel like the same thing.",
+    "therapist": "That example with Sarah is really important — your mind was completely convinced of something that turned out not to be true, and yet here it is, using the same playbook again and telling you \"this time is different.\" That phrase, \"this time the stakes are higher,\" is worth gently examining, because anxiety has a way of always making the current situation feel like the special exception that justifies the worry. What is it specifically about this situation that feels higher stakes — is it something concrete you can point to, or is it more of a feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.136671781539917,
+    "aro_t": 0.18241631984710693,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I mean... when I really try to pin it down, it's more of a feeling than something concrete, which is honestly kind of frustrating to admit. Like, I know logically that my friend group has pulled away before and things worked out, but this time it feels like there's more distance, like people have moved on and I'm just... not part of the group anymore. I can't point to one specific thing someone did, it's just this heavy sense that I'm being left behind.",
+    "therapist": "That heavy, quiet feeling of being left behind can be one of the loneliest experiences — and it's worth noticing that it's arrived without a clear concrete trigger, much like what happened with Sarah. Your mind seems to be very good at generating a powerful sense of certainty from feelings alone, and you've already caught it doing that more than once today. I'm wondering — if you were to gently reality-test this one, like you did with Sarah, is there one small thing you could do to get some actual information about where things stand with your friends, rather than letting the feeling be the only evidence?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2696908712387085,
+    "aro_t": 0.08937489986419678,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and yeah, I did catch myself doing that with Sarah — jumping to conclusions based on nothing solid. But reaching out to my friends to kind of... check in feels really vulnerable, like I'd be exposing how insecure I've been feeling. What if I reach out and the response is lukewarm, and then I have actual evidence that things really have drifted?",
+    "therapist": "That fear makes a lot of sense — there's something that feels safer about uncertainty than risking a response that confirms your worry, because at least right now the door isn't fully closed. But it's worth noticing that you're already living with a lot of pain from the uncertainty itself, so the \"safe\" option isn't actually painless. And I'm curious — if the response were lukewarm, would that necessarily mean what your anxiety says it means, or could there be other explanations, like friends who are just busy or going through their own things?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1709991693496704,
+    "aro_t": 0.13975775241851807,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and yeah, I know logically that the uncertainty is already hurting me. But there's still this voice in my head that says a lukewarm response would just be proof that I've become irrelevant to them, that I've been forgotten while I've been sitting here worrying about it. I guess I can see that they might just be busy, but it's hard to actually believe that when the silence has gone on this long.",
+    "therapist": "There's something really painful in that word \"irrelevant\" — it's such a harsh verdict to hand yourself, and it's worth asking whether that's really what a lukewarm response would prove, or whether that's your mind jumping straight to the most devastating interpretation. The silence has felt long to you because you've been hyperaware of it, but your friends may not even be tracking time the same way. What do you think it says about you that even in the middle of all this doubt, you still care this much about these friendships?",
+    "condition": "emotion_text_only",
+    "val_t": -0.192482590675354,
+    "aro_t": 0.05368649959564209,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I guess it says I still want connection, even when I'm convinced I don't deserve it or that it's slipping away. But honestly, Luna, sometimes caring this much just feels like a curse, because the more I care, the more it hurts when things feel uncertain. I don't know if that's something to be proud of or just proof that I set myself up for disappointment over and over again.",
+    "therapist": "There's something quietly profound in what you just said — you can see both the beauty and the burden of caring deeply, and that kind of honest self-awareness is actually really meaningful. Caring deeply isn't what sets you up for disappointment; it's the belief underneath that you don't deserve the connection you're reaching for that turns caring into pain. I'm wondering — where do you think that belief, that you don't deserve connection, first came from for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29890263080596924,
+    "aro_t": 0.14729547500610352,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That question kind of stops me in my tracks, honestly. I think it goes back pretty far — maybe to growing up feeling like I was always a bit too much for people, like my needs were an inconvenience. I don't know if I fully buy that that's where my loneliness now comes from, but there's something uncomfortable about how quickly that memory surfaced.",
+    "therapist": "The fact that that memory surfaced so quickly, almost before you'd finished the question, suggests it carries real weight — and it makes a lot of sense that a child who learned their needs were \"too much\" would grow into someone who scans constantly for signs of being too much, or forgotten, or left behind. You don't have to fully buy the connection yet; it's enough that something in you recognized it. I'm curious — when you think about that younger version of you who felt like an inconvenience, what do you wish someone had told them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30652642250061035,
+    "aro_t": 0.08446228504180908,
+    "text_emotion": "Sad"
+  }
+]

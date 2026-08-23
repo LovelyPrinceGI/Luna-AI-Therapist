@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling with my new project manager role lately. After missing that big deadline last week, I can't stop replaying everything that went wrong in my head. I feel like I'm drowning in responsibilities and like I'm failing at this job before I've even really started.",
+    "therapist": "It sounds like this missed deadline has been weighing heavily on you, and I hear how overwhelmed you're feeling stepping into this new role. When you replay what went wrong, what specific thoughts tend to come up for you about your performance?",
+    "condition": "baseline",
+    "val_t": -0.40143144130706787,
+    "aro_t": 0.1635967493057251,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking I should have managed my time better and been more organized. I feel like I let my team down, and now they’ll see me as unreliable or incapable. It’s hard to shake the thought that I’m not cut out for this role, even though I know logically that everyone makes mistakes sometimes.",
+    "therapist": "I can hear how much you care about doing well in this role and supporting your team. It's understandable to feel this way after a setback, but I wonder what evidence you have that your team sees you as unreliable?",
+    "condition": "baseline",
+    "val_t": -0.23827660083770752,
+    "aro_t": 0.09158122539520264,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess my team hasn't actually said anything negative about me...but I can just tell they're disappointed. When I messed up that project last week, I noticed people stopped asking for my input as much. It's like they don't trust me anymore even if they're not saying it outright. \n\nI know you're trying to help me see this differently, but it's hard when I feel like I've let everyone down. The evidence might not be obvious, but the tension in meetings feels real to me.",
+    "therapist": "You're noticing subtle shifts in team dynamics that feel meaningful to you, and that sense of tension is understandably distressing. I wonder if we could explore what other interpretations might exist for why people might be asking for less input right now?",
+    "condition": "baseline",
+    "val_t": -0.3362492322921753,
+    "aro_t": 0.1400665044784546,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know... it's hard to imagine other explanations when it feels so personal. Every time I suggest something in meetings now, there's this awkward silence before someone moves the conversation along. It makes me think they've decided my ideas aren't valuable anymore. \n\nBut I guess I'm open to hearing what other interpretations you think might be possible. It's just that when I'm in those moments, my mind immediately goes to the worst case scenario.",
+    "therapist": "It sounds like those moments of silence feel particularly painful when you're already doubting yourself. Could we consider that the team might be giving space for your ideas to land rather than dismissing them? What might change if you viewed those pauses differently?",
+    "condition": "baseline",
+    "val_t": -0.08178126811981201,
+    "aro_t": 0.03500640392303467,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know... when the room goes quiet after I speak, it just feels like confirmation that my ideas aren't good enough. Even if they're just pausing to think, in that moment all I can focus on is how exposed and stupid I feel. \n\nThe logical part of me knows you might be right, but the anxiety is so loud in those moments that it's hard to consider other interpretations. What if they really are judging me and I'm just fooling myself?",
+    "therapist": "That anxiety in the moment must feel so overwhelming, making it hard to access those more balanced thoughts. What would it be like to notice that pause without immediately attaching meaning to it - just observing it as a neutral moment in the conversation?",
+    "condition": "baseline",
+    "val_t": -0.36267292499542236,
+    "aro_t": 0.2448723316192627,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about observing the pause neutrally, but when I'm in that moment, it's like my brain immediately jumps to \"they think I'm weird\" or \"I messed up.\" It's not just a pause to me - it feels like proof that I'm awkward or saying the wrong thing. \n\nI've tried noticing my thoughts before, but the anxiety just crashes in so fast. It's like trying to stop a speeding train once it's already moving.",
+    "therapist": "I hear how automatic and overwhelming that anxious response feels in the moment - it's like your brain has already decided what the pause means before you can even consider other possibilities. What would happen if you practiced noticing that initial anxious thought without necessarily believing it, just acknowledging it as one possible interpretation among many?",
+    "condition": "baseline",
+    "val_t": -0.18285751342773438,
+    "aro_t": 0.23565804958343506,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about not believing every anxious thought, but in the moment it feels impossible to step back like that. My heart starts racing and it's like my brain just latches onto the worst-case scenario immediately. Even when I try to question it later, the anxious feeling sticks with me. \n\nIt's frustrating because logically I know I'm probably overreacting, but my body reacts like it's a real emergency every time. I've tried taking deep breaths before, but it doesn't really help when the thoughts are already spiraling.",
+    "therapist": "It makes complete sense that these physical reactions make it harder to challenge those anxious thoughts in the moment - your body is responding as if there's real danger. What if we explored some small ways to help your nervous system settle first, before trying to work with the thoughts?",
+    "condition": "baseline",
+    "val_t": -0.21190834045410156,
+    "aro_t": 0.2579694986343384,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about calming my body first, but when the anxiety hits, it feels impossible to do anything except panic. Even taking deep breaths seems too hard when my heart is racing and my hands are shaking. I've tried those techniques before and they never seem to help in the moment.",
+    "therapist": "I hear how overwhelming those physical symptoms feel when they hit, making even simple techniques seem impossible. What if we explored some even smaller, more accessible ways to ground yourself - maybe just noticing your feet on the floor or the chair beneath you when anxiety starts rising?",
+    "condition": "baseline",
+    "val_t": -0.14222300052642822,
+    "aro_t": 0.25282156467437744,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about small grounding techniques, but when my anxiety spikes, even focusing on my feet feels impossible. My mind just races too fast to notice anything physical. And honestly, sometimes trying to ground myself makes me more frustrated when it doesn't work right away.",
+    "therapist": "It sounds like trying to force grounding techniques when you're already overwhelmed sometimes adds to your frustration rather than helping. I wonder if we could explore what happens if you simply acknowledge the anxiety is there without trying to change it immediately?",
+    "condition": "baseline",
+    "val_t": -0.2671394348144531,
+    "aro_t": 0.28151607513427734,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I feel a mix of relief and hesitation—like maybe the therapist gets it, but I'm not sure I can handle sitting with the discomfort. If they suggest just noticing the anxiety without trying to change it, I might question whether that's even possible for me right now.  \n\n*(If the therapist offers a specific exercise, I can express doubts like, \"That sounds really hard—what if it makes things worse before it gets better?\")*  \n\n*(If they push too hard, I might shut down and say, \"I don't think I can do this right now.\")*  \n\nImportant:  \n- Keep this within the same assigned life problem scenario.  \n- Don't switch to a new major issue.",
+    "therapist": "I hear that uncertainty about whether you can tolerate sitting with the discomfort - that hesitation makes complete sense when anxiety feels so overwhelming. What if we started by simply naming what you're feeling in those moments, without any pressure to change it? Like quietly saying to yourself \"this is anxiety\" when you notice it rising?",
+    "condition": "baseline",
+    "val_t": -0.15301048755645752,
+    "aro_t": 0.11902284622192383,
+    "text_emotion": "Angry"
+  }
+]

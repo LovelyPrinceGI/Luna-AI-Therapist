@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really stressed out lately. After getting a bad grade on my final project last semester, I’m feeling a lot of pressure to keep my scholarship this term. I just can’t shake off this worry that I won’t be able to meet the standards. I know I should be more positive, but it’s hard to see a way out sometimes.",
+    "therapist": "It sounds like you’re carrying a heavy burden of stress and worry, and that’s completely understandable given what you’ve been through. It’s okay to feel this way, and acknowledging your feelings is a big step. What do you think might be the first small step you could take to start easing some of this pressure?",
+    "condition": "baseline",
+    "val_t": -0.2576024532318115,
+    "aro_t": 0.13967108726501465,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that, Luna. It’s just hard to pinpoint where to start. I feel like every small step I take just leads to more anxiety and worry. How do I break that cycle?",
+    "therapist": "I can see how overwhelming that must feel. It’s common to feel stuck in a cycle of anxiety when every step seems to lead to more worry. One approach could be to identify a very small, manageable action that feels less daunting. What’s one tiny thing you feel you could do today that might make you feel a bit more in control, even if it’s just for a moment?",
+    "condition": "baseline",
+    "val_t": -0.10518717765808105,
+    "aro_t": 0.22086882591247559,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate the suggestion, but it feels like even the smallest things can spiral into bigger worries for me. I worry that if I try to do something small, I'll just end up overthinking it and feeling even more anxious. It's hard to find that balance.",
+    "therapist": "I understand how challenging it can be to find that balance, especially when anxiety can make even small tasks feel overwhelming. It’s completely valid to feel this way. One strategy that might help is to focus on mindfulness or grounding techniques, which can help you stay present and reduce the spiral of overthinking. What do you think about trying a short mindfulness exercise, like focusing on your breath or noticing your surroundings, to see if it helps bring some calm?",
+    "condition": "baseline",
+    "val_t": -0.2249431610107422,
+    "aro_t": 0.11153852939605713,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate the suggestion, but I'm not sure if mindfulness will really make a difference for me. It's hard because my mind tends to wander a lot, and I end up feeling even more anxious when I can't focus. I guess I'm just skeptical about whether it will actually help in the moment.",
+    "therapist": "I completely understand your skepticism; it’s natural to feel that way when you’ve had experiences where things haven’t worked as expected. Mindfulness can be challenging, especially when you’re feeling anxious, but it’s just one of many tools we can explore. What if we tried a different approach, like breaking down a task into even smaller steps or setting very specific, achievable goals? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.09858715534210205,
+    "aro_t": 0.07201027870178223,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you're trying to find something that works for me. Breaking tasks down into smaller steps sounds okay, but I'm worried it might still feel overwhelming. It's hard to stay motivated when I feel so anxious and unsure all the time.",
+    "therapist": "I understand that even breaking tasks down can feel overwhelming, and it’s completely valid to feel that way. It’s important to find a pace that feels manageable for you. What if we focus on just one very small, specific task today—something that feels almost too small to be intimidating? How does that feel, and what might that task be?",
+    "condition": "baseline",
+    "val_t": -0.110587477684021,
+    "aro_t": 0.23616302013397217,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I can see the point of starting with something really small, but I still feel a bit anxious about it. I mean, even the smallest things can spiral into bigger worries for me. I'll think about it, but I'm not sure what that task would be. Maybe something like making my bed?",
+    "therapist": "That’s a great start, and I’m glad you’re considering it. Making your bed is a perfect example of a small, manageable task that can give you a sense of accomplishment and control. Even if it feels minor, it’s a step in the right direction. How do you think you might feel after completing that task, and is there anything you can do to make it a bit more rewarding or enjoyable?",
+    "condition": "baseline",
+    "val_t": -0.1162879467010498,
+    "aro_t": 0.10032129287719727,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I understand what you're saying, and I can see how making the bed could be a small win. But honestly, I often feel so overwhelmed by the day ahead that even a small task like that feels like a big hurdle. I worry that I won’t find it rewarding or that it will just remind me of how much I have left to do. How can I make it feel more manageable and less stressful?",
+    "therapist": "I hear you, and it’s completely understandable to feel that way when you’re already overwhelmed. It’s important to acknowledge that even small tasks can feel like big hurdles. One way to make it more manageable might be to focus on the process rather than the outcome. For example, you could try to approach making your bed with a sense of curiosity or even a bit of playfulness. How do you think you could shift your mindset to make this task feel a bit lighter or more engaging?",
+    "condition": "baseline",
+    "val_t": -0.07277047634124756,
+    "aro_t": 0.14850211143493652,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but it feels like a stretch to find curiosity or playfulness when I'm already so anxious and overwhelmed. It's hard to shift my mindset when even the simplest tasks feel like they're piling up and suffocating me. I don't think I can just switch to a more positive feeling that easily.",
+    "therapist": "I completely understand how difficult it can be to shift your mindset when you’re feeling so overwhelmed. It’s okay to acknowledge that it’s a challenge, and it’s important to be gentle with yourself. Instead of trying to force a positive feeling, maybe we can focus on just noticing one small thing that you can control in the moment, like taking a deep breath or pausing for a moment to stretch. How does that feel to you, and is there anything you can do right now that might help you feel a bit more grounded?",
+    "condition": "baseline",
+    "val_t": 0.02775096893310547,
+    "aro_t": 0.15878283977508545,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It does feel like a lot to try and shift everything at once. Taking a deep breath or stretching does sound manageable, but I worry that it won’t really make a difference in the bigger picture. It’s hard to see how those small actions can help when I feel so overwhelmed and stuck.",
+    "therapist": "I understand that it can feel like those small actions won’t make a significant difference when you’re feeling so overwhelmed. It’s important to recognize that these small steps are more about creating a sense of control and reducing immediate stress, rather than solving everything at once. How do you think you might feel if you gave yourself permission to just focus on the present moment and take one small, manageable action, like a deep breath or a stretch, without expecting it to fix everything?",
+    "condition": "baseline",
+    "val_t": -0.049701809883117676,
+    "aro_t": 0.10846960544586182,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it just feels like even those small things are a lot to handle sometimes. It's hard to convince myself that a deep breath or a stretch will actually make a difference when I feel so overwhelmed and out of control. I worry that it won't be enough, and then I'll end up feeling even more frustrated.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. It’s tough to believe that small actions can make a difference when you’re feeling so overwhelmed. It’s okay to acknowledge that these small steps might not solve everything, but they can help you regain a tiny bit of control and calm in the moment. What if we tried just one deep breath or a short stretch, and then we can reassess how you’re feeling? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.35481786727905273,
+    "aro_t": 0.30092525482177734,
+    "text_emotion": "Angry"
+  }
+]

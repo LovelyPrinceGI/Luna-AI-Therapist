@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just feel like I'm drowning lately. Between the 12-hour shifts at the hospital and coming home to two toddlers who need everything from me, I don't even know who I am anymore. My husband's deployment was supposed to be temporary, but now it's been extended and I don't know how much longer I can keep pretending I've got it all together.",
+    "therapist": "That sounds incredibly overwhelming - you're carrying so much responsibility between work, parenting alone, and the uncertainty about your husband's return. I hear how exhausting it must feel to keep up this appearance of having everything under control. What would it feel like to let go of that \"having it all together\" expectation, even just a little?",
+    "condition": "baseline",
+    "val_t": -0.25614774227142334,
+    "aro_t": 0.1929875612258911,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Letting go of that expectation feels impossible to me. If I stop keeping everything together, who will take care of my kids and handle all the responsibilities? I feel like everything would just fall apart completely. It's not that I want to keep up appearances, but I don't see any other option right now.",
+    "therapist": "It sounds like you're carrying this enormous weight because you truly believe no one else can step in, which must feel so isolating and heavy. While it's understandable to feel this way, I wonder if there might be small ways to share some of this load, even temporarily? What would happen if you allowed yourself to reach out for help, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.1647965908050537,
+    "aro_t": 0.15796411037445068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but it's not that simple. Every time I've tried reaching out before, people either don't understand or end up making me feel worse. It's like I'm just burdening them with my problems, and then I feel guilty on top of everything else.",
+    "therapist": "I hear how painful those past experiences have been when you've tried to open up, and how that's made you hesitant to try again. That guilt you're describing sounds like it's adding another layer of difficulty to an already overwhelming situation. What do you think might be different this time if you were to try reaching out in a very small, specific way?",
+    "condition": "baseline",
+    "val_t": -0.39017021656036377,
+    "aro_t": 0.06979000568389893,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know if anything would be different this time. Every time I've tried to reach out before, people either don't understand or they just give me cliché advice that doesn't help. The thought of trying again just makes me feel more anxious because I expect to be disappointed. \n\nEven small steps feel risky when you're used to being let down. What if I try reaching out and it just confirms that nobody really gets what I'm going through? That would make the loneliness even worse.",
+    "therapist": "It sounds like you've built up this protective wall because past disappointments have taught you to expect more hurt, and that makes complete sense. The fear of that loneliness deepening is very real when you've experienced how painful it can be to feel misunderstood. What would need to be different in someone's response for it to actually feel helpful to you?",
+    "condition": "baseline",
+    "val_t": -0.3523111343383789,
+    "aro_t": 0.10031044483184814,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know if I can even answer that question honestly. Part of me wants to say that if someone just listened without trying to fix me, that would help. But another part thinks even that wouldn't be enough because I'd still assume they're just pretending to care. It's like my brain finds ways to dismiss any kindness before it can reach me.",
+    "therapist": "You're describing such an important insight - how your mind has learned to protect you by anticipating disappointment before it can happen. That inner conflict between wanting connection and fearing it won't be genuine must feel exhausting to navigate. I wonder if we could sit with that vulnerable part of you that does still want to be heard, even just for a moment?",
+    "condition": "baseline",
+    "val_t": -0.10204935073852539,
+    "aro_t": 0.10976505279541016,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "It does feel exhausting, like I’m constantly bracing myself for things to go wrong. I want to believe that connection is possible, but it’s hard to trust it when I’ve been let down so many times before. Sitting with that vulnerable part sounds scary—what if it just makes me feel more exposed and hurt?",
+    "therapist": "It's completely understandable to feel scared about opening up that vulnerable part of yourself - it's been through so much disappointment already. That fear of being hurt again is trying to protect you, even as it keeps you isolated. What would it feel like to imagine, just for a moment, that someone could hold space for you without judgment or fixing?",
+    "condition": "baseline",
+    "val_t": -0.3501129150390625,
+    "aro_t": 0.23044466972351074,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I want to believe that's possible, but every time I've tried to open up before, people either didn't get it or made me feel worse. Even imagining someone accepting me like that makes my chest feel tight - like I'm setting myself up for another letdown. It's safer to just keep things surface level, even if that means feeling lonely.",
+    "therapist": "That tightness in your chest shows how deeply this fear of disappointment lives in your body, and how protective that surface-level approach has had to be for survival. You're describing such a painful dilemma - the loneliness of staying guarded versus the risk of reaching out. I wonder if we could explore what \"safer\" feels like in your body when you keep things surface level?",
+    "condition": "baseline",
+    "val_t": -0.1623917818069458,
+    "aro_t": 0.056017398834228516,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I do feel that tightness a lot, especially when I think about opening up to people. It's like my body is warning me not to get hurt again. But at the same time, keeping everything surface level makes me feel so empty and disconnected. \n\nI'm not sure what \"safer\" would feel like physically - honestly when I try to imagine it, I just get more tense because it feels unfamiliar and risky.",
+    "therapist": "It sounds like your body is caught between two painful experiences - the tension of potential hurt and the emptiness of staying guarded. That unfamiliarity with true safety shows just how long you've had to operate in survival mode. What might your body need to begin trusting that safety could exist, even in small doses?",
+    "condition": "baseline",
+    "val_t": -0.17934799194335938,
+    "aro_t": 0.16033315658569336,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I feel like my body doesn’t even know what safety feels like anymore. It’s hard to imagine trusting it because every time I’ve tried to let my guard down, something goes wrong. I guess I’m skeptical that I can even learn to feel safe—it feels like I’m wired to expect the worst.",
+    "therapist": "That skepticism makes so much sense when your nervous system has been trained by repeated disappointments to expect hurt. You're describing how deeply these protective patterns are wired into your body's responses. What would it feel like to approach this idea of safety very slowly, like dipping a toe in water to test the temperature?",
+    "condition": "baseline",
+    "val_t": -0.326802134513855,
+    "aro_t": 0.16434991359710693,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I guess testing the waters sounds okay in theory, but I don't even know where to start. Every time I try to trust someone or feel safe, my brain just screams at me that I'm being naive. It's exhausting to always be on guard, but letting my guard down feels dangerous too.",
+    "therapist": "It sounds like you're caught in this exhausting tug-of-war between the exhaustion of being constantly vigilant and the fear of what might happen if you let that guard down even a little. That internal conflict must feel so draining to carry every day. I wonder if we could explore what a very small, manageable first step toward testing the waters might look like for you?",
+    "condition": "baseline",
+    "val_t": -0.35467982292175293,
+    "aro_t": 0.2650970220565796,
+    "text_emotion": "Angry"
+  }
+]

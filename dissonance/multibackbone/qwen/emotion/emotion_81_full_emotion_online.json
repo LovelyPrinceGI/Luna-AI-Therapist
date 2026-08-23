@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really down lately. It's been six months since Mom passed away, and I find it really hard to connect with my friends. They seem to have moved on, and I feel like I'm the only one still stuck in this grief. I don't know if therapy can really help me with this, but I'm trying.",
+    "therapist": "Hello, I'm so glad you reached out today. It sounds like you're going through a really tough time, and it's completely understandable to feel stuck in your grief, especially when those around you seem to have moved on. How have you been coping with these feelings, and is there anything that brings you a sense of comfort or distraction?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19532012939453125,
+    "aro_t": 0.14707112312316895,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for being here. It's just been really tough lately. I feel so alone in my grief, like everyone else has moved on, and I'm the only one still stuck in it. I try to distract myself with work or TV, but it never really helps for long. I just can't shake this feeling of being left behind.",
+    "therapist": "Hi there, I can really hear how heavy this has been for you. It's completely natural to feel alone in your grief, and it's okay to need more time to process everything. Have you tried reaching out to any friends or family members to share how you're feeling, or is there someone in your life who might understand what you're going through?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1740201711654663,
+    "aro_t": 0.16147303581237793,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Hi Luna, thanks for understanding. It's been really tough, and I feel like nobody really gets it. I've thought about reaching out, but it's hard because I don't want to burden anyone with my problems. Plus, I feel like they might not understand or just tell me to move on, which is the last thing I need right now.",
+    "therapist": "I completely understand how isolating and challenging this can feel. It's natural to worry about burdening others or not being understood, especially when you're already carrying so much. Have you considered joining a support group or speaking with someone who has experienced similar loss? Sometimes, connecting with others who truly understand can provide a sense of relief and validation.",
+    "condition": "emotion_text_only",
+    "val_t": -0.018924236297607422,
+    "aro_t": 0.12753605842590332,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your suggestion, Luna, but I find it hard to imagine opening up to strangers about my feelings. It feels like a risk, and I worry about not being understood or judged. I know it could help, but it's just so daunting.",
+    "therapist": "I can totally understand how daunting it feels to open up to strangers, especially when you're already feeling vulnerable. It's a big step, and it's okay to take your time. Have you tried writing down your thoughts and feelings as a way to process them? Sometimes, putting things on paper can help clarify your emotions and make it easier to share them when you're ready.",
+    "condition": "emotion_text_only",
+    "val_t": -0.08844351768493652,
+    "aro_t": 0.11994481086730957,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. Writing things down does sound like it could help, but I often find myself getting stuck and not knowing where to start. It feels like there's so much going on in my head that it's hard to put it all into words.",
+    "therapist": "I understand how overwhelming it can feel to try to put everything into words, especially when there's so much going on in your head. It's okay to start small—maybe just a few sentences about what you're feeling in the moment or something that triggered your emotions today. Over time, it can become a helpful tool for processing your thoughts. What do you think might be a manageable first step for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03209853172302246,
+    "aro_t": 0.06411349773406982,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just hard to know where to start. I feel like my thoughts are so jumbled, and I worry that writing them down will just make me feel more overwhelmed. Maybe I can try to write down just one thing that stood out today, but it feels daunting.",
+    "therapist": "I can really understand how daunting it feels to start, and it's okay to take it one small step at a time. Writing down just one thing that stood out today is a great place to begin. It doesn't have to be perfect or even make sense right away. What's one thing that stood out for you today, even if it's just a small moment or feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03855562210083008,
+    "aro_t": 0.20318353176116943,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard to find something that stood out today. I felt so anxious all day, and it's like everything just blurred together. I don't know if I can pinpoint one thing.",
+    "therapist": "I can hear how challenging it has been for you today, with everything feeling so blurred and anxious. It's completely understandable to struggle to pinpoint one specific thing when your emotions are so intense. Maybe we can try a different approach—how about describing a moment, no matter how small, where you felt a bit of relief or a different emotion? Even the slightest shift can be helpful to reflect on.",
+    "condition": "emotion_text_only",
+    "val_t": -0.09274005889892578,
+    "aro_t": 0.22260594367980957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you suggesting that, Luna. It's hard to think of a moment of relief when everything feels so overwhelming right now, but I'll try. I guess there was a moment this morning when I was walking the dog, and the sun was just starting to come up. It was peaceful, and for a brief moment, I didn't feel so alone. But it didn't last long, and the anxiety came rushing back.",
+    "therapist": "Thank you for sharing that moment with me, even if it was brief. It's important to recognize those small moments of peace, as they can be a source of strength and comfort. How did that moment make you feel, and do you think there are any other times when you might be able to find a bit of that peace, even if it's fleeting?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07080185413360596,
+    "aro_t": 0.15757298469543457,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "It felt really good to just sit there and not worry for a bit. I guess I can try to find those moments more often, but it's hard because my mind tends to race back to all the things I'm anxious about. It's like I can't help but spiral, even when I try to stay in the moment.",
+    "therapist": "It sounds like those moments of peace, even if they are brief, can bring a lot of relief. It's completely understandable that your mind tends to race back to your anxieties—it's a common struggle. One technique that might help is mindfulness, where you focus on your senses and the present moment. When you notice your mind starting to spiral, you can gently bring it back to what you can see, hear, or feel right now. What do you think about trying that the next time you find yourself in a peaceful moment?",
+    "condition": "emotion_text_only",
+    "val_t": 0.05119621753692627,
+    "aro_t": 0.11527061462402344,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I do think mindfulness could be helpful, but it's hard for me to stay focused when my mind is racing. I often feel like I'm just not good at it, and that makes me give up quickly. Maybe I could try it again, but I worry it won't make much of a difference.",
+    "therapist": "I can totally understand how challenging it can be to stay focused on mindfulness when your mind is racing, and it's natural to feel discouraged when it doesn't seem to make an immediate difference. It's important to remember that mindfulness is a skill that takes practice, and even small steps can be beneficial. What if we start with a very short mindfulness exercise, just a minute or two, and gradually build up from there? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1498703956604004,
+    "aro_t": 0.03445303440093994,
+    "text_emotion": "Sad"
+  }
+]

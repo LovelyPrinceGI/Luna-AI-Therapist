@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Luna, I've been really struggling since my grandmother passed away last month. Family gatherings used to be a time of joy for me, but now they feel so heavy and empty without her. It’s like every moment is a reminder that she’s not there, and I can't shake this feeling of sadness and loss.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it's completely understandable to feel such a heavy sadness during family gatherings without her presence. It sounds like those moments are filled with a mix of cherished memories and deep loss. How do you think it might feel to honor her memory during these gatherings, perhaps by sharing a favorite story or tradition?",
+    "condition": "baseline",
+    "val_t": -0.3328211307525635,
+    "aro_t": 0.1833643913269043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your kind words about my grandmother. It’s just really hard to think about sharing stories because I feel like I might just end up crying or making everyone else uncomfortable. I don't know if I have the strength to do that in front of family right now; it feels like too much pressure.",
+    "therapist": "It's completely natural to feel overwhelmed at the thought of sharing your emotions in front of family, especially during such a sensitive time. Your feelings of wanting to protect both yourself and others are valid, and it's okay to take things at your own pace. What would it look like for you to create a space for your emotions while still feeling comfortable at these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.07608342170715332,
+    "aro_t": 0.1722172498703003,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that it’s natural to feel overwhelmed. I tend to hold everything in, especially around family, because I worry about what they'll think or how they'll react. Creating a space for my emotions sounds nice in theory, but I just don’t know how to even start that without feeling exposed or judged.",
+    "therapist": "It makes sense that you'd feel hesitant about expressing your emotions, especially when you're concerned about how others might react. It can feel vulnerable to open up, but creating a small, safe space for yourself might start with simple steps, like finding a quiet moment to reflect or journaling your thoughts before the gathering. What do you think might help you feel a little more secure in sharing your feelings, even if it's just with one trusted person?",
+    "condition": "baseline",
+    "val_t": -0.08835387229919434,
+    "aro_t": 0.22291910648345947,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying about feeling vulnerable, and I do want to open up more, but it’s really hard for me to even think about sharing my feelings, even with one person. I worry that they'll judge me or think I'm being overly dramatic. Journaling seems like a good idea in theory, but I often just end up staring at the page, unsure of what to write or feeling like my thoughts are too messy to express.",
+    "therapist": "It's completely understandable to feel hesitant about sharing your feelings, especially when you're concerned about judgment. It sounds like there's a lot of pressure to find the \"right\" words, which can be really frustrating. What if you approached journaling with no expectations—just writing down whatever comes to mind, even if it feels messy? How do you think that might help you process your emotions?",
+    "condition": "baseline",
+    "val_t": -0.2231895923614502,
+    "aro_t": 0.11144542694091797,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about journaling without expectations, but it feels a bit daunting for me. I’m really concerned that my thoughts won’t make sense or that I’ll just end up feeling more overwhelmed. Plus, I often find it hard to sit down and actually write when my mind is racing with anxiety.",
+    "therapist": "It’s completely normal to feel daunted by the idea of journaling, especially when anxiety makes your thoughts feel jumbled. Remember, it doesn’t have to be perfect or make sense; even a few words or phrases can be a starting point. What if you tried just writing for a set time, like five minutes, without worrying about coherence? How does that sound as a way to ease into it?",
+    "condition": "baseline",
+    "val_t": -0.19609332084655762,
+    "aro_t": 0.26231539249420166,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that suggestion, but I still feel a bit overwhelmed by the idea. Five minutes might not sound like a lot, but when I sit down to write, my mind goes blank or spirals into anxiety about what I'm supposed to say. I worry that whatever I write won’t capture what I’m feeling accurately, and that makes me hesitant to even start.",
+    "therapist": "It's completely understandable to feel overwhelmed when faced with the pressure to express your feelings accurately, especially when anxiety is in the mix. It sounds like the fear of not capturing your emotions perfectly is making it hard to even begin. What if you tried focusing on just one word or a short phrase that represents how you're feeling in the moment, rather than trying to capture everything? How might that feel as a first step?",
+    "condition": "baseline",
+    "val_t": -0.17955851554870605,
+    "aro_t": 0.17400860786437988,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying, but I’m not sure just one word or phrase would really capture what I’m feeling. It feels like my emotions are tangled up and too complex to simplify like that. Plus, what if I pick the wrong word and it doesn’t really reflect how I feel? That just makes me anxious about trying even more.",
+    "therapist": "It's completely valid to feel that your emotions are complex and can't be easily summed up in a single word or phrase. The fear of not capturing the depth of your feelings can indeed add to your anxiety. What if you allowed yourself to write freely about those tangled emotions without worrying about finding the \"right\" words, even if it's just a few sentences about how you're feeling right now? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.13032066822052002,
+    "aro_t": 0.2242671251296997,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but I’m not sure writing will help me. I often find myself overthinking even when I try to jot down my feelings, and it just makes the anxiety worse. I feel like I might end up just getting more tangled in my thoughts instead of finding any clarity.",
+    "therapist": "It's completely understandable to feel that writing might lead to more overthinking, especially when you're already feeling tangled in your thoughts. It's important to find a method that feels supportive rather than overwhelming. Have you considered talking about your feelings out loud, perhaps with a close friend or even just to yourself in a quiet space? Sometimes verbalizing emotions can provide a different kind of clarity. What do you think about that approach?",
+    "condition": "baseline",
+    "val_t": -0.18513941764831543,
+    "aro_t": 0.13950765132904053,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about talking things out, but it feels really daunting to open up to someone else. I often worry that they won't understand or that I'll just end up feeling more vulnerable. Plus, I don't really have anyone close I feel comfortable doing that with, so I'm not sure how effective that would be for me.",
+    "therapist": "It's completely valid to feel daunted by the idea of opening up, especially when trust and understanding are concerns. Feeling vulnerable can be challenging, particularly when you don't have a close person to share with. What if you explored other ways to express your feelings, like through art, music, or even movement, which might allow you to process without the pressure of speaking about it? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.09381711483001709,
+    "aro_t": 0.10117900371551514,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you suggesting alternatives like art or music, but I feel a bit skeptical about it. It’s hard for me to express myself even in those forms, and I worry that whatever I create won’t capture what I’m really feeling. Plus, I just don’t see how it would help me connect with someone or understand my emotions better.",
+    "therapist": "It's completely understandable to feel skeptical about using art or music as a way to express yourself, especially if you're concerned about capturing your emotions accurately. It sounds like there's a lot of pressure to create something meaningful, which can be overwhelming. What if you approached these activities simply as a way to explore your feelings without any expectations of connecting with others or creating something perfect? How might that shift in perspective feel for you?",
+    "condition": "baseline",
+    "val_t": -0.07903444766998291,
+    "aro_t": 0.06366503238677979,
+    "text_emotion": "Neutral"
+  }
+]

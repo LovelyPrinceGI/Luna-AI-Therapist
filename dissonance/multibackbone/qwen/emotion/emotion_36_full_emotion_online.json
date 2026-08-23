@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really stressed out lately. My new business is already costing more than I anticipated, and I just got hit with some unexpected tax bills last week. It feels like everything is piling up, and I’m not sure how to manage it all.",
+    "therapist": "It sounds like you’re under a lot of pressure right now, and it’s completely understandable to feel overwhelmed with everything piling up. Let’s break it down a bit—what’s one small step you could take today to start managing the stress?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25174546241760254,
+    "aro_t": 0.23094916343688965,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that, Luna. It’s just hard to know where to start, you know? Everything feels so overwhelming, and I’m not sure a small step will make much of a difference. It’s hard because I feel like I’m already trying my best, but it’s not enough.",
+    "therapist": "I can really hear how challenging this feels for you, and it’s completely normal to feel stuck when everything seems so overwhelming. It sounds like you’re already putting in a lot of effort, and that’s something to acknowledge. Sometimes, even a small step can help shift the momentum. What’s one thing that’s been a small win for you recently, even if it feels minor?",
+    "condition": "emotion_text_only",
+    "val_t": 0.02269768714904785,
+    "aro_t": 0.2306993007659912,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's hard to see any wins sometimes, but I guess I did manage to make my bed every day this week. It feels like a tiny victory, but it's something, I suppose. It's just hard to feel like it makes a difference when everything else feels so heavy.",
+    "therapist": "It’s really great that you’re recognizing those small victories, like making your bed every day. Those little actions can actually make a bigger impact than you might think, especially in moments when everything else feels heavy. How do you think acknowledging these small wins might help you in managing the larger challenges you’re facing?",
+    "condition": "emotion_text_only",
+    "val_t": 0.11573076248168945,
+    "aro_t": 0.15354537963867188,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 4,
+    "client": "I guess I see what you mean about the small wins, but it still feels like they're just drops in a bucket compared to everything else. It's hard to feel like those little things are enough when the bigger stuff still looms over me. I worry that focusing on them might just be a distraction from the real issues.",
+    "therapist": "I totally understand how you feel. It’s natural to worry that small wins might seem insignificant when there are bigger issues at stake. However, those small steps can actually build your resilience and give you a sense of control, even if they don’t solve everything right away. What do you think might be a small, manageable step you could take to address one of the bigger issues, even if it’s just a tiny bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07132148742675781,
+    "aro_t": 0.08863818645477295,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying, but it feels like those small steps won't make a dent in the bigger problems I'm facing. It's hard to see how something small could really help when I feel so overwhelmed by everything else. I guess I could try something, but I’m not sure what would even make a difference.",
+    "therapist": "I understand that it feels like those small steps might not make much of a difference when you’re facing such big challenges. It’s completely valid to feel that way. Sometimes, though, even a small step can start to shift your perspective and give you a bit more energy to tackle the bigger issues. What’s one small action you could take today that feels doable, even if it seems minor?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0987846851348877,
+    "aro_t": 0.11949634552001953,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, but it's hard to see how a small action can really make a difference when I feel so overwhelmed. I guess I could try to do something like take a short walk or call a friend, but it feels like those things won't really change the big picture. It's just hard to see the point sometimes.",
+    "therapist": "I can really understand how difficult it is to see the point of small actions when you’re feeling so overwhelmed. It’s important to acknowledge that these feelings are valid. At the same time, small actions can sometimes provide a bit of relief and help you feel more in control, even if they don’t solve everything. How about we focus on one of the bigger issues for a moment—what’s one small step you could take today that might feel more directly related to one of those larger challenges?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16412889957427979,
+    "aro_t": 0.10651898384094238,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it's hard to see how a small step can make a difference when the problems feel so big and overwhelming. I guess I could try to reach out to a friend or family member for support, but I often feel like I’m just a burden to them. It’s hard to know how to start without feeling guilty or like I’m overstepping.",
+    "therapist": "I can really understand how you feel like reaching out for support might seem difficult when you’re already carrying so much. It’s completely normal to worry about being a burden, but remember that friends and family often want to be there for you, even if it’s just to listen. What do you think might be a gentle way to reach out and let them know you’re struggling, without putting too much pressure on yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2978757619857788,
+    "aro_t": 0.08946943283081055,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but it's still really hard for me to imagine reaching out. I feel like I'm already such a burden, and I don't want to make things worse by bringing my problems into their lives. I guess I could try sending a text or something, but what if they don’t know how to respond? That could make me feel even more alone.",
+    "therapist": "I can really understand how tough it is to reach out when you feel like you might be a burden. It’s a very common concern, and it’s okay to feel that way. Sending a text is a gentle way to start, and you can keep it light and open-ended. For example, you could say something like, \"Hey, just wanted to check in. How are you doing?\" This way, you’re not overwhelming them, and it opens the door for a conversation. What do you think about trying that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3562617301940918,
+    "aro_t": 0.0828392505645752,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean, but I still worry that even a simple text might come off as needy. It's hard because I feel like I’m constantly thinking about how I might be perceived, and that makes it really tough to reach out. I don’t want to push anyone away.",
+    "therapist": "I can really understand how worrying about being perceived as needy can make it even harder to reach out. It’s natural to be sensitive to how others might perceive you, especially when you’re already feeling vulnerable. How about starting with a simple, casual message that doesn’t feel too heavy? Something like, \"Hey, just wanted to check in. How’s your week going?\" This way, you’re connecting without putting too much pressure on yourself or the other person. What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2686440944671631,
+    "aro_t": 0.16853797435760498,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I see what you mean, and I appreciate the suggestion. It does feel less heavy, but I still worry that they might think I’m trying too hard or that I’m just being needy. It’s hard because I don’t want to come off as clingy or desperate, you know?",
+    "therapist": "I completely understand your concerns, and it’s natural to worry about how others might perceive you, especially when you’re feeling vulnerable. It’s important to find a balance that feels right for you. Maybe you could start with a very light and casual message, just to touch base and see how they’re doing. How about something like, \"Hey, just wanted to say hi. How’s everything going?\" This way, you’re reaching out without it feeling too heavy. What do you think about that approach?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1111903190612793,
+    "aro_t": 0.11226391792297363,
+    "text_emotion": "Angry"
+  }
+]

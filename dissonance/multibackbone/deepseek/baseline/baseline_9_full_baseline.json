@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandma passed away last month. I keep zoning out at work and then feel guilty for not being productive, but the sadness just hits me out of nowhere. I'm not sure talking about it will help - it's not like it'll bring her back.",
+    "therapist": "Losing someone so important can feel overwhelming, and it’s natural for grief to show up in unexpected ways. I’m curious—when those moments of sadness arise, what thoughts tend to come to mind?",
+    "condition": "baseline",
+    "val_t": -0.42723238468170166,
+    "aro_t": 0.1387714147567749,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I keep thinking about all the things I should have said to them before they were gone. It's like my brain won't stop replaying our last conversation, picking apart every word I said or didn't say. The guilt just eats at me, especially late at night when I'm alone with my thoughts. \n\nSometimes I even get angry at myself - why didn't I call more often? Why didn't I visit when I had the chance? It's like this endless loop of \"what ifs\" that I can't escape from.",
+    "therapist": "It sounds like your mind is holding onto these moments with such intensity, almost as if trying to rewrite the past—what do you think your guilt is trying to tell you about how much your grandma meant to you?  \n\nThe \"what ifs\" can feel like a way to stay connected to her, even though they bring so much pain—what would it feel like to gently acknowledge that love, without the weight of regret?",
+    "condition": "baseline",
+    "val_t": -0.39403724670410156,
+    "aro_t": 0.10959112644195557,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess my guilt is trying to tell me how much I loved her and how much she meant to me. But it’s hard to separate that love from the regret—it feels like they’re tangled together. I don’t know if I can acknowledge that love without also feeling the weight of everything I wish I’d done differently. It just feels like I failed her in some way.",
+    "therapist": "It makes so much sense that love and regret feel intertwined right now—grief often carries both, like two sides of the same coin. What would it feel like to imagine your grandma’s voice responding to that feeling of failure—what might she say to you?",
+    "condition": "baseline",
+    "val_t": -0.3021339178085327,
+    "aro_t": 0.1510094404220581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know... I can barely remember what her voice sounded like anymore. That's what makes me feel even worse - like I'm losing her all over again. When I try to imagine her responding, I just hear my own critical voice telling me I should have visited more often.",
+    "therapist": "It sounds like the pain of missing her is getting tangled with self-criticism, making it harder to hold onto the warmth of your connection. What small, gentle way might you honor her memory today—even if it’s just pausing to look at a photo or recall a happy moment you shared?",
+    "condition": "baseline",
+    "val_t": -0.29528701305389404,
+    "aro_t": 0.08020973205566406,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know... looking at photos just makes me feel worse sometimes. It's like I'm reminded of how much I've lost, and then I start beating myself up about all the things I should have done differently when she was still here. The happy memories get drowned out by the guilt.",
+    "therapist": "It’s understandable that those memories feel bittersweet right now, especially when guilt overshadows the warmth of them. I wonder—what would it feel like to let yourself sit with those memories, even just for a moment, without judging the past or yourself?",
+    "condition": "baseline",
+    "val_t": -0.41929924488067627,
+    "aro_t": 0.1332385540008545,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I don't know if I can do that without judging myself. Every time I try to remember the good parts, all I can think about is how I messed things up afterward. It's like the guilt just floods in and ruins everything.",
+    "therapist": "It sounds like the guilt is almost acting as a barrier, keeping you from fully connecting with the love and joy that’s also part of those memories. What would it feel like to acknowledge that guilt as part of your grief, while also gently reminding yourself that love and regret can coexist?",
+    "condition": "baseline",
+    "val_t": -0.3789631128311157,
+    "aro_t": 0.1588137149810791,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about love and guilt coexisting, but it's like the guilt just drowns everything else out sometimes. When I try to remember the good times, it just makes me feel worse because I keep thinking about what I should have done differently. \n\nIt sounds nice in theory, but how do I actually make space for both feelings without the guilt taking over completely?",
+    "therapist": "It’s true—guilt can feel so loud and overwhelming, especially when it’s tied to something as deep as your love for your grandma. I wonder if it might help to start small—like writing down one happy memory and one regret side by side, just to practice holding space for both without letting one erase the other. What do you think?",
+    "condition": "baseline",
+    "val_t": -0.13920390605926514,
+    "aro_t": 0.08049333095550537,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know... writing things down makes it feel so final, like I'm admitting I failed her. Every time I try to think of happy memories, the guilt just crashes over me about not visiting more before she passed. It's like I can't have one without the other ruining it.",
+    "therapist": "It sounds like the guilt is acting like a gatekeeper, making it hard to access the warmth of those memories without feeling overwhelmed. What if you tried setting a timer—just one minute—to recall a happy moment, and then gently notice what arises afterward without judgment?",
+    "condition": "baseline",
+    "val_t": -0.3588749170303345,
+    "aro_t": 0.10641264915466309,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know... setting a timer feels too clinical, like I'm turning my memories into some kind of experiment. And what if I can't stop at one minute? Sometimes once I start thinking about the past, the guilt just floods in and I can't control it.",
+    "therapist": "I hear how protective you're being of these memories—they're sacred, not something to be rushed or measured. What if, instead of a timer, you simply noticed when a happy memory arises naturally—like a song or a scent—and let yourself linger there for just a breath longer?",
+    "condition": "baseline",
+    "val_t": -0.3309122323989868,
+    "aro_t": 0.06470978260040283,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I like the idea of letting memories come up naturally, but sometimes I worry that if I don't actively try to hold onto them, they'll fade away completely. It's like I'm afraid to relax my grip even for a second. And when happy memories do pop up, they often make me sad too because they remind me of what I've lost.",
+    "therapist": "It makes so much sense to feel that tension—wanting to cherish the memories while fearing they’ll slip away, and feeling sadness woven into the joy. What would it feel like to trust that your love for her keeps those memories alive, even when they bring both warmth and ache?",
+    "condition": "baseline",
+    "val_t": -0.1426074504852295,
+    "aro_t": 0.11163151264190674,
+    "text_emotion": "Angry"
+  }
+]

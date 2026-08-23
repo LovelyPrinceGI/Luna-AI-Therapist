@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately I've been completely drained trying to handle everything alone while my partner is away for work. I feel like I'm failing at both work and parenting - my performance is slipping at the office, but then I feel guilty when I have to stay late and miss time with the kids. To be honest, I'm not sure how talking about it will help when the real problem is just that there aren't enough hours in the day.",
+    "therapist": "I hear how overwhelmed you're feeling trying to balance everything right now, and it makes complete sense that you'd feel drained when carrying so much responsibility alone. I wonder if we could explore together what thoughts come up when you notice your performance slipping at work or when you have to stay late?",
+    "condition": "baseline",
+    "val_t": -0.4294019937515259,
+    "aro_t": 0.1096196174621582,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking \"I should be handling this better\" when I fall behind at work. It's like a constant pressure in my chest, like if I admit I'm struggling then I'm failing somehow. Staying late makes me feel even more isolated because while everyone else goes home to their families, I'm just there alone with my laptop. \n\nI don't know if exploring these thoughts will help - they're just facts, right? That I'm not performing well enough and that I don't have much of a life outside work. It all feels very real, not just thoughts I can change.",
+    "therapist": "It sounds like that \"should\" thought carries a lot of weight for you, and the physical pressure in your chest shows how deeply this belief affects you. What would it feel like to consider that struggling doesn't mean failing, but simply means you're human?  \n\nThe isolation you describe when staying late sounds particularly painful—I wonder if there might be small ways to bring more connection into those evenings, even if it's just a quick call to check in with the kids?",
+    "condition": "baseline",
+    "val_t": -0.2724496126174927,
+    "aro_t": 0.09007465839385986,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I know logically that struggling doesn't mean failing, but it still *feels* like failure when I can't keep up with everything. That pressure in my chest just gets worse thinking about calling my kids when I'm working late - like I'm interrupting their evening or making them worry about me.",
+    "therapist": "That gap between knowing something logically and feeling it emotionally can be so frustrating to sit with. I notice you describe this pressure intensifying when you imagine reaching out - what do you think might happen if you let your kids comfort you instead of worrying about burdening them?",
+    "condition": "baseline",
+    "val_t": -0.384692907333374,
+    "aro_t": 0.20418810844421387,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I know my kids would probably want to comfort me if I opened up, but the thought of it makes me feel so guilty. Like I'm reversing roles and putting my emotional weight on them when I should be the strong one. Even though logically I know they're adults now, it still feels wrong somehow.",
+    "therapist": "Your concern about maintaining that parental role even with adult children shows how deeply you care about protecting them. I wonder if there might be a middle ground where you can share your feelings authentically without reversing roles—what would that look like to you?",
+    "condition": "baseline",
+    "val_t": -0.3073081970214844,
+    "aro_t": 0.13908016681671143,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I just don't know if there is a middle ground, to be honest. When I try to be \"authentic\" with my kids about my struggles, I immediately regret it because I see the worry in their eyes. It feels like I'm burdening them the same way my parents burdened me, and that guilt is overwhelming. \n\nPart of me knows they're adults now, but another part still sees them as the little kids I need to protect. How do I stop feeling like every emotion I share is damaging them?",
+    "therapist": "It's clear how much thought and care you've put into protecting your children, even now that they're adults. The worry you describe when sharing your struggles suggests this is a deeply ingrained pattern—I wonder if we could explore together how your own childhood experiences might be influencing how you view emotional sharing today?",
+    "condition": "baseline",
+    "val_t": -0.39242053031921387,
+    "aro_t": 0.1825960874557495,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I never really thought about how my own childhood might be affecting this. My parents were very \"stiff upper lip\" types - we never talked about feelings at all. But I'm not sure how digging up old memories helps me stop worrying so much about my kids now. \n\nIt's just...when I see them struggling, I feel this physical panic in my chest like I have to fix it for them, even though I know they're grown. The idea of exploring childhood stuff makes me uncomfortable - like we're blaming my parents when they did their best.",
+    "therapist": "It makes complete sense that exploring childhood memories might feel uncomfortable, especially when we're taught that emotions weren't something to be discussed openly. I'm hearing that the physical panic you feel when seeing your kids struggle might be connected to a deep desire to protect them—what if learning more about your own early experiences could help you better understand where that intense worry comes from, rather than blaming anyone?",
+    "condition": "baseline",
+    "val_t": -0.3042564392089844,
+    "aro_t": 0.15278959274291992,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but digging into childhood stuff just makes me more anxious. Whenever I try to think about my past, I just remember my parents saying \"stop being dramatic\" whenever I got upset, and now I feel that same shame when my own kids cry. \n\nI don't know if understanding where it comes from will actually help - it's not like knowing why I panic will make the panic stop when my toddler has a meltdown in the grocery store.",
+    "therapist": "It sounds like even the idea of exploring these memories brings up that familiar shame, which must feel overwhelming when you're already dealing with so much. Rather than focusing on the past right now, what if we looked at small ways to respond differently in those grocery store moments—not to stop the panic, but to be gentle with yourself when it happens?",
+    "condition": "baseline",
+    "val_t": -0.3791627883911133,
+    "aro_t": 0.24355590343475342,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but being gentle with myself in those moments feels impossible. When I’m panicking at the store, it’s like my brain is screaming at me that everyone is judging me, and I just want to get out as fast as I can. I don’t even know where to start with being kind to myself when I feel like that.",
+    "therapist": "I hear how overwhelming those moments feel—like your brain goes into full alert mode where kindness seems impossible. What if we started with something very small, like simply noticing that panicked feeling without judgment, and reminding yourself that this is a normal human reaction to stress?",
+    "condition": "baseline",
+    "val_t": -0.23760080337524414,
+    "aro_t": 0.30550122261047363,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but when I'm in that panicked state, even noticing my feelings feels impossible. My mind just races too fast, and the idea of being non-judgmental seems unrealistic when I'm already beating myself up. It's like trying to read a book during an earthquake.",
+    "therapist": "That analogy of trying to read during an earthquake perfectly captures how impossible it feels to pause when your mind is racing so intensely. Rather than trying to change anything in those moments, what if we practiced simply naming the experience afterward—like \"that was an earthquake moment\"—to start building awareness without pressure?",
+    "condition": "baseline",
+    "val_t": -0.20654404163360596,
+    "aro_t": 0.2557346820831299,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about naming it afterward, but in the moment it still feels so overwhelming. Like even if I recognize it was an \"earthquake moment\" later, that doesn't stop me from feeling completely wrecked by it when it's happening. I guess I'm frustrated because I want the anxiety to just stop, not just label it after the fact.",
+    "therapist": "It sounds like you're longing for real relief from that overwhelming feeling, not just tools to observe it—that makes complete sense when you're in so much distress. What if we explored what \"relief\" might look like for you in those moments, even if it's not about making the anxiety disappear completely?",
+    "condition": "baseline",
+    "val_t": -0.20302855968475342,
+    "aro_t": 0.30722475051879883,
+    "text_emotion": "Angry"
+  }
+]

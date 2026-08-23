@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really on edge ever since my professor assigned this big group project last week. We have to present in front of the whole class at the end, and just thinking about standing up there makes my chest tight and my mind go completely blank. I'm not even sure talking about it is going to change how terrified I feel, but I figured I'd give this a shot.",
+    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I'm glad you gave it a shot. That tightness in your chest and the mind going blank are such uncomfortable experiences, and it makes sense they'd feel overwhelming when you're anticipating something as high-stakes as a public presentation. I'm curious — when you imagine standing up in front of the class, what's the specific thought or fear that tends to hit you the hardest?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14161968231201172,
+    "aro_t": 0.2266225814819336,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the thing that hits me hardest is this image of everyone just... staring at me and thinking I'm stupid or incompetent. Like I'll forget what I'm saying mid-sentence and just stand there frozen, and everyone will see how much of a fraud I actually am. It's embarrassing to even say out loud, but that's the thought that spirals the most.",
+    "therapist": "Thank you for trusting me with that — it actually takes a lot of self-awareness to name that fear so clearly, and you're definitely not alone in experiencing it. What you're describing sounds like a really painful spiral, where your mind jumps straight to the worst-case version of events — freezing, being judged, being \"found out\" — as if that outcome is already certain. I'd love to gently explore that with you: what evidence have you actually seen, in past experiences, that people viewed you as incompetent when you spoke up or made a mistake?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31417250633239746,
+    "aro_t": 0.24769127368927002,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, when I try to think of specific examples... I'm struggling to come up with clear ones where someone actually said \"you're incompetent\" to my face. But it doesn't feel like that matters, because the fear is so strong that it seems like it must be based on something real, you know? Like, maybe people were just too polite to say it out loud, and I was picking up on something underneath their reactions.",
+    "therapist": "It's really insightful that you noticed the lack of concrete evidence, even while the fear still feels so convincing — that gap is actually really important. What you're describing is a common cognitive pattern called \"emotional reasoning,\" where the intensity of the feeling itself becomes the proof that the threat is real, almost like \"I feel like a fraud, therefore I must be one.\" I'm wondering — if a close friend came to you with that same logic, saying \"nobody has ever actually called me incompetent, but the fear is so strong it must be true,\" what would you gently say back to them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2896610498428345,
+    "aro_t": 0.18412160873413086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... I'd probably tell them that fear isn't the same as fact, and that they should look at what they've actually accomplished instead of just going off the feeling. But it's so much easier to say that to someone else, you know? When it's me, the fear just feels so loud and immediate that it drowns out all the rational stuff I'd tell a friend.",
+    "therapist": "You just said something really profound — you already *know* the rational answer, and that's genuinely meaningful progress, even if it doesn't feel that way yet. That gap between what we'd tell a friend and what we can offer ourselves is so common, and it points to something worth exploring: you seem to hold yourself to a much harsher standard than you'd ever apply to someone you care about. What do you think it would take, even just a little, to start treating yourself with the same compassion you'd so naturally extend to a friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17214155197143555,
+    "aro_t": 0.17769193649291992,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me wants to believe it's possible, but honestly it feels almost... selfish? Like if I start letting myself off the hook for pulling away from my friends and being so unavailable, I'm just making excuses for hurting people. I think that's what makes it so hard — the guilt isn't just in my head, there are real people on the other side of it who probably felt abandoned by me.",
+    "therapist": "That guilt you're carrying sounds really heavy, and it's actually a sign of how much you care about the people in your life — someone who truly didn't care wouldn't feel this weight at all. There's an important distinction worth gently exploring here though: there's a difference between taking responsibility for impact, which sounds like something you genuinely want to do, and punishing yourself endlessly as if you don't deserve understanding too. I'm curious — do you think it's possible to acknowledge that your friends may have felt hurt, while *also* recognizing that you were likely struggling with something real that made you pull away in the first place?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4033139944076538,
+    "aro_t": 0.16943931579589844,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe that's true — that I was struggling and it wasn't just me being a bad friend. But it's hard to hold both of those things at once, because whenever I try to give myself that understanding, this voice in my head immediately says \"that's just an excuse, you're letting yourself off the hook.\" It feels like if I stop feeling guilty, I'm somehow saying what I did didn't matter.",
+    "therapist": "That inner voice is working really hard to convince you that guilt is the only way to prove something mattered — but I'd gently push back on that, because accountability and self-compassion aren't actually opposites. You can fully believe that your friends' feelings were real and valid *and* that you were a person going through something difficult, without either of those truths canceling the other out. What do you think genuine accountability would look like for you, if it didn't have to involve punishing yourself indefinitely?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2556954622268677,
+    "aro_t": 0.17859196662902832,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me wants to believe that's true, but it feels almost too easy, like I'm letting myself off the hook. Genuine accountability without punishment... I honestly don't even know what that looks like, because every time I try to just \"move on,\" it feels like I'm saying what happened to my friends didn't matter. It's like the guilt is the only thing keeping me tethered to the fact that I actually hurt people I cared about.",
+    "therapist": "There's something really meaningful in what you just said — the guilt feels like a form of loyalty, like releasing it would mean you've stopped caring about the people you hurt. But I want to offer a gentle reframe: what if the *real* sign that those relationships matter isn't the ongoing punishment, but rather the concrete actions you might take — a honest conversation, an apology, showing up differently going forward? What would it look like to channel that care for your friends into something that actually moves toward repair, rather than staying frozen in guilt?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30928266048431396,
+    "aro_t": 0.1701822280883789,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me actually wants to believe that... but it's not that simple. The friends I hurt, I already tried reaching out to one of them a few months ago, and she basically didn't respond, which just made everything feel worse. So now the idea of \"taking action\" feels less like repair and more like opening myself up to get rejected again.",
+    "therapist": "That experience of reaching out and being met with silence must have been really painful, and it makes complete sense that it's made the idea of trying again feel more like a risk than a relief. What I notice is that one very understandable act of self-protection — deciding not to reach out again — may have quietly become a rule that *all* repair attempts will end in rejection, which is a heavy conclusion to carry. I'm wondering, do you think that one painful non-response tells the whole story about your worth or your ability to repair relationships, or might it just be one chapter?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27775895595550537,
+    "aro_t": 0.18536663055419922,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to agree with the \"one chapter\" idea, but honestly it doesn't feel like just one time. It feels like a pattern, like this is what happens when I try to reach out to people, so it's hard to see it as just one data point. Maybe I'm wrong, but when something keeps confirming your fear, it starts to feel less like a story you're telling yourself and more like just... the truth.",
+    "therapist": "It sounds like this fear has been quietly collecting \"evidence\" for a long time, and I want to take that seriously rather than just reassure you that you're wrong. But I'm also curious about something — when we're in a painful pattern, our minds tend to notice and remember the moments that confirm the fear, while the times that *didn't* fit the pattern fade into the background. Can you think of any relationships or moments of connection, even small ones, that don't quite fit the story that reaching out always leads to rejection?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09023499488830566,
+    "aro_t": 0.14152312278747559,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... I guess there have been a few times. Like, my coworker Diane checked in on me last month when I seemed off, and that felt genuinely warm, not forced. But honestly my first instinct is to explain it away, like she was just being polite or it doesn't really count because I didn't initiate it.",
+    "therapist": "It's really worth pausing on Diane, because you just described something genuinely warm and real — and then almost in the same breath, your mind moved to disqualify it. That pattern of explaining away the positive is actually really telling, because it means the \"evidence\" for your fear gets to count, but the evidence against it keeps getting dismissed before it can land. What do you think it would mean for your story about yourself if you allowed Diane's moment of care to count just as much as the painful ones?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03294706344604492,
+    "aro_t": 0.1320629119873047,
+    "text_emotion": "Neutral"
+  }
+]

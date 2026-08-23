@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really anxious lately. My colleague Jessica keeps taking credit for my ideas, and it's making me feel undervalued and worried about my job security. I don't know if therapy can really change what she's doing, but I feel like I need to talk about it.",
+    "therapist": "Hi there, I'm really glad you reached out. It sounds like you're dealing with a lot of challenging feelings and situations at work, and it's completely understandable to feel undervalued and anxious. How have you been coping with these feelings so far, and what do you think might help you feel more supported and valued?",
+    "condition": "baseline",
+    "val_t": -0.24406886100769043,
+    "aro_t": 0.169427752494812,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for listening. To be honest, I've been trying to cope by just putting in more hours and hoping it will eventually pay off, but it feels like no one notices. I've thought about talking to my manager, but I'm afraid it might backfire or make things worse. What do you think?",
+    "therapist": "It's really tough when you feel like your efforts aren't being recognized, and it's understandable to be cautious about how to approach the situation with your manager. Putting in extra hours can be exhausting and may not always lead to the recognition you deserve. What do you think might be the best way to communicate your concerns to your manager without feeling like you're putting yourself at risk?",
+    "condition": "baseline",
+    "val_t": -0.03836357593536377,
+    "aro_t": 0.17571556568145752,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's just really hard to know how to bring it up without sounding like I'm complaining or being ungrateful. I worry that if I do say something, it might backfire and make things worse. Maybe I'm overthinking it, but it feels like a risky move.",
+    "therapist": "It's completely normal to feel that way, and it's important to approach the conversation thoughtfully to avoid feeling like you're putting yourself in a difficult position. One way to frame it could be to focus on the positive contributions you've made and the value you bring to the team, while also expressing your concerns in a constructive way. What do you think about preparing some specific examples of your contributions and how they've benefited the team, to help make your case more clearly?",
+    "condition": "baseline",
+    "val_t": -0.168420672416687,
+    "aro_t": 0.18518412113189697,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate the idea, but I'm still worried about coming across as too self-promotional or bragging. It's hard for me to talk about my own achievements without feeling like I'm boasting. I don't want my colleagues to think I'm trying to take all the credit or that I'm not a team player.",
+    "therapist": "I understand that concern, and it's totally valid to worry about how others might perceive you. It's a delicate balance, but you can frame your achievements in a way that highlights teamwork and collaboration. For example, you could mention how your ideas have contributed to team successes and how you value the input and support of your colleagues. How do you think you could emphasize the collective impact of your work when you talk to your manager?",
+    "condition": "baseline",
+    "val_t": -0.12610554695129395,
+    "aro_t": 0.045102596282958984,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you mean, but I still feel like it's a fine line to walk. I worry that even if I frame it as a team effort, people might still think I'm trying to take credit or show off. It's hard because I want to be recognized for my contributions, but I don't want to come across as arrogant or self-serving.",
+    "therapist": "It's totally understandable to feel that way, and it's a common concern when advocating for yourself. One approach could be to focus on specific, factual examples of your contributions and their outcomes, while always acknowledging the support and collaboration of your team. This can help you come across as confident and self-assured without appearing arrogant. How do you think you might feel if you prepared a few key points that highlight both your contributions and the team's efforts?",
+    "condition": "baseline",
+    "val_t": -0.1374732255935669,
+    "aro_t": 0.10474002361297607,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the idea, but I'm still not sure it will make me feel any less anxious. It's hard because I often second-guess myself and worry that I'm not seeing the full picture. What if I miss something important or come across as too self-focused, even if I'm trying to be balanced?",
+    "therapist": "I can really understand how those worries can add to your anxiety, and it's completely normal to second-guess yourself in such a situation. It might be helpful to start by acknowledging that it's okay to feel unsure and to take small steps to build your confidence. One way to do this could be to practice what you want to say in a low-stakes environment, like with a trusted friend or mentor, to get some feedback and feel more prepared. How do you think you might feel after practicing and getting some supportive feedback?",
+    "condition": "baseline",
+    "val_t": -0.11499547958374023,
+    "aro_t": 0.0539780855178833,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I'm not sure if I can open up to someone like that. It's hard because I worry about being judged or feeling more anxious if it doesn't go well. I guess I just feel like it's safer to keep these things to myself, even if it means I don't get the practice I need.",
+    "therapist": "I completely understand that opening up can feel risky, and it's natural to worry about being judged or feeling more anxious. It's okay to take things at your own pace and to choose who you feel comfortable sharing with. If talking to a friend or mentor feels too challenging right now, you could also try writing down your thoughts and concerns in a journal. This can be a safe space to explore your feelings and practice articulating them. How do you think you might feel if you started with journaling as a way to process your thoughts?",
+    "condition": "baseline",
+    "val_t": -0.08166861534118652,
+    "aro_t": 0.0539165735244751,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I can see how journaling might help, but I worry that it won't really change anything. It feels like just another task to add to my list, and I'm already overwhelmed. I'm not sure if writing down my thoughts will actually make me feel any better or if it will just make me feel more isolated.",
+    "therapist": "I hear you, and it's totally understandable to feel overwhelmed and unsure if journaling will make a difference. Adding another task to your plate can feel daunting, and it's important to find something that feels manageable and supportive. Maybe we can start with a very small, low-pressure step, like writing down one thing you're grateful for or one small achievement each day. This can help you reflect on positive aspects without feeling too burdensome. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.24347913265228271,
+    "aro_t": 0.09416961669921875,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you're trying to make it less overwhelming, but I still feel a bit resistant. I worry that even writing down one thing might feel like another thing I have to do, and I'm already struggling with just getting through my day. It's hard to see the point sometimes.",
+    "therapist": "I completely understand, and it's okay to feel resistant or overwhelmed. It's important to honor your feelings and not add more pressure. Maybe we can focus on finding a small, gentle way to start. For example, you could take a moment each evening to reflect on one thing that went well, even if it's as simple as having a good cup of coffee or a brief moment of peace. How does that feel to you, and do you think it might be a bit more manageable?",
+    "condition": "baseline",
+    "val_t": -0.1724947690963745,
+    "aro_t": 0.011128783226013184,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, Luna. It does feel a bit more manageable, but I still worry that even a small task like reflecting on the day might feel like one more thing to add to my plate. I'll give it a try, but I might need some extra support to keep it up.",
+    "therapist": "I understand that even small steps can feel like a lot when you're already overwhelmed, and it's great that you're willing to give it a try. It's okay to take it one day at a time, and I'm here to support you every step of the way. If you find it helpful, we can check in regularly to see how it's going and make adjustments as needed. How does it feel to have that extra support, and is there anything specific you think might help you stay motivated?",
+    "condition": "baseline",
+    "val_t": 0.01762568950653076,
+    "aro_t": 0.045380234718322754,
+    "text_emotion": "Neutral"
+  }
+]

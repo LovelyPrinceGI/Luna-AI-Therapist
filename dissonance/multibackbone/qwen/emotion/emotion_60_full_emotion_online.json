@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, it's been a tough month since my grandmother passed away. I keep getting flooded with memories of her, and it's really hard to concentrate on work. I know we're here to talk about it, but I'm just not sure how therapy can really help with this kind of pain.",
+    "therapist": "I'm so sorry to hear about your grandmother and the challenges you're facing. It's completely understandable that these memories are making it hard to focus. Therapy can be a space to process these feelings and find ways to manage the pain. How are you feeling right now as we talk about this?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2386183738708496,
+    "aro_t": 0.11373567581176758,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's been really tough, and I feel this weight on my chest whenever I think about her. I appreciate you understanding, but it's hard to know how to move forward when these memories keep coming back. I feel like I'm stuck in this loop of sadness and guilt.",
+    "therapist": "It sounds really overwhelming, and the weight of those feelings is a lot to carry. It's completely normal to feel stuck in a loop of sadness and guilt, especially after losing someone so important. Can you tell me more about what specific memories or thoughts come up for you when you feel this way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34251224994659424,
+    "aro_t": 0.11391878128051758,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "When I feel this way, a lot of the memories that come up are from the last times I saw my grandmother. I keep replaying our last conversation, wondering if I could have done something differently, said something more. It's like I'm stuck in this cycle of guilt, thinking about all the things I wish I had done or said.",
+    "therapist": "It's natural to replay those last moments and wonder if things could have been different. The guilt and regret can be so heavy, and it's understandable that you're feeling stuck. Have you been able to talk about these feelings with anyone else, or are there any specific things that help you feel a bit better when you're in this cycle?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34721314907073975,
+    "aro_t": 0.06670331954956055,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I haven't really talked about this with anyone else. It feels like a burden that's just mine to carry. Sometimes, I try to distract myself with work or hobbies, but it never really goes away. It's hard because it feels like no one else can really understand what I'm going through.",
+    "therapist": "It takes a lot of courage to open up about these feelings, and it's completely valid to feel like this burden is yours alone. It's okay to seek comfort in distractions, but it's also important to find ways to process these emotions more deeply. Have you considered any specific activities or practices that might help you explore these feelings, like journaling or talking to a trusted friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23591506481170654,
+    "aro_t": 0.06084716320037842,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard sometimes because I feel like I'm the only one dealing with these things. Journaling sounds good in theory, but I worry it might just make me dwell on the negative stuff even more. And talking to friends... I don't want to burden them with my problems.",
+    "therapist": "It's completely understandable to feel isolated in your grief and to worry about burdening others. Journaling can be a helpful tool, but it's important to find a way that feels right for you. Maybe you could start by just writing down your thoughts without judgment, and see if it helps you gain any new perspectives. How do you think you might feel if you shared a little bit with a friend, even if just to say how you're feeling without expecting them to fix it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13061225414276123,
+    "aro_t": 0.04746806621551514,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your suggestion, but I'm not sure journaling is my thing. It feels like just another task on my to-do list, and I'm already struggling with motivation. As for sharing with a friend, it's hard because I don't want to seem weak or needy. I worry they might not understand or know how to respond, which could make me feel even more alone.",
+    "therapist": "I completely understand your hesitation about journaling and the worry about sharing with friends. It's tough to add another task when you're already feeling unmotivated, and the fear of being misunderstood can be a real barrier. What if we explore some other ways to ease the burden that don't feel like additional tasks? Have you tried any self-care activities that have helped you feel a bit better, even if just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1968625783920288,
+    "aro_t": 0.029764652252197266,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. Sometimes I feel like self-care activities are just a temporary fix and don't really address the underlying issues. I've tried things like meditation and taking walks, and they help a little, but the anxiety and loneliness always come back. It's hard to find something that really makes a lasting difference.",
+    "therapist": "It's completely understandable to feel that way. Self-care activities can provide temporary relief, but they might not always address the deeper issues, and that can be frustrating. It's important to acknowledge that healing is a process and can take time. Have you considered talking more about the specific thoughts and emotions that come up for you during those times when the anxiety and loneliness return? Sometimes, exploring these in more depth can help uncover new insights and coping strategies.",
+    "condition": "emotion_text_only",
+    "val_t": -0.06287157535552979,
+    "aro_t": 0.06601381301879883,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, and I know it's important to explore deeper. But it's hard because those thoughts and feelings are so overwhelming, and I often feel like I'm just going in circles. I worry that even if I talk about them more, I might not find any new insights. It's like I'm stuck in this loop of anxiety and loneliness, and I don't see a way out.",
+    "therapist": "I can hear how overwhelming and frustrating it must be to feel stuck in that loop of anxiety and loneliness. It's completely normal to worry that even talking about it might not bring new insights, but sometimes just the act of sharing and exploring these thoughts can help break the cycle, even if it feels small at first. What are some of the specific thoughts or memories that come up most often when you feel this way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23022890090942383,
+    "aro_t": 0.15941178798675537,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "It's really hard to pinpoint specific thoughts, but a lot of the time, I end up thinking about all the things I could have done differently in the past. I get stuck in this spiral of \"what ifs\" and \"should haves,\" and it just makes me feel even more alone and guilty. It's like I can't escape these negative patterns, no matter how hard I try.",
+    "therapist": "It sounds like those \"what ifs\" and \"should haves\" are really weighing on you, and it's natural to feel alone and guilty when you're caught in that spiral. It's tough to break free from those negative patterns, but recognizing them is a big first step. Have you noticed any specific triggers that tend to bring up these thoughts, or any moments when you feel a bit more grounded and less caught in the spiral?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4239262342453003,
+    "aro_t": 0.11909961700439453,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "Yeah, I do notice that certain things trigger those thoughts, like when I'm alone or when I have a lot of free time to think. But it's hard to pinpoint exactly what makes me feel more grounded. I guess spending time with friends helps a bit, but it's not always easy to reach out to them, you know?",
+    "therapist": "It makes sense that certain situations, like being alone or having a lot of free time, can trigger those thoughts. It's really helpful to start identifying those triggers. Spending time with friends can be a good way to feel more grounded, even if reaching out feels challenging. What are some other activities or moments that, even if briefly, make you feel a bit more at ease or less caught in those negative thoughts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03856027126312256,
+    "aro_t": 0.011246323585510254,
+    "text_emotion": "Neutral"
+  }
+]

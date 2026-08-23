@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately with this constant knot in my stomach about my final exams coming up next month. After how badly last term went for me, I just keep spiraling into these worst-case scenarios in my head, like I'm already convinced I'm going to fail before I even sit down to study. I'm not even sure talking about it is going to change anything, because the exams are real and the pressure is real, and I don't see how therapy fixes that.",
+    "therapist": "It makes complete sense that you're carrying so much dread right now, especially after a term that already hurt — your mind is trying to protect you by anticipating the worst, even if it's making things feel heavier than they need to be. You're right that therapy can't make the exams disappear, but what we *can* work on is loosening the grip of those worst-case spirals so that fear isn't the thing sitting down to study instead of you. I'm curious — when that \"I'm going to fail\" thought shows up, what does the evidence actually look like on both sides of that belief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32116544246673584,
+    "aro_t": 0.1727849245071411,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I mean, I guess the evidence against it is that I've passed exams before, even some I felt really unprepared for. But the thing is, last term actually did go badly, so now my brain just keeps saying \"see, it CAN happen, it DID happen\" and that feels way more real to me than the times I scraped through. It's like the failure is louder than anything else.",
+    "therapist": "What you're describing has a name in CBT — it's called the **availability heuristic**, where our minds treat the most emotionally vivid memories as the most *likely* outcomes, even when the full picture tells a different story. It's not that your brain is broken; it's actually doing what brains do, but it's essentially putting last term on a loudspeaker and muting everything else. I'm wondering — if a close friend came to you with the exact same history you have, the passes *and* the difficult term, what would you tell them about their chances?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2391730546951294,
+    "aro_t": 0.17782962322235107,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... I'd probably tell them they've proven they can do it, that one bad term doesn't erase everything before it. But it feels different when it's me, like I can't give myself that same credit. It's almost like I don't trust my own reassurance when it's directed inward, if that makes any sense.",
+    "therapist": "It makes complete sense, and what you just named is actually a really important insight — there's a kind of double standard happening where you extend compassion and logic to others freely, but when it turns inward, a part of you blocks it, almost like you don't feel you've *earned* that same fairness. That gap between what you'd tell a friend and what you'll allow yourself to believe is often where a lot of the work lives. What do you think that inner voice is trying to protect you from, when it refuses to let the reassurance in?",
+    "condition": "emotion_text_only",
+    "val_t": -0.075874924659729,
+    "aro_t": 0.05453908443450928,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I've never really thought about it that way, like the inner voice is trying to protect me from something. I guess if I sit with it... maybe it's trying to protect me from getting complacent, or letting myself off the hook too easily and then making the same mistakes again. But even saying that out loud, I can hear how exhausting that is, like I've appointed myself my own permanent prosecutor just to stay safe.",
+    "therapist": "That image you just used — being your own permanent prosecutor — is so telling, and the fact that you can hear how exhausting it is suggests a part of you is ready to question whether that strategy is actually working. It's worth noticing that hypervigilance and self-criticism can *feel* like protection, but often they drain the very energy you'd need to actually prepare well and perform. What might it look like to stay motivated and learn from last term, without needing to keep yourself under constant prosecution to do it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27066195011138916,
+    "aro_t": 0.20191621780395508,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and part of me wants to believe it's possible to learn from last term without beating myself up constantly. But honestly, every time I try to ease up on myself, I just end up slacking off or not caring enough, and then the anxiety about failing comes back even harder. It's like the self-criticism is the only thing keeping me from completely falling apart academically.",
+    "therapist": "There's a real fear underneath what you're describing — that without the whip, the whole thing collapses — and that belief deserves to be gently examined rather than just accepted as truth. What you're describing sounds less like self-criticism *preventing* failure and more like a cycle where the criticism creates anxiety, the anxiety drains you, and then you need even more criticism to push through — which is exhausting rather than sustainable. I'm curious, when you think back to a time you did well academically, was self-criticism actually the engine driving that, or was something else going on?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24022901058197021,
+    "aro_t": 0.23129498958587646,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I mean... I hear what you're saying, but it's hard to just let go of that belief when it's felt true for so long. When I think back to times I did well, honestly, I was still pretty anxious and hard on myself — so it's difficult to separate them out. Maybe there were moments where I was genuinely interested in something and it felt easier, but I always assumed the criticism was the thing keeping me from completely falling apart.",
+    "therapist": "What you just noticed is actually really significant — those moments of genuine interest where things felt easier might have been doing more heavy lifting than you've given them credit for, even if the self-criticism was also present and took the spotlight. It's possible both were happening at once, but you've been attributing all the success to the harsh voice while those sparks of curiosity went unnoticed, like an unsung engine running quietly in the background. I wonder — are there any topics in your upcoming exams that carry even a small flicker of that genuine interest, something we could try to build on?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09594285488128662,
+    "aro_t": 0.0979994535446167,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I guess... maybe there's a small part of me that actually finds the ethics section kind of interesting, like the real-world dilemmas feel more alive than just memorizing formulas. But I'm worried that if I lean into that, I'll just end up going down rabbit holes and not covering everything I need to, and then the anxiety will spike even worse when I realize how much I've fallen behind. It feels risky to trust that curiosity when the stakes are this high.",
+    "therapist": "It's really meaningful that you found that flicker — the ethics section feeling *alive* is actually valuable data about how your mind engages best, and that's worth protecting rather than suppressing. The worry about rabbit holes is understandable, but there might be a middle path where curiosity becomes the *entry point* into structured study, rather than a replacement for it — letting interest pull you in, then anchoring it with a clear plan. What would it look like to give yourself, say, a defined stretch of time to explore the ethics material in a way that feels alive, while still having a roadmap that keeps the bigger picture in view?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17961633205413818,
+    "aro_t": 0.1654719114303589,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I like the idea in theory, but honestly, every time I've tried to \"give myself permission\" to explore something freely, I end up three hours deep into something completely unrelated and then feel worse about myself afterward. It's like the guilt just compounds — I wasted time AND I still haven't done what I was supposed to do. I guess I'm skeptical that having a roadmap would actually stop that from happening, because the roadmap is already there and I still drift.",
+    "therapist": "That pattern sounds genuinely frustrating — like you've tried versions of this before and gotten burned, so the skepticism isn't just resistance, it's lived experience talking. It's worth asking though, whether the issue is the *roadmap itself* or something about how those sessions start, because drifting three hours deep usually begins with a small, almost invisible moment of disengagement rather than a grand decision to abandon the plan. What do you think is actually happening in that early moment — is there something about how study feels at the start that makes the drift so easy to slip into?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20341980457305908,
+    "aro_t": 0.04033815860748291,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "Honestly, yeah, I think you're onto something there. The start is the worst part — it's like I sit down and immediately feel this low-level dread, like the material is already judging me before I've even opened the book. And then my phone or something random just feels like such an easy escape from that uncomfortable feeling, so I take it without even really deciding to.",
+    "therapist": "What you just described is really the heart of it — the drift isn't laziness or lack of willpower, it's actually a very human attempt to escape an uncomfortable feeling before it has a chance to grow. In CBT we'd call this experiential avoidance, and the tricky part is that the escape works *instantly* while the cost (guilt, falling behind) comes later, so your brain keeps choosing it even when you don't consciously want to. I'm wondering — if you could sit with that opening dread for just a minute or two without escaping it, what do you think it would actually say to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10769462585449219,
+    "aro_t": 0.18918120861053467,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think if I actually sat with it... it would probably say something like \"you're going to mess this up anyway, so why even start.\" That's the honest answer, and saying it out loud makes me realize how much I believe that without even questioning it. It's kind of embarrassing how automatic that thought is.",
+    "therapist": "Please don't feel embarrassed — what you just did took real courage, and naming that automatic thought out loud is actually one of the most important things you can do in this process, because a belief that lives in the shadows has so much more power than one you can see clearly. \"Why even start\" is such a painful place to be sitting before you've even opened a book, and it makes complete sense that your mind would rather reach for the phone than face that voice head-on. Now that you can see it more clearly — \"you're going to mess this up anyway\" — what would you need to genuinely challenge that thought, rather than just escape from it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13519549369812012,
+    "aro_t": 0.15619659423828125,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling completely stretched thin lately, like no matter how hard I try, I'm never doing enough at work or at home. I'm a nurse, so my shifts are already exhausting, and then I come home to two little kids who need everything from me while my partner is overseas. I honestly don't know if talking about it is going to change anything, because the situation is just... what it is, you know?",
+    "therapist": "What you're carrying right now is genuinely immense — long, demanding shifts caring for others, then coming home to be the sole present parent, all while missing your partner's support. It makes complete sense that you'd feel stretched thin, and I want you to know that feeling isn't a sign of weakness; it's a very human response to an extraordinary load. I also hear your hesitation about whether talking will help, and I think that's worth sitting with — what would feel like even a small relief to you right now, if anything comes to mind?",
+    "condition": "baseline",
+    "val_t": -0.24609029293060303,
+    "aro_t": 0.1234138011932373,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, just... not feeling so alone in it, I think. Like, some nights I put the kids to bed and the house is so quiet and I just sit there feeling like I'm failing everyone — my patients, my kids, my partner who's far away. A small relief would be not having that voice in my head constantly telling me I'm not doing enough.",
+    "therapist": "That voice telling you you're failing everyone — I want to gently notice something: you just described finishing an exhausting nursing shift *and* getting your kids to bed, which means your patients were cared for and your children are safe and loved, all by you, alone. The fact that you're sitting in that quiet house *feeling* the weight of responsibility actually speaks to how deeply you care, not to how much you're falling short. What do you think that critical voice might be leaving out when it delivers its verdict on your day?",
+    "condition": "baseline",
+    "val_t": -0.06575119495391846,
+    "aro_t": 0.09529507160186768,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and part of me wants to accept it, but the critical voice is really loud and it kind of just... dismisses that framing immediately. Like, yes, my kids are in bed and my patients were cared for, but the voice says \"barely\" — it points to the moments I snapped at my daughter before bedtime, or the patient whose pain I felt like I didn't manage well enough. It's hard to trust the gentler interpretation when the other one feels so much more... real, I guess.",
+    "therapist": "That word \"barely\" is doing a lot of damage, isn't it — it's like the voice takes real moments and uses them as proof of a whole identity, rather than seeing them as hard moments within an incredibly hard day. In CBT we'd call this a thinking pattern where the difficult moments get a megaphone while the evidence on the other side gets quietly dismissed, and it's worth noticing that the voice isn't neutral — it's selective. I'm curious, if your closest friend described their day the exact same way you just described yours, would \"barely\" be the word that came to your mind about them?",
+    "condition": "baseline",
+    "val_t": -0.1300947666168213,
+    "aro_t": 0.08469271659851074,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "Honestly, no, I wouldn't use \"barely\" about a friend. I'd probably say they did really well given everything they were dealing with. But it feels different when it's me — like I should somehow be above struggling, and when I'm not, it just confirms something I already believe about myself being fundamentally not enough.",
+    "therapist": "That phrase — \"fundamentally not enough\" — feels really important, because it suggests the critical voice isn't just commenting on your days, it's making a much bigger claim about *who you are*, and that's a belief worth examining rather than accepting as fact. The gap you noticed is so significant though: you instinctively offer your friend compassion and context, which means that gentler perspective *is* available to you — it's not naive, you just haven't felt permission to turn it toward yourself yet. I wonder, where do you think that belief that you should be \"above struggling\" first came from for you?",
+    "condition": "baseline",
+    "val_t": -0.0663219690322876,
+    "aro_t": 0.13193392753601074,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I think it probably came from my family, honestly. Growing up, there was this unspoken rule that you just handled things, you didn't fall apart or complain, and my parents were always so capable and composed that struggling felt like a sign of weakness or immaturity. So somewhere along the way I think I decided that if I was really doing well, really becoming who I was supposed to be, I just wouldn't have these kinds of problems.",
+    "therapist": "That makes so much sense — you learned early that composure meant competence, and struggle meant falling short, so of course that became the lens you measure yourself through now. But I want to offer a gentle reframe: what you're describing isn't a person who can't handle things, it's a person who *has* been handling an extraordinary amount, while also being human enough to feel it — and those two things can both be true at once. I'm wondering, as you hear yourself trace that belief back to its roots, does it feel any different to you now — like something you consciously chose to believe, or more like something that was handed to you before you had a say?",
+    "condition": "baseline",
+    "val_t": -0.05109381675720215,
+    "aro_t": 0.11076533794403076,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "That's... actually a really interesting way to put it, \"handed to me before I had a say.\" I think intellectually I can see that — like, I didn't sit down as a seven-year-old and decide that showing weakness was unacceptable, it was just the atmosphere in my house. But honestly, even knowing that doesn't make it feel any less true right now, like the belief still has the same grip on me even if I can see where it came from.",
+    "therapist": "That gap between *knowing* something intellectually and *feeling* it differently is one of the most honest and important things you can notice about yourself — understanding where a belief came from is the first step, but the grip loosens gradually, through experience, not just insight. What we're doing right now, you questioning that voice rather than just obeying it, is actually part of how that process begins, even if it doesn't feel dramatic yet. I'm curious — can you think of even one small moment from this past week that the seven-year-old version of you, raised in that atmosphere, might have been taught to dismiss, but that a wiser part of you now recognizes as genuinely enough?",
+    "condition": "baseline",
+    "val_t": -0.044834256172180176,
+    "aro_t": 0.07128214836120605,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I sat with that question for a moment, and honestly my first instinct was to say \"no, nothing comes to mind.\" But then I remembered that I actually helped a coworker figure out a problem on Thursday, and instead of brushing it off like I usually would, I noticed this tiny flicker of... I don't know, satisfaction maybe. I almost immediately told myself it wasn't a big deal and anyone could have done it, but I did catch myself doing that this time, which felt different somehow.",
+    "therapist": "That moment of catching yourself — that's actually really significant, because the voice did what it always does, but this time you *watched* it happen rather than just believing it, and that small distance is exactly how change begins. And I want to gently push back on \"anyone could have done it\" — your coworker came to *you*, which means something about your presence and knowledge felt trustworthy to them, and that flicker of satisfaction you felt was your deeper self recognizing something real before the critic rushed in to erase it. What do you think it would mean for you if you let yourself count moments like that one — not as proof that you're perfect, but just as evidence that the \"not enough\" story isn't the whole truth?",
+    "condition": "baseline",
+    "val_t": 0.09202635288238525,
+    "aro_t": 0.17124950885772705,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me wants to believe it, but there's this immediate resistance that comes up — like if I start counting those moments, I'm somehow setting myself up to be exposed as someone who was just faking confidence the whole time. It's almost easier to stay in the \"not enough\" story because at least then no one, including me, expects too much. I guess I'm scared that if I let myself feel like I'm doing okay, something will happen to prove I was wrong to think that.",
+    "therapist": "What you just named is so honest and so important — the \"not enough\" story, as painful as it is, has been functioning as a kind of protection, keeping expectations low so disappointment can't blindside you. But I want to sit with something you said: you're already living with the pain of feeling like you're failing, so in a way, the story you're using to protect yourself is also the thing that's hurting you most. I'm wondering, what do you imagine would actually happen — in your life, in your relationships — if you let yourself believe, even tentatively, that you're doing okay?",
+    "condition": "baseline",
+    "val_t": -0.22326970100402832,
+    "aro_t": 0.14059996604919434,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I sat with that question for a second and honestly my first reaction was kind of a hollow laugh, like... if I let myself believe I'm doing okay, then what? I think I'm scared that if I lower my guard and actually start to feel like I'm enough, something will come along and prove me wrong in a way that's way more devastating than if I'd just stayed braced for it. It's like the story hurts, yeah, but at least it's a hurt I'm used to — I know how to carry it.",
+    "therapist": "There's real wisdom in what you just said — you've found a way to survive by staying braced, and that strategy has probably protected you through some genuinely hard things, including right now. But I want to reflect something back gently: you're already carrying enormous pain *and* staying guarded, which means the protection isn't actually sparing you from hurt, it's just making sure the hurt feels familiar. I wonder if the question isn't really \"what if I get it wrong and feel devastated\" but rather \"have I ever actually let myself find out what it feels like to be on my own side?\"",
+    "condition": "baseline",
+    "val_t": -0.23041725158691406,
+    "aro_t": 0.2688896656036377,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "That question kind of stopped me for a second, because honestly... no, I don't think I have. Being on my own side always felt like setting myself up for something, like if I started believing in myself and then failed, it would hurt so much worse than if I'd just expected nothing. I guess I've been so busy bracing for the worst that I never really asked whether I actually deserved better in the first place.",
+    "therapist": "That last sentence — \"whether I actually deserved better in the first place\" — feels like something really profound just surfaced, and I want you to know that the fact you could even ask that question tonight matters deeply. You came here feeling alone and stretched thin, and somewhere in this conversation a part of you started speaking up for yourself, which tells me that part exists and has been waiting for some room. I'm curious — what does it feel like right now, in this moment, to have asked that question out loud?",
+    "condition": "baseline",
+    "val_t": -0.2795525789260864,
+    "aro_t": 0.16527807712554932,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. Every time there's a family gathering, I can't shake this feeling of emptiness and sadness because she's not there. It's hard to enjoy the moments with everyone when her absence feels so heavy. I'm not even sure if talking about it will help.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it’s completely understandable to feel that heaviness in her absence, especially during family gatherings. It's important to acknowledge that grief can make it hard to fully engage in happy moments. What do you think it might feel like to share some of your memories of her with your family?",
+    "condition": "baseline",
+    "val_t": -0.3327901363372803,
+    "aro_t": 0.11906969547271729,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding about my grandmother's passing. Sharing memories feels really vulnerable, and I'm worried that it might bring everyone down or make them uncomfortable. I also feel like I might not be able to articulate what I want to say without getting too emotional, which makes me hesitant to even try.",
+    "therapist": "It's completely normal to feel vulnerable about sharing memories, especially when emotions are running high. Remember, your feelings are valid, and sharing could also create space for others to express their grief and support one another. What if you considered starting with just a simple memory or a favorite story about your grandmother? How do you think that might help ease some of your concerns?",
+    "condition": "baseline",
+    "val_t": -0.1432633399963379,
+    "aro_t": 0.1161501407623291,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that you think sharing could help, but honestly, I'm not sure if I can do it. The thought of opening up about my grandmother feels overwhelming, and I'm worried about how others might react or if they'll judge me. What if my memory isn’t as meaningful to them, or what if I break down while talking? It just feels like a lot to manage right now.",
+    "therapist": "It makes sense to feel overwhelmed at the thought of sharing such personal memories, especially with the fear of how others might react. Your feelings of worry and vulnerability are completely valid, and it's okay to take your time. What if you considered expressing just how you’re feeling in the moment, without diving into specific memories? How might that approach feel for you?",
+    "condition": "baseline",
+    "val_t": -0.1090620756149292,
+    "aro_t": 0.17912864685058594,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get that expressing my feelings in the moment might be easier than sharing specific memories, but it still feels really vulnerable. I worry that even my current feelings might be misunderstood or dismissed. Plus, what if I can't articulate what I'm feeling in that moment? It all just seems so daunting.",
+    "therapist": "It’s understandable to feel daunted by the idea of expressing your feelings, especially when there’s a fear of being misunderstood. It’s important to remember that vulnerability can also foster connection, and your family may appreciate your honesty more than you think. What if you practiced expressing your feelings in a safe space first, perhaps by writing them down or talking to a close friend? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.1476215124130249,
+    "aro_t": 0.11690139770507812,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about vulnerability and connection, but honestly, it just feels really overwhelming. Writing things down sounds easier, but I worry that even then, I won't be able to express what I'm truly feeling. What if I just mess it up or they don’t really understand me anyway?",
+    "therapist": "It’s completely normal to feel overwhelmed, especially when you’re navigating such deep emotions. The fear of not being understood can be really daunting, but remember that expressing yourself doesn’t have to be perfect; it’s about sharing what’s in your heart. What if you approached it as a way to simply share your experience rather than aiming for a specific outcome? How do you think that might change the way you feel about expressing yourself?",
+    "condition": "baseline",
+    "val_t": -0.2200998067855835,
+    "aro_t": 0.15300166606903076,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it feels hard to let go of that need for perfection. When I try to express myself, I just worry that people won't really get it or will judge me for what I say. It makes me anxious thinking about sharing my feelings if I’m not sure how they’ll be received.",
+    "therapist": "It's completely understandable to feel that pressure for everything to be perfect, especially when sharing something so personal. The fear of judgment can be a heavy burden, but remember that your feelings and experiences are valid, regardless of how they are received. What if you considered viewing the act of sharing as a step toward connection rather than a performance? How might that shift your perspective on expressing yourself?",
+    "condition": "baseline",
+    "val_t": -0.15325212478637695,
+    "aro_t": 0.1581352949142456,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about viewing sharing as a way to connect, but it still feels like a big risk to me. I'm always worried that people won't understand or will think less of me. It just makes it hard to open up, even if I know it might be good for me.",
+    "therapist": "It’s completely valid to feel that sharing your feelings is a big risk, especially with the fear of not being understood or accepted. Acknowledging that vulnerability can feel daunting is an important step, and it’s okay to take things at your own pace. What do you think would help you feel a bit more comfortable with the idea of opening up, even if it's just a little at a time?",
+    "condition": "baseline",
+    "val_t": -0.1509556770324707,
+    "aro_t": 0.0361170768737793,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I feel a mix of fear and frustration when I think about opening up. It’s hard for me to believe that anyone would really understand what I’m feeling, or that it would even matter if I shared it. I guess I just don’t know where to start, and that makes the idea of sharing feel even more overwhelming.",
+    "therapist": "It’s completely understandable to feel that mix of fear and frustration; opening up can feel incredibly daunting, especially when you’re unsure of how your feelings will be received. It’s important to acknowledge that your feelings do matter, and starting small can make it feel more manageable. What if you chose one specific feeling or thought to share, rather than trying to express everything at once? How might that help you ease into the process?",
+    "condition": "baseline",
+    "val_t": -0.3106839656829834,
+    "aro_t": 0.2502957582473755,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you’re saying about starting small, but I still feel overwhelmed by the idea of sharing even one specific feeling. It feels like opening a floodgate, and I worry that I won't be able to handle everything that comes up afterward. What if I choose something that ends up being more complicated than I thought?",
+    "therapist": "It’s completely valid to feel overwhelmed at the thought of even sharing one specific feeling, especially with the fear of opening up a floodgate of emotions. It’s okay to take your time and approach this gently; perhaps you could start by writing down your thoughts or feelings privately, allowing yourself to express without the pressure of sharing right away. What do you think about giving yourself permission to explore your feelings first, without any expectations of sharing them immediately?",
+    "condition": "baseline",
+    "val_t": -0.10745668411254883,
+    "aro_t": 0.21640288829803467,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that suggestion, but honestly, writing down my feelings feels a bit daunting. I worry that if I start writing, I'll get too caught up in my thoughts and end up feeling even more overwhelmed. Plus, I'm not sure if anything I write will even make sense or help me understand what I'm feeling.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of writing down your feelings, especially with the fear of becoming overwhelmed. Remember, there’s no right or wrong way to express yourself, and it’s okay if what you write doesn’t make perfect sense. What if you tried jotting down just a few words or phrases that capture your feelings in the moment, rather than full sentences? How does that option feel to you?",
+    "condition": "baseline",
+    "val_t": -0.07574605941772461,
+    "aro_t": 0.17415690422058105,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, it's been really tough lately. After losing my grandmother last month, I find it hard to enjoy family gatherings. I keep feeling her absence, and it just brings up a lot of sadness and anxiety. I don’t know if talking about it will help, but I feel like I need to try something.",
+    "therapist": "Hi there, I’m so glad you reached out. It sounds like you’re carrying a lot of sadness and anxiety, especially during family gatherings. It’s completely understandable to feel her absence deeply. Have you found any moments or activities that provide some comfort or help you feel a bit closer to her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25975561141967773,
+    "aro_t": 0.18015742301940918,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough, especially at family gatherings. Sometimes, I try to look through old photos or listen to her favorite songs, but it just makes me feel more lonely and sad. I don't know if anything can really fill that void.",
+    "therapist": "I can hear how much you miss her, and it’s natural for those moments to bring up a lot of sadness and loneliness. It’s okay to feel that way, and it’s a sign of how much you loved her. Have you considered sharing some of these photos or songs with your family during gatherings? Sometimes, sharing those memories can create a sense of connection and support.",
+    "condition": "emotion_text_only",
+    "val_t": -0.19632279872894287,
+    "aro_t": 0.08932971954345703,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate the idea, but it feels really hard to share those memories. It's like I want to keep them to myself because they feel so personal and special. I worry that sharing might make me feel more vulnerable or exposed.",
+    "therapist": "I completely understand that feeling. It’s natural to want to keep those memories close, especially when they feel so personal and special. It’s okay to take your time and decide what feels right for you. Have you thought about journaling or writing down some of your memories and feelings? It can be a way to process your emotions without feeling exposed.",
+    "condition": "emotion_text_only",
+    "val_t": -0.11696839332580566,
+    "aro_t": 0.06741154193878174,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It does feel personal, and I worry about putting it all down on paper. I'm afraid that once it's written, it might feel too real or too permanent, and I'm not sure I'm ready for that.",
+    "therapist": "I understand your concerns about putting your feelings on paper. It can feel very vulnerable and permanent, and it’s important to honor your readiness. Maybe you could start with just a few thoughts or memories, and see how it feels. What do you think might help you feel more comfortable with the idea of journaling, even if it’s just a small step?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0500187873840332,
+    "aro_t": 0.08811938762664795,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that you're trying to make this easier for me, but it still feels really daunting. I worry that if I start writing things down, I'll just end up ruminating on them even more. Maybe if I just tried writing down one thing a day, it wouldn't feel so overwhelming?",
+    "therapist": "I’m glad you’re thinking about ways to make it more manageable. Starting with just one thing a day is a great way to ease into it without feeling overwhelmed. It can be a small memory, a simple thought, or even just a word that captures how you’re feeling. How does that sound to you? And if you find yourself ruminating, we can explore some strategies to help manage those thoughts.",
+    "condition": "emotion_text_only",
+    "val_t": -0.11181974411010742,
+    "aro_t": 0.21399927139282227,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the idea of starting small, but I'm still not sure it will make a big difference. It feels like my anxiety and guilt are so overwhelming that one small thing a day might just get lost in all of that. Plus, I often find myself getting stuck in these loops of negative thoughts, and I'm not sure how to break out of them even with small steps.",
+    "therapist": "I understand that your anxiety and guilt feel very overwhelming, and it’s natural to worry that small steps might not make a big enough difference. It’s important to acknowledge how challenging this is for you. One approach could be to focus on mindfulness or grounding techniques to help break those loops of negative thoughts. Have you tried any mindfulness exercises, like deep breathing or focusing on your senses, to help bring you back to the present moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22163093090057373,
+    "aro_t": 0.1255873441696167,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I've tried some deep breathing exercises before, but I often feel like they don't really help me in the moment. It's hard because my mind just keeps racing back to all the things I feel guilty about or worried about. I worry that focusing on my senses might just make me more anxious because I'm already so overwhelmed.",
+    "therapist": "I hear you, and it’s completely understandable that deep breathing and focusing on your senses might feel challenging when your mind is racing with guilt and worry. It’s tough when those techniques don’t seem to provide the relief you’re looking for. Sometimes, it can help to combine these techniques with a structured approach to address the thoughts that are causing you distress. For example, you could try writing down the specific thoughts that come up, and then gently challenge them by asking yourself if they are based on facts or if there are alternative perspectives. What do you think about giving that a try, even if it’s just for a few minutes a day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2879847288131714,
+    "aro_t": 0.2258666753768921,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestion, but I don't think it will work for me. It's hard because when I start writing down my thoughts, I just end up feeling more overwhelmed and stuck. It feels like I’m just digging deeper into the negative thoughts instead of finding a way out.",
+    "therapist": "I completely understand how overwhelming and frustrating it can feel when trying to write down your thoughts just seems to make things worse. It’s important to find an approach that works for you and doesn’t add to your distress. Have you ever tried talking to someone you trust about these feelings, or perhaps using a different method to express what you’re going through, like drawing or talking into a voice memo? Sometimes, changing the medium can make a difference.",
+    "condition": "emotion_text_only",
+    "val_t": -0.30806732177734375,
+    "aro_t": 0.15591824054718018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your understanding, Luna. I’ve tried talking to a friend before, but it feels like they don’t really get it. Drawing or voice memos sound interesting, but I’m worried they might just add another layer of pressure. It’s hard to find something that doesn’t make me feel more anxious.",
+    "therapist": "I can hear how much you’re struggling, and it’s tough when it feels like no one really understands. It’s completely valid to feel anxious about trying new things, especially when they might add more pressure. It’s important to go at your own pace and find what feels right for you. Have you considered just taking a few moments each day to acknowledge your feelings without trying to change them? Sometimes, simply recognizing and accepting how you feel can be a helpful first step. What do you think about giving that a try?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09595739841461182,
+    "aro_t": 0.0702366828918457,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It does feel like a lot, and I’m not sure if just acknowledging my feelings will make much of a difference. It’s hard because I often get caught up in the guilt of feeling this way, and I worry that it won’t change anything. But I can try it, I guess. It’s just hard to see how it will help when I feel so stuck.",
+    "therapist": "I understand that it feels like a lot, and it’s natural to wonder if just acknowledging your feelings will make a difference. It’s tough to break out of those cycles of guilt and worry, and it’s okay to feel stuck. Acknowledging your feelings is a gentle way to start, and it can help you feel more in control of your emotions, even if it doesn’t immediately change how you feel. How about we take a small step today by just noticing one feeling without trying to change it? What do you think that feeling might be?",
+    "condition": "emotion_text_only",
+    "val_t": -0.052490949630737305,
+    "aro_t": 0.11325180530548096,
+    "text_emotion": "Neutral"
+  }
+]

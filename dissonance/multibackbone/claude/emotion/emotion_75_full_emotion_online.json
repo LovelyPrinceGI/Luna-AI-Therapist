@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since my grandmother passed away last month. Every time there's a family get-together, I just... can't bring myself to go, because being around everyone just makes her absence feel even more obvious and painful. I'm not even sure talking about it is going to change anything, but I figured I should at least try something.",
+    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I want you to know that what you're carrying — the grief, the avoidance of those gatherings — makes a lot of sense given how much your grandmother must have meant to you. That empty space feels loudest when you're surrounded by the people who shared her with you. I'm curious — when you imagine yourself at one of those family get-togethers, what's the thought that feels most overwhelming in that moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3036673069000244,
+    "aro_t": 0.09793269634246826,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I think the thought that hits hardest is something like... \"everyone else has moved on and I'm still stuck.\" Like I'll look around and people are laughing and passing food and it just feels like I'm the only one who still feels this huge hole where she used to be, and that makes me feel even more alone than if I'd just stayed home. It's almost like going makes it worse, not better.",
+    "therapist": "That thought — \"everyone else has moved on and I'm still stuck\" — sounds like it carries a real sting of isolation on top of the grief itself, almost like you're grieving twice. I gently wonder though: is it possible that the people laughing and passing food are also carrying their own version of that hole, just expressing it differently in that moment? What do you think your grandmother would have made of the way you're still holding onto her so deeply?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19123494625091553,
+    "aro_t": 0.1976323127746582,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... maybe you're right that they're carrying it differently, but in that moment it really didn't feel that way. It just felt like I was the only one who couldn't let go and move on, like there was something wrong with me for still being so wrecked by it. As for what my grandmother would think... honestly, she'd probably tell me to stop moping and go eat something, but I don't know if that makes me feel better or worse.",
+    "therapist": "That little glimpse of her voice — \"stop moping and go eat something\" — sounds like it holds both the warmth of who she was and maybe a quiet reminder that she'd want you still living, even in the messy, grief-filled way you're doing right now. I also want to gently push back on the idea that there's something *wrong* with you for still feeling wrecked — grief doesn't follow a schedule, and feeling it deeply says something about the love, not about being stuck. What do you think it would mean for you if you *did* allow yourself to go to the next gathering, even while still carrying that hole?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3078223466873169,
+    "aro_t": 0.11744928359985352,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and part of me knows you're probably right that she'd want me to keep living. But going to that gathering feels like... I don't know, like I'd be pretending everything is okay when it's not, and I'm not sure I can fake that right now. And honestly, what if I just fall apart in front of everyone and make it weird for them?",
+    "therapist": "That fear of falling apart in front of others is so understandable, but I want to offer a gentle reframe — going doesn't have to mean pretending everything is okay, and if tears came, that wouldn't be making it \"weird\" so much as being honestly human in a moment that calls for it. There's actually a difference between *performing* okayness and simply *showing up* as you are, grief and all. What do you think would actually happen — in the room, with your family — if you did let some of that sadness show?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2266150712966919,
+    "aro_t": 0.17450594902038574,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, but honestly, my family isn't really like that. We don't really do the whole \"showing emotion openly\" thing — if I started crying, I think people would just get uncomfortable and not know what to say, and then I'd feel even more alone than if I'd stayed home. It's not that I think I have to perform being okay, it's more that showing how much I'm hurting might just make things awkward and then I'd end up feeling like a burden on top of everything else.",
+    "therapist": "That fear of becoming a burden on top of your grief sounds exhausting — like you're not only managing the loss but also quietly protecting everyone else from it, which is a heavy thing to carry alone. It's worth noticing that this belief — \"showing my pain will make me a burden\" — might be one of the things keeping you most isolated right now, even if it comes from a caring place. I'm wondering, has there been even one person in your family, maybe just one, with whom you've ever felt safe enough to not have to manage how you appear?",
+    "condition": "emotion_text_only",
+    "val_t": -0.4202476739883423,
+    "aro_t": 0.10828471183776855,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "There's my sister, maybe. We used to be close before she moved away, but I haven't really let her in since my mom died because she's dealing with her own grief and I don't want to add to that. It feels like we're both quietly protecting each other and neither of us is actually saying anything real.",
+    "therapist": "There's something really poignant about what you just described — two people who love each other, both quietly carrying their grief alone out of care for the other, and in doing so, accidentally leaving each other more isolated. It sounds like the very protectiveness you both feel might be the thing getting in the way of the closeness you're both probably longing for. What do you think might happen if you reached out to your sister — not to unload everything, but just to gently let her know you've been missing her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1981755495071411,
+    "aro_t": 0.07213890552520752,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I think you're probably right that we're both doing the same thing, and there's something almost sad about that when I say it out loud. But reaching out feels really scary because what if she's doing okay and I just drag her back into the sadness, or what if she pulls away because she doesn't want to talk about it? I guess I'm afraid that trying to connect might actually make things worse between us.",
+    "therapist": "It sounds like there's a quiet, aching fear underneath this — that reaching out for connection might cost you the relationship itself, which feels too precious to risk. But I want to reflect something back to you: you've already described a relationship where you're both silently drifting, both protecting, both alone — so the connection you're afraid of losing may already be slipping away through that very silence. What would it mean to you if your sister's response was actually relief — if she'd been waiting for one of you to go first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33011317253112793,
+    "aro_t": 0.138045072555542,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That actually hit me harder than I expected, because I think some part of me already knows you're right — the silence isn't keeping things safe, it's just making everything more hollow. But then I start imagining her actually feeling relieved, and something in me almost doesn't want that to be true, because if she's been waiting too, then we've both just been wasting all this time being lonely for no reason. And that guilt feels almost worse than the distance itself.",
+    "therapist": "That guilt makes a lot of sense — there's something painful about realizing that the wall you built to protect each other may have been unnecessary, and it's natural to grieve that lost time too. But I want to gently offer this: the fact that you were both trying to protect each other isn't wasted time, it's actually evidence of how much you love each other — it just got a little lost in translation. What if the guilt you're feeling right now could become the very thing that motivates you to reach out, rather than one more reason to wait?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32655537128448486,
+    "aro_t": 0.14625561237335205,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe that framing... but honestly, it almost feels too neat, like you're trying to wrap something messy in a bow. Because even if we were both trying to protect each other, the result was still years of distance, and I'm not sure my brother sees it that way at all. What if I reach out and he's just angry, or worse, indifferent — then the guilt gets even heavier, not lighter.",
+    "therapist": "You're right to push back on that — grief and fractured relationships are genuinely messy, and you deserve more than a tidy reframe that glosses over the real risk of being met with anger or indifference. That fear is legitimate, and I don't want to minimize it. But I'm curious — when you imagine reaching out and it *not* going well, what would that mean to you about yourself, and is that meaning something we should look at more closely?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32284653186798096,
+    "aro_t": 0.1109466552734375,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I guess if I reached out and got nothing back — or worse, got shot down — it would feel like proof that I was never really important to them to begin with. Like the whole relationship was something I built up in my head, and I'm just the person who cares too much while everyone else has moved on. That thought honestly scares me more than the awkwardness of reaching out itself.",
+    "therapist": "That fear — that silence or rejection would prove you never really mattered — sounds like it cuts right to the core of who you are, and I can hear how much weight that carries. But it's worth noticing that this is a belief about what their response would *mean*, not a fact, and that meaning is something you'd be adding to the situation rather than something that's automatically true. What evidence do you actually have, from the history of these relationships, that you were never really important to them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2980865240097046,
+    "aro_t": 0.20145118236541748,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately with family gatherings. Ever since my grandmother passed away two months ago, I just can't seem to enjoy them without feeling really sad and overwhelmed. I know it's been tough, but I'm not sure if therapy can really help with this.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandmother and how you've been feeling during family gatherings. It's completely understandable to feel sad and overwhelmed, especially since losing someone we love can deeply affect our experiences. How have you been coping with these feelings so far?",
+    "condition": "baseline",
+    "val_t": -0.29032158851623535,
+    "aro_t": 0.19178307056427002,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to keep busy, but it's hard to shake the sadness, especially when I see family photos or hear stories about her. I guess I've been avoiding family gatherings because I just feel so out of place without her there.",
+    "therapist": "I can imagine how challenging it must be to see family photos and hear stories that remind you of your grandmother. It's natural to feel out of place and sad in those moments, and avoiding gatherings is a common way to cope with such intense emotions. Can you tell me more about what it feels like to be in those gatherings without her? What are some of the thoughts that come up for you?",
+    "condition": "baseline",
+    "val_t": -0.16602349281311035,
+    "aro_t": 0.09981155395507812,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It feels really isolating, like everyone else has these happy memories and I'm just a visitor in their world. I keep thinking, \"Why can't I just be happy like everyone else?\" It's hard to be around all that joy when I feel so stuck in my grief.",
+    "therapist": "It sounds incredibly isolating to feel like you're on the outside looking in, especially when everyone else seems to be celebrating. Grief can make it really hard to connect with those feelings of joy, and it's okay to not be okay right now. What do you think might help you feel a bit more connected or understood during these gatherings?",
+    "condition": "baseline",
+    "val_t": -0.11986303329467773,
+    "aro_t": 0.22848331928253174,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just hard because, even when I try to engage, I feel like I'm faking it. I don't know what would make me feel more connected; it seems like everyone else is so naturally happy and I'm just ... not. Maybe if there was a way to not feel so out of place, but I don't know how to do that.",
+    "therapist": "I understand how challenging it can be to feel like you're faking it, and it's completely valid to feel out of place when your emotions are so different from others' joy. It might be helpful to explore some small steps that could make these gatherings feel a bit more manageable. For example, is there someone in your family you feel comfortable talking to about how you're feeling, or a specific activity you might enjoy that could help you feel more included?",
+    "condition": "baseline",
+    "val_t": -0.07026779651641846,
+    "aro_t": 0.11770963668823242,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I really appreciate your understanding, Luna. It's just hard because I feel so out of sync with everyone else's excitement. I don't think there's anyone in my family who really gets it, and even if there was, I'm not sure I could open up to them. It feels like it would just make things more awkward.",
+    "therapist": "I can see how opening up to family members might feel daunting, especially if you feel out of sync with their excitement. It's okay to take your time and find a way that feels safe for you. Have you ever considered expressing your feelings in a different way, like writing a letter to your grandmother or journaling about your thoughts? Sometimes, putting words to paper can help you process your emotions and might even give you a clearer sense of what you need.",
+    "condition": "baseline",
+    "val_t": -0.06555783748626709,
+    "aro_t": 0.14660418033599854,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestion, but I don't think writing a letter will really help. It feels like it might just make things more complicated. Plus, I'm not sure my grandmother would understand or take it seriously. It's hard because I feel like I'm not on the same wavelength as them, and I worry that anything I say might just be misunderstood.",
+    "therapist": "I understand your concerns about writing a letter and the worry that it might add to your feelings of being misunderstood. It's important to find a way to express yourself that feels right for you. What if we explored other ways to honor your grandmother's memory that might feel more meaningful and less daunting? For example, is there a special tradition or activity you could do on your own or with a close friend that might help you feel more connected to her?",
+    "condition": "baseline",
+    "val_t": -0.20466673374176025,
+    "aro_t": 0.07174539566040039,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It's just hard because I feel like any way I try to honor her memory, it's never enough or it feels off. Doing something with a friend sounds nice, but I worry that it might feel forced or not as personal.",
+    "therapist": "I can understand how it might feel like nothing is ever quite enough or feels right when you're trying to honor her memory. It's a very personal and emotional process, and it's okay to take your time and find what feels authentic to you. What if we explored some small, simple actions that might feel more personal and less forced? For example, is there a small ritual or activity that reminds you of your grandmother that you could do on your own, like cooking one of her favorite recipes or listening to music she loved?",
+    "condition": "baseline",
+    "val_t": 0.019649982452392578,
+    "aro_t": 0.12812626361846924,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I really appreciate that you're trying to help me find something that feels right, but I'm still a bit unsure. It feels like anything I do won't be enough to truly honor her memory. I worry that even small actions might feel forced or not genuine.",
+    "therapist": "I completely understand and respect your feelings about this, and it's okay to be unsure. Honoring someone's memory can be a deeply personal and sometimes overwhelming process. It might be helpful to take some time to reflect on what feels genuine to you, even if it's something small or simple. What are some of the things you remember most about your grandmother, and do any of those memories give you ideas for how you might feel more connected to her in your own way?",
+    "condition": "baseline",
+    "val_t": -0.13396131992340088,
+    "aro_t": 0.1369558572769165,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I really appreciate that, Luna. Thinking about my grandmother, the thing I remember most is her warmth and how she always made me feel safe and loved. But I feel a bit stuck because I don't know how to channel that into something meaningful. It's hard to find the right way to honor her memory without it feeling forced or like I'm just going through the motions.",
+    "therapist": "I can see how much her warmth and the sense of safety she gave you meant to you. It's understandable to feel stuck when trying to find a meaningful way to honor her memory. Sometimes, the simplest gestures can be the most powerful. What if you tried to create a small, personal ritual that captures that feeling of warmth and safety? For example, you could light a candle, play some of her favorite music, or even write down a few of your favorite memories of her. How do those ideas resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.028109312057495117,
+    "aro_t": 0.1500316858291626,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestions, Luna. It's just hard because I feel like nothing I do will ever fully capture what she meant to me. I worry that any ritual I create might feel inadequate or forced. But maybe I can try writing down some memories and see where that takes me.",
+    "therapist": "I understand how deeply you feel about your grandmother and how important it is to you that any tribute feels genuine and meaningful. Starting with writing down some memories is a great step, and it can be a way to explore and process your feelings at your own pace. As you write, you might find that certain memories or moments stand out and give you ideas for other ways to honor her. How do you feel about giving that a try, and is there a particular memory that comes to mind right now?",
+    "condition": "baseline",
+    "val_t": 0.07203495502471924,
+    "aro_t": 0.06710612773895264,
+    "text_emotion": "Neutral"
+  }
+]

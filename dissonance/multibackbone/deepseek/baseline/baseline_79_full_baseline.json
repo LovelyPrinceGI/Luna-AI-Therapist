@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just feel so lost since my grandma passed away last month. Some days I can barely get out of bed, and when I try to focus at work, my mind keeps drifting to memories of her. Part of me wonders if talking about it will even help - the pain feels too deep.",
+    "therapist": "I hear how deeply you're grieving your grandmother's passing, and how her absence has left you feeling lost in your daily life. It makes complete sense that focusing feels difficult when your heart is holding so much love and sorrow for her. What comes up for you when you notice your mind drifting to those memories at work?",
+    "condition": "baseline",
+    "val_t": -0.39971470832824707,
+    "aro_t": 0.1011425256729126,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "It's just...whenever I think about her at work, I feel this heavy weight in my chest and then immediately guilty for not being productive. I know she wouldn't want me to struggle like this, but that almost makes it worse because I feel like I'm letting her down by not moving forward. \n\nThe memories come up most when I'm doing routine tasks she used to help me with, like organizing my schedule - she was always so good at that.",
+    "therapist": "I hear how these moments at work bring both the physical weight of grief and layers of complicated feelings about honoring her memory. It's touching how aware you are of her caring nature coming through in those practical life skills she taught you. What would it feel like to imagine her response if she could see you being gentle with yourself during this painful time?",
+    "condition": "baseline",
+    "val_t": -0.11096489429473877,
+    "aro_t": 0.1082848310470581,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I want to believe she'd be proud of me for trying, but honestly it just makes me feel worse when I imagine her watching me struggle. Like I'm letting her down by not being stronger. The guilt creeps in because she always handled hard times with so much grace, and I can't seem to do that.",
+    "therapist": "It sounds like you're holding yourself to an incredibly high standard, comparing your grief process to how your grandmother handled hardship - which only adds to the pain you're already carrying. What if her grace wasn't about being strong all the time, but about allowing herself to feel and move through challenges at her own pace?",
+    "condition": "baseline",
+    "val_t": -0.2746124267578125,
+    "aro_t": 0.11783230304718018,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I never thought about it that way. My grandma always seemed so put together, even when she lost grandpa. But you're right, maybe she did have moments of breaking down that I just didn't see. It's just... I feel so weak when I can't keep it together like she seemed to. \n\nThe idea that her strength might have included moments of vulnerability is comforting, but part of me still thinks I should be handling my grief better. Like if I was stronger, I wouldn't need to cry so much or feel so lost.",
+    "therapist": "It's understandable that you'd want to emulate your grandmother's strength during difficult times, but grief isn't something we \"handle\" - it's something we move through in our own way and time. What if allowing yourself to feel this deeply isn't a sign of weakness, but a testament to how much you loved her? How might it feel to give yourself permission to grieve without judging the process?",
+    "condition": "baseline",
+    "val_t": -0.28168630599975586,
+    "aro_t": 0.14328539371490479,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it's not just about judging myself. When I let myself really feel the grief, it's like this overwhelming wave that I'm afraid will never stop. My grandmother always kept going no matter what, and I feel like if I give in to these feelings, I'll just drown in them. \n\nAnd honestly? The idea of \"permission to grieve\" sounds nice in theory, but in reality, I have work and responsibilities - I can't just fall apart whenever the sadness hits. People are counting on me to function.",
+    "therapist": "You're describing such an important tension - between honoring your very real grief and meeting the practical demands of your life. It makes sense that this feels overwhelming when you're holding both the depth of your loss and your responsibilities. What small ways might you create space for your grief while still maintaining what needs to get done?",
+    "condition": "baseline",
+    "val_t": -0.17774903774261475,
+    "aro_t": 0.19487357139587402,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I don't know...every time I try to make space for the grief, it just swallows me whole and then I can't function at all. Last week I took a \"grief break\" during work and ended up crying in the bathroom for an hour, completely missing an important meeting. It feels like there's no safe way to feel this without everything falling apart.",
+    "therapist": "It sounds like that experience left you feeling frightened by the intensity of your emotions - like opening the door even a little lets the whole storm rush in. Would it feel safer to explore ways to honor your grief in smaller, more contained moments, rather than trying to push through or completely let go?",
+    "condition": "baseline",
+    "val_t": -0.42982053756713867,
+    "aro_t": 0.18489301204681396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about smaller moments, but I'm scared that if I start letting myself feel even a little bit of grief, it'll completely overwhelm me. Last time I tried that, I ended up crying for hours and couldn't function the rest of the day. It feels like there's no safe middle ground between completely shutting down and falling apart.",
+    "therapist": "I hear how frightening that experience was, and how it's left you feeling like there's no safe way to touch your grief without being pulled under completely. That makes me wonder - what would it look like to dip just one toe in at a time, like looking at a single photo for two minutes with a timer set?",
+    "condition": "baseline",
+    "val_t": -0.41687655448913574,
+    "aro_t": 0.20721018314361572,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know...even looking at one photo feels dangerous. Last time I tried that, I ended up crying for hours and couldn't get out of bed the next day. What if setting a timer just makes me feel worse when I can't stop after it goes off?",
+    "therapist": "I hear how even small steps feel risky when past attempts have left you feeling out of control - that makes complete sense given your experience. What if we explored ways to ground yourself before and after these moments, like having a comforting ritual planned immediately afterward?",
+    "condition": "baseline",
+    "val_t": -0.4319518804550171,
+    "aro_t": 0.1763296127319336,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I like the idea of having something comforting planned, but I worry it won't be enough when the anxiety really hits. Last time I tried grounding techniques, my mind just kept racing right past them. What if I still feel overwhelmed even with the ritual?",
+    "therapist": "I hear your skepticism - it makes sense that you'd doubt these suggestions when past attempts haven't fully contained the storm of your emotions. What if we thought of these rituals not as a guaranteed \"off switch,\" but as life preservers that keep you afloat until the waves pass?",
+    "condition": "baseline",
+    "val_t": -0.13931596279144287,
+    "aro_t": 0.2609454393386841,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I guess that makes sense in theory, but when I'm in the middle of a panic attack, even simple breathing exercises feel impossible. My mind just races with thoughts like \"This isn't working\" and \"I'm going to lose control.\" It's hard to believe anything can help in those moments. \n\nI do like the life preserver analogy though - maybe I've been expecting too much from coping skills. But how do I actually remember to use them when everything feels so overwhelming?",
+    "therapist": "You're naming such an important truth - that in the peak of panic, even simple tools can feel impossibly out of reach. What if we explored making these supports more visible and accessible, like writing one grounding phrase on your phone case?",
+    "condition": "baseline",
+    "val_t": -0.1041029691696167,
+    "aro_t": 0.15895378589630127,
+    "text_emotion": "Angry"
+  }
+]

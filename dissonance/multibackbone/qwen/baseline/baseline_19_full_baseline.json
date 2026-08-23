@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. After losing my job last month, I feel completely overwhelmed by financial insecurity and I’m not sure how I’m going to support my family. It’s hard to see a way forward, and I keep feeling like maybe therapy isn’t going to help with something this big.",
+    "therapist": "Hi there, I'm really sorry to hear about what you're going through—it sounds incredibly tough. It’s completely understandable to feel overwhelmed and uncertain about the future, especially with the added pressure of supporting your family. How have you been coping with these feelings so far, and what do you think might be a small step we could take together to start addressing some of these challenges?",
+    "condition": "baseline",
+    "val_t": -0.34419047832489014,
+    "aro_t": 0.15798485279083252,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to cope by just keeping busy, but it feels like a Band-Aid solution. I'm not sure what a small step would even look like right now—it’s hard because I feel so stuck and like everything I do isn’t enough.",
+    "therapist": "I can see how keeping busy might feel like a temporary fix, and it’s totally normal to feel stuck and overwhelmed. It’s important to acknowledge that you’re doing the best you can, even if it doesn’t feel like enough right now. What if we explore one small, manageable action you could take today or this week that might give you a sense of progress or control, even if it’s just a tiny step? What comes to mind when you think about that?",
+    "condition": "baseline",
+    "val_t": -0.06778836250305176,
+    "aro_t": 0.17143166065216064,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It’s just hard because it feels like every small step I take doesn’t make a difference. I’ve tried to pick up new hobbies or organize my space, but it all feels so overwhelming and I end up giving up. I don’t know if I can find something that will actually help me feel better.",
+    "therapist": "I understand how discouraging it can be when it feels like small steps aren’t making a difference. It’s really tough to keep pushing forward when you’re already feeling overwhelmed. Sometimes, just the act of trying to take a small step can be meaningful, even if it doesn’t feel like it’s changing much right away. How about we try to identify one very small, specific action that feels doable for you today or this week, even if it’s just a five-minute task? What might that look like for you?",
+    "condition": "baseline",
+    "val_t": -0.10596573352813721,
+    "aro_t": 0.15101540088653564,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I’ve tried so many small steps before, and they didn’t really make a difference. I guess I could try something small, but I’m worried it won’t feel like it’s enough to make me feel better. What kind of five-minute task do you think might work for me?",
+    "therapist": "I completely understand your concern—it’s tough when previous efforts haven’t brought the relief you hoped for. It’s okay to start with something that feels manageable and might not solve everything, but it can still be a way to regain a sense of control and accomplishment. How about we try something simple like taking a five-minute break to do a quick mindfulness exercise, like focusing on your breath or noticing the sensations around you? Or maybe writing down three things you’re grateful for, even if they’re small? What do you think about trying one of these?",
+    "condition": "baseline",
+    "val_t": 0.0322718620300293,
+    "aro_t": 0.11875259876251221,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestions, but I still feel a bit skeptical. It's hard for me to believe that something as simple as a five-minute break or writing down what I'm grateful for will make a real difference when my anxiety and loneliness feel so overwhelming. It just seems like such a small step compared to the big problems I'm facing.",
+    "therapist": "I understand your skepticism, and it’s completely valid to feel that way given the magnitude of what you’re facing. It’s important to acknowledge that these small steps are not meant to solve everything, but they can help chip away at the overwhelm and give you a sense of small victories. Maybe we can start with something that feels a bit more aligned with your current challenges, like writing down one small goal for the day that feels achievable, even if it’s just making a cup of tea or going for a short walk. What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.16607320308685303,
+    "aro_t": 0.1542501449584961,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and I do appreciate the idea of small steps. But it's hard because even those small things can feel overwhelming sometimes. Like, making a cup of tea sounds simple, but even that can feel like a big deal when I'm already feeling so anxious and drained.",
+    "therapist": "I hear you, and it’s completely understandable that even small tasks can feel overwhelming when you’re already dealing with so much anxiety and drain. It’s important to recognize and validate those feelings. Maybe we can focus on finding a way to make those small tasks feel a bit more manageable. For example, what if we break it down even further—like setting a timer for just one minute to get out the teabag, or stepping outside for a single deep breath? What do you think about trying something that tiny, just to see if it feels a bit more doable?",
+    "condition": "baseline",
+    "val_t": -0.15396785736083984,
+    "aro_t": 0.1745682954788208,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel overwhelming, and breaking it down into smaller steps makes sense in theory. But I still worry that even those tiny steps will be too much, or that I'll just end up feeling guilty if I can't even manage a minute. It's hard to believe that such small actions will make a difference.",
+    "therapist": "I completely understand your concerns, and it’s totally normal to feel that way. It’s important to be gentle with yourself and recognize that feeling overwhelmed is a valid response to what you’re going through. Let’s try to approach these tiny steps with a sense of curiosity and self-compassion, rather than pressure or guilt. What if we frame it as an experiment to see how you feel after taking that tiny step, without any expectations? How about we start with something as simple as taking three deep breaths and noticing how that feels in your body? What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.06604528427124023,
+    "aro_t": 0.1496274471282959,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. Taking deep breaths sounds simple, but I worry that even that might feel like another thing I have to do right. I know it's supposed to help, but I'm just so used to feeling like I'm failing at everything, even the small things. How do I make sure I don't end up feeling guilty about this too?",
+    "therapist": "I understand how daunting even the smallest tasks can feel when you’re already struggling with feelings of failure and guilt. It’s really important to approach these steps with kindness and without the pressure to do them \"right.\" Let’s try to view taking deep breaths as a gentle moment of self-care, rather than another task. You can think of it as a moment to pause and be present with yourself, without any judgment. What if we try it together right now, and you can just notice how it feels, without any expectations or pressure? How does that sound?",
+    "condition": "baseline",
+    "val_t": -0.20521116256713867,
+    "aro_t": 0.13531982898712158,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It does feel less daunting when you put it that way. But I still worry that I won’t be able to do it right, or that it won’t make a difference. I’ll try it, though, and see how it goes.",
+    "therapist": "I’m glad it feels a bit less daunting, and it’s totally okay to have those worries. The key is to approach it with curiosity and self-compassion, rather than perfection. Let’s try it together now. Take a moment to sit comfortably, and let’s take three deep breaths together. Just focus on the sensation of the breath moving in and out of your body. How does it feel to take those breaths?",
+    "condition": "baseline",
+    "val_t": 0.06855034828186035,
+    "aro_t": 0.0764462947845459,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. Taking those deep breaths does help a bit, but I still feel a knot in my stomach. I know it’s supposed to be about self-compassion, but it’s hard not to feel like I’m doing it wrong or not getting it right.",
+    "therapist": "I’m glad that the deep breaths helped a little, and it’s completely normal to still feel some tension or discomfort. It’s really hard to shake off those feelings of not doing things right, especially when you’re already under so much stress. Self-compassion is about being kind to yourself, even when things don’t feel perfect. It’s okay to acknowledge that you’re still feeling that knot in your stomach and that it’s a natural part of the process. What do you think might be a kind and understanding message you could say to yourself right now, to help ease some of that tension?",
+    "condition": "baseline",
+    "val_t": -0.08264100551605225,
+    "aro_t": 0.13154137134552002,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, it's been a tough couple of weeks. Since losing my job at the tech company last February, I've been feeling really overwhelmed by financial insecurity. I know I need to update my resume, but every time I sit down to do it, I just feel stuck and unsure about how to move forward.",
+    "therapist": "Hi there, I'm so sorry to hear that you've been feeling overwhelmed by everything. It's completely understandable to feel stuck and unsure, especially when facing financial insecurity. Can you tell me more about what specifically feels difficult when you try to update your resume?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30874478816986084,
+    "aro_t": 0.22026371955871582,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's just hard because I feel like I don't have much to put on my resume. I've been in the same job for a while, and I don't think I've gained a lot of new skills. Plus, I'm always so anxious about making it sound good enough. It feels like everything I write isn't good enough.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to make your resume perfect, and that can definitely make it hard to get started. It's natural to feel anxious about showcasing your skills, especially if you feel you haven't gained many new ones recently. Can we explore some of the experiences and skills you do have that might be valuable to potential employers?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18127858638763428,
+    "aro_t": 0.23727822303771973,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, but it's hard for me to see the value in the experiences I've had. I feel like I've been stuck in the same routine for so long, and it seems like everyone else is moving forward. It's tough to pinpoint what I have to offer that's unique or valuable.",
+    "therapist": "I can really understand how challenging it feels to see value in your experiences, especially when it seems like others are moving forward. It's important to remember that everyone's journey is unique, and even routine experiences can provide valuable skills and insights. What are some of the strengths or qualities you think you've developed through your routine that could be attractive to employers?",
+    "condition": "emotion_text_only",
+    "val_t": -0.003485560417175293,
+    "aro_t": 0.08985412120819092,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's hard for me to see those strengths sometimes, though. I feel like my routine just makes me feel stuck and unremarkable, and I worry that employers won't see the value in what I've been doing. It's easy to get caught up in feeling like I'm not measuring up to others.",
+    "therapist": "I completely understand how difficult it can be to see your own strengths when you're feeling stuck and unremarkable. It's natural to compare yourself to others and worry about measuring up, but it's important to recognize the unique value you bring to the table. Can we take a moment to list some of the positive qualities or skills you've developed, even if they seem small or routine to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.002666950225830078,
+    "aro_t": 0.04791820049285889,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you saying that, but it's hard for me to think of anything positive right now. Everything feels so small and insignificant. I mean, I don't really have any standout skills or qualities that make me special. It's hard to see the value in the things I do when they seem so ordinary.",
+    "therapist": "I hear you, and it's completely understandable to feel that way when you're in a tough spot. It can be really challenging to see the positive aspects of your routine and skills when you're feeling down. Let's try to break it down a bit. Can you think of any times when you've received positive feedback or recognition for something you did, even if it seemed small at the time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08011436462402344,
+    "aro_t": 0.04988062381744385,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you trying to help me see the positive, but it's tough. I feel like even the smallest things I do right get overshadowed by my mistakes. It's hard to remember those positive moments when I'm so focused on what I'm doing wrong.",
+    "therapist": "I completely understand how tough it can be to focus on the positive when you feel like your mistakes are overshadowing everything else. It's a common struggle, and it can really make it hard to see your own worth. Can we try to balance the scale a bit by identifying some small wins or moments of success, even if they seem minor? What are some things you've done well recently, no matter how small they might seem?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07451176643371582,
+    "aro_t": 0.14374136924743652,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that, Luna. It's just hard because my mind always goes to the negative stuff. Like, I feel like even the smallest things I do right get overshadowed by my mistakes. I don't know if I can find any small wins right now. It feels like everything I try to do well just ends up falling apart.",
+    "therapist": "I can really understand how your mind tends to focus on the negative, and it's completely normal to feel that way, especially when you're under stress. It sounds like you're being very hard on yourself, and that can make it tough to see your own successes. Can we try a different approach? Let's think about a recent situation where you felt you made a mistake. Can you recall any small part of that situation where you handled things well, even if it didn't go perfectly?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08340764045715332,
+    "aro_t": 0.11802148818969727,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you saying that, Luna. It's just hard for me to see the good in those situations. I feel like any small thing I do right gets overshadowed by the mistakes. But I can try to think about it. There was that meeting last week where I felt I messed up, but maybe I did handle the initial presentation well. It's just hard to focus on that when the rest of it didn't go as planned.",
+    "therapist": "I understand how challenging it can be to see the good in those situations, especially when the mistakes feel more prominent. It's great that you're willing to try and look at the positives, even if it's difficult. Recognizing that you handled the initial presentation well is a step in the right direction. Can you think of any other moments in that meeting where you might have done something well, even if it was just a small part?",
+    "condition": "emotion_text_only",
+    "val_t": -0.011116385459899902,
+    "aro_t": 0.06692624092102051,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I could try to think of other moments, but it's really hard to focus on the positives when I feel like I messed up so badly. I mean, I did stumble a lot during the Q&A, and that's what everyone probably remembers. It's just tough to see anything good in that.",
+    "therapist": "I can see how tough it is for you to focus on the positives, especially when you feel like you stumbled during the Q&A. It's natural for our minds to latch onto the mistakes, but it's important to give yourself credit for the parts you did handle well. Can you think of any specific moments during the Q&A where you might have provided a good answer or showed your knowledge, even if it was just one or two questions?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17994844913482666,
+    "aro_t": 0.027871131896972656,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it's really hard for me to recall anything positive from that Q&A. I felt so flustered and unsure of myself, and I keep replaying the moments where I stumbled. I don't think I did anything well enough to feel good about it.",
+    "therapist": "I understand how difficult it is to recall anything positive when you're feeling flustered and unsure. It's natural to replay the moments where you stumbled, and that can make it hard to see the good. Can we try to take a step back and look at the bigger picture? Sometimes, even in moments of struggle, there are small things we can learn or take away that can be helpful for the next time. What do you think you could take away from that experience that might help you feel more prepared for future Q&As?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2149515151977539,
+    "aro_t": 0.18349778652191162,
+    "text_emotion": "Angry"
+  }
+]

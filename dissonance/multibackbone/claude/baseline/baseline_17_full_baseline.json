@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really stretched thin lately, like no matter how much I try to manage everything, it's never enough. Between studying for finals, working my part-time job, and keeping up with my extracurriculars, I barely have time to breathe, let alone actually feel prepared for anything. Honestly, I'm not even sure talking about it is going to change the fact that I still have all these deadlines staring me down.",
+    "therapist": "It sounds like you're carrying an enormous amount right now, and that exhaustion you're feeling makes complete sense given everything on your plate. I hear a little skepticism about whether talking will help, and I want to honor that — you're right that our conversation won't erase your deadlines, but it might help you find a clearer path through them rather than feeling buried underneath. I'm curious, when you imagine \"having it all together,\" what does that actually look like to you — and is that standard something you'd hold a close friend to as well?",
+    "condition": "baseline",
+    "val_t": -0.278896689414978,
+    "aro_t": 0.1421058177947998,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, when I picture \"having it all together,\" it's like... never dropping a ball, always being on top of emails and deadlines, not needing to ask for help. And no, I wouldn't expect that from a friend — I'd tell them it's okay to struggle — but somehow that logic just doesn't apply to me when I'm in it. It's like I know the \"right\" answer intellectually but it doesn't actually touch the guilt I feel when I fall behind.",
+    "therapist": "What you just named is so important — that gap between *knowing* something and actually *feeling* it is real, and it's not a flaw in your thinking, it's just how deeply these standards have taken root for you. It sounds like there's a belief underneath all this that struggling or needing help means something about your worth, even though you'd never apply that logic to someone you love. What do you think that belief is protecting you from — like, what are you afraid might happen if you did let yourself off the hook, even just a little?",
+    "condition": "baseline",
+    "val_t": -0.19612157344818115,
+    "aro_t": 0.07847142219543457,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I think... if I let myself off the hook, I'm afraid I'll just stop trying altogether. Like, the guilt and the pressure are the only things keeping me functional, and without them I'd just fall apart or become someone who doesn't care about anything. It sounds ridiculous when I say it out loud, but honestly that fear feels very real to me.",
+    "therapist": "It doesn't sound ridiculous at all — that fear makes a lot of sense, and it's actually a really common belief that our inner critic tries to sell us: *\"I'm the only thing standing between you and total collapse.\"* But I want to gently challenge that idea with something you already showed me today — you reached out, you reflected honestly, you named something really vulnerable, and none of that required guilt to motivate it. What if the part of you that cares deeply about your life isn't the pressure and the guilt, but something quieter that was there all along?",
+    "condition": "baseline",
+    "val_t": -0.3617030382156372,
+    "aro_t": 0.23522472381591797,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I hear what you're saying, and part of me wants to believe it... but I'm not sure I trust that quieter part yet. Like, what if it's not strong enough? The guilt at least feels loud and reliable, even if it's exhausting, and I guess I'm scared that without it I'd just drift.",
+    "therapist": "That fear of drifting makes so much sense — when something has felt like your anchor for so long, even a painful anchor, letting go of it feels genuinely risky, not weak. But I want to reflect something back to you: you've described that guilt as *exhausting*, which means it's actually costing you energy rather than reliably giving it to you, so it may be less of a sturdy engine than it feels like in the moment. What's one small thing you've done recently — even something tiny — that you showed up for *not* because of guilt, but because some part of you actually wanted to or valued it?",
+    "condition": "baseline",
+    "val_t": -0.24556469917297363,
+    "aro_t": 0.11650073528289795,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I sat with that for a second, because honestly my first instinct was to say \"I can't think of anything\" and just move on. But then I remembered that last Tuesday I made myself a real breakfast — not just coffee — and I actually enjoyed it, not because I felt like I had to take care of myself out of some obligation, but because I was just... hungry and I wanted something warm. It feels almost embarrassingly small to say out loud, though, like it doesn't count compared to everything else I'm failing at.",
+    "therapist": "That moment is *not* too small — it's actually exactly the kind of evidence we're looking for, because it shows that a part of you naturally moves toward care and nourishment without needing guilt to force it. And I noticed something: you almost talked yourself out of sharing it, which tells me your mind has a habit of dismissing the quiet, gentle wins while amplifying everything it labels a failure. What do you think it would mean about you if you let that breakfast moment count just as much as any deadline you've met?",
+    "condition": "baseline",
+    "val_t": -0.03468477725982666,
+    "aro_t": 0.19986975193023682,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I guess if I let it count... it would mean I'm not completely failing at taking care of myself, which honestly feels uncomfortable to even say out loud. Like my brain immediately wants to argue back and say \"but that's such a low bar, anyone can make breakfast.\" I think I'm so used to measuring myself against these big achievements that anything quiet or small just doesn't feel like it deserves credit.",
+    "therapist": "That automatic comeback — *\"but that's such a low bar\"* — is worth pausing on, because it reveals that your measuring stick may be set in a place where almost nothing you do can ever fully count, which is an exhausting and kind of impossible game to win. The discomfort you felt just *saying* \"I'm not completely failing\" is really telling — somewhere along the way, you may have learned that self-compassion feels dangerous or unearned, rather than something you simply deserve as a human being. I'm wondering, where do you think that incredibly high bar came from — was there a time or a place in your life where you first learned that only the big things counted?",
+    "condition": "baseline",
+    "val_t": -0.0734182596206665,
+    "aro_t": 0.10934126377105713,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I think it came from home, honestly. My dad was never really impressed by anything unless it was exceptional — like, getting a B wasn't met with \"good job,\" it was met with \"what happened to the other points.\" I guess I just... internalized that, and now I'm basically running his voice in my head all the time, except I can't ever actually satisfy it because he's not even the one setting the standard anymore — I am.",
+    "therapist": "What you just articulated is incredibly insightful — you've recognized that you've become the one holding the whip now, which means you also have more power to change that dynamic than it might feel like in this moment. It makes so much sense that a child who needed approval and safety would absorb that voice completely, because back then it *mattered* what he thought in a very real way — but you're not that child needing to earn his approval anymore, even if the voice hasn't gotten that update yet. I'm curious, if you could talk back to that internalized voice — not your dad, but the version of it that lives in you now — what's something you wish it understood about what your life actually looks like right now?",
+    "condition": "baseline",
+    "val_t": -0.08746480941772461,
+    "aro_t": 0.07133913040161133,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "That question kind of stops me in my tracks, honestly. I think I'd want it to understand that I'm not failing — like, I have a job, I pay my bills, I have people who actually care about me — but even saying that out loud feels weird, like I'm bragging or making excuses. It's like the voice already has a comeback ready before I even finish the sentence.",
+    "therapist": "What you just described — that the voice has a comeback loaded before you even finish your own thought — shows how practiced and automatic it's become, almost like it doesn't even need you to finish speaking before it rushes to dismiss you. And I want to gently name something: listing the real, concrete facts of your life — job, bills, people who love you — isn't bragging or making excuses, it's just *evidence*, the same kind of evidence you'd offer a friend to help them see clearly. What do you think it says about the fairness of that inner voice if it refuses to let actual evidence count?",
+    "condition": "baseline",
+    "val_t": -0.20490849018096924,
+    "aro_t": 0.18515241146087646,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me gets it logically — like, yeah, if the voice won't even consider evidence, that's not fair. But there's this other part of me that's worried that if I start pointing to the good things as \"evidence,\" I'm just going to feel like I'm making excuses for why I'm not doing more, or why I'm still struggling when I supposedly have so much going for me. It's like the voice is already waiting to use that against me too — \"see, you have all this and you're still a mess.\"",
+    "therapist": "That reframe the voice is ready to use — *\"you have so much and you're still a mess\"* — is actually a really cruel trick, because it takes any evidence of your capability and turns it into another reason to feel ashamed, which means the game is rigged so you genuinely cannot win. I want to name what I'm observing: you came in today feeling stretched thin, and in this conversation alone you've shown real self-awareness, identified where this voice came from, and articulated your own life clearly and honestly — that's not someone who is \"a mess,\" that's someone doing hard inner work while also juggling a very full life. I'm wondering, if the voice is willing to use *everything* against you — your struggles and your strengths alike — what would it actually look like to stop playing by its rules, even just for a moment?",
+    "condition": "baseline",
+    "val_t": -0.25323784351348877,
+    "aro_t": 0.1862703561782837,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me actually wants to believe it — like, there's a flicker of something when you put it that way, that the game is rigged. But then immediately another part jumps in and says \"see, now you're just accepting excuses for yourself,\" which I guess kind of proves your point, but it doesn't make it feel any less real. I honestly don't know what it would look like to stop playing by its rules, because I'm not even sure I'd recognize when I'm doing it versus when I'm just being honest with myself about my actual shortcomings.",
+    "therapist": "That flicker you noticed — that tiny moment of \"maybe the game is rigged\" — is actually really significant, because it means some part of you is already beginning to question the voice's authority, even if it's small and gets quickly shouted down. You've also just named something really important: the difference between the voice's harsh judgment and *genuine honest self-reflection*, and that's actually a distinction worth exploring, because they don't feel the same — one tends to leave you feeling ashamed and stuck, while real self-honesty usually points toward something actionable and feels more like clarity than punishment. When you think about a recent moment where you fell short of something, can you notice whether what followed felt more like useful information that helped you move forward, or more like a verdict that just made you feel worse about yourself?",
+    "condition": "baseline",
+    "val_t": -0.12139034271240234,
+    "aro_t": 0.12769639492034912,
+    "text_emotion": "Angry"
+  }
+]

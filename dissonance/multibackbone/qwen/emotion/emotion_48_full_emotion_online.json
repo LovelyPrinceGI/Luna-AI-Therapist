@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. My job at the law firm is super demanding, and I also have to finish my master's degree by the end of the semester. It feels like there's just not enough time in the day, and I'm starting to wonder if I can actually do it all.",
+    "therapist": "Hey there, it sounds like you're under a lot of pressure right now, and it's completely understandable to feel overwhelmed with everything on your plate. It’s important to acknowledge how challenging this is. Have you had a chance to break down your tasks into smaller, more manageable steps?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19198215007781982,
+    "aro_t": 0.2763078212738037,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, I've tried breaking things down, but it still feels like there's so much to do. It's hard to see the smaller steps when everything feels so big and overwhelming. I guess I just worry that even if I break things down, I'll still feel stuck or anxious.",
+    "therapist": "It’s completely normal to feel that way when everything seems so big. Breaking tasks down can help, but it’s also important to recognize that it’s okay to feel anxious and overwhelmed sometimes. What are some strategies you’ve used in the past that have helped you manage your anxiety or feel more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25166428089141846,
+    "aro_t": 0.21842145919799805,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I've tried a few things, like deep breathing and mindfulness exercises, but sometimes they just don't seem to work as well as I hope. It's hard because I feel like I'm just pushing the anxiety away rather than really dealing with it.",
+    "therapist": "It sounds like you’re putting in a lot of effort to manage your anxiety, and it can be frustrating when those techniques don’t feel as effective as you’d like. It’s important to remember that dealing with anxiety is a process, and it’s okay to seek out different strategies that might work better for you in the moment. Have you considered talking to someone who can provide some additional support, like a friend or a colleague, or perhaps exploring other relaxation techniques?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11912596225738525,
+    "aro_t": 0.12685883045196533,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it's hard because I often feel like a burden to others when I talk about my anxiety. I worry that they won’t understand or will get tired of hearing about it. Plus, I’ve tried a few relaxation techniques, but they don’t seem to make a big difference. It feels like I’m just spinning my wheels.",
+    "therapist": "I can understand how difficult it is to feel like a burden when you’re struggling with anxiety, and it’s natural to worry about how others might react. It’s important to find a balance where you can express your feelings without overwhelming yourself or others. Have you considered finding a supportive community or a professional who specializes in anxiety management? Sometimes, having a neutral space to discuss these feelings can be really helpful. What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10330724716186523,
+    "aro_t": 0.10721123218536377,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I’ve tried reaching out before, and it didn’t go well. I worry that joining a support group or seeing another professional might just make me feel more isolated or misunderstood. How do I know it will be different this time?",
+    "therapist": "I understand that past experiences can make it hard to feel hopeful about trying new approaches, and it’s totally valid to have those worries. It’s important to take your concerns seriously and find a way that feels right for you. Have you thought about what specific aspects of previous support didn’t work well, and how you might look for something different this time? For example, what kind of environment or approach do you think would help you feel more understood and supported?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13460242748260498,
+    "aro_t": 0.09205520153045654,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I've definitely thought about it a lot, and I think a big part of it is that I often feel like people don't really get what I'm going through. It’s hard to open up when I feel like my anxiety and guilt are being misunderstood or minimized. I guess I’m just not sure how to find a space where I feel truly heard and supported.",
+    "therapist": "It’s really important to find a space where you feel heard and understood, especially when dealing with anxiety and guilt. It’s completely valid to want a place where your feelings are taken seriously. Have you considered looking for a therapist or support group that specializes in anxiety and has a reputation for providing a safe, non-judgmental space? Sometimes, finding the right fit can make a big difference. What do you think about exploring that option?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14984989166259766,
+    "aro_t": 0.051566243171691895,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I feel a bit skeptical. I've tried therapy before, and it didn't seem to help much. It's hard to find someone who really gets what I'm going through, and I worry that it might just be another disappointment.",
+    "therapist": "I understand your skepticism, and it’s completely understandable to feel that way after past experiences. It can be really discouraging when therapy doesn’t seem to help as much as you’d hoped. It’s important to find someone who truly resonates with you and your experiences. Have you thought about what specific qualities or approaches you’re looking for in a therapist this time? Sometimes, having a clearer idea of what you need can help in finding the right fit.",
+    "condition": "emotion_text_only",
+    "val_t": -0.21686625480651855,
+    "aro_t": 0.028795242309570312,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "You know, I’ve thought about it, but it’s hard to pinpoint exactly what I’m looking for. I feel like I’ve tried so many different approaches, and nothing seems to stick. It’s almost like I’m not sure if I even know what would help anymore.",
+    "therapist": "It sounds like you’ve been through a lot and are feeling a bit uncertain about what might help next. It’s completely normal to feel that way after trying different approaches. Sometimes, taking a step back and reflecting on what hasn’t worked in the past can give us clues about what might be more effective. What are some things you’ve noticed about the approaches that haven’t felt right for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1618053913116455,
+    "aro_t": 0.0774310827255249,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I think a lot of the things I’ve tried just feel like temporary fixes. I start feeling better for a little while, but then the anxiety and loneliness come back, and sometimes it feels even worse than before. It’s hard to know what’s really going to make a difference in the long run.",
+    "therapist": "It sounds like you’ve been through a lot of ups and downs, and the temporary nature of the relief you’ve found can be really discouraging. It’s understandable to feel unsure about what will make a lasting difference. One thing that might help is to focus on building a toolkit of strategies that you can turn to consistently, even when the relief isn’t immediate. What are some things you might be willing to try or revisit that could help you build that toolkit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18409478664398193,
+    "aro_t": 0.07000482082366943,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea of a toolkit, but it feels like I've tried so many things already, and they don't seem to stick. It's hard to stay motivated when the relief is so fleeting. I worry that adding more things to try might just make me feel more overwhelmed and like I'm failing.",
+    "therapist": "I can understand how exhausting it feels to try so many things and still not find lasting relief. It’s completely normal to feel demotivated when the solutions seem temporary. It might be helpful to focus on small, manageable steps that don’t add to your overwhelm. What are some simple things you can do each day that bring you a little bit of comfort or peace, even if they’re small?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10123836994171143,
+    "aro_t": 0.19906246662139893,
+    "text_emotion": "Angry"
+  }
+]

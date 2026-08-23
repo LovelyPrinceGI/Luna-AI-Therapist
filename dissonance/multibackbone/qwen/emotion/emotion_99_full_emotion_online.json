@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately with my new job at the tech startup. The hours have been crazy, and I feel like I'm constantly behind, even though I'm working late almost every day. I know I should be grateful for the opportunity, but it's starting to feel really tough.",
+    "therapist": "Hi there! It sounds like you're going through a really challenging time with your new job. It's completely understandable to feel overwhelmed when the demands are so high, even though you recognize the value of the opportunity. How are you managing your stress and workload day to day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1741189956665039,
+    "aro_t": 0.16460740566253662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really tough. I try to manage my stress by staying late at work to get everything done, but it just feels like there's never enough time. I end up feeling exhausted and guilty when I can't keep up, and I worry that I'm not meeting everyone's expectations.",
+    "therapist": "I can see how exhausting and stressful this must be for you. It’s natural to feel guilty and worried about meeting expectations, especially when you’re putting in so much effort. Have you considered setting specific boundaries or talking to your manager about your workload to see if there’s a way to make it more manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23217380046844482,
+    "aro_t": 0.1369462013244629,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I really appreciate your understanding, Luna. It’s just hard because I feel like I’m already at my limit, and I don’t want to come across as lazy or not pulling my weight. I’m worried that if I set boundaries or talk to my manager, it might make things worse or affect my job security.",
+    "therapist": "I understand how challenging and stressful this situation is for you. It’s completely normal to feel concerned about how setting boundaries might be perceived, especially when you’re already pushing yourself to the limit. Have you thought about starting the conversation with your manager by sharing some of the positive outcomes you’ve achieved and expressing your commitment to the team, while also mentioning the challenges you’re facing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20998239517211914,
+    "aro_t": 0.1277230978012085,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate the suggestion, but I'm still really worried about how it will come across. It feels like a delicate balance—wanting to show my dedication but also not wanting to seem like I’m complaining or making excuses. It’s hard because I don’t want to create more tension at work.",
+    "therapist": "I can totally understand how delicate this balance feels for you. It’s natural to worry about how your concerns might be perceived, especially when you’re committed to your role and the team. Have you thought about framing your conversation with your manager in terms of how you can continue to contribute effectively and maintain your well-being, which ultimately benefits the team?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08647787570953369,
+    "aro_t": 0.08368682861328125,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that perspective, but I'm still really nervous about how it will come across. I feel like if I bring up my well-being, it might seem like I’m not fully committed to the job. It’s hard because I want to be seen as a valuable team member, but I also need to take care of myself.",
+    "therapist": "I understand how nerve-wracking it can be to have these conversations, especially when you’re so dedicated to your role. It’s important to find a way to express your commitment while also advocating for your well-being. Have you considered starting the conversation by highlighting a recent success or project you’ve led, and then gently bringing up how managing your workload more effectively could help you continue to perform at your best?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14232301712036133,
+    "aro_t": 0.12177586555480957,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you're saying, and it makes sense, but I'm still really worried about how my boss will react. I feel like I'm walking on eggshells, and I don't want to come off as ungrateful or not committed to the team. It's hard because I really do care about my job, but I'm just overwhelmed.",
+    "therapist": "I can see how much you care about your job and your team, and it’s completely understandable to feel worried about how your boss will react. It’s a tough position to be in, especially when you’re already feeling overwhelmed. Have you thought about starting the conversation by expressing your gratitude and commitment, and then gently bringing up the specific challenges you’re facing? This might help frame your concerns in a way that shows your dedication while also addressing your well-being.",
+    "condition": "emotion_text_only",
+    "val_t": -0.28397274017333984,
+    "aro_t": 0.2420189380645752,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your suggestion, Luna, and I do want to show my boss that I'm committed. But I'm really worried that if I bring up my challenges, it might come across as me not being able to handle the job. It's hard because I don't want to seem like I'm making excuses or complaining.",
+    "therapist": "I can really understand how tough this is for you. It’s natural to worry about how your concerns might be perceived, especially when you’re committed to your role. It might help to frame your conversation by focusing on solutions and how you can continue to contribute effectively. How do you think you could prepare for this conversation to make it as constructive as possible?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11249792575836182,
+    "aro_t": 0.143990159034729,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. I just feel so anxious about how this conversation will go. Focusing on solutions sounds good, but I'm worried I'll freeze up and not be able to articulate my thoughts clearly. It's hard because I already feel so vulnerable going into it.",
+    "therapist": "I can really understand how anxious and vulnerable you must be feeling about this conversation. It’s totally normal to worry about freezing up when you’re already feeling so much pressure. Have you thought about writing down some key points you want to make beforehand, so you feel more prepared and confident when you talk to your boss?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22510921955108643,
+    "aro_t": 0.13310694694519043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It does make sense to write things down, but I worry that it might come off as too rehearsed or unnatural. Plus, I’m not sure I can stick to a script when I’m feeling so anxious about the whole situation.",
+    "therapist": "I understand your concerns about coming off as too rehearsed, and it’s completely normal to feel anxious about sticking to a script. Writing down key points can still be helpful, even if you don’t follow them word for word. It can give you a sense of structure and help you stay focused on the main points you want to communicate. How do you think you could use a few key bullet points to guide the conversation without feeling too constrained?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12681961059570312,
+    "aro_t": 0.18090569972991943,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I see your point, but I'm still worried that having bullet points might make me feel even more anxious. I feel like if I forget something or go off track, it might just make things worse. It's hard for me to trust that it will actually help.",
+    "therapist": "I can see how the idea of using bullet points might add to your anxiety, and it’s important to find a method that feels comfortable for you. Maybe you could try jotting down just a few main points to keep in mind, rather than a detailed script, to help you stay focused without feeling too constrained. How do you think a more flexible approach might help you feel more at ease during the conversation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2628864049911499,
+    "aro_t": 0.108184814453125,
+    "text_emotion": "Sad"
+  }
+]

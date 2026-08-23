@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. It's been six months since I lost my partner in the car accident, and I just can't seem to find joy in the things I used to love. I keep wondering if I'll ever feel happy again, and honestly, I'm not sure if therapy can really help with that.",
+    "therapist": "Hi there, I'm so sorry to hear that you're going through such a tough time. Losing someone you love can be incredibly painful, and it's completely understandable to feel this way. It sounds like you're carrying a lot of grief and uncertainty. How have you been coping with these feelings lately?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2597312927246094,
+    "aro_t": 0.19930100440979004,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. It's been really hard. I find myself constantly thinking about all the things I wish I had said or done differently. I try to distract myself with work or hobbies, but it never really feels like it helps much. It's like I can't shake this overwhelming sense of guilt and sadness.",
+    "therapist": "It sounds like you're carrying a heavy weight of guilt and sadness, and it's understandable that you're struggling to find relief even in activities you used to enjoy. It's natural to have these thoughts after a loss, but they can be really tough to manage. Have you tried talking to someone close to you about these feelings, or are there any specific moments when these thoughts feel particularly intense?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24301135540008545,
+    "aro_t": 0.11853444576263428,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, it's been really tough. I haven't really talked to anyone about it much because I don't want to burden them. The guilt and sadness just feel so overwhelming, especially when I'm alone at home. It's hard to open up because I feel like no one will really understand.",
+    "therapist": "It sounds like you're carrying a lot of emotional weight, and it's completely understandable that you might feel hesitant to burden others. Being alone can amplify those feelings of guilt and sadness, and it's important to acknowledge how tough that is. Have you considered reaching out to a support group or a close friend to share some of these feelings, even if just a little? Sometimes, even a small connection can make a big difference.",
+    "condition": "emotion_text_only",
+    "val_t": -0.37870752811431885,
+    "aro_t": 0.11023914813995361,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it's hard for me to open up to others. I feel like I might be overwhelming them or that they won't really understand. It's easier to keep it all inside, even if it feels heavy.",
+    "therapist": "I understand how difficult it can be to open up, especially when you feel like you might be overwhelming others or that they won't fully understand. It's a natural concern, and it's okay to feel that way. Keeping things inside can feel safer, but it can also be really heavy to carry alone. Have you ever tried writing down your thoughts and feelings as a way to process them, or is there a small step you might be willing to take, even if it feels a bit uncomfortable?",
+    "condition": "emotion_text_only",
+    "val_t": 0.012594461441040039,
+    "aro_t": 0.1007547378540039,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, and I do feel like writing things down might help, but it's hard to get started. It feels like once I start, I might not be able to stop, and all these feelings will just spill out and overwhelm me. I worry that it won't make things better, and I'll just end up feeling more alone and stuck.",
+    "therapist": "I can see how starting to write might feel overwhelming, and it's completely understandable to have those worries. It's a big step to open up those feelings, and it's okay to go at your own pace. Maybe you could start with just a few sentences or even a list of thoughts that come to mind, without putting too much pressure on yourself. How does that feel? Would you be willing to try that, or is there another small step you might consider taking?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36019134521484375,
+    "aro_t": 0.14018166065216064,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I appreciate the suggestion. It's just that every time I try to write, I end up feeling even more anxious and guilty. I worry that I'll say the wrong things or that it won't make a difference. It feels like a lot of pressure, even if it's just a few sentences.",
+    "therapist": "I can understand how trying to write can feel like adding more pressure, especially when you're already dealing with so much anxiety and guilt. It's completely normal to worry about saying the wrong things or not making a difference. Maybe we can start with something even smaller, like focusing on your breath for a minute or two, or finding a comforting phrase to repeat to yourself. How does that feel? Is there a small step like this that might feel a bit more manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07790970802307129,
+    "aro_t": 0.17573463916778564,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you understanding how overwhelming it can feel. Focusing on my breath or a comforting phrase does sound a bit easier, but I still worry that it won't really make a difference in the bigger picture. It's hard to see how such small steps can help with the anxiety and guilt I feel every day.",
+    "therapist": "I understand that it can be hard to see how small steps might make a difference when you're feeling so overwhelmed by anxiety and guilt. It's completely valid to have those doubts. Sometimes, though, these small actions can provide a bit of relief and a sense of control, even if it's just for a moment. Have you ever tried any relaxation techniques or grounding exercises that you found helpful, even a little bit? Or is there a specific phrase that has ever brought you some comfort, even in the smallest way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15793001651763916,
+    "aro_t": 0.16195309162139893,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate what you're saying, but it feels like these small steps won't make much of a difference. I've tried a few relaxation techniques before, like deep breathing, but they haven't really helped much. It's hard because the anxiety and guilt just seem so overwhelming, and I often feel like I'm not doing enough, no matter what I try.",
+    "therapist": "I can hear how deeply you're struggling with these feelings of anxiety and guilt, and it's completely understandable that small steps might not feel like enough right now. It's tough when you feel like you're not making progress, no matter what you try. Sometimes, it can be helpful to explore why these techniques haven't felt effective for you. What do you think might make a relaxation technique more helpful or meaningful for you? Or is there another area you feel ready to explore, even if it feels challenging?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18437731266021729,
+    "aro_t": 0.12482988834381104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you hearing me out, Luna. It's just that I've tried so many things, and nothing seems to stick. I feel like I need something more substantial, something that really addresses the root of my anxiety and guilt. I'm not sure if just changing a technique will make a big difference. It's hard because it feels like I'm stuck in this cycle, and I don't know how to break out of it.",
+    "therapist": "I completely understand how frustrating and overwhelming it can feel when you've tried so many things and still feel stuck. It's natural to want something more substantial that really addresses the root of your anxiety and guilt. Let's take a step back and think about what might be at the core of these feelings. Have you noticed any specific thoughts or beliefs that often come up when you feel this way, or are there any situations that seem to trigger these feelings more than others?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16303777694702148,
+    "aro_t": 0.2047739028930664,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Yeah, it's definitely been tough. I often find myself getting anxious when I'm alone, and I start thinking I'm not doing enough with my life or that I'm not good enough. It's like there's this constant voice in my head telling me I should be more successful or have more friends. It's hard to shake off those thoughts, especially when I'm by myself.",
+    "therapist": "It sounds like you're dealing with a lot of self-criticism and anxiety, especially when you're alone. Those thoughts about not being good enough or not doing enough can be really tough to shake. It's important to recognize that these are just thoughts, and they don't define your worth. Have you tried challenging these thoughts by looking for evidence that might support a different, more compassionate view of yourself? What are some things you've accomplished or qualities you value about yourself that might help balance out those critical voices?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22874808311462402,
+    "aro_t": 0.09590029716491699,
+    "text_emotion": "Angry"
+  }
+]

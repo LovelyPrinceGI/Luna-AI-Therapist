@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been struggling a lot since my grandmother passed away two months ago. Family gatherings feel so different now; I just can't enjoy them without being overwhelmed by sadness. I'm not sure if talking about it in therapy will really help me cope with this loss.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds like you're carrying a heavy weight with her absence. It's completely understandable to feel overwhelmed and unsure about discussing it in therapy. What do you think might help you feel more comfortable sharing your feelings about this loss?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32294952869415283,
+    "aro_t": 0.11423301696777344,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding, but I honestly don't know where to start. It feels like there's so much to unpack, and sometimes I worry that talking about it will just make the pain feel more real. I'm also scared that I might not be able to express how much I miss her, and that would just leave me feeling even more alone.",
+    "therapist": "It's completely natural to feel hesitant about where to begin when the emotions are so deep. It sounds like you're afraid that bringing up the pain might intensify it, and that's a valid concern. Would it be helpful to start with a specific memory of your grandmother that brings both joy and sadness, and see where that leads us?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3362184762954712,
+    "aro_t": 0.11023378372192383,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you acknowledging my hesitation. It’s just that whenever I think of my grandmother, it feels overwhelming because I miss her so much, and I don’t really know if I want to open that door right now. I worry that if I start talking about the good memories, it will just lead to more sadness and I’ll end up feeling worse instead of better.",
+    "therapist": "I can sense how much you’re grappling with the idea of revisiting those memories; it's clear that they carry both love and a deep sense of loss. It’s perfectly okay to feel hesitant about opening that door, especially when you’re worried it might lead to more sadness. How about we take a step back and explore what you need right now—maybe focusing on how you’re feeling in this moment rather than diving into specific memories? What do you think would feel most supportive for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13598155975341797,
+    "aro_t": 0.13245940208435059,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you're recognizing how difficult it is for me to revisit those memories. Right now, I’m feeling a mix of anxiety and sadness, and it’s overwhelming. I’m not sure just focusing on the present will help, because the weight of those memories is still there, hanging over me, and I worry that if I don’t confront them, they’ll just keep coming back.",
+    "therapist": "It sounds like you're really feeling the weight of both anxiety and sadness right now, and that can be incredibly hard to carry. I understand the concern about those memories lingering if they’re not addressed; it’s like they’re waiting to be acknowledged. What if we explored some ways to confront those feelings together, perhaps by identifying specific thoughts or memories that feel most pressing to you? How does that sound?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2560073137283325,
+    "aro_t": 0.18769896030426025,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you acknowledging how heavy this feels. It's just hard for me to pinpoint specific memories or thoughts because they all seem jumbled together, and I'm not sure if confronting them is even going to help. What if it just makes things worse? I feel like I might get stuck in those feelings and not be able to move forward.",
+    "therapist": "I can sense how tangled and heavy those feelings are for you right now. It's completely understandable to worry about getting stuck if you start to confront those memories. What if we took a gentle approach—perhaps by exploring what you need to feel safe as you navigate through this, so that we can find a way to move forward together? What would that look like for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1991513967514038,
+    "aro_t": 0.08666789531707764,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, but I still feel quite hesitant about confronting those memories. It feels like opening a door to a room I've locked away for a reason. I'm not sure what I need to feel safe; I just know that the thought of revisiting those feelings makes me anxious.",
+    "therapist": "It’s completely understandable to feel hesitant about opening that door, especially when it feels like those memories are tied to such profound emotions. It sounds like there’s a lot of anxiety surrounding the idea of revisiting those feelings, and that’s okay. How about we take our time and explore what might help you feel a bit more grounded or secure before considering any memories? What do you think might help you feel more at ease in this moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1684492826461792,
+    "aro_t": 0.19512689113616943,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your understanding, but honestly, I’m not sure what could make me feel more at ease right now. The thought of revisiting those memories just fills me with so much anxiety, and I worry that it might just make things worse instead of better. I guess I’m just feeling stuck and unsure about how to move forward from here.",
+    "therapist": "I can hear how stuck and anxious you’re feeling right now, and it’s completely okay to be in that space. It’s tough when the thought of moving forward feels overwhelming, especially when you're unsure about how to start. Would it help to identify some small, manageable steps we could explore together that might bring you a sense of control or comfort without diving too deep into those memories just yet?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2546577453613281,
+    "aro_t": 0.19581925868988037,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate you acknowledging how stuck I feel, but I'm not sure about taking any steps right now. It feels like no matter how small they are, I'm just too overwhelmed with anxiety to even think about moving forward. What if I try to do something and it doesn't help? That just adds to the weight I already feel.",
+    "therapist": "I really hear you; that sense of being overwhelmed can make even the smallest steps feel daunting. It sounds like you're feeling a lot of pressure, and the fear of trying something that might not help is adding to the weight you're carrying. How about we focus on simply acknowledging your feelings right now, without any pressure to take action? What would it feel like to just sit with those emotions for a moment, without the expectation of having to move forward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22148442268371582,
+    "aro_t": 0.16999471187591553,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you saying that, but sitting with my emotions feels really uncomfortable. I often try to push through them instead of acknowledging them, because it feels like if I sit still, I'll just get lost in the heaviness of it all. What if I can't handle those feelings? It’s like I’m afraid they’ll swallow me whole.",
+    "therapist": "It sounds incredibly challenging to sit with those emotions when they feel so heavy and overwhelming, and I can understand why you might instinctively try to push through them instead. It’s completely natural to fear that those feelings could consume you. What if we explored some grounding techniques together, small ways to help you feel more anchored while you navigate this discomfort? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19856882095336914,
+    "aro_t": 0.20658600330352783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your understanding, but I’m not sure grounding techniques would really help me. When I try to focus on my breath or the present moment, my mind just races with all the things I feel guilty about or anxious about. It feels like a distraction rather than a solution, and honestly, I’m skeptical that it would change how heavy these feelings are.",
+    "therapist": "I can see how frustrating it must be to feel like grounding techniques don’t provide the relief you're hoping for, especially when your mind races with guilt and anxiety. It’s understandable to feel skeptical about strategies that seem to distract rather than truly address the heaviness you’re experiencing. What if we took a moment to acknowledge those feelings of guilt and anxiety instead, and perhaps explore what they might be telling you about your current experience? How does that resonate with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12250351905822754,
+    "aro_t": 0.11513233184814453,
+    "text_emotion": "Angry"
+  }
+]

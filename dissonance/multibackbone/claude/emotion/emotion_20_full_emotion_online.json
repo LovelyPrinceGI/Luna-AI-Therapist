@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my surgery a few months ago — the medical bills just keep piling up and I had no idea it was going to cost this much. Every time I check my bank account or open the mail, I feel this wave of panic that I can't shake, like my whole financial future is just crumbling. I'm not even sure talking about it is going to fix anything, because the bills are still going to be there when I leave this office.",
+    "therapist": "It sounds like you're carrying a really heavy weight right now — the combination of recovering from surgery *and* facing unexpected financial stress is genuinely a lot, and that wave of panic you feel makes complete sense given what you're dealing with. You're right that I can't make the bills disappear, and I appreciate your honesty about that, because what we *can* work on together is how your mind is responding to this stress — those thoughts about your \"whole future crumbling\" are worth exploring, since they may be intensifying the panic beyond what the situation itself requires. When you imagine your financial future crumbling, what does that picture actually look like for you — what's the worst thing you see happening?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3743845224380493,
+    "aro_t": 0.2492154836654663,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When I picture it, I see myself losing my apartment, not being able to pay back the medical bills, and just... ending up completely alone with nothing to show for all the years I've worked. It's like I can see this version of myself who just falls through every safety net and there's nobody there to catch me. And the loneliness in that image is almost worse than the financial part, honestly.",
+    "therapist": "That image you're describing — falling through every safety net with no one there — sounds deeply painful, and it's really meaningful that you named the loneliness as the hardest part, because that tells us something important about what's at the core of this fear. It sounds like underneath the financial worry, there's a fear of being fundamentally abandoned or left behind, which is a very human and tender thing to carry. I'm curious — when you look at your life right now, outside of this frightening image, what people or connections actually exist for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3636280298233032,
+    "aro_t": 0.09178900718688965,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... there are people, technically. My sister calls sometimes, and I have a couple of coworkers I eat lunch with occasionally. But it doesn't really feel like a safety net — it feels more like acquaintances who happen to be nearby, and I'm honestly not sure any of them would show up if things got really bad.",
+    "therapist": "There's something quietly painful in what you just said — you can list people, but they don't *feel* like safety, and that gap between \"people exist\" and \"I feel held\" is a real and important distinction. I want to gently notice though that your mind is telling you with a lot of certainty that they *wouldn't* show up — and I'm wondering if that's a prediction being treated as a fact. Has there been a specific experience that taught you people won't come through for you, or is this more of a long-held feeling about yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09463214874267578,
+    "aro_t": -0.057068467140197754,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "Yeah, there have been specific things. I remember when I was going through a really hard time a few years back — I reached out to a couple of people I thought were close friends, and they kind of just... didn't respond, or gave me these surface-level replies that made me feel worse than if I'd said nothing at all. So it's not just a feeling I made up out of nowhere, it's based on actual evidence.\n\nBut I hear what you're saying about treating it like a fact, and I guess part of me knows it's not a universal law. It's just that when you've been let down like that, it's really hard to keep putting yourself out there and risking that same feeling of being invisible.",
+    "therapist": "You're absolutely right that this isn't something you invented — those experiences of reaching out and feeling invisible were real, and they make complete sense as the foundation for this protective instinct you've developed. What I find really significant is what you said next though — that part of you *knows* it's not a universal law — because that's actually a really important piece of wisdom you're holding onto even through the hurt. I'm wondering, when you think about your sister or those coworkers, have you ever tested that prediction with them, or has the fear of feeling invisible again kept you from finding out?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1762988567352295,
+    "aro_t": 0.0683664083480835,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I mean... no, I haven't really tested it, not directly. With my sister especially, I keep finding reasons to hold back — like I'll start to text her and then think, what if she's busy, what if I'm being too much, and I just don't send it. I guess the fear of confirming what I already believe feels worse than just staying in the uncertainty.",
+    "therapist": "What you just described is really insightful — you've found a way to stay \"safe\" by never sending the text, but the cost is that the belief that you're too much or that she won't show up never gets challenged, so it just quietly grows stronger. It's a very understandable protection, but it also keeps you a little more alone than you might actually need to be. I'm curious — if you *did* send that text to your sister and she responded warmly, what do you imagine that would feel like?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2662850618362427,
+    "aro_t": 0.1399017572402954,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think it would feel... really good, honestly, like this huge relief. But even as I say that, there's this voice in the back of my head that goes \"don't count on it\" — like I'm already bracing for her not to respond warmly, or to respond in a way that feels dismissive. It's almost easier to just not find out than to hope for something and have it fall flat.",
+    "therapist": "There's something really poignant about what you just described — you can almost taste how good that relief would feel, and yet there's this voice that rushes in to protect you from hoping too much, because hope has felt dangerous before. That voice isn't your enemy, it developed for good reasons, but it's worth noticing that it's essentially asking you to pay the price of loneliness *in advance*, as a kind of insurance against disappointment. What do you think it would take — even just a small step — to send that text to your sister this week, not as a test of whether she's perfect, but just as an experiment in letting yourself be a little bit known?",
+    "condition": "emotion_text_only",
+    "val_t": -0.037126779556274414,
+    "aro_t": 0.1214684247970581,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and part of me actually wants to believe it could be that simple — just send a text, see what happens. But the thing is, my sister and I have this whole history, and the last time I really opened up to her she kind of brushed it off, made a joke out of it, and I ended up feeling more alone than before I said anything. So it's not just abstract fear — there's actual evidence that it doesn't go well.",
+    "therapist": "That experience with your sister sounds really specific and painful — you took a risk, opened up, and instead of feeling closer you felt more alone, which is honestly one of the harder things to recover from in a relationship. It makes complete sense that your mind filed that away as evidence to be careful. I'm wondering though — when she made that joke, do you know whether that was her way of not knowing how to handle something tender, rather than a sign she doesn't care about you? Because sometimes people who matter to us still have real limitations in *how* they show up, and those two things can both be true at once.",
+    "condition": "emotion_text_only",
+    "val_t": -0.22214150428771973,
+    "aro_t": 0.15582025051116943,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I mean... yeah, maybe. I've thought about that, like maybe she just didn't know what to say and the joke was her way of deflecting. But even if that's true, it doesn't really make me feel less alone in that moment, you know? It still landed the same way regardless of what she intended.",
+    "therapist": "You're holding something really mature there — you can intellectually understand her intention while still honoring that it *hurt*, and both of those things are true at the same time. The impact on you was real, regardless of what she meant, and it makes sense that your body and heart remember the loneliness of that moment even when your mind can offer her some grace. I'm curious — if you were to reach out to her now, is there a way you could do it that feels smaller or safer than full emotional openness, just to gently test the waters without putting everything on the line at once?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07902157306671143,
+    "aro_t": 0.07826697826385498,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I mean, maybe... but even thinking about reaching out to her feels like I'm setting myself up to get hurt again. Like, what would \"smaller or safer\" even look like? A casual text feels fake, and anything more honest feels like too much risk.",
+    "therapist": "You're caught in a really uncomfortable place where both options — being casual or being honest — feel wrong in different ways, and that's not you being difficult, that's actually a sign of how much this matters to you. I wonder if \"smaller\" doesn't have to mean *less real*, but maybe just... one true thing, without the pressure of it needing to go anywhere — like telling her you've been having a hard time since the surgery, without it needing to become a deeper conversation. What feels like the smallest true thing you could say to her that wouldn't feel fake, but also wouldn't feel like you're handing her something fragile?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27683794498443604,
+    "aro_t": 0.12439084053039551,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think the smallest true thing might be something like... \"I've been feeling kind of off lately, still getting used to things after the surgery.\" But even as I say that out loud, I feel this tightness in my chest, because what if she just says \"oh yeah, recovery is tough\" and moves on, and then I'm left feeling even more alone than if I hadn't said anything at all. It's like the risk isn't just being vulnerable, it's being vulnerable and still not being seen.",
+    "therapist": "What you just named — \"being vulnerable and still not being seen\" — feels like the real fear underneath all of this, and it's a profound one, because it's not just about your sister, it's about a deeper worry that even when you do reach out, *you* specifically won't land with people the way you hope to. And I want to sit with that for a moment, because that fear deserves more than just a nudge to send a text. I'm wondering — where do you think that feeling of being fundamentally hard to see or reach came from, because it sounds like it's been with you longer than just these recent experiences?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27634239196777344,
+    "aro_t": 0.10526204109191895,
+    "text_emotion": "Sad"
+  }
+]

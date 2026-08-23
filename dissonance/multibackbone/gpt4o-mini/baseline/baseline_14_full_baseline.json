@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away last month. It's hard to concentrate on my university assignments, and I often feel this wave of sadness that just won't lift. I'm starting to question whether therapy can really help me through this, though.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; losing someone so close can be incredibly challenging, and it's natural to feel this wave of sadness. It’s understandable that it affects your concentration and makes you question the process of therapy. What have you noticed about your feelings during these waves of sadness, and how do you think they might connect to your daily life?",
+    "condition": "baseline",
+    "val_t": -0.33715760707855225,
+    "aro_t": 0.02693939208984375,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I've been feeling this overwhelming heaviness since my grandmother passed away. It's like a constant weight on my chest that makes it hard to focus on anything else, including work or even my relationships. Sometimes, I just feel so alone in this sadness, and I wonder if talking about it in therapy will really help me cope or if I'm just stuck in this loop of grief.",
+    "therapist": "It sounds like the heaviness of your grief is really impacting your ability to engage with daily life and connect with others, which can feel isolating. It's completely normal to question whether therapy can help, especially when you're in such a deep place of sadness. What do you think might happen if you allowed yourself to share some of these feelings in a safe space, like therapy?",
+    "condition": "baseline",
+    "val_t": -0.43334710597991943,
+    "aro_t": 0.1357957124710083,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess sharing my feelings in therapy sounds like it could be helpful, but I’m just not sure if I can really open up about all this grief. It feels so heavy, and I worry that talking about it might just make me feel worse instead of better. I also think that no one can truly understand the depth of what I’m going through, so I wonder if it’s even worth it to try.",
+    "therapist": "It's completely understandable to feel hesitant about opening up, especially when the grief feels so heavy and personal. You're not alone in thinking that sharing might make things feel worse; many people have those concerns. What if we explored together what specific fears you have about sharing your grief? It might help to think about what could be gained from expressing those feelings, even if it feels daunting right now.",
+    "condition": "baseline",
+    "val_t": -0.17799723148345947,
+    "aro_t": 0.08923375606536865,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you understand how heavy this feels for me. Honestly, I'm scared that if I start sharing my grief, it will just overwhelm me even more, and I won't be able to handle it. I guess I worry that people might not really get what I'm going through, so what's the point of opening up if it just leads to more loneliness?",
+    "therapist": "It's completely valid to feel scared about opening up, especially when you're worried it might lead to feeling even more overwhelmed or lonely. Your feelings matter, and it’s okay to take small steps when you’re ready. What if you considered sharing just a little bit at first, perhaps focusing on a specific memory or feeling? This could help you gauge how it feels without diving into everything at once. What do you think about that approach?",
+    "condition": "baseline",
+    "val_t": -0.22292518615722656,
+    "aro_t": 0.1462494134902954,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you’re saying, but I’m not sure how sharing even a little could help. It feels like I have so much built up inside, and picking just one memory feels overwhelming in itself. What if that just opens the floodgates and makes everything worse?",
+    "therapist": "It's completely understandable to feel that way; the thought of opening up can feel daunting when there's so much built up inside. It’s okay to take your time with this process and to acknowledge that it’s okay to feel overwhelmed. What if you approached it as a gentle exploration, rather than a full disclosure? Perhaps you could write down a few thoughts or feelings instead of sharing them all at once, which might help you feel more in control. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.15840542316436768,
+    "aro_t": 0.18093740940093994,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you understand how overwhelming it feels to open up. The idea of writing down my thoughts is a bit less intimidating, but I still worry that it won’t really capture everything I’m feeling. What if I write something down and then later realize it doesn’t reflect what I truly want to express?",
+    "therapist": "It's completely normal to worry that written words might not fully capture the depth of your feelings; our emotions can be complex and ever-changing. Remember, writing is just a starting point and a way to help clarify your thoughts, not a final verdict on your experience. What if you viewed your writing as a way to begin a conversation with yourself, allowing for adjustments and changes as you continue to process your grief? How might that perspective feel for you?",
+    "condition": "baseline",
+    "val_t": -0.04656696319580078,
+    "aro_t": 0.1477220058441162,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate what you’re saying about writing being a starting point, but I still struggle with the idea of putting my feelings down on paper. It feels intimidating, like my words won’t do justice to the depth of what I’m experiencing. Plus, I worry that if I write something that feels true today, it might change tomorrow, and then I’ll just feel confused or guilty for not sticking to what I initially thought.",
+    "therapist": "It's completely understandable to feel intimidated by the idea of writing your feelings down, especially when emotions can shift so quickly. It’s important to recognize that your thoughts and feelings are valid, even if they change over time; that fluidity is part of being human. What if you approached writing as a way to capture a snapshot of your feelings in the moment, knowing that it doesn’t have to be perfect or permanent? How might that shift your perspective on the process?",
+    "condition": "baseline",
+    "val_t": -0.23047852516174316,
+    "aro_t": 0.20210206508636475,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about capturing a snapshot of my feelings, but I still feel really hesitant about it. What if I write something down that I regret later, or what if it just feels like I'm venting without any real progress? It’s hard for me to separate the momentary feelings from how I might feel about them later.",
+    "therapist": "It's completely valid to feel hesitant about writing down your feelings, especially with the fear of regretting what you might express or feeling like it’s just venting without progress. It can be helpful to remind yourself that expressing emotions doesn’t have to lead to immediate clarity; it’s part of the journey. What if you allowed yourself to write without judgment, simply as a way to release those feelings? You could consider it an exploration rather than a commitment, and see how that feels for you. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.1334930658340454,
+    "aro_t": 0.07745969295501709,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that perspective, but I can't help but feel a bit skeptical about it. Writing down my feelings sounds like it could just end up being another way to overthink everything instead of really getting anywhere. Plus, what if I write something that just makes me feel worse, or I don’t even know what to say? It seems like a lot to put on myself.",
+    "therapist": "It’s completely understandable to feel skeptical about writing, especially when it feels like it could lead to overthinking or potentially amplify your feelings. It’s okay to recognize that this process may feel like a lot—you're navigating a challenging emotional landscape. What if you approached this with a very low-pressure mindset, perhaps starting with just a few words or sentences when you feel ready? It could be about anything that comes to mind, even if it seems small. How might that feel for you as a first step?",
+    "condition": "baseline",
+    "val_t": -0.1462482213973999,
+    "aro_t": 0.11583817005157471,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about the low-pressure approach, but I'm still not sure if it will really help me. Writing feels like it could just make me overthink things even more, and I'm worried I’ll end up feeling stuck in my head. It’s hard to even know where to start, and I don’t want to create more anxiety for myself.",
+    "therapist": "It’s completely understandable to feel apprehensive about writing, especially when you're concerned about overthinking and creating more anxiety. It’s important to prioritize your comfort and well-being in this process. What if you considered starting with something simple, like jotting down a few words that reflect your current mood or a single thought that comes to mind, without worrying about creating a full narrative? How does that feel as a potential starting point for you?",
+    "condition": "baseline",
+    "val_t": -0.2844057083129883,
+    "aro_t": 0.2273705005645752,
+    "text_emotion": "Angry"
+  }
+]

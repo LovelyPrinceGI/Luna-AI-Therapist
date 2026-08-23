@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really lost since my grandma passed away last month. Everything just feels gray and pointless now, even simple things like watching TV or cooking meals. I'm not sure talking about it will help - the pain just feels too deep, you know?",
+    "therapist": "I hear how deeply this loss has affected you, and how even daily activities feel colorless without your grandma. That profound grief can make it hard to imagine anything helping right now.  \n\nWould you be willing to share what a typical day looked like when your grandma was still part of your life?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40727198123931885,
+    "aro_t": 0.046662330627441406,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I used to call her every morning on my way to work. She'd always ask what I had for breakfast and scold me if I skipped it. Now my mornings just feel empty and quiet. I try to keep the routine but picking up the phone just makes me cry. \n\nIt's been months - shouldn't I be getting over this by now? Everyone else seems to think I should be \"moving on\" already.",
+    "therapist": "It sounds like those morning calls were such a meaningful connection, and the absence now carries both sadness and love. Grief doesn’t follow a timeline—it’s okay that this still hurts deeply, especially when others don’t seem to understand.  \n\nWhat do you think your grandma would say about the pressure you’re feeling to “move on”?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23319768905639648,
+    "aro_t": 0.11557769775390625,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I think my grandma would tell me to take my time and not rush my feelings. She was always so patient with me. But it's hard because everyone else expects me to be \"over it\" by now, and that just makes me feel more alone in my grief. \n\nSometimes I wonder if I'm holding on too much by keeping our morning call routine alive in my head. But letting go of that feels like losing her all over again.",
+    "therapist": "It makes sense that holding onto those morning rituals feels like a way to keep her close—grief can turn even small routines into sacred connections. And you’re right, the expectations from others can make the loneliness of missing her even sharper.  \n\nWhat would it feel like to gently adjust the ritual, rather than let it go completely? Maybe writing down what you’d tell her, or setting aside a quiet moment with your breakfast to remember her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3382301330566406,
+    "aro_t": 0.08501994609832764,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know...the idea of changing the ritual makes me feel like I'm losing her all over again. Even though it's painful, making my coffee exactly how she used to make it feels like the only way to keep that connection alive. Writing things down seems so cold compared to actually going through the motions she did every morning. \n\nBut I do like the idea of setting aside time to remember her. Maybe I could try that part? It's just hard to imagine doing anything differently with the coffee routine itself—that feels like betraying her memory somehow.",
+    "therapist": "I hear how deeply meaningful it is to honor your grandma by recreating her coffee ritual—it’s not just about the actions, but about feeling close to her in a way that nothing else replicates. It’s okay if that part stays unchanged; what matters is what feels true to your love for her.  \n\nYou mentioned being open to adding a new moment of remembrance—what might that look like for you? Perhaps something that complements the coffee ritual without replacing it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08662843704223633,
+    "aro_t": 0.12832963466644287,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I like the idea of adding something new alongside the coffee ritual, but I'm worried it might feel forced or unnatural. When I try to think of other ways to remember her, nothing feels as meaningful as our morning coffee time. Maybe I could write her letters sometimes? But that makes me sad because she'll never read them.",
+    "therapist": "It’s understandable that new rituals might feel unfamiliar at first—like breaking in a new pair of shoes while the old ones still fit so perfectly. Writing letters could be a way to speak your heart, even if it brings sadness too.  \n\nWhat if you framed the letters not just as something she’ll never read, but as a way to keep noticing what you’d still want to share with her? Like a record of how her love still shapes your days?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20979523658752441,
+    "aro_t": 0.06383252143859863,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I see what you're saying about the letters being a record, but it just makes me feel worse thinking about all the things I'll never get to tell her. Like every letter is just another reminder that she's gone. \n\nI tried writing one last week and ended up crying so hard I had to stop - it felt like reopening the wound instead of helping. Maybe some people can do this, but I don't know if I'm strong enough.",
+    "therapist": "It sounds like writing the letters brought up such raw pain—like touching a tender bruise when you weren’t expecting it. Grief can surprise us that way, making even well-intentioned efforts feel unbearable in the moment.  \n\nWould it feel safer to start smaller? Maybe just jotting down one thing you’d want to tell her—not a full letter, but a single sentence or memory—when the longing feels gentler?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3649636507034302,
+    "aro_t": 0.18414366245269775,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I guess I could try writing just one sentence... but even that feels overwhelming right now. What if I start crying and can't stop? Sometimes it feels like opening that door even a little will let all the pain flood out. \n\nI know you're trying to help me take small steps, but part of me just wants to keep everything locked away where it can't hurt me. Does that make sense?",
+    "therapist": "It makes complete sense—that fear of the floodgates opening is so real when grief feels this overwhelming. Right now, keeping things locked away might feel like the only way to stay afloat, and that’s okay.  \n\nWhat if we shifted focus for today? Instead of writing, could you share a favorite small memory of her—something that feels warm to hold, even if it’s bittersweet?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13309144973754883,
+    "aro_t": 0.17026984691619873,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know... even the happy memories hurt now. It feels like picking at a scab. But I guess one thing that comes to mind is how she'd always hum off-key while making coffee in the mornings. It used to annoy me, but now I'd give anything to hear it again. \n\nIt's just hard because remembering the good stuff makes the loss feel even bigger, you know? Like I'm rubbing salt in the wound.",
+    "therapist": "That off-key humming—what a tender, ordinary moment to miss so deeply. It’s understandable that even sweet memories ache right now; grief can turn love into salt sometimes.  \n\nWould it feel any different to let that memory just exist for a moment without pushing it away or clinging too tight? Like watching a wave come and go?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24434959888458252,
+    "aro_t": 0.11729466915130615,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I don't know if I can just watch it come and go like that. When I remember her humming, it's like I get pulled right back to that moment, and then the pain hits all over again. It feels like if I don't hold onto it tight, I'll lose even that little piece of her. \n\nBut at the same time, clinging to it hurts so much. I just miss her so damn much.",
+    "therapist": "That tension between holding on tight and the pain it brings—it’s like gripping a rose so hard the thorns dig in, but being afraid to loosen your hand. Missing her *this* much shows how deeply she mattered, even if that love aches right now.  \n\nWhat would it feel like to experiment with loosening your grip just a little—not letting go, but maybe holding the memory like you’d cradle something fragile, with room to breathe?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35856568813323975,
+    "aro_t": 0.35658740997314453,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about loosening my grip, but it's like...if I don't hold on tight to these memories, I'm scared they'll fade away completely. Then it'll be like she never existed at all. \n\nThe idea of holding memories gently sounds nice in theory, but when I try, it just makes me feel more panicky. Like I'm betraying her by not clinging to every detail.",
+    "therapist": "That fear of her memory fading—of her slipping away even more—makes complete sense. It’s not just about holding on to the details, but about honoring how *alive* she still feels in your heart.  \n\nWhat if we thought of this not as letting go, but as trusting that your love for her is strong enough to keep her close, even without white-knuckling every memory?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26135921478271484,
+    "aro_t": 0.2569608688354492,
+    "text_emotion": "Angry"
+  }
+]

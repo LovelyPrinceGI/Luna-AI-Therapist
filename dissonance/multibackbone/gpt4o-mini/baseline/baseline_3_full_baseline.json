@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I lost my dog last month. It feels like a part of me is missing, and I can't seem to enjoy anything that used to bring me happiness. I keep questioning whether therapy can actually help me process this grief.",
+    "therapist": "I'm really sorry to hear about your loss; it’s completely understandable to feel that way when you’ve lost a beloved companion. Grief can be such a heavy burden, and it’s okay to question how to navigate it. What are some of the things you used to enjoy that feel different for you now?",
+    "condition": "baseline",
+    "val_t": -0.3875366449356079,
+    "aro_t": 0.1669783592224121,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It’s just hard to think about those things. I used to love going for long walks with my dog, but now it just feels empty without him. I can’t shake the feeling that everything I enjoyed has this shadow over it, and I don’t know how to move past that.",
+    "therapist": "It's completely normal to feel that emptiness; your walks were a cherished part of your routine and your bond with your dog. It makes sense that their absence would cast a shadow over those activities. Would it feel okay to explore small ways to honor your dog's memory during those walks, or perhaps try a different activity that might bring a sense of comfort?",
+    "condition": "baseline",
+    "val_t": -0.2567347288131714,
+    "aro_t": 0.09425342082977295,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that it's normal to feel this way; it really does help to hear that I'm not alone in this. But the idea of honoring my dog's memory during those walks feels a bit overwhelming. I just can't picture how that would work or if it would even bring me comfort; it feels like it might just remind me of the loss even more.",
+    "therapist": "It's completely valid to feel overwhelmed by the idea of honoring your dog's memory; sometimes, even positive intentions can feel heavy in the moment. It’s okay to take your time and find what feels right for you. What if instead of a specific act, you simply allowed yourself to be present with your feelings during the walk, perhaps acknowledging your dog's impact on your life in your own way?",
+    "condition": "baseline",
+    "val_t": -0.018393516540527344,
+    "aro_t": 0.18598532676696777,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you saying it's okay to feel overwhelmed, but I'm still struggling with this. Being present with my feelings seems so difficult right now. I worry that if I acknowledge my dog's memory, it might just make my sadness worse instead of helping me heal.",
+    "therapist": "It's completely understandable to worry that acknowledging your dog's memory could deepen your sadness; grief can feel like a daunting journey. Instead of forcing yourself to confront those memories right now, it might be helpful to simply observe your feelings without judgment when they arise. What do you think would feel more manageable for you in this moment—allowing yourself to feel the sadness or perhaps engaging in a different activity that brings you a bit of distraction?",
+    "condition": "baseline",
+    "val_t": -0.26146090030670166,
+    "aro_t": 0.1271674633026123,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, but I really struggle with the idea of just observing my feelings. It feels like if I let myself feel sad, it could just spiral out of control, and I might end up feeling even worse. Engaging in a distraction sounds easier, but I worry that I’m just avoiding the grief instead of dealing with it.",
+    "therapist": "It's completely valid to feel caught between wanting to avoid the grief and fearing that fully feeling it might lead to overwhelming sadness. Sometimes, it can be helpful to strike a balance by allowing yourself short moments to acknowledge your feelings without getting swept away. Would it feel manageable to set aside just a few minutes to gently check in with how you're feeling, perhaps during a quiet moment, and then engage in a distraction afterward?",
+    "condition": "baseline",
+    "val_t": -0.21842706203460693,
+    "aro_t": 0.03929734230041504,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you understand how hard it is for me to feel this grief. But setting aside time to check in with my feelings feels really daunting. What if I end up feeling too overwhelmed, and I can't pull myself out of it afterward?",
+    "therapist": "It's completely normal to feel anxious about the possibility of becoming overwhelmed; that concern shows how deeply you care about your emotional well-being. Perhaps instead of setting a specific time, you could try to notice your feelings naturally as they come up throughout your day, allowing yourself to acknowledge them briefly without diving too deep. How does that approach feel to you, and what might help make it feel safer to explore those feelings in small doses?",
+    "condition": "baseline",
+    "val_t": -0.17831194400787354,
+    "aro_t": 0.21763229370117188,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about noticing my feelings as they come up, but it feels a bit overwhelming to think about doing that throughout the day. I worry that if I start acknowledging my feelings, they might spiral into something bigger, and I could get stuck in that anxious state. It’s hard for me to trust that I can handle those feelings without getting overwhelmed.",
+    "therapist": "It’s completely understandable to feel hesitant about acknowledging your feelings, especially when there’s a fear of becoming overwhelmed. Trusting yourself to navigate those emotions can take time, and it's okay to prioritize your comfort. What if you started by simply naming a feeling when it arises, without any pressure to dig deeper, just to observe it? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.16611886024475098,
+    "aro_t": 0.19526982307434082,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that suggestion, but I feel a bit skeptical about just naming my feelings. It seems like it could be too simplistic, and I worry that I might just end up feeling even more confused. Plus, sometimes I don't even know what I'm feeling in the moment, so it feels hard to even start with that.",
+    "therapist": "It's completely valid to feel skeptical about naming your feelings; it can feel simplistic, especially when emotions are complex and sometimes confusing. It’s okay if you don't always know exactly what you're feeling; just acknowledging that uncertainty is a step in itself. What do you think about giving yourself permission to simply notice when you're feeling unsettled, without the pressure to label it right away? How might that approach feel for you?",
+    "condition": "baseline",
+    "val_t": -0.13863229751586914,
+    "aro_t": 0.07746493816375732,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about acknowledging my feelings without the pressure to label them, but it feels a bit overwhelming. Sometimes, when I try to notice my emotions, I end up spiraling into anxiety instead of understanding. I worry that just sitting with those feelings might leave me feeling even more unsettled and confused.",
+    "therapist": "It's completely understandable to feel overwhelmed by the idea of sitting with your emotions, especially when past experiences have led to increased anxiety. It’s important to prioritize your comfort and safety in this process. Would it feel more manageable to focus on grounding techniques, like taking a few deep breaths or noticing your surroundings, whenever you start to feel anxious? How might incorporating these small practices into your day help you feel more secure?",
+    "condition": "baseline",
+    "val_t": -0.28607094287872314,
+    "aro_t": 0.2573883533477783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestion, but I’m not sure grounding techniques will really help me. When I feel anxious, it’s like everything around me gets overwhelming, and I struggle to focus on anything else. I worry that trying to take deep breaths or notice my surroundings will just feel forced and won’t actually make a difference.",
+    "therapist": "It's completely valid to feel skeptical about grounding techniques, especially when anxiety can make everything feel so overwhelming. It’s important to find what resonates with you rather than forcing something that doesn’t feel genuine. What small, simple things do you find comforting or calming in your everyday life, even if they seem minor? Exploring those might help create a sense of ease without the pressure of trying something new.",
+    "condition": "baseline",
+    "val_t": -0.1806267499923706,
+    "aro_t": 0.1474137306213379,
+    "text_emotion": "Angry"
+  }
+]

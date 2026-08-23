@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Lately, I’ve been struggling with this diagnosis I got a few weeks ago. It’s a chronic condition, and I can’t stop thinking about how it’s going to affect my life moving forward. I feel so scared and unsure about the future, and honestly, I’m not even sure if talking about it here will really help. It’s just such a heavy thing to carry.",
+    "therapist": "It sounds like this diagnosis has left you feeling really overwhelmed and uncertain about what lies ahead—that’s completely understandable when facing something so significant. When those fearful thoughts about the future come up, have you noticed any patterns in how they affect your day-to-day mood or actions?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3394460678100586,
+    "aro_t": 0.21610486507415771,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's been really hard to focus on anything else since I got the diagnosis. I keep canceling plans with friends because I just want to stay in bed, but then I feel even more isolated. The worst part is when I wake up at 3 AM with my heart racing, imagining all the worst-case scenarios.",
+    "therapist": "It sounds like this anxiety is both draining your energy and pulling you away from the connections that might actually help—those late-night spirals must feel especially exhausting. When those worst-case scenarios pop up, have you noticed if there are any moments when the fears feel slightly more manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3532278537750244,
+    "aro_t": 0.2013605833053589,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, those late-night spirals are the worst. I'll be lying there and my mind just races through every possible disaster scenario. Sometimes it does feel a little better when I'm distracted during the day, but then the second I'm alone with my thoughts again, the anxiety comes rushing back. \n\nI don't know if I'd call any of it \"manageable\" though - it's more like the fear is always there, just waiting under the surface. Even when I'm with friends, part of me is worrying they'll eventually get tired of me.",
+    "therapist": "It sounds like the anxiety has become this constant background noise that intensifies whenever you're not actively distracted—that must feel incredibly draining to carry around. I'm curious, when you're with friends and that worry about being \"too much\" comes up, what typically happens next—do you pull away, or do you ever share what's on your mind with them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40536296367645264,
+    "aro_t": 0.1995985507965088,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I usually just shut down and stop talking when that worry hits me. Even if I try to share, I immediately regret it because their responses—or lack of responses—just make me feel even more like a burden. It's like a lose-lose situation, so I've started avoiding hanging out altogether lately.",
+    "therapist": "It sounds like you're caught between wanting connection and fearing rejection—that push-and-pull must feel incredibly isolating. When you've tried opening up before, what specifically about their reactions made you feel like a burden—was it something they said, or more about how you interpreted their response?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30681896209716797,
+    "aro_t": 0.09525907039642334,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I think it was mostly how I interpreted things—like if someone didn't text back right away, I'd assume they were avoiding me. But also sometimes people would say things like \"you worry too much\" in a dismissive way, which made me feel like my feelings were annoying. It's like I can't win—either I'm too much or I'm imagining the rejection.",
+    "therapist": "It sounds like these interactions leave you feeling invalidated—like your worries are either being dismissed or confirmed, which must be really frustrating to navigate. When someone says \"you worry too much,\" what do you wish they would say or do instead that might feel more supportive to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2482682466506958,
+    "aro_t": 0.08415770530700684,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I wish they'd actually listen instead of just brushing me off. When people say \"you worry too much,\" it makes me feel like my feelings don't matter. Maybe if they asked why I'm worried or just said something like \"that does sound stressful\" instead of judging me. \n\nBut honestly, I don't know if that would help either. Even when people try to be supportive, the anxiety doesn't really go away. It feels like no matter what anyone says, I'll still find something to worry about.",
+    "therapist": "It sounds like you're longing for both validation and practical relief—like even when people try to meet you halfway, the anxiety finds a way to linger. That gap between what you need and what actually helps must feel really disheartening. When the worry persists despite someone’s support, what’s that inner voice telling you in those moments—is it more about fearing the future, or doubting yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2919267416000366,
+    "aro_t": 0.1900097131729126,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "It's definitely more about doubting myself. Even when people try to help, I keep thinking \"They're just being nice, they don't really understand how bad it is.\" And then I feel guilty for not being able to just accept their support like a normal person would. \n\nThe worst part is I start questioning whether my anxiety is even valid, which just makes me feel more alone. Like maybe I'm making too big a deal out of nothing, but that thought doesn't actually make the anxiety go away.",
+    "therapist": "It sounds like you're caught in this painful cycle—doubting your own struggles while simultaneously feeling guilty for having them, which only deepens the loneliness. That self-critical voice seems to dismiss your pain before others even get the chance to—what do you think might happen if you tried responding to that voice with the same kindness you'd offer a friend in your situation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29288017749786377,
+    "aro_t": 0.14440226554870605,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know if I could be that kind to myself—it feels fake somehow. When I try to imagine speaking kindly to myself like I would to a friend, this voice in my head just says \"You don't deserve that, you're just being weak.\" It's exhausting to keep fighting that.",
+    "therapist": "It makes sense that extending kindness to yourself feels unnatural when that critical voice has been so persistent—it’s like trying to plant seeds in rocky soil. That exhaustion you’re feeling tells me this inner battle has been draining for a long time. What do you think that harsh voice is trying to protect you from, even if its methods are so punishing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.277917742729187,
+    "aro_t": 0.19310522079467773,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I never really thought about that voice trying to protect me—it just feels like it's there to point out everything I'm doing wrong. Maybe it's trying to keep me from failing or disappointing people, but it just makes me feel worse all the time. It's hard to imagine that voice having good intentions when it's so cruel.",
+    "therapist": "It sounds like you're starting to see that critical voice might have a twisted purpose—like it's trying to shield you from failure but ends up causing more pain than protection. That realization must feel both unsettling and maybe a little hopeful. What would it look like to acknowledge that protective intent while still setting boundaries with how harshly it speaks to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.48191821575164795,
+    "aro_t": 0.11014747619628906,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about the critical voice trying to protect me, but it's hard to believe that when it feels so destructive. When I mess up even a little, that voice tells me I'm worthless—it doesn't feel protective at all. Maybe there's some logic there, but it just makes me feel worse in the moment.",
+    "therapist": "It makes complete sense that this voice feels more like an attacker than a protector right now—especially when it magnifies small mistakes into judgments about your worth. That gap between understanding its purpose and actually feeling its cruelty must be really frustrating to sit with. When it calls you \"worthless\" after a mistake, what’s one small way you could challenge that extreme label, even just internally?",
+    "condition": "emotion_text_only",
+    "val_t": -0.44348645210266113,
+    "aro_t": 0.160849928855896,
+    "text_emotion": "Sad"
+  }
+]

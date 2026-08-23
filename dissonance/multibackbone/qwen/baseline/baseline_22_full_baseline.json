@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really anxious lately about my upcoming final exams. I got a low grade on my last psychology paper, and now I'm worried it's going to affect my overall grade in the course. I know I should be studying, but I just feel so overwhelmed and unsure if I can even improve at this point.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and feeling overwhelmed is a very natural response to the stress you're facing. It's okay to feel this way, and acknowledging your feelings is the first step. Can you tell me more about what specific thoughts are coming up for you when you think about your exams and the paper you received?",
+    "condition": "baseline",
+    "val_t": -0.2875939607620239,
+    "aro_t": 0.26405560970306396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. When I think about my exams and the paper I got back, I feel really anxious and overwhelmed. I keep thinking about how I didn't do well enough and how this might affect my future. It's hard not to spiral into thinking I’m just not good enough.",
+    "therapist": "I can see how those thoughts are really weighing on you, and it’s completely understandable to feel anxious about your future. It sounds like you’re caught in a cycle of negative thinking, which is something we can work through together. What are some of the evidence or experiences that come to mind when you think about your abilities and past successes?",
+    "condition": "baseline",
+    "val_t": -0.20724642276763916,
+    "aro_t": 0.25240206718444824,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "It's hard to think about past successes when I feel like I've failed so many times. I remember a few good moments, but they feel so far away and overshadowed by everything that’s gone wrong. It’s tough to see the positives when the negatives are so loud.",
+    "therapist": "I hear you, and it’s completely understandable that the negatives can feel so much louder and more present right now. It’s like the good moments are there, but they’re just harder to focus on. Can you think of even one small thing, no matter how minor, that you’re proud of or that went well recently? Sometimes starting small can help shift the balance a bit.",
+    "condition": "baseline",
+    "val_t": -0.1826777458190918,
+    "aro_t": 0.11439657211303711,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you saying that, Luna. It's hard to think of anything positive right now, but I guess I did manage to finish a small project at work on time, even though it felt like a struggle. I don't know if that counts as something to be proud of, though. It just feels like a basic expectation.",
+    "therapist": "That’s a great start, and it’s important to recognize that completing a project on time, even when it feels like a struggle, is a significant accomplishment. It shows your resilience and ability to push through challenges. How do you think acknowledging this small success might impact your current feelings of overwhelm and self-doubt?",
+    "condition": "baseline",
+    "val_t": 0.1988736391067505,
+    "aro_t": 0.1552051305770874,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, but it's hard to feel like a success when I'm constantly worrying about what could go wrong next. It feels like I'm just barely keeping my head above water, and every little thing adds to the pressure. I don't know if acknowledging these small wins will really make a difference when I feel so overwhelmed all the time.",
+    "therapist": "I completely understand how challenging it is to feel like you’re just barely keeping your head above water. It’s natural to focus on the potential negatives when you’re under so much pressure. Acknowledging small wins might not immediately solve everything, but it can be a step toward breaking the cycle of overwhelming thoughts. What do you think might happen if you tried to acknowledge a few more of these small successes each day, even if they feel minor? How might that shift your perspective, even a little bit?",
+    "condition": "baseline",
+    "val_t": -0.04342043399810791,
+    "aro_t": 0.26454436779022217,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you're saying, but it feels like such a big ask to find the silver linings when I'm already struggling so much. It's hard to see the small wins when the big things feel so overwhelming. I worry that trying to acknowledge them might just make me feel more guilty for not handling everything better.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way when you’re already struggling. It’s a heavy burden, and the idea of finding silver linings can feel like just another thing to add to your plate. It’s okay to not feel ready for that right now. What do you think might help you feel a bit more supported or less overwhelmed in the moment, even if it’s just a small step?",
+    "condition": "baseline",
+    "val_t": -0.2977350950241089,
+    "aro_t": 0.06535911560058594,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It’s just really hard to see a way out sometimes. Honestly, I feel like I’m already juggling so much, and even small steps feel like a lot. I guess I’m wondering, what would be a small step that wouldn’t feel overwhelming?",
+    "therapist": "I understand that even small steps can feel overwhelming when you’re juggling so much. It’s important to find something that feels manageable and doesn’t add to your stress. How about starting with something that brings you a sense of calm or relief, even if it’s just for a few minutes? Maybe it’s taking a short break to listen to a favorite song, going for a brief walk, or practicing some deep breathing. What do you think might help you feel a bit more grounded and less overwhelmed?",
+    "condition": "baseline",
+    "val_t": 0.06288588047027588,
+    "aro_t": 0.16128361225128174,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestions, Luna. I know they’re meant to help, but I often find that even the smallest things can feel like a lot. I worry that taking a break might just make me feel guilty for not being productive. It’s hard to find that balance.",
+    "therapist": "I completely understand, and it’s really common to feel that way when you’re under a lot of pressure. The guilt over taking a break can be a tough barrier to overcome. It might be helpful to think of these short breaks as essential for your overall well-being and productivity, rather than as time wasted. What do you think might happen if you allowed yourself a very short, guilt-free break—just a couple of minutes—to do something that brings you a bit of relief? How might that affect your sense of balance and stress levels?",
+    "condition": "baseline",
+    "val_t": -0.08450818061828613,
+    "aro_t": -0.001155853271484375,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you're saying, but it's hard for me to shake the feeling that taking a break is just another thing I should be doing perfectly. I worry that if I take even a short break, I might lose focus and end up feeling even more anxious and guilty afterward. It's a bit of a catch-22, you know?",
+    "therapist": "I totally get that, and it’s a very common struggle to feel like everything, even taking a break, needs to be done perfectly. It’s a tough cycle to break, especially when you’re already feeling anxious and guilty. What if we approached the break as an experiment? Just a brief moment to see how it actually feels, without any pressure to do it perfectly. How might you feel about trying that, even if just once, to see if it changes anything for you?",
+    "condition": "baseline",
+    "val_t": -0.2589762210845947,
+    "aro_t": 0.17674291133880615,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you suggesting that, Luna. It does sound like it could be helpful, but I'm still a bit hesitant. I worry that even a short break might feel like a failure if I don't do it 'right,' and that just adds to my anxiety. How do I manage that fear of not doing it perfectly?",
+    "therapist": "I understand your hesitation, and it’s completely valid to feel that way. The fear of not doing things perfectly can really hold us back. What if we frame this break as a gentle experiment, where there’s no right or wrong way to do it? You can try it out and see how it feels, without any pressure to get it perfect. How might you feel about giving yourself permission to just see what happens, even if it’s not perfect?",
+    "condition": "baseline",
+    "val_t": -0.21527373790740967,
+    "aro_t": 0.15429091453552246,
+    "text_emotion": "Angry"
+  }
+]

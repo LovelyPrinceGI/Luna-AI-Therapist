@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really anxious about this family reunion coming up next month. My cousin always makes these snide comments about my career in front of everyone, like how I should've gone into a more \"stable\" field like she did. Last time, she basically implied I was wasting my potential, and it made me feel so small and defensive in front of my whole family.",
+    "therapist": "It sounds like these family gatherings bring up understandable anxiety for you, especially when your cousin's comments make you feel judged and defensive. What thoughts tend to run through your mind when you anticipate these interactions with her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29481053352355957,
+    "aro_t": 0.2785712480545044,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I always feel like she's judging me for not being as successful as her. Like when she asks about my job or relationship status, I can tell she's just waiting to give me that smug little smile. It makes me dread these gatherings weeks in advance because I know I'll leave feeling like a failure.",
+    "therapist": "The anticipation of these interactions seems to be weighing heavily on you, and I can hear how painful it feels to carry this expectation of judgment. Let's explore this further - when you imagine that smug smile, what's the worst-case scenario you fear might happen at this reunion?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28359103202819824,
+    "aro_t": 0.18655931949615479,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "When I imagine that smug smile, I fear they’ll bring up my past failures—like when I didn’t get the promotion at work or when I struggled with public speaking. I’m worried they’ll use it to make me feel small, like I’m still not good enough, even though I’ve worked so hard to move past those things. It’s like I’m stuck reliving those moments, and I don’t know how to defend myself without sounding defensive.",
+    "therapist": "I hear how vulnerable this makes you feel—like those past challenges could be used against you, despite all the growth you've achieved. It might help to explore what evidence you have that contradicts your cousin's implied judgments—what accomplishments or strengths could you remind yourself of before this reunion?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30897319316864014,
+    "aro_t": 0.15285837650299072,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it’s hard to focus on my accomplishments when I feel like I’m being judged. Even if I remind myself of my strengths, I still worry that my cousin will only see the old version of me—the one who struggled and made mistakes. It feels like no matter how much I’ve grown, those past challenges will always define me in their eyes.",
+    "therapist": "It sounds like you’re carrying a lot of weight from those past experiences, and it’s understandable to feel like they overshadow your progress. Let’s explore this—what would it mean to you if your cousin *did* continue to focus on those past challenges, even if you know how far you’ve come since then?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17799556255340576,
+    "aro_t": 0.14301717281341553,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "It’s frustrating because I feel like no matter how much I’ve grown, my cousin still sees me as the person I was years ago. It’s like they’re stuck in the past, and it makes me wonder if I’ll ever be able to truly move on in their eyes. I guess part of me is afraid that their perspective will always overshadow my progress, no matter what I do.",
+    "therapist": "It sounds like this situation brings up a lot of frustration and self-doubt, especially when it feels like your progress isn’t being recognized. What do you think it would take for you to feel more secure in your growth, regardless of how your cousin sees you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.319042444229126,
+    "aro_t": 0.13725519180297852,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I don’t know if I can ever feel secure in my growth when it feels like my cousin’s opinion matters so much to me. It’s like no matter what I do, I keep comparing myself to them, and it just makes me feel worse. Maybe if I could stop caring so much about what they think, but that feels impossible right now.",
+    "therapist": "It’s clear how much your cousin’s opinion weighs on you, and it’s understandable to feel stuck in this cycle of comparison. What do you think might be one small step you could take to shift your focus away from their judgment and more toward your own sense of accomplishment and growth?",
+    "condition": "emotion_text_only",
+    "val_t": -0.29671621322631836,
+    "aro_t": 0.1832810640335083,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I guess I could try to focus more on my own progress instead of constantly comparing myself to my cousin. But it’s hard because they’re always achieving something big, and it feels like I’m falling behind. I worry that if I stop comparing, I’ll just stop pushing myself altogether.",
+    "therapist": "It sounds like you're caught between two fears—that comparison is draining you, but also that letting go of it might make you complacent. That's a really difficult tension to sit with. What if we explored what healthy motivation looks like for you, separate from comparison? How could you recognize your own progress without it being tied to your cousin's achievements?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1276395320892334,
+    "aro_t": 0.07252347469329834,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I guess I see what you're saying, but it’s hard to imagine what healthy motivation even looks like for me. My cousin’s success has always been this benchmark I measure myself against, and without it, I feel like I’d just drift aimlessly. I’m scared I’ll lose my drive if I stop comparing myself, even if that drive is exhausting.",
+    "therapist": "It makes sense that this feels scary—you’ve relied on comparison as a motivator for so long that the idea of letting go of it leaves you feeling untethered. What if we gently explored what *your* personal benchmarks for success might look like, ones that aren’t tied to your cousin’s path but to what truly matters to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16826093196868896,
+    "aro_t": 0.14218831062316895,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I don't even know what my own benchmarks would look like anymore. Every time I try to think about what I want, my mind just automatically compares it to what my cousin has achieved. It's like I've lost touch with my own desires because I've been measuring everything against her for so long. The idea of defining success for myself feels really uncomfortable and uncertain.",
+    "therapist": "It sounds like this uncertainty about your own desires feels unsettling, especially when comparison has been such a dominant force for so long. That discomfort is completely natural when you’re stepping into uncharted territory. What if we took a moment to gently explore—what’s one small thing you’ve felt proud of recently, separate from anyone else’s achievements?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1307140588760376,
+    "aro_t": 0.16653776168823242,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Hmm, I’m not sure if I’ve felt proud of anything recently. It’s hard to separate my own achievements from what others expect or think is valuable. I guess I did finish a book I’ve been meaning to read for a while, but even then, I caught myself thinking, “So what? It’s not like that’s a big deal.” It feels like I’m always measuring myself against some invisible standard.",
+    "therapist": "It sounds like you’re struggling to recognize your own accomplishments as meaningful, especially when they don’t align with external standards. That harsh inner critic can make it hard to celebrate even small wins. What might it feel like to give yourself permission to acknowledge that finishing the book was a step forward, without comparing it to anyone else’s expectations?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07410049438476562,
+    "aro_t": 0.09002530574798584,
+    "text_emotion": "Neutral"
+  }
+]

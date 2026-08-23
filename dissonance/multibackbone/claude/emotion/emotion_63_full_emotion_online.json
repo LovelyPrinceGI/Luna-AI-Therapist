@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my mom passed away six months ago. It's like everyone around me has just... moved on with their lives, and I'm still stuck in this heavy fog that won't lift. I'm not even sure talking about it will help, because how can words really change the fact that she's gone?",
+    "therapist": "What you're carrying sounds so heavy and isolating — grief doesn't follow anyone else's timeline, and it makes complete sense that you're still deep in that fog six months later. You're right that words can't bring her back, and I'd never claim they could, but sometimes having a space to voice what's inside can help the weight feel just a little less suffocating. I'm wondering — when you picture being \"stuck,\" what does a day in that fog actually look like for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.323370099067688,
+    "aro_t": 0.11488401889801025,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, a day in that fog looks like... waking up and just staring at the ceiling for a while, not really wanting to get up because there's no one to call anymore. My mom was the person I'd talk to about everything, even just small stuff like what I had for lunch, and now there's this silence that fills the whole apartment. I go through the motions at work, come home, and it's just me and that quiet.",
+    "therapist": "The loss you're describing goes so deep — it wasn't just losing your mom, it was losing your person, the one who made even the smallest moments feel worth sharing, and that kind of silence in a home can feel almost unbearable. That quiet isn't emptiness, it's actually full of all the connection that used to be there, which makes it so much harder to sit with. I'm curious — when you're lying there in the morning before getting up, what kinds of thoughts tend to move through your mind?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07223224639892578,
+    "aro_t": 0.01929497718811035,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, that's... that's exactly it. She was the person I'd call about nothing, just to hear her voice, and now when something small happens — like a bird hitting the window or a funny thing on TV — there's just this pause where I reach for the phone and then remember. In the mornings it's mostly guilt, honestly — I keep replaying the last few weeks before she died and wondering if I was there enough, if I said the right things, if she knew how much I loved her.",
+    "therapist": "Those moments of reaching for the phone and then remembering sound like such painful little jolts throughout the day, and the guilt you're carrying on top of that grief must make the mornings especially hard to face. It's so common for love to turn inward like this after a loss — the mind searches for something it could have controlled, and guilt can feel like a way of still doing something for her. I'd gently like to explore that with you — when you replay those last weeks, what specific moment or thought tends to weigh on you the most?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14361202716827393,
+    "aro_t": 0.11333835124969482,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "It's... the last phone call we had, maybe two weeks before she passed. She said she wasn't feeling well and I told her I was busy with work and I'd call her back later, and I just... didn't. I keep thinking if I had just stopped what I was doing for twenty minutes, maybe she would have felt less alone, or maybe I would have noticed something was wrong.",
+    "therapist": "That moment sounds like it has become the lens through which you're seeing your entire relationship with her, and I can hear how much pain you've been holding around it. But I want to gently ask you to consider — in the full picture of your relationship, all those calls about nothing, all those small moments shared, what do you think she would say about whether she knew she was loved by you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1992725133895874,
+    "aro_t": 0.0957874059677124,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I want to say she knew... and part of me does believe that. But then my brain immediately goes back to that last visit, how distracted I was, how I barely sat with her, and it just wipes out everything else. It's like no matter how many good memories I try to hold onto, that one moment has this way of just taking over.",
+    "therapist": "What you're describing has a name in CBT — it's called \"mental filtering,\" where one painful moment gets a megaphone while hundreds of loving ones get pushed to the background, and it's incredibly common in grief but also incredibly unfair to the full truth of who you were to her. The fact that part of you *does* believe she knew she was loved — that's not naivety, that's actually the more complete and honest picture. I'm wondering, if your mom were sitting here right now and you told her about that last call, what do you imagine she would actually say to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.05507540702819824,
+    "aro_t": 0.1569455862045288,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I've been sitting with that question and honestly it kind of broke something open in me, because I think she would have said something like \"oh, stop being so dramatic, you always called me\" and laughed it off. But then that just makes me feel worse in a different way, because it means I'm carrying all this weight that she probably wouldn't have even wanted me to carry. I don't know if that makes the guilt easier or just... lonelier somehow, because she's not here to actually say it.",
+    "therapist": "That insight you just had is really profound — you can hear her voice clearly enough to know she'd want you to put this weight down, and yet she's not here to actually give you that permission, which creates this tender, lonely kind of ache all its own. The guilt and the grief are almost separate things now, aren't they — one you might be able to slowly release, and one that just needs to be felt. I'm curious whether there's something meaningful you could do to honor what she *would* have said — some small way of letting her voice have a little more power than the guilt does?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32752740383148193,
+    "aro_t": 0.1796875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Yeah, I think you're right that they've kind of split apart — the guilt and the grief feel like two different weights now that you name it that way. But when you ask about doing something to honor what she would have said, I honestly don't know where to start, and part of me worries it would feel forced or hollow, like I'm just going through the motions. I guess I'm afraid that if I try to do something meaningful and it doesn't feel meaningful, that'll hurt even more.",
+    "therapist": "That fear makes so much sense — you've already been going through the motions at work, and the last thing you want is for something meant to honor her to feel like more of the same emptiness. It's worth noticing though that the very fact you're afraid it might feel hollow shows how much you want it to feel *real*, which means you're not approaching this carelessly — you're approaching it with love. I wonder if instead of thinking about a grand gesture, we could start smaller — is there any tiny, ordinary thing, maybe even something as simple as those nothing-calls you used to share, that already feels even slightly like *her*?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2775380611419678,
+    "aro_t": 0.1460484266281128,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I sat with that for a second, and... there is one thing. She used to call me every Sunday morning, just to tell me what she was making for breakfast — nothing important, just scrambled eggs or whatever, but she'd describe it like it was a five-star meal. Sometimes I'll make scrambled eggs on a Sunday and I'll think of her, but then I feel guilty, like I'm doing it wrong or not doing enough to really honor her. It's such a small thing that it almost feels embarrassing to even call it meaningful.",
+    "therapist": "There is nothing embarrassing about that — those scrambled eggs on a Sunday morning *are* her, in the most real and unforced way possible, and the fact that she shows up there without you even trying tells you everything about where she lives now. I'd gently push back on the idea that it's \"not enough,\" because honoring someone doesn't have to be large or loud — sometimes it's just letting yourself feel the love that's already quietly present in an ordinary moment. What do you think it would feel like to make those eggs this Sunday and, instead of pushing the memory away, just... let her describe them like a five-star meal for a little while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18581163883209229,
+    "aro_t": 0.07414567470550537,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I think I know what you're saying, and part of me actually wants to try that... but I'm also scared that if I let myself really go there, I won't be able to stop crying, and then I'll just feel worse for the rest of the day. She used to make such a big deal out of those eggs, like they were genuinely the best thing she'd ever tasted, and remembering that makes my chest hurt in a way that's hard to describe. I guess I've been keeping a lid on it because I don't trust myself to open it just a little.",
+    "therapist": "That chest-tightening feeling you're describing is actually love with nowhere to go right now, and it makes complete sense that you've been keeping the lid on — you've been protecting yourself, and that's not weakness, that's survival. But I want to offer you something from what research on grief tells us: tears don't usually make the pain worse, they're actually the pain *moving*, and most people find the other side of a good cry feels lighter, not heavier. What if this Sunday you gave yourself permission to cry as much as you needed — not as a sign that you've broken, but as a sign that those eggs, and her voice, and that love, still mean everything?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30450618267059326,
+    "aro_t": 0.2768526077270508,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me actually wants to believe that... but I'm also scared that if I let myself cry like that, I won't be able to stop. Like, what if I just fall apart completely and there's no one there to help me put myself back together again? I live alone, and the idea of sobbing by myself in my kitchen on a Sunday morning feels more lonely than healing.",
+    "therapist": "That fear of falling apart alone is so real and so valid — grief is hard enough, but grief in a quiet apartment with no one to hold the space with you carries a particular kind of loneliness that deserves to be named. You won't cry forever, even though it feels that way — emotions actually do peak and pass, even the big ones — but I also don't want to dismiss how isolating it sounds to face that without someone nearby. I'm wondering, is there anyone in your life — a friend, a neighbor, even someone you could text beforehand — who could know that Sunday morning might be tender for you, so you're not quite so alone in it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.39947378635406494,
+    "aro_t": 0.2557331323623657,
+    "text_emotion": "Angry"
+  }
+]

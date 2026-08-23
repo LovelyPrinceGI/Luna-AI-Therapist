@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling lately with everything piling up at work. My boss just dumped two new projects on me with these insane deadlines, and I already felt like I was barely keeping my head above water before that. Honestly, I'm not even sure talking about it is going to change anything, because the work is still going to be there when I leave this office.",
+    "therapist": "It sounds like you're carrying a really heavy load right now, and that feeling of being overwhelmed before even more was added makes complete sense — you're not overreacting. You're right that talking won't make the deadlines disappear, but sometimes when we're drowning in pressure, our thoughts can actually make the weight feel even heavier than it already is, and that's something we *can* work with together. I'm curious — when you imagine walking back into work after this, what's the thought that feels most suffocating to you?",
+    "condition": "baseline",
+    "val_t": -0.29359519481658936,
+    "aro_t": 0.1861974000930786,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the thought that hits hardest is that everyone's going to see that I couldn't handle it — like, my manager, my colleagues, they're all going to know I fell behind and think less of me. It's like I can already picture the looks on their faces, this quiet disappointment, and that almost feels worse than the actual work piling up. I know that probably sounds irrational, but it's really hard to shake.",
+    "therapist": "That fear of being seen as not enough by the people around you is incredibly painful, and it makes sense that it feels even more overwhelming than the workload itself — you're essentially carrying both the tasks *and* the weight of what you imagine others are thinking. It's worth gently noticing that you're already certain of their disappointment, even before anything has actually happened, which is something our minds do when we're under stress — they fill in the blanks with our worst fears. What evidence have you actually seen from your manager or colleagues that they see you the way you're imagining they do?",
+    "condition": "baseline",
+    "val_t": -0.34664082527160645,
+    "aro_t": 0.13000035285949707,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "Honestly, when you put it that way, I have to admit my manager hasn't actually said anything negative to me directly. But that almost makes it worse, because the silence feels like it could mean anything, and my brain just... fills it in with the worst possible interpretation. I guess I don't have concrete proof, but the absence of reassurance feels like proof enough to me, if that makes sense.",
+    "therapist": "What you're describing makes a lot of sense — when we're already anxious, silence can feel like a blank canvas that our fears just paint all over, and that feels just as real as if someone had actually said something critical. You've actually identified something really important here: your brain is treating the *absence* of reassurance as evidence of disapproval, which is a very common but exhausting pattern that we can start to gently challenge together. I'm wondering — if a close friend described this exact situation to you, would you tell them that their boss's silence was proof they were failing?",
+    "condition": "baseline",
+    "val_t": -0.1994004249572754,
+    "aro_t": 0.12757742404937744,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... no, I wouldn't tell a friend that. I'd probably say their boss is just busy or distracted or whatever. But it feels different when it's me — like, I know logically that's probably true, but my gut just won't accept it, and I don't know how to make my gut listen to my brain.",
+    "therapist": "That gap you're describing — knowing something logically but not *feeling* it — is one of the most human and frustrating experiences there is, and it actually tells us that this belief runs pretty deep for you, which means it deserves real compassion, not just a quick pep talk. The good news is that we don't change that gut feeling by arguing with it, but rather by slowly collecting small moments of evidence that tell a different story over time. I'm curious — can you think of even one recent moment at work where things went okay, or where someone responded to you in a way that *didn't* fit the story your gut is telling you?",
+    "condition": "baseline",
+    "val_t": -0.16603314876556396,
+    "aro_t": 0.10370469093322754,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I mean... there was this one moment last week where I sent an email to my manager with some ideas for a project, and she actually replied saying she thought they were really solid suggestions. But my immediate reaction was just to think she was being polite, or that she didn't really read it carefully, so it doesn't feel like it counts. I guess that's exactly what you're talking about, but it's hard to just... accept it as real evidence when my brain keeps finding reasons to dismiss it.",
+    "therapist": "You just did something really significant — you caught your mind in the act of discarding evidence that doesn't fit the story, which takes real self-awareness and is actually the first step toward change. That mental move of \"it doesn't count\" is so automatic that most people never even notice it happening, but you did, and that matters. What do you think it would take for a piece of positive feedback to feel \"real\" to you — is there any version of your manager's response that your brain *would* have accepted?",
+    "condition": "baseline",
+    "val_t": -0.13308513164520264,
+    "aro_t": 0.09755170345306396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Honestly, that question kind of stops me in my tracks, because when I actually try to imagine what version of feedback my brain would accept... I'm not sure there is one. Like, if my manager had said it more forcefully, or in front of the whole team, I think I'd have found a reason to dismiss that too — maybe she was just performing for an audience. It's a weird thing to realize, that maybe the bar I've set for \"real\" is actually impossible to clear, and I'm not sure what to do with that.",
+    "therapist": "That's a genuinely profound realization, and it takes real courage to sit with it — what you're describing is a bar that moves just out of reach no matter what, which means the problem was never really about finding the *right* kind of praise, but about something deeper in how you see yourself. This kind of insight is actually a turning point, because it shifts the question from \"how do I get enough reassurance from others\" to \"why do I find it so hard to believe I'm doing okay?\" I'm wondering — when you think back, does this feeling that you're never quite enough feel like it started at work, or does it feel older than that?",
+    "condition": "baseline",
+    "val_t": -0.1503002643585205,
+    "aro_t": 0.1202629804611206,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "It feels older than work, honestly — like I can remember being a kid and my parents always pointing out what I could have done better, even when I did well on something. I'd bring home a good grade and instead of just being happy about it, there'd always be this \"but next time...\" attached to it. So yeah, I think this has been with me a long time, which is kind of a heavy thing to realize because it means it's not just about my job or my boss.",
+    "therapist": "What you just connected is really significant — that voice in your head dismissing your manager's praise may have learned its lines a long time ago, from people who loved you but perhaps didn't realize the message underneath the \"but next time\" was that what you did was never quite enough. Recognizing that this pattern has deep roots doesn't mean you're stuck with it forever; it actually helps explain why it's felt so stubborn and so *personal*, because it is personal — it's been part of your story for a very long time. How does it feel to see it that way — not as a flaw in who you are, but as something you learned in order to cope with your environment back then?",
+    "condition": "baseline",
+    "val_t": 0.02321600914001465,
+    "aro_t": 0.08952224254608154,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think I understand what you're saying, and part of me actually finds it kind of... relieving, I guess, to think of it that way. But another part of me worries that if I blame it on how I was raised, I'm just making excuses for why I can't accept a simple compliment at work without spiraling into self-doubt. It still feels like a flaw, like something I should have outgrown by now, you know?",
+    "therapist": "The fact that you haven't \"outgrown\" it isn't evidence of a flaw — it's evidence of how deeply we internalize the messages we receive when we're young and dependent on the people who shape our world, and that's not something you simply age out of without doing exactly what you're doing right now. Understanding where it came from isn't about making excuses; it's about having compassion for yourself the way you'd have compassion for that kid bringing home a good grade and waiting for a moment of pure pride that never quite came. What do you think that younger version of you would have needed to hear in those moments — and is there any part of you that still needs to hear that now?",
+    "condition": "baseline",
+    "val_t": -0.24422669410705566,
+    "aro_t": 0.10200273990631104,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I think what that kid needed to hear was just... \"I'm proud of you, that's enough, you did well.\" But even saying that out loud right now feels kind of hollow, like I'm just going through the motions of what I'm supposed to say in therapy. I guess part of me is skeptical that telling myself nice things now can actually undo years of waiting for approval that never really came the way I needed it to.",
+    "therapist": "Your skepticism is actually really healthy and worth honoring — you're right that simply reciting kind phrases to yourself isn't going to undo years of deeply learned patterns, and pretending otherwise would feel hollow because it *would* be hollow. The goal isn't really to \"undo\" the past, but to slowly build a new kind of relationship with yourself where positive evidence stops getting automatically discarded — and you've already taken a real step toward that today just by noticing the pattern so clearly. I'm curious — even if you can't fully *feel* it yet, what would it look like in a small, concrete way this week to act *as if* your work was enough, even just once?",
+    "condition": "baseline",
+    "val_t": -0.06785857677459717,
+    "aro_t": 0.18878769874572754,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and I guess it's less intimidating when you frame it as \"acting as if\" rather than actually believing it. But honestly, even thinking about a small concrete thing feels hard, because my brain immediately jumps to all the ways I'll fall short of it. Like, what if I try to treat my work as enough and then my boss sends me a critical email or something, and then the whole thing just collapses?",
+    "therapist": "That instinct to protect yourself from trying something that might not work makes complete sense — if you've learned that good things get taken away or qualified, of course your brain wants to guard against building hope that could collapse. But I want to gently point out something: you're already imagining a future where the experiment fails, which means the bar for \"acting as if\" has quietly shifted from \"try something small\" to \"guarantee nothing bad will happen,\" and that's the same moving bar we noticed earlier. What if a critical email from your boss, if it came, didn't actually mean the experiment failed — what would it mean instead?",
+    "condition": "baseline",
+    "val_t": -0.2354346513748169,
+    "aro_t": 0.1864008903503418,
+    "text_emotion": "Angry"
+  }
+]

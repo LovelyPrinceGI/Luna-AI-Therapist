@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. My team missed a crucial deadline last week, and now the pressure from my boss and clients is just piling up. I don't know if therapy can really help with this, but I feel like I need to talk to someone.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and feeling really overwhelmed right now. It's completely understandable to feel this way, especially with the added stress from your boss and clients. Therapy can definitely be a supportive space to explore these feelings and find ways to manage the pressure. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2065030336380005,
+    "aro_t": 0.2726719379425049,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to stay on top of everything, but it feels like no matter how hard I work, it's never enough. I've been staying late at the office and even working on weekends, but the pressure just keeps piling up. It's hard to see a way out sometimes.",
+    "therapist": "It sounds like you're putting in an incredible amount of effort, and it's really tough when it feels like it's not making a difference. The constant pressure can be exhausting and overwhelming. Have you had a chance to talk to your boss or team about how you're feeling, or are there any small steps you can take to lighten the load?",
+    "condition": "emotion_text_only",
+    "val_t": -0.029018640518188477,
+    "aro_t": 0.09389162063598633,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that you understand how hard I'm trying, but talking to my boss or team feels really daunting. I worry they won't take me seriously or that it might even make things worse. It's hard to find the right words to express how overwhelmed I feel without sounding like I can't handle my job.",
+    "therapist": "I can really understand how daunting it feels to bring up these concerns, especially when you're worried about how it might be perceived. It's natural to want to avoid making things worse, and finding the right words can be challenging. Have you considered writing down your thoughts and feelings to help organize them before you talk to your boss or team? Or maybe there's a trusted colleague who could offer some support or feedback?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2003178596496582,
+    "aro_t": 0.24513614177703857,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate the suggestions, but I feel like writing things down or talking to a colleague might just highlight how much I'm struggling. It's hard because I already feel so anxious about how I'm perceived, and I worry that anything I do will just make it worse. I don't think it will help me feel more confident or less anxious.",
+    "therapist": "I can see how much this anxiety is weighing on you, and it's completely understandable to worry about how you're perceived. It's tough when you feel like any step you take might backfire. Let's try to break this down a bit. Can you think of any small, manageable actions you could take that might not feel as risky but could still help you cope with the stress? Even something as simple as taking short breaks or practicing some relaxation techniques might make a difference. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18310678005218506,
+    "aro_t": 0.11336052417755127,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you trying to help, Luna, but it's hard to see how small actions like taking breaks or relaxing can make a real difference when I feel like I'm constantly under a microscope. It seems like every little thing I do could be scrutinized. I don't want to just brush it off as something minor.",
+    "therapist": "I understand how challenging it is to feel like you're under constant scrutiny, and it's completely valid to feel that small actions might not seem sufficient. It's important to acknowledge that these feelings are real and significant. At the same time, sometimes small actions can build up over time and help you regain a sense of control, even if it doesn't feel like it right away. Have you ever tried any relaxation techniques or strategies that have helped you in the past, even just a little bit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06068313121795654,
+    "aro_t": 0.08318567276000977,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I do understand what you're saying, but it's hard for me to see how small actions can make a difference when I feel so overwhelmed all the time. I've tried deep breathing and meditation before, but it feels like they only provide temporary relief. It's hard to stick with them when I don't see lasting benefits.",
+    "therapist": "I hear you, and it's completely understandable to feel that way when you're overwhelmed all the time. It can be frustrating when the relief from techniques like deep breathing and meditation seems temporary. It's important to find what works best for you, and sometimes it takes a bit of trial and error. Have you considered trying a different relaxation technique, or maybe combining a few different strategies to see if that helps create a more lasting sense of relief? What do you think might be a good next step for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07124364376068115,
+    "aro_t": 0.09485900402069092,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate your understanding, Luna. It's just that I've tried so many things already, and they never seem to stick. I feel like I'm just chasing this elusive sense of calm, and it's exhausting. I don't know if trying another technique or combining them will really make a difference. It feels like I'm just setting myself up for more disappointment.",
+    "therapist": "I understand how exhausting it can feel to try different techniques without seeing the results you hope for. It's completely normal to feel like you're chasing something that seems just out of reach. It can be really discouraging to keep trying and not feel like you're making progress. What if we focus on identifying some small, manageable goals that might feel less overwhelming? Or perhaps we can explore what it is about these techniques that hasn't felt sustainable for you in the past?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13112366199493408,
+    "aro_t": 0.15436804294586182,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, and it does feel like I'm just spinning my wheels sometimes. I guess I'm just worried that setting small goals might not make a big enough difference. It's hard to stay motivated when the anxiety and loneliness feel so overwhelming.",
+    "therapist": "I can really understand how overwhelming it feels when the anxiety and loneliness are so intense. It's tough to stay motivated, especially when it seems like small steps won't make a big enough difference. Let's try to find a balance—maybe we can set some small goals that feel achievable, but also meaningful enough to give you a sense of progress. What are a few things, no matter how small, that you think could help you feel just a little bit better, even if it's just for a short while?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2745215892791748,
+    "aro_t": 0.2284184694290161,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It's just hard to find things that feel meaningful when everything seems so overwhelming. I guess I could try to do something like take a short walk or listen to some music, but it feels like those things won't really change how I feel deep down. It's hard to see the point sometimes.",
+    "therapist": "I completely understand how you feel. It can be really tough to find things that feel meaningful when everything seems so overwhelming. Even small actions like taking a short walk or listening to music might not feel like they're making a big difference, but they can still provide some momentary relief and a break from the stress. Sometimes, it's about finding small moments of respite that can help you recharge, even if just a little. What do you think might help you feel a bit more connected or grounded, even if it's just for a short time?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0058155059814453125,
+    "aro_t": 0.06342637538909912,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It's hard for me to see the value in those small moments sometimes. I feel like I need something more substantial to really make a difference, but I know that's not always realistic. I guess I could try listening to music or taking a walk, but it feels like such a small step when everything else feels so heavy.",
+    "therapist": "I understand how hard it is to see the value in those small moments, especially when everything feels so heavy. It's completely normal to want something more substantial, and it can be frustrating when those smaller steps don't seem to shift the weight you're carrying. At the same time, sometimes those small steps can be a way to build up your resilience and give you a bit of a break. What do you think might help you feel a bit more supported or grounded, even if it's just for a short while? Maybe there's something you enjoy or find comforting that you haven't tried yet?",
+    "condition": "emotion_text_only",
+    "val_t": 0.027682185173034668,
+    "aro_t": 0.10031092166900635,
+    "text_emotion": "Neutral"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my mom passed away last year. Some days I can barely get through my work tasks because I'll just suddenly remember her and completely shut down. It feels like the grief hits me out of nowhere, and I don't know how to handle it.",
+    "therapist": "I hear how deeply painful this loss has been for you, and how the grief still surfaces in unexpected moments. It sounds like these waves of emotion make even daily tasks feel overwhelming right now. Could you tell me more about what goes through your mind when these moments of remembering happen?",
+    "condition": "emotion_text_only",
+    "val_t": -0.41692662239074707,
+    "aro_t": 0.19887030124664307,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It’s hard to put into words, but when the grief hits, I just keep thinking, \"I should’ve done more\" or \"What if I’d noticed the signs sooner?\" I get stuck replaying memories, and then I feel guilty for even trying to move on—like enjoying anything would dishonor them. Some days, just making coffee feels wrong because they’ll never do that again.  \n\nI know people say grief isn’t linear, but that almost makes it worse—why can’t it just *follow rules*? I’m exhausted from never knowing when it’ll ambush me. And honestly? When therapists say \"sit with the feeling,\" I panic. It’s not just sadness—it’s like drowning in what-ifs.",
+    "therapist": "The weight of those \"what if\" thoughts sounds absolutely exhausting—like you're carrying not just the loss, but also this heavy sense of responsibility that might not even belong to you. It makes sense that \"sitting with\" that feels terrifying when it's tangled with so much self-judgment.  \n\nI wonder if we could gently explore one of those memories together—not to replay it, but to notice: what *evidence* do you have that you *could* have done more? (For example, did you have all the information you needed at the time?)",
+    "condition": "emotion_text_only",
+    "val_t": -0.44003891944885254,
+    "aro_t": 0.09742510318756104,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I never really thought about whether I had all the information back then. It's just... when I look back, all I see are the ways I could've acted differently. The what-ifs are so loud that it's hard to consider anything else.  \n\nBut even asking about evidence makes me anxious—like if we find proof I *did* fail, then what? That just confirms my worst fears.",
+    "therapist": "It sounds like exploring this feels risky—like it might confirm your fears, and that’s a really vulnerable place to be. At the same time, I wonder if those \"what ifs\" have been running unchecked for so long that they’ve become almost automatic, without giving you space to question them.  \n\nWhat would it feel like to imagine, even just for a moment, that *not* having all the information at the time might mean you did the best you could with what you knew?",
+    "condition": "emotion_text_only",
+    "val_t": -0.32083427906036377,
+    "aro_t": 0.23364150524139404,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying, but it's hard to accept that I did my best when the outcome was so bad. My mind keeps replaying all the ways I should have known better or acted differently. \n\nThe idea that I might not have had all the information feels like an excuse - like I'm just trying to let myself off the hook when I don't deserve that.",
+    "therapist": "I hear how deeply you hold yourself accountable—it's as if accepting any kindness toward yourself feels like betraying the love you had for your mom. That tension between \"I should have known\" and the reality of human limitations must be agonizing to sit with.  \n\nCould we try something different? Instead of debating whether you deserve compassion, what if we simply noticed how fiercely this guilt is trying to *protect* something—like your connection to her, or the importance of what happened? What do you think that part of you is trying to safeguard?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20184576511383057,
+    "aro_t": 0.10814321041107178,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I never thought about it that way—that the guilt might be trying to protect something. But honestly, that just makes me feel worse. If it's about holding onto my mom, then letting go of the guilt feels like letting go of her all over again. \n\nI don't know if I can separate the two. The pain is the only thing that still feels real sometimes.",
+    "therapist": "I hear how terrifying that idea feels—like loosening your grip on the pain might mean losing your last tangible connection to her. That fear makes so much sense when grief has become intertwined with love.  \n\nWould you be willing to explore what other ways your love for her might still exist—even if the pain weren't so sharp? Not to replace it, but to see what else might feel \"real\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.40573930740356445,
+    "aro_t": 0.0782003402709961,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I don't know... it feels like if I stop hurting, it means I'm forgetting her. The pain is proof I still care. When I try to think of other ways to feel close to her, it just makes me more anxious—like I'm forcing something that should come naturally. \n\nWhat if I can't find those other connections? Then I'll just feel guilty AND empty.",
+    "therapist": "It sounds like the fear of emptiness is almost as overwhelming as the grief itself—like you're caught between holding onto the pain and risking a void if you let it go. That's such a heavy place to be, and it makes sense that trying to imagine other connections feels forced right now.  \n\nWhat if we took this one small step: instead of focusing on finding \"new\" connections, could we just notice any moments—even tiny ones—where she feels *present* with you, without the pain? For example, does anything remind you of her in a way that feels more gentle than sharp?",
+    "condition": "emotion_text_only",
+    "val_t": -0.37614119052886963,
+    "aro_t": 0.2074495553970337,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but sometimes even the gentle reminders hurt because they just make me realize she's not really here. Like when I see her favorite flowers at the store - for a second it feels nice, then comes this crushing wave of \"I can't call to tell her about them.\" It's like every memory has a sting in its tail.",
+    "therapist": "I hear how those bittersweet moments can feel like a cruel tease—a flicker of warmth that quickly turns into another reminder of absence. It makes sense that even the beautiful things now carry that sharp edge of loss.  \n\nWhen that wave of \"I can't call her\" hits after seeing the flowers, what happens next? Does the sadness settle differently than when the guilt thoughts take over?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22626245021820068,
+    "aro_t": 0.17515337467193604,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "It's like the sadness just swallows me whole when that happens. At least with the guilt, I can distract myself by trying to figure out what I should have done differently. But the flower moments...they just leave me empty and paralyzed.  \n\nI don't know why beautiful things hurt more now. Maybe because they remind me of all the beauty she'll never see again? That thought makes it hard to even look at flowers without my chest getting tight.",
+    "therapist": "It sounds like those beautiful moments—like seeing the flowers—carry a special kind of weight, almost as if they amplify the loss in a way that feels impossible to escape. The tightness in your chest tells me how deeply those reminders touch the rawest parts of your grief.  \n\nWhen those paralyzing moments happen, what do you notice about how your body or mind tries to cope—if it does at all?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3197382688522339,
+    "aro_t": 0.23542273044586182,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "It's like my body just freezes up completely when those moments hit. My chest gets so tight I can barely breathe, and my mind just starts racing with all the \"what ifs\" and regrets. Sometimes I just sit there for hours, staring at nothing, because moving forward feels impossible when the grief is that heavy.  \n\nI don't really cope—it's more like I just shut down until it passes. Even when I try to distract myself, everything feels hollow compared to the pain. I don't know how to make that any better.",
+    "therapist": "That frozen, hollow feeling you describe sounds so physically and emotionally draining—like the grief becomes this heavy weight that pins you in place. It makes sense that distraction feels impossible when the pain is that overwhelming.  \n\nWhen you notice your body freezing up like that, would you be willing to try something small with me? Maybe just naming what's happening in the moment: \"My chest is tight, my thoughts are racing, and I feel stuck.\" Sometimes putting words to the experience can create just enough space to breathe. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3790844678878784,
+    "aro_t": 0.25542140007019043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about naming the feelings, but when I'm in that frozen state, even forming words feels impossible. It's like my throat closes up along with my chest. And honestly, sometimes putting words to it just makes the pain feel more real, which makes me panic more.",
+    "therapist": "I hear how overwhelming it feels when even naming the experience seems to amplify the pain—like putting words to it makes the loss more vivid when you're already feeling so raw. That panic makes complete sense when your body is reacting so strongly.  \n\nWhat if we tried something even simpler than words? Maybe just noticing one physical sensation at a time—like the feeling of your feet on the floor, or the air moving in and out of your nose—without needing to label anything? Would that feel any more manageable in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.336559534072876,
+    "aro_t": 0.27917027473449707,
+    "text_emotion": "Angry"
+  }
+]

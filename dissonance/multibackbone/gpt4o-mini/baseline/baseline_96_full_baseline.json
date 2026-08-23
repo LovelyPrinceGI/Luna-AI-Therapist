@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really down since my breakup with Maria three months ago. I used to love hiking with my friends, but now I just can't seem to enjoy it anymore; everything feels so heavy and pointless. Honestly, I'm starting to wonder if therapy can even help me through this.",
+    "therapist": "I'm really sorry to hear that you're feeling this way; breakups can be incredibly tough and it's understandable to feel down. It sounds like you've lost a lot of joy in activities that once brought you happiness. What do you think might help you reconnect with those feelings or even find new sources of joy during this time?",
+    "condition": "baseline",
+    "val_t": -0.3038966655731201,
+    "aro_t": 0.11876130104064941,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding, but honestly, I'm not sure I can reconnect with those feelings right now. Everything just feels so heavy, and even the things I used to love seem pointless without the person I was with. It feels overwhelming to think about trying to find new sources of joy when I'm still processing everything.",
+    "therapist": "It’s completely valid to feel overwhelmed while processing such a significant change in your life. It’s okay to take your time with those feelings; healing isn’t linear, and it’s natural to feel heavy without the person you shared those experiences with. What if we explored some small steps you could take, perhaps even just allowing yourself to be in nature without the pressure to enjoy it right now?",
+    "condition": "baseline",
+    "val_t": 0.1397111415863037,
+    "aro_t": 0.3541828393936157,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that it's okay to feel overwhelmed. I just feel stuck sometimes, like even small steps are too much for me right now. Going into nature sounds nice, but I worry that I’ll just end up feeling more isolated or frustrated if I don’t have the energy to enjoy it.",
+    "therapist": "It’s completely understandable to feel stuck, especially when even small steps seem daunting. Acknowledging that worry is important; perhaps we can look at the idea of going into nature as simply a way to change your environment without any pressure to feel a certain way. What if you approached it with the intention of just being present, without expectations for enjoyment? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.10372865200042725,
+    "aro_t": 0.21567797660827637,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying about going into nature and just being present, but it feels a bit overwhelming to think about doing that. What if I go and just feel even more anxious? I’m worried that I won’t be able to shake off those expectations, even if I try to. It just feels like too much pressure right now.",
+    "therapist": "I hear you—it's completely normal to feel anxious about the possibility of feeling more anxious in a new situation. It can be really tough to let go of those expectations, especially when you're already feeling overwhelmed. What if you considered starting with just a brief moment outside, like sitting on your porch or looking out the window, and see how that feels? It could be a gentle way to ease into it without the pressure of a full hike. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.21462440490722656,
+    "aro_t": 0.2661569118499756,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that suggestion, but I'm not sure how sitting on my porch is really going to help me. It feels a bit too small, like I'm just avoiding the real issue. I worry that even that simple step will just make my anxiety feel more intense because I’ll be overthinking it instead of actually enjoying the moment.",
+    "therapist": "I understand why you might feel that way; it’s common to worry that small actions could lead to more overthinking. It’s important to remember that taking any step, no matter how small, is still a step towards feeling better, even if it doesn’t feel like it addresses the bigger issue right now. How about we approach this idea as an experiment—just to see what happens, without any pressure to enjoy it or solve everything at once? What do you think you might need to feel more comfortable trying that?",
+    "condition": "baseline",
+    "val_t": -0.1143268346786499,
+    "aro_t": 0.20158064365386963,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, but I still feel hesitant about trying out these small steps. It’s hard for me to see how they could really make a difference when I’m so overwhelmed by everything else going on in my life. I worry that I’ll just end up overthinking them, and that feels exhausting.",
+    "therapist": "I can see why you'd feel hesitant; when everything feels overwhelming, even small steps can seem like too much. It’s okay to feel exhausted by the idea of overthinking; that’s a common struggle. How about we focus on acknowledging those feelings without the pressure to act right now? What might it look like to simply sit with those emotions for a moment, without needing to change anything?",
+    "condition": "baseline",
+    "val_t": -0.18170905113220215,
+    "aro_t": 0.21538269519805908,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you saying that it's okay to feel exhausted, but sitting with my emotions feels really uncomfortable. I usually try to push them away because I think if I just ignore them, they'll go away. Honestly, I’m scared that if I acknowledge them, they'll just take over and I won’t know how to handle it.",
+    "therapist": "It’s completely understandable to feel scared about acknowledging those emotions, especially when pushing them away feels like a more manageable option. It can be uncomfortable to sit with feelings that seem overwhelming, but sometimes, allowing ourselves to feel them can actually lessen their intensity over time. What do you think might help you feel safer or more supported in exploring those emotions, even just for a few moments?",
+    "condition": "baseline",
+    "val_t": -0.2827221155166626,
+    "aro_t": 0.24460899829864502,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, Luna, but honestly, the idea of sitting with those feelings just makes me feel more anxious. I worry that if I let them in, they’ll completely take over and I won't know how to handle it. It feels like I'm walking a tightrope between acknowledging them and just trying to keep some sense of stability in my life.",
+    "therapist": "I hear you—it sounds like you're in a really tough spot, trying to find balance between acknowledging your feelings and maintaining stability. It's completely natural to feel anxious about letting those emotions in, especially when they seem so powerful. What if we approached this as a gradual process, perhaps by identifying one small feeling to acknowledge at a time, rather than everything at once? How does that idea sit with you?",
+    "condition": "baseline",
+    "val_t": -0.21605050563812256,
+    "aro_t": 0.12364733219146729,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about acknowledging my feelings gradually, but it feels a bit overwhelming to even think about doing that. What if I pick a feeling, and it just spirals into something bigger? I worry that once I start, I won't be able to control it, and then I'll feel even more anxious.",
+    "therapist": "It makes sense to feel nervous about picking a feeling, especially when you’re worried it might lead to overwhelming emotions. It’s okay to be cautious; taking care of yourself is important. What if we considered just naming that feeling instead of diving deeper into it right away? Sometimes simply acknowledging what we’re feeling can provide a sense of relief without the pressure of exploring it fully. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.24089276790618896,
+    "aro_t": 0.22721552848815918,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about just naming the feeling, and it does sound like a less intense way to approach it. But part of me worries that if I just name it, I might end up just brushing it off instead of really dealing with it. What if it just gets stuck there and I don’t actually feel any better?",
+    "therapist": "It’s completely valid to worry that naming a feeling might lead to brushing it off; it can feel like a delicate balance. Acknowledging a feeling doesn’t mean you have to dive deep into it right away; instead, it can be a way to recognize its presence without feeling overwhelmed. How might it feel to just name the feeling and then give yourself permission to set it aside for now, knowing you can revisit it later when you’re ready?",
+    "condition": "baseline",
+    "val_t": -0.17560935020446777,
+    "aro_t": 0.044881582260131836,
+    "text_emotion": "Sad"
+  }
+]

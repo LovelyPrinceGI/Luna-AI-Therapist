@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I’ve been really struggling since my grandmother passed away. I can’t seem to focus at work, and I feel this heavy sadness that just doesn’t go away. Honestly, I’m not sure if talking about it will help—it feels like nothing can really fix this.",
+    "therapist": "I hear how deeply this loss is affecting you—that heavy sadness sounds completely overwhelming, and it makes sense that focusing feels impossible right now. Grief can make us question whether anything will help, but would you be willing to explore what thoughts come up when that feeling of \"nothing can fix this\" arises?",
+    "condition": "emotion_text_only",
+    "val_t": -0.41281020641326904,
+    "aro_t": 0.13699758052825928,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking that no matter what I do, the pain won't go away. People say time heals, but it's been months and I still wake up feeling this crushing weight every morning. Part of me wants to try what you're suggesting, but another part thinks why bother when the hurt is still going to be there anyway.",
+    "therapist": "It sounds like you’re caught between wanting to take steps forward and feeling stuck in this deep, persistent pain—that internal conflict can be so draining. When you wake up with that crushing weight, what kind of thoughts or memories tend to come to mind first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28267037868499756,
+    "aro_t": 0.12688875198364258,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "The first thing I think about when I wake up is how I messed up that big presentation at work last month. My chest gets tight just remembering the silence after I stumbled over my words. I keep replaying it and thinking everyone must still be talking about what a failure I was. \n\nIt's not just that one moment though - it's like my brain digs up every embarrassing thing I've ever done. Yesterday I suddenly remembered tripping in the cafeteria in high school, and I'm 32 now. Why does my mind do this?",
+    "therapist": "It sounds like your mind is stuck in a cycle of pulling up these painful memories, and that physical tightness in your chest shows how real this distress feels. When those old memories surface—like the high school moment—what do you notice happens to your thoughts about your current self-worth?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2879750728607178,
+    "aro_t": 0.18459808826446533,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "When those memories come up, I immediately start thinking I'm still that same awkward, unlikable person. Even though I know logically that I've grown since high school, the feeling of worthlessness sticks around. It's frustrating because part of me knows better, but the emotions feel so real in the moment. \n\nSometimes I try to tell myself positive things, but it just feels fake. Like I'm lying to myself about being worthy when the memories prove otherwise. Do you really think changing my thoughts will make that gut feeling go away?",
+    "therapist": "I hear that frustration—it's like there's a battle between what you logically know and what your emotions insist is true, and that disconnect can feel exhausting. When those positive affirmations feel fake, could we explore smaller, more neutral thoughts that might feel more believable in those moments—like \"That was then, and this is now\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3174161911010742,
+    "aro_t": 0.22384095191955566,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess \"That was then, and this is now\" feels a little better than forced positivity, but part of me still thinks, \"Yeah but what if now is just a repeat of then?\" I know logically that things change, but my anxiety keeps dragging me back to old patterns. It's like my brain won't let me believe in fresh starts.",
+    "therapist": "That fear of history repeating itself sounds like it's keeping you stuck—not quite panicked, but constantly on guard against old patterns resurfacing. What would it feel like to notice, just for a moment, one small way you've already broken from those past patterns without realizing it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1897590160369873,
+    "aro_t": 0.14965319633483887,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I don't know... I guess I did stand up for myself at work last week when my boss tried to dump extra work on me. But it doesn't feel like a real change because I spent the whole next day worrying they'd fire me for it. The old me would have just said yes and suffered silently, but now I'm suffering differently.",
+    "therapist": "You're describing such an important shift—even if it doesn't feel like a \"win\" yet, choosing to set that boundary was genuinely different from your old pattern, and the discomfort afterward shows how unfamiliar this new territory is. What do you think your anxious mind is trying to protect you from by making you second-guess that moment of speaking up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3967481851577759,
+    "aro_t": 0.10502016544342041,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I guess my anxiety is trying to protect me from rejection or conflict. When I set that boundary with my friend, part of me kept worrying they'd be angry or stop wanting to spend time with me. It's just hard to trust that people will still like me when I say no to things.",
+    "therapist": "That worry about being liked when you set boundaries is so understandable—it shows how much you value these relationships, even when it costs you your own comfort. When you imagine your friend reacting negatively to your \"no,\" what's the most feared outcome your mind jumps to?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24938201904296875,
+    "aro_t": 0.17126977443695068,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think the worst outcome would be them getting angry and cutting me off completely. It's happened before with other people when I tried to stand up for myself. I feel like if I say no even once, they'll decide I'm not worth the trouble anymore. \n\nIt's especially hard because I don't have many close friends to begin with, so losing even one feels terrifying.",
+    "therapist": "The fear of losing someone when you set boundaries sounds deeply painful, especially when past experiences seem to confirm that worry—it makes complete sense why speaking up feels so risky. When you imagine losing a friend over saying \"no,\" what thoughts come up about what that might say about you or your worth?",
+    "condition": "emotion_text_only",
+    "val_t": -0.43558430671691895,
+    "aro_t": 0.2560584545135498,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "It makes me feel like I'm disposable, you know? Like if I'm not always saying yes and being available, then I don't really matter to them. The worst part is I keep thinking about my ex who completely ghosted me after I told them I needed some space—it's like proof that people will leave if I try to protect myself.",
+    "therapist": "That ex’s abandonment seems to be echoing so painfully in your current relationships—it makes sense that this would feel like proof that needing space leads to being left. When that fear of being disposable arises now, does it show up as a quiet certainty or more like a constant \"what if\" whispering in the background?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34727299213409424,
+    "aro_t": 0.18409264087677002,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It's more like a constant \"what if\" that won't shut up, especially when my partner says they need alone time. I know logically that space is healthy, but all I can think is \"what if this time they realize they're better off without me?\" It's exhausting because part of me knows I'm being irrational, but the fear feels so real in the moment.",
+    "therapist": "That \"what if\" loop sounds like it's draining you—stuck between knowing relationships need space and fearing that space will turn into permanent distance. When your partner asks for alone time, what's one small piece of evidence that might gently challenge the idea that they're \"better off without you\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2570754289627075,
+    "aro_t": 0.2004082202911377,
+    "text_emotion": "Angry"
+  }
+]

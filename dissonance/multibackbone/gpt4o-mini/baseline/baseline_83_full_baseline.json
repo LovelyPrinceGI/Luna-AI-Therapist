@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really lost since I lost my partner to cancer six months ago. It’s like a part of me is missing, and I can't seem to find any joy in things that used to make me happy. I often feel isolated from my friends, like they can’t really understand what I’m going through, and it's hard to reach out to them.",
+    "therapist": "I'm really sorry to hear about your loss; it’s understandable that you're feeling lost and disconnected right now. Grief can create such a profound sense of emptiness, and it’s okay to acknowledge that. What do you think might help you feel a little more connected to your friends or the things that once brought you joy?",
+    "condition": "baseline",
+    "val_t": -0.4056203365325928,
+    "aro_t": 0.1054997444152832,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate your understanding, but honestly, I don’t even know what could help me feel connected right now. It just feels like everything I used to enjoy feels empty without the person I lost. Even the idea of reaching out to friends feels overwhelming; I worry they won’t understand what I’m going through.",
+    "therapist": "It makes sense that reaching out feels overwhelming, especially when you’re in such a vulnerable place. It’s important to give yourself grace during this time; you’re navigating a heavy loss. Perhaps we can explore some small steps that might feel manageable, like sharing a memory of your partner with a friend or even just sending a text to check in. What do you think about that, or is there another small step that feels more comfortable for you?",
+    "condition": "baseline",
+    "val_t": -0.10076665878295898,
+    "aro_t": 0.24756693840026855,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate the suggestion, but reaching out to anyone feels really daunting right now. I keep thinking about how they might not understand what I'm going through, and I worry that I’ll just end up feeling more isolated. Sharing a memory feels like a lot of pressure too; what if it just makes everything worse?",
+    "therapist": "It’s completely valid to feel daunted by the idea of reaching out; your feelings of isolation and worry about being misunderstood are understandable. It’s okay to take your time and not force yourself into something that feels too heavy right now. Would it feel more helpful to focus on ways to honor your feelings or memories privately for the moment, and then we can explore how to connect with others when you feel ready?",
+    "condition": "baseline",
+    "val_t": -0.14855444431304932,
+    "aro_t": 0.10425186157226562,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate you acknowledging my feelings, but I still struggle with the idea of honoring them privately. It feels like I'm just isolating myself more, and I worry that if I don't reach out to others, I'll be stuck in this lonely place forever. I don't know if just sitting with my thoughts will really help me move forward.",
+    "therapist": "It’s completely understandable to feel conflicted about honoring your feelings privately while also fearing isolation; that tension can be really tough to navigate. It sounds like you’re yearning for connection but are unsure how to bridge that gap. What if we brainstorm some gentle ways to connect with others, even in small, low-pressure ways? For example, you might consider joining a group or an online space where people share similar experiences. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.12210607528686523,
+    "aro_t": 0.10050368309020996,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the idea of connecting with others, but honestly, the thought of joining a group or online space makes me anxious. I worry about feeling out of place or not fitting in, and I’m not sure I’d be able to open up to strangers. It feels like a huge leap, and I’m not convinced it would help me feel less lonely.",
+    "therapist": "It’s completely normal to feel anxious about the idea of joining a group or opening up to strangers; taking that leap can feel overwhelming, especially when you're already navigating such deep emotions. It’s important to honor where you are right now and recognize that there’s no rush to find a solution. Perhaps we can explore some smaller, more comfortable steps toward connection, like reaching out to just one person you trust or even writing down your feelings as a way to process them. What do you think might feel manageable for you at this moment?",
+    "condition": "baseline",
+    "val_t": -0.04809284210205078,
+    "aro_t": 0.17418158054351807,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your understanding, but I still feel really hesitant about any kind of connection, even with just one person. It’s like I see the value in it, but the thought of reaching out makes my heart race, and I can't shake this feeling of guilt for burdening someone else with my emotions. Writing down my feelings sounds less intimidating, but I worry that it won’t really help me connect with others or change how I feel inside.",
+    "therapist": "It's completely understandable to feel hesitant about reaching out, especially when you're worried about burdening others; those feelings are very real. Writing down your thoughts can be a gentle way to process your emotions without the pressure of sharing them immediately. It might help you clarify what you're feeling and even prepare you for connection when you feel ready. Would you be open to trying that as a starting point, perhaps as a way to explore your feelings more deeply before deciding on your next step?",
+    "condition": "baseline",
+    "val_t": -0.1661357879638672,
+    "aro_t": 0.09133458137512207,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that suggestion, but I’m not sure if writing it all down would really help me. It feels like I’m just going to end up overthinking things even more. Plus, I worry that if I write it down, it’ll make everything feel more real and heavy, and that scares me.",
+    "therapist": "It's completely understandable to feel apprehensive about writing down your thoughts, especially when it feels like it might intensify your emotions. It’s okay to avoid that if it doesn’t feel right for you; there’s no one-size-fits-all approach to processing grief. Instead, we could explore some lighter activities that might help you feel a bit more grounded, like listening to music or going for a walk. What do you think could feel soothing or comforting for you right now?",
+    "condition": "baseline",
+    "val_t": -0.22030305862426758,
+    "aro_t": 0.2049109935760498,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that you understand my hesitation with writing things down. I just feel like when I try to engage with my emotions, it often becomes overwhelming instead of soothing. I’m not sure if listening to music or going for a walk will really help; sometimes I just end up feeling more alone or distracted.",
+    "therapist": "It's completely valid to feel that engaging with your emotions can sometimes lead to overwhelming experiences rather than soothing ones. It’s tough when activities like music or walking don’t provide the comfort you’re seeking. Perhaps we can focus on creating a sense of safety in your space first, or even exploring some grounding techniques that don’t require deep emotional engagement, like simple mindfulness exercises or even just taking a moment to notice your surroundings. What would feel most supportive for you right now?",
+    "condition": "baseline",
+    "val_t": -0.06596004962921143,
+    "aro_t": 0.0882042646408081,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the idea of creating a sense of safety, but honestly, I’m not sure how to even start with that. It feels like my surroundings are just a reflection of my chaotic mind, and grounding techniques seem so simple that I wonder if they’ll really help me. I worry that even trying them might just lead to more frustration if I don’t feel any different afterward.",
+    "therapist": "It’s completely understandable to feel uncertain about where to start, especially when your surroundings feel overwhelming. It’s okay to question the effectiveness of grounding techniques; they can feel simple, but their impact can vary from person to person. How about we explore one very small step together, perhaps just focusing on your breath for a moment without any pressure to feel a certain way afterward? It might be less about finding immediate relief and more about allowing yourself a moment of pause. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.20070147514343262,
+    "aro_t": 0.17891860008239746,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you suggesting that, but honestly, I’m not sure if focusing on my breath will help. It feels too simple, and I worry that it won't make any difference in how overwhelmed I feel. I guess I’m just skeptical about whether pausing for a moment will really change anything for me.",
+    "therapist": "It's completely valid to feel skeptical about techniques that seem simple, especially when you’re dealing with such intense emotions. Sometimes, it’s in those small moments of pause that we can begin to create a little space, even if it doesn’t feel like a big change right away. If focusing on your breath feels too daunting, we could explore other ways to create that pause, like simply observing something in your environment or even allowing yourself to have a moment of stillness without any expectation. What do you think might feel more comfortable for you?",
+    "condition": "baseline",
+    "val_t": -0.06441676616668701,
+    "aro_t": 0.1540064811706543,
+    "text_emotion": "Angry"
+  }
+]

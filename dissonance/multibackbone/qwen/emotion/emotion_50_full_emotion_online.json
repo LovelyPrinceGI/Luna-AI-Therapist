@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really anxious lately. After failing two exams this semester, I can't stop worrying about whether I'll be able to graduate on time. It feels like everything is falling apart, and I’m not sure if therapy can even help with this.",
+    "therapist": "Hi there, it sounds like you're going through a really tough time and feeling quite anxious about your academic future. It's completely understandable to feel overwhelmed, especially with the added pressure of failing those exams. How have you been coping with these worries so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3456944227218628,
+    "aro_t": 0.2585524320602417,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to stay on top of my studies, but it feels like no matter how much I study, I can't shake this constant worry that I'll fail again. I've been really hard on myself, and it's just adding to my anxiety. It's tough to find a way to break this cycle.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself, and that can make it even harder to break the cycle of worry and anxiety. It's important to recognize that everyone has setbacks, and it doesn't define your entire academic journey. What are some small steps you think you could take to start easing that pressure and maybe find a more balanced approach to your studies?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16784608364105225,
+    "aro_t": 0.16747844219207764,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, but it's hard to shake off the feeling that every mistake could have big consequences. I know everyone makes mistakes, but it feels like I can't afford to slip up, especially with my exams coming up. Taking small steps sounds good, but I'm not sure what those steps would be or if they would even make a difference.",
+    "therapist": "I can see how deeply you're feeling the weight of these potential consequences, and it's completely understandable to be concerned. It's important to recognize that while mistakes can feel significant, they don't have to define your entire path. Small steps can make a difference, even if they seem minor at first. For example, setting realistic study goals, taking short breaks to recharge, or seeking support from peers or a tutor might help. What do you think about trying some of these strategies, or is there another small step you can imagine taking to start feeling more in control?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0021724700927734375,
+    "aro_t": 0.035264015197753906,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate your suggestions, Luna, and I know they make sense, but it's hard for me to see how these small steps will really make a difference when I feel so overwhelmed. It's like I'm drowning in this sea of anxiety and guilt, and these steps feel too small to save me. I guess I'm just struggling to believe that they'll actually help.",
+    "therapist": "I can really understand how overwhelming and daunting this all feels right now. It's completely normal to doubt whether small steps will make a difference when you're in the middle of such a challenging situation. It's like trying to climb a mountain one tiny step at a time—it can feel almost impossible at first. What do you think might help you start to believe in the power of these small steps, even if just a little bit? Maybe there's a specific goal or a small victory that could give you some hope?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15185284614562988,
+    "aro_t": 0.23565971851348877,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you saying that, Luna. It does feel like an uphill battle, and sometimes I just can't see how these small steps will amount to anything significant. I guess I could try setting a really small, achievable goal, but I worry that even that might feel too big or that I'll get discouraged if it doesn't go as planned. How do I find the courage to even start?",
+    "therapist": "I understand how daunting it can feel to start, especially when you're already carrying so much weight. It's completely normal to worry about getting discouraged, but starting with something very small can help build momentum and confidence. Maybe we can think of a tiny goal that feels almost too easy to achieve, just to get the ball rolling. What’s something you could do today that feels almost effortless, even if it’s just a five-minute task? This can help you start to see that you can take control, even if it’s in small ways.",
+    "condition": "emotion_text_only",
+    "val_t": -0.043982863426208496,
+    "aro_t": 0.12191283702850342,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, and I really do want to try, but it feels like even the smallest things can be overwhelming sometimes. I mean, I know starting small is supposed to help, but I just worry that I'll end up feeling like I can't even manage that. Maybe I could try to tidy up my desk or something, but it’s hard to even get started when I feel so stuck.",
+    "therapist": "I completely understand how overwhelming even the smallest tasks can feel when you're in this state. It's okay to feel stuck, and it's important to be gentle with yourself. Starting with something as simple as tidying up your desk can be a good way to create a small sense of control and accomplishment. If you find it hard to get started, maybe you could set a timer for just five minutes and see what you can do in that time. How does that sound? Is there anything else that might make it feel a bit easier to begin?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28637099266052246,
+    "aro_t": 0.13525354862213135,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I don't think it will work for me. It's hard because even that small task feels like a mountain. I worry that if I start and don't finish, I'll just feel more overwhelmed and disappointed in myself.",
+    "therapist": "I understand how overwhelming even small tasks can feel, and it's completely valid to worry about not finishing and feeling more disappointed. It's important to be kind to yourself and acknowledge that these feelings are a part of your current struggle. Instead of focusing on completing the task, maybe we can start by just setting an intention to spend a few minutes on it without any pressure to finish. What do you think about just giving it a try, even if it's just for a moment, to see how it feels?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31276845932006836,
+    "aro_t": 0.16970443725585938,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna, and I know you're trying to help. But it's hard for me to even start something without feeling like I'm setting myself up for failure. I get anxious just thinking about it, and that anxiety makes it feel like I can't do anything at all. It's a vicious cycle.",
+    "therapist": "I can really understand how paralyzing that anxiety can be, and it's completely normal to feel like you're setting yourself up for failure. It sounds like the anxiety is creating a vicious cycle that's hard to break. One thing that might help is to focus on the process rather than the outcome. Instead of worrying about whether you'll finish a task, you could try to focus on the act of starting and being present in the moment. What do you think about just giving yourself permission to start something, even if it's just for a minute, without any expectations of how far you'll get? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23655152320861816,
+    "aro_t": 0.2799168825149536,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It makes sense, but it's hard for me to just start something without feeling like I need to finish it right away. I worry that if I don't set high expectations, I won't get anything done at all. It's like I need that pressure to keep me moving forward, even though it's stressful.",
+    "therapist": "I understand that feeling of needing high expectations to keep you moving forward, even though it adds to your stress. It's a tricky balance to strike. Maybe we can explore finding a middle ground—setting realistic expectations that still provide some structure, but without the overwhelming pressure. What do you think about setting a very small, manageable goal for today, just to see how it feels to start without the pressure to finish? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04373502731323242,
+    "aro_t": 0.18465471267700195,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I see where you're coming from, but I'm not sure if setting a small goal will really make a difference. It's hard for me to shake the feeling that if I don't push myself really hard, I'll just end up not doing anything at all. I guess I can try it, but I'm a bit skeptical about whether it will actually help me feel less stressed.",
+    "therapist": "I understand your skepticism, and it’s completely valid to have those concerns. It can be really challenging to break away from the idea that pushing yourself hard is the only way to get things done. Setting small goals isn't about avoiding the work; it's about finding a way to start that doesn't immediately trigger your anxiety. Maybe we can start with something very small, like taking a five-minute break to breathe deeply or writing down one thing you’re grateful for. How does that feel to you, and do you think it might be a bit easier to try?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07920229434967041,
+    "aro_t": 0.08279597759246826,
+    "text_emotion": "Neutral"
+  }
+]

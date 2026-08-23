@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really dreading this family reunion that's coming up next month, and just thinking about it makes my heart race and my chest tighten. There was this big fallout with my cousin last year and I honestly don't know how to face everyone after that. I'm not even sure talking about it here is going to change anything, but I figured I'd at least try.",
+    "therapist": "It takes real courage to show up and try, even when part of you doubts it'll help — and I'm glad you did. The physical sensations you're describing, that racing heart and chest tightness, tell me this situation carries a lot of weight for you, and that makes complete sense given the fallout with your cousin. I'd love to understand a little more — when you imagine being at that reunion, what's the specific moment or scenario that feels most difficult to face?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21159863471984863,
+    "aro_t": 0.2678506374359131,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I think the hardest moment would be walking in and seeing my cousin already there, surrounded by family, and everyone acting like nothing happened. Like, I'd be standing there knowing what she said about me behind my back, and everyone else would just be laughing and talking, completely oblivious. That image alone makes my chest tight just thinking about it — this feeling of being totally invisible and wronged at the same time.",
+    "therapist": "That image sounds really painful — feeling unseen and carrying this private wound while everyone around you seems unbothered is a deeply isolating experience. I'm curious about the thought underneath that moment though — when you picture yourself standing there feeling invisible and wronged, what does that scene tell you about yourself or your place in the family? Sometimes our most distressing mental images carry a hidden belief worth examining.",
+    "condition": "emotion_text_only",
+    "val_t": -0.0711662769317627,
+    "aro_t": 0.2730633020401001,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I guess... when I picture that scene, the thought that comes up is something like \"I don't really matter here.\" Like, the family just keeps moving and laughing and nobody notices that I'm hurting, and part of me takes that as proof that my feelings are just less important than everyone else's. It's a hard thing to say out loud, honestly, because it sounds so dramatic when I put it into words, but that's what it feels like.",
+    "therapist": "It doesn't sound dramatic at all — it sounds like a really honest and vulnerable thing to name, and I'm glad you trusted yourself enough to say it out loud. That belief, \"I don't really matter here,\" is worth gently examining together, because it's doing a lot of heavy lifting in that imagined scene — it's actually your mind treating a moment of people being *unaware* of your pain as *evidence* that they don't care about it. I'm wondering, is there anything from your history with this family — moments outside of this situation — that might tell a different story about whether you matter to them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.033503055572509766,
+    "aro_t": 0.20712745189666748,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "I mean... yeah, there probably are moments, if I really think about it. My aunt did call me out of nowhere last year just to check in, and my cousin remembered something small I'd mentioned months before and brought it up again. But it's hard to hold onto those things when my brain keeps going back to this image of everyone just... carrying on without me, like I'm not even a blip on their radar.",
+    "therapist": "It's really significant that those moments came to you — your aunt's unprompted call, your cousin remembering that small detail — those are quiet but real pieces of evidence that you *do* register with the people around you. What you're describing is something our minds do so naturally, where one painful image drowns out a whole collection of warmer moments, and it's worth noticing that your brain is selectively curating the \"proof\" it's using to support that belief. When you hold both things at once — that reunion image *and* your aunt's call — does the thought \"I don't really matter here\" still feel as solid and certain as it did before?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1892317533493042,
+    "aro_t": 0.09849977493286133,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I hear what you're saying, and I guess... no, it doesn't feel quite as solid when I put those two things side by side. But there's still this part of me that wonders if my aunt just called because she was bored, or my cousin remembered that detail by accident, you know? Like my brain immediately wants to find a way to discount those examples and go back to the familiar story that I don't really matter.",
+    "therapist": "What you just did there is actually a really important insight — you caught your brain in the act of discounting, and naming that pattern is a meaningful step. It's worth asking: if a close friend shared those same two examples with you and then said \"but she was probably just bored,\" what would you say to them? Sometimes we apply a completely different, harsher standard of evidence to ourselves than we would to someone we care about.",
+    "condition": "emotion_text_only",
+    "val_t": -0.04701030254364014,
+    "aro_t": 0.12518155574798584,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I mean... if a friend said that to me, I'd probably tell them that those moments were real and that the other person clearly enjoyed their company. But it's just so much harder to believe that when it's about me — like, the rules feel different somehow, and I know that's probably not logical. I guess I'm just worried that if I start giving myself that same benefit of the doubt, I'll miss some real warning sign that someone actually doesn't want me around.",
+    "therapist": "You just spotted something really important — you already *know* the kinder interpretation is more logical, and yet there's this protective part of you that resists applying it to yourself, almost like self-doubt is standing guard against a future hurt. That worry, that if you're too generous with yourself you'll miss a real warning sign, makes a lot of sense as a strategy, but it's worth asking whether that hypervigilance has actually kept you safer, or whether it's mostly just cost you the ability to feel like you belong. What do you think that protective part of you is most afraid would happen if you did start extending yourself the same grace you'd give a friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24876391887664795,
+    "aro_t": 0.12781000137329102,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I think that part of me is afraid that if I stop being so hard on myself, I'll get comfortable and then not see it coming when people actually do pull away or decide I'm too much. Like, the self-criticism almost feels like it's keeping me prepared, you know? But I'll admit, sitting here right now, I can't actually think of a single time that beating myself up first made the loneliness hurt any less when it happened.",
+    "therapist": "That last thing you said is really worth sitting with — you've been carrying this self-criticism like a shield, but when you look back honestly, it never actually softened the blow of loneliness when it came. That's a really courageous thing to recognize, because it gently pulls the rug out from under the idea that being hard on yourself is keeping you safe — it's been costing you without really delivering on its promise. I'm wondering, if self-criticism isn't actually the protection you thought it was, what might a gentler, more realistic way of staying aware of your relationships look like for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36238622665405273,
+    "aro_t": 0.1858609914779663,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me actually agrees with it, which is kind of uncomfortable to admit. But when I try to imagine being gentler with myself about my relationships, I almost immediately feel like I'd just... stop paying attention, like I'd miss the signs that I'm pushing people away again. It's like the self-criticism feels like vigilance, even if it's not actually working.",
+    "therapist": "There's something really meaningful in the fact that part of you *agrees* — even if it feels uncomfortable, that's not a small thing. What you're describing is a belief that's quietly running in the background: that gentleness equals inattention, as if caring about yourself and staying aware of your relationships are somehow opposites — but I'd gently challenge that, because real attentiveness actually comes from a calmer, clearer place, not a self-critical one. What if staying connected to your relationships didn't require you to be your own harshest critic — what might \"paying attention with kindness\" actually look like in practice for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11490058898925781,
+    "aro_t": 0.11941826343536377,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it feels kind of abstract right now. Like, \"paying attention with kindness\" sounds nice in theory, but when I'm actually in a moment where I feel like I've let someone down or haven't reached out in too long, the gentle approach just feels like making excuses for myself. I guess I'm worried that if I'm not hard on myself about it, I'll just... drift further away from the people I care about.",
+    "therapist": "That worry makes a lot of sense, and I want to acknowledge that you're not just resisting change for no reason — you genuinely care about the people in your life, and that care is actually what's underneath all of this. But I'd gently point out that drifting from people and being kind to yourself aren't the same thing — in fact, when we feel shame about not reaching out, it often makes it *harder* to pick up the phone, not easier, because the self-criticism adds a layer of dread on top of the already difficult moment. Can you think of a specific recent time when you felt like you'd let someone down — and we could look together at whether the self-criticism actually moved you closer to them, or whether it quietly got in the way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18146371841430664,
+    "aro_t": 0.043090224266052246,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "Yeah, there was this thing with my friend Marcus a few weeks ago — he texted me asking if I wanted to grab coffee, and I just... didn't respond for like four days. I kept telling myself I was a terrible friend, that he probably already thought I was flaky and didn't care, and honestly that just made it feel even more impossible to reply because I didn't know how to explain the silence. So I guess you're right that the self-criticism didn't exactly push me to pick up the phone, but I still feel like if I just let myself off the hook, I'll keep doing the same thing and eventually lose him altogether.",
+    "therapist": "What you just described with Marcus is such a clear and honest example of exactly what we've been talking about — the self-criticism didn't motivate you, it actually built a wall that made reaching out feel impossible. And I want to gently separate two things that your mind is fusing together: \"letting yourself off the hook\" and \"doing nothing differently\" aren't the same thing — you can respond to that four-day silence with self-compassion *and* still choose to text Marcus today. What do you think would have happened if, instead of \"I'm a terrible friend,\" the thought had been something like \"I've been struggling and I can still reach out now\" — do you think that might have made it easier to reply?",
+    "condition": "emotion_text_only",
+    "val_t": -0.255279541015625,
+    "aro_t": 0.12974703311920166,
+    "text_emotion": "Angry"
+  }
+]

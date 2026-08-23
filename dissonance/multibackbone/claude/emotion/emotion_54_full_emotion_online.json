@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really stressed out lately because my final exams are coming up next month, and I just can't shake this feeling that I'm going to fail again. Last semester I really struggled in chemistry, and now every time I try to sit down and study, I just freeze up and can't focus. Honestly, I'm not even sure talking about it is going to change anything, because the problem feels so real and concrete, you know?",
+    "therapist": "It sounds like you're carrying a real weight right now — that fear of failing again feels very concrete and immediate, and I can understand why it makes it hard to even start studying. What you're describing, that \"freezing\" feeling, often comes from our mind treating a future possibility as if it's already a certainty, which is something we can gently work with together. I'm curious — when you sit down to study and that freeze hits, what's the very first thought that tends to run through your mind?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3970576524734497,
+    "aro_t": 0.24912619590759277,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "The first thought is usually something like \"what's the point, you're just going to blank out on the exam anyway, just like last time.\" It's like my brain immediately jumps to the worst version of what's going to happen before I've even opened a textbook. And then I just... sit there, feeling kind of sick, and eventually find something else to do to distract myself.",
+    "therapist": "That thought — \"what's the point, you're going to blank anyway\" — is doing a lot of damage before you've even given yourself a chance, and it makes sense that your body responds with that sick, heavy feeling. In CBT, we'd call this a kind of \"fortune-telling,\" where your mind presents one possible outcome as if it's guaranteed fact, and it becomes a self-fulfilling cycle because the distress itself stops you from studying. I'd love to gently challenge that thought together — what's the actual evidence from last semester that you *will* blank out, versus evidence that you've managed to get through difficult things before?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3357454538345337,
+    "aro_t": 0.20201659202575684,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... okay, I did blank on one exam last semester, but I also got through two others even though I felt awful going in. I guess there's that. But the one I blanked on feels so much bigger in my memory, like it's the only thing that actually counts as evidence, and I don't really know how to make the other times feel as real or important as that one failure.",
+    "therapist": "You've just done something really important — you found the counter-evidence yourself, and that takes honesty. What you're describing is something called the \"negativity bias,\" where our minds naturally give failures a louder, heavier voice than our successes, even when the successes are just as real. One way to start rebalancing that is to deliberately slow down and recall those two exams you got through — not just as a fact, but almost like a memory you revisit in detail. What do you remember about how you felt going into one of those exams, and what did you actually do that helped you get through it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19144034385681152,
+    "aro_t": 0.11118686199188232,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I guess... I remember going into the midterm in October feeling pretty awful, like my heart was pounding and I kept blanking on things I knew I'd studied. But I just kind of pushed through it, kept rereading questions slowly, and somehow it came together enough to pass. I hear what you're saying about revisiting that, but honestly it feels a little forced, like I'd just be trying to convince myself of something rather than actually believing it.",
+    "therapist": "What you just described is actually really significant — you walked into that midterm with your heart pounding, feeling like you were blanking, and you still found a strategy (slowing down, rereading) that worked. That's not a small thing, and I hear your skepticism about revisiting it feeling \"forced,\" which is a really honest and common reaction. The goal isn't to trick yourself into blind confidence, but to gradually build a more *accurate* picture of what you're capable of — and I'm wondering, if a close friend told you that story about themselves, would you dismiss it as meaningless, or would you see it as real evidence of their resilience?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2605057954788208,
+    "aro_t": 0.1815507411956787,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I mean... no, I wouldn't dismiss it if a friend told me that. I'd probably actually be proud of them for keeping it together under pressure. But it feels different when it's me — like I'm supposed to be harder on myself, or something, and giving myself credit feels almost... arrogant, I guess?",
+    "therapist": "That's such a revealing moment — you'd naturally offer your friend compassion and recognition, but somewhere along the way you've learned that doing the same for yourself feels dangerous or even wrong. Giving yourself accurate credit isn't arrogance; arrogance would be ignoring your struggles, whereas what you're doing is simply trying to see yourself fairly. I'm curious — where do you think that belief came from, that you're *supposed* to be harder on yourself than you'd ever be on someone you care about?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1759887933731079,
+    "aro_t": 0.17370617389678955,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think it came from my parents, honestly — there was always this message that being proud of yourself was the same as being lazy or complacent, like if you felt good about something you'd stop trying. So I learned to keep pushing myself down just to stay motivated, I guess. But hearing you say it out loud like that... it feels both obvious and really uncomfortable at the same time.",
+    "therapist": "That mix of \"obvious and uncomfortable\" is actually a sign that something real is shifting for you — you're seeing a pattern clearly, maybe for the first time, and that can feel unsettling even when it's meaningful. It makes so much sense that you internalized that message as a child; it was a way of staying safe and motivated in the environment you were in, but it's now costing you a lot, especially when you're already under pressure. I'm wondering — now that you can see that belief as something you *learned* rather than something that's simply true, does it feel like it has the same automatic authority over you, or does it feel even a little more questionable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12632036209106445,
+    "aro_t": 0.1691986322402954,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Honestly, it does feel a little more questionable, like maybe I can see it from the outside for a second instead of just being inside it. But then the moment I'm actually in a stressful situation at work, that distance disappears completely and it just feels like the truth again. I guess I'm not sure how to hold onto that outside perspective when everything is hitting at once.",
+    "therapist": "That moment of outside perspective you just described is actually the seed of real change — the fact that you can access it at all, even briefly, means it's there to build on. What you're describing is completely normal; insight tends to shrink under pressure because stress pulls us back into old, automatic patterns, which is exactly why we practice these shifts *before* the storm hits, so they become more available when things get hard. One small thing that can help is creating a kind of \"anchor\" — maybe even a written note to yourself that captures what you saw clearly today — so when you're in the middle of stress, you have something concrete to reach for. What do you think you'd want that reminder to say, in your own words?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13619542121887207,
+    "aro_t": 0.15864014625549316,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I like the idea in theory, but I'm not sure what I'd even write — like, when I'm calm I can see that my friends probably aren't avoiding me on purpose, but the moment I feel left out it just doesn't feel true anymore, it feels like evidence. I guess maybe something like \"they have their own lives, it's not about you,\" but honestly I worry I'd just roll my eyes at it when I'm actually upset. It's hard to trust that a note is going to cut through that feeling when it's really bad.",
+    "therapist": "That worry makes a lot of sense — when we're really hurting, a simple phrase can feel hollow or even dismissive, like a band-aid on something deeper. The key is that the note works best not as a logical argument to win against the feeling, but as a gentle nudge to *pause* just long enough to ask one small question rather than accept the feeling as fact. What if instead of a statement, it was something like \"what else could be true right now?\" — something that opens a door rather than tries to slam one shut on how you're feeling?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26329898834228516,
+    "aro_t": 0.09830296039581299,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I mean, \"what else could be true right now\" does feel a little less like I'm trying to talk myself out of something. But honestly, when the loneliness really hits — like late at night when I haven't talked to anyone in days — I'm not sure I'd even remember to ask that question, let alone believe any answer I came up with. It's like the feeling just takes over and there's no space left for anything else.",
+    "therapist": "That kind of loneliness — late at night, days without connection — has a particular weight to it that can feel almost total, like it fills every corner and leaves no room for perspective, and I want to acknowledge how real and hard that is. What you're describing isn't a failure of the technique; it's a signal that in those moments, the most important first step might not be a thought at all, but something that gently interrupts the isolation itself — even something tiny like texting one person, stepping outside, or just changing your physical space. I'm wondering, when you think about those late nights, is there any small action — not a fix, just a tiny shift — that has ever helped even slightly to crack that feeling open?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23339200019836426,
+    "aro_t": 0.09702098369598389,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... there have been a few times where I've gone and sat on my front steps, just to feel like I'm not completely sealed inside my own head. It helped a little, I think, but then I come back inside and it's the same silence waiting for me, so it feels kind of pointless after a while. I guess I'm not sure if a tiny shift is enough when the loneliness feels that big.",
+    "therapist": "The fact that sitting on your steps helped *even a little* is actually worth holding onto — it wasn't pointless, it was you finding a way to breathe when everything felt sealed shut, and that's a real instinct worth trusting. You're right that it doesn't erase the silence waiting inside, and I don't want to oversell small steps as a cure for something that runs this deep — but sometimes the goal isn't to fix the loneliness in one move, it's just to loosen its grip enough to get through the night. I'm curious — in those moments on the steps, was there ever any small impulse to reach out to someone, even if you didn't act on it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26032066345214844,
+    "aro_t": 0.0720146894454956,
+    "text_emotion": "Sad"
+  }
+]

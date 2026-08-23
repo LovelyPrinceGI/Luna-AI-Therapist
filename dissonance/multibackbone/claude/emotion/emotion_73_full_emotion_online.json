@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since my grandmother passed away two months ago. Every time there's a family get-together, I just feel this wave of sadness wash over me that I can't seem to shake, and it makes it almost impossible to enjoy being around the people I love. I'm not even sure talking about it is going to change anything, but I figured I'd give this a try.",
+    "therapist": "It takes real courage to reach out, especially when part of you wonders if it will even help — and I'm really glad you did. Losing your grandmother and then facing those family moments without her sounds like a quiet but persistent kind of ache, where the people around you are a reminder of who's missing. I'd love to understand more about what those gatherings feel like for you — when that wave of sadness hits, what kinds of thoughts tend to run through your mind in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1597740650177002,
+    "aro_t": 0.15511548519134521,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's like everyone's just carrying on, laughing and passing food around, and I'm sitting there thinking \"she should be here for this.\" And then I feel almost guilty for being sad, like I'm ruining the moment or making it about me when everyone else seems fine. I don't know if that makes sense, but it's this weird mix of missing her and feeling like I'm the only one who can't just move on.",
+    "therapist": "What you're describing makes complete sense — you're carrying this grief while also putting pressure on yourself not to show it, which sounds exhausting. That thought \"I'm ruining the moment\" is worth gently examining together, because it assumes others can't hold space for both joy and sadness at the same time, and it assumes your grief is a burden rather than a natural expression of love for her. I'm curious — when you imagine what your grandmother would actually think if she saw you missing her at those gatherings, what do you think she'd say?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2318737506866455,
+    "aro_t": 0.21921324729919434,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I've thought about that before, actually, and part of me knows she'd probably tell me to stop being so hard on myself. But then there's this other part that says I'm just telling myself what I want to hear, like I'm making up a comforting answer that isn't real. It still doesn't quite reach the feeling in my chest when everyone's laughing and I suddenly just miss her so much it's almost physical.",
+    "therapist": "There's something really honest and self-aware in what you just said — you can hear the wiser part of yourself, but the grief in your body is speaking louder right now, and that physical ache is real and valid, not something you can just think your way out of. In CBT we often notice that our feelings can lag behind our thoughts, and that's okay — it doesn't mean the kinder perspective is wrong, just that healing takes time to travel from the head to the heart. I'm wondering, when that wave hits in the middle of a gathering, what do you usually do with it — do you tend to push it down, step away, or something else?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04199063777923584,
+    "aro_t": 0.3268207311630249,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "Usually I just kind of... go quiet and hope no one notices. I'll laugh at something, or refill my drink, or find a reason to check my phone — anything to look busy so I don't have to explain why I suddenly feel like I'm about to cry at someone's birthday party. It works in the moment, I guess, but afterward I always feel this weird shame on top of the loneliness, like I failed at being a normal person again.",
+    "therapist": "What you're describing — the hiding, the busyness, the relief that quickly turns to shame — is such a common but painful cycle, and it makes sense you've been relying on it because it does work in the short term. But that shame afterward, the feeling of having \"failed,\" is really worth noticing, because you didn't fail — you were doing the very human thing of protecting yourself in a moment that felt unsafe to be vulnerable. I'm curious, what do you think would actually happen if someone at that gathering did notice your sadness — what's the fear underneath that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31138455867767334,
+    "aro_t": 0.12838733196258545,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I think... if someone noticed, they'd feel uncomfortable, or they'd ask questions I don't know how to answer, and then I'd just become this burden everyone has to manage. There's also this fear that if I let it show, even a little, I won't be able to stop it — like it'll all just come pouring out and I won't be able to put it back. And honestly, part of me also worries that even if someone did reach out, I'd feel even more alone afterward, because they'd say the wrong thing or not really get it.",
+    "therapist": "There's so much packed into what you just shared — a fear of overwhelming others, a fear of losing control of your own emotions, and almost a pre-emptive grief about not being understood even if you did let someone in. That last part especially strikes me, because it means part of you has already decided the comfort won't be real before anyone even has the chance to offer it, which keeps you very protected but also very alone. I'm wondering — has there ever been a moment, even a small one, where someone surprised you by actually getting it, or does this fear of not being understood feel like it has a lot of evidence behind it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.43043065071105957,
+    "aro_t": 0.12704408168792725,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "There was this one time, maybe two years ago, where a coworker kind of caught me off guard after a rough day and just said the right thing without me having to explain myself at all. But I remember immediately feeling suspicious of it, like waiting for the other shoe to drop or for her to use it against me somehow. So even when it did happen, I couldn't really let it land, which I guess is what you're pointing at.",
+    "therapist": "That moment with your coworker is actually really significant — it tells us the fear isn't that connection is impossible, but that somewhere along the way you learned it wasn't safe to trust it, so you had to stay guarded even when something good was happening. It's like the protection mechanism that's been keeping you safe is also quietly blocking the very thing you're longing for. I'm curious — when you think about where that suspicion comes from, that waiting for the other shoe to drop, does it feel like something that started long before losing your grandmother?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1521052122116089,
+    "aro_t": 0.11524641513824463,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Yeah... I think it probably did start before that, if I'm honest. Growing up, it felt like people were either too busy or too unpredictable to really count on, so I just got used to not expecting much from anyone. But saying that out loud makes me feel kind of disloyal, like I'm blaming people who didn't mean any harm.",
+    "therapist": "What you just shared took real honesty, and that feeling of disloyalty makes a lot of sense — you're someone who clearly cares deeply about the people in your life, even the ones who couldn't always show up for you. But noticing that something was hard isn't the same as blaming anyone; it's just telling the truth about how you learned to navigate a world that felt uncertain, and that learning made a lot of sense at the time even if it's costing you now. I'm wondering — as you sit with all of this today, what does it feel like to have said it out loud, even just here in this space?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36264872550964355,
+    "aro_t": 0.13361310958862305,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "Honestly, it feels kind of strange to say it out loud, like I've been carrying this thing quietly for so long that hearing my own words about it makes it feel more real and more fragile at the same time. There's a small part of me that feels a tiny bit lighter, but then almost immediately I feel guilty about that, like feeling lighter somehow means I'm letting people off the hook or betraying them. I don't know if that makes sense, but it's like the relief and the guilt show up at exactly the same time.",
+    "therapist": "What you're describing makes complete sense — that simultaneous relief and guilt is actually a really meaningful signal, because it suggests that somewhere inside you, healing feels like a kind of betrayal, as if staying in pain is how you stay loyal to the people and experiences that shaped you. But I want to gently offer this: feeling lighter doesn't erase what happened or let anyone off the hook — it just means you're slowly putting down a weight you were never meant to carry alone forever. That small part of you that feels lighter today — can you tell me a little more about what that part feels like, even if it's just a flicker?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21582531929016113,
+    "aro_t": 0.14322686195373535,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and part of me wants to believe it... that feeling better isn't some kind of betrayal. But it's hard, because if I stop carrying this weight, it almost feels like I'm saying what happened didn't matter, or that I've just moved on and left everyone behind. That flicker of lightness, when I'm honest about it, feels kind of fragile and scary, like if I pay too much attention to it, it'll either disappear or I'll feel guilty for even noticing it was there.",
+    "therapist": "There's something really tender and important in what you just said — that flicker feels fragile partly because you're not sure you're allowed to have it, like it might be taken away or it might cost you something to want it. But I want to reflect something back to you: the fact that you're still so worried about leaving people behind, about things mattering, actually shows how much you carry others in your heart — and that doesn't disappear just because you start to heal. What if feeling lighter isn't moving away from the people and experiences that shaped you, but actually finding a way to carry them that doesn't have to hurt quite so much?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25698208808898926,
+    "aro_t": 0.1801314353942871,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I hear what you're saying, and part of me wants to believe it... but I'm not sure it's that simple. Like, if I stop hurting over the people I've lost or the mistakes I've made, doesn't that mean I'm just... forgetting them, or letting myself off the hook too easily? It feels like the guilt is almost the only proof I have that those things actually mattered to me.",
+    "therapist": "What you just said is one of the most honest and important things you've shared — that guilt has become the evidence you use to prove that things mattered, which means somewhere along the way pain became tangled up with love and loyalty in a really deep way. But I want to gently challenge that: the fact that you're still here, still thinking about these people, still afraid of forgetting them — that *is* the proof they mattered, and it doesn't require you to keep hurting to stay true to it. I'm wondering, if guilt weren't the only way to honor what you've lost or what you've done, what else might you be able to point to that shows how much these things have meant to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27678656578063965,
+    "aro_t": 0.1505218744277954,
+    "text_emotion": "Angry"
+  }
+]

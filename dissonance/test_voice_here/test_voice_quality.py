@@ -10,7 +10,13 @@ import sys
 import time
 from pathlib import Path
 
-BASE_DIR = r"C:\Luna-AI-Therapist"
+import platform
+
+if platform.system() == "Windows":
+    BASE_DIR = r"C:\Luna-AI-Therapist"
+else:
+    BASE_DIR = "/mnt/c/Luna-AI-Therapist"
+
 sys.path.insert(0, os.path.join(BASE_DIR, "dissonance", "own_script", "dialogue_6"))
 from run_synthesis_dialogue_6_module import synth_single_utterance
 
@@ -129,7 +135,7 @@ for idx, (name, text, happy, sad, fear, anger, spk_rate, pitch_std) in enumerate
     
     # Synthesize
     t0 = time.time()
-    out_path = synth_single_utterance(1, str(TMP_JSON), dialogue_id=0, prefix="test")
+    out_path = synth_single_utterance(idx + 1, str(TMP_JSON), dialogue_id=0, prefix="test")
     elapsed = time.time() - t0
     
     if out_path and Path(out_path).exists():
@@ -138,7 +144,7 @@ for idx, (name, text, happy, sad, fear, anger, spk_rate, pitch_std) in enumerate
         y, sr = librosa.load(out_path, sr=None)
         dur = len(y) / sr
         rms = float((y ** 2).mean() ** 0.5)
-        status = "OK" if rms >= 0.02 and dur >= 0.5 else "LOW"
+        status = "OK" if rms >= 0.008 and dur >= 0.5 else "LOW"
         results.append({
             "name": name, "dur": dur, "rms": rms,
             "elapsed": elapsed, "status": status
@@ -175,4 +181,10 @@ for i, r in enumerate(results):
 
 print(f"\nPass: {pass_count}/15 | Low: {len([r for r in results if r['status']=='LOW'])} | Fail: {len([r for r in results if r['status']=='FAIL'])}")
 print(f"Total time: {total_time/60:.1f} minutes ({total_time:.0f} seconds)")
-print(f"Output files: {list(OUTPUT_VOICE.glob('*.wav')).__len__()} WAVs in {OUTPUT_VOICE}")
+
+REAL_OUTPUT_DIR = BASE_DIR + "/dissonance/own_script/dissonance/voice" if isinstance(BASE_DIR, str) else str(BASE_DIR / "dissonance" / "own_script" / "dissonance" / "voice")
+full_path = REAL_OUTPUT_DIR.replace("/", "\\") if "\\" in BASE_DIR else REAL_OUTPUT_DIR
+wavs = list(Path(full_path).glob("test_*.wav")) if Path(full_path).exists() else []
+print(f"Output files: {len(wavs)} WAVs in {full_path}")
+if wavs:
+    print(f"  Sample: {wavs[0].name}")

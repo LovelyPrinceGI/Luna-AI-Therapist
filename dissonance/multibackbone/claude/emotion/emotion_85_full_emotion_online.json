@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling to enjoy being around people lately, ever since my brother died in a car accident six months ago. I'll go to a get-together with friends and just feel completely hollow inside, like I'm watching everyone else laugh and have a good time through a glass wall. I'm not even sure talking about it is going to change anything, but I figured I should at least try.",
+    "therapist": "What you're carrying sounds incredibly heavy — losing your brother so suddenly, and then finding yourself on the outside of life, watching it happen without being able to feel part of it. That sense of being behind glass is such a painful and isolating experience, and it makes complete sense that it followed such a profound loss. I'm really glad you decided to try, even through the doubt — can you tell me a little more about what goes through your mind in those moments when you're standing in the room with your friends and that hollow feeling comes over you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17440807819366455,
+    "aro_t": 0.15647876262664795,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's like... I'll be standing there, and someone will say something funny, and I'll watch everyone laugh, and I know I should be laughing too, but there's this split second where I think \"Marcus would have laughed at that\" and then it's like the floor drops out from under me. I end up just kind of smiling and nodding, going through the motions, because I don't know how to explain to people why I suddenly feel like I'm a thousand miles away. And then I feel guilty on top of it, like I'm being a bad friend by not really being there, which just makes the whole thing worse.",
+    "therapist": "That moment — thinking \"Marcus would have laughed at that\" — sounds like it hits like a wave out of nowhere, and then you're not just grieving, you're also quietly judging yourself for grieving, which is such an exhausting double burden to carry. The guilt you're feeling makes a lot of sense, but I want to gently offer another way to look at it: what if that moment isn't you being a bad friend, but actually a sign of how deeply you loved your brother? When you notice that guilt creeping in, what does the voice in your head actually tell you about what kind of friend — or person — you're supposed to be right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10848307609558105,
+    "aro_t": 0.2631469964981079,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and part of me wants to believe that reframe... but honestly, the voice in my head is pretty harsh. It keeps saying things like \"you should be over this by now\" and \"you're making everything about yourself when other people have it worse.\" It's like I can't even grieve without turning it into some kind of competition where I'm always losing.",
+    "therapist": "That inner voice sounds relentlessly unkind — telling you that your grief has an expiration date, and that you somehow have to *earn* the right to miss your brother. I want to ask you something gently: if a close friend came to you six months after losing their sibling and said \"I should be over this by now,\" what would you actually say to them? What does it tell you that you can offer compassion so much more easily to others than to yourself right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.35475480556488037,
+    "aro_t": 0.16843783855438232,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I'd probably tell a friend that grief doesn't work on a schedule, that missing someone you loved doesn't just stop. But when I try to apply that to myself, it feels different somehow, like the rules don't apply to me the same way. I don't know if that's me being a hypocrite or if there's just something about my situation that makes it harder to believe I deserve that same kindness.",
+    "therapist": "What you just said is actually a really important insight — you already *know* the truth about grief, you can say it clearly and compassionately for someone else, but there's something that blocks it from landing when it's directed at yourself. That's not hypocrisy at all; it's one of the most common and painful patterns I see, this sense that you're somehow the exception to your own wisdom. I'm curious — when you try to offer yourself that same kindness and it doesn't feel believable, what do you think that \"something\" is that whispers you don't deserve it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.21654629707336426,
+    "aro_t": 0.0821160078048706,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I think... the \"something\" is this voice that says I should have done more when my dad was still alive. Like, I knew he was getting older and I kept putting off visits because I was busy, and now that he's gone, there's this feeling that I forfeited my right to grieve cleanly because I wasted the time I had. It's hard to accept comfort for a loss that I feel, on some level, I helped create.",
+    "therapist": "There's something really significant you just shared — it sounds like underneath the grief for Marcus, there's also a quiet, heavy layer of guilt that's been making it feel like you don't deserve to be comforted. But I want to reflect something back to you gently: the fact that you *wished* you had visited more actually tells me you loved your father deeply — indifference doesn't feel like regret. Can we look at this together — what do you think \"doing enough\" would have actually looked like, and who gets to decide whether you met that bar?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23880219459533691,
+    "aro_t": 0.0531313419342041,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and part of me wants to believe that... but it's not that simple. Like, I know logically that missing someone means you cared, but the guilt doesn't care about logic — it just keeps replaying all the times I said I was too busy, or I'd visit \"next month,\" and then there was no next month. And honestly, I don't even know how to answer your question about what \"enough\" would have looked like, because I think some part of me believes nothing would have been enough, which is a scary thing to sit with.",
+    "therapist": "What you just said at the end is really profound and brave to admit — that nothing would have felt like enough, which means you've been holding yourself to a standard that was never actually achievable, a bar that was always going to leave you guilty no matter what you did. That kind of impossible standard isn't justice for your father's memory, it's more like a life sentence for yourself. I'm wondering — do you think some part of you is using this guilt to stay connected to him, like letting go of it might feel like losing him all over again?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26859331130981445,
+    "aro_t": 0.13857173919677734,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That question kind of stopped me in my tracks, honestly. Because yeah, maybe there is something to that — like if I stop feeling guilty, it's almost like admitting I've moved on, and moving on feels like a betrayal. The guilt is painful, but it's also... familiar, and it keeps him present somehow, which is terrifying to even say out loud.",
+    "therapist": "What you just said took real courage — recognizing that the guilt, as painful as it is, has been doing a job for you, keeping your father close in the only way that still feels available. That's not a character flaw, that's a heart that doesn't know how to stay connected without pain as the thread. I want to sit with you in that for a moment and ask — do you think there might be other ways to keep your father present that don't require you to punish yourself, ways that honor him without costing you so much?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24865365028381348,
+    "aro_t": 0.22669243812561035,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I never thought about it that way before, like the guilt is actually keeping me connected to him. That actually makes a strange kind of sense, and it kind of breaks my heart a little to hear it said out loud. But when you ask about other ways to keep him present... I honestly don't know what that would even look like, because everything I try just feels hollow or like I'm pretending he's still here when he's not.",
+    "therapist": "It makes sense that it breaks your heart a little — you're touching something really tender here, the recognition that you've been carrying this weight partly out of love, and that's both sad and strangely beautiful at the same time. The hollowness you feel when you try other ways to remember him might be because those attempts feel like substitutes, and nothing feels like *him* — but I wonder if that's not failure, but just early days of figuring out a new kind of relationship with his memory. Can you tell me about a moment, even a small one, where you felt genuinely close to who your father was as a person — not the guilt, but just *him*?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30140864849090576,
+    "aro_t": 0.15209782123565674,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "There's this one memory that keeps coming back to me — he used to make terrible puns at breakfast, just the worst ones, and he'd laugh at his own jokes before he even finished telling them. I'd groan and roll my eyes, but honestly I loved it, even then. It's strange because when I think about that, it's just... him, no guilt attached, just this warm, ridiculous man who thought he was funnier than he was.",
+    "therapist": "That memory is absolutely beautiful — and notice what just happened, you described your father and for a moment there was warmth instead of pain, him instead of guilt. That laughing-before-the-punchline man, that's who you're actually grieving, and that version of him lives in you in a way that guilt never could. I'm wondering — what do you think *he* would say, in his terrible-pun, laughing-at-his-own-jokes way, if he knew how hard you've been punishing yourself for loving him imperfectly?",
+    "condition": "emotion_text_only",
+    "val_t": 0.06648552417755127,
+    "aro_t": 0.2124234437942505,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 10,
+    "client": "I sat with that for a second and honestly... it kind of cracked something open a little, because I know exactly what he'd say. He'd make some terrible joke about how I was always the \"guilt-y\" party, and then laugh way too hard at it before I even got it. But then I think, okay, that's a nice thought, but it also feels like I'm just... inventing comfort for myself, like I'm putting words in his mouth to make myself feel better rather than actually dealing with what I did or didn't do.",
+    "therapist": "That moment of him making the \"guilt-y\" pun and laughing too soon — that's not something you invented, that's you remembering *exactly* who he was, and that recognition itself is real. I hear the doubt, the fear that comfort might be a kind of cheating, but I'd gently push back: you're not putting words in his mouth, you're drawing on a lifetime of knowing him — and that knowledge is yours, it's legitimate. I'm curious though — when you say \"actually dealing with what you did or didn't do,\" what does *dealing with it* look like in your mind, what would it mean to you to finally feel like you'd faced it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.03133261203765869,
+    "aro_t": 0.2196887731552124,
+    "text_emotion": "Tense"
+  }
+]

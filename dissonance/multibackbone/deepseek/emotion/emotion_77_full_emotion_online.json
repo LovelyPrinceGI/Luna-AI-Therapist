@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I got promoted last month. The new responsibilities feel crushing, and I keep worrying I'm not smart or capable enough for this role. Part of me wonders if talking about it will help - I mean, the problems won't just go away, right?",
+    "therapist": "It sounds like you're carrying a heavy weight of self-doubt along with these new responsibilities. That worry about not being capable enough—would you say those thoughts come with specific examples, or is it more of a general feeling?  \n\nThe fact that you're reaching out suggests part of you believes talking could help, even if the problems don't vanish. What would \"help\" look like for you in this situation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31252896785736084,
+    "aro_t": 0.17334461212158203,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "It's mostly a general feeling, but sometimes specific things trigger it - like when my boss gives me feedback, even if it's constructive. I immediately think \"I'm not good enough for this job\" and spiral from there. \n\nHelp would look like... I don't know, not dreading work every morning? Not feeling like an impostor who's about to be found out. But part of me thinks maybe this is just how work is supposed to feel.",
+    "therapist": "It sounds like that \"not good enough\" thought hits hard, especially in moments where you're already feeling vulnerable—like during feedback. That spiral must be exhausting to carry into each workday.  \n\nWhen you say \"maybe this is just how work is supposed to feel,\" I wonder: do you think others in your role might feel this way too, or does it seem uniquely tied to your own doubts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10982513427734375,
+    "aro_t": 0.12852144241333008,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I don't know if other people feel this way—my coworkers all seem so confident when they present their work. That's what makes me feel like it's just me. Even when I get positive feedback, I keep thinking they're just being nice or missed my mistakes. \n\nIt's exhausting, but I don't know how to stop second-guessing everything I do. Like my brain won't accept that I might actually be doing okay.",
+    "therapist": "It makes sense you'd feel isolated when comparing yourself to others who appear so sure of themselves—that contrast can make self-doubt feel even louder. Even positive feedback struggles to break through when your mind is primed to dismiss it.  \n\nWhat happens if you try, just for a moment, to entertain the idea that your coworkers might *also* have moments of uncertainty—they just don’t show it? How does that sit with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.056731462478637695,
+    "aro_t": 0.17632067203521729,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 4,
+    "client": "Client:  \n\"That... actually makes me pause. I never considered that my coworkers might also have their own insecurities they're hiding. It makes me feel a little less alone, but also... a little guilty for not seeing it before.\"  \n\nTherapist:  \n\"Those are important realizations—both the relief and the guilt. What if you tried, just for a moment, to extend the same compassion to yourself that you’re starting to feel for them? How does that land?\"  \n\nClient:  \n\"It feels... possible, but also scary. Like if I let myself off the hook, I might stop trying altogether. But holding onto this self-criticism isn’t helping either.\"  \n\nTherapist:  \n\"That tension makes sense—it’s a new perspective, and new perspectives often feel unstable at first. What if we explored that fear a little more? What’s the smallest step you could take to test whether self-compassion might actually *fuel* your growth, rather than hinder it?\"  \n\nClient:  \n\"I could try... just noticing when I’m being hard on myself, without judging that either. But it feels like walking a tightrope—like any misstep could send me back into old patterns.\"  \n\nTherapist:  \n\"That’s a very real fear—change often feels precarious. What if we thought of it more like building a new muscle? It might feel shaky at first, but each small practice could make it stronger over time.\"  \n\nClient:  \n\"I like the idea of it being a muscle... that makes it feel less all-or-nothing. Maybe I could start with just noticing one self-critical thought each day, and pausing to ask: *Would I talk to a friend this way?*\"  \n\nTherapist:  \n\"That’s a beautiful way to start—a small, manageable experiment. How does that feel compared to the tightrope?\"  \n\nClient:  \n\"It feels... more doable. Like I can focus on the next step instead of the whole path. Still scary, but less like one misstep will ruin everything.\"  \n\nTherapist:  \n\"That’s progress—focusing on the next right step, not the whole journey. Let’s stay with that. What’s one small, compassionate response you could try when you notice that critical thought this week?\"  \n\nClient:  \n\"Maybe... just taking a deep breath and saying, *It’s okay, you’re learning.* But not too much at once—just that one breath, one",
+    "therapist": "It sounds like you’re finding a gentle balance—acknowledging the fear but also making space for kindness toward yourself. That one breath and one phrase could be a powerful anchor in moments of self-doubt.  \n\nHow might it feel to remind yourself that growth doesn’t have to be perfect—it’s okay to wobble as you build this new muscle?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31191039085388184,
+    "aro_t": 0.1333332061767578,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That makes sense in theory, but when I'm actually in those anxious moments, it feels impossible to be kind to myself. My mind just races with all the things I should be doing better. Even the idea of \"wobbling\" makes me feel like I'm failing, you know? Like I should already have this figured out by now.",
+    "therapist": "That self-expectation—that you \"should\" already have this figured out—sounds like it’s adding another layer of pressure on top of the original stress. No wonder kindness feels impossible in those moments.  \n\nWhen your mind races with \"shoulds,\" what happens if you pause and ask: *Is this how I’d coach a teammate who was struggling?* Not to force positivity, just to notice the difference in your standards for others versus yourself.  \n\nThe gap between \"theory\" and those panicky moments is real—this isn’t about flipping a switch. What if \"wobbling\" wasn’t a sign of failing, but proof you’re actually *doing* the hard work of change?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24340450763702393,
+    "aro_t": 0.16752612590789795,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about treating myself like I'd treat a teammate, but it's just not that simple. When I'm in that panicky state, it feels impossible to step back and be kind—like my brain just won't let me access that perspective. And the wobbling thing...I know it's supposed to be part of the process, but it just makes me feel weak and unstable, not like I'm making progress.",
+    "therapist": "It makes complete sense that in those panicky moments, stepping back feels impossible—your brain is in survival mode, not reflection mode. That’s not a failure; it’s how our wiring works under stress.  \n\nWhen kindness feels out of reach in the moment, could we focus on *after*? For example, when the storm passes, what’s one tiny thing—even just a sigh—that might help your nervous system recognize: *That was hard, but it’s over now*?  \n\nThe \"weakness\" you’re describing—could it actually be courage? It takes strength to face these patterns head-on, even when it feels messy. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2715451717376709,
+    "aro_t": 0.15684866905212402,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about the after part, but sometimes the storm doesn't really pass—it just turns into this low-level dread that lingers for days. Even when the panic attack is over, I still feel exhausted and ashamed of how I reacted. \n\nThe courage thing is hard to accept because in the moment it just feels like I'm failing to handle normal life stuff that everyone else seems to manage fine. Like last week I had to leave a grocery store because the crowds made me start hyperventilating, and I just keep thinking about how weak that was.",
+    "therapist": "That lingering dread and shame sound like they're adding another heavy layer on top of the original panic—it's not just the storm, but the aftermath that wears you down. When you say everyone else seems to \"manage fine,\" I wonder: have you ever noticed someone else having a hard moment in public, and if so, what did you think about *them*?  \n\nThe grocery store incident—that must have felt so isolating in the moment. But what if we reframed \"weakness\" as your body's way of saying *this is too much right now*? Leaving wasn't a failure; it was a protective choice. How does that land for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3162062168121338,
+    "aro_t": 0.2249612808227539,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I see what you're saying about it being protective, but it still *feels* like weakness to me. When I see other people struggling in public, I usually just assume they're having a bad day - but when it's me, it feels like proof I'm broken. \n\nThe worst part is replaying the grocery store moment over and over afterward. Even if leaving was the right choice in the moment, I keep thinking about the cashier's confused look when I abandoned my cart. That shame sticks around way longer than the panic itself.",
+    "therapist": "It's striking how much more compassion you can extend to strangers than to yourself—that double standard must be exhausting to live with. The replaying of that moment, especially the cashier's reaction, sounds like it's keeping the shame alive long after the panic faded.  \n\nWhen those replays start, what would happen if you tried—even just for a breath—to view yourself as that stranger having a bad day? Not to force the feeling, but to notice how differently your mind treats their struggle versus yours? That gap might tell us something important.",
+    "condition": "emotion_text_only",
+    "val_t": -0.37334728240966797,
+    "aro_t": 0.205407977104187,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but it's just not the same. When I see a stranger struggling, I don't know all their flaws and mistakes like I know mine. That cashier probably forgot about me two minutes later, but I can't stop thinking about how awkward I was. \n\nThe idea of treating myself like a stranger feels... fake, I guess? Like I'd just be pretending not to know all the reasons I should feel bad about it.",
+    "therapist": "That makes so much sense—you’re carrying the full weight of your history in a way you wouldn’t with a stranger. It’s not just about that one moment; it’s tied to all the times you’ve felt this way before. That’s why simple reframes can feel hollow.  \n\nWhat if we didn’t try to force self-compassion right now, but just *noticed* how automatic those thoughts are? For example: *\"There I go again, listing all the reasons I should feel bad.\"* Just observing that pattern—without judging it either way—could that feel more honest than pretending?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33066391944885254,
+    "aro_t": 0.15572476387023926,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I like the idea of just noticing the thoughts instead of forcing myself to feel differently. But sometimes when I try to observe them, it just makes me feel worse because I realize how often these negative patterns happen. It's like... the more I notice, the more hopeless it feels that I'll ever change.",
+    "therapist": "It sounds like noticing these patterns has become its own source of frustration—like shining a light on them only makes their weight more obvious. That hopelessness makes perfect sense when you're seeing how deep these grooves run.  \n\nWhat if we thought of this awareness not as proof you're stuck, but as the first step toward change? Even noticing *that you're noticing* is progress, even if it doesn't feel that way yet. Could we sit with that tension for a moment—the discomfort of seeing the pattern, while also recognizing it takes courage to look at it at all?",
+    "condition": "emotion_text_only",
+    "val_t": -0.247217059135437,
+    "aro_t": 0.06731808185577393,
+    "text_emotion": "Sad"
+  }
+]

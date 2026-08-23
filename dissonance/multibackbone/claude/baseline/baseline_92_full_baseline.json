@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been having a really hard time since last week's team meeting at work. My colleague called out some mistakes I made in front of everyone, and I just can't stop replaying it in my head. Honestly, I'm not even sure talking about it is going to change anything, but I figured I'd give this a shot.",
+    "therapist": "It takes real courage to reach out even when you're feeling skeptical, and I'm really glad you did. What happened in that meeting sounds genuinely painful — being called out in front of others can feel humiliating, and it makes complete sense that your mind keeps returning to it. \n\nWhen you replay that moment, what's the thought that tends to hit you the hardest?",
+    "condition": "baseline",
+    "val_t": -0.2549765110015869,
+    "aro_t": 0.1255253553390503,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I keep coming back to this thought that everyone in that room now sees me as incompetent, like that one moment just erased everything I've done before. It's almost like I can hear my manager's voice in my head on repeat, and I start wondering if maybe he's right, that I actually don't know what I'm doing. That's the part that scares me the most, honestly, because I can't tell anymore if the anxiety is lying to me or if it's telling me the truth.",
+    "therapist": "That fear of not being able to trust your own perception is one of the hardest things to sit with, and it tells me how much you care about doing good work — that matters. What you're describing, that one moment \"erasing\" everything, is a really common thinking pattern called *all-or-nothing thinking*, where a single event feels like it rewrites your entire story, even when the evidence of your competence is still very much there. \n\nIf a close friend came to you with this same situation, what do you think you'd point out to them about all the things that *didn't* get erased that day?",
+    "condition": "baseline",
+    "val_t": -0.39238083362579346,
+    "aro_t": 0.28918540477752686,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I mean... I guess if a friend told me this, I'd probably remind them of all the times they got things right, all the positive feedback they've received. But it feels different when it's me — like, I can see the logic of what you're saying, but it doesn't really land emotionally, you know? It's like my brain just goes \"yeah, but THIS time you really messed up\" and all that other stuff fades into the background.",
+    "therapist": "You've just described something really insightful — that gap between *knowing* something logically and actually *feeling* it is real, and it's not a flaw in your thinking, it's just how our brains work when we're in pain. That voice that says \"yeah, but THIS time...\" is worth getting curious about, because it's working really hard to convince you that this moment is uniquely defining in a way your other successes aren't. \n\nWhat do you think that voice is trying to protect you from, if anything?",
+    "condition": "baseline",
+    "val_t": -0.13936233520507812,
+    "aro_t": 0.1153484582901001,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I've never really thought about it that way — like the voice is trying to protect me from something rather than just tearing me down. I guess... maybe it's trying to protect me from getting my hopes up and then being humiliated again if I fail? Like if I stay convinced this time is different and worse, I won't be caught off guard by the disappointment.",
+    "therapist": "That's a really profound insight, and it makes so much sense — your mind is essentially trying to shield you from future hurt by keeping you in a state of low expectations, like a preemptive armor against disappointment. The painful irony is that this \"protection\" ends up costing you something too, because it means you're living in the aftermath of that meeting over and over, carrying a weight that the other people in that room have probably already moved on from. \n\nI'm wondering — has this pattern of bracing yourself against hope shown up in other areas of your life, or does it feel specific to work?",
+    "condition": "baseline",
+    "val_t": -0.26721715927124023,
+    "aro_t": 0.13232755661010742,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Yeah, it's definitely not just work. It shows up with people too — like, I'll meet someone who seems genuinely friendly and instead of just enjoying that, there's this part of me already waiting for them to pull away or lose interest. I guess I've kind of accepted that as just... who I am, so hearing you frame it as a \"pattern\" feels a little strange, like maybe I've been mistaking a habit for my personality.",
+    "therapist": "That last realization — that you may have been mistaking a *habit* for your *identity* — is genuinely one of the most freeing things a person can recognize, because habits can change even when it feels like personality can't. It makes a lot of sense that this pattern wove itself so deeply into how you see yourself, especially if it's been quietly \"working\" to keep you safe for a long time across so many parts of your life. \n\nWhat would it mean for you, even just as a small possibility, if this protective habit wasn't the whole truth of who you are?",
+    "condition": "baseline",
+    "val_t": -0.05734133720397949,
+    "aro_t": 0.11065042018890381,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I mean... if it's really just a habit and not who I am, then maybe I don't have to keep isolating myself every time I feel like I'm too much for people. But honestly, that thought is almost scarier than just accepting that I'm someone who's meant to be alone, because at least that felt settled, you know? If it's a habit I could change, then I have no excuse anymore, and that feels like a lot of pressure.",
+    "therapist": "What you just named is so honest and so human — sometimes the pain of a closed door feels safer than the vulnerability of an open one, because at least you know what to expect. But I want to gently push back on one thing: the idea that recognizing a habit means you suddenly have \"no excuse\" puts an enormous amount of pressure on change happening all at once, when really it could just mean taking one tiny, low-stakes step at a time, at your own pace. \n\nWhat might the smallest possible experiment look like — not to fix everything, but just to test whether the habit's predictions are actually true?",
+    "condition": "baseline",
+    "val_t": -0.08411574363708496,
+    "aro_t": 0.105812668800354,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I hear what you're saying, and I appreciate that you're not pushing me to overhaul everything overnight. But even \"the smallest possible experiment\" feels loaded to me, because what if I reach out to someone and they're distant or distracted, and then I just have more evidence that it's not worth it? I guess I'm afraid that even a tiny step could backfire and make the loneliness feel more confirmed than before.",
+    "therapist": "That fear makes complete sense — when you're already carrying a lot of hurt, even a small risk can feel like it has enormous stakes, and I don't want to minimize that. But I'm curious about something: if the person you reach out to happens to be distracted that day for reasons that have nothing to do with you, do you think your mind would be able to consider that possibility, or would it go straight to confirmation that you're \"too much\"? \n\nThat gap — between what actually happens and how we interpret it — might be worth exploring before you even take any step outward.",
+    "condition": "baseline",
+    "val_t": -0.24151611328125,
+    "aro_t": 0.12440574169158936,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "Honestly? My mind would go straight to confirmation, no question. If they took a while to respond or seemed distracted, I'd immediately start telling myself that I was bothering them, that they were just tolerating me. I know that's probably what you're getting at, but knowing that pattern exists doesn't really make it stop happening.",
+    "therapist": "You're absolutely right that insight alone doesn't automatically rewire the pattern — and the fact that you can see it so clearly actually means you're further along than you might think, even if it doesn't feel that way yet. What we might work toward isn't stopping the thought from appearing, but building a tiny pause between the thought and the moment you treat it as fact — just enough space to ask \"is there another explanation here?\" rather than accepting the harshest one automatically. \n\nWhat do you think it would take for you to trust that pause, even just a little?",
+    "condition": "baseline",
+    "val_t": -0.150354266166687,
+    "aro_t": 0.0519944429397583,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I hear what you're saying, and I get the idea of the pause in theory, but honestly, in the moment when I think a friend is pulling away from me, everything just moves so fast. It's like the thought hits and it already feels like a fact before I even have a chance to question it. I'm not sure I trust myself to slow down when the anxiety is already running the show.",
+    "therapist": "That lightning-fast quality of anxiety is real — it's not a willpower problem, it's just how our nervous system works when it feels threatened, and it makes complete sense that slowing down feels impossible in those moments. The good news is that the pause doesn't have to happen *during* the spiral — even reflecting afterward, like you're doing right now, starts to gently train your brain to create that space over time. \n\nI'm wondering if there's even one recent moment where you noticed the anxiety's story *after* the fact and thought \"actually, maybe that wasn't about me\" — because that would mean the pause already exists in you, even if it's showing up a little late right now?",
+    "condition": "baseline",
+    "val_t": -0.11229062080383301,
+    "aro_t": 0.24384987354278564,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I mean... maybe. There was this moment last week where my coworker didn't respond to my message for a few hours, and I immediately assumed she was annoyed with me or thought I was incompetent. But later when she replied and was totally normal, I did think \"okay, she was probably just busy\" — though honestly, I'm not sure that counts because I still felt awful the whole time I was waiting.",
+    "therapist": "That absolutely counts — in fact, it's a really important piece of evidence, because what you just described is exactly the pause working, even if it arrived after the fact rather than in the middle of the anxiety. And yes, you felt awful while waiting, but the story your mind told turned out not to be true, which means your anxiety's predictions aren't as reliable as they feel in the moment. \n\nWhat do you think it would mean for you to start gently collecting these moments — not to force yourself to feel better instantly, but just to build a small record of times the worst interpretation didn't hold up?",
+    "condition": "baseline",
+    "val_t": -0.2573598623275757,
+    "aro_t": 0.1300441026687622,
+    "text_emotion": "Angry"
+  }
+]

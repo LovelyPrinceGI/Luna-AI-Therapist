@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really stressed out lately. After failing two exams this semester, I can't shake the anxiety about whether I'll be able to graduate on time. It feels like everything is falling apart, and I'm not sure if therapy can even help with this.",
+    "therapist": "I'm really sorry to hear that you're feeling this way, and it's completely understandable to feel overwhelmed after such a tough experience. It sounds like the stress and anxiety are taking a big toll on you. How have you been coping with these feelings so far?",
+    "condition": "baseline",
+    "val_t": -0.35908186435699463,
+    "aro_t": 0.25582361221313477,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. I've been trying to cope by staying busy with work and distracting myself with hobbies, but it feels like a temporary fix. I still find myself feeling anxious and overwhelmed, especially at night when it's quiet. I don't know if there's a better way to handle it.",
+    "therapist": "It’s great that you’ve been finding ways to cope, and it’s totally normal to seek distractions to manage anxiety. However, it sounds like the quiet moments are when these feelings really surface. Have you noticed any specific thoughts or worries that come up during those times?",
+    "condition": "baseline",
+    "val_t": -0.06697618961334229,
+    "aro_t": 0.23194241523742676,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, I do notice a lot of thoughts in those quiet moments. I often worry about whether I’m doing enough in my life, or if I’m just disappointing everyone around me. It’s hard because I feel like I can’t escape those thoughts, and they just keep piling up.",
+    "therapist": "Those are really common and challenging thoughts to have, and it’s understandable that they would feel overwhelming. It’s important to acknowledge how hard you’re working and the pressures you’re facing. What do you think might be a small step you could take to start addressing these worries, even if it’s just a tiny experiment to see how it feels?",
+    "condition": "baseline",
+    "val_t": -0.2208796739578247,
+    "aro_t": 0.06989908218383789,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's tough to even think about taking a step when everything feels so heavy. I guess I could try to write down my worries or talk to a friend, but it just seems like such a small thing compared to how I feel. It's hard to believe it would make any real difference, you know?",
+    "therapist": "I completely understand how you feel—it’s tough to see the value in small steps when the weight of everything feels so heavy. However, sometimes it’s those small actions that can start to shift our perspective, even if just a little bit. What do you think might be the hardest part about trying to write down your worries or talking to a friend?",
+    "condition": "baseline",
+    "val_t": 0.0028313398361206055,
+    "aro_t": 0.06885147094726562,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, but it feels like those small steps won't make a difference when everything is so overwhelming. It's hard to even start, you know? Writing down my worries seems like it might just remind me of all the things I can't control, and talking to a friend feels like I'd just be burdening them with my problems.",
+    "therapist": "I hear you, and it’s completely valid to feel that way. It can be really tough to take those first steps when everything feels so overwhelming. Maybe we could explore what it would be like to approach these small steps with a bit of curiosity—what do you think might happen if you tried writing down your worries, even just for a few minutes? Or if you shared just one thing with a friend, how might that feel?",
+    "condition": "baseline",
+    "val_t": -0.2772531509399414,
+    "aro_t": 0.15929853916168213,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It’s just hard to imagine how writing down my worries would actually make a difference. It feels like they’re so big and overwhelming that putting them on paper won’t change anything. And sharing with a friend? That’s even tougher. I feel like they won’t understand or it might just make things worse.",
+    "therapist": "I understand how overwhelming those worries can feel, and it’s completely natural to doubt whether small steps will make a difference. Writing down your worries can sometimes help you see them more clearly and even start to break them down into more manageable parts. As for talking to a friend, it’s okay to start small—maybe just sharing one thing that’s been on your mind and gauging their reaction. What do you think might be the smallest step you could take to start exploring these options?",
+    "condition": "baseline",
+    "val_t": -0.1811075210571289,
+    "aro_t": 0.13200151920318604,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. Writing down my worries does sound helpful, but I'm not sure it will make a big difference. I feel like my worries are so tangled up that even putting them on paper won't untangle them. And talking to a friend sounds nice, but I worry they won't understand or might judge me. It's hard to open up when I feel so vulnerable.",
+    "therapist": "I totally understand how tangled and overwhelming your worries can feel, and it’s completely normal to doubt whether writing them down will make a difference. It can be a starting point, though, even if it’s just to see your thoughts more clearly on paper. As for talking to a friend, it’s okay to take it one small step at a time. What if you started by just writing down one or two specific worries? Or, if you feel comfortable, you could try sharing just one worry with a friend and see how it feels. What do you think might be the smallest step you could take today?",
+    "condition": "baseline",
+    "val_t": -0.16787171363830566,
+    "aro_t": 0.05953872203826904,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your understanding, Luna. Writing down my worries does sound like a good starting point, but I'm still a bit skeptical about how much it will help. It's hard because my worries feel so big and intertwined, and I worry that putting them on paper will just make them seem more real and overwhelming. Maybe I could try writing down just one thing, but I'm not sure if I can even pinpoint the most pressing worry right now.",
+    "therapist": "I completely understand your skepticism, and it’s okay to feel that way. Starting with just one worry can be a gentle way to begin, and it doesn’t have to be the most pressing one right away. Sometimes, just the act of writing down a single worry can help you see it more clearly and start to untangle it. What do you think might be one worry that’s been on your mind lately, even if it’s a smaller one?",
+    "condition": "baseline",
+    "val_t": -0.1399458646774292,
+    "aro_t": 0.13868582248687744,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, and I appreciate the gentle approach. Lately, I've been really anxious about my job. I feel like I'm not performing as well as I should, and I'm constantly worried about making mistakes or disappointing my boss. It’s just been weighing on me a lot. But I’m not sure if writing it down will really make a difference. It feels like such a big, ongoing issue.",
+    "therapist": "I understand how significant and ongoing this worry about your job must be, and it’s completely valid to feel uncertain about how writing it down will help. Starting with just one specific concern can be a good way to begin. For example, you could write down a recent situation where you felt you didn’t perform well, and explore your thoughts and feelings about it. What do you think might be one specific situation or concern you could start with?",
+    "condition": "baseline",
+    "val_t": -0.084633469581604,
+    "aro_t": 0.13456106185913086,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it still feels really overwhelming. I mean, there are so many things at work that worry me, and I'm not sure where to start. It's hard to pinpoint just one situation because they all seem to blend together in my mind.",
+    "therapist": "I understand that it can feel really overwhelming when everything seems to blend together, and it’s completely normal to feel unsure about where to start. It might be helpful to just pick one recent situation that stands out a little more, even if it’s not the biggest one. What’s one recent event at work that’s been on your mind a lot lately, even if it’s just a small thing?",
+    "condition": "baseline",
+    "val_t": -0.11390697956085205,
+    "aro_t": 0.16894090175628662,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling since I got laid off from my job at the tech startup last month. Every morning I wake up with this tight feeling in my chest, just dreading checking my bank account or thinking about how long my savings will last. I'm not even sure talking about it is going to change anything practical, like it won't magically make a job appear, you know?",
+    "therapist": "It sounds like you're carrying a really heavy weight right now — that tight feeling in your chest each morning makes so much sense given the uncertainty you're facing. You're right that talking won't instantly solve the practical side of things, but what we can work on together is easing some of that dread so it doesn't feel quite so crushing every single day. I'm curious — when that tight feeling hits you in the morning, what kinds of thoughts tend to run through your mind first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27884936332702637,
+    "aro_t": 0.16353380680084229,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Honestly, the first thing that hits me is this thought like... \"what if I never find another job that pays as well, and I lose everything I've worked for.\" It just spirals from there — I start thinking about my savings running out, not being able to pay rent, maybe having to ask my family for help which feels humiliating. It's like my brain goes straight to the worst possible outcome before I've even had my first cup of coffee.",
+    "therapist": "That spiral sounds exhausting — your brain is essentially fast-forwarding to the most frightening possible ending before the day has even begun, and that takes a real toll. In CBT we'd call that \"catastrophizing,\" and the important thing to notice is that it feels like a prediction, but it's actually just one of many possible stories your mind is telling you. If you were to pause that spiral and look for evidence — what has your track record actually been when you've faced tough situations before?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2938617467880249,
+    "aro_t": 0.2057105302810669,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I hear what you're saying, and I guess intellectually it makes sense that it's just a story my brain is telling me. But when I'm actually in it, it doesn't feel like a story at all — it feels completely real and inevitable, like I already know how it's going to go wrong. And honestly, when I try to think about my \"track record,\" my mind just... skips over the times things went okay and zeroes in on the one time I really messed up a presentation two years ago, so I'm not sure that exercise would actually help me.",
+    "therapist": "What you're describing is really common and actually has a name — \"mental filtering,\" where the brain acts like a highlight reel that only plays the low points and edits out the wins, so of course the evidence exercise feels skewed. The fact that you can notice it happening though — that your mind *skips over* the good stuff — is actually a meaningful moment of awareness, even if it doesn't feel powerful yet. What do you think it would take for one of those \"times things went okay\" to feel as real and vivid to you as that presentation memory does?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19492828845977783,
+    "aro_t": 0.18118345737457275,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I mean, I hear what you're saying about \"mental filtering,\" and it kind of makes sense as a concept, but I honestly don't know what it would take for the good moments to feel as real. Like, when I think about that one presentation where things actually went fine, it just feels kind of flat and forgettable, almost like it happened to someone else. The bad one still has this whole vivid emotional charge to it that I can't seem to shake.",
+    "therapist": "That contrast you're describing — where the difficult memory feels vivid and charged while the good one feels distant and flat — is actually really telling, because our brains are wired to encode threatening experiences more intensely as a survival mechanism, so you're not doing anything wrong. One thing that can help is deliberately \"re-charging\" positive memories by spending time reconstructing the sensory details — where you were, who was there, what it felt like in your body when it went well — almost like giving that memory more texture to hold onto. Would you be willing to try that with the presentation that went fine, just as an experiment, and see if we can make it feel a little less like it happened to a stranger?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13536310195922852,
+    "aro_t": 0.19491982460021973,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about the brain thing, and honestly it's kind of a relief to hear it's not just me being dramatic. But when I try to think back to that presentation that went okay, it really does feel like it happened to someone else — like I'm watching a blurry video of a stranger getting mild applause. I'm willing to try the sensory detail thing, but I'm a little worried that even if I manage to reconstruct it, my brain is just going to immediately counter with \"yeah but that was a fluke, the next one will be the disaster you actually deserve.\"",
+    "therapist": "It's really good that you're noticing that counter-move your brain is already preparing — \"it was a fluke, the disaster is what you deserve\" — because that phrase \"what you deserve\" is worth pausing on, since it suggests something deeper than just job anxiety, almost like a belief that bad outcomes are somehow *owed* to you. That's a really common but painful pattern, and it's worth gently questioning: where did you learn that struggling or failing means you *deserve* the worst outcome, rather than just being a normal human navigating a hard situation? What comes up for you when you sit with that word — \"deserve\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.06390225887298584,
+    "aro_t": 0.15257716178894043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That word \"deserve\" hits different when you say it back to me like that. I think... I learned it from my dad, honestly — he had this way of making me feel like disappointment was just my natural state, like I was always one mistake away from proving him right about me. So when things go wrong at work, it's like his voice just takes over and tells me the failure was inevitable, that I was fooling everyone who believed in me.",
+    "therapist": "What you just shared takes real courage, and it makes so much sense now — that voice telling you failure was inevitable isn't really *yours*, it's something that was handed to you by someone who should have made you feel safe instead. The work we can do together is starting to separate *your* voice from your dad's, because right now they've become so tangled that his harsh verdict feels like objective truth. When you imagine what a fair, neutral observer — someone who actually saw your full track record — might say about you, what do you think they'd notice that your dad's voice conveniently leaves out?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20441961288452148,
+    "aro_t": 0.21397995948791504,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I mean... I guess a fair observer might notice that I actually did finish things, like I graduated, I held down jobs, I showed up even when it was hard. But honestly, when I try to think that way, my dad's voice just gets louder and starts picking apart each of those things, like \"yeah but you could have done better\" or \"that doesn't count because you struggled.\" It's like I can't even give myself credit for five seconds before something tears it down.",
+    "therapist": "You just did something really significant — you named real, concrete evidence of your capability, and for a moment it was *there*, even if that critical voice rushed in quickly to dismantle it. The fact that the voice has to work so hard to tear each thing down actually suggests those accomplishments have more weight than it wants you to believe — you don't need to aggressively argue back against something that doesn't matter. I'm wondering, what would it feel like to simply notice when that voice shows up and label it — \"there's dad's voice again\" — rather than trying to debate it or let it have the final word?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24683749675750732,
+    "aro_t": 0.2144848108291626,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I hear what you're saying, and part of me finds it kind of interesting, like maybe there's something to that idea. But I'm not sure just labeling it as \"dad's voice\" would actually stop it from hitting hard, you know? It still feels like my voice too, like somewhere along the way I just... adopted it as the truth about myself.",
+    "therapist": "What you just said is actually one of the most important insights in this kind of work — recognizing that you *adopted* it, because that means it wasn't originally yours, and what was learned can, over time, be unlearned. Labeling it won't make it painless right away, but it starts to create a tiny bit of distance between you and the voice, a sliver of space where you can ask \"is this actually true about me, or is this something I was taught to believe?\" I'm curious — if you think about the version of you that graduated, showed up, and kept going even when it was hard, what do you think *that* person would say about who you really are?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0954369306564331,
+    "aro_t": 0.13582062721252441,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "That question kind of stops me in my tracks, honestly. Like, I want to say that person would say I'm capable or resilient or whatever, but there's this immediate pull to dismiss it, like \"yeah but that was a fluke\" or \"anyone could have done that.\" I guess that's exactly what you're talking about though, that voice jumping in to take away any credit before I can even sit with it for a second.",
+    "therapist": "You just caught it happening in real time — that's genuinely significant, because there's now a part of you that can *watch* the voice swoop in and name what it's doing, even if it still stings. That observer part of you, the one that just said \"I guess that's exactly what you're talking about,\" is actually separate from the critical voice, and it's worth nurturing that witness perspective. What would it feel like to just let yourself sit with \"I'm capable\" for a few breaths, not to debate it or prove it, but just to let it exist without immediately needing to tear it down?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11523663997650146,
+    "aro_t": 0.1438060998916626,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "Honestly, when you say \"just let it exist,\" my first instinct is to think that sounds too simple, like it can't possibly do anything real. But I tried it for just a second there, and it felt... strange, almost uncomfortable, like I was waiting for something to come along and knock it down. I think that discomfort itself is kind of telling, because normally I don't even get that far before the voice wins.",
+    "therapist": "That discomfort you felt is actually really meaningful — it tells us that some part of you has been so primed for the takedown that simply *not* being attacked feels unfamiliar, almost suspicious, like waiting for the other shoe to drop. But notice what actually happened: you let it exist for a moment, and nothing catastrophic occurred — the voice didn't win this time, even briefly. What do you think it might feel like over time, if you practiced giving yourself those small moments more often, and they started to feel just a little less strange?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13740050792694092,
+    "aro_t": 0.12390410900115967,
+    "text_emotion": "Angry"
+  }
+]

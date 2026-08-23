@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been losing sleep over my business finances lately. After getting hit with these unexpected tax bills last week, I keep catastrophizing that I might lose everything I've worked for. Part of me wonders if talking about it will actually help when the numbers are what they are, you know?",
+    "therapist": "It sounds like this financial stress is really weighing on you, especially with these recent surprises. When you say you’re catastrophizing, it makes me wonder—what’s the evidence that losing everything is the most likely outcome? Could there be other ways to look at this situation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2498931884765625,
+    "aro_t": 0.10482680797576904,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I know logically that losing everything isn't guaranteed, but it's hard to think otherwise when I see my bank account getting lower each month. The anxiety just takes over and I can only picture worst-case scenarios like ending up homeless. Even if it's not the most likely outcome, the possibility feels so real and terrifying right now.",
+    "therapist": "I hear how real and overwhelming these fears feel right now, even when you know logically they might not be the most likely outcome. When the anxiety takes over like this, what strategies have you tried to ground yourself in the present moment, rather than the worst-case scenario?",
+    "condition": "emotion_text_only",
+    "val_t": -0.31462085247039795,
+    "aro_t": 0.28870558738708496,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I’ve tried things like deep breathing or focusing on my surroundings, but it feels like my mind just spirals anyway. Like, I’ll start noticing things around me, but then I’ll think, “What if I’m just distracting myself and the bad thing still happens?” It’s hard to trust that grounding actually helps when the fear feels so real.",
+    "therapist": "It sounds like you're caught in a cycle where even your coping strategies start feeding the anxiety. That must feel exhausting. What would it be like to notice those doubting thoughts (\"What if this doesn't work?\") without letting them cancel out the grounding techniques you're trying?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17940711975097656,
+    "aro_t": 0.1348510980606079,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "It does feel exhausting, like I'm constantly fighting against my own brain. But when you say to notice the thoughts without letting them cancel out the techniques... I don't know, that sounds easier said than done. The doubts feel so loud and convincing in the moment.",
+    "therapist": "I hear how convincing those doubts feel in the moment—it makes sense that this feels like an uphill battle. Would you be willing to try something different: what if we treated those doubting thoughts like background noise, acknowledging them but not engaging with them as absolute truths?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04470348358154297,
+    "aro_t": 0.18318021297454834,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about treating doubts like background noise, but they don't feel like noise to me—they feel urgent and important. When my mind tells me I'm failing at everything, it's hard to just let that thought pass by like it's some random song playing in another room.",
+    "therapist": "I can see how these thoughts don't feel like background noise at all—they demand your full attention because they're tied to such important parts of your life. When those \"I'm failing\" thoughts show up, what happens if you ask yourself: \"Is this thought helping me solve problems, or just making me feel worse?\"",
+    "condition": "emotion_text_only",
+    "val_t": -0.1374901533126831,
+    "aro_t": 0.07651090621948242,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but when I ask myself that question, it just makes me feel worse because the answer is always \"both.\" The thoughts do make me feel terrible, but they also feel true—like if I didn't have them, I'd just be ignoring real problems. It's hard to separate what's helpful from what's just painful.",
+    "therapist": "It sounds like you're caught in a really difficult spot—where these thoughts feel both painful and necessary at the same time. What if we tried to gently explore how \"true\" and \"helpful\" might not always be the same thing? Could you think of a time when a thought felt true, but actually made it harder to address the real problem?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19666838645935059,
+    "aro_t": 0.06852054595947266,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but when I have thoughts like \"I'm a burden to everyone,\" they feel completely true in the moment. Even if they're not helpful, how do I just ignore that feeling? It's like my brain keeps coming back with proof - like when I cancel plans because I'm anxious, and then my friends stop inviting me out. That seems to confirm the thought is true.",
+    "therapist": "I hear how real and convincing that \"burden\" feeling is, especially when experiences seem to confirm it. When your brain offers up that \"proof,\" could we look at it differently—like considering whether your friends might be giving space because they think that's what you need, rather than because you're a burden?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11605989933013916,
+    "aro_t": 0.11569631099700928,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I never really thought about it that way, but I don't know... When they don't text back for days or cancel plans, it just feels like they're avoiding me. Even if they think I need space, wouldn't they check in if they really cared? It's hard to believe it's not about me being too much for them.",
+    "therapist": "It sounds like these situations leave you feeling both unseen and questioning your worth in relationships—that’s such a painful place to be. When you notice those gaps in communication, what other possible explanations feel at least a little believable, even if they’re not your first instinct?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15675771236419678,
+    "aro_t": 0.01894819736480713,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I guess sometimes people are just distracted or busy, not intentionally ignoring me. But it's hard to believe that when it keeps happening with different people. I still end up feeling like there must be something wrong with me that makes them pull away.",
+    "therapist": "It sounds like you're able to recognize other possibilities intellectually, but emotionally it still feels personal—that must be really frustrating to sit with. When this pattern happens with different people, what do you think might change if you could hold both ideas at once: that people might be busy, and that your feelings about it are still valid?",
+    "condition": "emotion_text_only",
+    "val_t": -0.25527751445770264,
+    "aro_t": 0.16255700588226318,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about holding both ideas at once, but it's just so hard not to take things personally when friends keep canceling plans. Even if I know they're busy, it still makes me feel like I'm not important enough for them to make time for. The logical part gets drowned out by that sinking feeling of rejection every time.",
+    "therapist": "That sinking feeling of rejection is so visceral—it makes complete sense that the logical understanding gets overshadowed by the emotional weight of these experiences. When that wave of \"I'm not important enough\" hits, what would it feel like to acknowledge both the pain and the possibility that this might say more about their circumstances than your worth?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3000328540802002,
+    "aro_t": 0.11830675601959229,
+    "text_emotion": "Sad"
+  }
+]

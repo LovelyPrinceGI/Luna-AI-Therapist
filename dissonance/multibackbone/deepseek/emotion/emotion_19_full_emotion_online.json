@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I lost my job unexpectedly last month, and now I can't stop worrying about how we're going to pay our bills. My wife keeps telling me we'll figure it out, but I feel like a failure for not being able to provide for my family right now. To be honest, I'm not sure how just talking about this will help when what we really need is money coming in.",
+    "therapist": "I hear how deeply this job loss is affecting you, and how much pressure you're feeling to provide for your family. It makes sense that you'd have these worries—this is a really tough situation. What thoughts go through your mind when your wife reassures you that you'll figure it out?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2694898843765259,
+    "aro_t": 0.1876528263092041,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When my wife says we'll figure it out, part of me feels guilty because I should be the one solving this. The other part gets frustrated because her optimism feels unrealistic—we have bills due next month and no backup plan. I know she means well, but it just makes me feel more alone in this.",
+    "therapist": "It sounds like you're caught between appreciating your wife's support and feeling the heavy weight of responsibility alone. That frustration and isolation must feel overwhelming when the financial pressures feel so immediate. What would it look like if you allowed yourself to share some of this burden with your wife, even just the emotional part?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2753143310546875,
+    "aro_t": 0.09184765815734863,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I know I should open up to her more, but I keep thinking she'll just worry or feel like I'm failing as a provider. Last time I mentioned being stressed about bills, she immediately offered to get a second job, and that just made me feel worse - like I'm not handling my responsibilities. It's easier to just say everything's fine than to admit how much this is crushing me.",
+    "therapist": "It sounds like you're carrying this pain silently to protect both yourself and your wife, which must feel incredibly lonely. That fear of being seen as \"failing\" is so heavy—yet by shutting her out, you might be denying yourself the very support that could lighten this burden. What do you imagine might happen if you shared just one small piece of this struggle with her, without trying to solve it immediately?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3866528272628784,
+    "aro_t": 0.16950106620788574,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I don't know... Every time I think about opening up, I get this tightness in my chest. What if she looks at me differently afterwards? I've worked so hard to be the stable one in our marriage. \n\nIt just feels safer to keep handling things myself, even if it's lonely. At least then I'm in control of how much she worries.",
+    "therapist": "That tightness in your chest tells me how scary it feels to risk being vulnerable after being the stable rock for so long. You've built this identity as the strong one, and the thought of changing that seems to shake something fundamental. \n\nWhat would it mean about you if you *did* let her see you struggle—would that necessarily make you less stable, or could it show a different kind of strength?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1727198362350464,
+    "aro_t": 0.13694429397583008,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I've always been the person everyone leans on—my family, my friends. The idea of showing weakness makes me feel like I'm letting them down somehow. But at the same time, I'm so tired of carrying everything alone. \n\nI guess part of me worries that if I start opening up, people will stop seeing me as reliable. Like the moment I show any cracks, the whole image will shatter. But I don't know if that's true or just my anxiety talking.",
+    "therapist": "You're describing such a painful dilemma—the exhaustion of always being strong for others while fearing that showing any vulnerability might change how they see you. That \"image\" you've built feels both protective and heavy at the same time. \n\nWhen you imagine those cracks appearing, what's the worst part your anxiety tells you would happen if someone saw them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27903568744659424,
+    "aro_t": 0.1371520757675171,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "The worst part is that they'd realize I'm not as put together as I seem, and then they'd stop respecting me. I've seen how people treat others who show weakness—they either pity them or walk away. I can't stand the thought of either reaction. \n\nIt's like this image is all I have to keep people from seeing how messed up I really am inside. If that cracks, what's left?",
+    "therapist": "That fear of being truly seen—and rejected—cuts so deep, doesn't it? You've built this protective shell of strength, yet it sounds like part of you longs to be known fully, even in your struggles. \n\nWhat if people's respect could coexist with your humanity? Have you ever noticed moments when someone else's vulnerability actually made you respect them more?",
+    "condition": "emotion_text_only",
+    "val_t": -0.348361611366272,
+    "aro_t": 0.16180145740509033,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but it's different when it's me. When other people are vulnerable, they seem to handle it better - like they don't completely fall apart. But if I show my weaknesses, I'm afraid people will realize I'm not as strong as I pretend to be. \n\nThere was this one time at work when I almost cried during a stressful meeting, and I still feel sick thinking about it. I barely held it together, and now I'm terrified it might happen again.",
+    "therapist": "That moment in the meeting sounds like it really shook you—like it confirmed your deepest fear about losing control. But I wonder if what you're remembering as \"barely holding it together\" might have actually been incredible strength in that moment? \n\nWhat makes you so certain others would judge you for that vulnerability the way you're judging yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.39252936840057373,
+    "aro_t": 0.22026574611663818,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I don't know...it's hard to see it as strength when all I remember is my hands shaking and my voice cracking. And people definitely noticed—I saw a few coworkers exchange looks. \n\nThe thing is, I've seen how people talk about others who show weakness at work. I don't want to be that person everyone pities or thinks can't handle pressure.",
+    "therapist": "It sounds like that experience left you feeling exposed and judged—like your colleagues saw something you never wanted them to see. That fear of being \"that person\" at work must add so much pressure to keep everything tightly controlled. \n\nI'm curious—when you've seen others show vulnerability at work, what made the difference between those who were pitied and those who were still respected?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2925952672958374,
+    "aro_t": 0.17844831943511963,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "Hmm, I never really thought about it that way before. When I've seen coworkers struggle, I guess the ones who still seemed professional and pulled themselves together quickly got more respect. But I don't know if I could do that—when I feel exposed, I just want to disappear completely. \n\nThe idea of trying to show vulnerability \"the right way\" just makes me more anxious. What if I can't control it perfectly like those other people?",
+    "therapist": "You're noticing how much pressure exists in just \"doing vulnerability right\"—like there's a perfect performance even for being human. That need to control every reaction must feel exhausting when emotions naturally want to spill out sometimes. \n\nWhat would it be like to consider that those coworkers you respect might also have moments where they feel just as exposed as you did, even if it's not visible?",
+    "condition": "emotion_text_only",
+    "val_t": -0.30265533924102783,
+    "aro_t": 0.23175597190856934,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying, but it's hard to imagine my coworkers feeling that way. They all seem so put together and confident in meetings. When I stumble over my words or get nervous, I can literally see some of them exchanging glances - that's what makes me feel so exposed. \n\nThe idea that they might feel vulnerable too... I guess it's possible, but it doesn't change how judged I feel in those moments. I still walk away replaying every awkward pause in my head for days.",
+    "therapist": "It sounds like those judgmental glances cut deep, making it hard to believe others might struggle too—even when you intellectually know they might. That replaying of every awkward moment shows how much these interactions stick with you. \n\nWhen you notice yourself dwelling on those pauses later, what's the story you tell yourself about what those coworkers must be thinking?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1639857292175293,
+    "aro_t": 0.14390230178833008,
+    "text_emotion": "Angry"
+  }
+]

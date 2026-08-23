@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really stressed out lately. I'm preparing for my final exams next month, and I'm feeling overwhelmed, especially since I struggled a lot in my chemistry class last semester. I just can't shake the feeling that I'm not going to do well, and it's really getting to me.",
+    "therapist": "It sounds like you're under a lot of pressure and the fear of not doing well is really weighing on you. Can you tell me more about what specific thoughts or worries are coming up for you when you think about your exams?",
+    "condition": "baseline",
+    "val_t": -0.3388066291809082,
+    "aro_t": 0.34185171127319336,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's like I keep thinking that if I don't do well, it will reflect poorly on me as a person. I worry that my parents and teachers will be disappointed, and I'll feel like a failure. It's hard to shake off these thoughts, even when I try to focus on studying.",
+    "therapist": "It’s completely understandable to feel that way, and those thoughts can be really tough to manage. How about we explore some of the evidence that supports and challenges the idea that your exam results reflect your worth as a person? What are some things that you value about yourself, regardless of your exam performance?",
+    "condition": "baseline",
+    "val_t": -0.39235126972198486,
+    "aro_t": 0.05943882465362549,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, but it's hard to separate my worth from my grades. I feel like I've been putting so much effort into my studies, and it feels like a big part of who I am. It's tough to think about what I value about myself when my mind keeps going back to my performance.",
+    "therapist": "I can see how deeply you connect your efforts and grades to your identity, and that can make it really challenging to step back and see other aspects of yourself. It’s okay to feel this way, and it’s a common struggle. Can you think of any moments or aspects of your life where you felt proud or valued, even if they weren’t related to your academic performance?",
+    "condition": "baseline",
+    "val_t": 0.004028201103210449,
+    "aro_t": 0.03745889663696289,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "It's hard for me to think of those moments right now. I feel like my grades are such a big part of who I am, and it's tough to see myself as anything else. I guess I do feel proud when I help my friends with their schoolwork, but it always feels like that's just an extension of my academic identity.",
+    "therapist": "It’s completely understandable that your academic achievements are a big part of your identity, and it’s great that you recognize your ability to help others as something you value. How do you think your friends feel when you help them with their schoolwork? Does that give you any insights into other strengths or qualities you might have?",
+    "condition": "baseline",
+    "val_t": 0.013187050819396973,
+    "aro_t": 0.08219075202941895,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I think my friends probably feel grateful when I help them, but sometimes I wonder if they see me as just a tutor or someone who's always there to help them get better grades. It's hard to see that as a strength when it feels like I'm just fulfilling a role they expect from me.",
+    "therapist": "It’s natural to wonder how others perceive you, and it sounds like you’re concerned about being seen solely through the lens of your academic abilities. Helping others is a significant strength, and it shows your kindness and dedication. Can you think of any times when you’ve connected with your friends on a different level, maybe through shared experiences or conversations that weren’t about school? How do those moments make you feel about yourself?",
+    "condition": "baseline",
+    "val_t": 0.10615956783294678,
+    "aro_t": 0.05921494960784912,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's true, I do feel like I'm only known for my academic stuff. I do remember a few times when I hung out with friends and we talked about our hobbies or just had fun without talking about school. It felt good, but those moments are few and far between. It’s hard to feel like those connections are enough when school is such a big part of our lives.",
+    "therapist": "It’s really important to acknowledge those moments where you connect with your friends outside of school, even if they feel few and far between. Those connections can be a source of joy and validation that isn’t tied to your academic performance. How might you make more space for these kinds of experiences in your life, even as you prepare for your exams?",
+    "condition": "baseline",
+    "val_t": 0.10193073749542236,
+    "aro_t": 0.0761803388595581,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I understand what you're saying, and I do feel a bit of relief when I spend time with my friends, but it's hard to prioritize those moments right now. I feel like I need to be constantly studying to keep up, and taking time off feels like I'm falling behind. It's a tough balance to strike.",
+    "therapist": "It’s completely understandable to feel that way, especially when you’re under a lot of pressure to perform well. Finding that balance can be really challenging. What do you think might happen if you allowed yourself some short breaks to connect with friends or engage in activities you enjoy? How might that impact your overall well-being and your ability to study effectively?",
+    "condition": "baseline",
+    "val_t": -0.10115110874176025,
+    "aro_t": 0.0480198860168457,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna, but I feel like taking breaks might just add more stress. I worry that if I take time away from studying, I won't be able to catch up, and that could affect my grades. It's hard to see how taking breaks would help when I feel like I'm already barely keeping my head above water.",
+    "therapist": "I understand that the idea of taking breaks can feel counterintuitive when you’re already feeling overwhelmed. It’s a valid concern, and it’s important to acknowledge how much pressure you’re under. However, sometimes taking short, intentional breaks can actually help improve focus and reduce burnout. Have you ever noticed how you feel or perform after a short break, even if it’s just a few minutes? What do you think might be a manageable way to incorporate some brief breaks into your study schedule?",
+    "condition": "baseline",
+    "val_t": -0.15983080863952637,
+    "aro_t": 0.04928779602050781,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying, but it's hard to see how taking breaks will actually help when I have so much to do. I feel like every minute counts, and if I take a break, I might fall behind even more. I guess I could try a short break, but it feels risky.",
+    "therapist": "I completely understand how risky it can feel to take breaks when you’re already feeling behind. It’s a valid concern, and it’s important to approach this in a way that feels manageable for you. What if we started with very short breaks, maybe just 5-10 minutes, to see if they can help you feel a bit more refreshed without significantly impacting your study time? How does that sound?",
+    "condition": "baseline",
+    "val_t": -0.11793577671051025,
+    "aro_t": 0.1203763484954834,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that you're trying to make it feel more manageable, but I still worry about losing momentum. It's hard because I feel like any time I take away from studying is time I won't get back, and that just adds to my anxiety. How can I be sure these breaks won't just make me more stressed?",
+    "therapist": "I understand that the idea of losing momentum is really concerning, and it’s completely normal to worry about adding more stress to an already stressful situation. One way to approach this might be to treat the breaks as a small experiment. You could try a 5-minute break after a focused 25-minute study session and see how you feel afterward. How do you think you might benefit from these short breaks, even if it’s just a brief moment to recharge?",
+    "condition": "baseline",
+    "val_t": -0.23806405067443848,
+    "aro_t": 0.18509912490844727,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I’ve been feeling really overwhelmed lately. My job has been piling on more and more responsibilities, and now I’ve been assigned this huge project with a tight deadline, and we’re short-staffed. It’s just a lot to handle, and I’m not sure if therapy can really make a difference with all this.",
+    "therapist": "Hi there, I’m really glad you reached out. It sounds like you’re under a lot of pressure and it’s completely understandable to feel overwhelmed with everything you’re juggling. How have you been coping with these challenges so far, and what do you think might help you feel a bit more in control?",
+    "condition": "baseline",
+    "val_t": -0.11874759197235107,
+    "aro_t": 0.22582709789276123,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for understanding. I've been trying to stay on top of things, but it feels like no matter what I do, I can't shake this constant anxiety and guilt. I keep thinking maybe if I just worked harder or was better at managing my time, things would improve, but it's not really helping. I'm not sure what else to try.",
+    "therapist": "It’s really tough when you feel like you’re putting in so much effort but still struggling with anxiety and guilt. It sounds like you’re being very hard on yourself, which is common but can be exhausting. Have you noticed any specific thoughts that come up when you’re feeling this way, or any patterns in when these feelings are most intense?",
+    "condition": "baseline",
+    "val_t": -0.04626119136810303,
+    "aro_t": 0.1488574743270874,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "Yeah, I guess I do notice that I'm really hard on myself. It's like I can't shake the feeling that I should be doing more, or doing things better. I often feel this way when I'm alone, and it seems to spiral from there. It's hard to break that cycle, you know?",
+    "therapist": "I completely understand how that spiral can feel so challenging to break. It’s really insightful of you to notice that these thoughts tend to come up when you’re alone. Have you tried any strategies to interrupt these thoughts or maybe shift your focus when you’re by yourself? What do you think might help you feel more supported during those times?",
+    "condition": "baseline",
+    "val_t": -0.20233500003814697,
+    "aro_t": 0.04655134677886963,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I've tried a few things, like listening to music or doing some light reading, but it doesn't always help. I guess I just feel like no matter what I do, the loneliness and anxiety come back. It's hard because I don't always have someone to talk to when those thoughts start spiraling.",
+    "therapist": "It sounds like you’ve been trying some self-care strategies, and while they help a bit, the loneliness and anxiety still feel persistent. It’s really tough when you don’t always have someone to talk to, and it’s completely valid to feel that way. Have you considered reaching out to friends or colleagues for a quick check-in, even if it’s just a text or a short call? Sometimes even a small connection can make a big difference. What do you think about that idea?",
+    "condition": "baseline",
+    "val_t": -0.25242912769317627,
+    "aro_t": 0.08254849910736084,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestion, but it’s hard because I often feel like I’m imposing on people. I worry they might not want to talk to me or that I’ll be a burden, and that just adds to my anxiety. It’s tough to reach out when I feel so isolated and unsure.",
+    "therapist": "I can really understand how the fear of imposing can make it even harder to reach out. It’s a common concern, and it’s natural to worry about how others might react. Have you ever tried expressing these worries to someone, even just a little bit, to see how they respond? Or, is there perhaps a way you could start with a very small step, like sending a quick message to a friend just to say hi, without expecting a deep conversation? What do you think might be a manageable first step for you?",
+    "condition": "baseline",
+    "val_t": -0.267791748046875,
+    "aro_t": 0.12154388427734375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate you understanding that, Luna. It’s just so hard to take that first step, even if it’s just a quick message. I worry that they’ll think I’m being insincere or that I only reach out when I need something. It’s tough to push past that fear.",
+    "therapist": "I totally get how tough that first step can be, and it’s completely understandable to worry about how others might perceive your reach-out. It’s a vulnerable place to be. Maybe we could explore some ways to frame your messages that feel more genuine and less like you’re imposing. What do you think about starting with a simple, heartfelt check-in, like asking how their day is going or sharing a small, positive moment from your own day? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.11526525020599365,
+    "aro_t": 0.06898725032806396,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you mean about framing it as a simple check-in, but I worry that even a small message like that could be seen as intrusive. It's hard because I always feel like I'm overthinking these things, and I end up not sending anything at all. I don't want to come off as needy or like I’m just looking for attention.",
+    "therapist": "It’s really common to feel like you’re overthinking things, and it’s understandable that you want to avoid coming off as needy or intrusive. It’s great that you’re reflecting on this. What if we tried to reframe your concern by thinking about the kind of message you’d appreciate receiving from a friend? Sometimes a simple, genuine message can strengthen connections without feeling like a burden. How do you think a message that you would find supportive might look?",
+    "condition": "baseline",
+    "val_t": -0.2216660976409912,
+    "aro_t": 0.1322993040084839,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I see what you're saying, and it does make sense. But it's hard because I often second-guess what others might think of my messages. I worry that even a simple, genuine message might come off as too much or out of the blue. It's tough to find the right balance.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. Finding the right balance can be tricky, but it’s a common challenge. It might help to start with a very small, low-pressure step, like sending a quick, casual message to a close friend or family member. What do you think about starting with someone you feel more comfortable with, and maybe just saying something like, “Hey, just wanted to say hi and see how you’re doing”? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.08797037601470947,
+    "aro_t": 0.016083478927612305,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but it’s hard because I often feel like I’m bothering people when I reach out. I worry that they’re too busy or don’t really want to hear from me. It’s something I struggle with a lot.",
+    "therapist": "I understand how tough it is to feel like you might be bothering people, and those worries can really hold you back. It’s a common struggle, and it’s important to recognize that your feelings and need for connection are valid. What if we explore some ways to gently challenge those thoughts? For example, you could remind yourself that reaching out is a healthy way to maintain connections, and most people appreciate hearing from friends. How does that feel to you, and do you think there are any small steps you could take to test this out?",
+    "condition": "baseline",
+    "val_t": -0.18916893005371094,
+    "aro_t": 0.01514136791229248,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It’s just hard because I always feel like I’m imposing or that I’m not interesting enough. I mean, I do want to reach out, but what if I’m just being a burden? It’s tough to shake that feeling.",
+    "therapist": "I can really understand how those feelings of imposing and not being interesting enough can be so difficult to shake. It’s totally normal to have those doubts, and they can be really powerful. One thing that might help is to remember that your friends and loved ones care about you and likely value your reaching out. Maybe we could try a small experiment where you send a quick, casual message to someone you trust, just to see how they respond. What do you think about giving that a try?",
+    "condition": "baseline",
+    "val_t": -0.13826704025268555,
+    "aro_t": 0.07163381576538086,
+    "text_emotion": "Angry"
+  }
+]

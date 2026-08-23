@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really anxious lately about my final exams next week. I haven't felt prepared at all because I've been working long hours at my part-time job, and it's just been really overwhelming. I'm not sure if therapy can really help with this, but I'm trying to stay open to it.",
+    "therapist": "Hey there, it sounds like you're under a lot of pressure with your exams and work. It's completely understandable to feel anxious and overwhelmed in this situation. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.053908586502075195,
+    "aro_t": 0.22407853603363037,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's been really tough. I've been trying to stay on top of everything by making schedules and to-do lists, but it feels like no matter what I do, there's always more to handle. I end up feeling guilty when I take breaks because I think I should be doing something productive all the time.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to stay productive, and it's understandable to feel guilty when you take breaks. It's important to remember that taking breaks is essential for your well-being and can actually help you be more productive in the long run. How do you think you could make your breaks feel more guilt-free and enjoyable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2602410316467285,
+    "aro_t": 0.09853076934814453,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but it's hard for me to not feel guilty when I take a break. I always worry that I'm falling behind or that I'm not doing enough. It's tough to just relax and enjoy those moments without that nagging feeling in the back of my mind.",
+    "therapist": "I understand how challenging it can be to shake off those feelings of guilt and worry. It's a common struggle, especially when you're under a lot of pressure. One thing that might help is to remind yourself that breaks are a necessary part of the process and can actually improve your focus and efficiency. What are some small, enjoyable activities you could do during your breaks that might help you feel more relaxed and less guilty?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19760358333587646,
+    "aro_t": 0.08022880554199219,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it's hard for me to feel like I deserve a break when I have so much on my plate. I worry that if I take a break, I'll fall behind or not get everything done. It's tough to find activities that feel both enjoyable and not like a waste of time.",
+    "therapist": "It's completely understandable to feel that way, especially with so much on your plate. It can be really tough to find that balance between productivity and self-care. One approach might be to set specific, manageable goals for each study session, so you can take breaks knowing you've accomplished something. What do you think about setting small, achievable goals to help you feel more comfortable taking breaks?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08867883682250977,
+    "aro_t": 0.061289310455322266,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I see where you're coming from, and I appreciate the suggestion. It's just that I often feel so overwhelmed that even setting small goals feels like adding more pressure. I worry that if I don't get everything done, I'll end up feeling even more guilty and anxious.",
+    "therapist": "I can really understand how overwhelming that must feel, and it's completely normal to worry about adding more pressure. It sounds like you're already dealing with a lot, and finding a way to manage that without increasing your stress is important. Have you tried any relaxation techniques or mindfulness exercises that might help you feel a bit more grounded and less anxious?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13195335865020752,
+    "aro_t": 0.213348388671875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I've tried a few things, like deep breathing and meditation, but they don't seem to make a big difference. It's hard because I feel like I'm just going through the motions, and I don't really believe they'll help me feel less anxious. I guess I'm just skeptical about it.",
+    "therapist": "It’s completely understandable to feel skeptical, especially when you’ve tried things that haven’t made a big difference. It can be frustrating to feel like you’re just going through the motions. Have you considered talking to someone who has had success with these techniques, or perhaps trying a different approach, like a short guided visualization or a brief walk, to see if that feels more helpful?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1465895175933838,
+    "aro_t": 0.0923377275466919,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate you understanding my skepticism, Luna. It's just hard for me to see how talking to someone else or trying a guided visualization will really make a difference. I feel like I've been stuck in this cycle for so long, and it's tough to believe that something new will work when so many other things haven't.",
+    "therapist": "I understand how challenging it can be to feel stuck and skeptical, especially when you've tried different things that haven't brought the relief you hoped for. It's important to acknowledge those feelings and give yourself permission to explore new approaches without pressure. Sometimes, even small changes can make a difference over time. What do you think about trying something very simple, like a five-minute mindfulness exercise or a short conversation with a friend, just to see how it feels?",
+    "condition": "emotion_text_only",
+    "val_t": -0.037511229515075684,
+    "aro_t": 0.09690093994140625,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It's just hard for me to see how a five-minute exercise or a quick chat will make much of a difference when I feel so overwhelmed all the time. I've tried little things before, and they didn't really help, so I'm not sure I have the energy to try again.",
+    "therapist": "I can really understand how frustrating and overwhelming it must feel to try things that don't seem to make a significant difference. It's completely normal to feel like you don't have the energy to keep trying, especially when you've been through this cycle before. Maybe we can focus on finding a small, manageable step that feels less daunting. What if we start by identifying one thing that you can do today that might bring you a tiny bit of relief or a sense of accomplishment, no matter how small?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04405534267425537,
+    "aro_t": 0.2337329387664795,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you get it, Luna. It's just hard to find something that feels manageable when everything seems so overwhelming. I guess I could try to find one small thing, but I worry that even that might feel too big today. It's like I'm so stuck in this rut that even the smallest steps feel like a mountain.",
+    "therapist": "I completely understand how overwhelming it can feel when even small steps seem too big. It's okay to take a moment to acknowledge how tough this is for you. Sometimes, just the act of recognizing and validating your feelings can provide a bit of relief. What do you think about taking a few minutes to write down how you're feeling right now, or maybe just sit with your thoughts in a quiet space? It doesn't have to be a big step, just something gentle to help you feel a bit more grounded.",
+    "condition": "emotion_text_only",
+    "val_t": -0.08331930637359619,
+    "aro_t": 0.16671264171600342,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It's just hard to find the energy to even sit with my thoughts sometimes. I feel like I'm constantly running from my feelings, and I'm not sure if just writing them down or sitting with them will make a difference. It feels like a small step, but it's still a step I'm not sure I can take right now.",
+    "therapist": "I can really understand how draining it feels to even consider sitting with your thoughts, especially when you feel like you're constantly running from them. It's completely okay to take a break from trying to take any steps right now. What if we just focus on finding a moment of calm, even if it's just for a few minutes? Would you be open to trying a very gentle breathing exercise or just taking a few deep breaths to help you feel a bit more centered?",
+    "condition": "emotion_text_only",
+    "val_t": 0.0054967403411865234,
+    "aro_t": 0.13937675952911377,
+    "text_emotion": "Neutral"
+  }
+]

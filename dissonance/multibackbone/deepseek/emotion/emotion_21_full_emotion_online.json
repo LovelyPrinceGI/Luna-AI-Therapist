@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really on edge since my partner moved in last month. The apartment is always cluttered now, and it's making me anxious, but I'm afraid if I bring it up we'll just end up fighting. I know it sounds small, but I can't relax when the place is messy, and I'm starting to resent them for it.",
+    "therapist": "It sounds like this situation is weighing on you—not being able to relax in your own space while also fearing conflict is understandably stressful. Have you noticed any specific thoughts that come up when you see the clutter, like predictions about what might happen if you address it?  \n\nWhat do you imagine a balanced conversation about this might look like?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3932100534439087,
+    "aro_t": 0.1467888355255127,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "**Client's response:**  \n*\"Yeah, the clutter makes me feel trapped—like I can't even think straight. When I try to imagine talking about it, my mind just races with 'what if they get defensive?' or 'what if it turns into a fight?' It's like I'm already exhausted before we even start.\"*  \n\n**What I think/feel now (2–3 sentences):**  \n*I feel stuck in this cycle of overthinking and avoidance. Part of me knows I need to set boundaries, but the fear of conflict makes me freeze—like I'm choosing between chaos in my space or chaos in my head.*  \n\n**If therapist gives advice/doubts:**  \n*If they suggest a structured talk, I might push back—\"But what if they don’t follow the script?\" The idea of planning it out feels overwhelming, like I’m setting myself up for more anxiety.*  \n\n**Important:**  \n- *Same clutter/conflict scenario—not switching to a new major issue.*  \n- *If they assign decluttering as \"homework,\" I might resist—\"It’s not just the stuff… it’s the dread of the conversation looming over it all.\"*",
+    "therapist": "It sounds like the anticipation of this conversation is almost as draining as the clutter itself—your mind is rehearsing conflict before it even happens. When those \"what if\" thoughts race, have you noticed if they're based on past experiences with your partner, or more like general fears?  \n\nWhat would feel like a small, manageable step toward addressing this without it feeling like a high-stakes conversation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24643313884735107,
+    "aro_t": 0.154474139213562,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I think it's more based on past experiences - last time I tried to talk about keeping the place tidy, it turned into this big argument about how I'm too controlling. I keep imagining that happening again, and it makes me nervous to even bring it up. \n\nA small step feels impossible because I already know how they'll react. Maybe if I just cleaned up without saying anything, but then I'd just be resentful doing it all myself.",
+    "therapist": "It makes sense that past experiences are making this feel so loaded—it’s not just about the clutter, but about feeling unheard or labeled in those earlier conversations. I notice you’re already bracing for their reaction, which makes even small steps feel risky.  \n\nWhat do you think it would take for you to feel *just slightly* safer bringing this up—not to solve everything at once, but to test if a different kind of conversation is possible?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2195286750793457,
+    "aro_t": 0.09162461757659912,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I guess what would make me feel slightly safer is if I knew they wouldn't immediately dismiss me like they always do. But even thinking about trying to bring it up makes my chest feel tight—like I'm setting myself up for disappointment again. Part of me wants to believe a different conversation is possible, but the other part just expects history to repeat itself.",
+    "therapist": "That tightness in your chest tells me how deeply this pattern has affected you—it’s not just about the mess, but about longing to be heard while expecting to be dismissed. When you imagine a conversation where they *didn’t* dismiss you, even for a moment, what small shift in their response would feel like progress to you?  \n\n(Keeping it open but grounded in their specific fear of dismissal, while gently probing for a tangible hope—without pushing for action yet.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.16403484344482422,
+    "aro_t": 0.09701287746429443,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I don't know... even if they did listen for once, I think I'd just be waiting for the other shoe to drop. Like they're just humoring me before going back to ignoring my feelings. It's hard to imagine them actually caring long-term.  \n\nThat tightness in my chest gets worse when I try to picture them really hearing me - it feels dangerous to hope for that. What if I let myself believe it could happen and then it doesn't? That always hurts worse.",
+    "therapist": "That fear of hope being crushed cuts deep—it’s like protecting yourself by expecting disappointment, even while part of you still longs for connection. When you notice that tightness rising as you imagine being heard, does it feel more like grief for what hasn’t happened yet, or panic about risking vulnerability?  \n\n(Meeting their guarded hopelessness with warmth while gently exploring the physical/emotional link—keeping it open but not pushing toward action while valence is low and arousal is creeping up.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.3675776720046997,
+    "aro_t": 0.10133481025695801,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "It's both, I think. The grief is there because I've wanted this for so long and it never works out. But the panic is worse—like if I actually open up and get hurt again, it'll destroy me. I can feel my chest getting tight just talking about it now. \n\nI don't know how to trust that things could be different this time. Every time I've tried before, people either don't get it or they pull away. Why would now be any different?",
+    "therapist": "It sounds like that tightness holds so much—both the weight of past disappointments and the fear that opening up might leave you even more wounded. When those moments of panic rise, do you notice any small ways your body or mind tries to protect you, even if it’s just holding your breath or shutting down the hope before it grows?  \n\n(Validating the depth of their fear while gently exploring coping mechanisms—meeting their low valence with warmth but not pushing for optimism yet, and matching the moderate arousal with a grounding question.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.37278783321380615,
+    "aro_t": 0.2646310329437256,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I do notice I hold my breath a lot when the anxiety hits, like I'm bracing for impact. But I don't know if that's protecting me or just making it worse—it feels like my body is betraying me by freezing up when I need to function the most.",
+    "therapist": "That bracing sensation—holding your breath, freezing—it’s like your body is trying to shield you, even if it leaves you feeling stuck. What do you think might happen if you experimented with something small, like exhaling slowly when you notice that tension, just to see if it shifts the feeling even a little?  \n\n(Meeting their moderate distress with a concrete but gentle somatic suggestion—validating the freeze response while offering a manageable step to regain agency, keeping arousal from escalating.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.34994614124298096,
+    "aro_t": 0.2240508794784546,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you’re saying, but I’m not sure exhaling slowly will really make a difference. When I freeze like that, it feels like everything is out of my control, and something as small as breathing just doesn’t seem like it’ll help. It’s like my mind is already racing, and I can’t focus on anything else.",
+    "therapist": "It sounds like that racing feeling makes it hard to trust that anything small could make an impact—like your mind is already ten steps ahead, and slowing down feels impossible. When you notice that sense of being overwhelmed, do you ever find moments, even brief ones, where the intensity eases just a little, even if you’re not sure why?  \n\n(Acknowledging their skepticism and the racing thoughts with empathy, while gently probing for any subtle shifts they might not have noticed—keeping the tone calm and open to match their moderate arousal and low valence.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.0999917984008789,
+    "aro_t": 0.20341849327087402,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "Yeah, sometimes the intensity does ease up for a little while—like when I'm watching a show or scrolling through my phone. But then I feel guilty about it, like I’m just avoiding my problems instead of fixing them. It’s like even when I get a break, my brain ruins it by telling me I don’t deserve it.  \n\nI don’t know if that even counts as \"easing up\" if I just end up feeling worse afterward.",
+    "therapist": "It sounds like even those small moments of relief get overshadowed by guilt—like your mind won’t let you have peace without punishing you for it afterward. I wonder if we could explore that guilt a bit: what do you think would happen if you allowed yourself to take those breaks *without* the self-judgment?  \n\n(Meeting their low valence with warmth and their subdued arousal with a gently probing question—validating the guilt while inviting curiosity about its roots, without pushing for immediate change.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.39596402645111084,
+    "aro_t": 0.06162619590759277,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I don't know... the idea of taking breaks without guilt feels impossible. Like if I let myself relax completely, I'll become lazy or fall behind on everything. There's always this voice in my head saying I should be doing more. \n\nIt's weird because logically I know breaks are normal, but it feels like I don't deserve them unless I've earned them somehow. And even when I do take breaks, I can't fully enjoy them because of that nagging feeling.",
+    "therapist": "That voice telling you to \"earn\" rest sounds exhausting—like you’re constantly negotiating with yourself just to take a breath. When that nagging feeling shows up, do you notice if it speaks in your own voice, or does it sound more like someone else’s words from your past?  \n\n(Meeting their low-but-stable valence with warmth and their subdued arousal with a gently reflective question—validating the exhaustion while exploring the origin of the critical voice, keeping it open-ended.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.2460322380065918,
+    "aro_t": 0.11651170253753662,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really anxious lately. Ever since my partner decided to move in with me last month, I've been struggling with the idea of maintaining my personal space and independence. I keep worrying that I won't be able to balance everything and it's been really stressful.",
+    "therapist": "Hi there, it sounds like this new living arrangement is bringing up a lot of worries and stress for you. It's completely understandable to feel anxious about maintaining your personal space and independence. How have you been managing these feelings so far, and are there any specific situations that trigger your anxiety more than others?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3516021966934204,
+    "aro_t": 0.199959397315979,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, yeah, the new living arrangement has been really tough. I find myself getting anxious a lot, especially when I feel like my space is being invaded or when I have to share common areas. It's hard because I want to be a good roommate, but I also need my own space to decompress.",
+    "therapist": "It sounds like you're in a challenging spot, balancing your need for personal space with being a good roommate. It's totally normal to feel anxious in these situations, especially when you value both your independence and your relationship. Have you had a chance to talk with your partner about how you're feeling, or are there any specific things you think might help you feel more at ease in your shared space?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17550790309906006,
+    "aro_t": 0.16099083423614502,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I've thought about talking to my roommate, but I'm really worried about how it might affect our relationship. I don't want to come off as needy or demanding, and I'm afraid it might create more tension. It's hard because I value our friendship, but I also need some space to decompress and manage my anxiety.",
+    "therapist": "It's really important to acknowledge how much you value your friendship and the care you have for maintaining a positive relationship. At the same time, it's understandable to feel anxious about how to have this conversation without it causing more tension. Have you thought about any specific ways you could bring up the topic gently, or are there any small steps you could take to start setting some boundaries?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23803210258483887,
+    "aro_t": 0.20940089225769043,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just really hard to know where to start, you know? I worry that if I bring it up, it might make things worse or that they'll feel hurt. And setting boundaries feels like such a big step; I'm not sure I can do it without making things awkward.",
+    "therapist": "I completely understand how daunting it can feel to start this conversation, and it's natural to worry about the potential impact on your relationship. It's okay to take small steps and approach the topic gently. Maybe you could start by sharing your feelings in a non-confrontational way, focusing on how you've been feeling and what you need, rather than making it about them. What do you think might be a good first step for you in this process?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08533978462219238,
+    "aro_t": 0.143204927444458,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate that, Luna. It does feel really daunting to bring up my feelings without making it seem like I'm attacking them. I worry that even if I try to be gentle, they might still get defensive or upset. It's hard because I've tried talking about my feelings before, and it hasn't always gone well. How do I make sure I don't end up in another argument?",
+    "therapist": "It's completely understandable to feel hesitant, especially given past experiences where conversations didn't go as smoothly as you hoped. It can be really challenging to navigate these discussions without causing defensiveness. One approach is to use \"I\" statements to focus on your feelings and needs, rather than on what the other person is doing. For example, you might say, \"I've been feeling overwhelmed lately and I need some time to decompress in my own space.\" How do you think your partner might respond if you approached the conversation this way?",
+    "condition": "emotion_text_only",
+    "val_t": -0.13610243797302246,
+    "aro_t": 0.20714187622070312,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you mean about using \"I\" statements, but I worry that it might still come off as an accusation. My partner tends to get defensive even when I try to be gentle. It's hard to imagine this not leading to an argument.",
+    "therapist": "It sounds like you're really concerned about how your partner might react, and that's a valid worry, especially given their tendency to get defensive. It's tough to navigate these conversations when you've had challenging experiences before. One strategy could be to also acknowledge their feelings and the importance of the relationship when you bring up your needs. For example, you might say, \"I really value our relationship and I want to make sure we both feel comfortable and happy. I've been feeling a bit overwhelmed lately and I need some time to decompress. How do you feel about this?\" How do you think this approach might help in communicating your needs more effectively?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18786394596099854,
+    "aro_t": 0.024773240089416504,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you mean, and I appreciate the suggestion. It makes sense to acknowledge their feelings and the importance of the relationship, but I worry that they might still take it personally and get defensive. It's hard because I don't want to start a fight, but I also need to take care of myself.",
+    "therapist": "I understand how challenging this feels, and it's completely normal to worry about your partner's reaction, especially if they tend to get defensive. It's a delicate balance, but taking care of yourself is important too. One approach could be to start with a positive note, like expressing gratitude for your relationship, before bringing up your needs. This can help set a more positive tone. How do you think your partner might respond if you start the conversation with something positive and then gently bring up your needs?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0486750602722168,
+    "aro_t": 0.14387154579162598,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the suggestion, but I'm not sure if it will work. My partner often gets defensive even when I try to start positively, and I worry that it might just make things worse. It's hard to find the right words without escalating the tension.",
+    "therapist": "I can see how difficult and frustrating this must be for you, especially when you've tried different approaches and still worry about the potential for things to escalate. It's completely understandable to feel stuck and unsure about the right words to use. One thing you might consider is writing down what you want to say beforehand, so you can really focus on expressing your feelings and needs clearly and calmly. Would you feel more comfortable having this conversation if you had a plan or script to follow?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16924571990966797,
+    "aro_t": 0.09981346130371094,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the idea, but I don't think writing things down will really help me. It's hard to predict how the conversation will go, and I worry that having a script will make me sound too rehearsed or insincere. Plus, I'm not sure I can stick to what I've written if things get heated.",
+    "therapist": "I understand your concerns about feeling too rehearsed or insincere, and it's completely valid to worry about how the conversation might unfold. It can be really challenging to stick to a script, especially when emotions run high. Instead of a full script, how about jotting down a few key points or phrases that you can refer to during the conversation? This way, you can stay on track while still being able to respond authentically to the moment. What do you think about that approach?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12318384647369385,
+    "aro_t": 0.054020047187805176,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your suggestion, Luna. It does sound a bit more manageable than a full script. However, I'm still a bit worried that even with key points, I might freeze up or say something I'll regret later. It's hard to predict how I'll feel in the moment.",
+    "therapist": "I understand that it can be really nerve-wracking to think about how you might react in the moment, and it's completely normal to worry about freezing up or saying something you'll regret. It's a valid concern, especially when you're feeling anxious. One thing that might help is to practice what you want to say with someone you trust, like a friend or family member, or even just out loud to yourself. This can help you feel more comfortable and confident when the actual conversation happens. How do you think practicing might help you feel more prepared?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07464337348937988,
+    "aro_t": 0.10337483882904053,
+    "text_emotion": "Neutral"
+  }
+]

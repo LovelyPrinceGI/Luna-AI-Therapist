@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really overwhelmed lately since my grandfather passed away. With my final exams coming up next week, it's hard to concentrate on studying because I can't shake off this feeling of grief. I keep questioning if therapy can really help me through this, especially with everything happening so fast.",
+    "therapist": "I'm really sorry to hear about your grandfather's passing; it's completely understandable to feel overwhelmed during such a difficult time, especially with exams approaching. It's important to acknowledge your grief and the impact it has on your ability to concentrate. What do you think could help you manage your feelings while also preparing for your exams?",
+    "condition": "baseline",
+    "val_t": -0.3535892963409424,
+    "aro_t": 0.23739004135131836,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I just feel really lost right now. My grandfather meant a lot to me, and with everything going on, it's hard to even think about studying. I know I need to prepare for my exams, but I can’t shake this heavy feeling of sadness, and it’s making it tough to focus.",
+    "therapist": "It makes sense that you feel lost and sad right now; losing someone who meant so much can create a heavy emotional burden. It's okay to acknowledge that your grief is impacting your focus on studying. How might you balance your need to grieve with your responsibilities for your exams?",
+    "condition": "baseline",
+    "val_t": -0.42515289783477783,
+    "aro_t": 0.13795733451843262,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I really appreciate you acknowledging my grief, but it feels overwhelming to even think about balancing my emotions with studying. It’s like every time I try to focus on my exams, I get hit with memories and sadness, and it makes it hard to concentrate. I don’t know how I’m supposed to set aside my feelings when they feel so present and heavy.",
+    "therapist": "It's completely valid to feel that way; emotions can be incredibly powerful and often demand our attention. Instead of trying to set aside your feelings, what if you allowed yourself to acknowledge them for a short time before shifting your focus to studying? How might creating small moments to honor your grief help you find a bit of balance with your exam preparation?",
+    "condition": "baseline",
+    "val_t": -0.2681291103363037,
+    "aro_t": 0.2331101894378662,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that you’re validating my feelings, but it feels really hard to just allow myself to sit with my grief. I worry that if I give it too much attention, I’ll end up spiraling and not be able to focus on studying at all. I guess I just don’t know how to find that balance without feeling overwhelmed.",
+    "therapist": "It's understandable to feel worried about getting lost in your grief; it can feel overwhelming to face those emotions head-on. Finding a balance can be challenging, but perhaps you could try setting aside specific times to acknowledge your feelings, while also giving yourself permission to shift gears when it's time to study. What do you think about creating a small ritual or practice to help you process your grief without it taking over your studying?",
+    "condition": "baseline",
+    "val_t": -0.22731506824493408,
+    "aro_t": 0.1845320463180542,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying about setting aside specific times to deal with my grief, but I worry that even those moments might just pull me deeper into it. It feels like if I let myself go there, I might never come back, and then I’d be behind in my studies. I’m not sure how a ritual would help; it feels like it would just remind me of the sadness I’m trying to manage.",
+    "therapist": "It's completely understandable to feel apprehensive about diving into your grief; it can be daunting to think about that depth of emotion. Instead of a ritual that feels heavy, perhaps you could try something lighter, like a brief moment of reflection or a short walk to acknowledge your feelings without getting too deep. What small, manageable step do you think you could take that would allow you to honor your grief while still feeling in control of your studying?",
+    "condition": "baseline",
+    "val_t": -0.30583953857421875,
+    "aro_t": 0.04496324062347412,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate the suggestion, but I'm not sure a brief moment of reflection is going to do anything for me. It feels like I might just end up pushing my feelings aside instead of really acknowledging them. Plus, with studying, there's already so much pressure—I worry that even a short walk might just make me think about everything I'm trying to avoid.",
+    "therapist": "I can see how you might feel that way; it's tough when you're under pressure and trying to navigate such strong emotions. Instead of a brief moment or a walk, what if you tried writing down your thoughts and feelings instead? This way, you can acknowledge them without feeling like you're pushing them aside, and it might help release some of the heaviness before returning to your studies. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.16835057735443115,
+    "aro_t": 0.1068037748336792,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I’m not sure writing everything down will really help me. It feels like it might just make me more aware of how overwhelmed I am, and I worry that I’ll just get stuck in my thoughts instead of actually moving forward. Plus, finding the time to write between my studies feels impossible right now.",
+    "therapist": "It’s completely valid to worry that writing might intensify your feelings instead of helping you move forward. It sounds like you're feeling a lot of pressure not only from your grief but also from your studies. What if, instead of focusing on writing everything down, you tried just jotting down one or two thoughts or feelings in a quick note when they arise? That way, you can acknowledge them without feeling overwhelmed, and it might also help you feel a bit lighter for your study sessions. What do you think about this approach?",
+    "condition": "baseline",
+    "val_t": -0.12410390377044678,
+    "aro_t": 0.18261313438415527,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate your suggestion, but I’m not sure if jotting down my thoughts will really help. It feels like I might just end up fixating on my feelings instead of letting them go. Plus, with everything going on with my studies, it feels like another thing to add to my to-do list, and that just makes me more anxious.",
+    "therapist": "I can understand how adding another task to your to-do list might feel overwhelming, especially when you’re already managing so much. It’s important to find a way to acknowledge your feelings without adding to your stress. What if you allowed yourself to simply notice your emotions as they come up during your studying, without any pressure to write or fixate on them? How might that approach feel for you as you navigate both your grief and your studies?",
+    "condition": "baseline",
+    "val_t": -0.15318083763122559,
+    "aro_t": 0.18006491661071777,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate your understanding, but I still feel like just noticing my emotions might be easier said than done. When I'm studying, my mind tends to race, and I often feel overwhelmed by guilt for not being able to focus fully. I worry that if I just sit with my feelings, it will pull me deeper into my grief and make it even harder to concentrate on my work.",
+    "therapist": "It's completely understandable to feel that way; racing thoughts can make it really challenging to just notice your emotions, especially with the added guilt of not being able to focus. Instead of trying to sit with your feelings for too long, what if you practiced a short grounding technique—like taking a few deep breaths or briefly focusing on your surroundings—when those overwhelming feelings arise? This might help create a little space between your emotions and your studying. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.24096131324768066,
+    "aro_t": 0.11630332469940186,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestion, but I’m really skeptical about grounding techniques. I feel like when I'm in the middle of my racing thoughts, it’s hard to even remember to take deep breaths. Plus, it feels like just ignoring my feelings instead of really dealing with them. I don’t know if that would actually help me focus on my studying.",
+    "therapist": "I understand your skepticism; it can feel difficult to remember to use techniques like grounding when emotions are overwhelming. It’s important to find something that feels authentic and helpful to you, rather than just an additional task. What if you considered incorporating a brief moment of self-compassion instead—like acknowledging that it’s okay to feel this way and giving yourself permission to not be perfect right now? How might that shift in perspective affect your ability to study?",
+    "condition": "baseline",
+    "val_t": -0.11154580116271973,
+    "aro_t": 0.06691539287567139,
+    "text_emotion": "Neutral"
+  }
+]

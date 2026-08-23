@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, it’s been really tough lately. Since losing my partner to cancer six months ago, I find it hard to enjoy anything, and I often feel like I’m pushing my friends away. I know we’re supposed to move on, but I just can’t seem to find my place in this new reality.",
+    "therapist": "I'm really sorry to hear that you're going through such a tough time, and it's completely understandable that you're finding it hard to enjoy things and feeling distant from your friends. It sounds like you're carrying a lot of grief and it's okay to not feel ready to move on. How have you been coping with these feelings, and is there anything specific that has been helping or making it harder?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26911914348602295,
+    "aro_t": 0.20104801654815674,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. It's been really hard to cope, and I find myself just going through the motions most days. I've tried talking to a couple of friends, but it feels like they don't really get it, and that just makes me feel more alone.",
+    "therapist": "I can imagine how isolating it must feel when it seems like others don't fully understand what you're going through. It's completely normal to feel that way, especially after such a significant loss. Have you considered finding a support group or a community where others might share similar experiences? Sometimes, connecting with people who have been through similar situations can provide a sense of belonging and understanding. How do you think that might feel for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08329999446868896,
+    "aro_t": 0.022745490074157715,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate the suggestion, but I'm not sure if a support group would really help. It's hard to open up to strangers, and I worry that they might not truly get what I'm going through. Plus, it feels like another thing to add to my plate right now, which is already pretty full.",
+    "therapist": "I understand that opening up to strangers can feel daunting, especially when you're already carrying so much. It's important to take things at your own pace and not add more pressure to yourself. Have you thought about any other ways to express your feelings, like writing in a journal or engaging in a creative outlet? Sometimes, these can be helpful in processing emotions without the added stress of social interaction. What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": 0.041248202323913574,
+    "aro_t": 0.13636553287506104,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I do feel a bit more at ease knowing I don't have to rush into anything. Writing in a journal sounds okay, but I worry it might just make me dwell on things more. I've tried it before, and sometimes it feels like I'm just spiraling into my own thoughts. It's hard to find a balance.",
+    "therapist": "It's really important to find what works best for you, and I can see why you might be hesitant about journaling if it feels like it could lead to more spiraling. It's okay to explore different methods and find a balance that supports you. Have you considered setting a specific time limit for journaling, or perhaps using guided prompts to help focus your thoughts? Or maybe there are other activities, like walking or listening to music, that could help you process your feelings in a different way? What do you think might feel more manageable for you right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11423313617706299,
+    "aro_t": -0.022679686546325684,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate you suggesting those alternatives, Luna. Setting a time limit for journaling or using guided prompts could be helpful, but I'm still a bit worried that it might just end up making me more anxious. I do find walking and listening to music to be calming, though. Maybe I could try combining those activities with some light reflection to see if it helps me process my thoughts without getting too overwhelmed.",
+    "therapist": "It sounds like you're finding a more balanced approach that feels right for you, and that's really important. Combining walking and listening to music with some light reflection could be a gentle and effective way to process your thoughts without feeling overwhelmed. How does it feel to try this approach, and do you have a specific time or place in mind where you might start?",
+    "condition": "emotion_text_only",
+    "val_t": 0.04253888130187988,
+    "aro_t": 0.07030141353607178,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "It feels a bit reassuring, but I'm still not sure if I can really manage it. I mean, I get anxious just thinking about setting aside time for this, and finding a quiet place isn't easy with my schedule. It's hard because I feel like I'm always on the go, and it's tough to slow down.",
+    "therapist": "I understand that it can feel overwhelming to try to fit another activity into your busy schedule, and it's completely normal to feel anxious about it. It's okay to start small and find little moments of quiet, even if it's just a few minutes here and there. Maybe you could try incorporating a short walk or a few minutes of music during a break in your day. How does that feel, and is there a specific time that might work better for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.08360612392425537,
+    "aro_t": 0.14362001419067383,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I still feel like it's hard to find those moments of quiet. Even a short walk or listening to music feels like one more thing to add to my list. I worry that I won't be able to stick to it, and then I'll just feel more guilty for not doing it.",
+    "therapist": "I completely understand how adding one more thing to your list can feel overwhelming, and it's important to avoid adding to that feeling of guilt. It's okay to take things at your own pace and not feel pressured to do more than you can handle. Maybe we can explore ways to integrate these activities more naturally into your existing routine, like listening to music during your commute or taking a short walk during a break at work. What do you think about that, and is there a small step you feel comfortable trying?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2197420597076416,
+    "aro_t": 0.03078627586364746,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does sound a bit more manageable to integrate things naturally. But I still worry that even small steps might end up feeling like just another thing on my to-do list, and I already feel so overwhelmed. How can I make sure I don't fall into that trap?",
+    "therapist": "I can understand how even small steps can feel like added pressure when you're already overwhelmed. It's important to approach these activities with a mindset of self-compassion and flexibility. One way to avoid the trap of feeling like it's another to-do is to frame these moments as a form of self-care, rather than a task. For example, you could think of listening to music or taking a short walk as a way to give yourself a break and some peace, rather than something you have to check off a list. How does that feel to you, and is there a way you can remind yourself of this intention when you try these activities?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12318098545074463,
+    "aro_t": 0.2816561460494995,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean about framing it as self-care, but it's still hard to shake the feeling that it's just another thing I should be doing. I guess I worry that even if I try to think of it as self-care, I'll end up feeling guilty if I don't do it perfectly or if it doesn't make me feel better right away. How can I get past that?",
+    "therapist": "It's completely understandable to feel that way, and it's a common struggle to shake off those feelings of guilt and perfectionism. One approach is to set very gentle and realistic expectations for yourself. For example, you might start by telling yourself that even a few minutes of self-care is better than none, and that it's okay if it doesn't solve everything right away. It's about showing yourself kindness and recognizing that every small step is a form of self-care, even if it doesn't feel perfect. How does that resonate with you, and is there a small, gentle step you feel comfortable trying today?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23164033889770508,
+    "aro_t": 0.05503678321838379,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea of setting gentle expectations, but it's hard for me to believe that a few minutes of self-care will make a difference. I feel like I should be doing more, and it's tough to accept that small steps are enough. It's just hard to break that cycle of perfectionism.",
+    "therapist": "I completely understand how challenging it can be to break that cycle of perfectionism, and it's completely normal to feel like small steps might not be enough. It's important to recognize that perfectionism often stems from a place of wanting to do the best for yourself, but it can also be very overwhelming. Maybe we can focus on the idea that every small step, no matter how minor it seems, is still a step towards taking care of yourself. It doesn't have to be perfect, and it's okay to start small. How does it feel to give yourself permission to just try something small, without the expectation that it has to make everything better right away?",
+    "condition": "emotion_text_only",
+    "val_t": -0.04324984550476074,
+    "aro_t": 0.04820144176483154,
+    "text_emotion": "Neutral"
+  }
+]

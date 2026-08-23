@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really down lately. After failing my final exam in calculus, I can't shake off these feelings of inadequacy. I keep questioning whether I'm cut out for my major at all. It's been really tough.",
+    "therapist": "I'm really sorry to hear that you're feeling this way. It's completely understandable to feel down and question yourself after such a setback. Can you tell me more about what specific thoughts are coming up for you when you think about your major and your future?",
+    "condition": "baseline",
+    "val_t": -0.2843289375305176,
+    "aro_t": 0.1330808401107788,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's just been really tough. I keep thinking that maybe I made the wrong choice with my major, you know? I feel like I’m not good enough, and I wonder if I’m just setting myself up for more failure. It's hard to see a clear path forward.",
+    "therapist": "It sounds like you're carrying a lot of doubt and uncertainty, and that can be really overwhelming. It’s natural to question your choices, especially after a difficult experience. What do you think would help you feel more confident or at least give you some clarity about your path?",
+    "condition": "baseline",
+    "val_t": -0.3140145540237427,
+    "aro_t": 0.06887662410736084,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I feel like I'm stuck in this loop of doubt and uncertainty, and it's hard to see a clear path forward. I think what would help is if I could just feel more certain about my decisions, but that certainty seems so out of reach right now. It's hard because every time I try to make a decision, I end up second-guessing myself and feeling even more lost.",
+    "therapist": "It sounds like you're caught in a cycle of self-doubt, and that can really make it hard to move forward. It’s completely understandable to crave certainty, but it’s also okay to make decisions even when you don’t feel 100% sure. What small step could you take today that might help you feel a bit more in control or give you some direction, even if it’s just a tiny step?",
+    "condition": "baseline",
+    "val_t": -0.291986346244812,
+    "aro_t": 0.15760338306427002,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it’s hard because I feel like every small step I take just leads to more doubts and second-guessing. It’s like I’m stuck in this loop where I can’t trust my decisions. How do I break out of that?",
+    "therapist": "I can see how frustrating and discouraging that must feel. It’s really tough when you’re in a cycle of doubt like that. One thing we can explore is identifying the specific thoughts that come up when you start to second-guess yourself. Can you share some of those thoughts with me? Once we have a clearer picture, we can look at them more closely and see if there are any patterns or if there’s evidence that might challenge those thoughts.",
+    "condition": "baseline",
+    "val_t": -0.17837822437286377,
+    "aro_t": 0.14242041110992432,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess the main thought that keeps coming up is that I feel like I’m not good enough, and that everyone else is doing better than me. It’s hard because I see others succeeding and I just feel like I’m falling behind. I’m not sure if identifying these thoughts will really change anything, though.",
+    "therapist": "It’s really brave of you to share those thoughts. Feeling like you’re not good enough and comparing yourself to others can be incredibly tough. It’s completely understandable to feel that way, especially when you see others succeeding. Let’s take a closer look at these thoughts. Can you think of any times when you’ve succeeded or shown strength, even if it was in a different area? Sometimes it helps to gather evidence that can provide a more balanced view.",
+    "condition": "baseline",
+    "val_t": -0.1858123540878296,
+    "aro_t": 0.054480910301208496,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, but it’s hard to think of those moments right now. It feels like every time I try to remember something positive, the negative thoughts just drown them out. I know I’ve had some successes, but they don’t seem to stick in my mind as much as the failures do.",
+    "therapist": "I can see how overwhelming those negative thoughts can be, and it’s completely understandable that they overshadow the positive moments. It’s a common experience, but we can work on bringing those positive experiences back into focus. What if we tried a small exercise where you write down one small success or positive moment each day, no matter how minor it might seem? This can help build a more balanced perspective over time. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": 0.01324772834777832,
+    "aro_t": 0.028768301010131836,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea, but it feels like a lot to keep track of, especially when my mind is already so cluttered with anxiety. It's hard to find those positive moments when the negative ones are so loud. I worry that I might just end up feeling even more overwhelmed or like I'm failing at something else.",
+    "therapist": "I understand that adding another task to your plate can feel overwhelming, especially when you’re already dealing with a lot of anxiety. It’s okay to take things one small step at a time. What if we started with something even simpler, like just taking a few moments each day to acknowledge one thing that went okay, even if it’s just a small moment of relief or a brief positive feeling? How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.21424555778503418,
+    "aro_t": 0.2114008665084839,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does sound more manageable. But I still worry that even this small step might feel like too much some days, especially when my anxiety spikes. I’m not sure I’ll be able to find those positive moments when everything feels overwhelming.",
+    "therapist": "I completely understand your concerns, and it’s okay to feel unsure about taking even small steps. It’s important to be gentle with yourself and recognize that some days will be harder than others. What if, on those tough days, you allowed yourself to simply notice a neutral moment, like a moment of stillness or a break in the day? This can be a way to acknowledge that not everything has to be positive or negative. How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.09030377864837646,
+    "aro_t": 0.22674524784088135,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that, Luna. It’s hard for me to see the neutral moments sometimes, especially when I feel so overwhelmed by anxiety and guilt. I worry that even trying to find those moments might just make me feel like I’m not doing enough. How can I make it easier to recognize those neutral times without adding more pressure?",
+    "therapist": "I understand that recognizing neutral moments can feel challenging, especially when you’re already dealing with a lot of anxiety and guilt. It’s important to approach this with self-compassion and without adding more pressure. One way to make it easier might be to set a gentle reminder for yourself, like a notification on your phone, to take a moment to pause and just notice your surroundings or your breath. This can help you ground yourself in the present without the expectation of finding something positive. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.09467947483062744,
+    "aro_t": 0.16900742053985596,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the idea, but I'm not sure if setting reminders will actually help. It feels like another thing to manage, and I worry it might just add to my anxiety instead of reducing it. I guess I’m just skeptical about how much it will actually make a difference.",
+    "therapist": "I completely understand your skepticism, and it’s valid to feel that way. Adding another thing to manage can feel overwhelming, especially when you’re already dealing with a lot. Instead of setting reminders, what if we tried a different approach, like finding a few minutes each day to simply sit with your thoughts and feelings without judgment? This could be a time to acknowledge how you’re feeling without trying to change anything. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.07755255699157715,
+    "aro_t": 0.08552348613739014,
+    "text_emotion": "Neutral"
+  }
+]

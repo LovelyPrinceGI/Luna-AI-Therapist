@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been completely overwhelmed thinking about my final exams next month. My statistics class has been especially tough - I barely passed the midterm, and now I'm terrified I'm going to fail the final. No matter how much I study, I just freeze up when I look at the problems.",
+    "therapist": "It sounds like you're feeling really anxious about your exams, especially statistics, and that studying hasn't helped ease those worries yet. When you think about failing, what goes through your mind in those moments of freezing up?",
+    "condition": "emotion_text_only",
+    "val_t": -0.38200652599334717,
+    "aro_t": 0.24357616901397705,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "When I think about failing statistics, my mind just goes blank and I start imagining how disappointed my parents will be. It's like I can already hear them saying \"We knew you weren't cut out for this program\" even though they haven't said that. \n\nI've tried studying more but then I just get overwhelmed by how much I don't understand, and that makes the anxiety worse. It feels like no matter how much time I put in, I'm just not getting any better at it.",
+    "therapist": "I hear how much pressure you're putting on yourself, and how those worries about disappointing your parents are making the studying process even harder. Let's explore this together - when you notice those thoughts about not being \"cut out for this,\" what evidence do you have that contradicts that belief?",
+    "condition": "emotion_text_only",
+    "val_t": -0.43809330463409424,
+    "aro_t": 0.21240901947021484,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess the evidence would be that I've passed all my classes so far, even the hard ones. But it feels like that doesn't count because I barely scraped by, and my parents keep saying I should be getting all As. Their constant comparisons to my cousins who are top students makes me feel like I'm never doing enough.",
+    "therapist": "It sounds like you're carrying both your own fears of failure *and* your parents' high expectations, which must feel incredibly heavy. When you notice those thoughts about barely scraping by, what would happen if you considered that passing difficult classes—even by small margins—still shows persistence and capability?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0998067855834961,
+    "aro_t": 0.14820051193237305,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I get what you're saying about persistence, but it doesn't really help when I see my classmates excelling so easily. Even passing feels like failure when my parents ask why I didn't get top marks like my cousin. The guilt just eats at me, like I'm wasting their sacrifices.",
+    "therapist": "I can hear how painful it is when comparisons make your very real achievements feel insignificant. Let me ask - if a close friend was in your position, passing tough classes while carrying this weight of expectations, how would you view *their* efforts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.36314141750335693,
+    "aro_t": 0.1106332540512085,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I never thought about it that way before. If my friend was going through this, I'd probably tell them they're doing amazing balancing everything. But when it's me, it just never feels like enough no matter what I do. \n\nIt's frustrating because logically I know I'm working hard, but emotionally I still beat myself up over every small mistake. Why can't I give myself the same kindness I'd give a friend?",
+    "therapist": "That gap between how you'd treat a friend and how you treat yourself is so important to notice - you're being extraordinarily hard on yourself while clearly having compassion for others. What do you think might happen if you experimented this week with giving yourself just a fraction of that same kindness when you make small mistakes?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15515971183776855,
+    "aro_t": 0.20751571655273438,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but it's hard to imagine being kind to myself when I mess up. Whenever I try, this voice in my head just says I'm making excuses for being lazy or incompetent. It feels like if I go easy on myself, I'll just keep making the same mistakes over and over. \n\nThe other day I forgot to reply to a friend's text for two days, and I was beating myself up about it while also telling myself \"if this was someone else, you'd totally understand\". But the second I try to apply that to myself, it just feels... fake? Like I'm letting myself off the hook.",
+    "therapist": "It sounds like that inner critic jumps in very quickly, making self-compassion feel like self-deception rather than genuine care. That resistance you're describing is actually quite common when we start practicing kindness toward ourselves. \n\nWhat do you think might happen if, just for one day, you treated those self-critical thoughts as if they were coming from an overly harsh coach rather than absolute truth?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2748962640762329,
+    "aro_t": 0.14493978023529053,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, but that inner critic feels so real to me. Like if I try to ignore it or treat it as just some \"harsh coach,\" I'm afraid I'll become lazy or make mistakes. It's like this voice is the only thing keeping me in check sometimes. \n\nAlso, when I've tried being kinder to myself before, it just made me feel guilty, like I don't deserve that kindness. Doesn't that mean the criticism is justified?",
+    "therapist": "It sounds like that inner critic has felt like a necessary force in your life, almost like a safety net. But I wonder - has this voice actually helped you avoid mistakes, or has it just made you feel worse when they happen?\n\nWhen you notice that guilt about deserving kindness, what would happen if you considered that treating yourself with care isn't about letting mistakes slide, but about creating a healthier way to grow from them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3037909269332886,
+    "aro_t": 0.15484321117401123,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "Hmm, I see what you're saying about the inner critic maybe not actually helping. But when I try to be kinder to myself, it just feels like I'm making excuses for my mistakes. Like if I don't beat myself up, I won't learn anything. \n\nThe idea of a \"healthier way to grow\" sounds nice, but I've been this way for so long that anything else just feels wrong. It's like my guilt is proof that I care about doing better, you know?",
+    "therapist": "I hear how deeply ingrained this pattern is for you, and how unsettling it feels to consider changing something that's felt like proof you care. That discomfort makes complete sense when we're trying something so different from our usual ways. \n\nWhat if we looked at this differently—could that guilt actually be coming from care and wanting to do well, rather than needing to be expressed through self-criticism? How might your learning change if mistakes became information rather than failures?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17925500869750977,
+    "aro_t": 0.10551536083221436,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about guilt coming from caring, but when I make mistakes it just feels like proof I'm not good enough. Like last week I mixed up dates for a work deadline and now I can't stop replaying how irresponsible I was. \n\nThe idea of mistakes being just \"information\" sounds nice but it doesn't feel true to me - they still feel like personal failures. I worry if I go easier on myself, I'll just make more mistakes.",
+    "therapist": "I hear how real that feeling of personal failure is when mistakes happen, and how scary it is to consider loosening that grip of self-criticism. That fear makes sense - it's been your way of staying accountable for so long. \n\nLet me ask: when you replay that work deadline mix-up, what actually happened afterward? Did your team collapse, or were you able to adjust and still meet the goal? Sometimes looking at the actual consequences can help us see if our self-judgment matches the reality.",
+    "condition": "emotion_text_only",
+    "val_t": -0.3228069543838501,
+    "aro_t": 0.10532844066619873,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I mean, we did manage to adjust the timeline and the project got finished eventually. But I can't stop thinking about how much better it could have gone if I hadn't messed up the deadline in the first place. Even though things worked out, I feel like I let everyone down and they must think less of me now. \n\nIt's hard to focus on the positive outcome when all I see are my mistakes. The disappointment from my boss when I told them about the mix-up still makes me cringe when I think about it.",
+    "therapist": "It sounds like even though the situation was resolved, that moment of disappointment from your boss still weighs heavily on you. That lingering feeling seems to be overshadowing the fact that you and your team ultimately succeeded. \n\nWhen you notice yourself cringing at that memory, what do you think might happen if you balanced it with remembering how you took responsibility and helped find a solution?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3803215026855469,
+    "aro_t": 0.21270132064819336,
+    "text_emotion": "Angry"
+  }
+]

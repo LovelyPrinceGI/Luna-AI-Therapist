@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been feeling really distant from my friends lately. It's been six months since my mom passed, and everyone else seems to have gone back to their normal lives while I'm still stuck in this grief. I don't even know if talking about it will help - they just don't get why I can't just \"move on\" like they have.",
+    "therapist": "It sounds like you're carrying this grief while feeling isolated from others who don't seem to understand the depth of your loss. That must feel incredibly lonely. I'm curious—when you think about reaching out to your friends, what thoughts come up about how they might respond?",
+    "condition": "emotion_text_only",
+    "val_t": -0.37663888931274414,
+    "aro_t": 0.05383419990539551,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "I want to reach out to my friends, but I keep thinking they'll just give me those awkward, pitying looks or say something generic like \"time heals all wounds.\" It makes me feel even more alone, like they don't really get how much this loss still hurts me every day. \n\nSometimes I start typing a message to them but then delete it because I worry I'll just bring down the mood or make them uncomfortable.",
+    "therapist": "I hear how much you're longing for connection while also fearing their responses might deepen your sense of isolation. That hesitation before hitting send—worrying about being a burden—must feel so heavy. Would it help to explore what kind of response from them would actually feel supportive right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3239396810531616,
+    "aro_t": 0.08582854270935059,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I don't even know what kind of response would feel supportive anymore. Part of me wants them to immediately reassure me, but then I'd just assume they're saying it out of pity. And if they don't respond right away, I spiral thinking they're avoiding me because I'm too much. It's like I can't win either way.",
+    "therapist": "It sounds like you're caught between two painful thoughts—that any response from them would confirm your fears of being either pitied or avoided. That mental tug-of-war must be exhausting. What do you think it would look like if you gave yourself permission to reach out without predicting how they'll respond?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3208707571029663,
+    "aro_t": 0.15618407726287842,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "Honestly, the idea of reaching out without predicting their reaction sounds terrifying. What if I open up and they just don't respond at all? I think that would hurt even more than my worst predictions. \n\nIt feels like I'm setting myself up for disappointment either way—either by not reaching out and staying stuck in my head, or reaching out and facing rejection. I don't know which option would actually be worse.",
+    "therapist": "You're describing such a painful dilemma—where both options feel like they'll lead to hurt, leaving you frozen in this impossible choice. That fear of the unknown reaction seems almost as heavy as the loneliness itself. Would you be willing to explore what small, low-risk way you might test these fears—maybe by sharing just a bit at first to see how it lands?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3803694248199463,
+    "aro_t": 0.19392573833465576,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess I could try sharing a little bit, but it’s so hard to trust that it won’t backfire. What if I open up just a little and they react badly or shut me down? I feel like I’ve been burned before, and it makes me wonder if it’s even worth the risk. The thought of trying feels overwhelming, like I’m setting myself up for disappointment again.",
+    "therapist": "It sounds like you're standing at the edge of vulnerability, recognizing the potential for connection but also bracing for possible hurt—that delicate balance between hope and protection must feel exhausting. I wonder what tiny, almost imperceptible step toward sharing might feel just barely manageable right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33898353576660156,
+    "aro_t": 0.14266908168792725,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Honestly, that \"tiny step\" idea makes me nervous. Like, what if I try to open up even a little and the other person just isn't interested? That rejection would hurt worse than just staying quiet. \n\nI had that happen last week when I almost told my coworker about my anxiety, but then she changed the subject to weekend plans. Now I just keep replaying that moment wondering if she was avoiding me or if I read it wrong.",
+    "therapist": "That moment with your coworker seems to have really stuck with you—it sounds like that interaction left you questioning both her intentions and your own judgment. That uncertainty must feel so unsettling. Would it help to examine what other possible explanations there might be for her changing the subject?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3273125886917114,
+    "aro_t": 0.21412622928619385,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "Yeah, it's been bothering me all week. I keep replaying it in my head—she completely brushed off my project idea in the meeting, and then later acted like nothing happened. Part of me thinks maybe I'm overreacting, but another part keeps wondering if she did it on purpose because she doesn't respect my work. \n\nI don't know if looking for other explanations will help though. The facts seem pretty clear—she interrupted me and moved the conversation along like my input didn't matter. When I try to think of other reasons, it just feels like I'm making excuses for her behavior.",
+    "therapist": "It sounds like this interaction left you feeling dismissed and questioning your professional worth—that would sting for anyone. The way you're holding both perspectives—wondering if you're overreacting while also recognizing the clear facts—shows real self-awareness. \n\nWhat do you think would change if you focused less on interpreting her motives and more on how you might assert your value in these situations moving forward?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2859666347503662,
+    "aro_t": 0.1321946382522583,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about focusing on my own value, but honestly? The thought of trying to assert myself makes my stomach twist up. Every time I've tried to speak up before, I end up freezing or stumbling over my words. Then I spend days replaying how awkward it was. \n\nPart of me knows I'm good at my job, but another part keeps whispering that maybe my boss was right to dismiss my idea. How do I even start changing that pattern when the self-doubt feels so real?",
+    "therapist": "It sounds like that critical voice has become so familiar that even imagining speaking up brings up physical anxiety—that stomach twist you described shows how viscerally this affects you. \n\nI wonder if we could explore this in smaller steps: what's one professional strength you could practice naming to yourself this week, without anyone else's reaction being part of the equation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23526155948638916,
+    "aro_t": 0.20093309879302979,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about starting small, but honestly even naming a strength to myself feels uncomfortable. My brain immediately counters with \"but is that really true?\" or \"other people are way better at that.\" The anxiety isn't just physical—it's like my thoughts spiral before I even try.",
+    "therapist": "That inner debate—where every positive thought gets immediately challenged—must feel like being stuck in mental quicksand. The fact that you recognize this pattern is actually a really important first step. \n\nWhat would happen if, just for today, you noticed those doubting thoughts without arguing with them—like observing clouds passing by?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14402592182159424,
+    "aro_t": 0.16599714756011963,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I like the idea of just observing thoughts without getting caught up in them, but honestly, it sounds easier said than done. My mind races so fast that before I know it, I'm already drowning in anxiety again. How do you even catch yourself in the moment when the thoughts feel so overwhelming?",
+    "therapist": "It sounds like your thoughts move so quickly that they sweep you away before you even realize it's happening—that must feel incredibly frustrating. Let's try something concrete: what if we practiced just noticing one thought today, like noticing a passing car, without climbing inside it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14275336265563965,
+    "aro_t": 0.2913898229598999,
+    "text_emotion": "Angry"
+  }
+]

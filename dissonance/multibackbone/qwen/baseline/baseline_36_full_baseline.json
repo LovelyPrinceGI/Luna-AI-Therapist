@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really stressed out lately. My new business is struggling, and I just got hit with some unexpected tax bills last week. It feels like everything is piling up, and I'm not sure how to manage it all. I know we’re working on this, but sometimes I wonder if therapy can really help with something as concrete as financial stress.",
+    "therapist": "I understand how overwhelming this must feel, and it’s completely normal to wonder if therapy can help with such concrete issues. While we can’t change the external stressors, we can work on how you manage and respond to them, which can make a big difference. How have you been coping with these stressors so far, and are there any small steps you feel might be manageable to try?",
+    "condition": "baseline",
+    "val_t": -0.21296203136444092,
+    "aro_t": 0.13394379615783691,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that you're trying to help, but it feels like these stressors are just too big to manage. I've been trying to cope by avoiding them as much as I can, but that just makes me feel guilty and more isolated. I don't know if there are any small steps I can take that won't just end up overwhelming me even more.",
+    "therapist": "It makes sense that you feel overwhelmed and that avoiding the stressors might seem like the only way to cope right now. Avoidance can provide temporary relief, but it often leads to more stress and guilt in the long run. What if we explored some small, manageable steps that might help you feel a bit more in control, without overwhelming you? For example, setting aside just a few minutes each day to address one small task or worry. What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.28439128398895264,
+    "aro_t": 0.10964250564575195,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, and I know you're trying to help, but it's hard for me to see how just doing a little bit each day will make a difference. It feels like no matter what I do, the anxiety and guilt just keep piling up. I worry that even those small steps will end up feeling too overwhelming.",
+    "therapist": "I completely understand how daunting even small steps can feel when you're already overwhelmed. It’s important to acknowledge that it’s okay to feel this way, and it’s not about making the anxiety and guilt disappear completely, but rather about finding a way to manage them so they feel a bit more bearable. Could we start by identifying one very small, specific task that feels doable for you today, and see how it goes? What’s the smallest step you could take that might give you a sense of progress without feeling too overwhelming?",
+    "condition": "baseline",
+    "val_t": -0.21755313873291016,
+    "aro_t": 0.1985410451889038,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, Luna. It's just hard because even the smallest tasks can feel like a mountain sometimes. I guess I could try to organize my desk, but I'm worried that I'll start and then get overwhelmed by all the other things I feel like I should be doing.",
+    "therapist": "I understand that even small tasks can feel like a lot, and it’s completely valid to feel that way. Starting with something like organizing your desk is a gentle way to begin, and it’s okay to set boundaries to prevent feeling overwhelmed. Maybe we could set a timer for 10 minutes and focus solely on organizing your desk during that time. That way, you’re giving yourself a clear, manageable limit. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.028085827827453613,
+    "aro_t": 0.0953139066696167,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestion, but I don't think setting a timer for 10 minutes will make it any easier for me. It’s hard because I feel like I’m just delaying the inevitable, and I end up feeling guilty for not doing more. How can I break this cycle of procrastination and guilt?",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. The cycle of procrastination and guilt can be really tough to break. One approach we can try is to break tasks into even smaller, more specific steps, and focus on the process rather than the outcome. For example, instead of thinking about organizing your entire desk, you could focus on just clearing one small area or sorting one pile of papers. What do you think about trying to identify one tiny, specific action you can take, and then giving yourself credit for that effort, no matter how small?",
+    "condition": "baseline",
+    "val_t": -0.271079421043396,
+    "aro_t": 0.11147356033325195,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I see what you're saying, and it makes sense in theory, but it's hard for me to actually break things down like that. I tend to get overwhelmed by the bigger picture and lose motivation. I worry that even if I start small, I’ll still end up feeling like I haven’t done enough.",
+    "therapist": "I understand that it can be really challenging to break things down, especially when the bigger picture feels so overwhelming. It’s normal to worry about not doing enough, and that can sap your motivation. Let’s try a different approach for a moment. Instead of focusing on what you haven’t done, can we focus on what you have accomplished, no matter how small? What are some things you’ve managed to do recently, even if they felt insignificant at the time? This can help build a sense of progress and accomplishment.",
+    "condition": "baseline",
+    "val_t": -0.17364835739135742,
+    "aro_t": 0.0891953706741333,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the idea, but it's hard to see the small things when the big stuff feels so overwhelming. I guess I did manage to do the dishes yesterday and even made my bed this morning. But it feels like such a tiny drop in the ocean of everything else I need to do. It’s hard to feel like those things really matter when I’m so weighed down by everything else.",
+    "therapist": "It’s completely understandable to feel that way, and it’s important to acknowledge how significant those small actions are, even if they feel like a tiny drop in the ocean. Making your bed and doing the dishes are tangible steps that can actually boost your sense of control and order in your environment. Maybe we can explore how these small actions can serve as a foundation to build on. How do you think you could celebrate or acknowledge these small victories, even if just to yourself, to help shift your focus from the overwhelming to the manageable?",
+    "condition": "baseline",
+    "val_t": -0.08948338031768799,
+    "aro_t": 0.11866104602813721,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I understand what you're saying, and I do see the value in those small actions. It's just that sometimes, even when I do those things, it feels like it doesn't make a dent in the bigger problems I'm facing. Celebrating them sounds nice, but it's hard to feel like it's enough when there's so much else going on. How can I make myself believe that these small steps are really making a difference?",
+    "therapist": "I understand how difficult it is to feel like those small steps are making a real difference when the bigger problems seem so overwhelming. It’s a valid concern, and it’s important to recognize that change is often gradual and not always immediately visible. One way to help yourself believe in the value of these small steps is to track your progress, even in a simple way, like writing down what you’ve accomplished each day. This can help you see the cumulative effect of your efforts over time. How do you think you might feel if you started to notice these small victories adding up?",
+    "condition": "baseline",
+    "val_t": 0.0721890926361084,
+    "aro_t": 0.18189787864685059,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you mean about tracking my progress, but it feels like a lot of extra work on top of everything else I'm dealing with. It's hard to stay motivated when I don't see immediate results, and I worry that writing things down might just feel like another chore. I do want to believe that these small steps can make a difference, but it's tough to keep that faith sometimes.",
+    "therapist": "I understand that adding another task, even something like tracking progress, can feel like too much on top of everything else. It’s completely valid to worry that it might just feel like another chore. Instead of tracking every small step, what if we start with a simpler approach? Maybe we could focus on reflecting on one thing you’re proud of each day, no matter how small, and see how that feels. This could be as simple as a mental note or a quick message to yourself. How does that feel to you?",
+    "condition": "baseline",
+    "val_t": -0.1223679780960083,
+    "aro_t": 0.05242288112640381,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I see what you're trying to do, and I appreciate the effort to make it simpler. But even just reflecting on one thing I'm proud of feels like it might be hard some days. I often struggle to find anything positive, and I worry that I'll just end up feeling worse if I can't come up with something.",
+    "therapist": "I understand how challenging it can be to find something positive, especially on tough days. It’s completely normal to struggle with this, and it’s okay to acknowledge that some days will be harder than others. Instead of focusing on finding something to be proud of, we could try a different approach, like identifying one neutral or less negative moment from your day. This could be something as simple as a moment of quiet or a small break you took. How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.13882744312286377,
+    "aro_t": 0.0959770679473877,
+    "text_emotion": "Angry"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately with what's been happening between me and my partner. They've been getting more and more frustrated with the distance that's grown between us, especially with all the late nights I've been having at work. I can feel their patience wearing thin, and it's really starting to weigh on me. I'm not sure if therapy can help with this, but I feel like I need to do something before things get worse.",
+    "therapist": "It sounds like you're carrying a lot of stress and concern about the distance growing between you and your partner. It’s understandable to feel weighed down by these challenges, especially when you notice their frustration building. How do you think your partner’s feelings and your late nights at work are affecting your relationship?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34124159812927246,
+    "aro_t": 0.17642498016357422,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I feel like I'm caught in a vicious cycle. The more stressed I am about work, the later I stay, which only makes my partner more frustrated and distant. It's hard to see a way out of this when I feel like I need to keep working to keep my job secure, but it's also taking a toll on our relationship.",
+    "therapist": "It sounds like you're in a really tough spot, caught between the demands of your job and the needs of your relationship. It’s completely understandable to feel stuck in this cycle, especially when both aspects are so important to you. Have you had a chance to talk to your partner about how you’re feeling and the pressures you’re facing at work?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3609224557876587,
+    "aro_t": 0.1357961893081665,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I have talked to my partner a bit, but it feels like every time I bring it up, it just leads to more stress and arguments. I worry that if I keep pushing the issue, it will only drive us further apart. It's hard to find the right balance.",
+    "therapist": "It sounds like bringing up the topic with your partner has been challenging and has sometimes led to more tension. It’s natural to worry that continuing these conversations might push you further apart, especially when you’re both feeling stressed. Have you considered setting aside a specific, calm time to discuss your feelings and concerns, where you both can feel heard without the immediate pressures of the day?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22012031078338623,
+    "aro_t": 0.0939098596572876,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I see what you mean, but it's hard to find a time when we're both calm and not stressed. It feels like every time I bring something up, it just escalates quickly. I worry that even if we set aside time, it might not change how we react to each other.",
+    "therapist": "I understand how challenging it can be to find a calm moment, especially when conversations tend to escalate quickly. It’s completely valid to worry that setting aside time might not change the dynamic, but it’s a step towards finding a way to communicate more effectively. What do you think might help create a safer, more constructive space for these conversations?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1108933687210083,
+    "aro_t": 0.05109727382659912,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your understanding, but it feels like a tall order to create a safer space for these conversations. It’s hard because the other person often gets defensive, and it spirals from there. I worry that even if I try to set aside time, it might not make a difference if they don’t see it the same way.",
+    "therapist": "I can really understand how daunting it feels to try and create a safer space for these conversations, especially when the other person gets defensive. It’s completely understandable to worry that your efforts might not be met with the same openness. Have you considered sharing your concerns and the importance of this issue to your partner in a very gentle and non-accusatory way, perhaps by focusing on how you feel rather than what they’re doing?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07630026340484619,
+    "aro_t": 0.033013105392456055,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It’s just really hard because I’ve tried being gentle before, and it seems like it only makes things more tense. I worry that if I bring it up again, it might just lead to another argument. How do I make sure I’m not coming across as accusatory when I’m already feeling so vulnerable?",
+    "therapist": "I can see how challenging and frustrating this must be for you, especially when you’ve already tried being gentle and it hasn’t had the effect you hoped for. It’s natural to feel vulnerable and worried about making things worse. One approach could be to focus on expressing your feelings and needs without blaming, using \"I\" statements. For example, you might say, \"I feel really stressed and disconnected, and I miss us being close. Can we talk about how we can support each other better?\" How do you think this approach might feel for you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16074669361114502,
+    "aro_t": 0.15055549144744873,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate the suggestion, but I'm not sure it will work. It's hard because I feel like I've already tried to express my feelings, and it just leads to more tension. I worry that if I bring it up again, it might just make things worse.",
+    "therapist": "I hear you, and it’s completely understandable to feel uncertain and worried about bringing up these issues again, especially when it hasn’t gone well in the past. It’s tough to keep trying when it feels like it might just lead to more tension. Have you considered writing down your thoughts and feelings to share with your partner, so you can both take the time to process them without the immediate pressure of a conversation?",
+    "condition": "emotion_text_only",
+    "val_t": -0.261745810508728,
+    "aro_t": 0.09760236740112305,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate the idea, but I don't think it will work for me. Writing things down feels too formal and stiff, and I worry it might make things worse. It's hard because I feel like I can’t get my point across clearly when I’m not face-to-face with my partner.",
+    "therapist": "I understand your concerns about writing things down; it can feel too formal and might not capture the nuance of what you want to communicate face-to-face. It’s tough when you feel like you can’t get your point across clearly, and it’s important to find a method that feels right for you. What do you think might help you feel more confident and clear when you’re talking to your partner in person?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2245619297027588,
+    "aro_t": 0.0478663444519043,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you get how hard it is for me to communicate my feelings clearly. It’s just that I often feel so anxious when I’m talking to my partner, and I worry that I’ll say the wrong thing or come off as too emotional. I’m not sure if there’s a way to make that less stressful.",
+    "therapist": "I can really understand how anxiety can make it so much harder to communicate your feelings clearly, especially when you’re worried about saying the wrong thing or coming off as too emotional. It’s completely normal to feel this way in such a sensitive situation. Have you tried any techniques to help manage your anxiety before or during these conversations, like deep breathing or grounding exercises?",
+    "condition": "emotion_text_only",
+    "val_t": -0.09290874004364014,
+    "aro_t": 0.09650051593780518,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I've tried deep breathing a few times, but it doesn't always seem to help when I'm really anxious. I feel like my mind just races too fast, and I can't slow it down, even when I try to focus on my breath. It’s hard because I worry that if I can't manage my anxiety, I’ll say something I regret or make things worse.",
+    "therapist": "I can see how challenging it is for you to manage your anxiety, especially when it feels like your mind is racing and deep breathing isn’t enough to calm you down. It’s completely understandable to worry about saying something you might regret. Have you considered trying other relaxation techniques, like progressive muscle relaxation or mindfulness exercises, that might help you feel more centered before having these important conversations?",
+    "condition": "emotion_text_only",
+    "val_t": -0.33017146587371826,
+    "aro_t": 0.1878412961959839,
+    "text_emotion": "Angry"
+  }
+]

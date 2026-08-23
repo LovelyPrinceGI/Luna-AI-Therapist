@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just got my final project grade back, and it was way lower than I expected. Now I can't stop thinking that maybe I'm just not cut out for this program, even though I worked really hard on it. I don't know if talking about it will help - the grade is already set, so what's the point?",
+    "therapist": "I hear how disappointed and discouraged you're feeling about this grade, especially after putting in so much effort. When we face setbacks, it's common for our minds to jump to conclusions like \"I'm not cut out for this\"—would you be open to exploring what evidence might challenge that thought?  \n\nWhat's coming up for you when you say \"the grade is already set, so what's the point\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11094307899475098,
+    "aro_t": 0.11554265022277832,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I guess the evidence would be that I've passed other classes before, but this one just feels different. When I see that grade, all I can think is that no matter how hard I try next time, the professor probably already thinks I'm not good enough.  \n\nIt's just...what if I put in all this effort again and still fail? Then I'll have wasted even more time. At least if I give up now, I won't get my hopes up.",
+    "therapist": "It sounds like this one grade has shaken your confidence deeply, even though you have a history of succeeding in your program. That fear of pouring effort into something and still facing disappointment is so understandable—it can feel safer to pull back.  \n\nI notice your mind is predicting how the professor sees you and how future efforts might turn out. Would it help to test those predictions, rather than accepting them as facts?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26555144786834717,
+    "aro_t": 0.08573997020721436,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying about testing predictions, but I don't know how to even start doing that. The professor gave me that disappointed look when handing back my paper, and now I keep imagining them thinking I'm not cut out for this program. \n\nIt's not just about this one grade—it makes me question if all my past successes were just luck. What if I try harder next time and still fail? That thought makes me want to avoid office hours and just scrape by instead.",
+    "therapist": "I hear how stuck you feel between wanting to protect yourself from future disappointment and wanting to push forward—that's such a painful place to be. The professor's reaction seems to have reinforced your doubts, making past successes feel like flukes rather than proof of your capability.  \n\nWhen you imagine going to office hours now, what's the very worst that could happen—and what's the most realistic outcome? Sometimes naming our fears helps shrink them.",
+    "condition": "emotion_text_only",
+    "val_t": -0.2771143913269043,
+    "aro_t": 0.09627628326416016,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "The worst that could happen? He could tell me straight to my face that my work isn't good enough and I don't belong in this program. That would destroy me. But realistically...I guess he'd probably just seem a little distracted and give me some standard feedback. \n\nIt's just hard because even if the realistic outcome isn't that bad, my brain keeps going back to that worst-case scenario. Like I can't stop imagining his disappointed face even though it probably wouldn't happen that way.",
+    "therapist": "It's powerful that you can recognize the gap between your worst fears and the more likely outcome—that's an important step. Your brain keeps pulling you toward that painful \"disappointed face\" image because our minds tend to amplify threats when we're feeling vulnerable.  \n\nWould it help to practice holding both truths: that this *feels* terrifying, while also remembering you've handled difficult feedback before? How might you prepare yourself if the realistic outcome (standard feedback) happens?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2901275157928467,
+    "aro_t": 0.1669844388961792,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about holding both truths, but it's hard to shake that image of disappointment. Even though I've handled feedback before, each time feels like the first time all over again. I keep thinking \"what if this is the time I completely mess up?\" \n\nThe preparing part sounds helpful in theory, but my mind goes blank when I try to think of how to actually do that. It's like all my usual coping skills disappear when I'm in that anxious headspace.",
+    "therapist": "It makes complete sense that this feels so fresh and overwhelming each time—anxiety has a way of making past experiences fade while magnifying present fears. That \"what if this is the time...\" thought is especially sticky because it feels like it *could* be true, even if it isn't likely.  \n\nWhen your mind goes blank like that, could we try something small? Like writing down just one sentence you might say to the professor beforehand, or one grounding breath before opening your notebook? What feels the tiniest bit manageable right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24686706066131592,
+    "aro_t": 0.11125683784484863,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying, but even small steps feel impossible when my mind goes blank like that. What if I try to prepare something to say and then freeze up anyway? That would just make me feel even more embarrassed in front of the professor. \n\nThe breathing thing might help, but I'm worried I'll do it wrong or people will notice and think I'm weird. Anxiety makes everything feel like a test I'm going to fail.",
+    "therapist": "I hear how trapped you feel—like every possible next step comes with its own \"what if\" that keeps you stuck. Anxiety has a way of turning even small acts of self-care into something that feels risky or performative.  \n\nLet me ask this: If we took the professor's opinion out of the equation entirely, what would *you* need in that moment to feel just 5% more grounded? No right answers, no grades—just what might help *you* when the blankness hits.",
+    "condition": "emotion_text_only",
+    "val_t": -0.29283952713012695,
+    "aro_t": 0.2584129571914673,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I don't know, that question makes me feel kind of stupid. Like there should be an obvious answer but I'm blanking on it. Maybe just sitting somewhere quiet? But then I start thinking about how much time I'm wasting not working, which makes me feel worse.",
+    "therapist": "It sounds like you're caught in a cycle where even potential solutions end up feeling like failures—like your mind keeps finding ways to turn quiet moments into more reasons to criticize yourself. That exhaustion and self-doubt come through so clearly.  \n\nWhat if we tried shifting the goal? Instead of finding a \"right\" way to cope, could we just notice what happens when you sit quietly for *one minute*—not to fix anything, but to observe without judgment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.48339664936065674,
+    "aro_t": 0.07413077354431152,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, but even the idea of sitting quietly for a minute makes me anxious. My mind just races with all the things I should be doing instead, and then I feel guilty for wasting time. It's like I can't win - either I'm overwhelmed by doing things, or I'm overwhelmed by not doing enough.",
+    "therapist": "I hear how trapped you feel—like every option, even taking a brief pause, gets tangled in thoughts about what you \"should\" be doing instead. That constant pressure to be productive must be exhausting to carry.  \n\nWhat do you think it would feel like to acknowledge—just for a moment—that this guilt might be *part* of the problem, rather than proof you're failing? Could we explore that together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.26886141300201416,
+    "aro_t": 0.18692457675933838,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "The idea that the guilt itself is part of the problem actually makes me feel more anxious. Like now I'm failing at *not* feeling guilty too. Even when I try to take a break, my brain just keeps tallying all the unfinished tasks. It's like my worth is tied to how much I accomplish each day.",
+    "therapist": "It sounds like this cycle of guilt and self-criticism has become so ingrained that even trying to challenge it feels like another thing to \"get right.\" That pressure to tie your worth to productivity must feel incredibly heavy.  \n\nWhen you think about your worth being separate from your daily accomplishments, what comes up for you? Is there even a tiny part of you that might believe you deserve rest, regardless of how much you’ve checked off your list?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20719516277313232,
+    "aro_t": 0.15617334842681885,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "It's hard to imagine my worth being separate from what I accomplish each day. When I try to rest, I just feel guilty about all the things I should be doing instead. Even the idea of deserving rest makes me anxious because it feels like I'm letting myself off the hook too easily.",
+    "therapist": "I hear how deeply this belief—that you must *earn* rest—has taken root, and how unsettling it feels to challenge it. That guilt reflex is so strong it even turns self-compassion into something that feels like cheating.  \n\nWhat do you think it would be like to experiment with this: What if taking intentional rest *is* part of the work, not the opposite of it? Could we explore what that might look like for you, even in small ways?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2888585329055786,
+    "aro_t": 0.0966726541519165,
+    "text_emotion": "Sad"
+  }
+]

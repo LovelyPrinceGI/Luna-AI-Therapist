@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I just got my exam results back, and I barely scraped by with a C. I feel like such a failure because I was aiming for all A's this semester. The worst part is that now I'm terrified my parents will be disappointed in me, and I don't know how to handle that.",
+    "therapist": "It sounds like this result has left you feeling really down and worried about how others might see you. When you say you feel like a failure, what evidence do you have that supports that thought—and what might challenge it? How do you think your parents might actually respond to this news?",
+    "condition": "emotion_text_only",
+    "val_t": -0.45329320430755615,
+    "aro_t": 0.2533921003341675,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I don't know...my parents have always had really high expectations. When I didn't get that promotion, it just confirmed all my worst fears that I'm not good enough. The evidence is right there in front of me - my coworkers are moving ahead while I'm stuck in the same position. \n\nBut I guess some people might say getting passed over once doesn't mean I'm a complete failure. It's just hard to believe that when I can't stop comparing myself to others who seem to be doing better. My parents will probably be disappointed even if they don't say it outright.",
+    "therapist": "It sounds like you're feeling stuck in a cycle of self-doubt and comparison, especially with your parents' expectations weighing heavily on you. While it’s easy to focus on what others are achieving, could we explore what *you* value most in your career and how you might measure success for yourself? What would it look like to focus less on external validation and more on your own goals?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3475229740142822,
+    "aro_t": 0.1523137092590332,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I know I should focus on my own goals, but it's hard when my parents keep comparing me to my cousin who's a doctor. Every time I try to think about what I want, I just hear their voices in my head telling me I'm not successful enough. Even when I do things I enjoy, like my graphic design projects, I can't shake the feeling that it's not \"real\" work.",
+    "therapist": "It sounds like those comparisons have become such a strong inner voice that they're overshadowing your own sense of accomplishment—especially in areas like graphic design that genuinely matter to you. When you catch yourself hearing those critical thoughts, what happens if you pause and ask: \"Would I judge a friend this harshly for pursuing their passion?\" What might change if you gave yourself that same kindness?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20211493968963623,
+    "aro_t": 0.1484917402267456,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I know I wouldn't judge a friend that harshly, but it feels different with myself. Like there's this voice saying \"but you should be better by now\" whenever I try to be kind about my design work. The comparison trap is so automatic that stopping to question it just makes me feel guilty for not being more confident already.",
+    "therapist": "It sounds like that critical voice has become so familiar that even challenging it brings up more guilt—like you're somehow failing at self-compassion too. These patterns take time to shift, so could we explore what small step might feel manageable right now—perhaps noticing when the comparison starts without immediately judging yourself for it? What's one situation this week where you could practice simply observing that critical thought rather than believing it?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1434032917022705,
+    "aro_t": 0.07926666736602783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about observing the thoughts instead of believing them, but it's hard because the guilt feels so real in the moment. Like when I scroll through social media and see friends hanging out without me, my brain immediately goes \"they don't actually like you\" and it's like a physical punch. Even trying to notice that thought makes me feel stupid for caring so much about something so small.",
+    "therapist": "It sounds like these thoughts hit with such intensity that even recognizing them brings up more pain—like you're getting hurt twice, first by the thought itself and then by judging yourself for having it. That social media example shows how quickly our minds can turn small things into big emotional experiences—would it help if we looked at what evidence actually exists about how your friends feel about you? What might their actions show when you're not looking through that critical lens?",
+    "condition": "emotion_text_only",
+    "val_t": -0.34602177143096924,
+    "aro_t": 0.1336139440536499,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about looking at evidence, but when I try to think about my friends' actions, my brain just twists everything. Like if someone doesn't text back right away, I know logically they're probably busy, but I still feel like they're avoiding me. It's like my emotions override any facts. \n\nThe idea of looking at evidence makes sense, but it's exhausting to have to constantly fact-check my own feelings. Sometimes I wish I could just trust my gut without spiraling.",
+    "therapist": "It sounds like you're caught in a tug-of-war between your emotions and logic, and the effort to challenge those thoughts feels draining—like you're constantly second-guessing yourself. When you notice that spiral starting, what would it feel like to pause and acknowledge both parts—the emotional reaction and the logical one—without needing to \"fix\" either right away? Could we explore how to create a bit more space between those intense feelings and the stories your mind tells about them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20965373516082764,
+    "aro_t": 0.20289838314056396,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about pausing, but when I'm in that anxious spiral, it feels impossible to just observe my thoughts without reacting. My emotions always feel so urgent and overwhelming—like if I don't fix them immediately, something bad will happen. The idea of creating space sounds nice in theory, but my brain keeps shouting that I can't afford to wait.",
+    "therapist": "It makes complete sense that those anxious moments feel so urgent—like there's a fire alarm going off in your mind that demands immediate attention. When that intensity hits, what would it feel like to try something small, like taking three slow breaths first, before deciding how to respond to those urgent feelings? What do you notice happens to that sense of emergency when you give it even that tiny bit of space?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10536527633666992,
+    "aro_t": 0.313496470451355,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about taking breaths, but in the moment it feels impossible to pause like that. The anxiety just takes over and it's like my body won't even listen to me. I've tried breathing exercises before but they just make me more frustrated because I can't calm down fast enough.",
+    "therapist": "It sounds like when anxiety takes over, even well-meaning strategies can feel like they're adding pressure rather than helping—like there's a \"right way\" to calm down that you're somehow failing at. What if we shifted the goal from calming down to simply noticing what's happening in your body during those moments, without any expectation of changing it right away? How does that idea sit with you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2222822904586792,
+    "aro_t": 0.2990823984146118,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "That idea makes sense logically, but it feels kind of counterintuitive to me. When I’m anxious, all I want is for it to stop, so just noticing it without trying to change it seems almost like giving up. I guess I worry that if I don’t actively try to calm down, the anxiety will just spiral out of control.",
+    "therapist": "I hear how scary it feels to consider not fighting the anxiety—like you'd be surrendering to it rather than protecting yourself. That urge to make it stop is completely understandable when the discomfort feels so intense. Could we explore what might happen if you viewed noticing as an active choice rather than giving up—like studying how your anxiety works rather than being swept away by it? What's one small situation where you might experiment with this approach?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15619659423828125,
+    "aro_t": 0.11429822444915771,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about studying the anxiety instead of fighting it, but it's hard to imagine not resisting when it feels so overwhelming. Like when I'm in a meeting at work and my heart starts racing - my first instinct is always to try to make it stop. The idea of just observing it makes me nervous that it'll just get worse.",
+    "therapist": "It sounds like in those work moments, the physical sensations feel so intense that observing them seems risky—like you're afraid giving them any attention will make them grow. That instinct to resist is completely natural when anxiety shows up at such inconvenient times. What if we started even smaller—maybe just noticing one detail about the experience (like \"my palms feel damp\") without trying to change anything—would that feel more manageable than observing everything at once?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18561255931854248,
+    "aro_t": 0.2906590700149536,
+    "text_emotion": "Angry"
+  }
+]

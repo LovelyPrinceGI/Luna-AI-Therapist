@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been really struggling lately with the upcoming final exams, especially in chemistry. I did so poorly last semester, and I can't shake the feeling that I'm not going to be able to catch up this time around. I know you might suggest some study strategies, but I'm just not sure how much they'll help given how behind I feel.",
+    "therapist": "Hi there, it sounds like you're feeling really overwhelmed and uncertain about your upcoming exams, especially in chemistry. It's understandable to feel this way, given your past experiences. What specific thoughts are running through your mind when you think about the exams?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27302372455596924,
+    "aro_t": 0.10508942604064941,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, yeah, I keep thinking I’m not going to do well no matter how much I study. I feel like I’ve already put in a lot of effort, but it never seems to be enough. It’s hard to shake the feeling that I’m just not cut out for this.",
+    "therapist": "It sounds like you're really struggling with self-doubt and feeling like your efforts aren't paying off. It's tough when you feel like you're putting in a lot of work but still don’t see the results you want. Can you think of any specific evidence that might challenge the idea that you’re not cut out for this, or any small successes you’ve had in the past?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22217559814453125,
+    "aro_t": 0.15771269798278809,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate you saying that, Luna. It’s just hard to see the small successes when everything feels like an uphill battle. I guess I can think of a few times when I’ve managed to meet deadlines or get positive feedback, but they feel like flukes rather than proof that I’m capable. It’s hard to shake the feeling that I’m not good enough.",
+    "therapist": "I understand how challenging it can be to recognize your own successes, especially when you're feeling so much pressure. It’s natural to focus on the difficulties, but those small successes, even if they feel like flukes, are important. What do you think might help you start to see those successes as more meaningful, or what could you do to build on those positive experiences?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0333021879196167,
+    "aro_t": 0.10476171970367432,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it's hard for me to see those small successes as meaningful. It feels like they're overshadowed by everything else that goes wrong. I don't know, maybe I just need to find a way to focus on them more, but it's tough when I feel so overwhelmed all the time.",
+    "therapist": "It’s completely understandable that those small successes can feel overshadowed when you’re feeling so overwhelmed. It’s a tough cycle to break, but focusing on those small wins can be a powerful step. What if we tried breaking down your tasks into smaller, more manageable parts? That way, you might be able to see and celebrate more frequent progress. How do you think that might help?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1691373586654663,
+    "aro_t": 0.208909273147583,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, and breaking things down sounds good in theory, but it feels like even the small stuff is overwhelming. I worry that it won’t make a difference, and I might just end up feeling guilty for not doing enough. It’s hard to see the light at the end of the tunnel when everything feels so heavy.",
+    "therapist": "I can hear how heavy and stressful this is for you, and it’s completely understandable to feel that way. Breaking things down can feel like just another thing to manage, especially when you’re already overwhelmed. It’s okay to feel that way. What if we tried to identify just one small, manageable step you could take today that might feel a bit less daunting? How do you think that might help?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2136620283126831,
+    "aro_t": 0.1116262674331665,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that you’re trying to help, but it just feels like everything is so interconnected. Taking one small step sounds good in theory, but I worry that it won’t make a difference or that I’ll just end up feeling more overwhelmed. It’s hard to see how one small thing can really change how I feel.",
+    "therapist": "I understand that it feels like everything is interconnected and that taking one small step might not seem like enough to make a difference. It’s completely valid to feel that way when you’re in the middle of such a challenging time. What if we focused on how taking that small step might help you feel a tiny bit more in control, even if it doesn’t solve everything? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10608017444610596,
+    "aro_t": 0.17701447010040283,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying, and I really do want to feel more in control. But it's hard to see how a small step will make any real difference when everything feels so overwhelming. It's like trying to fix a leaky boat with a Band-Aid.",
+    "therapist": "I can totally understand how it feels like you’re trying to fix a leaky boat with a Band-Aid. It’s frustrating when the problems seem so big and the solutions feel so small. But sometimes, even a small step can help shift your perspective a little bit and give you a sense of progress. What if we identified one very small, specific action you could take today that feels doable, even if it’s just a tiny bit? How does that sound to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.030098319053649902,
+    "aro_t": 0.24275457859039307,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying, and I really appreciate the support. It's just that sometimes even the small steps feel overwhelming. I worry that if I try and fail, it'll just make me feel worse. But I'm willing to try if you can help me find something that really feels manageable.",
+    "therapist": "I really appreciate your willingness to try, even though it feels overwhelming. It’s completely understandable to worry about feeling worse if things don’t go as planned. Let’s take a moment to find something that truly feels manageable and achievable. What’s one tiny thing you could do today that feels like it’s within your reach, even if it’s just a small step?",
+    "condition": "emotion_text_only",
+    "val_t": 0.11094212532043457,
+    "aro_t": 0.14303147792816162,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate that you're trying to find something manageable for me. It’s hard to think of anything that feels truly within reach right now. I guess I could try to take a short walk, but I’m worried that even that might feel too overwhelming and end up making me feel worse.",
+    "therapist": "I understand that even finding something small can feel really challenging right now. It’s okay to acknowledge how tough this is. Taking a short walk could be a gentle way to give yourself a break and maybe clear your mind a bit. If that still feels too much, what about doing something even simpler, like taking a few deep breaths or finding a quiet moment to sit and relax? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1361382007598877,
+    "aro_t": 0.09218192100524902,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestions, but it's hard for me to imagine that just taking a walk or a few deep breaths will really make a difference. I feel so overwhelmed and stuck that even these small things seem like a lot. I guess I'm just not sure how to start, even with something as simple as that.",
+    "therapist": "I understand that even the smallest steps can feel incredibly challenging when you’re feeling so overwhelmed and stuck. It’s totally valid to question whether these small actions will make a difference. Let’s try to focus on the intention behind these actions—like taking a walk or deep breaths—rather than the outcome. They can be a way to give yourself a moment of kindness and a break from the stress. What do you think about setting a very gentle intention to just allow yourself a few moments of calm, even if it’s just for a minute or two? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.050049543380737305,
+    "aro_t": 0.1633666753768921,
+    "text_emotion": "Tense"
+  }
+]

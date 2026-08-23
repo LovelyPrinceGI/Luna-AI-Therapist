@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I’ve been really struggling lately. The demands at work as a project manager have been piling up, and we missed a crucial deadline last week. I feel like I'm carrying this huge weight on my shoulders and it’s really overwhelming. I’m not sure if talking about it will actually help, but I’m here trying.",
+    "therapist": "Hi there, I’m really glad you reached out and are giving this a try. It sounds incredibly tough to be under so much pressure, especially after missing that deadline. How have you been coping with these feelings, and what do you think might help lighten that weight you’re carrying?",
+    "condition": "baseline",
+    "val_t": -0.10541069507598877,
+    "aro_t": 0.18007099628448486,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Hi Luna, thanks for being here. It's been really hard, especially with the guilt and anxiety piling up after missing that deadline. I feel like I'm drowning in all these responsibilities and I don't know how to catch up. I try to stay busy to avoid thinking about it, but it just feels like I'm running in circles. I'm not sure what would help, to be honest. It's hard because everything feels overwhelming.",
+    "therapist": "I can really hear how much you’re struggling with this, and it’s completely understandable to feel overwhelmed and guilty after everything that’s happened. It’s okay to not know what will help right away. Have you noticed any specific thoughts or patterns that come up when you feel this way, or any moments when the weight feels a bit lighter?",
+    "condition": "baseline",
+    "val_t": -0.17794203758239746,
+    "aro_t": 0.25432074069976807,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I do notice that I often tell myself I should be able to handle everything better, which just makes me feel worse. It’s like there’s this constant voice in my head telling me I’m not doing enough. It’s hard to shake off, and there are times when I feel a bit better, but they’re few and far between.",
+    "therapist": "It’s really insightful of you to notice that critical voice in your head. That “should” statement can be really tough and can make us feel even more overwhelmed and inadequate. How do you think this self-criticism affects your ability to cope with your responsibilities, and are there any small steps you could try to challenge or soften that voice?",
+    "condition": "baseline",
+    "val_t": -0.2280343770980835,
+    "aro_t": 0.023572683334350586,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I guess when I'm really critical of myself, it makes everything feel so much harder. It's like I'm already exhausted before I even start. I understand what you're saying about challenging that voice, but it feels so automatic. How do I even begin to soften it when it’s been there for so long?",
+    "therapist": "It’s completely understandable that this self-criticism can feel so automatic and deeply ingrained. Starting to soften that voice can be a gradual process, and it’s okay to take small steps. One approach is to notice when that critical voice comes up and try to respond to it with a kinder, more understanding voice. For example, you might say to yourself, “It’s okay to feel overwhelmed; I’m doing the best I can right now.” How does that feel, and do you think there’s a particular situation where you could try this out?",
+    "condition": "baseline",
+    "val_t": -0.16412222385406494,
+    "aro_t": 0.21577119827270508,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the idea, but it feels really hard to shift that critical voice. It’s been with me for so long, and it’s almost like it’s a part of me. I’m not sure if just telling myself it’s okay will make a difference. It’s hard because I often feel like I don’t deserve that kindness.",
+    "therapist": "I completely understand how challenging it can be to shift that critical voice, especially when it feels like such a deeply ingrained part of you. It’s natural to feel uncertain about whether kindness will make a difference, especially when you’re feeling like you don’t deserve it. Have you ever tried treating yourself with the same kindness and understanding you might offer to a good friend who is struggling? How does that feel, and is there a small step you could take to practice this self-compassion?",
+    "condition": "baseline",
+    "val_t": -0.151647686958313,
+    "aro_t": 0.07714009284973145,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I hear what you're saying, and I do try to be kind to myself sometimes, but it feels so artificial. It’s hard because when I’m already feeling guilty or anxious, the last thing I want to do is be nice to myself—it just doesn’t feel genuine. How can I start to make that feel more natural and less forced?",
+    "therapist": "I hear you, and it’s totally understandable that being kind to yourself can feel artificial, especially when you’re already struggling with guilt and anxiety. It’s a process, and it’s okay to go at your own pace. One way to make it feel more natural is to start with small, manageable acts of self-compassion, like taking a few deep breaths or giving yourself a moment to pause and acknowledge your feelings. How does that sound, and is there a specific small act of kindness you could try today that might feel a bit more genuine?",
+    "condition": "baseline",
+    "val_t": -0.11280596256256104,
+    "aro_t": 0.17352867126464844,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It does feel a bit more manageable to start small. But it’s still hard because I often end up feeling guilty for taking even a moment to pause and focus on myself. I worry that it means I’m being selfish or neglecting something else that needs my attention. How do I get past that guilt?",
+    "therapist": "I understand how challenging it can be to overcome that guilt, especially when you feel like you have so much on your plate. It’s a common concern, and it’s important to recognize that taking care of yourself isn’t selfish—it’s essential for your well-being and your ability to handle your responsibilities. What if you framed these small moments of self-care as necessary breaks, similar to how you might take a coffee break or a quick walk to recharge during a busy workday? How does that perspective feel, and do you think it might help you feel less guilty about taking time for yourself?",
+    "condition": "baseline",
+    "val_t": -0.24183058738708496,
+    "aro_t": 0.06973624229431152,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I see what you mean, and it makes sense in theory, but it’s hard for me to shake the feeling that I’m just being lazy or avoiding my responsibilities. I worry that if I take too many breaks, I won’t get everything done, and then I’ll feel even more guilty. It’s a bit of a catch-22, you know?",
+    "therapist": "I completely understand that it can feel like a catch-22, and it’s really tough to shake those feelings of laziness or avoidance. It’s important to recognize that taking breaks can actually improve your focus and productivity in the long run. Maybe we could start by finding a balance—trying to take very short, intentional breaks where you do something that helps you reset, like a quick walk or a few deep breaths. How does that sound, and do you think there’s a way to make these breaks feel more like a part of your routine rather than an indulgence?",
+    "condition": "baseline",
+    "val_t": -0.3072497844696045,
+    "aro_t": 0.1060553789138794,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I see where you're coming from, and I do want to try, but it's hard because I often feel guilty about taking breaks. It feels like I should be using every moment to be productive, and I worry that taking breaks will just make me fall behind even more. I guess I need to figure out how to make these breaks feel less like a waste of time.",
+    "therapist": "I hear you, and it’s really important to address that guilt. It’s understandable to feel like you should be productive all the time, but taking breaks can actually help you be more productive and sustainable in the long run. Maybe we can think of these breaks as strategic moments to recharge, rather than wasted time. How about starting with a specific, short activity during your breaks—something that you enjoy and that helps you feel more centered? What do you think might help you see these breaks as valuable and necessary, rather than a waste of time?",
+    "condition": "baseline",
+    "val_t": -0.16910338401794434,
+    "aro_t": 0.03623855113983154,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "I see your point, but it's hard for me to shift that mindset. I feel like if I'm not constantly doing something, I'm falling behind or not living up to my potential. It's tough to convince myself that taking a break is actually beneficial.",
+    "therapist": "I understand that shifting that mindset can be really challenging, especially when you feel a strong drive to always be productive. It’s a tough balance, but it’s important to remember that taking breaks can actually help you stay more focused and effective when you return to your tasks. Maybe we can start by experimenting with very short breaks—just a minute or two to step away, breathe deeply, or stretch. How does that feel, and do you think you could try it out and see if it makes a difference in how you feel and perform?",
+    "condition": "baseline",
+    "val_t": -0.0747145414352417,
+    "aro_t": 0.007163047790527344,
+    "text_emotion": "Neutral"
+  }
+]

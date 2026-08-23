@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Luna, I've been feeling really overwhelmed since my partner moved in last month. The constant mess in the apartment is stressing me out, and I can't shake the fear that it will lead to bigger arguments between us. I’m honestly unsure if therapy can help with this, but I just feel stuck and anxious about our living situation.",
+    "therapist": "It sounds like you're feeling quite overwhelmed and anxious about the changes in your living situation, and it's completely understandable to feel this way. The mess in your apartment seems to be a significant trigger for your worries about potential conflicts with your partner. What are some small steps you might consider taking to address the mess or communicate your feelings with your partner?",
+    "condition": "baseline",
+    "val_t": -0.3405478000640869,
+    "aro_t": 0.3148374557495117,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I do feel overwhelmed by the mess, but I’m not sure where to start. Every time I think about cleaning up, I just feel this wave of anxiety wash over me, and I end up doing nothing. Plus, I worry that even if I clean, it won’t change how my partner feels about things; it’s like I’m stuck in this cycle of guilt and doubt.",
+    "therapist": "It sounds like you're caught in a difficult cycle of anxiety and guilt, which makes it hard to take action. It's normal to feel overwhelmed when facing a big task, and your concerns about your partner's feelings add to that pressure. What if you tried breaking the cleaning into smaller, more manageable steps? How would it feel to focus on just one small area at a time?",
+    "condition": "baseline",
+    "val_t": -0.4254298210144043,
+    "aro_t": 0.22087764739990234,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, but breaking the cleaning into smaller steps feels a bit unrealistic to me. When I look at the whole mess, it just feels so overwhelming that I can't even start. Plus, I worry that if I only focus on one area, it won't really make a difference, and then I'll just feel guilty for not doing more.",
+    "therapist": "It makes sense that focusing on the entire mess feels overwhelming; it can be tough to see a way forward when everything feels like too much. Your concern about not making a significant impact is valid, but even small changes can help reduce that feeling of guilt and create a sense of accomplishment. What if you allowed yourself to set a very short time limit for cleaning, like ten minutes, and then reassess how you feel? How do you think that might change your perspective?",
+    "condition": "baseline",
+    "val_t": -0.27323484420776367,
+    "aro_t": 0.13457012176513672,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate the suggestion, but I feel like ten minutes just isn't enough to make a dent in the mess. It’s hard to see how a brief effort can lead to any real progress, and I worry that I’ll just end up feeling guilty for not doing more. Plus, I often get distracted and lose motivation after starting, so I’m not sure if this will really help me feel accomplished.",
+    "therapist": "I understand that ten minutes might feel too short to make a meaningful difference, and it's completely valid to worry about feeling guilty if you don't see immediate results. It can be challenging to maintain motivation, especially when the task feels daunting. What if you focused on celebrating any effort, no matter how small, instead of measuring it against the mess? How might that shift in perspective change your feelings about starting?",
+    "condition": "baseline",
+    "val_t": -0.17314207553863525,
+    "aro_t": 0.0891493558883667,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying about celebrating small efforts, but it feels a bit unrealistic to me. I often get caught up in the bigger picture and end up feeling overwhelmed, so the idea of celebrating something small feels trivial. I worry that if I focus on something minor, I won't make any real progress, and then I'll just feel more guilty about not doing enough.",
+    "therapist": "It's understandable to feel that celebrating small efforts might seem trivial when you're focused on the bigger picture. That sense of overwhelm can really cloud your ability to recognize progress, even when it’s there. What if you tried to view those small efforts as stepping stones rather than the whole journey? How would it feel to allow yourself to acknowledge any progress, no matter how minor, without the pressure of it being “enough”?",
+    "condition": "baseline",
+    "val_t": -0.20581722259521484,
+    "aro_t": 0.0828397274017334,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying about viewing small efforts as stepping stones, but it just feels hard to shift my mindset like that. I often think that if I don’t achieve something big, then it doesn’t really count, you know? It’s like I put so much pressure on myself that even acknowledging minor progress feels like a failure in some way.",
+    "therapist": "It sounds like you're really grappling with high expectations for yourself, and that can create a lot of pressure. It's completely natural to feel that way, especially when you're used to measuring success by larger achievements. What if you explored the idea that every journey begins with a single step, and that those smaller steps are actually part of a bigger success story? How might it feel to slowly start challenging that belief about what counts as progress?",
+    "condition": "baseline",
+    "val_t": -0.18864059448242188,
+    "aro_t": 0.04256010055541992,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I get what you're saying about smaller steps, but it feels so daunting to shift my mindset. I’ve always been taught that success is about big achievements, and anything less than that just feels like failing. I worry that if I start focusing on small wins, I might not push myself hard enough to actually achieve something meaningful.",
+    "therapist": "I hear you, and it’s understandable to feel that way, especially if you’ve been conditioned to view success in terms of big achievements. It can be challenging to reframe that perspective, especially when you worry about not pushing yourself enough. What if you considered that recognizing small wins doesn’t diminish your drive, but rather supports it by building confidence and motivation over time? How might that shift in thinking help you approach your goals differently?",
+    "condition": "baseline",
+    "val_t": -0.05791914463043213,
+    "aro_t": 0.0781179666519165,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I get what you're saying about small wins, but it feels a bit trivial to me. I often think that if I’m not aiming for something huge, I’m just wasting my time. It’s hard to imagine how celebrating little successes would actually help me feel more motivated instead of less.",
+    "therapist": "I can see how aiming for big achievements feels more meaningful to you, and it's completely valid to want to make the most of your time. It’s common to feel that smaller successes lack significance, but they can serve as important reminders of your progress and resilience. What if you experimented with acknowledging a small win alongside your bigger goals? How might that balance shift your motivation and help you feel more accomplished?",
+    "condition": "baseline",
+    "val_t": -0.01564610004425049,
+    "aro_t": 0.08043670654296875,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about small wins, but it feels a bit trivial to me. I mean, how can a small accomplishment compare to the bigger goals I have? It just seems like I'm trying to convince myself of something that doesn't feel genuine or impactful.",
+    "therapist": "I understand that it feels difficult to see how small accomplishments could hold weight compared to your bigger goals; that sense of authenticity is important. It's natural to want your efforts to feel significant, and it can be frustrating when they don't seem to measure up. What if you allowed yourself to explore the idea that small wins can build a foundation for those bigger achievements, creating a sense of momentum? How might reflecting on past experiences where small efforts led to bigger successes help you in this situation?",
+    "condition": "baseline",
+    "val_t": -0.04302108287811279,
+    "aro_t": 0.10436463356018066,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I get what you're saying about small wins, but it’s hard for me to see how that really translates into anything significant. It feels like I’m just going through the motions without any real impact on my life. I guess I’m worried that if I focus on those small things, I might lose sight of what really matters to me.",
+    "therapist": "It makes sense that you want your efforts to feel genuinely impactful, and it's understandable to worry that focusing on small tasks might distract you from your larger goals. The fear of losing sight of what truly matters is a valid concern. What if you viewed these small steps as part of a larger strategy to support your big aspirations? How might you integrate those small wins into your journey toward what you value most?",
+    "condition": "baseline",
+    "val_t": -0.13109230995178223,
+    "aro_t": 0.0346301794052124,
+    "text_emotion": "Neutral"
+  }
+]

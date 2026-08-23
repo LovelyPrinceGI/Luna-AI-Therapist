@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. After getting a disappointing grade on my final project last semester, I'm really stressed about maintaining my scholarship this term. I keep worrying that I won't be able to meet the requirements, and it’s been weighing heavily on me. I’m not even sure if therapy can help with this.",
+    "therapist": "Hi there, it sounds like you're carrying a lot of weight with these worries about your scholarship. It's completely understandable to feel overwhelmed, especially after a disappointing grade. How have you been coping with these feelings so far?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3303757905960083,
+    "aro_t": 0.26568472385406494,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "Yeah, it's been really tough. I've been trying to keep myself busy with other coursework and extracurriculars, but it feels like I'm just pushing the problem away. I keep thinking about how this one grade could ruin everything, and it's hard to shake that worry.",
+    "therapist": "It sounds like you're doing your best to stay busy, but the worry about that grade is still very present. It’s natural to feel that way when something important is at stake. Have you had any thoughts about what might help you address these worries more directly, or any small steps you could take to feel more in control?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2791174650192261,
+    "aro_t": 0.1736840009689331,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying, and I know it's important to feel in control, but it's hard. I've tried to study more, but the anxiety just keeps creeping back. I don't think anything I do will change how I feel about it.",
+    "therapist": "It sounds like the anxiety is really persistent and making it tough to find a sense of control. It’s common to feel that way, especially when the stakes feel so high. What do you think might help you manage the anxiety in the moment, even if just a little bit? Maybe there’s a relaxation technique or a small step you can take that feels manageable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1970130205154419,
+    "aro_t": 0.24638545513153076,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I appreciate that, but it's hard to know what will actually make a difference. I've tried deep breathing and mindfulness, but the anxiety just seems to come back stronger. It's tough to find something that feels truly manageable when everything feels so overwhelming.",
+    "therapist": "I can really understand how challenging it must be to feel like the anxiety keeps coming back despite your efforts. It’s tough when the things you try don’t seem to make a significant difference. What about trying to break down your tasks into even smaller, more manageable steps? Sometimes, focusing on tiny, achievable goals can provide a sense of progress and control. What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10197806358337402,
+    "aro_t": 0.13008332252502441,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see where you're coming from, and I appreciate the idea. It's just that sometimes even the smallest tasks feel overwhelming, and I end up getting stuck in my head. I worry that breaking things down further might just make me feel more anxious about not getting anything done.",
+    "therapist": "I understand that even breaking things down can feel overwhelming and might add to your anxiety. It’s completely valid to feel that way. Sometimes, just acknowledging how you’re feeling and giving yourself permission to take things very slowly can be helpful. Have you ever tried setting aside a specific time each day just to check in with yourself and see how you’re feeling, without any pressure to accomplish tasks?",
+    "condition": "emotion_text_only",
+    "val_t": -0.051251769065856934,
+    "aro_t": 0.17286908626556396,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I think the idea of setting aside time to check in with myself sounds good in theory, but in practice, it feels like one more thing to add to my list. I worry that I might end up feeling guilty if I don't do it consistently or if I don't feel any immediate benefit. It's hard to find the balance between self-care and just adding more pressure to my day.",
+    "therapist": "It sounds like the idea of adding another thing to your list, even if it’s for self-care, is bringing up feelings of guilt and pressure. That’s a really common concern, and it’s important to find a balance that works for you. Maybe we can explore ways to make this check-in feel more natural and less like a task. What if you started with just a few minutes each day, maybe at a time when you’re already taking a break, like after a meal or before bed? How does that feel?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22591149806976318,
+    "aro_t": 0.09278535842895508,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying, and I really appreciate that you're trying to make it more manageable. I just worry that even a few minutes will feel like another thing I have to do, and that could end up stressing me out more. It's hard because I already struggle with feeling guilty about not doing enough.",
+    "therapist": "I completely understand your concerns, and it’s really important to avoid adding more stress. It’s okay to take things at your own pace and not feel pressured. Maybe we can start with something even simpler, like just noticing one small thing you enjoy or find peaceful each day, without any expectation to do more. How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1560882329940796,
+    "aro_t": 0.11777985095977783,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. It does feel less overwhelming. But I still worry that even noticing one thing might be hard some days, especially when my anxiety is really high. It’s like my mind just won’t let me focus on the good stuff.",
+    "therapist": "I understand that even focusing on one small positive thing can feel incredibly challenging when your anxiety is high. It’s okay to acknowledge that some days will be tougher than others. How about starting with just noticing your breath or the sensations around you for a moment? Sometimes, just being present can provide a bit of relief, even if it’s brief. What do you think about trying that?",
+    "condition": "emotion_text_only",
+    "val_t": 0.007184147834777832,
+    "aro_t": 0.13665807247161865,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate the suggestion, but I'm not sure if just focusing on my breath will really make a difference. My mind tends to wander a lot, and I end up feeling even more anxious when I can't stick to it. It's hard because I feel like I’m failing at something that should be simple.",
+    "therapist": "I can see how frustrating it must be when your mind wanders and you end up feeling more anxious. It’s completely understandable to feel like you’re failing at something that seems so simple. Instead of focusing on the breath, maybe we can try a different approach that feels a bit more natural to you. How about finding a short, calming activity that you enjoy, like listening to a favorite song or looking at a photo that brings you peace? What do you think about that?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2116621732711792,
+    "aro_t": 0.11493778228759766,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate the suggestion, but I feel like those things are just temporary fixes. When I listen to music or look at photos, it helps for a moment, but the anxiety always comes back. It's hard to find something that really sticks and helps me feel less anxious in the long run.",
+    "therapist": "I understand that temporary fixes can feel frustrating, especially when the anxiety keeps coming back. It’s completely valid to want a more lasting solution. One approach in CBT is to explore the thoughts that underlie your anxiety. Sometimes, challenging those thoughts and finding more balanced perspectives can help reduce the intensity of the anxiety over time. What are some of the thoughts that come up for you when you start feeling anxious about your scholarship?",
+    "condition": "emotion_text_only",
+    "val_t": -0.128562331199646,
+    "aro_t": 0.09439659118652344,
+    "text_emotion": "Angry"
+  }
+]

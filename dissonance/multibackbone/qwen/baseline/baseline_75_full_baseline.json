@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "Hi Luna, I've been really struggling lately. After losing my grandmother last month, I find myself avoiding family gatherings because they just remind me of her absence. I know it’s not healthy, but I can't seem to bring myself to face it. I’m not even sure if therapy can really help with this.",
+    "therapist": "Hi there, I'm so sorry to hear about your loss and how you've been feeling. It's completely understandable to want to avoid things that remind you of your grandmother, especially when those moments can be so painful. Therapy can be a supportive space to explore these feelings and find ways to cope with them. What do you think might be a small step you could take toward facing these gatherings, even if it feels challenging?",
+    "condition": "baseline",
+    "val_t": -0.310221791267395,
+    "aro_t": 0.1320171356201172,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I appreciate that, Luna. It's just really hard to even think about going to family gatherings without her. I know it's important, but every time I try to picture myself there, I just feel so overwhelmed with sadness and anxiety. I don't know if I can handle it, even in small steps.",
+    "therapist": "I can hear how overwhelming and painful this must be for you. It's completely natural to feel this way, and it's okay to take things at your own pace. Could we explore what might make a family gathering a little more manageable for you, even if it's just a small change, like bringing a comfort item or having a supportive friend or family member there with you?",
+    "condition": "baseline",
+    "val_t": -0.17441344261169434,
+    "aro_t": 0.2522919178009033,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate that, Luna. It's just hard to imagine anything making it less overwhelming. Bringing something with me might help a little, but I worry that it could be seen as a sign of weakness or that I’m not trying to fit in. How do I navigate that?",
+    "therapist": "It’s completely understandable to have those concerns. Bringing a comfort item doesn’t have to be a sign of weakness; it can be a way to take care of yourself and honor your feelings. Maybe you could have a conversation with a trusted family member about how you're feeling and let them know what would help you feel more supported. What do you think about that idea?",
+    "condition": "baseline",
+    "val_t": -0.021437525749206543,
+    "aro_t": 0.06442570686340332,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I see what you're saying, but I worry that bringing a comfort item might make it more obvious that I'm struggling, and I don't want to draw more attention to myself. Talking to a family member sounds good in theory, but I feel like they might not fully understand or might just tell me to toughen up. It's hard because I don't want to burden them with my problems.",
+    "therapist": "I can understand why you might feel that way, and it's completely valid to worry about how others might react. It’s important to take care of yourself without feeling like you’re burdening others. Perhaps you could start by just acknowledging your feelings to a family member in a gentle way, like saying you’ve been finding things tough lately and that a little support would help. How do you think that might feel for you?",
+    "condition": "baseline",
+    "val_t": -0.26753151416778564,
+    "aro_t": 0.08137452602386475,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate the suggestion, but it feels really hard to open up like that. I worry that if I say something, it might make things awkward or that they won't understand. It's tough to find the right words and the right moment to bring it up.",
+    "therapist": "I completely understand how hard it can be to open up, especially when you’re worried about making things awkward or not being understood. It’s okay to take your time and find the right words. Maybe you could start by just sharing a small part of how you’re feeling with someone you trust, even if it’s just a brief mention of how you’ve been struggling a bit. What do you think might be the smallest step you could take in that direction?",
+    "condition": "baseline",
+    "val_t": -0.12422466278076172,
+    "aro_t": 0.06234288215637207,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate that, Luna. It's just so hard to find the right words, you know? I worry that if I start talking about my feelings, I might not be able to stop, or I might say something that makes things worse. I don't think I have anyone I feel completely comfortable opening up to right now.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way. Finding the right words can be challenging, and it’s okay to take your time. It’s also normal to worry about saying too much or making things worse. Sometimes, just acknowledging to yourself that it’s okay to feel this way can be a powerful step. Is there anyone, even if not a family member, who you feel might be a safe person to talk to, even if it’s just a little bit?",
+    "condition": "baseline",
+    "val_t": -0.07110750675201416,
+    "aro_t": 0.17455267906188965,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I appreciate that, Luna. It’s just hard because I feel like I don’t have anyone who really gets it. I have a few friends, but I worry they’ll think I’m overreacting or just brush it off. It’s tough to open up when I feel like I’m already carrying so much.",
+    "therapist": "I can really understand how isolating and tough that must feel. It’s completely normal to worry about how others will react, especially when you’re carrying a lot of emotional weight. It’s okay to take your time and find the right person to open up to. In the meantime, how do you think you might be able to take care of yourself and give yourself some of the support you need?",
+    "condition": "baseline",
+    "val_t": -0.11041176319122314,
+    "aro_t": 0.09232854843139648,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "It does feel really isolating. I appreciate your understanding, but it's hard to know how to support myself when I feel so overwhelmed. I worry that even if I try, it won't make a difference.",
+    "therapist": "I can hear how overwhelming and isolating this feels for you, and it’s completely valid to worry about whether self-care will make a difference. Sometimes, even small acts of self-care can provide a bit of comfort and a sense of control. What are some things that have brought you a little comfort or peace in the past, even if they seem small or simple? Maybe we can explore some of those together.",
+    "condition": "baseline",
+    "val_t": -0.12077641487121582,
+    "aro_t": 0.1626298427581787,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I appreciate you understanding how I feel, Luna. It's hard to think of things that bring me comfort right now. I guess sometimes a warm bath or a walk in nature can help a little, but it feels like those things are just temporary fixes and don't really address the deeper issues I'm dealing with.",
+    "therapist": "I understand that those small comforts can feel like temporary fixes, and it’s completely normal to want something that addresses the deeper issues you’re facing. It’s important to acknowledge that while these small steps may not solve everything, they can still be valuable in providing some relief and a sense of grounding. Could we explore some of the deeper issues you’re dealing with and think about how we might start to address them, even in small ways? What are some of the thoughts or feelings that come up for you when you think about the deeper challenges?",
+    "condition": "baseline",
+    "val_t": 0.025362133979797363,
+    "aro_t": 0.033091068267822266,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate that, Luna. It’s just hard because sometimes those deeper issues feel so overwhelming. When I think about them, I feel a mix of anxiety and guilt, like I’m not doing enough to fix things. I’m not sure where to even start.",
+    "therapist": "I can really understand how overwhelming those deeper issues can feel, and it’s completely normal to experience a mix of anxiety and guilt. It’s important to be gentle with yourself and recognize that you’re already doing the best you can. Starting small can be a way to begin addressing these feelings without feeling overwhelmed. What do you think might be a small step you could take to address one of these deeper issues, even if it’s just a tiny step?",
+    "condition": "baseline",
+    "val_t": -0.25540685653686523,
+    "aro_t": 0.17400121688842773,
+    "text_emotion": "Angry"
+  }
+]

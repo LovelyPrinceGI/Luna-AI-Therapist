@@ -1,0 +1,92 @@
+[
+  {
+    "turn": 1,
+    "client": "I've been really struggling with my new job at the startup. The hours are insane - I'm working until 10 or 11pm most nights, and I just feel completely drained all the time. I want to do well, but I'm starting to wonder if I can actually handle this pace long-term.",
+    "therapist": "It sounds like you're feeling exhausted and questioning your ability to sustain this work pace - that's completely understandable given the demands you're describing. When you think about handling this long-term, what thoughts tend to come up for you?  \n\n(Note: The slightly negative valence suggests acknowledging their struggle, while moderate arousal guides me to probe gently about their thoughts rather than diving straight into intense emotional exploration.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.23544549942016602,
+    "aro_t": 0.145746111869812,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 2,
+    "client": "I just keep thinking that if I slow down or take a break, everything will fall apart. The anxiety about falling behind is almost worse than the exhaustion itself. I know it's not sustainable, but the thought of changing anything makes me panic.",
+    "therapist": "I hear how trapped you feel between exhaustion and fear of what might happen if you change anything - that's an incredibly tough spot to be in. Let's look at that thought together: what evidence do you have that *everything* would fall apart if you took a break?  \n\n(Note: The slightly elevated arousal calls for grounding in concrete evidence, while the negative valence warrants validation of their distress before introducing cognitive restructuring.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.32605600357055664,
+    "aro_t": 0.2039031982421875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I don't know, I guess the evidence is that last time I took a weekend off, I came back to a huge pile of work and my boss made a comment about me \"enjoying my vacation.\" It just feels like the second I relax, everything starts crumbling. \n\nBut at the same time, I'm so tired I can barely think straight anymore. My hands shake when I try to work late at night.",
+    "therapist": "It sounds like you're caught between very real physical exhaustion and the fear of consequences if you slow down - that shaking you describe shows how much this is affecting you. When your boss made that comment, what meaning did you take from it about what might happen if you set some boundaries?  \n\n(Note: The slightly negative valence and moderate arousal suggest balancing validation of their physical/emotional strain with gentle exploration of their interpretation of events - classic CBT work on automatic thoughts.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.1482868194580078,
+    "aro_t": 0.11016333103179932,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "When my boss said I was \"less productive lately,\" it immediately made me feel like I'm failing. I'm terrified that if I ask for lighter workloads, they'll see me as weak or replaceable. But my hands won't stop shaking by 3pm anymore – it's like my body's screaming at me to stop. \n\nHonestly, even the idea of setting boundaries makes me feel guilty. What if they just give those tasks to someone else who burns out instead? I hate feeling like I'm passing my problem onto coworkers.",
+    "therapist": "I hear how deeply you're wrestling with both the physical toll this is taking and the moral dilemma about boundaries affecting others - that's a heavy burden to carry. Let's examine that thought about being \"replaceable\": what would it mean to you if someone *did* temporarily take on some tasks while you recovered?  \n\n(Note: The moderately negative valence calls for acknowledging their distress and guilt, while the slight elevation in arousal suggests gently challenging the catastrophic thinking without escalating their anxiety further.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.46703779697418213,
+    "aro_t": 0.1921020746231079,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I guess if someone took over my tasks, it would feel like proof that I'm not really needed. Like my team would realize they're fine without me, and then what's the point of me rushing back? But I also know that's probably irrational - it's just hard to shake that fear. \n\nThe moral dilemma part is worse though. I keep thinking about how my coworker just had a baby and now might have to cover for me - that makes me feel so guilty. Like I'm failing her by being sick.",
+    "therapist": "It sounds like you're holding two painful beliefs at once - that needing help makes you expendable, and that prioritizing your health would betray your coworkers. That's an incredibly heavy weight to carry. What might it look like to challenge the idea that self-care and team support are mutually exclusive?  \n\n(Note: The slightly negative valence warrants validation of their distress, while the moderate arousal allows space to gently introduce cognitive restructuring around their core beliefs about worth and responsibility.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.44050371646881104,
+    "aro_t": 0.18808960914611816,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I get what you're saying logically, but it still feels like choosing between two bad options. If I take time for myself, I see my coworkers drowning in work and feel like I'm abandoning them. But when I push through, I end up so drained that I'm not even helpful anymore. \n\nThe idea that I could do both seems impossible right now - like there's never enough time or energy for everything. I've always been the person people rely on, and changing that makes me feel like I'm letting everyone down.",
+    "therapist": "It sounds like you're caught in a painful cycle where every choice feels like a loss - either letting others down or losing yourself in the process. That \"never enough\" feeling must be exhausting. When you think about being the person everyone relies on, what values are driving that role for you?  \n\n(Note: The slightly negative valence suggests validating their emotional bind, while the lower arousal allows space to explore values - a constructive approach given their current energy level.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.2597914934158325,
+    "aro_t": 0.105110764503479,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I never really thought about the values behind why I need to be the reliable one all the time. I guess it feels like if I don't do everything perfectly, people will finally see how inadequate I really am. But maintaining that image is exhausting—I'm constantly anxious that I'll mess up and everyone will realize I'm not as put together as they think. \n\nSometimes I wonder if I'm doing this more for them or for me, but I don't know how to stop. The idea of disappointing people terrifies me, even though part of me resents always having to be the strong one.",
+    "therapist": "What a powerful insight - recognizing how much energy goes into maintaining this image of perfection to protect yourself from being seen as inadequate. That fear of disappointment sounds like it's been both your motivation and your prison. What might it feel like to imagine someone seeing your struggles... and responding with care rather than judgment?  \n\n(Note: The slightly negative valence calls for gentle validation of their exhaustion and fear, while the lower arousal creates space to explore alternative perspectives on vulnerability - planting seeds for cognitive restructuring around their core belief about inadequacy.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.40548038482666016,
+    "aro_t": 0.24352359771728516,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "The idea of someone seeing my struggles and responding with care instead of judgment... it sounds nice, but honestly it just makes me anxious. What if they pretend to care but secretly think less of me? I've had that happen before, where people say all the right things but their actions show they're disappointed. \n\nIt's exhausting trying to figure out who's genuine and who's just being polite. Sometimes it feels safer to keep up the perfect front, even though I know it's draining me.",
+    "therapist": "It makes complete sense that you'd be wary after past experiences where people's words and actions didn't match - that kind of betrayal can make vulnerability feel dangerously unpredictable. I wonder if we could explore what it might look like to start small with trusting someone, perhaps in a low-stakes situation where the consequences wouldn't feel so overwhelming?  \n\n(Note: The slightly negative valence and low arousal suggest validating their caution while gently introducing the possibility of gradual behavioral experiments - a CBT approach that respects their current emotional capacity while creating movement.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.14381396770477295,
+    "aro_t": 0.10582733154296875,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I get what you're saying about starting small, but even that feels risky to me. Every time I've tried to trust someone a little bit, it's backfired, and then I just feel stupid for letting my guard down. What if the \"low-stakes\" situation still ends up hurting me?",
+    "therapist": "I hear how deeply those past experiences have shaped your caution - it makes complete sense that even small steps feel risky when they've led to hurt before. Let's approach this gently: what might \"starting small\" look like in a way that feels *completely* safe to you, even if it seems tiny?  \n\n(The slightly negative valence calls for validation of their caution, while the low arousal suggests space for collaborative problem-solving at their comfort level.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.33095622062683105,
+    "aro_t": 0.1703505516052246,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I don't know... even small things feel overwhelming right now. Like, I thought about texting an old friend just to say hi, but then I immediately imagined them ignoring me or giving a cold response. It's stupid because it's just a text, but my brain goes straight to worst-case scenarios. \n\nMaybe starting small would be just looking at their profile without messaging? But even that makes me feel pathetic, like I'm lurking instead of actually connecting.",
+    "therapist": "I hear how even reaching out in tiny ways feels loaded with painful possibilities right now - that must be so discouraging when you're trying to take steps forward. Let's honor where you're at: what makes looking at their profile feel less risky than sending a message?  \n\n(Note: The slightly negative valence warrants validation of their struggle, while the low arousal allows space to explore their thought process without escalating anxiety - focusing on understanding rather than pushing action.)",
+    "condition": "emotion_text_only",
+    "val_t": -0.29841864109039307,
+    "aro_t": 0.18250763416290283,
+    "text_emotion": "Angry"
+  }
+]
