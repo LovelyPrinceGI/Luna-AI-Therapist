@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just don't know how to keep living normally when my sister can't. Every time I catch myself laughing at something or enjoying a meal, I immediately feel guilty - like I'm betraying her memory by not being sad all the time. Part of me thinks talking about it won't change anything because she's still gone, but I'm so tired of carrying this weight.",
-    "therapist": "It sounds like you're carrying a deep sense of guilt alongside your grief, as if allowing yourself any joy somehow dishonors your sister. That weight must feel exhausting to bear. Could we explore what your sister might say about you experiencing moments of happiness?",
+    "client": "I just... I don't know how to be okay anymore. Yesterday was my sister's favorite coffee shop's anniversary, and I couldn't even go inside without breaking down. I feel like I'm betraying her by trying to live my life, but I know she'd want me to be happy. It's all so messed up.",
+    "therapist": "I hear how deeply painful this is for you—the grief feels so present, especially in those places that remind you of your sister. It sounds like there's a real struggle between knowing what she'd want for you and the guilt that comes with moving forward. What do you think your sister would say to you about that feeling of betrayal?",
     "condition": "emotion_text_only",
-    "val_t": -0.22508347034454346,
-    "aro_t": 0.13101470470428467,
+    "val_t": -0.36105334758758545,
+    "aro_t": 0.21956145763397217,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I don't know... I think my sister would want me to be happy, but that just makes me feel worse somehow. Like if I enjoy life without her, it means I'm forgetting her or moving on too fast. The guilt gets heavier when I even consider feeling okay. \n\nIt's been two years, but it still feels wrong to laugh at something or have a good day. Like I'm betraying her memory somehow. I know that probably doesn't make sense.",
-    "therapist": "I hear how tangled these feelings are - the knowing in your mind that your sister would want you to be happy, but the heartache that comes when you actually try. That conflict between what you know and what you feel must be incredibly painful. \n\nWould you be willing to explore what \"betraying her memory\" might look like in concrete terms? Sometimes putting those fears into specific words helps us examine them more clearly.",
+    "client": "She'd probably tell me to stop being so hard on myself... she always said that when she was alive. But knowing that doesn't make the guilt go away. It's like my brain agrees with her, but my heart keeps punishing me for every moment I'm not completely shattered by her absence.",
+    "therapist": "It sounds like there’s a real disconnect between what you logically know and what you emotionally feel—almost like your heart is holding onto the pain as a way to stay connected to her. What would it feel like to gently challenge that idea that being shattered is the only way to honor her?",
     "condition": "emotion_text_only",
-    "val_t": -0.3363755941390991,
-    "aro_t": 0.11186158657073975,
-    "text_emotion": "Sad"
+    "val_t": -0.30745041370391846,
+    "aro_t": 0.19186437129974365,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess when I think about \"betraying her memory,\" it's things like laughing at a joke or making plans for the future. It feels like if I'm not grieving, I'm forgetting her. But at the same time, I know that's not what she would want. \n\nIt's just hard because the pain feels like the only connection I have left to her. If I let that go, what does that say about how much I loved her?",
-    "therapist": "You've named something profound - how grief can feel like the last thread connecting you to your sister, making the idea of loosening that grip understandably frightening. That pain has become intertwined with your love for her in a way that makes moving forward feel complicated. \n\nWhat if we gently explored how you might honor your sister while also allowing yourself to live fully? Could there be ways to keep her close that don't require constant sorrow?",
+    "client": "It’s hard to even imagine challenging that idea... it feels like if I’m not in pain, I’m somehow forgetting her or letting her go. And I don’t want to let her go. But at the same time, I know this isn’t sustainable—I’m exhausted all the time, and I can barely focus on anything else. I just don’t know how to hold onto her memory without holding onto the hurt.",
+    "therapist": "It sounds like you’re carrying such a heavy weight—wanting to honor her memory while also recognizing that the pain is draining you. It’s understandable to feel like letting go of the hurt might mean letting go of her, but what if holding onto her could look different? What’s one small way you could honor her memory that feels meaningful but not painful?",
     "condition": "emotion_text_only",
-    "val_t": -0.15505671501159668,
-    "aro_t": 0.1424422264099121,
+    "val_t": -0.365104079246521,
+    "aro_t": 0.17721760272979736,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know if I'm ready to let go of the grief, honestly. The pain reminds me that she was real, that we had something special. If I start feeling better, it's like I'm betraying her memory or forgetting her. \n\nBut at the same time, I'm so tired of carrying this weight around every day. Some days I can barely get out of bed, and I know that's not what she would want for me. It's just...complicated.",
-    "therapist": "I hear how this grief has become both a burden and a sacred connection for you - something that feels impossible to let go of, yet exhausting to carry. That push and pull between honoring your sister and honoring your own life must feel incredibly draining. \n\nWhat if we gently examined what \"remembering her well\" could look like beyond the pain? Are there ways you might celebrate her life that could feel more life-giving than the weight of constant sorrow?",
+    "client": "I guess I could do something she loved, like planting flowers or baking her favorite cookies. But even that feels complicated... like, what if I start crying halfway through? Or what if I can’t finish it because it’s too much? It’s hard to imagine doing anything without feeling overwhelmed.",
+    "therapist": "It makes sense that these thoughts come up—anticipating the pain can sometimes feel as hard as the moment itself. What if we shifted the focus from \"doing it perfectly\" to simply allowing whatever emotions come up, even if that means tears? Could you try one small part of baking or planting, and just notice what happens without judging it?",
     "condition": "emotion_text_only",
-    "val_t": -0.29603755474090576,
-    "aro_t": 0.11973333358764648,
-    "text_emotion": "Sad"
+    "val_t": -0.1494300365447998,
+    "aro_t": 0.25225841999053955,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about finding ways to remember her that aren't just painful, but it's hard. Every time I try to think happy memories, they just remind me she's gone and I feel guilty for not being sad. It's like if I'm not suffering, I'm forgetting her or something. \n\nI don't know how to celebrate her life without feeling like I'm betraying her memory by not grieving enough. Does that make sense?",
-    "therapist": "It makes complete sense - you're caught between two painful extremes where any movement toward joy feels like a loss of connection, while staying in grief feels like a loss of yourself. That's an incredibly difficult space to be in. \n\nWhat if we tried something small together? Could you share one happy memory of your sister where we might just notice what emotions arise, without judging whether they're \"right\" or \"wrong\"?",
+    "client": "I guess I could try baking just one batch of cookies instead of the whole recipe... but I’m worried it’ll just make me cry the whole time. And then I’ll feel like I failed at honoring her properly. It’s like I’m stuck between wanting to do something for her and being scared of how much it’ll hurt.",
+    "therapist": "You're describing such an understandable tension—wanting to connect with her memory while bracing for the wave of grief. It sounds like there's a fear that tears might mean you're \"failing\" at honoring her, rather than being a natural part of the process. What would it feel like to consider that the tears might actually be part of honoring her, too?",
     "condition": "emotion_text_only",
-    "val_t": -0.20555901527404785,
-    "aro_t": 0.15248727798461914,
+    "val_t": -0.37515580654144287,
+    "aro_t": 0.2008967399597168,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I don't know... thinking about happy memories with her just makes me feel worse right now. It's like the happier the memory, the more it hurts because she's gone. I'm scared if I start remembering, I'll just fall apart completely. \n\nBut I also feel guilty for avoiding thinking about her. It's so confusing - I want to remember her but it's too painful.",
-    "therapist": "I hear how overwhelming this feels - like every memory is a double-edged sword that brings both love and pain. It's understandable to feel afraid of being engulfed by grief when you start remembering. \n\nWould it feel safer if we approached this gradually? Perhaps starting with just sitting with one small, ordinary memory - not the happiest or saddest - to see how that feels in your body and heart right now?",
+    "client": "That's... actually a really different way to think about it. I always saw crying as a sign of weakness, like I wasn't strong enough to handle missing her. But maybe the tears just show how much I still love her? It still feels scary though - like if I start crying, I might never stop.",
+    "therapist": "That insight is so important—recognizing that tears can be an expression of love, not just pain. It makes sense that it still feels scary though; grief can sometimes make us afraid of being overwhelmed by emotions. What would it feel like to test that fear in a small way—maybe letting yourself cry for just a few minutes, then noticing what happens next?",
     "condition": "emotion_text_only",
-    "val_t": -0.3729497194290161,
-    "aro_t": 0.1441134214401245,
-    "text_emotion": "Sad"
+    "val_t": -0.2995246648788452,
+    "aro_t": 0.22437751293182373,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I don’t know if I can even trust myself to stay with a memory without it spiraling into something bigger. Even small things feel like they might open a floodgate I can’t control. I’m scared I’ll just end up feeling worse, like I’m drowning all over again.",
-    "therapist": "It sounds like memories feel like unpredictable triggers right now - like any one could pull you under waves of grief you're not ready to face. That fear of losing control must make the idea of remembering feel incredibly vulnerable.  \n\nWould it help if we first talked about what resources or supports you might want to have in place before gently approaching those memories? That way you wouldn't be facing them alone.",
+    "client": "I could try that... but part of me worries that if I let myself cry even a little, it'll all come rushing out and I won't be able to stop. Last time I really cried, I ended up staying in bed for two days. How do I know this time would be different? It feels like walking right up to the edge of a cliff.",
+    "therapist": "It sounds like that fear of being overwhelmed by your emotions is holding you back—like letting yourself feel even a little might risk losing control. That’s such a understandable worry, especially after experiences where grief felt all-consuming. What if we approached it step by step—maybe setting a timer for a few minutes to cry, then checking in with yourself to see how you feel? Would that feel like a safer way to test the waters?",
     "condition": "emotion_text_only",
-    "val_t": -0.4575740098953247,
-    "aro_t": 0.2124084234237671,
+    "val_t": -0.23546075820922852,
+    "aro_t": 0.17756807804107666,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I guess having supports in place makes sense in theory, but I'm not sure what would actually help. When the grief hits, it feels like nothing can really stop it - it just washes over me completely. And honestly, the idea of intentionally bringing up those memories, even with support, makes my chest feel tight right now. \n\nI do have a couple close friends who know I'm struggling, but I hate burdening them when I know they have their own problems too. They try to help, but they don't really understand what it's like.",
-    "therapist": "I hear how alone you feel in this grief - both in the overwhelming waves of emotion and in the hesitation to lean on others who may not fully understand. That tightness in your chest tells me how frightening it feels to even consider facing these memories, even with support.  \n\nYou mentioned your friends try to help - could we explore what feels like a \"safe enough\" way to reach out? Perhaps identifying small, specific ways they could support you that wouldn't feel like burdening them?",
+    "client": "I could try the timer idea... but even the thought of setting it makes my chest feel tight. What if those few minutes make everything worse? Last time I tried to \"control\" my crying, it just made me feel more panicked, like I was fighting against myself. Maybe I'm not ready to face it head-on like that yet.",
+    "therapist": "It sounds like even the idea of trying to manage your emotions brings up a lot of tension and fear—like trying to control it might make things feel harder, not easier. That’s completely valid, and it’s okay to take this at your own pace. What would it feel like to explore other ways to honor your sister that feel less overwhelming right now—maybe something gentle, like writing her a letter or looking at old photos?",
     "condition": "emotion_text_only",
-    "val_t": -0.35946738719940186,
-    "aro_t": 0.1496790647506714,
+    "val_t": -0.31861770153045654,
+    "aro_t": 0.2521207332611084,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate what you're saying, but I just don't think my friends would understand. They haven't lost someone close like I have, so how can they really get what I'm going through? Even when they try to help, it feels like they're just going through the motions because they feel obligated. \n\nThe idea of asking for specific support makes me feel uncomfortable. I don't want to burden them with my pain, and honestly, I'm scared they'll pull away if I show how much I'm really struggling. It's easier to just keep it all inside.",
-    "therapist": "It sounds like you're caught between two painful fears - the loneliness of carrying this grief alone, and the risk of being truly seen in your pain. That must leave you feeling so isolated.  \n\nI wonder if we could explore together what \"being understood\" might look like to you - not necessarily from friends who haven't experienced this loss, but perhaps in our sessions or through other connections? What would feel safe enough to try?",
+    "client": "Looking at photos might be... okay? I keep them all hidden in a box because seeing them hurts too much. But maybe just one photo, for a few seconds? I don't know why this feels so terrifying - it's just paper and ink, but it's like I'm scared the memories will swallow me whole. I think I could try it if I had someone with me, but I don't want to burden my friends with this.",
+    "therapist": "It sounds like you’re carrying a lot of fear about facing those memories—like opening that box might unleash something overwhelming. That’s completely understandable, especially when grief feels so raw. What if you started with just one photo and kept it brief, almost like dipping your toe into the water? And if you’re worried about burdening friends, would it feel helpful to have a plan in place for how you’ll care for yourself afterward?",
     "condition": "emotion_text_only",
-    "val_t": -0.2688251733779907,
-    "aro_t": 0.1263340711593628,
+    "val_t": -0.2743946313858032,
+    "aro_t": 0.20087802410125732,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I don't know... the idea of being understood sounds nice, but I can't really imagine it. Even in these sessions, I worry you're just being professionally kind, not actually getting how heavy this grief feels. \n\nAnd reaching out to others who've had losses - wouldn't that just make me feel worse by comparison? Some people seem to handle grief so much better than I do.",
-    "therapist": "I hear how hard it is to trust that anyone could truly understand the weight of your grief - even here in therapy. That skepticism makes complete sense when the pain feels so uniquely heavy and isolating.  \n\nRather than comparing your grief to others', what if we simply honored where you're at right now? Would you be willing to share what this grief feels like in your body when it's at its heaviest? Sometimes starting there can help others understand without needing to compare experiences.",
+    "client": "Maybe I could pick a happy photo, like from that beach trip we took. But what if looking at it makes me realize I'll never have new memories with her? That thought terrifies me more than anything. I like the idea of a self-care plan afterwards, but what if I just spiral and nothing helps?",
+    "therapist": "It sounds like that fear of never making new memories with her is really holding you back—like looking at the photo might make the loss feel even more permanent. That’s such a deep and painful thought. What if, along with the self-care plan, you also prepared a gentle reminder for yourself—like a note saying, \"This photo is a gift, not just a loss\"? How does that feel?",
     "condition": "emotion_text_only",
-    "val_t": -0.21329784393310547,
-    "aro_t": 0.06834805011749268,
-    "text_emotion": "Sad"
+    "val_t": -0.11837661266326904,
+    "aro_t": 0.11635684967041016,
+    "text_emotion": "Angry"
   }
 ]

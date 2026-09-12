@@ -1,22 +1,22 @@
 {
   "directed_utterances": [
     {
-      "utterance_text": "I hear what you're saying, and part of me wants to believe that... but I've tried to \"build something new\" before and it just kind of fell apart, so I'm not sure why this time would be different. Like, the loneliness doesn't go away just because I reframe it — I still go home to an empty apartment every night and that's just the reality. I guess I'm scared that if I start hoping for something different, I'll just end up more disappointed than I already am.",
+      "utterance_text": "I think that's the part I struggle with most — believing I'm capable of handling it, because my track record lately feels like a lot of falling apart at family dinners and avoiding phone calls from people who want to check in on me. But I notice I'm already trying to argue myself out of what I just felt, which I guess is kind of proving your point in a frustrating way. I'll try to hold onto it, even if some part of me is already waiting for Sunday to prove me wrong.",
       "is_new_utterance_rule": true,
-      "utterance_level_direction": "[resigned, heavy, quietly fearful]",
+      "utterance_level_direction": "[sad, reflective, quietly frustrated, tentatively hopeful]",
       "new_utterance_rule_definition": {
         "primary_zonos_vector_value": {
-          "Happiness": 0.0,
-          "Sadness": 0.75,
+          "Happiness": 0.05,
+          "Sadness": 0.65,
           "Disgust": 0.0,
-          "Fear": 0.45,
+          "Fear": 0.25,
           "Surprise": 0.0,
-          "Anger": 0.05,
-          "Neutral": 0.1,
-          "Other": 0.0
+          "Anger": 0.1,
+          "Other": 0.1,
+          "Neutral": 0.15
         },
-        "speaking_rate": 13.5,
-        "pitch_std": 45.0
+        "speaking_rate": 14.5,
+        "pitch_std": 55.0
       },
       "frame_level_directions": []
     }

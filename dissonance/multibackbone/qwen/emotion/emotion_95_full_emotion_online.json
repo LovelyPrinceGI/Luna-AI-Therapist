@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. My colleague Jessica keeps taking credit for my ideas, and it's making me feel undervalued and anxious about my job security. I don't know if talking about it will really help, but I'm trying to be open to it.",
-    "therapist": "Hey there, it sounds like you're dealing with a really tough situation with Jessica, and it's completely understandable that you're feeling undervalued and anxious. It's great that you're reaching out for support. How have you been coping with these feelings so far?",
+    "client": "Hey Luna, I've been really stressed lately because Jessica at work keeps taking credit for my ideas. It makes me feel undervalued and I'm starting to worry about my job security. I know you said therapy can help, but I'm not sure how it can change what she's doing.",
+    "therapist": "Hi there, it sounds like you're feeling quite frustrated and undervalued because of Jessica's behavior. It's natural to worry about your job security in such a situation. How have you been coping with these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.04641520977020264,
-    "aro_t": 0.15045583248138428,
-    "text_emotion": "Tense"
+    "val_t": -0.1664034128189087,
+    "aro_t": 0.09913074970245361,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks, Luna. It's been really tough. I've been trying to keep my feelings to myself, but it just makes me feel more alone and anxious. I'm not sure what to do differently, though. It feels like no matter what I do, Jessica doesn't really see me.",
-    "therapist": "I can imagine how isolating and frustrating this must feel, especially when you're trying to manage your emotions on your own. It's important to recognize that keeping everything in can sometimes make the anxiety worse. Have you considered talking to a supervisor or another trusted colleague about how you're feeling?",
+    "client": "I've been trying to keep my head down and just focus on my work, but it's really hard to stay motivated when I feel like my efforts are being stolen. I've also been thinking about talking to my manager, but I'm worried it might make things worse or seem like I can't handle the situation myself.",
+    "therapist": "It sounds like you're in a challenging and demotivating situation, and it's completely understandable to feel this way. Keeping your head down and focusing on your work is a natural response, but it's tough to stay motivated when your efforts are being undermined. Have you thought about what specific concerns you would like to address if you decide to talk to your manager?",
     "condition": "emotion_text_only",
-    "val_t": -0.1450653076171875,
-    "aro_t": 0.15910911560058594,
+    "val_t": -0.35809576511383057,
+    "aro_t": 0.17787528038024902,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate your understanding, but it's hard for me to open up to my supervisor or colleagues. I worry they might not take me seriously or think I'm overreacting. Plus, I feel like I should be able to handle this on my own, you know?",
-    "therapist": "I understand how challenging it can be to share your concerns, especially when you worry about how others might perceive you. It's natural to want to handle things on your own, but it's also important to remember that seeking support is a sign of strength, not weakness. What do you think might help you feel more comfortable or confident in sharing your feelings with someone at work?",
+    "client": "I think I would want to bring up how Jessica's behavior is affecting my morale and productivity. But I'm worried that it might come off as me being petty or unable to handle a bit of competition. It's hard to find the right way to communicate this without sounding like I'm just complaining.",
+    "therapist": "It's really important to voice your concerns in a way that feels authentic and professional. Bringing up how Jessica's behavior is affecting your morale and productivity is a valid point. You might consider framing it as a request for support to improve teamwork and collaboration. What do you think about highlighting specific instances where her actions have impacted your work, and suggesting a more collaborative approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.10139095783233643,
-    "aro_t": 0.07266712188720703,
-    "text_emotion": "Neutral"
+    "val_t": -0.27720141410827637,
+    "aro_t": 0.0893172025680542,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate what you're saying, but it's really hard for me to open up at work. I worry that my colleagues might judge me or think I'm not capable of handling my responsibilities. I feel like I need to project a strong, competent image all the time.",
-    "therapist": "I completely understand your concerns about being judged or perceived as less competent. It's natural to want to project a strong image, but it's also important to remember that everyone faces challenges and that seeking support can actually strengthen your professional relationships. Have you considered any small steps you could take, like confiding in a trusted colleague or seeking advice from a mentor?",
+    "client": "I like the idea of framing it as a request for support and collaboration, but it still feels a bit daunting. I worry that Jessica might deny it or make me look bad. It's hard to imagine her being receptive to this kind of feedback.",
+    "therapist": "It's completely understandable to feel anxious about how Jessica might react. It can be daunting to bring up such issues, especially when there's a risk of denial or defensiveness. One approach could be to prepare some specific, non-accusatory examples to share, focusing on the impact on the team rather than on her personally. How do you think you might feel if you were able to approach the conversation from a place of seeking mutual understanding and improvement?",
     "condition": "emotion_text_only",
-    "val_t": 0.029541850090026855,
-    "aro_t": 0.11731469631195068,
+    "val_t": -0.11273205280303955,
+    "aro_t": 0.00859987735748291,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that perspective, but it's still really hard for me to open up. I worry that if I show any vulnerability, it might affect how others see me at work. It's not just about being judged; it's also about maintaining a certain level of respect and authority. Do you think there's a way to get support without appearing weak?",
-    "therapist": "I understand your concerns deeply, and it's very valid to want to maintain respect and authority. Finding a way to seek support without appearing vulnerable is a delicate balance. One approach could be to frame your concerns in a way that highlights your commitment to the team and your desire to improve collaboration. For example, you might bring up the issue in a professional context, focusing on how better communication can benefit everyone. What do you think about that approach?",
+    "client": "I think approaching it from a place of mutual understanding and improvement could help me feel less defensive and more in control. But it's still hard to shake the fear that it might backfire or that Jessica will just brush it off. I guess I need to weigh the risks and benefits more carefully.",
+    "therapist": "It's great that you're considering a more constructive approach, and it's normal to still feel some apprehension. Weighing the risks and benefits is a wise step. What do you think are the most important factors to consider as you decide whether to bring this up with your manager or Jessica directly?",
     "condition": "emotion_text_only",
-    "val_t": -0.0723261833190918,
-    "aro_t": 0.051778435707092285,
+    "val_t": -0.047101616859436035,
+    "aro_t": 0.007296442985534668,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying, and it makes sense in theory, but I'm still worried about how it will be perceived. It's hard because I want to improve things, but I also don't want to come across as if I'm not doing my part or as if I'm complaining. How can I make sure I'm not seen as the problem?",
-    "therapist": "I understand your concerns, and it's completely normal to worry about how your actions will be perceived. One way to approach this is to focus on presenting your concerns in a solution-oriented manner. You can frame your discussion around improving team dynamics and shared goals, rather than personal grievances. This can help others see you as proactive and committed to the team's success. What specific points do you think would be important to highlight in such a conversation?",
+    "client": "The most important factors for me are the potential impact on my job security and my relationship with Jessica. I also need to consider how this might affect my overall work environment and whether it will lead to a more positive or negative outcome. It's a lot to think about, and I'm not sure I have all the answers.",
+    "therapist": "It sounds like you're carefully considering the potential outcomes and their impact, which is a very thoughtful approach. It's a lot to weigh, and it's okay to take your time to think through it all. Have you considered discussing your concerns with a trusted colleague or mentor to get another perspective?",
     "condition": "emotion_text_only",
-    "val_t": -0.2427760362625122,
-    "aro_t": 0.1690969467163086,
-    "text_emotion": "Angry"
+    "val_t": -0.03035414218902588,
+    "aro_t": 0.06448125839233398,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying, and I think that's a good approach in theory. But I'm still worried about how my colleagues will react. It's hard because I feel like I've been misinterpreted before, and I'm not sure they'll see me as proactive rather than just complaining. What if they think I'm overstepping or trying to change things that don't need changing?",
-    "therapist": "I completely understand your concerns, and it's natural to worry about how your colleagues will react, especially if you've had previous experiences where you felt misinterpreted. It's important to approach the conversation with clear, specific examples and a focus on positive outcomes. You might consider starting with a neutral observation and then suggesting a collaborative solution. For example, you could bring up a recent project and how better communication could have improved the outcome. How do you think you could frame your specific concerns in a way that emphasizes teamwork and improvement?",
+    "client": "I haven't really talked to anyone about this yet. I worry that it might make me look weak or that I'm overreacting. But maybe getting an outside perspective could help me see things more clearly.",
+    "therapist": "It's completely understandable to feel hesitant about sharing your concerns, especially when you worry about how others might perceive you. Seeking an outside perspective can indeed help you see things more clearly and provide some valuable insights. What do you think might be the most helpful aspect of getting input from someone else?",
     "condition": "emotion_text_only",
-    "val_t": -0.21611452102661133,
-    "aro_t": 0.11672711372375488,
-    "text_emotion": "Angry"
+    "val_t": -0.06173396110534668,
+    "aro_t": 0.02655315399169922,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I see what you mean, and it makes sense to focus on positive outcomes, but I'm still worried that they might take it personally or think I'm trying to shift blame. It's hard because I've been in situations before where my intentions were misunderstood, and that just made things worse. How can I make sure they don't see it that way?",
-    "therapist": "I understand how important it is to you to avoid any misunderstandings, especially given your past experiences. It's natural to feel cautious. One way to mitigate this is to emphasize your commitment to the team and your desire to improve collaboration. You might start by acknowledging the good work everyone is doing and then gently introduce the idea of enhancing communication. How do you think you could phrase your concerns in a way that shows you're coming from a place of support and improvement?",
+    "client": "I think the most helpful aspect would be getting a reality check. Sometimes I feel like I'm overthinking things, and hearing from someone else could help me understand if my concerns are valid or if I'm blowing things out of proportion. But I'm still worried about how it might affect my relationships at work.",
+    "therapist": "It's really important to seek a reality check when you're feeling uncertain. Your concerns are valid, and getting an outside perspective can help you gauge whether your reactions are proportional. It's natural to worry about how it might affect your relationships at work, but sometimes a trusted colleague or mentor can offer support and guidance without it becoming an issue. How do you think you might approach this conversation with someone you trust?",
     "condition": "emotion_text_only",
-    "val_t": -0.3229846954345703,
-    "aro_t": 0.16544997692108154,
+    "val_t": -0.21735382080078125,
+    "aro_t": 0.1609424352645874,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I see what you're saying, but I worry that if I try to phrase my concerns in a supportive way, it might still come off as me criticizing them. It's hard because I don't want to create more tension, and I'm not sure how to make it clear that I'm not trying to point fingers.",
-    "therapist": "I can see how delicate this situation is, and it's understandable that you're worried about creating more tension. It's important to approach the conversation with empathy and a focus on shared goals. You might consider using \"I\" statements to express your feelings and experiences without sounding accusatory. For example, you could say, \"I've noticed that sometimes there are misunderstandings in our team, and I think we could all benefit from clearer communication.\" How do you feel about trying that approach?",
+    "client": "I think I would start by explaining the situation to them and how it's been affecting me. I'd want to be clear that I'm not looking for them to take sides, but rather to get their thoughts on how to handle it more effectively. But I'm still a bit nervous about how to bring it up without seeming like I'm complaining.",
+    "therapist": "It sounds like you're taking a thoughtful and balanced approach by wanting to explain the situation and seek their perspective. Starting the conversation with clarity and a focus on finding a solution together can be very effective. It's natural to feel a bit nervous, but you're showing a lot of courage in considering this step. What do you think might help you feel more confident as you prepare to have this conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.20348501205444336,
-    "aro_t": 0.062314391136169434,
-    "text_emotion": "Sad"
+    "val_t": -0.18837130069732666,
+    "aro_t": 0.13388991355895996,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I'm still really nervous about how it might come across. I worry that even if I use \"I\" statements, people might still take it the wrong way and think I'm trying to criticize them. It's hard because I don't want to make things worse.",
-    "therapist": "I understand how nerve-wracking this can be, and it's completely natural to worry about how your message might be received. It's important to approach the conversation with a clear and calm mindset. You might find it helpful to practice what you want to say beforehand, so you feel more confident and prepared. What are some key points you'd like to make sure you cover when you bring up the topic?",
+    "client": "I think writing down the key points I want to discuss and practicing what I'm going to say might help me feel more confident. It's just hard to shake the feeling that I might be overreacting, even though I know it's affecting me a lot.",
+    "therapist": "It's great that you're thinking about preparing and practicing what you want to say. Writing down key points can definitely help you feel more confident and focused. It's normal to have doubts and worry about overreacting, but it's important to trust your instincts when something is affecting you this much. How do you think you might respond to someone else if they came to you with a similar concern?",
     "condition": "emotion_text_only",
-    "val_t": -0.24792563915252686,
-    "aro_t": 0.11117148399353027,
-    "text_emotion": "Angry"
+    "val_t": -0.05861067771911621,
+    "aro_t": 0.10631334781646729,
+    "text_emotion": "Neutral"
   }
 ]

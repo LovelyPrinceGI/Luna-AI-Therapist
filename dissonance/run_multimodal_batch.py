@@ -17,6 +17,7 @@ import torch
 import numpy as np
 import soundfile as sf
 import librosa
+import random
 from openai import OpenAI
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForAudioClassification
 
@@ -219,8 +220,33 @@ def write_tmp_zonos_json(directed: dict) -> None:
     with TMP_ZONOS_JSON.open("w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def synthesize_client_audio(client_text: str, turn: int, dialogue_id: int, min_sec_per_char: float = None) -> Path:
+def contrast_director(val_t: float) -> dict:
+    if val_t < 0:
+        return {
+            "primary_zonos_vector_value": {
+                "Happiness": 0.9, "Sadness": -0.7, "Fear": -0.4, "Anger": -0.4,
+                "Surprise": 0.2, "Disgust": -0.3, "Neutral": -0.6, "Other": 0.0
+            },
+            "speaking_rate": 22.0,
+            "pitch_std": 130.0
+        }
+    return {
+        "primary_zonos_vector_value": {
+            "Happiness": -0.7, "Sadness": 0.9, "Fear": 0.7, "Anger": 0.5,
+            "Surprise": -0.3, "Disgust": -0.2, "Neutral": -0.6, "Other": 0.0
+        },
+        "speaking_rate": 12.0,
+        "pitch_std": 40.0
+    }
+
+def synthesize_client_audio(client_text: str, turn: int, dialogue_id: int, min_sec_per_char: float = None, val_t: float = None) -> Path:
     directed = make_directed_zonos_for_text(client_text)
+    if MANIP_RATE > 0 and val_t is not None:
+        rng = random.Random(f"{dialogue_id}-{turn}")
+        if rng.random() < MANIP_RATE:
+            directed["new_utterance_rule_definition"] = contrast_director(val_t)
+            directed["utterance_level_direction"] = "cheerful, energetic" if val_t < 0 else "tense, flat"
+            print(f"  [MANIP] turn {turn}: contrast voice injected (val_t={val_t:+.2f})")
     write_tmp_zonos_json(directed)
     print(f"  [TURN {turn}] Zonos synth (rate={min_sec_per_char}) ...")
     out_path_str = synth_single_utterance(turn, str(TMP_ZONOS_JSON), dialogue_id=dialogue_id, prefix="multimodal", min_sec_per_char=min_sec_per_char)
@@ -404,7 +430,7 @@ def run_single_dialogue(dialogue_id: int, max_turns: int = 10):
     val_t, aro_t = get_text_VA(client_text)
     text_emo = get_discrete_emotion(val_t, aro_t)
     rate = get_min_sec_per_char(val_t, aro_t)
-    wav_path = synthesize_client_audio(client_text, turn=1, dialogue_id=dialogue_id, min_sec_per_char=rate)
+    wav_path = synthesize_client_audio(client_text, turn=1, dialogue_id=dialogue_id, min_sec_per_char=rate, val_t=val_t)
     val_s, aro_s = get_speech_VA(wav_path)
     vocal_desc = get_vocal_descriptors(wav_path, client_text)
     speech_emo = get_discrete_emotion(val_s, aro_s)
@@ -445,7 +471,7 @@ def run_single_dialogue(dialogue_id: int, max_turns: int = 10):
         val_t, aro_t = get_text_VA(client_text)
         text_emo = get_discrete_emotion(val_t, aro_t)
         rate = get_min_sec_per_char(val_t, aro_t)
-        wav_path = synthesize_client_audio(client_text, turn=t, dialogue_id=dialogue_id, min_sec_per_char=rate)
+        wav_path = synthesize_client_audio(client_text, turn=t, dialogue_id=dialogue_id, min_sec_per_char=rate, val_t=val_t)
         val_s, aro_s = get_speech_VA(wav_path)
         vocal_desc = get_vocal_descriptors(wav_path, client_text)
         speech_emo = get_discrete_emotion(val_s, aro_s)
@@ -491,7 +517,10 @@ if __name__ == "__main__":
     parser.add_argument("--start", type=int, default=1)
     parser.add_argument("--end", type=int, default=100)
     parser.add_argument("--max-turns", type=int, default=10)
+    parser.add_argument("--manip-rate", type=float, default=0.0,
+                        help="Controlled masked-affect manipulation rate (0 = original method)")
     args = parser.parse_args()
+    MANIP_RATE = args.manip_rate
 
     print(f"Multimodal (Vocal-Aware) batch: dialogues {args.start} to {args.end}")
     print(f"Output: {OUTPUT_DIR}")

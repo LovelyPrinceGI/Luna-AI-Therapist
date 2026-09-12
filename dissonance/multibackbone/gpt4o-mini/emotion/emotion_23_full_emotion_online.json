@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been feeling really overwhelmed lately, especially during family gatherings. Since losing my father two months ago, it's like a wave of sadness hits me every time I'm around everyone. I often feel like they don't understand what I'm going through, and I wonder if therapy can really help me work through all of this.",
-    "therapist": "It sounds like you're carrying a heavy burden right now, especially with the recent loss of your father. Family gatherings can intensify feelings of sadness and isolation, particularly when it feels like others might not truly understand your grief. Therapy can definitely offer a space to process these emotions—what do you think would be the most helpful part of that journey for you?",
+    "client": "I've been really struggling since my dad passed away two months ago. Every time there's a family gathering, I just feel this overwhelming sadness, and it’s hard to be around everyone. I know they’re trying to support me, but I just feel so out of place and unsure if talking about it in therapy will really help.",
+    "therapist": "I'm so sorry to hear about your dad's passing; it sounds like you're carrying a heavy weight right now. It's completely understandable to feel out of place during family gatherings, especially when you're navigating such profound sadness. Talking about your feelings in therapy can be a safe space to explore this grief. What do you think might be the hardest part about discussing it?",
     "condition": "emotion_text_only",
-    "val_t": -0.3289787769317627,
-    "aro_t": 0.22824609279632568,
-    "text_emotion": "Angry"
+    "val_t": -0.4106186628341675,
+    "aro_t": 0.1318439245223999,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I feel like I’m just stuck in this endless cycle of sadness and guilt. It’s hard to be around family when they seem to move on, and I feel like I’m dragging this weight behind me. I’m not sure how therapy will help, though; it feels overwhelming to think about talking through all of this.",
-    "therapist": "It sounds incredibly tough to feel stuck in that cycle of sadness and guilt, especially when it seems like those around you are moving forward. It’s understandable to feel overwhelmed at the thought of talking through everything; opening up about such deep emotions can be daunting. What do you think might help make the idea of therapy feel less overwhelming for you?",
+    "client": "I think the hardest part is just feeling like I have to put on a brave face for everyone else. It’s like I’m afraid if I start talking about my feelings, I’ll break down completely, and I don’t want to make anyone else uncomfortable. I guess I also worry that they won’t really understand what I’m going through, so what's the point?",
+    "therapist": "It sounds like you're feeling a lot of pressure to stay strong for others, which can be incredibly isolating and exhausting. It’s natural to worry about how your feelings might affect those around you, but your grief is valid and deserves to be expressed. It might be helpful to explore ways to share your feelings in a way that feels safe for you. What do you think might help you feel more comfortable opening up, either in therapy or with your family?",
     "condition": "emotion_text_only",
-    "val_t": -0.3200761079788208,
-    "aro_t": 0.20872235298156738,
+    "val_t": -0.21608948707580566,
+    "aro_t": 0.16559243202209473,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how overwhelming it feels. I guess I worry that if I dig too deep, I might just spiral further into those feelings of sadness and guilt. It feels like a risk to open up about it all, especially when I don’t know if it will actually help or just make things worse.",
-    "therapist": "It’s completely understandable to be cautious about opening up, especially when it feels like it might lead to deeper sadness. Acknowledging those feelings is a brave first step, and therapy can be a safe space to explore them at your own pace. What if we focused on one small area at a time, so it feels more manageable for you?",
+    "client": "I appreciate you saying that my grief is valid. I think I’d feel more comfortable if there were some sort of structure to how I share my feelings, like maybe writing them down first. But then I worry that if I write it out, it might sound too rehearsed or not convey how I really feel in the moment. It just feels hard to balance wanting to express myself and not wanting to overwhelm anyone else.",
+    "therapist": "I can see how finding that balance between expressing your feelings and being mindful of others can feel really challenging. Writing your thoughts down can be a helpful way to organize your feelings without the pressure of speaking them out loud right away. It’s okay if it feels a bit rehearsed; what matters is that it reflects your truth. How do you think you might feel after sharing something you've written?",
     "condition": "emotion_text_only",
-    "val_t": -0.21449995040893555,
-    "aro_t": 0.13150572776794434,
-    "text_emotion": "Angry"
+    "val_t": -0.11234033107757568,
+    "aro_t": 0.05781745910644531,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that it’s brave to acknowledge my feelings, but honestly, I still feel really hesitant. Opening up feels like inviting in a storm of emotions I’m not ready to face. Focusing on one small area might sound manageable, but I worry that even that could lead to overwhelming sadness or bring up things I don’t want to deal with right now.",
-    "therapist": "It's completely normal to feel hesitant about facing such intense emotions, especially when it feels like opening up might unleash a storm. The fear of being overwhelmed is valid, and it’s okay to take your time to find a comfortable approach. What if we explored what \"safe\" would look like for you in therapy, or discuss how you can identify feelings without diving too deep right away?",
+    "client": "I think if I shared something I wrote, I might feel a little relieved, like I've finally gotten some of the weight off my chest. But I also worry that it won’t come across the way I intend it to, and I might still feel misunderstood. It feels risky to open up, even in writing, because what if it doesn’t resonate with them, and I end up feeling even more isolated?",
+    "therapist": "It's understandable to feel that sense of relief mixed with the fear of being misunderstood when it comes to sharing your feelings. Opening up does come with its risks, but it can also be a powerful step toward feeling less isolated. Perhaps you could start by sharing just a small part of what you've written to gauge their reactions, allowing for a gradual process. What do you think might be the most important feeling or thought you'd want them to understand?",
     "condition": "emotion_text_only",
-    "val_t": -0.1514594554901123,
-    "aro_t": 0.1728823184967041,
+    "val_t": -0.2894326448440552,
+    "aro_t": 0.13496577739715576,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you understand my hesitation, but honestly, even thinking about what \"safe\" looks like in therapy feels overwhelming. I guess I worry that if I let my guard down even a little, I might just spiral into those intense emotions I’m trying to avoid. I’m not sure how to identify my feelings without feeling like I'm drowning in them.",
-    "therapist": "It sounds like you're feeling a lot of pressure and fear around the idea of letting your guard down, which is completely understandable given what you’re experiencing. Navigating those intense emotions can feel like a daunting task, and it's okay to prioritize your comfort. What if we started by identifying one small feeling or thought that comes up for you, even if it's just a fleeting moment? It doesn’t have to be overwhelming, and we can take it at your pace.",
+    "client": "I think the most important feeling I want them to understand is just how much I miss my dad and how lost I feel without him. It’s like a part of me is missing, and I want them to feel that emptiness too. But I’m still worried that if I share that, it might just make things more awkward or bring everyone down, and I don't want to be the reason for that.",
+    "therapist": "It’s really touching that you want your family to understand the depth of your loss and how much you miss your dad. It’s completely natural to worry about how that might affect the mood, but sharing that emptiness can also foster connection and understanding among you all. Maybe expressing that you just need them to listen and be present could help ease some of that pressure. How do you feel about the idea of sharing that specific sentiment with them?",
     "condition": "emotion_text_only",
-    "val_t": -0.19087493419647217,
-    "aro_t": 0.2282799482345581,
-    "text_emotion": "Angry"
+    "val_t": -0.2730969190597534,
+    "aro_t": 0.10117638111114502,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I guess I can see how I feel pressure around letting my guard down. It’s like I’m constantly on alert, and the idea of being vulnerable just makes my stomach churn. I’m not sure if identifying a small feeling will help, though; it feels like I might just end up overwhelmed instead.",
-    "therapist": "It sounds like you’re feeling a lot of pressure and discomfort around vulnerability, which is completely valid. Being on alert and fearing that vulnerability could lead to overwhelming emotions can be really exhausting. How about we take a moment to acknowledge that discomfort together—what do you think it might feel like to simply recognize those feelings without the pressure to dive deeper right away?",
+    "client": "I see what you mean about fostering connection, and it does make sense that establishing that need for them to listen could help. But I still feel nervous about it—what if they don’t know how to respond? I don’t want to put them in an uncomfortable position, and I’m not sure how to bring it up without feeling like I'm just unloading on them.",
+    "therapist": "It's completely normal to feel nervous about how your family might respond, especially when you're sharing something so personal. Remember, you’re not just unloading; you’re inviting them into your experience and allowing them to support you. It might help to frame it as a conversation where you express that you’re feeling vulnerable and just need their understanding. How do you think your family might react if you approached it that way?",
     "condition": "emotion_text_only",
-    "val_t": -0.24192440509796143,
-    "aro_t": 0.23544585704803467,
+    "val_t": -0.19243919849395752,
+    "aro_t": 0.20324182510375977,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate you acknowledging that discomfort. It does feel overwhelming to think about being vulnerable, and just recognizing that feels like a lot already. But I’m not sure how I’d even begin to sit with those feelings without getting anxious or trying to push them away. What if it just leads to feeling worse?",
-    "therapist": "It’s completely understandable to feel anxious about sitting with those overwhelming feelings, especially when it feels like they might lead to more distress. Recognizing those emotions is a significant step, and it’s okay to take it slow without pushing yourself too hard. What if we explored some gentle techniques to help ground you in those moments, so you can feel a bit more stable as you begin to sit with your feelings?",
+    "client": "I guess if I framed it as a conversation about being vulnerable, they might surprise me with their support. But I still worry that they might feel uncomfortable or not know what to say, and then it would just feel awkward. I’m afraid that instead of connecting, I could end up feeling even more isolated if they don’t respond the way I hope.",
+    "therapist": "It makes sense that you're feeling apprehensive about how your family might react, especially when vulnerability can bring up so many emotions. It’s natural to want their support and to fear that it may not come as you hope. Perhaps you could consider that even if their responses aren’t perfect, just opening up can still create a space for connection. What do you think might help you feel more secure in expressing your feelings, even if the outcome is uncertain?",
     "condition": "emotion_text_only",
-    "val_t": -0.23378825187683105,
-    "aro_t": 0.12250113487243652,
-    "text_emotion": "Angry"
+    "val_t": -0.27617156505584717,
+    "aro_t": 0.06163227558135986,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you understand how overwhelming it can feel to sit with my emotions. But honestly, I’m not sure grounding techniques will work for me. When I try to focus on my feelings, it just feels like everything is spiraling out of control, and I don't know how to slow it down.",
-    "therapist": "It sounds like you’re feeling really unsettled at the thought of trying grounding techniques, and that’s perfectly valid. When emotions start to spiral, it can be incredibly hard to find a sense of control. Instead of focusing on the feelings directly, what if we considered exploring some simple distractions or activities that might provide a little relief? What do you think might help you feel a bit more anchored in those moments?",
+    "client": "I guess I could think of it as just taking a small step, rather than expecting a perfect outcome. But even with that in mind, I still feel a lot of resistance. What if they don’t react the way I need them to, or what if it just makes everything feel more tense? It's hard to shake off that fear, and it makes me hesitate.",
+    "therapist": "It's completely understandable to feel that resistance and fear; stepping into vulnerability can feel daunting, especially when you're worried about how others might react. It's okay to acknowledge that fear while still considering those small steps forward. Perhaps thinking about what you might need from them in that moment could help ease some of the tension. What do you think would make sharing a little less intimidating for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.142220139503479,
-    "aro_t": 0.21950793266296387,
+    "val_t": -0.1374223232269287,
+    "aro_t": 0.0954355001449585,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate you suggesting distractions, but honestly, I'm not sure they would help me. When I'm feeling anxious, I struggle to even focus on anything else, and it feels like my mind just races. I guess I’m just worried that I won’t be able to pull myself out of that headspace in the moment.",
-    "therapist": "It sounds like you're feeling trapped in that racing thought pattern, and I can understand why it feels so challenging to focus on anything else when anxiety takes hold. It's tough to feel like you're in a cycle where pulling yourself out seems impossible. What if we explored some ways to gently interrupt that racing mind, perhaps by creating small moments of pause, without putting too much pressure on yourself?",
+    "client": "I think it would help if I had some kind of reassurance from them that they are there to listen and that it’s okay for me to feel sad. But even just thinking about it makes me anxious. I’m not sure how to ask for that reassurance without feeling like I’m putting too much pressure on them. It’s hard to find the right words when I’m already feeling so vulnerable.",
+    "therapist": "It sounds like you're really longing for that reassurance and understanding, which is so important when you're feeling vulnerable. It's completely natural to worry about how to ask for that support without feeling like you're burdening them. Maybe you could start with something simple, like expressing that you’re feeling sad and just need them to listen. How do you think they might respond if you approached it that way?",
     "condition": "emotion_text_only",
-    "val_t": -0.22549724578857422,
-    "aro_t": 0.15789306163787842,
-    "text_emotion": "Angry"
+    "val_t": -0.3491334915161133,
+    "aro_t": 0.12049663066864014,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you understand how overwhelming it can feel when my thoughts start racing. The idea of creating small moments of pause sounds nice in theory, but I worry that I won't actually be able to do it when I'm in the thick of anxiety. It feels like once those thoughts start, they just take over, and I’m not sure how to interrupt them in the moment.",
-    "therapist": "It's completely understandable to feel skeptical about the idea of creating pauses when anxiety takes hold; it’s a lot to manage in those moments. It can feel like the racing thoughts have a mind of their own, making it hard to find a way to interrupt them. What if we focused on developing a simple cue or reminder that you could use when those thoughts start to race, something that feels manageable and could help you gently steer your focus?",
+    "client": "I think if I approached it that way, they might respond with empathy and support. But I still can't shake the feeling that it might not be enough for me; what if they just say the usual comforting things without really getting how deep my sadness goes? I guess I just want them to fully understand the weight of what I'm feeling, and I’m not sure if a simple request to listen will convey that.",
+    "therapist": "It sounds like you’re really craving a deep understanding of your grief, and it’s tough when you fear that the usual comforting responses might not fully capture what you’re experiencing. It’s valid to want your feelings to be acknowledged at a deeper level. Perhaps you could share that desire for them to really understand the weight of your sadness when you ask for their support. How might you express that need in a way that feels comfortable for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.020078659057617188,
-    "aro_t": 0.2080831527709961,
-    "text_emotion": "Tense"
+    "val_t": -0.07028496265411377,
+    "aro_t": 0.057879090309143066,
+    "text_emotion": "Neutral"
   }
 ]

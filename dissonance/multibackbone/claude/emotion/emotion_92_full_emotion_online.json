@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having a really rough week, honestly. I started this new job a couple months ago and I thought I was getting the hang of it, but then last week in a team meeting my colleague basically called out my mistakes in front of everyone, and I haven't been able to stop thinking about it since. I'm not even sure talking about it is going to change anything, but I figured I'd give this a try.",
-    "therapist": "Thank you for giving this a try — it takes courage to reach out, especially when you're not sure it'll help. What happened in that meeting sounds really painful, being put on the spot in front of your team can leave a lasting sting, and it makes sense that it's been hard to shake. I'm curious — when you replay that moment in your mind, what's the thought that tends to come up most strongly for you?",
+    "client": "I've been really struggling since last week's team meeting at work. My colleague called out some mistakes I made in front of everyone, and I can't stop replaying it in my head — it just keeps making me feel like I'm completely incompetent. Honestly, I'm not even sure talking about it is going to change anything, but I figured I'd give this a shot.",
+    "therapist": "It sounds like that moment really stung, and having it happen in front of others makes it especially hard to shake — that kind of public embarrassment has a way of looping in our minds and feeling much bigger than it might actually be. I'm really glad you decided to give this a try, even with some doubt about whether it'll help, because that kind of honest skepticism is actually a great starting point for us to work with. When that memory replays, what's the specific thought that tends to hit you the hardest — is it something like \"I always mess up,\" or does it take a different shape for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.11676645278930664,
-    "aro_t": 0.10906553268432617,
+    "val_t": -0.2911252975463867,
+    "aro_t": 0.16677260398864746,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, the thought that keeps coming back is basically... \"Everyone in that room now thinks I'm incompetent.\" Like, I can see their faces in my head, and I just assume they're all thinking the same thing — that I don't know what I'm doing. And then I start to wonder if maybe they're right, which is the part that really gets to me.",
-    "therapist": "That thought — \"everyone thinks I'm incompetent\" — is such a heavy one to carry, and the fact that it's turning inward into self-doubt makes it even more exhausting. In CBT, we'd call this a kind of mind-reading, where your mind fills in what others are thinking with the most painful possible version. I'm wondering — if you think about the people in that room, do you have any actual evidence about what they thought, or is your mind mostly filling in the blanks?",
+    "client": "The thought that keeps coming back is more like \"everyone in that room now thinks I'm incompetent, and nothing I do going forward will change that impression.\" It's less about always messing up in general and more about feeling permanently defined by that one moment in front of those specific people. And the worst part is I have to see them every day, so it's not like I can just move on and forget it happened.",
+    "therapist": "That thought — feeling permanently defined by one moment in the eyes of people you see every day — sounds really heavy to carry, like there's no escape from it. One thing worth gently examining is whether that thought is a fact or a conclusion your mind jumped to: do you have actual evidence that your colleagues have permanently written you off, or might your mind be filling in the gaps with the worst possible interpretation? What do you think those colleagues actually saw — just a mistake, or something that truly defines your entire value to them?",
     "condition": "emotion_text_only",
-    "val_t": -0.2168567180633545,
-    "aro_t": 0.2082369327545166,
+    "val_t": -0.24138116836547852,
+    "aro_t": 0.19783270359039307,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean... I guess I don't have direct evidence, no. But it's not like it came out of nowhere — my manager did cut me off mid-sentence during the presentation, and a couple of people were on their phones the whole time. That feels like more than just my mind making things up, you know?",
-    "therapist": "You're right to push back on that — those things really did happen, and it's important we don't dismiss them. But I'm curious whether there might be other explanations for them, like a manager who interrupts out of habit, or colleagues distracted by something unrelated to you. What do you think it would mean *even if* some people did notice the mistakes — does that automatically confirm the thought that you're incompetent?",
+    "client": "I hear what you're saying, and logically I know I don't have hard proof that they've written me off permanently. But it doesn't feel like my mind is just filling in gaps — it feels like I'm reading the room accurately, because ever since that meeting a couple of people have been quieter around me than usual. That silence feels like confirmation, even if I can't be a hundred percent sure that's what it means.",
+    "therapist": "It's really meaningful that you can hold both things at once — knowing logically there's no hard proof, while still feeling like the silence is telling you something real. In CBT we call this \"emotional reasoning,\" where the feeling itself becomes the evidence, but it's worth asking: could there be other explanations for your colleagues being quieter — like their own stress, distractions, or just normal fluctuation in how people interact week to week? If a close friend described this exact situation to you, what alternative explanations might you offer them before concluding their colleagues had permanently judged them?",
     "condition": "emotion_text_only",
-    "val_t": -0.12509500980377197,
-    "aro_t": 0.16839683055877686,
-    "text_emotion": "Angry"
+    "val_t": 0.0039833784103393555,
+    "aro_t": 0.07966434955596924,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and yeah, maybe my manager does interrupt everyone — I honestly haven't paid attention to whether it's just me. But even if that's true, it doesn't really make me feel better, because I *know* I've made real mistakes at work, and I can't just explain those away. Like, if people noticed them, doesn't that mean they're already forming an opinion about me, even if \"incompetent\" is too strong a word?",
-    "therapist": "It sounds like you're moving toward something more honest and grounded — acknowledging real mistakes while questioning whether they tell the whole story about you. There's an important difference between \"I've made some mistakes while learning a new job\" and \"people have formed a fixed opinion that I'm incompetent,\" and it's worth sitting with that distinction. What do you think it would take for someone watching you at work to update their opinion of you — do you believe that's even possible in your mind right now?",
+    "client": "I guess if a friend told me this, I'd probably say \"maybe they're just busy\" or \"people have their own stuff going on.\" But it's so much harder to apply that same logic to myself — when it's happening to me, those alternative explanations just feel like excuses I'm making to avoid the obvious. I think part of what makes this so hard is that I already had some underlying doubts about whether I really belong on this team, so this incident just kind of confirmed what I was already afraid of.",
+    "therapist": "You've just uncovered something really important — the incident didn't create this fear, it landed on top of doubts that were already there, which is why it feels so much more like \"confirmation\" than just a rough moment. That pre-existing sense of not belonging is worth exploring, because it's likely the lens through which you're interpreting everything, including your colleagues' silence. Where do you think those doubts about belonging on this team originally came from — were they there from the very start, or did something specific plant that seed?",
     "condition": "emotion_text_only",
-    "val_t": -0.24545979499816895,
-    "aro_t": 0.16243600845336914,
+    "val_t": -0.255367636680603,
+    "aro_t": 0.16007113456726074,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... I guess logically I know people can change their opinions, but honestly, when I think about my actual workplace, it feels pretty fixed. Like, there's this one colleague who I caught giving me this look after I made that error in the meeting, and now every time I walk past her desk I feel my stomach drop. I want to believe it's possible, but I'm not sure I trust that enough to actually act differently around them.",
-    "therapist": "That moment with your colleague — the look, the stomach drop every time you pass her desk — shows how much this one event has started to shape how you move through your whole workplace, almost like you're bracing for confirmation of your worst fear. It makes sense that it's hard to act differently when your body is already on high alert, expecting the worst. I'm wondering — what would \"acting differently\" even look like to you, and what do you imagine might happen if you tried it?",
+    "client": "Honestly, I think those doubts were there from day one — this team has a lot of people with more experience than me, and I've always felt like I snuck in somehow, like they made a mistake hiring me. There was also a comment my manager made about three months in about me \"still having a learning curve,\" which at the time I brushed off but looking back it kind of lodged itself in my head. So I've basically been waiting for the moment when everyone else would see what I already suspected about myself.",
+    "therapist": "What you're describing has a name — it's often called \"impostor syndrome,\" and it's incredibly common among people who are actually quite capable, which tells us something important: this feeling of having \"snuck in\" is more about a story you've been carrying than an accurate reflection of your abilities. That one comment from your manager about a learning curve — which is honestly pretty normal feedback for someone newer to a role — got stored as evidence for a fear that was already looking for proof. I'm curious: when you think back over your time on this team, are there moments or pieces of work that *don't* fit the story that you don't belong — things you've quietly pushed aside because they didn't match the narrative?",
     "condition": "emotion_text_only",
-    "val_t": -0.11900126934051514,
-    "aro_t": 0.15463435649871826,
+    "val_t": -0.16158175468444824,
+    "aro_t": 0.1465543508529663,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "Honestly, I think \"acting differently\" would mean just... walking past her desk without speeding up or staring at the floor, maybe even saying good morning like I used to. But even picturing that makes my chest tighten, because what if she just gives me that cold look again, or worse, ignores me completely? I feel like I'd be setting myself up to get hurt, and I'm not sure I have the energy for that right now.",
-    "therapist": "It makes a lot of sense that even imagining that small step feels risky — you're already carrying so much from this week, and the idea of reaching out only to be met with coldness feels like it could confirm everything you're afraid of. But I want to gently notice something: right now, avoiding her desk is protecting you from *possible* hurt, but it's also quietly reinforcing the story that there's something to be afraid of. What do you think that daily avoidance is costing you, even if it feels safer in the moment?",
+    "client": "There are a few things, yeah — I led a project last quarter that got positive feedback, and my manager actually thanked me specifically in an email for catching an error that would have cost the team a lot of time. But when you ask me to hold onto those as evidence that I belong, it feels almost dishonest, like I'm cherry-picking the good stuff to feel better while ignoring the real picture. I think that's what worries me about this whole reframing approach — it feels like I'm just trying to talk myself into feeling okay rather than actually dealing with whether my fears have any truth to them.",
+    "therapist": "Your concern about reframing is actually a really thoughtful one, and it shows a lot of intellectual honesty — but here's something worth sitting with: you're applying completely different standards to each type of evidence. The mistakes feel like \"the real picture,\" while the project success and your manager's specific praise get labeled as cherry-picking — but why should the negative automatically count as more truthful than the positive? What if the most accurate picture isn't the worst one or the best one, but one that holds both, and you've just been trained by that underlying fear to treat the negative as the default truth?",
     "condition": "emotion_text_only",
-    "val_t": -0.3562403917312622,
-    "aro_t": 0.215628981590271,
+    "val_t": -0.18933701515197754,
+    "aro_t": 0.16331779956817627,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and honestly, part of me knows you're right. The avoidance does cost me something — I spend half my morning just mentally mapping out how to get to the kitchen without passing her desk, and by the time I sit down to work I'm already exhausted and on edge. But I guess I keep telling myself that the cost of avoiding is still less than the cost of actually trying and having her look through me like I'm not even there.",
-    "therapist": "The fact that you can see this so clearly — the mental mapping, arriving at work already drained before the day even starts — shows real self-awareness, and that matters. What strikes me is that you're already paying a high cost every single day, whereas the thing you're afraid of is still just a possibility. I'm curious — has she actually looked through you like that yet, or is that a moment you're bracing for that hasn't happened?",
+    "client": "That actually lands a little differently than I expected — the idea that I'm holding the negative and positive evidence to different standards. I hadn't thought about it that way, but I think you're right that I automatically assume the bad stuff is more \"real\" or more telling about who I actually am. I'm still not sure I can just decide to trust the positive evidence the same way, though — it feels like that would take a lot of practice and I honestly don't know if I'm capable of shifting something that feels this deeply wired into how I see myself.",
+    "therapist": "It's really encouraging that that idea landed for you, and I want to gently push back on one thing: you just described a deeply ingrained pattern of thinking with clarity and insight that many people never reach, which is itself evidence that you *are* capable of shifting this — it just won't happen all at once, and it doesn't need to. You're not being asked to suddenly trust the positive evidence completely, but rather to slowly practice giving it the same *right to exist* as the negative, like a muscle you build gradually rather than a switch you flip. What do you think it would feel like to treat that manager's email — just that one piece of evidence — as equally real and valid as the memory of last week's meeting?",
     "condition": "emotion_text_only",
-    "val_t": -0.12318801879882812,
-    "aro_t": 0.1492248773574829,
-    "text_emotion": "Angry"
+    "val_t": -0.05901658535003662,
+    "aro_t": 0.06368672847747803,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "That's... actually a fair point, and it kind of stops me in my tracks a little. She hasn't done it yet, not in the way I'm dreading — but I feel like I'm living inside that moment already, like it's already happened somehow. I guess I've been so convinced it's coming that I've been treating it as a fact instead of a fear.",
-    "therapist": "That insight you just had is genuinely significant — recognising that you've been living inside a feared future as if it were already real is exactly the kind of shift that can start to loosen its grip on you. There's even something a little relieving in what you said, like a small exhale after holding your breath for a long time. I'm wondering — now that you can see it as a fear rather than a fact, does that change anything about how you want to approach tomorrow morning?",
+    "client": "Honestly, when I try to imagine holding that email as equally real as last week's meeting, there's a small part of me that feels something like... relief, almost, like I'd be putting down something heavy for a second. But then almost immediately there's this voice that says \"yeah but the email was months ago and the meeting was last week, so the meeting is more current and therefore more true.\" I don't know how to argue with that voice when it feels so logical in the moment.",
+    "therapist": "That moment of relief you noticed is really significant — your mind and body are giving you a glimpse of what it might feel like to carry this differently, and that's worth holding onto. As for that voice telling you the meeting is \"more current and therefore more true\" — that's a clever argument, but it's worth questioning the logic: does something being recent automatically make it more defining than a pattern of success built over months? If we only ever judged ourselves by the most recent difficult moment, none of us would ever feel secure — so what would it mean to let *recency* be just one data point rather than the deciding vote?",
     "condition": "emotion_text_only",
-    "val_t": -0.1309744119644165,
-    "aro_t": 0.21234524250030518,
-    "text_emotion": "Angry"
+    "val_t": -0.01085817813873291,
+    "aro_t": 0.16416704654693604,
+    "text_emotion": "Tense"
   },
   {
     "turn": 9,
-    "client": "I mean... yeah, there is something slightly different about how it feels when I say it out loud like that — like maybe I've been rehearsing a disaster that hasn't actually happened yet. But I'm not sure that changes tomorrow morning all that much, because even if I know it's \"just a fear,\" my chest still tightens the moment I think about walking into that office and facing my colleagues after the way that meeting went. It's like my body hasn't gotten the memo that my brain just had.",
-    "therapist": "What you're describing — your mind shifting but your body still bracing — is completely normal, and it's actually one of the most important things to understand about anxiety: insight doesn't automatically rewire our physical reactions, and that's not a failure on your part. The good news is that the body *does* catch up, but usually through small, repeated experiences that gently teach it the disaster didn't come. I'm wondering — given everything we've talked about today, is there one tiny thing, even smaller than saying good morning, that might feel like a manageable first step tomorrow?",
+    "client": "That reframe about recency actually makes some sense to me — like, I wouldn't tell a friend that one bad week erases months of solid work, so why does my brain treat it that way for me. But I think what scares me is that even if I intellectually accept that recency shouldn't be the deciding vote, I still have to walk into that office tomorrow and face those people, and the anxiety in my body doesn't really care about logical arguments in the moment. How do I actually use any of this when I'm standing there in real time and the fear just takes over?",
+    "therapist": "You're hitting on something really important — there's a gap between understanding something intellectually and having it available to you when your nervous system is activated, and that gap is completely normal and real. One practical CBT tool for exactly this moment is to prepare a short \"grounding phrase\" in advance — something like \"one moment doesn't define months of work\" — that you've already connected to emotionally, so it's ready to interrupt the spiral before it takes over rather than trying to construct the argument from scratch while anxious. When you imagine walking in tomorrow, is there one specific moment you're most dreading — like a particular interaction or just the general weight of entering the room — that we could think through together so you feel a little more prepared?",
     "condition": "emotion_text_only",
-    "val_t": -0.24887239933013916,
-    "aro_t": 0.26761043071746826,
+    "val_t": -0.3263620138168335,
+    "aro_t": 0.31172168254852295,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and it actually does help a little to know my body isn't just broken or something. But I'm sitting here trying to think of something even smaller than saying good morning, and honestly... even making eye contact in the hallway feels like a lot. I guess maybe just not looking away so fast when someone walks by? But I'm already second-guessing it, like what if that makes things more awkward and I end up feeling worse than before.",
-    "therapist": "Not looking away so fast — that's actually a really meaningful step, and I want you to hold onto the fact that *you* came up with that, not me. It's worth naming that even if it feels awkward in the moment, awkward isn't the same as disaster, and one brief moment of eye contact is also a small piece of evidence your body can start to learn from. What would you tell a close friend who came up with a brave little step like that and then immediately started talking themselves out of it?",
+    "client": "The moment I'm dreading most is probably running into my colleague — the one who called out my mistakes — in the kitchen or hallway, somewhere without the structure of a meeting where I'd have to just make normal small talk and pretend everything's fine. I like the idea of a grounding phrase in theory, but I worry that in that specific moment my mind will just go blank and the phrase will feel hollow or rehearsed rather than actually calming. Is there something more concrete I can do with my body or my attention in that moment, because I feel like my thoughts are too unreliable to be the anchor?",
+    "therapist": "Your instinct to anchor in your body rather than your thoughts in that moment is actually really wise — when anxiety spikes, the body is often more accessible than the mind. A simple technique is the \"5-4-3-2-1\" grounding method: briefly and discreetly notice 5 things you can see, 4 you can feel physically (like your feet on the floor or hands around a mug), and it naturally pulls your attention out of the fear spiral and back into the present moment before the conversation even begins. And here's something worth considering about that interaction itself: you don't have to \"pretend everything's fine\" perfectly — just getting through a 30-second exchange about coffee is enough of a win, so what would it look like to set that as your only goal for that moment rather than managing how you feel the whole time?",
     "condition": "emotion_text_only",
-    "val_t": -0.2034677267074585,
-    "aro_t": 0.14777612686157227,
+    "val_t": -0.22612106800079346,
+    "aro_t": 0.1553959846496582,
     "text_emotion": "Angry"
   }
 ]

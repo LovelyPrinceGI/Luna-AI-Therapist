@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. Ever since my partner moved in, the apartment has been a constant mess, and I'm afraid it's going to lead to bigger arguments. I don't know if therapy can really help with something like this, but I'm trying to stay open.",
-    "therapist": "Hi there, I can really understand how overwhelming this must be for you. It’s natural to feel anxious when there are changes in your living situation, especially when it affects your daily life. How have you been coping with these feelings, and do you think there are any specific things that might help ease the tension?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. Ever since my partner moved in, the apartment has been a constant mess, and I'm afraid it's going to lead to bigger arguments. I know it might seem trivial, but it's really been stressing me out.",
+    "therapist": "Hey there, it sounds like you're really feeling the pressure with the new living arrangements. It's totally understandable to feel overwhelmed, especially when something that seems small can build up and affect your peace of mind. How have you been managing these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.09458613395690918,
-    "aro_t": 0.1640009880065918,
+    "val_t": -0.3069201707839966,
+    "aro_t": 0.24684882164001465,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hey Luna, it's been really tough. I find myself worrying a lot about how the move will affect my relationships and my routine. I've been trying to stay busy, but it feels like the anxiety just builds up. I'm not sure if there's anything that can really ease the tension, though. It's hard because everything feels so uncertain right now.",
-    "therapist": "I can hear how tough this transition has been for you, and it’s completely understandable to feel anxious about the changes and uncertainties. Staying busy can be a way to manage anxiety, but it sounds like the worry is still building up. Have you tried talking to your partner about your concerns, or are there any small steps you think might help create a sense of stability?",
+    "client": "I've been trying to keep things organized, but it feels like no matter how much I clean, it just gets messy again. I've also been avoiding talking to my partner about it because I don't want to start an argument, but that just makes me feel more guilty and stressed. It's like I'm trapped in this cycle and I don't know how to break it.",
+    "therapist": "It sounds really frustrating and stressful to feel like your efforts to keep things organized are constantly being undone. Avoiding the conversation with your partner is understandable when you're worried about conflict, but it's completely normal to feel guilty and stressed as a result. Have you considered any specific ways you might bring up the topic with your partner to avoid an argument?",
     "condition": "emotion_text_only",
-    "val_t": -0.24417710304260254,
-    "aro_t": 0.23068630695343018,
+    "val_t": -0.3890765905380249,
+    "aro_t": 0.1961379051208496,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how anxious I've been. It's just hard to talk to my partner about it because I feel like I don't want to burden them with my worries. I'm also not sure what small steps I could take that would really make a difference. It feels like everything is so big and overwhelming right now.",
-    "therapist": "I understand that it can be really challenging to open up to your partner, especially when you don’t want to burden them. It’s a common concern, and it’s okay to feel that way. Sometimes, small steps can make a big difference. For example, setting aside a specific time to discuss your feelings and concerns might help you both feel more prepared and less overwhelmed. What do you think about trying that, or is there another way you might feel comfortable starting the conversation?",
+    "client": "I've thought about bringing it up, but I'm just so afraid it'll come off the wrong way. I don't want to sound like I'm criticizing or nagging. It's hard because I care about our relationship and I don't want to create tension, but at the same time, I feel like this is really important to me.",
+    "therapist": "It's really important to find a way to express your feelings without coming across as critical, especially when you care deeply about your relationship. It's natural to worry about how your partner will react, but finding a gentle and open way to communicate can help. What do you think would be the most important points for you to share with your partner to convey how you're feeling without it seeming like criticism?",
     "condition": "emotion_text_only",
-    "val_t": -0.0647956132888794,
-    "aro_t": 0.28548943996429443,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate that, Luna. I do worry that setting aside a specific time might make it feel too formal or scripted, which could make me even more anxious. I feel like it’s hard to find a balance between being open and not making it feel like a big deal. How can I approach this in a way that feels more natural?",
-    "therapist": "I understand your concern about making it feel too formal. It’s important to find a balance that feels right for both of you. One approach could be bringing up the topic during a calm and relaxed moment, maybe while you’re both doing something you both enjoy. This can help make the conversation feel more natural and less stressful. What do you think about trying that, or is there another setting where you feel more at ease to talk?",
-    "condition": "emotion_text_only",
-    "val_t": -0.02545905113220215,
-    "aro_t": 0.1365668773651123,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I see what you mean about finding a balance, but I'm still a bit worried. It feels like no matter how I bring it up, it might just make things more awkward. I’m not sure if there’s ever really a \"right\" moment, you know? It’s hard because I don’t want to ruin the good times we have together.",
-    "therapist": "I can understand how challenging it feels to find the right moment, and the worry about making things awkward is valid. It’s natural to want to protect the good times you have together. One approach could be to start with a lighter, more casual conversation about how you’re feeling, maybe by sharing a small, specific concern and asking for their thoughts. How do you think your partner might respond if you shared something small and manageable first?",
-    "condition": "emotion_text_only",
-    "val_t": -0.23325157165527344,
-    "aro_t": 0.14291083812713623,
+    "val_t": -0.10251259803771973,
+    "aro_t": 0.14598727226257324,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I appreciate the suggestion, but I still worry that even a small concern might open a can of worms. It's hard because I don't want to ruin the good moments we have, and I fear that once I start talking about my feelings, it might spiral into a bigger conversation that neither of us is ready for. How can I be sure that they won't get overwhelmed or upset?",
-    "therapist": "I can hear how much you care about your relationship and how you’re trying to navigate this carefully. It’s totally understandable to worry about opening up and potentially causing more stress. One way to approach it might be to set a gentle and supportive tone, letting your partner know that you value your time together and are just looking to address a small concern to make things even better. How do you think your partner would respond if you framed the conversation in a positive and supportive way?",
+    "turn": 4,
+    "client": "I think the most important points would be to let them know how the mess affects my mental state and how it's making me feel stressed and overwhelmed. I also want to emphasize that I'm not blaming them, but I feel like we need to work together to find a solution. But I'm still nervous about how to bring it up in a way that won't make them feel attacked.",
+    "therapist": "It's great that you've thought through the key points you want to communicate. Expressing how the mess affects your mental state and emphasizing that you're looking for a collaborative solution is a very thoughtful approach. It's totally normal to feel nervous about bringing it up, but being clear and non-blaming can really help. What do you think might be a good time or setting to have this conversation with your partner?",
     "condition": "emotion_text_only",
-    "val_t": -0.20870530605316162,
-    "aro_t": 0.16462862491607666,
+    "val_t": -0.23903393745422363,
+    "aro_t": 0.18521463871002197,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I think a good time might be after dinner when we're both relaxed and not rushed. I just hope we can have a calm and open conversation without it escalating. It's hard because I want to make sure I'm not putting them on the defensive, but I also need to be honest about how I'm feeling.",
+    "therapist": "Choosing a relaxed time like after dinner is a wise decision. It can really set the tone for a more open and constructive conversation. It's completely understandable to want to avoid putting your partner on the defensive while still being honest about your feelings. What are some specific phrases or approaches you might use to ensure the conversation stays calm and focused on finding a solution together?",
+    "condition": "emotion_text_only",
+    "val_t": 0.025217175483703613,
+    "aro_t": 0.05506885051727295,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I think I could start by saying something like, \"I feel really overwhelmed by the mess in the apartment, and it's been affecting my mental health. I know it's not just your fault, and I really want us to find a way to work on this together.\" But I'm still a bit worried that they might not understand or take it personally.",
+    "therapist": "It's great that you've put thought into how you want to approach the conversation. Starting with how the mess affects your mental health and emphasizing a collaborative approach can really help set the right tone. It's natural to worry about how they might react, but being clear and non-blaming is a strong start. What are some ways you might reassure your partner during the conversation to help them understand that you're coming from a place of wanting to support each other?",
+    "condition": "emotion_text_only",
+    "val_t": -0.22559046745300293,
+    "aro_t": 0.2003345489501953,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate your suggestion, Luna. It makes sense in theory, but I worry that even bringing it up might make things worse. My partner can be really sensitive, and I just don’t want to risk creating more tension. It’s hard because I feel like I’m walking on eggshells all the time.",
-    "therapist": "I can understand how difficult it is to feel like you’re walking on eggshells, and it’s completely normal to worry about how your partner might react. It sounds like you’re trying to be very thoughtful and considerate. One approach could be to start with a small, non-confrontational comment or question, and see how they respond. This might give you a sense of how they’re feeling and whether they’re open to discussing things further. How do you think you might start such a conversation in a way that feels safe for both of you?",
+    "client": "I could say something like, \"I really value our relationship and I want us to be a team. I know we can figure this out together and make our home a place that feels good for both of us.\" But I'm still a bit nervous about how they'll take it, even with those reassurances. It's hard to shake the worry that it might still cause tension.",
+    "therapist": "It's completely understandable to feel nervous, even with those reassurances. Your words show a lot of care and a genuine desire to work together, which is really important. It's normal to worry about potential tension, but being open and supportive can go a long way. How do you think you might handle any initial defensive reactions from your partner to keep the conversation on track and positive?",
     "condition": "emotion_text_only",
-    "val_t": -0.1216421127319336,
-    "aro_t": 0.13493311405181885,
+    "val_t": -0.13785231113433838,
+    "aro_t": 0.14124798774719238,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It’s just hard because I feel like every time I bring something up, even if it’s small, it can spiral into a big argument. I worry that if I start with a small comment, it might still trigger a defensive reaction, and I end up feeling guilty and alone again. How can I make sure it doesn’t escalate?",
-    "therapist": "I can really understand how challenging it is to feel like small comments can spiral into bigger arguments, and it’s natural to worry about triggering a defensive reaction. It’s important to approach these conversations with care and empathy. One strategy could be to use \"I\" statements, focusing on your feelings and experiences rather than blaming or criticizing. For example, you might say, \"I feel overwhelmed when the apartment is messy, and I’d really appreciate it if we could work on this together.\" How do you think your partner might respond to that kind of approach?",
+    "client": "If they get defensive, I think I'll try to listen to their concerns and validate their feelings. I can say something like, \"I understand this is tough, and I really appreciate you sharing your thoughts. Let's see if we can find a solution that works for both of us.\" But it's still hard to imagine how the conversation will go, and I'm worried about saying the right things.",
+    "therapist": "It's really commendable that you're preparing to listen and validate your partner's feelings. Acknowledging their concerns and showing that you're willing to find a solution together can help keep the conversation positive and constructive. It's totally normal to feel worried about how the conversation will go, but you're already taking the right steps by thinking it through. What are some other ways you might prepare yourself emotionally before the conversation to help you stay calm and focused?",
     "condition": "emotion_text_only",
-    "val_t": -0.2264777421951294,
-    "aro_t": 0.18595421314239502,
+    "val_t": -0.12596511840820312,
+    "aro_t": 0.10097134113311768,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I see what you mean about using \"I\" statements, but I worry that it might still come off as me being too critical. It’s hard because I feel like I’ve tried to be gentle before, and it still ends up in an argument. I don’t want to make things worse by trying a new approach and having it backfire.",
-    "therapist": "I understand how frustrating it can be when even gentle approaches still lead to arguments, and it’s completely valid to worry about making things worse. It sounds like you’ve been trying your best to communicate in a way that doesn’t cause tension. One thing you might consider is validating your partner’s feelings and experiences when you bring up your concerns. For example, you could say, \"I know we both have a lot on our plates, and I really appreciate all the effort you put in. I’m feeling a bit overwhelmed with the mess, and I’d love to find a way to work on this together.\" This can help set a more collaborative tone. How do you think your partner might react to that kind of approach?",
+    "client": "I think it might help to do some deep breathing or mindfulness exercises before we talk. That way, I can stay calm and centered. I also want to remind myself that it's okay to feel nervous and that it's a sign I care about our relationship. But it's still hard to shake the worry that it might not go well, even with all the preparation.",
+    "therapist": "It's great that you're thinking about using deep breathing or mindfulness exercises to stay calm and centered. Those techniques can really help you approach the conversation with a clearer mind. It's completely natural to feel nervous, and recognizing that it's a sign of how much you care about your relationship is a positive step. What do you think might be a helpful way to reassure yourself if the worry starts to feel overwhelming, even with all your preparation?",
     "condition": "emotion_text_only",
-    "val_t": -0.26744866371154785,
-    "aro_t": 0.08787274360656738,
-    "text_emotion": "Sad"
+    "val_t": -0.06599545478820801,
+    "aro_t": 0.05885803699493408,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I'm not sure if it will change much. My partner often gets defensive no matter how I bring up the topic. It feels like they take everything personally, and I end up feeling guilty for even mentioning it. It's hard because I don't want to cause more tension, but I also can't keep ignoring my own feelings.",
-    "therapist": "I can really understand how difficult and frustrating this must be for you. It’s tough when you feel like your efforts to communicate are met with defensiveness, and it’s natural to feel stuck between not wanting to cause more tension and needing to address your own feelings. Have you had any conversations with your partner about how these interactions make you feel, or is there a way you might feel comfortable expressing your need for a more supportive dialogue?",
+    "client": "I think reminding myself that we've overcome other challenges together might help. It's just hard to shake the feeling that this could be different, and I worry that my anxiety might get the best of me during the conversation. I'll try to focus on the positive moments we've shared and how much we care about each other.",
+    "therapist": "It's really helpful to focus on the positive moments and the strength of your relationship, especially when you're feeling anxious. Reminding yourself of the challenges you've overcome together can be a great way to build confidence. It's totally normal to have some doubts, but your willingness to approach this with a positive mindset is a strong foundation. How do you think you might remind yourself of these positive moments during the conversation if you start to feel overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.2118436098098755,
-    "aro_t": 0.07822966575622559,
-    "text_emotion": "Sad"
+    "val_t": 0.1344456672668457,
+    "aro_t": 0.19063818454742432,
+    "text_emotion": "Excited"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really struggling lately with my new job at the marketing agency. I feel like I'm the only one who doesn't have any prior experience, and it's overwhelming. I keep worrying that I'm not meeting expectations and that my colleagues think I'm completely out of my depth. It's been really tough, and I'm not sure if therapy can even help with this.",
-    "therapist": "Hi there, I'm really glad you reached out. It sounds incredibly tough to feel like you're the only one without experience, and the worry about meeting expectations can be really overwhelming. How have you been coping with these feelings so far?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately with my new job at the marketing agency. It's tough because I'm the only one on the team without any prior experience, and I feel like I'm constantly falling behind. I know I should be able to handle it, but it's just so stressful. I'm not even sure if therapy can really help with this.",
+    "therapist": "I can really hear how overwhelming and isolating this must feel for you, especially being in a new role without prior experience. It’s completely understandable to feel stressed and unsure, but remember, therapy is a space where we can explore these feelings and find ways to manage them. How have you been coping with these feelings so far, and what do you think might help you feel more supported in your role?",
     "condition": "baseline",
-    "val_t": -0.3215630054473877,
-    "aro_t": 0.19886159896850586,
+    "val_t": -0.21730351448059082,
+    "aro_t": 0.19150221347808838,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for listening. It's been really tough. I've been trying to distract myself with work and keeping busy, but it feels like a band-aid solution. I can't help but feel like I'm falling behind everyone else, and it's hard to shake that feeling of inadequacy.",
-    "therapist": "It’s completely understandable to feel that way, especially when you’re in a new environment and comparing yourself to others. Keeping busy can be a way to manage those feelings, but it’s also important to address the underlying thoughts that are causing you distress. What are some of the specific thoughts that come up when you feel like you’re falling behind?",
+    "client": "I've been trying to stay late at work to catch up, but that just makes me feel even more exhausted. I've also been avoiding asking for help because I don't want to seem incompetent. I know I should reach out to my colleagues, but it's hard to open up and admit I'm struggling. It feels like everyone else has it all figured out.",
+    "therapist": "It sounds like you’re putting a lot of pressure on yourself to keep up, and the added exhaustion from staying late is really taking a toll. It’s natural to feel hesitant about asking for help, especially when you’re worried about how others perceive you. How do you think it would feel if you were to take a small step, like reaching out to a trusted colleague for a bit of guidance or support? What might be a small first step you could take?",
     "condition": "baseline",
-    "val_t": -0.06336104869842529,
-    "aro_t": 0.13431549072265625,
-    "text_emotion": "Neutral"
+    "val_t": -0.23736393451690674,
+    "aro_t": 0.057961225509643555,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I feel like I’m constantly playing catch-up, and it’s exhausting. I worry that everyone else has it all figured out, and I’m the only one who’s struggling. It’s hard to shake the thought that I’m not doing enough, even when I’m busy all the time.",
-    "therapist": "It sounds incredibly exhausting to feel like you're always playing catch-up, and it’s natural to worry when you see others seeming more confident. Those thoughts can really take a toll, especially when you’re already working hard. Can we explore some of the evidence that supports or challenges the idea that you’re not doing enough? What are some things you’ve accomplished or learned recently that might give you a different perspective?",
+    "client": "I appreciate your suggestion, Luna, but it's hard to imagine reaching out to someone. I feel like they'll just see me as a burden. Maybe I could start by just observing how my colleagues handle similar tasks and see if I can learn from them without directly asking for help. That feels a bit less intimidating.",
+    "therapist": "That’s a thoughtful and manageable approach to start with. Observing your colleagues can definitely provide valuable insights and help you build confidence. As you do this, pay attention to any moments where you notice yourself feeling ready to ask a more specific question or share a small challenge you’re facing. How do you think you’ll know when you’re ready to take that next step?",
     "condition": "baseline",
-    "val_t": -0.2411431074142456,
-    "aro_t": 0.19292449951171875,
-    "text_emotion": "Angry"
+    "val_t": -0.0154266357421875,
+    "aro_t": 0.07172834873199463,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I guess I can see why you're suggesting that, but it's hard because I feel like I’m always behind, and no matter what I do, it’s never enough. I mean, I’ve been trying to catch up on my projects at work, but I still feel like I’m not where I should be. It’s tough to see the accomplishments when I’m so focused on what I haven’t done yet.",
-    "therapist": "I can see how challenging it must be to feel like you’re always behind, and it’s completely understandable to feel that way when you’re in a new and demanding role. It’s important to acknowledge the effort you’re putting in and the progress you’ve made, even if it doesn’t feel like enough right now. What are some small wins or steps forward you’ve noticed, even if they seem minor? How might focusing on these help shift your perspective, even a little?",
+    "client": "I think I’ll know I’m ready when I feel a bit less overwhelmed and more confident in my abilities. Maybe when I’ve observed enough to have a specific, manageable question, it won’t feel so daunting to ask. But it’s still a big step, and I’m worried about how it will be received.",
+    "therapist": "It’s great to hear you have a sense of what might help you feel more ready to take that step. Recognizing when you have a specific, manageable question is a good indicator that you’re building your confidence. It’s natural to worry about how your questions will be received, but remember, your colleagues were likely in your shoes at some point. What might be a small, supportive interaction you could have with a colleague that could help ease your concerns and build your confidence further?",
     "condition": "baseline",
-    "val_t": -0.1429905891418457,
-    "aro_t": 0.06994521617889404,
-    "text_emotion": "Angry"
+    "val_t": -0.07796287536621094,
+    "aro_t": 0.1272890567779541,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I do feel like I’m making some progress, but it’s hard to see when I’m constantly comparing myself to others who seem to have it all figured out. I guess I’ve managed to complete a few tasks ahead of schedule and gotten some positive feedback, but it’s easy to dismiss those as small victories. I understand what you’re saying about focusing on the positives, but it’s hard when the negative thoughts are so persistent. How do I stop myself from getting swept up in them?",
-    "therapist": "It’s really commendable that you’re able to recognize some of your progress, even if it feels small. Comparing ourselves to others can be a tough habit to break, especially in a new and challenging environment. One strategy that might help is to start tracking your accomplishments and positive feedback in a journal or list. This can serve as a concrete reminder of your progress and make it harder for the negative thoughts to overshadow the positives. What do you think about trying this out? How might it feel to have a tangible record of your successes?",
+    "client": "I think a small interaction could be something like asking a colleague for feedback on a specific task or project I’m working on. That way, it’s not just me asking for help, but also showing that I value their input. But I still worry that they might think I’m not pulling my weight.",
+    "therapist": "That’s a really good strategy—seeking feedback shows initiative and a willingness to improve, which are valuable qualities. It’s normal to worry about how others perceive you, but remember that most colleagues appreciate when someone values their input and is open to learning. What might be a specific task or project you could start with, and how do you think you could frame the request for feedback to feel more comfortable?",
     "condition": "baseline",
-    "val_t": -0.06438314914703369,
-    "aro_t": 0.10833120346069336,
+    "val_t": -0.10637140274047852,
+    "aro_t": -0.029037117958068848,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the idea, but I'm not sure it will work for me. I tend to second-guess my accomplishments and feel like they're not really that significant. It's hard to see the positive when the negative thoughts are so strong. Plus, I worry that keeping a journal might just feel like another thing on my to-do list, adding to my stress rather than helping.",
-    "therapist": "I completely understand your concerns, and it’s totally valid to worry that it might feel like another task. It can be really tough to shift your focus when negative thoughts are so persistent. Maybe we could start with a simpler approach, like taking a moment each day to reflect on one small thing that went well or that you’re proud of, without writing it down. How does that feel? Could there be a way to make this reflection feel more manageable and less like a chore?",
+    "client": "I think I could start with a recent email campaign I’ve been working on. I could ask one of the more experienced team members to review it and give me some pointers. But it’s still a bit nerve-wracking to put my work out there for critique. I guess I just need to remind myself that everyone starts somewhere.",
+    "therapist": "That’s a great place to start, and I can see how much thought you’ve put into this. It’s completely normal to feel nervous about putting your work out there, but reminding yourself that everyone starts somewhere is a powerful perspective. How do you think you might prepare yourself mentally before reaching out, and what might be a positive outcome you can focus on to help ease those nerves?",
     "condition": "baseline",
-    "val_t": -0.21587085723876953,
-    "aro_t": 0.032363295555114746,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate that, Luna. It does feel a bit less daunting to just reflect without writing. But I still worry that even this small step might be hard to stick with, especially on days when I feel really low. I guess I’m just not sure how to make it a habit without it feeling forced or fake.",
-    "therapist": "I understand your concerns, and it’s totally normal to feel unsure about making it a habit, especially when you’re already feeling low. Starting small and being gentle with yourself is key. Maybe you could try reflecting on a positive moment at a time that feels natural, like right before bed or during a quiet moment in the evening. How might you make this reflection feel more natural and less forced? What small step could you take to make it feel more authentic and less like a chore?",
-    "condition": "baseline",
-    "val_t": -0.08930003643035889,
-    "aro_t": 0.05593526363372803,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate your suggestion, but it feels like one more thing I have to add to my list. I worry that even a small step will end up feeling forced and just add to my anxiety. It’s hard to find the motivation when I’m already struggling with feeling overwhelmed.",
-    "therapist": "I completely understand, and it’s totally valid to feel that way when you’re already overwhelmed. Adding another task, even a small one, can feel like too much. Maybe we could explore other ways to shift your focus without it feeling like an additional burden. How about taking a moment to practice some self-compassion, like saying a kind phrase to yourself or doing something that brings you a bit of comfort? What small act of kindness might feel doable for you right now?",
-    "condition": "baseline",
-    "val_t": -0.21882081031799316,
-    "aro_t": 0.24249422550201416,
+    "val_t": -0.12280058860778809,
+    "aro_t": 0.09060585498809814,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I appreciate your understanding, Luna. It’s just that even the thought of being kind to myself feels like one more thing I have to remember to do. I know it’s supposed to help, but it’s hard to find the energy or motivation when I’m already feeling so drained and alone.",
-    "therapist": "I hear you, and it’s completely understandable to feel drained and alone. It’s okay to not have the energy or motivation for self-compassion right now. Sometimes, just acknowledging how you feel and giving yourself permission to rest can be a form of self-care. What if we focused on finding a small, gentle way to give yourself a break, even if it’s just for a few minutes? What might feel like a small but meaningful way to take a pause and recharge?",
+    "turn": 7,
+    "client": "I think I could prepare myself by reminding myself that feedback is a chance to learn and grow, not a reflection of my worth. Focusing on the positive outcome, like improving my skills and building a better relationship with my colleague, might help ease my nerves. But it’s still a big step, and I’m not sure if I’m ready to take it just yet.",
+    "therapist": "It’s really commendable that you’re taking the time to prepare yourself mentally and focusing on the positive outcomes. Recognizing that feedback is a chance to learn and grow is a powerful mindset shift. It’s okay to take your time and build up to this step at your own pace. What might be a small action you can take today that feels manageable and helps you move a little closer to feeling ready?",
     "condition": "baseline",
-    "val_t": -0.1284579038619995,
-    "aro_t": 0.0767831802368164,
+    "val_t": 0.06506145000457764,
+    "aro_t": 0.14933240413665771,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I think a small action I could take today is to write down a list of specific questions or areas where I feel uncertain about the email campaign. That way, if I decide to reach out for feedback, I’ll be more prepared and focused. But it’s still a bit daunting, and I’m not sure if I’ll actually go through with it.",
+    "therapist": "Writing down those specific questions is a fantastic and concrete step to take. It shows you’re taking proactive control over the situation, which can be really empowering. It’s completely normal to feel daunted, but having a clear list can make the process feel more manageable. How do you think you might build on this list and what small steps could you take next to help you feel more prepared to reach out?",
+    "condition": "baseline",
+    "val_t": -0.06596517562866211,
+    "aro_t": 0.052817702293395996,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I feel a bit more prepared now that I have a list of specific questions. Maybe I can start by practicing how I would ask for feedback, either by writing out a message or even role-playing it in my head. But it’s still a big leap, and I’m not sure if I can follow through with actually sending the message.",
+    "therapist": "It’s great to hear that you feel a bit more prepared with your list of questions. Practicing how you would ask for feedback is a smart next step—it can really help you feel more confident and reduce anxiety. You might even try sending a draft of your message to yourself first to see how it feels. What do you think might help you take that final step to actually send the message, even if it’s just a small, supportive one?",
+    "condition": "baseline",
+    "val_t": 0.022522449493408203,
+    "aro_t": 0.09085142612457275,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It’s hard to even think about taking a break when I feel so overwhelmed all the time. I guess I could try to find a few minutes to do something small, but I’m not sure what would actually make a difference. It feels like no matter what I do, the anxiety and guilt just come right back.",
-    "therapist": "I understand how overwhelming it can feel, and it’s tough to think about taking a break when anxiety and guilt are so persistent. It’s okay to start with something very small that might feel doable, even if it’s just a brief moment of rest. Maybe it’s as simple as taking a few deep breaths, stepping outside for a quick walk, or listening to a favorite song. What small act might feel manageable and bring you a tiny bit of relief, even if just for a moment? How might this help you feel just a little bit lighter, even if only temporarily?",
+    "client": "I think what might help is if I set a small, achievable goal for myself, like sending the message by the end of the day. That way, I have a clear deadline to work towards, but it’s not too overwhelming. But I’m still worried about the response—I’m not sure if I can handle any negative feedback.",
+    "therapist": "Setting a small, achievable goal with a clear deadline is a great strategy to help you move forward without feeling too overwhelmed. It’s completely normal to worry about negative feedback, but remember that constructive feedback is an opportunity to grow and improve. How might you prepare yourself to handle any feedback, whether positive or constructive, in a way that feels supportive and growth-oriented?",
     "condition": "baseline",
-    "val_t": -0.18898606300354004,
-    "aro_t": 0.23077690601348877,
-    "text_emotion": "Angry"
+    "val_t": -0.08614373207092285,
+    "aro_t": 0.0948796272277832,
+    "text_emotion": "Neutral"
   }
 ]

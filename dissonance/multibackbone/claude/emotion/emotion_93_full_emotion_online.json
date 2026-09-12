@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately because my final exams are coming up next week and I just don't feel prepared at all. I've been working so many hours at my part-time job that by the time I get home, I'm completely drained and can't focus on studying. I don't know if talking about it is actually going to help me catch up on everything I've missed, but I figured I'd give this a shot.",
-    "therapist": "It sounds like you're carrying a really heavy load right now — balancing work exhaustion with the pressure of exams is genuinely tough, and it makes sense that you're feeling stretched thin. You're right that talking won't magically create more study hours, but it can help us figure out what's getting in the way and how to work with what you *do* have. What feels like the biggest obstacle right now — is it more about finding the time, or about being able to focus when you do sit down to study?",
+    "client": "I've been really struggling lately because my final exams are coming up next week and I honestly don't feel ready at all. I've been working so many hours at my part-time job just to cover my bills, and by the time I get home I'm too exhausted to even open a textbook. I'm not sure talking about it is actually going to change anything, because the problem is pretty concrete — I just don't have enough time.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — juggling work, exhaustion, and the pressure of exams all at once, and it makes complete sense that you'd feel stretched thin and even skeptical that talking could help. You're right that the time constraints are very real, and I don't want to dismiss that — but I'm curious whether alongside the practical crunch, there are also any thoughts or worries running in the background that might be adding to the weight of it all. What does that inner voice tend to say when you finally sit down and try to study?",
     "condition": "emotion_text_only",
-    "val_t": -0.14394044876098633,
-    "aro_t": 0.12286889553070068,
-    "text_emotion": "Angry"
+    "val_t": -0.3716229200363159,
+    "aro_t": 0.1466066837310791,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Honestly, it's both, but if I had to pick one, I'd say it's the focus thing. By the time I actually sit down to study after my shift, my brain just feels like static — I'll read the same paragraph four times and nothing sticks. And then I start panicking about how much time I've wasted just staring at the page, which makes it even harder to concentrate.",
-    "therapist": "That cycle you're describing — the brain fog leading to panic, which then makes the fog worse — is really common and incredibly frustrating, like being stuck in quicksand. From a CBT perspective, it's worth noticing that the panic itself is being fueled by a thought, something like *\"every wasted minute is a catastrophe,\"* which actually steals even more of your focus. What do you think would happen if you gave yourself permission to have a slow, unproductive first 10 minutes as a kind of warm-up, rather than treating it as lost time?",
+    "client": "Honestly, when I do manage to sit down with my notes, the first thing that pops into my head is something like \"you've already wasted too much time, there's no point now.\" It's like this voice that just writes me off before I've even started, and then I end up just staring at the page feeling paralyzed instead of actually studying. I guess I didn't really think about that part — I was so focused on blaming the schedule that I didn't notice how much that thought was also getting in the way.",
+    "therapist": "That's a really meaningful insight — noticing that voice that writes you off before you've even begun is actually a huge first step, and it takes courage to look at that honestly. In CBT, we'd call that an \"all-or-nothing\" thought — the idea that because you haven't studied *enough*, studying *at all* is pointless — but if a close friend came to you with only an hour to study, would you really tell them there's no point in trying? What do you think might shift if you could talk back to that voice, even just a little?",
     "condition": "emotion_text_only",
-    "val_t": -0.17836737632751465,
-    "aro_t": 0.1889054775238037,
+    "val_t": -0.2927159070968628,
+    "aro_t": 0.1865469217300415,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, and part of me gets it logically, but honestly my first reaction is that giving myself permission to be unproductive just feels like giving up. Like, if I tell myself those 10 minutes are okay to waste, won't that just become 20, then 30, and suddenly the whole morning is gone? I already feel so guilty when I'm not performing at full capacity, so I'm not sure how relaxing my standards is supposed to help rather than make things worse.",
-    "therapist": "That fear makes a lot of sense, and it's worth taking seriously rather than dismissing — but I'd gently invite you to look at the evidence, because right now the *strict* standard is already resulting in that whole morning disappearing into panic and static. The guilt you're feeling isn't actually pushing you forward; it sounds like it's become part of what's blocking you. So what would you say to a close friend who was in your exact situation — would you tell them to be harder on themselves, or would you see it differently?",
+    "client": "No, I'd never tell a friend that — I'd probably say even an hour is better than nothing and help them figure out what to focus on. But when it comes to myself, it just feels different, like the same logic doesn't apply for some reason. I hear what you're saying about talking back to that voice, but I'm honestly not sure I'd even believe myself if I tried — it feels like the voice would just come back louder and say \"yeah, but you're not your friend, you've actually let this go too far.\"",
+    "therapist": "It's so common to hold ourselves to a harsher standard than we'd ever apply to someone we care about, and the fact that you can already see that double standard is genuinely important progress. That comeback voice — \"yeah, but you've gone too far\" — is worth examining, because it's making a claim that we could actually test: is there real evidence that one focused hour of studying would make *zero* difference, or is that the voice asserting something as fact that isn't necessarily true? What's the smallest, most concrete thing you think you *could* cover in that hour that might chip away at that story a little?",
     "condition": "emotion_text_only",
-    "val_t": -0.2626913785934448,
-    "aro_t": 0.11432421207427979,
+    "val_t": -0.2080392837524414,
+    "aro_t": 0.21986401081085205,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and honestly, if a friend came to me with this I'd probably tell them to ease up on themselves. But it feels different when it's me — like I'm supposed to know better, or I have higher stakes somehow. And I'm not sure letting myself off the hook wouldn't just turn into an excuse to keep avoiding the work I actually need to do.",
-    "therapist": "It's really telling that you'd offer compassion to a friend but feel like you somehow don't deserve the same — that double standard is worth examining, because it suggests the harsh inner voice isn't actually based on logic, it's based on a belief that *you* need to be held to a different, harsher standard to function. And notice that \"easing up\" and \"making excuses to avoid work\" aren't the same thing — one is about managing your energy wisely, the other is about giving up entirely. What do you think that harsh inner voice is actually trying to protect you from?",
+    "client": "I guess if I had one hour I could probably go through my notes for one chapter and make a quick summary sheet — that's something concrete at least. But I'm already feeling this anxiety about which subject to even pick, like if I choose the wrong one I'll have wasted that hour too, and then the voice wins anyway. It's like even when I try to find a way forward, I can find a reason why it won't work out right.",
+    "therapist": "You just did something really important — you came up with a concrete, workable plan, and that's your own thinking, not mine. What I'm noticing is that the anxiety about choosing \"wrong\" is another version of the same voice, finding a new door to block you through, almost like it shifts its argument to stay one step ahead. What if \"wrong subject\" isn't actually a thing here — is there one chapter across any of your subjects that feels even slightly more familiar or manageable, where a summary sheet would feel like a small win rather than a gamble?",
     "condition": "emotion_text_only",
-    "val_t": -0.1094588041305542,
-    "aro_t": 0.11802113056182861,
+    "val_t": -0.21966123580932617,
+    "aro_t": 0.17212283611297607,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess... maybe it's trying to protect me from becoming someone who just stops trying altogether. Like, if I let myself off the hook even a little, I'm scared I'll just spiral into doing nothing and then I'll fall even further behind at work, and people will finally see that I'm not as capable as they think I am. But I hear what you're saying about the difference between managing energy and giving up — I'm just not sure I trust myself to know where that line is.",
-    "therapist": "What you just named — that fear of people finally seeing you're not as capable as they think — that's a really vulnerable and important thing to say out loud, and it sounds like a lot of this pressure is connected to that deeper fear rather than just the exams themselves. That belief, that there's a \"real you\" who isn't capable and could be exposed, is worth gently questioning, because it's likely been driving that harsh inner voice far longer than just this exam season. Where do you think that belief that you're somehow fooling people came from?",
+    "client": "Yeah, there's actually a chapter in my psychology course on memory and learning that I feel like I already half-know, so that one probably makes the most sense to start with. But I notice I'm still feeling this guilt about not picking the subject I'm most behind in, like choosing the easier one is somehow cheating or avoiding the real problem. I think part of me feels like I don't deserve the small win if I haven't tackled the hardest thing first.",
+    "therapist": "That guilt is really worth noticing — it's quietly telling you that you have to *earn* the right to succeed, that momentum and small wins don't count unless you've suffered first. But think about it this way: starting with something you half-know isn't avoiding the problem, it's actually building the confidence and energy you'll need to face the harder stuff — like warming up before a race rather than sprinting cold. What do you think might happen to that guilt if the psychology chapter actually goes well and you finish feeling capable rather than defeated?",
     "condition": "emotion_text_only",
-    "val_t": -0.2274763584136963,
-    "aro_t": 0.11712133884429932,
-    "text_emotion": "Angry"
+    "val_t": -0.289337158203125,
+    "aro_t": 0.0664680004119873,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I think it goes back pretty far, honestly — maybe to when I was a kid and my parents would brag about me to their friends, like I was this trophy, and I always felt like I had to live up to whatever version of me they were selling. I never really felt like the smart, capable person they described, I just got good at performing that role. And now it's like I've been performing it for so long that I don't even know if there's anything real underneath it.",
-    "therapist": "What you just shared takes real courage, and it's a profound insight — you've spent so long performing capability for others that you've lost touch with who you actually are underneath that role. But I want to gently offer this: the fact that you've kept going, worked a demanding job, shown up for your studies even while exhausted, and had the self-awareness just now to trace this all the way back to your childhood — that's not a performance, that's genuinely *you*. What do you think it might feel like to start separating your worth as a person from how well you perform?",
+    "client": "I think if it actually went well, maybe the guilt would quiet down a little — like I'd have some proof that I'm not totally hopeless, which would be hard to argue with even for that voice. But I'm also a little scared that it goes well and I still don't feel better, like the guilt just finds a new reason to stick around anyway. I guess I don't fully trust that one good study session would be enough to change how I've been feeling about myself through all of this.",
+    "therapist": "That fear makes a lot of sense — you're not just dealing with one exam, you're carrying a longer story about yourself that one study session probably won't rewrite overnight, and it's honest and self-aware to recognize that. But I'd gently offer this: the goal of that hour isn't to cure everything, it's just to gather one small piece of evidence that challenges the voice — and even if the guilt tries to move the goalposts, you'd still *know* that you did the thing you said you couldn't do. What do you think it would mean for you, not for the exams, but for *you*, to prove to yourself even once that the voice was wrong?",
     "condition": "emotion_text_only",
-    "val_t": 0.056668877601623535,
-    "aro_t": 0.23225939273834229,
-    "text_emotion": "Tense"
+    "val_t": -0.308335542678833,
+    "aro_t": 0.12093043327331543,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it just feels... abstract. Like, intellectually I can nod along, but when I'm actually at work or turning in an assignment, my worth and my performance feel completely fused together — I don't even know where one ends and the other begins. How do you actually separate those things in real life, not just as a concept?",
-    "therapist": "That's such an honest and grounding question, and you're right that the concept alone doesn't change anything — the real work happens in those specific moments when the fusion feels total. One place to start is by noticing, even just as an observer, when your performance goes well: is it because *you* are worthy, or because you *performed* well — and then asking whether a bad result would actually change who you fundamentally are, or just how one thing went. It's a small, quiet practice rather than a sudden shift, but over time those moments of noticing can start to create just a little space between the two. Can you think of a recent moment — maybe something small — where you did something that felt meaningful or real, separate from how well it was received by others?",
+    "client": "Honestly, I think it would mean a lot — like maybe I'm not as far gone as I've been telling myself, and that I have some control over this situation even when everything feels chaotic. It's a strange thing to sit with because I'm so used to that voice being right, or at least unchallenged, that proving it wrong even once feels almost... unfamiliar, like I wouldn't quite know what to do with that feeling. I think part of me is also scared that if I let myself believe I'm capable, and then I still fail the exam, it'll hurt so much more than if I just expected the worst from the start.",
+    "therapist": "What you just described — protecting yourself from disappointment by expecting the worst — is actually a really understandable strategy, but it comes at a huge cost, because you're pre-paying the pain of failure even when you haven't failed yet. That unfamiliar feeling you mentioned, of maybe being capable, isn't a trap — it's actually what it feels like when a long-held belief starts to loosen its grip, and that's not dangerous, even if it feels strange. I'm curious: if believing in yourself and then failing still hurts less than never trying at all, what would that tell you about which approach is actually protecting you?",
     "condition": "emotion_text_only",
-    "val_t": 0.030798912048339844,
-    "aro_t": 0.15155363082885742,
-    "text_emotion": "Tense"
+    "val_t": -0.2520941495895386,
+    "aro_t": 0.2106165885925293,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I mean... there was this moment last week where I was helping my younger cousin with something she was struggling with, and I wasn't thinking about whether I was doing it right or impressing anyone. It just felt like I was actually present, actually useful in a real way. But then afterward I started second-guessing whether I'd given her the right advice, and the whole feeling kind of collapsed into this familiar worry that I'd somehow messed it up.",
-    "therapist": "That moment with your cousin is really significant — before the self-doubt rushed in, you had a genuine glimpse of yourself as someone present, caring, and real, completely outside of performance. Notice that the help you gave didn't change when you started worrying afterward; your cousin's experience of you in that moment was still real, even if your inner critic tried to take it back. What do you think it would take to let that original feeling count as evidence about who you are, rather than letting the second-guessing have the final word?",
+    "client": "That's a really uncomfortable question because I think I know the answer — that expecting the worst isn't actually protecting me, it's just making me miserable in advance while also making it less likely I'll even try. But knowing that logically and actually feeling safe enough to believe in myself are two really different things, and I'm not sure how to close that gap. I guess I'm wondering if this is something that just takes time and practice, or if I'm always going to have to fight this hard against my own head just to open a textbook.",
+    "therapist": "You've just articulated something really profound — that the gap between knowing and *feeling* is real, and it's not a sign that you're broken or that this will always be this hard. The honest answer is that yes, it does take practice, but what you've done in just this conversation — catching the voice, questioning it, finding evidence against it — that *is* the practice, and it gets more familiar over time, even if it never becomes completely effortless. I want to ask you gently: considering everything you've uncovered today about how that voice works, what feels like one thing you could carry with you into that psychology study session that might help you meet the voice with just a little more skepticism than before?",
     "condition": "emotion_text_only",
-    "val_t": -0.28153133392333984,
-    "aro_t": 0.17660605907440186,
+    "val_t": -0.21833467483520508,
+    "aro_t": 0.15066134929656982,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe it, but the second-guessing feels so automatic that it's like it gets there before I even have a chance to hold onto the good feeling. It's like the doubt is louder and faster than anything else. I guess I'm not sure I trust myself to decide what counts as evidence about who I am, because my inner critic always seems to have a pretty convincing counter-argument ready.",
-    "therapist": "That automatic speed of the inner critic is really important to name — it's had years and years of practice, so of course it feels faster and louder than a newer, kinder voice that's only just beginning to find its footing. The good news from a CBT perspective is that you don't have to *out-argue* the critic or decide once and for all what counts as evidence — you just have to practice pausing long enough to notice that it's happening, like catching yourself mid-spiral rather than stopping it entirely. What do you think it might look like to treat that moment with your cousin not as something you need to defend against your inner critic, but simply as one small piece of data you're allowed to hold onto?",
+    "client": "I think the one thing I could try to hold onto is that question you asked — whether I'd say \"there's no point\" to a friend — because that one actually got through to me in a way that felt hard to dismiss. When the voice shows up while I'm studying, maybe I can try to notice it and ask myself if I'd say that to someone I care about, instead of just accepting it as true. I'm still not fully confident it'll work in the moment, but I think it's at least something concrete enough that I might actually remember to use it.",
+    "therapist": "It's really moving to hear you land on something that feels genuinely usable — you came in today feeling like talking couldn't change anything concrete, and you're leaving with a real tool that you discovered through your own thinking, not just something I handed you. That question — \"would I say this to a friend?\" — is yours now, and every time you use it, you're not just studying more effectively, you're slowly building a different kind of relationship with yourself. How are you feeling as we close today, compared to when you first came in?",
     "condition": "emotion_text_only",
-    "val_t": -0.06768417358398438,
-    "aro_t": 0.2116180658340454,
-    "text_emotion": "Tense"
+    "val_t": 0.0006967782974243164,
+    "aro_t": 0.0806727409362793,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to hold onto that moment with my cousin as something good, but then my brain immediately goes \"yeah, but that was just one time, it doesn't really mean anything.\" Like, I can see the logic of what you're describing, but actually doing it in the moment feels really different from understanding it here in this room. How do I stop the critic from just immediately swallowing up that small piece of data before I even get a chance to look at it?",
-    "therapist": "That \"just one time\" move your critic makes is actually a really revealing pattern — it's a rule your inner critic invented, that single moments don't count, but you've never really chosen to agree to that rule, it just snuck in. One small but concrete practice is to literally write down moments like the one with your cousin, not to argue with the critic, but to build a physical record that exists *outside* your head where the critic can't immediately erase it. Over time, that list becomes harder to dismiss than a feeling — does that feel like something you could actually try this week, even just with one or two small moments?",
+    "client": "Honestly, I came in pretty convinced this would just be me venting into a void, so I'm a little surprised that I actually feel slightly lighter than when I started. I still have all the same problems — the job, the exhaustion, the exams next week — but something about naming that voice and having a way to talk back to it makes it feel a little less like the whole situation is completely out of my hands. I'm still nervous about the week ahead, but I think that's okay — I just didn't expect to walk away with something that actually feels like mine.",
+    "therapist": "What you just described - walking in skeptical and leaving with something that feels genuinely yours - that's not a small thing, and you should let yourself feel good about that. The nervousness about the week ahead is completely okay, even healthy, and it's very different from that paralyzed feeling you described at the start — you're still facing the same mountain, but you're facing it rather than being flattened by it. Be gentle with yourself this week, use your question, and I hope you'll come back and tell me how that psychology chapter went.",
     "condition": "emotion_text_only",
-    "val_t": -0.1115422248840332,
-    "aro_t": 0.21560990810394287,
-    "text_emotion": "Angry"
+    "val_t": -0.06281518936157227,
+    "aro_t": 0.15686094760894775,
+    "text_emotion": "Tense"
   }
 ]

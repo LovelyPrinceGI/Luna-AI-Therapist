@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really anxious lately about the family reunion coming up next month. My heart starts racing just thinking about it, especially after what happened with my cousin last year. I don't know if therapy can really help with this, but I'm trying to be open to it.",
-    "therapist": "Hi there, it sounds like the upcoming family reunion is bringing up a lot of anxiety for you, especially with the memory of last year's events. It's completely understandable to feel this way, and it's great that you're open to exploring how therapy can support you. Can you tell me more about what specifically triggers your anxiety when you think about the reunion?",
+    "client": "Hey Luna, I’ve been really anxious lately about the family reunion coming up next month. My heart races every time I think about it, especially after the fallout with my cousin last year. I don’t know if therapy can really help me with this, but I’m trying to be open.",
+    "therapist": "Hi there, it sounds like the upcoming family reunion is causing you a lot of anxiety, especially with the history of last year's fallout. It’s completely understandable to feel this way. Can you tell me more about what specifically triggers your anxiety when you think about the reunion?",
     "condition": "emotion_text_only",
-    "val_t": 0.04012346267700195,
-    "aro_t": 0.24171769618988037,
+    "val_t": -0.02651524543762207,
+    "aro_t": 0.18979835510253906,
     "text_emotion": "Tense"
   },
   {
     "turn": 2,
-    "client": "Yeah, the thought of seeing everyone again just brings back all the tension and awkwardness from last year. I keep worrying that old conflicts will resurface, and I feel like I won't be able to handle it. It's like I'm reliving those moments in my head, and it's really hard to shake off.",
-    "therapist": "It sounds like the anticipation of the reunion is bringing up a lot of unresolved feelings and worries about past conflicts. It's natural to feel anxious when you're reliving those tense moments in your mind. Have you noticed any specific thoughts or beliefs that come up when you think about these conflicts, and how they might be affecting your current feelings?",
+    "client": "I think a lot of it is the fear of running into my cousin and having an awkward or confrontational situation. I also worry about how everyone else will react to the tension. It feels like I’m the one who has to fix everything, and that’s really overwhelming.",
+    "therapist": "It’s natural to feel overwhelmed by the fear of awkward or confrontational situations, especially when there’s a history of tension. It sounds like you’re carrying a lot of the weight of fixing things, which can be really exhausting. How do you think you might start to shift some of that burden or find ways to manage your anxiety leading up to the reunion?",
     "condition": "emotion_text_only",
-    "val_t": -0.20861971378326416,
-    "aro_t": 0.1889404058456421,
+    "val_t": -0.21234118938446045,
+    "aro_t": 0.2646254301071167,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, I keep thinking that everyone will remember the last time we all met and how things went so badly. It feels like I did something unforgivable, and I’m worried they’ll hold it against me. I know I should just let it go, but it’s hard when those memories keep coming back.",
-    "therapist": "It sounds like you're carrying a lot of guilt and worry about how others perceive you, and those memories are really weighing on you. It’s understandable to feel this way, especially when past conflicts feel unresolved. What do you think would be the first step in addressing these feelings and moving forward?",
+    "client": "I don’t think it’s easy to shift that burden, Luna. It feels like everyone expects me to make things right, and I’m not sure how to do that without making myself even more anxious. Setting boundaries sounds good in theory, but in practice, it’s really hard because I don’t want to upset anyone further.",
+    "therapist": "I can hear how challenging it is to feel like you’re the one who has to make everything right, and it’s completely understandable to worry about upsetting others. Setting boundaries can indeed be difficult, but it’s an important step in managing your own well-being. What do you think might be a small step you could take to start setting those boundaries, even if it’s just for yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.3359801769256592,
-    "aro_t": 0.11260604858398438,
-    "text_emotion": "Sad"
+    "val_t": -0.24018704891204834,
+    "aro_t": 0.12933790683746338,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess the first step would be to try to talk to some of the people I've had conflicts with, but that feels really daunting. I worry they won't want to hear from me or that it will just stir up more trouble. It's hard to know where to start or if it's even worth it.",
-    "therapist": "It’s completely understandable to feel daunted by the idea of reaching out, especially when there's a fear of rejection or stirring up more trouble. Taking that first step can be really challenging, but it’s a brave and important one. What do you think might make it a little easier to start that conversation, even if it’s just a small step?",
+    "client": "I guess a small step could be telling my family that I need some space if things get too intense. But it’s hard because I worry they’ll see it as me avoiding the problem. I don’t want to be seen as the one who can’t handle it, you know?",
+    "therapist": "It’s completely understandable to worry about how your family might perceive your need for space. Taking that step, even a small one, can be a powerful way to prioritize your well-being. How do you think you could frame this need for space in a way that helps them understand it’s about managing your anxiety, rather than avoiding the problem?",
     "condition": "emotion_text_only",
-    "val_t": -0.23884940147399902,
-    "aro_t": 0.08987963199615479,
+    "val_t": -0.21863126754760742,
+    "aro_t": 0.046349406242370605,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard to imagine what that small step could be. I keep thinking about all the ways it could go wrong, and that makes me freeze up. How can I get past that fear and actually start the conversation?",
-    "therapist": "It’s completely normal to feel stuck when you’re worried about all the possible negative outcomes. One way to start might be by focusing on a small, manageable action, like sending a brief, heartfelt message to one person you feel most comfortable with. What do you think might be the simplest way to reach out and express your desire to connect or make amends?",
+    "client": "I could try explaining that I need some time to myself to manage my anxiety, and that it’s not about avoiding the problem but about taking care of my mental health. But it’s still a bit scary to think about how they’ll react. I guess I’m just worried about being misunderstood or judged.",
+    "therapist": "It’s really brave to consider explaining your need for space and self-care, even when it feels scary. It’s natural to worry about being misunderstood or judged, especially by family. How do you think you might prepare yourself for their reactions, or what support can you seek to help you through this conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.07922649383544922,
-    "aro_t": 0.20239591598510742,
-    "text_emotion": "Tense"
+    "val_t": -0.2653597593307495,
+    "aro_t": 0.14604127407073975,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate the suggestion, but it feels really daunting to even send a short message. I worry a lot about what they might think or how they'll react. It's hard because I feel like I've been so absent, and now reaching out might just make things worse.",
-    "therapist": "I can really understand how daunting it feels to reach out, especially after a period of absence. It’s natural to worry about how they might react, and those fears can be really paralyzing. It might help to start by writing down your thoughts and feelings in a letter, even if you don’t send it right away. This can be a way to gather your thoughts and express yourself more clearly. What do you think about trying that as a first step?",
+    "client": "I think I could talk to a close friend or maybe even write down what I want to say beforehand to help me feel more prepared. It’s just hard because I want them to understand, but I also know they might not react the way I hope. I guess I’m just trying to find a way to communicate without making things worse.",
+    "therapist": "It’s great that you’re thinking about talking to a close friend or writing down your thoughts to help you feel more prepared. That can really make a difference. It’s understandable to worry about how your family will react, but preparing in advance can help you feel more confident in your communication. What do you think might be the most important points you want to convey to them, to help them understand your perspective?",
     "condition": "emotion_text_only",
-    "val_t": -0.21914875507354736,
-    "aro_t": 0.11710953712463379,
-    "text_emotion": "Angry"
+    "val_t": -0.10809922218322754,
+    "aro_t": 0.06104397773742676,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate the suggestion, but writing a letter feels like a big step. I worry that it might come across as too intense or that it could make things more awkward. It's hard because I don't want to push them away, but I also feel like I need to express myself somehow.",
-    "therapist": "I understand that writing a letter can feel like a big step, and you’re worried about how it might be received. It’s important to find a way to express yourself that feels right for you and doesn’t feel overwhelming. Perhaps starting with a very brief, casual message could be a gentler way to reconnect. What do you think about sending a simple, friendly message to check in and see how they’re doing? It doesn’t have to be about the past conflicts right away.",
+    "client": "I think the most important points are that I’m dealing with a lot of anxiety and that I need some space to manage it. I want them to know it’s not about avoiding the problem, but about taking care of myself. I just hope they can see it from my perspective and be supportive.",
+    "therapist": "It sounds like you’ve identified some key points that are really important for you to communicate. Acknowledging your anxiety and the need for space to manage it, while also making it clear that you’re not avoiding the problem, can help your family understand where you’re coming from. How do you think you might start the conversation to set the tone for a supportive and understanding exchange?",
     "condition": "emotion_text_only",
-    "val_t": 0.04310119152069092,
-    "aro_t": 0.16825497150421143,
-    "text_emotion": "Tense"
+    "val_t": 0.002354741096496582,
+    "aro_t": 0.07702767848968506,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I see what you mean about starting small, but I still feel really anxious about it. I worry that even a simple message might bring up all the old issues and make things worse. It's hard to predict how they'll react, and that uncertainty is really tough for me to handle.",
-    "therapist": "I can really understand how anxious and uncertain you’re feeling about reaching out, even with a simple message. It’s completely normal to worry about how things might go, especially when there’s a history of conflict. It might help to focus on the intention behind your message—showing that you care and are willing to connect in a positive way. What do you think might be a small, manageable step that feels a bit less overwhelming?",
+    "client": "I think I could start by expressing my appreciation for their support and then gently bringing up my anxiety. Maybe something like, \"I really value our family time, but I’ve been feeling really anxious about the reunion, and I need to talk about it.\" I just hope they’ll be open to listening without immediately jumping to solutions or dismissing my feelings.",
+    "therapist": "That’s a thoughtful and considerate way to start the conversation. Expressing your appreciation and then gently bringing up your anxiety can set a positive and open tone. It’s natural to hope they’ll listen without jumping to solutions or dismissing your feelings. How do you think you might continue the conversation to ensure they understand the importance of your need for space and support?",
     "condition": "emotion_text_only",
-    "val_t": -0.2964470386505127,
-    "aro_t": 0.16677021980285645,
-    "text_emotion": "Angry"
+    "val_t": -0.0324552059173584,
+    "aro_t": 0.116982102394104,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just really hard to put myself out there again, especially after the last time things didn't go well. I guess I could try sending a short, simple message, but I'm worried it might just lead to more tension or misunderstanding. How do I make sure I don't end up feeling worse?",
-    "therapist": "I completely understand how challenging it is to put yourself out there again, especially when past experiences have been difficult. It’s natural to worry about causing more tension or misunderstanding. One way to approach it is to keep your message very brief and neutral, focusing on a positive note or a common interest. This can help reduce the risk of misunderstanding. What do you think about starting with something like, “Hey, just wanted to check in and see how you’ve been doing”? It’s a gentle way to reconnect without bringing up the past right away.",
+    "client": "I could explain that taking space is a way for me to manage my anxiety and be more present when I am with them. I’ll need to be clear that it’s not about avoiding the problem, but about taking care of myself so I can be a better part of the family. It’s still a bit nerve-wracking, but I think it’s important to be honest.",
+    "therapist": "It’s really courageous of you to plan on being honest and clear about your needs. Explaining that taking space is a way to manage your anxiety and be more present is a great approach. It’s normal to feel a bit nerve-wracking, but you’re taking important steps to take care of yourself. What do you think might be the first thing you’ll say to set the tone for the conversation and ensure they understand your perspective?",
     "condition": "emotion_text_only",
-    "val_t": -0.1908705234527588,
-    "aro_t": 0.1352018117904663,
-    "text_emotion": "Angry"
+    "val_t": -0.015827417373657227,
+    "aro_t": 0.043776750564575195,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I'm still really hesitant. It feels like every time I try to reach out, things just get more complicated. I worry that even a simple message like that could be misinterpreted or make things worse.",
-    "therapist": "I can really understand your hesitation and the worry that reaching out might complicate things further. It’s totally valid to feel that way, especially given past experiences. It might help to take a moment to reflect on what you hope to achieve by reaching out, even in a small way. What’s the best possible outcome you can imagine from sending a simple, friendly message? This can sometimes help balance out the fears and make the step feel a bit more manageable.",
+    "client": "I think the first thing I’ll say is, \"I really value our family relationships, and I want to be fully present at the reunion, but I’m feeling a lot of anxiety about it.\" That way, I can set the tone for a supportive and understanding conversation right from the start. It’s still a bit scary, but I feel like it’s a necessary step.",
+    "therapist": "That’s a great way to start the conversation. By expressing your value for family relationships and your desire to be fully present, you’re setting a positive and open tone. It’s completely normal to feel a bit scared, but you’re taking a significant step towards managing your anxiety and fostering understanding. How do you think you might continue the conversation to share more about what you need from them to feel supported?",
     "condition": "emotion_text_only",
-    "val_t": -0.19895505905151367,
-    "aro_t": 0.06091964244842529,
-    "text_emotion": "Sad"
+    "val_t": 0.04940617084503174,
+    "aro_t": 0.18244266510009766,
+    "text_emotion": "Tense"
   }
 ]

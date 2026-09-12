@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I started this new job at the tech startup — the pace is just relentless and I feel like I'm drowning most days. Last week I missed a really important deadline, and I can't stop replaying it in my head, like it's on a loop. I'm not even sure talking about it is going to change anything, because the pressure is still there waiting for me when I leave this office.",
-    "therapist": "It sounds like you're carrying a really heavy load right now — the relentless pace, the missed deadline replaying in your mind, and even some doubt about whether this conversation can help. That last part is worth gently noticing, because that thought — *\"talking won't change anything\"* — might itself be worth exploring, since it could be making it harder to find any relief. When you imagine leaving here today and facing that pressure again, what's the specific thought that feels most stuck or most painful?",
+    "client": "I've been really stressed out lately because of my new job at this tech startup — it's like everyone expects you to just know everything and move at a hundred miles an hour from day one. Last week I missed an important deadline, and I can't stop replaying it in my head, wondering what my manager and teammates think of me now. I'm not even sure talking about it is going to change anything, honestly, but I figured I'd give this a shot.",
+    "therapist": "It sounds like you're carrying a lot of pressure right now — the fast pace of a new job combined with that one missed deadline has your mind stuck in a loop of \"what do they think of me?\", which is really exhausting. I'm glad you decided to give this a shot, and I want you to know that the doubt you're feeling about whether talking helps is completely normal, especially when you're already stretched thin. When you replay that missed deadline, what's the specific thought that tends to hit you the hardest?",
     "condition": "emotion_text_only",
-    "val_t": -0.29295575618743896,
-    "aro_t": 0.20707178115844727,
+    "val_t": -0.15114402770996094,
+    "aro_t": 0.19534683227539062,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the thought that keeps coming back is something like \"I'm falling behind and I'm never going to catch up, and everyone can see it.\" It's like I'm constantly waiting for someone to call me out, to say I don't actually belong in this role. And the worst part is, even when I do get something done, it doesn't really feel like relief — it just feels like I bought myself a little more time before the next failure.",
-    "therapist": "What you're describing — this sense that even your wins just delay the next failure — sounds exhausting and relentless, like there's no safe ground to stand on. That pattern has a name in CBT: it's often called \"impostor thinking,\" where your mind discounts evidence of your competence and keeps moving the goalposts. I'm curious — if a colleague came to you and described making the same mistake you made last week, what would you actually think about *them* and their belonging in the role?",
+    "client": "The thought that hits hardest is probably something like, \"They're going to realize I don't actually belong here.\" It's like I already felt like I was barely keeping up, and now I've given them actual proof that I can't handle it. And the worst part is I keep imagining them talking about me in some Slack channel I'm not in, just confirming what they already suspected.",
+    "therapist": "That thought — \"I don't actually belong here\" — is such a painful one to carry, and it makes sense that one missed deadline feels like it's become \"proof\" of something you were already afraid of. What you're describing is something we call in CBT **mind-reading**, where your brain fills in the gaps with the most threatening story possible, like imagining that Slack channel, even without any real evidence it exists. I'm curious — if you try to step back for a moment, what's the actual concrete evidence you have that your manager and teammates see you as someone who doesn't belong?",
     "condition": "emotion_text_only",
-    "val_t": -0.286556601524353,
-    "aro_t": 0.14440476894378662,
+    "val_t": -0.3023720979690552,
+    "aro_t": 0.19310879707336426,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Honestly, if a colleague made the same mistake I did, I'd probably think it was just a normal slip-up and that it doesn't define their whole ability to do the job. But when I try to apply that same logic to myself, it just... doesn't land the same way, like there's this wall that stops me from believing it. I know what you're getting at with the double standard, and part of me can see it intellectually, but it still feels like my situation is somehow different, like the rules don't apply to me the same way.",
-    "therapist": "It's really significant that you can see the double standard clearly — that awareness is genuinely important, even if it doesn't feel like enough yet. That wall you're describing, the sense that the rules somehow don't apply to you, is worth getting curious about — because it's doing a lot of work to keep that harsh self-judgment in place. What do you think that wall is protecting you from, if you *did* let yourself be treated with the same fairness you'd extend to a colleague?",
+    "client": "Honestly, when you put it that way, I can't point to anything concrete — nobody's said anything negative to me directly, and my manager actually sent me a message saying we'd figure out the timeline together. But it doesn't really make me feel better, because I keep thinking maybe they're just being polite or professional about it, and the real judgment is happening behind the scenes. I get what you're saying about mind-reading, but it feels less like a thinking error and more like... a reasonable thing to worry about in a competitive environment like this.",
+    "therapist": "It's really meaningful that you can see the evidence doesn't support the fear — and your manager's message is genuinely significant, not nothing. You're right that startups *are* competitive, and it's not irrational to be aware of that, but I want to gently point out that your mind is doing something clever here: it's finding a way to dismiss the reassuring evidence (\"they're just being polite\") while treating the threatening story as the more *realistic* one, even though that story has no evidence at all. What do you think it would take for a piece of evidence to actually feel believable to you — is there anything your manager or teammates could do or say that your mind *wouldn't* find a way to discount?",
     "condition": "emotion_text_only",
-    "val_t": -0.2114558219909668,
-    "aro_t": 0.11500668525695801,
-    "text_emotion": "Angry"
+    "val_t": -0.09246575832366943,
+    "aro_t": 0.07037842273712158,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I've been sitting with that question and honestly my first reaction is... fear, I think. Like if I stop being so hard on myself, maybe I'll just stop trying altogether, or I'll miss something important that I should be catching and fixing. It's almost like the harsh voice is the only thing keeping me accountable, and without it I'm not sure I can trust myself.",
-    "therapist": "That fear makes a lot of sense — it's like your inner critic has taken on the role of a safety system, and letting it go feels genuinely risky, not just uncomfortable. But it's worth gently questioning the assumption underneath it: is there any real evidence from your life that self-compassion leads to carelessness, or might it actually be that the harsh voice is *draining* the energy you need to perform well? What would \"healthy accountability\" — the kind that motivates without punishing — even look like to you?",
+    "client": "That question kind of stops me in my tracks, because honestly... I'm not sure there is anything. Like, even if my manager sat me down and said \"you're doing great, we're glad you're here,\" I think part of me would still find a reason to doubt it. That's kind of a scary thing to realize, because it means the problem might not actually be about the job at all.",
+    "therapist": "That's a really courageous and honest realization — noticing that no external reassurance seems to be enough is actually a huge insight, and it points to something deeper than just job stress. It sounds like there's a part of you that holds a belief about yourself that feels true regardless of what the evidence says, almost like the \"I don't belong here\" thought has roots that go beyond this job. What does that feel like to sit with — and does this sense of not quite belonging feel familiar to you from other parts of your life?",
     "condition": "emotion_text_only",
-    "val_t": -0.35785388946533203,
-    "aro_t": 0.2687569856643677,
+    "val_t": -0.18171489238739014,
+    "aro_t": 0.1692204475402832,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and honestly, part of me wants to agree with it. But when I try to imagine being gentler with myself after I mess something up at work, I just feel this panic like... if I let myself off the hook even a little, I'll stop caring altogether. I don't actually have solid proof that's true, but the fear feels so real that it's hard to separate it from fact.",
-    "therapist": "You've just done something really important — you noticed that the fear feels real *and* that it isn't the same as being true, and that distinction is exactly where change becomes possible. That panic is your mind treating a story (\"I'll stop caring\") as a fact, when really it's a prediction that's never actually been tested. What might it look like to run a small, safe experiment — just once, after a minor slip-up — where you respond to yourself with a little more kindness and see what actually happens to your motivation?",
+    "client": "Yeah, it does feel familiar — honestly it's kind of been a background hum for most of my life, like I'm always waiting for people to figure out that I'm not as capable or together as they think I am. I felt it in college, I've felt it with friend groups, and now it's showing up here too. Sitting with that is uncomfortable, because it makes this feel a lot bigger and harder to fix than just \"I missed a deadline at work.\"",
+    "therapist": "What you're describing has a name — it's often called **impostor syndrome**, and the fact that it's shown up so consistently across different areas of your life tells us this is a deeply held core belief about yourself, not a reflection of reality. I want to acknowledge that recognizing this can feel heavy, like the ground shifted a little, but it's actually one of the most important things we could uncover — because once we can see the belief clearly, we can start to gently examine where it came from and whether it's actually true. When you think back, where do you first remember feeling that hum of \"people are going to find out I'm not enough\" — is there an earlier time in your life where that feeling really took hold?",
     "condition": "emotion_text_only",
-    "val_t": -0.26609110832214355,
-    "aro_t": 0.2519204616546631,
+    "val_t": -0.18755567073822021,
+    "aro_t": 0.17294156551361084,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and part of me gets it intellectually, but honestly the idea of being kind to myself after a slip-up just feels... wrong, like I'd be letting myself off the hook too easily. Like, what if that one time I go easy on myself actually does make me care less, and then I've proven my own fear right? I guess I'm willing to try it, but I'm already dreading the guilt I'll feel for even attempting it.",
-    "therapist": "There's something quietly courageous in what you just said — you're willing to try even while dreading it, and that matters. It's also worth noticing that you're already anticipating guilt *for attempting self-compassion*, which suggests the inner critic is working overtime to protect its own job! What if the goal of the experiment isn't to feel good about the slip-up, but simply to respond to yourself the way you'd respond to that colleague — not letting yourself off the hook, just treating yourself as equally human?",
+    "client": "I think it probably goes back to when I was a kid — my parents had really high expectations, and praise was kind of rare, so I learned pretty early that doing well was just the baseline and messing up was what got noticed. I remember getting a B on a test in like fifth grade and feeling genuinely ashamed, like I'd let everyone down over one grade. I guess I'm a little hesitant to dig into all of that though, because it feels like opening a door I'm not sure I'm ready for, and I'm also not totally convinced that understanding where it came from will actually make the feeling go away.",
+    "therapist": "That memory of the B on the test is so telling — you learned early that love and safety felt conditional on performance, and it makes complete sense that a belief like \"I'm never quite enough\" took root in that environment. Your hesitation about opening that door is completely valid, and I want you to know we never have to move faster than feels okay for you — and you're actually raising a really important point, because the goal isn't just *understanding* where it came from, but gradually learning to challenge and loosen the grip that belief has on you today. Can you tell me a little more about what feels scary about opening that door — is it more about what you might find, or more about not knowing how to handle it once it's open?",
     "condition": "emotion_text_only",
-    "val_t": -0.26186251640319824,
-    "aro_t": 0.18097364902496338,
+    "val_t": -0.20725739002227783,
+    "aro_t": 0.15372180938720703,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and the \"equally human\" framing actually lands a little differently than I expected. But I think my worry is that if I treat myself the way I'd treat a colleague, I'll just... stop caring enough to do better next time. Like, the guilt is uncomfortable, but it's also what makes me show up and try harder at work, and I'm scared that without it I'd just become someone who makes excuses for themselves.",
-    "therapist": "It sounds like the guilt has become so intertwined with your sense of responsibility that they feel like the same thing — but they might actually be quite different. Guilt that punishes you after the fact is different from genuine care about your work, and it's worth asking: when you think about the colleagues you respect most, do you imagine they're driven by harsh self-punishment, or by something that feels more like values and investment in what they do? What if the thing that actually makes you show up isn't the guilt itself, but a deeper care about your work that would still be there without it?",
+    "client": "I think it's more about not knowing how to handle it once it's open — like, right now I can function, I go to work, I get through my days, and I'm worried that if I start really pulling at this thread, something might unravel and I won't be able to put it back together. There's also something almost protective about the belief, as weird as that sounds, because at least if I'm always expecting to fail, I'm never totally blindsided when things go wrong. I guess I'm scared that without that constant vigilance, I'd just... make more mistakes and actually give people a reason to doubt me.",
+    "therapist": "What you just described is genuinely profound — that belief has been functioning like a shield, and it makes complete sense that you'd be reluctant to put it down when it's felt protective for so long. But I want to offer a gentle reframe: the vigilance hasn't actually been preventing mistakes or keeping you safe, it's been costing you a lot of energy while the fear of unraveling stays the same size. The goal of this work wouldn't be to tear something down and leave you exposed — it would be to slowly build something more stable underneath you, so you need the shield less and less. What would it mean for your day-to-day life if you could still be careful and conscientious at work, but without that constant undercurrent of dread that you're about to be \"found out\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.31077730655670166,
-    "aro_t": 0.14703881740570068,
+    "val_t": -0.2690373659133911,
+    "aro_t": 0.11520826816558838,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That's... actually an interesting way to put it, and part of me wants to agree with you. But honestly, I'm not sure I trust that the care would still be there without the guilt — like, what if the guilt is the only thing keeping me from completely dropping the ball? It's been there so long that I genuinely can't picture what showing up to work would even feel like without that weight sitting on my chest.",
-    "therapist": "There's something really poignant in what you just said — the guilt has been there so long that it's become part of the furniture, and imagining life without it feels more disorienting than relieving. That actually tells us something important: this isn't really about motivation anymore, it's about identity — the guilt has become so familiar that it feels like *you*, rather than something happening *to* you. I'm curious — can you remember a time, even briefly, when you did something well at work and felt genuine satisfaction rather than just relief, and what was driving you in that moment?",
+    "client": "Honestly, just imagining that feels almost foreign to me — like I can picture it intellectually, but I can't really feel what it would be like to show up somewhere without that low-level dread running in the background. I think it would probably feel lighter, maybe even like I could actually connect with my coworkers instead of always being slightly guarded. But I also catch myself thinking, \"that sounds nice, but is that actually achievable for someone who's been wired this way for twenty-plus years?\"",
+    "therapist": "The fact that you can imagine it at all — even just intellectually — is actually the beginning of something real, and the longing you're describing for that lightness and genuine connection tells me a part of you already knows there's another way to be. To answer your question honestly: yes, it is achievable, not because we can erase twenty-plus years overnight, but because brains and belief systems are more flexible than they feel when we're stuck inside them — people do shift these patterns, gradually and with practice. What feels most meaningful to you about that image of connecting with your coworkers without the guardedness — is that something you'd want to work toward together?",
     "condition": "emotion_text_only",
-    "val_t": -0.16467583179473877,
-    "aro_t": 0.10589480400085449,
-    "text_emotion": "Angry"
+    "val_t": 0.019892215728759766,
+    "aro_t": 0.12850594520568848,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I have to think about that for a second... there was this one project about two years ago where I actually felt proud, not just relieved, when it went well. I'd stayed late a few nights because I genuinely cared about getting it right, not because I was scared of failing. But honestly, even as I say that, I notice I'm already second-guessing it, like maybe I'm just remembering it wrong or inflating it.",
-    "therapist": "That memory is really significant — you just described intrinsic motivation in action, staying late because you *cared*, not because you were afraid, and that's exactly the kind of drive that doesn't need guilt to exist. And notice what happened the moment you touched something positive: your mind immediately moved to discount it, which is that same inner critic doing its work in real time. What would it mean for your current story about yourself if that memory is actually accurate — that the care was real, and it was enough?",
+    "client": "Yeah, I think I do want to work toward that — the loneliness of always being guarded is actually one of the hardest parts, because I'm surrounded by people at work but still feel kind of isolated. I just want to be honest that I'm a little skeptical of how the process actually works, like I'm not sure what \"gradually and with practice\" looks like in real life versus just being a reassuring thing therapists say. What would we actually be doing, concretely, because I think I need to understand the path a little before I can feel okay about committing to it.",
+    "therapist": "Your skepticism is not only fair, it's actually a really healthy sign — and I'd much rather you push back on \"trust the process\" than just take it on faith, because you deserve a clear map, not just reassurance. Concretely, what we'd be doing is things like: catching those automatic thoughts in real moments (\"they think I don't belong\"), examining the actual evidence for and against them, and slowly building up experiences that give your nervous system new data to work with — like noticing when connection at work *does* happen and letting that register, rather than discounting it the way you discounted your manager's message. It's less about insight and more about repetition — gently practicing a different relationship with those thoughts until the new response starts to feel more natural than the old one. Does that feel like something concrete enough to work with, or are there specific parts of the process you'd want to understand better before we move forward?",
     "condition": "emotion_text_only",
-    "val_t": 0.0038634538650512695,
-    "aro_t": 0.14961326122283936,
+    "val_t": -0.0662926435470581,
+    "aro_t": 0.05047345161437988,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I mean... if that memory is accurate, then maybe I'm not as hollow as I feel right now. But it's hard to hold onto that, because the person who stayed late that night feels like a stranger to me at this point. I don't know how to connect her to who I am now, when most days I can barely get myself to open my laptop without dreading everything that comes with it.",
-    "therapist": "What you just said — \"maybe I'm not as hollow as I feel right now\" — is a really tender and important crack of light, and I don't want it to pass by unnoticed. That person who stayed late isn't a stranger who disappeared; she's someone who got buried under two years of relentless pressure and self-criticism, and the fact that you can still remember what she felt like suggests she's still in there. What do you think she would need — even just one small thing — to start feeling a little less buried right now?",
+    "client": "That actually does help — framing it as repetition and building up new data makes it feel less like I have to overhaul my whole personality and more like something I could maybe try in small doses. I think my worry is that in the moment, when I'm at work and that thought hits, I'm going to be too caught up in the anxiety to remember to step back and examine it — like, the feelings move faster than any technique I could apply. Is there a way to practice that catching-and-examining thing when the stakes are lower, so it doesn't feel so impossible when I'm actually in the thick of it?",
+    "therapist": "You've just identified one of the most important principles in CBT practice — you're absolutely right that trying to learn a new skill in the middle of high anxiety is like trying to learn to swim when you're already drowning, so yes, we absolutely practice at lower stakes first. One concrete way to do this is something called a **thought record** — just a few minutes at the end of the day, when you're calm, where you write down a moment that triggered that \"I don't belong\" feeling, what the automatic thought was, and what evidence actually existed for and against it. Over time, doing that repeatedly in calm moments starts to build a kind of mental muscle memory, so when the anxiety hits fast at work, the stepping-back starts to happen a little more automatically. Would you be open to trying something like that this week — even just once or twice — and seeing what it's like to examine one of those moments from a safe distance?",
     "condition": "emotion_text_only",
-    "val_t": -0.27063679695129395,
-    "aro_t": 0.2164074182510376,
-    "text_emotion": "Angry"
+    "val_t": -0.07041120529174805,
+    "aro_t": 0.19154250621795654,
+    "text_emotion": "Tense"
   }
 ]

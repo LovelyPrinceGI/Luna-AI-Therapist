@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I got laid off from my tech job back in February — it's like this constant weight on my chest that won't go away. The financial pressure is just overwhelming, and on top of that, I can't even figure out where to start with updating my resume because everything in the industry feels like it's changed so fast. I'm not even sure talking about it is going to help, honestly, because the problems are pretty concrete and real — it's not like changing my thinking is going to pay my bills.",
-    "therapist": "What you're carrying sounds genuinely heavy — the job loss, the financial strain, and the paralysis around next steps are all very real, and I want you to know I'm not here to dismiss any of that. You're right that shifting a thought won't pay a bill, and CBT isn't about pretending problems away — it's more about noticing when our thinking might be making an already hard situation even harder to navigate, like feeling so stuck you can't figure out where to start. I'm curious, when you imagine trying to update your resume or take one small step forward, what's the first thought that tends to show up for you?",
+    "client": "I've been really struggling since I got laid off from my tech job back in February — the financial pressure has been building up and I honestly don't know how much longer I can keep it together. Every time I try to sit down and update my resume, I just freeze up and end up closing the laptop without doing anything. I'm not even sure talking about it is going to change anything practical, but I figured I'd give this a shot.",
+    "therapist": "It sounds like you're carrying a really heavy weight right now — the financial stress, the uncertainty, and then hitting that wall every time you try to take action must feel exhausting and frustrating. That freezing moment when you open the laptop is actually really meaningful to explore, because it often points to some powerful thoughts or fears happening just beneath the surface. What do you notice going through your mind in those seconds right before you close the laptop?",
     "condition": "emotion_text_only",
-    "val_t": -0.2922447919845581,
-    "aro_t": 0.1910722255706787,
+    "val_t": -0.21018624305725098,
+    "aro_t": 0.09847867488861084,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the first thought that shows up is something like \"what's the point\" — like, I had a decent job for six years and it still wasn't enough to keep me around, so why would updating a resume change anything. It just feels like I'm going to put in all this effort and then get rejected over and over again, and I'm not sure I can handle that on top of everything else. There's also this embarrassing part of me that wonders if people will see the gap in my employment and just write me off before I even get a chance.",
-    "therapist": "That \"what's the point\" thought is such a painful place to be stuck — it sounds like the layoff hit not just your finances but your sense of security and confidence in a really deep way. It's worth gently noticing though that your mind is treating a fear — \"I *will* be rejected, I *won't* be able to handle it\" — as if it's already a certainty, when really it's a prediction your hurt and exhausted self is making right now. What evidence have you seen in your life, maybe even outside of work, that you *can* handle difficult and uncertain situations even when they've felt unbearable at first?",
+    "client": "Honestly, it's like this rush of thoughts all at once — stuff like \"what if I send this out and nobody responds\" or \"what if they can see I've been out of work this long and just write me off.\" And underneath that there's this louder voice saying maybe I just wasn't as good at my job as I thought I was, and getting laid off kind of proved it. I slam the laptop shut before I even have to face that possibility, I think.",
+    "therapist": "That takes real courage to name — especially that deeper fear that the layoff was somehow proof of your worth, because that's a painful story to carry around. In CBT we'd call that a \"hot thought,\" and it's worth gently challenging: a layoff in the tech industry, especially in the wave of cuts since 2022, is driven by budget decisions and market forces, not a performance review of your value as a person. What actual evidence from your time in that job — moments you solved a problem, helped a teammate, delivered something you were proud of — might push back against that story?",
     "condition": "emotion_text_only",
-    "val_t": -0.30241894721984863,
-    "aro_t": 0.16309094429016113,
+    "val_t": -0.272163987159729,
+    "aro_t": 0.20417630672454834,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, but honestly it's hard to think of examples right now because this feels so different from other hard things I've been through. Like, yeah, I've dealt with tough stuff before, but a job rejection feels so personal, so tied to my worth as a person, that I'm not sure past experiences even count. It's like my brain is saying \"that was different, this is the real test, and you're going to fail it.\"",
-    "therapist": "It's really meaningful that you can actually hear what your brain is doing there — \"this is the *real* test\" is such a revealing phrase, because it shows how much your mind has tied your job situation directly to your value as a person, which is an incredibly common but painful thinking pattern. The layoff was a business decision, but somewhere along the way it got translated into a verdict about *you*, and that's worth slowing down on. What do you think it would mean about you as a person if you did apply and got rejected — what's the story your mind tells you that would *prove*?",
+    "client": "I mean, yeah, there were good moments — I led a migration project last year that actually came in under budget, and my manager at the time told me I'd saved the team probably two months of work. But here's the thing, when I try to hold onto that memory right now, it just feels distant, like it happened to a different person, and my brain immediately counters with \"well, if you were so great, why did they pick you to let go.\" I get what you're saying about market forces, and logically I know layoffs were everywhere, but that logical part doesn't seem to have much power over the part that's convinced I was the weak link.",
+    "therapist": "That gap you're describing — where logic knows one thing but the gut feeling insists on another — is so common and so frustrating, and it doesn't mean the logical part is wrong, it just means the emotional belief has had a lot more practice and repetition. That migration project isn't a small thing; leading something complex under budget and saving your team two months of work is concrete, observable evidence that directly contradicts the \"weak link\" story. I'm curious — if a close friend described that same accomplishment to you and then said \"but I must have deserved to get laid off,\" what would you actually say back to them?",
     "condition": "emotion_text_only",
-    "val_t": -0.14918005466461182,
-    "aro_t": 0.20277023315429688,
-    "text_emotion": "Angry"
+    "val_t": -0.030178070068359375,
+    "aro_t": 0.06263613700866699,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I guess... if I applied and got rejected, my mind would say it proves that the layoff wasn't just bad timing or budget cuts — it proves I was actually the problem all along. Like, the first time could be explained away, but a second rejection would feel like confirmation that I'm just not good enough, that employers can see something fundamentally lacking in me. It's embarrassing to even say out loud because I know how it sounds, but that's genuinely what I'm afraid of.",
-    "therapist": "Thank you for trusting me with that — it takes real courage to say something out loud that feels that vulnerable, and the fact that you can name it so clearly actually matters. What you're describing is a really common but painful cognitive pattern where one piece of evidence gets used to confirm a story you're already afraid is true — essentially, your mind has already decided the verdict and is just waiting for proof. I want to gently ask: if a close friend came to you and said \"I got laid off and I'm scared that means I'm fundamentally not good enough,\" what would you actually say to them?",
+    "client": "I'd probably tell them that's ridiculous, that one project like that shows real skill and the layoffs were happening everywhere. But when I try to turn that same logic on myself it just feels hollow, like I'm reciting something I'm supposed to believe rather than actually believing it. I guess I can see what you're doing with that question, and it's a fair point, but I don't know how to make that compassion feel real when it's directed at me instead of someone else.",
+    "therapist": "What you just identified is actually a really important insight — that gap between knowing something and *feeling* it is real, and it's not a flaw in your thinking, it's just that self-compassion is genuinely a skill that takes practice, not a switch you can flip. One small thing that sometimes helps bridge that gap is literally writing to yourself as if you were that friend — not to recite the \"right\" answer, but to see if a different voice on the page feels any less hollow than the one in your head. Would you be open to trying something like that this week, even just a few sentences, and noticing what comes up?",
     "condition": "emotion_text_only",
-    "val_t": -0.2974945306777954,
-    "aro_t": 0.1467067003250122,
+    "val_t": -0.2763124704360962,
+    "aro_t": 0.17701315879821777,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... I'd probably tell them that getting laid off doesn't define their worth, that it's about business decisions and timing, not about who they are as a person. But it feels different when it's me saying it to myself — like I know the \"right\" answer intellectually, but it doesn't actually land the same way. When I try to apply that logic to myself, there's this voice that just says \"yeah but you're different, your situation actually is proof.\"",
-    "therapist": "What you just noticed is actually one of the most important insights in this whole process — that you hold yourself to a completely different and harsher standard than you'd ever apply to someone you care about, and that gap is worth really sitting with. That voice saying \"yeah but you're *different*\" isn't evidence that you actually are different — it's just the self-critical part of you protecting itself from hope, because hope feels risky right now. What do you think that voice is trying to protect you from if you *did* let that compassionate logic actually land for yourself?",
+    "client": "I'm willing to try it, but I'm already imagining sitting down to write it and just staring at a blank page feeling stupid, like I'm writing a letter to myself is going to fix the fact that I still have no income coming in. There's also this part of me that worries I'll write it and it'll still feel hollow, and then I'll have proof that even therapy exercises don't work for me, which honestly sounds worse than not trying. I don't know, maybe I'm just looking for reasons to avoid it the same way I avoid the resume.",
+    "therapist": "That fear of trying and still feeling nothing — like it would become evidence against yourself — is actually the same protective move as closing the laptop, and it makes a lot of sense that your mind goes there. But notice what you just did: you caught yourself looking for reasons to avoid, which is a really honest and self-aware thing to see in real time, and that's not nothing. What if we made the exercise almost impossible to fail — not a heartfelt letter, just two or three sentences, and the only goal is to notice what it feels like to try, not to feel better afterward?",
     "condition": "emotion_text_only",
-    "val_t": -0.05139565467834473,
-    "aro_t": 0.1068650484085083,
-    "text_emotion": "Neutral"
+    "val_t": -0.3301037549972534,
+    "aro_t": 0.146476149559021,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I think that voice is protecting me from... getting my hopes up and then failing again, I guess. Like if I start believing I deserve the same kindness I'd give a friend, and then I still end up alone or I still mess things up, that's somehow worse than just already knowing I'm not worth it. It's like the loneliness feels more bearable if I've already decided I earned it.",
-    "therapist": "What you just said is so honest and so human — that keeping yourself small and unworthy feels *safer* than risking hope, because at least the pain is predictable and feels like something you chose. But I want to gently reflect something back: you're essentially paying a very high daily cost — loneliness, self-criticism, staying stuck — as a kind of insurance policy against a pain that hasn't even happened yet. What would it feel like, even just as an experiment, to try offering yourself that same compassion for one small moment today, not as a permanent belief, but just to see what it's like?",
+    "client": "Okay, two or three sentences feels a lot less overwhelming than what I was picturing, and I think I can at least attempt that without feeling like I'm setting myself up for some big failure. I guess my worry is that even that small version will somehow get tangled up with the resume avoidance — like I'll sit down to write the sentences and then feel guilty that I'm not using that time to actually apply for jobs instead. It's hard to justify anything that feels like \"working on myself\" when the practical problem of paying rent is still just sitting there.",
+    "therapist": "That guilt makes complete sense given the real financial pressure you're under, and it's not irrational — rent is concrete and urgent in a way that two sentences on a page doesn't feel like it is. But here's something worth considering: the freezing at the laptop isn't a time management problem, it's a belief problem, and if those three sentences start to loosen that \"weak link\" story even slightly, they might actually be the thing that makes the resume feel more approachable. What would it mean for the practical job search if you could sit down at the laptop without that wave of dread hitting you first?",
     "condition": "emotion_text_only",
-    "val_t": -0.31829333305358887,
-    "aro_t": 0.10025191307067871,
+    "val_t": -0.2161240577697754,
+    "aro_t": 0.06233382225036621,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and part of me actually gets it logically — like, yeah, it does sound exhausting to constantly brace for something that might not even happen. But when you say \"just try it as an experiment,\" I immediately feel this wall go up, because what if I let my guard down even a little and then something does go wrong? It's like... the compassion feels almost dangerous, if that makes any sense.",
-    "therapist": "It makes complete sense, and I want you to know that calling compassion \"dangerous\" isn't strange at all — it actually tells us something really important about how long you've had to rely on self-criticism as a survival strategy, and that's not something to just switch off overnight. The wall going up isn't a failure or resistance, it's a part of you that learned to protect you, and we can respect that even while gently questioning whether it's still serving you now. I'm curious — when you imagine \"letting your guard down,\" what specifically do you picture going wrong, what's the actual fear underneath that wall?",
+    "client": "Honestly, if I could open the laptop without that immediate dread, I think I'd actually get something done — even just updating the dates or tweaking a bullet point would feel like progress instead of this all-or-nothing paralysis. I can see the logic of what you're saying, that the freezing is the real obstacle and not just laziness or bad time management, and part of me wants to believe that. But there's still this nagging voice saying \"what if you fix the dread and the resume still doesn't get any responses\" — like I'm not sure I can handle putting in the effort and then facing silence from employers on top of everything else.",
+    "therapist": "You're in a slightly calmer place right now than earlier, and that moment of clarity — \"I'd actually get something done\" — is worth holding onto, because you just described what's possible when the dread isn't running the show. That fear of silence from employers is real and worth taking seriously, but it's a future problem, and right now your mind is using it as a reason to not even begin — which means you're experiencing the pain of rejection without any of the actual chances it might go differently. What would \"handling\" silence from employers look like for you — not perfectly, but just well enough to keep going?",
     "condition": "emotion_text_only",
-    "val_t": -0.20147788524627686,
-    "aro_t": 0.18854820728302002,
+    "val_t": -0.20200872421264648,
+    "aro_t": 0.1770094633102417,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I think... the fear is that if I stop being hard on myself, I'll just fall apart completely. Like, the self-criticism is the only thing keeping me functional — if I ease up, I'll stop trying, stop caring, and then I'll really mess everything up at work and lose the few connections I still have. It sounds ridiculous when I say it out loud, but it genuinely feels like the harshness is the glue holding me together.",
-    "therapist": "It doesn't sound ridiculous at all — it sounds like you've been carrying this belief for a long time that the harshness is what makes you functional, and that's actually a really important thing to examine together. But here's something worth considering: the self-criticism has been running at full strength for months now, and by your own account you're feeling stuck, exhausted, and disconnected — so it might not be holding you together as reliably as it promises it will. What if the harshness isn't actually the engine keeping you going, but more like a very loud alarm that's been blaring so long you've mistaken the noise for the thing that's keeping the house standing?",
+    "client": "I think \"just well enough to keep going\" would probably look like allowing myself to feel disappointed for a day and then trying to remind myself it's a numbers game, not a verdict on me — though I honestly don't know if I'd actually be able to do that in the moment. The thing is, I've been so isolated since the layoff that there's nobody around to help me shake off a rejection, and I think that silence from employers would just echo in a really lonely way. I don't have the buffer of, like, a work community anymore, and that scares me more than I realized until just now.",
+    "therapist": "That realization you just landed on — that the isolation might actually be the deeper wound underneath all of this — feels really significant, and it took courage to let yourself see it mid-conversation. The layoff didn't just take income, it took your daily community, the people who knew your work and reflected your competence back to you, and that's a real loss that deserves to be named as such. Who in your life, even someone you've drifted from a little, might be someone you could start to rebuild even a small sense of connection with right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.35861897468566895,
-    "aro_t": 0.24814188480377197,
-    "text_emotion": "Angry"
+    "val_t": -0.32037353515625,
+    "aro_t": 0.10305547714233398,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to agree with it, but another part of me is like... if I turn off the alarm, what if the house actually does fall down and I just couldn't hear it happening? Like, the self-criticism feels awful, but at least it keeps me paying attention to my mistakes so I don't make them worse. I guess I'm scared that if I let up on myself even a little, I'll just become someone who doesn't care anymore.",
-    "therapist": "There's something really tender in what you just shared — this fear that without the harshness, you'd somehow become a person who stops caring, which actually tells me the opposite of what you're afraid of. Someone who truly didn't care wouldn't be this thoughtful, this self-aware, or this worried about getting it right — the caring is clearly already there, it's just gotten tangled up with punishment as if they're the same thing. What do you think it might look like to stay attentive to your mistakes and keep growing, but from a place of \"I want to do better\" rather than \"I'm fundamentally not enough\"?",
+    "client": "There's a former colleague, Marcus, who I actually got along with really well and we said we'd grab coffee after the layoffs but I never followed through — I think I was too ashamed to let him see me still floundering months later. The idea of reaching out feels embarrassing, like I'd have to explain why I waited so long and admit that I haven't landed anything yet. I don't want the first thing he knows about my life after the job to be that I'm still struggling.",
+    "therapist": "It's tender and vulnerable to sit with that shame, and it makes sense that it's kept you from reaching out — but it's worth noticing that the story you're telling yourself is that Marcus would see you as a failure, when the evidence you have is that he's someone you genuinely connected with and who wanted to stay in touch. Most people don't think \"why did they wait so long\" when an old colleague reaches out — they just feel glad to hear from them. What do you imagine Marcus's actual reaction would be if you sent him a simple message saying you've been meaning to reach out and would still love to grab that coffee?",
     "condition": "emotion_text_only",
-    "val_t": -0.3697127103805542,
-    "aro_t": 0.15851199626922607,
+    "val_t": -0.27517974376678467,
+    "aro_t": 0.14786922931671143,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "That actually... hit me harder than I expected, and I'm not sure what to do with it. Like, part of me wants to believe you, that the caring is already there, but there's this other part that immediately says \"yeah, but if you ease up, you'll just use that as an excuse to coast.\" I guess I don't really know what \"I want to do better\" looks like without it feeling like some kind of threat attached to it.",
-    "therapist": "It's really moving that that landed for you, and I want to stay with that for a moment — something shifted just now, even if you're not sure what to do with it yet, and that matters. The fear that kindness becomes an excuse is actually really common, but notice that \"I want to do better\" coming from genuine care tends to be *more* motivating over time, not less, because you're not spending so much energy just surviving the self-attack. I'm wondering — can you think of any area in your life, even something small, where you've done something well or kept trying *not* because you were threatening yourself, but because it genuinely mattered to you?",
+    "client": "Honestly, if I'm being fair to Marcus, he'd probably just say \"yeah, finally, let's do it\" and not make a big deal out of the gap at all — he was never the type to be weird about that stuff. But I think the problem is less about what he'd actually say and more about sitting across from him at a coffee shop and him asking \"so how's the job search going\" and having to say out loud that it's been months and nothing yet. That feels like the moment I'd want to disappear, and I'm not sure I'm ready to be that exposed with someone who knew me when I was doing well.",
+    "therapist": "You already know Marcus well enough to predict he'd be warm and low-key about the gap — that's actually really useful information your own mind just gave you. And that moment you're dreading, having to say \"it's been months and nothing yet,\" is painful partly because it feels like a confession of failure, but what if it's also just... the truth, spoken to someone who already respects you? What would it feel like to let one person who knew you at your best also know you during a hard stretch — not as a collapse of your image, but as a sign that you trust him?",
     "condition": "emotion_text_only",
-    "val_t": -0.15938079357147217,
-    "aro_t": 0.19585251808166504,
+    "val_t": -0.22046685218811035,
+    "aro_t": 0.17103278636932373,
     "text_emotion": "Angry"
   }
 ]

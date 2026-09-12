@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately since I failed two exams in my junior year. The anxiety about whether I’ll be able to graduate on time is consuming me, and it's hard to focus on anything else. Sometimes I wonder if therapy can really help me with this, or if I'm just wasting my time.",
-    "therapist": "It sounds like you're carrying a heavy burden with the disappointment of those exams and the fear about your future. It's completely understandable to feel overwhelmed in this situation. Let's explore together what those thoughts about therapy are, and consider how it might support you during this challenging time. What do you hope to achieve through therapy?",
+    "client": "I've been really overwhelmed lately with anxiety about my exams. After failing two of them this past year, I can't shake the feeling that I might not graduate on time. It's like this constant weight on my chest, and I'm starting to doubt if I can really turn things around.",
+    "therapist": "It sounds like you're carrying a heavy burden with all that anxiety about your exams and graduation. It's completely understandable to feel overwhelmed after experiencing setbacks. What are some specific thoughts that come to mind when you think about your exams and your ability to graduate?",
     "condition": "baseline",
-    "val_t": -0.33419787883758545,
-    "aro_t": 0.20182573795318604,
+    "val_t": -0.347501277923584,
+    "aro_t": 0.26639366149902344,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate you acknowledging how heavy this feels right now. I guess I hope to find some clarity and maybe a sense of direction about what to do next, but I'm also skeptical. I often wonder if talking will really change anything or if it's just going to be another reminder of my failures.",
-    "therapist": "It's completely natural to feel skeptical about whether talking can lead to meaningful change, especially when you're grappling with feelings of failure. Therapy can provide a space not just to talk about those feelings but also to explore new perspectives and strategies moving forward. What small steps do you think you could take to begin finding that clarity and direction?",
+    "client": "When I think about my exams and graduating, I feel this nagging voice in my head telling me I'm not smart enough, that I'll just keep failing. I also worry about what people will think if I don't graduate on time; it's like I can already hear the judgment. It's exhausting, and I'm not sure how to push past these thoughts.",
+    "therapist": "It sounds like those thoughts are really weighing you down, and it's understandable to feel exhausted by that inner critic. It’s important to recognize that these thoughts don’t define your abilities or future. What evidence do you have that challenges the idea that you’re not smart enough or that failing defines your worth?",
     "condition": "baseline",
-    "val_t": -0.18069159984588623,
-    "aro_t": 0.06898736953735352,
-    "text_emotion": "Sad"
+    "val_t": -0.3056142330169678,
+    "aro_t": 0.18061387538909912,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying, but honestly, I still feel like talking about my feelings isn't going to change anything. It just seems like I'm stuck in this cycle of feeling like a failure. I don't really know what small steps I could take because everything feels so overwhelming right now.",
-    "therapist": "I hear you—feeling stuck in that cycle can be incredibly frustrating, and it's valid to question if talking will lead to change. Sometimes, starting with very small, manageable actions can help break that cycle, even if they seem insignificant at first. What’s one tiny thing you could consider doing this week that might help you feel a little more in control, even if it’s just jotting down your thoughts or taking a short break for yourself?",
+    "client": "I mean, I guess there's some evidence if I really look for it. I managed to pass a few classes with decent grades, and I did well on some assignments. But every time I try to focus on those positives, the failures just loom larger in my mind, making it hard to see anything else. It feels like I’m stuck in this loop of negativity, and I’m not sure how to break out of it.",
+    "therapist": "It's great that you can identify some positive evidence of your abilities, even if it's challenging to focus on them right now. It’s common for negative experiences to overshadow the positives, creating that loop of negativity. What small steps could you take to remind yourself of those successes when the negative thoughts arise?",
     "condition": "baseline",
-    "val_t": -0.2722480297088623,
-    "aro_t": 0.2426762580871582,
+    "val_t": -0.2008662223815918,
+    "aro_t": 0.125990629196167,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get that you're trying to help me find some control, but honestly, I don’t think jotting down my thoughts will make any difference. It just feels like an extra task on top of everything else I’m already dealing with. Plus, I worry that if I write things down, it’ll just reinforce those anxious thoughts instead of helping me let them go.",
-    "therapist": "I understand your concern; it can definitely feel like adding another task when you're already feeling overwhelmed. It's valid to worry that writing might amplify those anxious thoughts, and we can explore alternatives that feel more manageable for you. What if we brainstorm together some other ways to express or process your feelings that might feel less daunting?",
+    "client": "I guess I could try writing down my successes, but that feels a bit silly. I worry that I won’t really believe it or that it will just feel forced. Plus, when I’m in that anxious mindset, it’s hard to even remember those moments, so I’m not sure how effective that would be.",
+    "therapist": "It makes sense to feel hesitant about writing down your successes, especially when anxiety clouds your perception. It’s okay if it feels a bit silly or forced at first; the goal is to create a gentle reminder of your strengths. Would you be open to starting with just one or two small successes, perhaps during a time when you're feeling a bit better, and see if that feels more manageable?",
     "condition": "baseline",
-    "val_t": -0.16098380088806152,
-    "aro_t": 0.08515584468841553,
-    "text_emotion": "Angry"
+    "val_t": -0.17827510833740234,
+    "aro_t": 0.048637986183166504,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you're trying to help me find a different way to express my feelings, but honestly, I’m not sure if any of it will help. Writing feels like a lot, but even talking about my feelings can be overwhelming sometimes. I guess I'm just worried that whatever I try won't really make a difference or will just add to my anxiety.",
-    "therapist": "It's completely understandable to feel apprehensive about trying new ways to express your feelings, especially when everything feels so overwhelming. It's okay to take your time and explore what feels right for you without the pressure to find an immediate solution. How about we focus on what feels most comfortable for you right now, even if it’s just sharing a little about your day or something that brought you even a small moment of relief?",
+    "client": "I suppose I could give it a try, but I still feel skeptical that it will really help. What if I can't think of anything, or if it just makes me feel worse? I guess I just don’t see how writing down a couple of successes will change the way I feel about failing the exams. It feels like a small band-aid on a much bigger issue.",
+    "therapist": "It's completely valid to feel skeptical, especially when facing such a significant challenge. Writing down successes might feel small compared to the larger issues, but it can serve as a starting point to shift your focus gradually. What if you approached it as a simple experiment, allowing yourself to explore how it feels without expecting any particular outcome?",
     "condition": "baseline",
-    "val_t": -0.16530287265777588,
-    "aro_t": 0.22385382652282715,
-    "text_emotion": "Angry"
+    "val_t": -0.2525813579559326,
+    "aro_t": 0.05535566806793213,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate your understanding, but honestly, even sharing about my day feels like a lot right now. I've been so caught up in my anxiety that I struggle with even the simplest things. It feels like nothing brings me relief, so I’m not sure what I can share that would be meaningful or even helpful.",
-    "therapist": "It sounds like you're really in a tough place right now, where even the smallest tasks feel overwhelming. It's completely valid to feel that way, and it's okay to take a step back and not force yourself to share anything if it feels too heavy. What if we focused on just acknowledging those feelings without needing to find a solution right now? How does that sound to you?",
+    "client": "I guess approaching it as an experiment makes it sound a bit less pressure-filled, but I still feel hesitant. What if I end up feeling even worse after trying it? I don’t want to set myself up for more disappointment, and it’s tough to imagine that writing a couple of things down could really change how I feel about everything.",
+    "therapist": "It’s completely understandable to feel hesitant, especially when you're concerned about adding to your disappointment. Taking away the pressure by viewing it as an experiment can help, but it’s also okay to acknowledge that change takes time and may not happen overnight. What if you gave yourself permission to write down just one thing, and if it doesn’t feel helpful, you can simply set it aside without judgment? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.020315170288085938,
-    "aro_t": 0.1392585039138794,
-    "text_emotion": "Neutral"
+    "val_t": -0.201707124710083,
+    "aro_t": 0.046935319900512695,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying that it’s okay to feel overwhelmed, but it’s hard for me to just sit with those feelings. I often feel like I need to be productive or find a way to fix things, and acknowledging my feelings just feels like I’m letting myself down. It’s frustrating because I know I should be able to handle things better, but I just don’t know how to make that happen.",
-    "therapist": "It's understandable to feel frustrated when it seems like you should be able to handle things, especially when you're used to being productive. It can feel uncomfortable to sit with those feelings, but acknowledging them is actually a crucial step in finding a way forward. What might it look like to give yourself permission to just be in this moment without the pressure to fix anything?",
+    "client": "I like the idea of giving myself permission to write down just one thing without any pressure. It feels a little less intimidating that way. But I still worry that even that one thing might not feel significant enough to change how I see things. What if I write it down and it just feels like another reminder of what I’m struggling with?",
+    "therapist": "It's encouraging to hear that the idea of starting with just one thing feels less intimidating for you. It’s natural to worry about whether it will feel significant, but remember that every small step can contribute to your overall perspective over time. What if you approached the exercise as simply a moment to acknowledge a part of your journey, rather than a solution to everything? How might that shift your view on the process?",
     "condition": "baseline",
-    "val_t": -0.18128716945648193,
-    "aro_t": 0.1549443006515503,
+    "val_t": -0.1015540361404419,
+    "aro_t": 0.11390376091003418,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but it's really hard for me to just sit with my feelings. I feel this constant pressure to be productive or to fix things, and when I try to just be, it feels like I'm wasting time. It’s like I’m letting myself down, and that guilt just makes things worse.",
-    "therapist": "I can see how that pressure to be productive can make it feel impossible to just sit with your feelings. It’s common to feel guilty when we think we should be doing something instead of simply being. What if we reframed that time spent feeling as a necessary part of your journey, rather than a waste? How might it feel to view those moments of pause as an investment in your well-being rather than a setback?",
+    "client": "I think that perspective could help a little, seeing it as just a part of my journey rather than a fix-all solution. But I still feel nervous, like I’m not sure if acknowledging one small success will actually help me move forward. It’s hard to shake off the feeling that I need something more impactful to really change my situation.",
+    "therapist": "It's completely understandable to feel nervous about how a single acknowledgment might impact your situation, especially when you're facing such big challenges. Change often feels daunting, and it can be easy to believe we need a major breakthrough to make a difference. What if you allowed yourself to be curious about the process, recognizing that even small steps can lay the groundwork for bigger changes over time? How does that idea feel for you?",
     "condition": "baseline",
-    "val_t": -0.35583364963531494,
-    "aro_t": 0.08285939693450928,
-    "text_emotion": "Sad"
+    "val_t": -0.07662296295166016,
+    "aro_t": 0.1341623067855835,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying about reframing those moments, but it's hard for me to see it that way. I often feel like if I’m not being productive, I’m just wasting time, and that makes me anxious and guilty. It’s like there’s this constant voice in my head telling me I should be doing something more useful.",
-    "therapist": "I understand that inner voice can be relentless, and it’s tough when it equates your worth with productivity. It’s important to remember that everyone needs time to rest and process, and doing so can actually enhance your ability to be productive in the long run. What do you think it would take for you to give yourself a little grace in those moments when you’re not being productive?",
+    "client": "Being curious about the process does make it feel a bit less heavy, but I still find it hard to shake off my doubts. I worry that curiosity alone won't change the anxiety I feel about my exams. It feels like I need something more concrete to really tackle the overwhelming pressure I'm under.",
+    "therapist": "It's completely valid to want something concrete to help alleviate the pressure you're feeling, especially when anxiety is involved. Curiosity can be a helpful mindset, but it's understandable that it may not feel like enough on its own. What if you combined that curiosity with small, actionable steps, like creating a study plan or breaking down your exam preparations into manageable tasks? How might that approach help you feel more in control of your situation?",
     "condition": "baseline",
-    "val_t": -0.2342832088470459,
-    "aro_t": 0.08126628398895264,
-    "text_emotion": "Sad"
+    "val_t": -0.18483376502990723,
+    "aro_t": 0.2020357847213745,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about needing rest, but it feels really hard for me to take a break without feeling guilty. My mind keeps telling me that if I'm not doing something productive, I'm wasting time or not living up to my potential. It makes me anxious just thinking about allowing myself that grace; what if I never get back on track?",
-    "therapist": "It’s completely understandable to feel anxious about taking a break, especially when there’s that internal pressure to always be productive. It’s common to worry that stepping back might lead to falling behind. What if we explored the idea that taking a break could actually help you recharge and refocus, potentially allowing you to return to your tasks with a clearer mind? How does that perspective resonate with you?",
+    "client": "I see what you're saying about combining curiosity with actionable steps, and I can see how that could help me feel more in control. But creating a whole study plan feels overwhelming right now, especially when I don't even know where to start. What if I try to make a plan, and it just leads to more anxiety instead of helping me?",
+    "therapist": "It’s completely understandable to feel overwhelmed at the thought of creating a whole study plan, especially with the pressure you’re under. Rather than trying to create an entire plan at once, what if you started with just one small step, like choosing one subject to focus on for a short amount of time? This way, you can ease into it without the pressure of a full plan. How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.18424856662750244,
-    "aro_t": 0.22660183906555176,
-    "text_emotion": "Angry"
+    "val_t": -0.09451353549957275,
+    "aro_t": 0.28008341789245605,
+    "text_emotion": "Tense"
   }
 ]

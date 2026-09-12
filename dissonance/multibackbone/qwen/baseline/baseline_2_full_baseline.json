@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. Since I was laid off from my job at the tech startup last month, I've been feeling so anxious about my financial situation and what my future career prospects might look like. I keep thinking about how I'm going to pay my bills and if I'll ever find a job that's as good as the one I had. It's been really overwhelming.",
-    "therapist": "Hi there, I'm so glad you reached out. It sounds incredibly challenging to navigate these uncertainties and feelings of anxiety after such a significant change. How have you been coping with these thoughts and feelings day-to-day?",
+    "client": "Hey Luna, I've been really struggling since I got laid off from my job last month. I can't stop worrying about money and what the future holds for my career. It feels like everything is uncertain, and I'm not sure how to move forward.",
+    "therapist": "I'm really sorry to hear about your layoff and how challenging this time has been for you. It's completely understandable to feel worried and uncertain about the future. What are some of the thoughts that come up for you when you think about your next steps?",
     "condition": "baseline",
-    "val_t": -0.20885217189788818,
-    "aro_t": 0.33307111263275146,
+    "val_t": -0.3055458068847656,
+    "aro_t": 0.2082231044769287,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for being here. It's been really tough. I've been trying to keep busy with work and a few hobbies, but it feels like the anxiety and loneliness just keep creeping back in, no matter what I do. It's hard to shake the feeling that I'm just not doing enough.",
-    "therapist": "I can really understand how tough this must be for you, and it's completely normal to feel that way after such a significant life change. It sounds like you're doing your best to stay active, which is a good start. Can you tell me more about what it feels like when the anxiety and loneliness come back, and what thoughts accompany those feelings?",
+    "client": "When I think about my next steps, I feel overwhelmed. I keep telling myself that I should have a clear plan by now, but I just can't seem to figure it out. It's hard because I don't want to make a wrong move and end up regretting it later.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to have everything figured out, which can definitely make things feel even more overwhelming. It's okay to not have all the answers right away. What do you think might help you take some small, manageable steps forward, even if they don't lead to a complete plan right away?",
     "condition": "baseline",
-    "val_t": -0.04904341697692871,
-    "aro_t": 0.18614816665649414,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 3,
-    "client": "It feels like a weight is pressing down on me, especially when I'm alone. I start thinking that I'm not good enough, that I should be able to handle this better. It's hard to shake off those thoughts, even when I try to stay busy.",
-    "therapist": "It sounds incredibly heavy, and I can imagine how isolating and overwhelming those moments must feel. Those thoughts about not being good enough can be so powerful and distressing. How do you usually try to cope with these thoughts when they come up, and do you find anything that helps even a little bit?",
-    "condition": "baseline",
-    "val_t": -0.3204925060272217,
-    "aro_t": 0.1303849220275879,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "Yeah, it's really tough. Sometimes I try to distract myself with work or hobbies, but it only helps for a little while. I often end up feeling guilty for not addressing the thoughts directly, which just makes me feel worse.",
-    "therapist": "It makes sense that the distractions only provide temporary relief, and the guilt for not addressing the thoughts can add to the burden. It's important to recognize that it's okay to take breaks and do things that bring you some relief. Have you ever tried exploring the thoughts a bit more, maybe by writing them down or talking them through, to see if that helps you process them?",
-    "condition": "baseline",
-    "val_t": -0.36730313301086426,
-    "aro_t": 0.013621211051940918,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 5,
-    "client": "I see what you're saying, but writing down my thoughts or talking them through just feels like it'll make everything more real and harder to handle. It's like I'm afraid that if I start digging into these thoughts, I won't be able to stop, and it'll all just spiral out of control. It's hard because I already feel so overwhelmed, and I'm not sure if adding more to my plate is a good idea.",
-    "therapist": "I completely understand that fear. It can feel really daunting to face those thoughts head-on, especially when you're already feeling overwhelmed. It's important to go at a pace that feels manageable for you. What if we started with a small step, like setting aside just a few minutes each day to write down one thought or feeling that stands out, without judgment? How does that feel to you?",
-    "condition": "baseline",
-    "val_t": -0.200323224067688,
-    "aro_t": 0.28067898750305176,
+    "val_t": -0.25044846534729004,
+    "aro_t": 0.24928069114685059,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I appreciate your understanding, Luna. Writing down my thoughts does sound like a good idea, but I'm worried it might just make me dwell on the negative stuff even more. It's hard because sometimes my thoughts spiral so quickly, and I'm not sure if I can catch them all or even if writing them down will help slow them down.",
-    "therapist": "I hear your concerns, and it's totally valid to worry about getting caught up in the negative thoughts. Starting small can be really helpful. What if we tried a gentle approach where you write down one positive thing or something you're grateful for each day, alongside any challenging thoughts? This might help balance the perspective and make the process feel more manageable. How does that sound to you?",
+    "turn": 3,
+    "client": "I appreciate that, Luna. I guess I just feel like every small step needs to be perfect, and that's what's holding me back. I don't think that will work for me because I'm afraid of making a mistake that could cost me even more time and opportunities.",
+    "therapist": "It's really common to feel that way, especially in a situation like this where the stakes feel high. Perfectionism can be a tough cycle to break, but it's important to remember that progress often comes from taking imperfect steps. What do you think might happen if you allowed yourself to take a small step that isn't perfect, just to see where it leads?",
     "condition": "baseline",
-    "val_t": -0.06864023208618164,
-    "aro_t": 0.06984782218933105,
+    "val_t": -0.10281908512115479,
+    "aro_t": 0.15295648574829102,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I understand what you're saying, but it's hard to let go of that fear. I worry that if I take a step that isn't perfect, it might set me back even further. It's tough to trust that imperfection can lead to progress when I feel like I need to get everything right from the start.",
+    "therapist": "I completely understand how tough that fear can be, and it's okay to feel that way. It's a big leap to trust that imperfection can lead to progress. Maybe we could start by exploring some small, low-risk steps that feel a bit more manageable. What are some tiny actions you could take that might help you gain a bit more clarity or confidence, even if they don't feel perfect?",
+    "condition": "baseline",
+    "val_t": -0.1825711727142334,
+    "aro_t": 0.11139559745788574,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your support, Luna. I guess I could start by updating my resume or reaching out to a former colleague for advice. Those steps seem small enough that they might not feel as overwhelming, but I'm still nervous about how effective they'll be. It's hard to shake the feeling that I need to have everything figured out before I start taking action.",
+    "therapist": "I'm glad you're considering those steps, and it's completely normal to feel nervous about their effectiveness. Starting with small actions like updating your resume or reaching out to a former colleague can be really helpful in building momentum and confidence. What do you think might be the most supportive way for you to approach these steps, even with that lingering uncertainty?",
+    "condition": "baseline",
+    "val_t": 0.014402627944946289,
+    "aro_t": 0.1289311647415161,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I think the most supportive way for me to approach these steps is to set a specific time each day to work on them, even if it's just for 30 minutes. That way, I can make sure I'm making progress without feeling like I have to do everything at once. But it's still hard to shake the feeling that I should be doing more, and I worry that these small steps won't be enough.",
+    "therapist": "Setting aside a specific time each day to work on these steps is a great strategy—it can help create a sense of structure and progress without overwhelming you. It's natural to have those doubts and worries, but remember that even small steps can lead to significant changes over time. What do you think might help you feel more confident that these steps are valuable, even if they seem small?",
+    "condition": "baseline",
+    "val_t": -0.024969816207885742,
+    "aro_t": 0.03202009201049805,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate the idea, but I'm not sure if it will make much of a difference for me. It's hard because my negative thoughts are so overwhelming sometimes, and I worry that writing down just one positive thing won't be enough to counteract them. I feel like I need something more substantial to really shift my mindset.",
-    "therapist": "I understand that your negative thoughts can feel incredibly overwhelming, and it's natural to want something that feels more substantial. It's okay to take it one step at a time. What if we tried a different approach, like identifying a small, manageable goal or activity each day that could give you a sense of accomplishment or joy? This could be something as simple as taking a walk, talking to a friend, or trying a new recipe. How does that feel to you?",
+    "client": "I think it would help if I could see some tangible results from these small steps, like getting a response from a former colleague or receiving feedback on my resume. But it's hard to stay confident when I don't see immediate progress. I keep thinking that I should be doing more, and that these small actions might not be enough to get me where I need to be.",
+    "therapist": "It's completely understandable to want to see tangible results, and it can be frustrating when progress isn't immediate. Setting small, achievable goals and celebrating even the smallest successes can help build your confidence over time. What do you think might help you stay motivated and confident in the meantime, even if the results aren't immediate? Maybe there's a way to acknowledge and appreciate the effort you're putting in, regardless of the outcome?",
     "condition": "baseline",
-    "val_t": -0.020939230918884277,
-    "aro_t": 0.07493412494659424,
+    "val_t": -0.04023241996765137,
+    "aro_t": 0.0539318323135376,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea, but it feels like those small things won't really make a dent in how I'm feeling. I mean, I've tried taking walks and it just makes me feel more isolated. It's hard to find joy in anything when I'm so weighed down by guilt and anxiety.",
-    "therapist": "I hear you, and it's completely understandable that those small steps might not feel like enough right now. It's tough when the weight of guilt and anxiety makes it hard to find joy in things that usually bring comfort. Maybe we could explore together what might help you feel a bit more supported or less isolated. Is there someone you trust who you could talk to about how you're feeling, or a different activity that might feel a bit more meaningful to you?",
+    "client": "I like the idea of setting small, achievable goals and celebrating them, but it's still hard to feel motivated when I don't see immediate results. Maybe I could keep a journal to track my progress and remind myself of the steps I'm taking, no matter how small. That might help me see that I'm moving forward, even if it's not as fast as I'd like. But it's tough to stay positive when the future feels so uncertain.",
+    "therapist": "Keeping a journal to track your progress is a fantastic idea. It can be a powerful tool to help you see the small but meaningful steps you're taking, especially when the road ahead feels uncertain. It's okay to acknowledge that it's tough to stay positive, and it's important to give yourself credit for the effort you're putting in. What are some other ways you think you might be able to stay encouraged, even on the days when it feels harder to see the progress?",
     "condition": "baseline",
-    "val_t": -0.21163594722747803,
-    "aro_t": 0.10150039196014404,
-    "text_emotion": "Angry"
+    "val_t": -0.030376315116882324,
+    "aro_t": 0.06769955158233643,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I'm burdening everyone with my problems. I don't want to bring them down or make them feel like they have to fix me. And finding a meaningful activity feels like just another thing I should be doing but can't seem to manage.",
-    "therapist": "I completely understand how you feel, and it's really common to worry about burdening others. It's a tough balance, but it's important to remember that reaching out for support doesn't mean you're asking someone to fix you. It's about sharing your feelings and allowing others to be there for you. How do you think you might feel if you allowed yourself to share just a little bit with someone you trust, or if you tried a small, low-pressure activity that doesn't feel like a big responsibility?",
+    "client": "I think another way to stay encouraged might be to reach out to friends or family for support, even if it's just to talk about how I'm feeling. It can be hard to open up, but I know it might help me feel less alone. However, I still worry about burdening them with my problems, and it's tough to find the right balance.",
+    "therapist": "Reaching out to friends or family for support is a really important step, and it's great that you're considering it. It's completely normal to worry about burdening others, but remember that sharing your feelings can also help you feel less alone and more supported. What do you think might help you feel more comfortable opening up to someone you trust, even if just a little bit at a time?",
     "condition": "baseline",
-    "val_t": -0.06695866584777832,
-    "aro_t": 0.1401141881942749,
-    "text_emotion": "Angry"
+    "val_t": -0.14431679248809814,
+    "aro_t": 0.0430760383605957,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and I know you're right, but it's still really hard for me to open up. I worry that even a small share might lead to bigger expectations, and I'm not sure I can handle that. It feels safer to keep things to myself, even though I know it isolates me.",
-    "therapist": "I can really understand why it feels safer to keep things to yourself, especially when you're already feeling overwhelmed. It's a valid concern to worry about others' expectations. Maybe we could explore a way for you to share just a tiny bit with someone you trust, in a way that feels low-pressure and manageable. What if you started with something small, like sending a text to a friend saying you're having a tough day and could use a little support? How does that feel to you?",
+    "client": "I think it might help if I started with a smaller, less emotionally charged topic, like just checking in or sharing a small update about my job search. That way, it doesn't feel as overwhelming, and I can gauge their reaction before diving into deeper issues. But I'm still hesitant because I don't want to seem like I'm constantly seeking help or attention.",
+    "therapist": "Starting with a smaller, less emotionally charged topic is a wise approach. It can help you feel more comfortable and allow you to gauge the support you might receive. It's also important to remember that reaching out for support doesn't make you a burden; it's a normal and healthy part of navigating challenging times. What do you think might help you feel more at ease about sharing your updates and seeking support, even if it's just a little at a time?",
     "condition": "baseline",
-    "val_t": -0.08684027194976807,
-    "aro_t": 0.052831172943115234,
+    "val_t": -0.0729365348815918,
+    "aro_t": 0.08678662776947021,
     "text_emotion": "Neutral"
   }
 ]

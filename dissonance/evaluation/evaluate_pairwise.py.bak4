@@ -1,0 +1,522 @@
+#!/usr/bin/env python3
+"""
+Pairwise preference evaluation for Luna multibackbone v4 runs.
+
+Protocol and citations (for the thesis Methodology chapter):
+  - Pairwise comparison + conservative swap rule ("call a judge twice by swapping
+    the order of two answers and only declare a win when an answer is preferred
+    in both orders"): Zheng et al., 2023, "Judging LLM-as-a-Judge with MT-Bench
+    and Chatbot Arena", NeurIPS 2023 Datasets & Benchmarks (arXiv:2306.05685).
+  - Position-bias reporting (positional consistency): Wang et al., 2024,
+    "Judging the Judges: A Systematic Investigation of Position Bias in
+    Pairwise Comparative Assessments by LLMs" (arXiv:2406.07791).
+  - Verbosity/length-bias control (delta-length vs outcome): Zheng et al., 2023;
+    length bias of GPT evaluators in therapy scoring documented in Kim et al.,
+    2025, "MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with
+    Resistance", EMNLP 2025 (arXiv:2504.13211).
+  - Judging rubric: MIRROR framework (therapist skills + therapeutic alliance);
+    CTRS items (Understanding, Interpersonal Effectiveness, Collaboration,
+    Guided Discovery, Focus, Strategy for Change): Young & Beck, 1980.
+  - Win-rate as the headline metric for vocal-cue LLM systems: Sun et al.,
+    "Beyond Text: Improving LLM's Decision Making for Robot Navigation via
+    Vocal Cues".
+  - Motivation for pairwise + cross-judge kappa (GPT-4o judge generosity and
+    misalignment with experts in therapy evaluation): Haydarov et al., 2025,
+    "Towards AI-Assisted Psychotherapy: Emotion-Guided Generative Interventions",
+    EMNLP 2025 (2025.emnlp-main.1664).
+  - Inter-judge agreement (Cohen's kappa) with a second judge from a different
+    model family (self-enhancement bias control): Zheng et al., 2023.
+
+All judge calls go through OpenRouter (OPENROUTER_API_KEY).
+
+Usage:
+    python evaluation/evaluate_pairwise.py
+    python evaluation/evaluate_pairwise.py --resume
+    python evaluation/evaluate_pairwise.py --backbones gpt4o-mini --pairs dissonance_vs_baseline --start 1 --end 2 --judge2-sample 0
+"""
+import argparse, json, math, os, random, re, statistics, time
+from collections import defaultdict
+from pathlib import Path
+from openai import OpenAI
+
+import platform
+if platform.system() == "Windows":
+    BASE = Path(r"C:\Luna-AI-Therapist")
+else:
+    BASE = Path("/mnt/c/Luna-AI-Therapist")
+
+DATA_BASE = BASE / "dissonance" / "multibackbone"
+EVAL_OUT = BASE / "dissonance" / "evaluation" / "evaluation_outputs"
+EVAL_OUT.mkdir(parents=True, exist_ok=True)
+
+BACKBONES = ["gpt4o-mini", "claude", "qwen", "deepseek"]
+CONDITIONS = {
+    "baseline":    {"prefixes": ["baseline"],   "suffix": "full_baseline", "is_baseline": True},
+    "emotion":     {"prefixes": ["emotion"],    "suffix": "full_emotion_online", "is_baseline": False},
+    "multimodal":  {"prefixes": ["dissonance"], "suffix": "full_multimodal", "is_baseline": False},
+    "dissonance":  {"prefixes": ["dissonance"], "suffix": "full_dissonance_online", "is_baseline": False},
+}
+PAIRS = {
+    "dissonance_vs_baseline":   ("dissonance", "baseline"),
+    "dissonance_vs_multimodal": ("dissonance", "multimodal"),
+}
+
+# =====================================================
+# CLI
+# =====================================================
+parser = argparse.ArgumentParser()
+parser.add_argument("--start", type=int, default=1)
+parser.add_argument("--end", type=int, default=100)
+parser.add_argument("--backbones", nargs="*", default=BACKBONES, choices=BACKBONES)
+parser.add_argument("--pairs", nargs="*", default=list(PAIRS.keys()), choices=list(PAIRS.keys()))
+parser.add_argument("--judge", default="openai/gpt-4o", help="primary judge model (via OpenRouter)")
+parser.add_argument("--judge2-model", default="anthropic/claude-sonnet-4.6", help="second judge via OpenRouter")
+parser.add_argument("--judge2-sample", type=int, default=100, help="stratified subset size for second-judge kappa (0 = skip)")
+parser.add_argument("--orders", type=int, default=2, choices=[1, 2], help="2 = swap-consistency protocol (Zheng et al. 2023)")
+parser.add_argument("--resume", action="store_true", help="reuse existing ai_pairwise jsonl files; judge only missing/error comparisons")
+parser.add_argument("--no-preflight", action="store_true", help="skip credit check and judge test calls")
+args = parser.parse_args()
+
+OR_KEY = os.environ.get("OPENROUTER_API_KEY", "").strip().strip('"').strip("'").strip()
+if not OR_KEY:
+    raise SystemExit("ERROR: OPENROUTER_API_KEY not set - both judges use OpenRouter")
+if os.environ.get("OPENROUTER_API_KEY", "") != OR_KEY:
+    print('NOTE: OPENROUTER_API_KEY contained quotes/whitespace (CMD-style "set VAR=...") - sanitized automatically')
+router_client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=OR_KEY)
+judge1_client = router_client
+judge2_client = router_client
+
+print(f"Judge1: {args.judge} | Judge2: {args.judge2_model if args.judge2_sample else 'OFF'} | "
+      f"Dialogues: {args.start}-{args.end} | Backbones: {args.backbones} | Pairs: {args.pairs} | Orders: {args.orders}")
+
+# =====================================================
+# Preflight (credit balance + one live test call per judge model)
+# =====================================================
+def preflight():
+    import urllib.request
+    try:
+        req = urllib.request.Request("https://openrouter.ai/api/v1/credits",
+                                     headers={"Authorization": f"Bearer {OR_KEY}"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode())["data"]
+        bal = data.get("total_credits", 0) - data.get("total_usage", 0)
+        print(f"OpenRouter balance: ${bal:.2f}")
+        if bal < 0.5:
+            raise SystemExit(f"ERROR: OpenRouter balance ${bal:.2f} < $0.50 - top up before running")
+    except SystemExit:
+        raise
+    except Exception as e:
+        print(f"WARN: credit check failed ({str(e)[:200]}) - continuing anyway")
+    models = {args.judge} | ({args.judge2_model} if args.judge2_sample > 0 else set())
+    for model in sorted(models):
+        try:
+            router_client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": 'Reply with exactly {"ok": true}'}],
+                temperature=0.0, max_tokens=10)
+            print(f"preflight OK: {model}")
+        except Exception as e:
+            raise SystemExit(f"ERROR: preflight call to {model} failed: {str(e)[:300]}")
+
+if not args.no_preflight:
+    preflight()
+
+SYSTEM_PROMPT = """You are an expert psychological evaluator specializing in Cognitive Behavioral Therapy (CBT) and therapeutic alliance, following the evaluation framework of the MIRROR paper (arXiv:2504.13211) and the CTRS items of Young & Beck (1980).
+
+You will see TWO complete therapy sessions (Session A and Session B) conducted by two different AI therapists with comparable clients facing the same kind of life problem.
+
+CRITICAL EVALUATION FOCUS:
+- Assess each therapist's ability to perceive "Emotional Subtext" - the underlying feelings that may not be explicitly stated in the client's words but are hinted at through context and tone.
+- A high-performing therapist moves beyond surface-level reflection, identifies "Latent Concerns", and facilitates deeper discovery.
+- Assess general counseling skills (Understanding, Interpersonal Effectiveness, Collaboration), CBT-specific skills (Guided Discovery, Focus, Strategy for Change), and the affective bond with the client.
+- Judge ONLY therapeutic quality. Do NOT reward longer responses; response length must not influence your decision.
+- Evaluate each session as a whole, not individual turns.
+"""
+
+USER_PROMPT = """Two AI therapists (A and B) each conducted a full CBT session with a client facing the same kind of life problem. Decide which therapist better navigated the gap between what the client SAYS and what the client FEELS, and delivered the better session overall.
+
+[Session A]
+{SESSION_A}
+[/Session A]
+
+[Session B]
+{SESSION_B}
+[/Session B]
+
+Compare A and B on: Understanding, Interpersonal Effectiveness, Collaboration, Guided Discovery, Focus, Strategy for Change, and Affective Bond.
+
+Return EXACT JSON:
+{{
+  "winner": "A" or "B" or "tie",
+  "reasoning": "..."
+}}
+
+Choose "tie" only if the two sessions are of genuinely equivalent quality.
+"""
+
+# =====================================================
+# Data Loading (identical to evaluate_multibackbone_final.py)
+# =====================================================
+def extract_dialogue_id(p):
+    m = re.search(r"(\d+)_full", p.name)
+    return int(m.group(1)) if m else None
+
+def load_folder(folder, prefixes, suffix, is_baseline):
+    dialogues = {}
+    seen = set()
+    for prefix in prefixes:
+        for ext in [".jsonl", ".json"]:
+            for path in sorted(folder.glob(f"{prefix}_*_{suffix}{ext}")):
+                did = extract_dialogue_id(path)
+                if did is None or did in seen: continue
+                seen.add(did)
+                turns = []
+                with open(path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        if not line.strip(): continue
+                        rec = json.loads(line)
+                        turns.append({
+                            "transcript": rec["client"],
+                            ("therapist_response_baseline" if is_baseline else "therapist_response"): rec["therapist"],
+                        })
+                dialogues[did] = turns
+    return dialogues
+
+def format_conversation(turns, is_baseline=False):
+    tkey = "therapist_response_baseline" if is_baseline else "therapist_response"
+    text = ""
+    for t in turns:
+        ct = t.get("transcript") or t.get("client", "[missing]")
+        tt = t.get(tkey) or t.get("therapist", "[missing]")
+        text += f"CLIENT: {ct}\n\nTHERAPIST: {tt}\n\n"
+    return text.strip()
+
+print("\n[1/5] Loading data...")
+needed_conds = sorted({c for p in args.pairs for c in PAIRS[p]})
+all_data = {}
+for bb in args.backbones:
+    all_data[bb] = {}
+    for cond in needed_conds:
+        cfg = CONDITIONS[cond]
+        folder = DATA_BASE / bb / cond
+        all_data[bb][cond] = load_folder(folder, cfg["prefixes"], cfg["suffix"], cfg["is_baseline"]) if folder.exists() else {}
+        print(f"  {bb}/{cond}: {len(all_data[bb][cond])} dialogues")
+
+# =====================================================
+# Judging
+# =====================================================
+def parse_winner(raw):
+    try:
+        j = json.loads(raw)
+    except Exception:
+        m = re.search(r"\{.*\}", raw or "", re.S)
+        if not m: return None, ""
+        try: j = json.loads(m.group(0))
+        except Exception: return None, ""
+    w = str(j.get("winner", "")).strip().upper()
+    r = str(j.get("reasoning", ""))
+    if w.startswith("A"): return "A", r
+    if w.startswith("B"): return "B", r
+    if "TIE" in w or "EQUAL" in w or "BOTH" in w: return "tie", r
+    return None, r
+
+def judge_call(client, model, sess_a, sess_b, use_json_format, max_retries=3):
+    messages = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": USER_PROMPT.format(SESSION_A=sess_a, SESSION_B=sess_b)},
+    ]
+    err = ""
+    for attempt in range(max_retries):
+        try:
+            kwargs = dict(model=model, messages=messages, temperature=0.0)
+            if use_json_format:
+                kwargs["response_format"] = {"type": "json_object"}
+            completion = client.chat.completions.create(**kwargs)
+            w, r = parse_winner(completion.choices[0].message.content)
+            if w is not None:
+                return w, r
+            err = "unparseable winner in response"
+        except Exception as e:
+            err = str(e)[:200]
+        if attempt < max_retries - 1:
+            time.sleep(5)
+    return "error", err
+
+def judge_comparison(sess_x, sess_y, client, model, use_json_format, orders):
+    w1, r1 = judge_call(client, model, sess_x, sess_y, use_json_format)
+    def to_x(w, x_is_a):
+        if w == "error": return "error"
+        if w == "tie": return "tie"
+        if x_is_a: return "x" if w == "A" else "y"
+        return "x" if w == "B" else "y"
+    m1 = to_x(w1, True)
+    if orders == 2:
+        w2, r2 = judge_call(client, model, sess_y, sess_x, use_json_format)
+        m2 = to_x(w2, False)
+    else:
+        w2, r2, m2 = None, "", m1
+    if m1 == "error" or m2 == "error":
+        final = "error"
+    elif m1 == m2:
+        final = m1
+    else:
+        final = "tie"
+    err = r1 if w1 == "error" else (r2 if w2 == "error" else "")
+    return {"w1": w1, "w2": w2, "r1": r1, "r2": r2, "m1": m1, "m2": m2,
+            "final": final, "consistent": (m1 == m2), "err": err}
+
+# =====================================================
+# Statistics
+# =====================================================
+def binom_two_sided(k, n):
+    if n == 0: return 1.0
+    tail_lo = sum(math.comb(n, i) for i in range(0, k + 1)) / (2 ** n)
+    tail_hi = sum(math.comb(n, i) for i in range(k, n + 1)) / (2 ** n)
+    return min(1.0, 2 * min(tail_lo, tail_hi))
+
+def cohen_kappa(labels1, labels2):
+    n = len(labels1)
+    if n == 0: return float("nan"), 0.0
+    po = sum(1 for a, b in zip(labels1, labels2) if a == b) / n
+    cats = sorted(set(labels1) | set(labels2))
+    pe = sum((sum(1 for a in labels1 if a == c) / n) * (sum(1 for b in labels2 if b == c) / n) for c in cats)
+    if pe == 1.0:
+        return (1.0 if po == 1.0 else 0.0), po
+    return (po - pe) / (1 - pe), po
+
+def pearson(xs, ys):
+    n = len(xs)
+    if n < 3: return float("nan")
+    mx, my = statistics.mean(xs), statistics.mean(ys)
+    num = sum((x - mx) * (y - my) for x, y in zip(xs, ys))
+    dx = math.sqrt(sum((x - mx) ** 2 for x in xs))
+    dy = math.sqrt(sum((y - my) ** 2 for y in ys))
+    if dx == 0 or dy == 0: return float("nan")
+    return num / (dx * dy)
+
+# =====================================================
+# Main pairwise loop
+# =====================================================
+results = defaultdict(list)
+
+def load_cell(bb, pair):
+    path = EVAL_OUT / f"ai_pairwise_{bb}_{pair}.jsonl"
+    recs = {}
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if not line.strip(): continue
+            try: r = json.loads(line)
+            except Exception: continue
+            if "dialogue_id" in r: recs[r["dialogue_id"]] = r
+    return recs
+
+plan = []
+reused = 0
+for pair in args.pairs:
+    x_cond, y_cond = PAIRS[pair]
+    for bb in args.backbones:
+        ids = sorted(set(all_data[bb].get(x_cond, {})) & set(all_data[bb].get(y_cond, {})))
+        ids = [d for d in ids if args.start <= d <= args.end]
+        if args.resume:
+            pre = load_cell(bb, pair)
+            results[(bb, pair)] = [r for _, r in sorted(pre.items()) if r.get("final") != "error"]
+            have = {r["dialogue_id"] for r in results[(bb, pair)]}
+            todo = [d for d in ids if d not in have]
+            reused += len(ids) - len(todo)
+        else:
+            todo = ids
+        for did in todo:
+            plan.append((bb, pair, did))
+        note = f" ({len(ids)-len(todo)} reused)" if args.resume else ""
+        print(f"  {bb} | {pair}: {len(ids)} shared, {len(todo)} to judge{note}")
+
+if args.resume:
+    print(f"[resume] reusing {reused} valid comparisons; {len(plan)} to (re)judge")
+
+print(f"\n[2/5] Judging {len(plan)} comparisons x {args.orders} order(s) = {len(plan) * args.orders} calls...")
+t0 = time.time()
+
+def save_cell(bb, pair):
+    path = EVAL_OUT / f"ai_pairwise_{bb}_{pair}.jsonl"
+    with open(path, "w", encoding="utf-8") as f:
+        for r in sorted(results[(bb, pair)], key=lambda r: r["dialogue_id"]):
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+consec_err = 0
+for idx, (bb, pair, did) in enumerate(plan):
+    x_cond, y_cond = PAIRS[pair]
+    sess_x = format_conversation(all_data[bb][x_cond][did], is_baseline=(x_cond == "baseline"))
+    sess_y = format_conversation(all_data[bb][y_cond][did], is_baseline=(y_cond == "baseline"))
+    res = judge_comparison(sess_x, sess_y, judge1_client, args.judge, True, args.orders)
+    final_label = {"x": x_cond, "y": y_cond, "tie": "tie", "error": "error"}[res["final"]]
+    rec = {
+        "backbone": bb, "pair": pair, "dialogue_id": did,
+        "x_condition": x_cond, "y_condition": y_cond,
+        "winner_order1": res["w1"], "winner_order2": res["w2"],
+        "final": final_label, "position_consistent": res["consistent"],
+        "len_x": len(sess_x), "len_y": len(sess_y), "delta_len": len(sess_x) - len(sess_y),
+        "reasoning_order1": res["r1"], "reasoning_order2": res["r2"],
+        "error_detail": res.get("err", "") if final_label == "error" else "",
+    }
+    results[(bb, pair)].append(rec)
+    consec_err = consec_err + 1 if final_label == "error" else 0
+    elapsed = time.time() - t0
+    eta = (elapsed / (idx + 1)) * (len(plan) - idx - 1)
+    emsg = f" | {res.get('err', '')[:140]}" if final_label == "error" and res.get("err") else ""
+    print(f"  [{idx+1}/{len(plan)}] {bb} {pair} d{did} -> {final_label}{emsg} [ETA {eta/60:.0f}m]")
+    if (idx + 1) % 5 == 0:
+        save_cell(bb, pair)
+    if consec_err >= 10:
+        print("\nCIRCUIT BREAKER: 10 consecutive judge1 errors (API credits?). Stopping; fix then rerun with --resume.")
+        break
+
+for (bb, pair) in results:
+    save_cell(bb, pair)
+
+# =====================================================
+# Aggregate judge1
+# =====================================================
+print(f"\n[3/5] Aggregating judge1 ({args.judge})...")
+agg = {}
+for (bb, pair), recs in results.items():
+    valid = [r for r in recs if r["final"] != "error"]
+    x_cond, y_cond = PAIRS[pair]
+    W = sum(1 for r in valid if r["final"] == x_cond)
+    L = sum(1 for r in valid if r["final"] == y_cond)
+    T = sum(1 for r in valid if r["final"] == "tie")
+    n = len(valid)
+    net = (W + 0.5 * T) / n if n else 0.0
+    p = binom_two_sided(min(W, L), W + L)
+    cons = (sum(1 for r in valid if r["position_consistent"]) / n) if n else float("nan")
+    dls = [r["delta_len"] for r in valid]
+    outcome = [1 if r["final"] == x_cond else (-1 if r["final"] == y_cond else 0) for r in valid]
+    r_len = pearson(dls, outcome)
+    agg[(bb, pair)] = {"W": W, "T": T, "L": L, "n": n, "net": net, "p": p,
+                       "cons": cons, "mean_dlen": statistics.mean(dls) if dls else 0.0,
+                       "r_len": r_len, "errors": len(recs) - n}
+
+print(f"\n{'Backbone':<12} {'Pair':<26} {'W':>4} {'T':>4} {'L':>4} {'Net':>6} {'p':>7} {'PosC':>6} {'rLen':>6} {'Err':>4}")
+print("-" * 92)
+for (bb, pair), a in agg.items():
+    print(f"{bb:<12} {pair:<26} {a['W']:>4} {a['T']:>4} {a['L']:>4} {a['net']:>6.3f} {a['p']:>7.4f} {a['cons']:>6.2f} {a['r_len']:>6.2f} {a['errors']:>4}")
+
+# =====================================================
+# Second judge (Cohen's kappa on stratified subset)
+# =====================================================
+kappa_rows = []
+overall_k = float("nan")
+overall_po = float("nan")
+l1, l2 = [], []
+if args.judge2_sample > 0 and judge2_client is not None:
+    print(f"\n[4/5] Second judge ({args.judge2_model}) on stratified subset...")
+    cells = {k: [r for r in v if r["final"] != "error"] for k, v in results.items()}
+    total = sum(len(v) for v in cells.values())
+    n_target = min(args.judge2_sample, total)
+    raw_alloc = {k: n_target * len(v) / total for k, v in cells.items()}
+    alloc = {k: int(math.floor(v)) for k, v in raw_alloc.items()}
+    rem = n_target - sum(alloc.values())
+    for k in sorted(raw_alloc, key=lambda k: (-(raw_alloc[k] - alloc[k]), k))[:rem]:
+        alloc[k] += 1
+    rng = random.Random(42)
+    sampled = []
+    for k in sorted(cells):
+        recs = sorted(cells[k], key=lambda r: r["dialogue_id"])
+        for r in rng.sample(recs, min(alloc[k], len(recs))):
+            sampled.append((k, r))
+
+    j2_results = defaultdict(dict)
+    if args.resume:
+        for bb in args.backbones:
+            for pair in args.pairs:
+                path = EVAL_OUT / f"ai_pairwise_judge2_{bb}_{pair}.jsonl"
+                if not path.exists(): continue
+                for line in path.read_text(encoding="utf-8").splitlines():
+                    if not line.strip(): continue
+                    try: r = json.loads(line)
+                    except Exception: continue
+                    j2_results[(r["backbone"], r["pair"])][r["dialogue_id"]] = r
+    done_keys = {(r["backbone"], r["pair"], r["dialogue_id"])
+                 for recs in j2_results.values() for r in recs.values()
+                 if r.get("judge2_final") not in ("error", None)}
+    todo2 = [(k, r) for (k, r) in sampled
+             if (r["backbone"], r["pair"], r["dialogue_id"]) not in done_keys]
+    print(f"  sampled {len(sampled)} comparisons (seed=42) | {len(sampled) - len(todo2)} already judged | {len(todo2)} to judge")
+
+    consec2 = 0
+    for i, ((bb, pair), r) in enumerate(todo2):
+        x_cond, y_cond = PAIRS[pair]
+        sess_x = format_conversation(all_data[bb][x_cond][r["dialogue_id"]], is_baseline=(x_cond == "baseline"))
+        sess_y = format_conversation(all_data[bb][y_cond][r["dialogue_id"]], is_baseline=(y_cond == "baseline"))
+        res = judge_comparison(sess_x, sess_y, judge2_client, args.judge2_model, False, args.orders)
+        j2_label = {"x": x_cond, "y": y_cond, "tie": "tie", "error": "error"}[res["final"]]
+        rec = {"backbone": bb, "pair": pair, "dialogue_id": r["dialogue_id"],
+               "judge1_final": r["final"], "judge2_final": j2_label,
+               "j2_w1": res["w1"], "j2_w2": res["w2"], "j2_consistent": res["consistent"],
+               "j2_reasoning_order1": res["r1"], "j2_reasoning_order2": res["r2"],
+               "error_detail": res.get("err", "") if j2_label == "error" else ""}
+        j2_results[(bb, pair)][r["dialogue_id"]] = rec
+        consec2 = consec2 + 1 if j2_label == "error" else 0
+        if (i + 1) % 5 == 0:
+            print(f"  [{i+1}/{len(todo2)}] judge2 running [total elapsed {(time.time()-t0)/60:.0f}m]")
+        if consec2 >= 10:
+            print("  CIRCUIT BREAKER: 10 consecutive judge2 errors (OpenRouter credits?). Stopping judge2; rerun with --resume later.")
+            break
+    for (bb, pair), recs in j2_results.items():
+        path = EVAL_OUT / f"ai_pairwise_judge2_{bb}_{pair}.jsonl"
+        with open(path, "w", encoding="utf-8") as f:
+            for did in sorted(recs):
+                f.write(json.dumps(recs[did], ensure_ascii=False) + "\n")
+    l1 = [r["judge1_final"] for recs in j2_results.values() for r in recs.values() if r["judge2_final"] != "error"]
+    l2 = [r["judge2_final"] for recs in j2_results.values() for r in recs.values() if r["judge2_final"] != "error"]
+    overall_k, overall_po = cohen_kappa(l1, l2)
+    print(f"\n  Overall Cohen's kappa = {overall_k:.3f} (raw agreement {overall_po:.1%}, n={len(l1)})")
+    for (bb, pair) in sorted(j2_results):
+        ok = [r for r in j2_results[(bb, pair)].values() if r["judge2_final"] != "error"]
+        if not ok: continue
+        k, po = cohen_kappa([r["judge1_final"] for r in ok], [r["judge2_final"] for r in ok])
+        kappa_rows.append((bb, pair, len(ok), k, po))
+        print(f"  {bb:<12} {pair:<26} n={len(ok):>3} kappa={k:>6.3f} agreement={po:.1%}")
+else:
+    print("\n[4/5] Second judge skipped.")
+
+# =====================================================
+# Summary markdown
+# =====================================================
+print("\n[5/5] Writing pairwise_summary.md...")
+lines = []
+lines.append("# Pairwise Preference Evaluation - Luna v4 (Dissonance vs Baseline / Multimodal)\n")
+lines.append(f"**Judge1:** {args.judge} (temp 0, forced choice) | **Judge2 (kappa subset):** {args.judge2_model if args.judge2_sample else 'OFF'}")
+lines.append(f"**Protocol:** {args.orders}-order swap consistency (win only if preferred in both orders; else tie) - Zheng et al., 2023 (arXiv:2306.05685)")
+lines.append(f"**Dialogues:** {args.start}-{args.end} | **Backbones:** {', '.join(args.backbones)}\n")
+lines.append("## Results (win = dissonance)\n")
+lines.append("| Backbone | Pair | W | T | L | Net win-rate | Sign-test p | Pos. consistency | mean Dlen | r(Dlen,outcome) | Errors |")
+lines.append("|---|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|")
+for (bb, pair), a in agg.items():
+    lines.append(f"| {bb} | {pair} | {a['W']} | {a['T']} | {a['L']} | {a['net']:.3f} | {a['p']:.4f} | {a['cons']:.2f} | {a['mean_dlen']:+.0f} | {a['r_len']:+.2f} | {a['errors']} |")
+lines.append("")
+lines.append("## Interpretation criteria (pre-registered)\n")
+lines.append("- p < 0.05 and W > L  -> dissonance superiority supported for that backbone/pair")
+lines.append("- W ~= L (p >= 0.05)  -> no detectable difference (judge ceiling)")
+lines.append("- p < 0.05 and L > W  -> evidence against dissonance for that backbone/pair")
+lines.append("")
+if kappa_rows or not math.isnan(overall_k):
+    lines.append("## Inter-judge agreement (Cohen's kappa, stratified subset, seed=42)\n")
+    lines.append(f"**Overall kappa = {overall_k:.3f}** (raw agreement {overall_po:.1%}, n={len(l1)})\n")
+    lines.append("| Backbone | Pair | n | kappa | raw agreement |")
+    lines.append("|---|---|--:|--:|--:|")
+    for bb, pair, n, k, po in kappa_rows:
+        lines.append(f"| {bb} | {pair} | {n} | {k:.3f} | {po:.1%} |")
+    lines.append("")
+lines.append("## Methodology citations\n")
+lines.append("- Zheng, L., et al. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. NeurIPS 2023 D&B. arXiv:2306.05685. [pairwise protocol, position swap, verbosity bias]")
+lines.append("- Wang, P., et al. (2024). Judging the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs. arXiv:2406.07791. [positional consistency reporting]")
+lines.append("- Kim, S., et al. (2025). MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance. EMNLP 2025. arXiv:2504.13211. [rubric framework; documented length bias of GPT evaluators; expert pairwise validation]")
+lines.append("- Young, J.E., & Beck, A.T. (1980). Cognitive Therapy Rating Scale. Beck Institute. [CTRS items: Understanding, Interpersonal Effectiveness, Collaboration, Guided Discovery, Focus, Strategy for Change]")
+lines.append("- Haydarov, K., et al. (2025). Towards AI-Assisted Psychotherapy: Emotion-Guided Generative Interventions. EMNLP 2025. [GPT-4o judge generosity/misalignment with experts -> motivates pairwise + cross-judge kappa]")
+lines.append("- Sun, X., et al. Beyond Text: Improving LLM's Decision Making for Robot Navigation via Vocal Cues. [winning-rate metric for vocal-cue LLM systems]")
+lines.append("")
+lines.append("Note: transcripts are full sessions from separate dialogue runs on the same problem seed; client utterances therefore differ between sessions. Judges are blind to condition identity; vocal-cue references by multimodal/dissonance therapists are intrinsic to those conditions and cannot be fully masked (limitation).")
+
+(EVAL_OUT / "pairwise_summary.md").write_text("\n".join(lines), encoding="utf-8")
+print(f"\nResults saved to: {EVAL_OUT}")
+print(f"Total time: {(time.time()-t0)/60:.1f} minutes")

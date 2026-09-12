@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately with the demands of caring for my mother. Since her Alzheimer's diagnosis, she has become increasingly reliant on me, and it feels like there's always something she needs. I sometimes wonder if therapy can really help me cope with all of this.",
-    "therapist": "It sounds like you're carrying a heavy burden while caring for your mother, and it’s completely understandable to feel overwhelmed by the constant demands. It’s natural to question if therapy can offer you support during such a challenging time. What specific thoughts or feelings come up for you when you think about seeking help?",
+    "client": "I've been feeling really overwhelmed lately with taking care of my mom. Since her Alzheimer's diagnosis last year, it feels like the demands just keep piling up, and I worry about not being able to meet her needs. Sometimes I wonder if this therapy stuff can actually help me manage all this stress.",
+    "therapist": "It sounds like you're carrying a heavy burden right now, and it’s completely understandable to feel overwhelmed with your mom’s care. It's natural to question whether therapy can provide relief, especially when the demands feel so high. Let's explore together what specific thoughts and feelings are contributing to this stress for you. What do you find most challenging in your day-to-day routine?",
     "condition": "emotion_text_only",
-    "val_t": -0.2311040163040161,
-    "aro_t": 0.1626737117767334,
+    "val_t": -0.2798227071762085,
+    "aro_t": 0.1602100133895874,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I feel really conflicted about seeking help. On one hand, I know I’m struggling, but on the other, I worry that therapy won’t really understand what I’m going through. It feels like no one can truly grasp the weight of the responsibility I have with my mother, and I’m not sure how talking about it could change anything.",
-    "therapist": "It’s understandable to feel conflicted about seeking help, especially when you’re carrying such a heavy responsibility. It sounds like you’re grappling with the fear that your experience might not be fully understood, which can make reaching out feel daunting. What do you think might happen if you shared your feelings and experiences in therapy?",
+    "client": "I think the most challenging part for me is the constant worry that I'm not doing enough for her. Every time I see her struggle with something she used to do easily, I feel this mix of guilt and helplessness. It’s like I’m always second-guessing my choices, and I wonder if I’m making the right decisions about her care. It just feels so isolating, like no one else really understands what it’s like.",
+    "therapist": "It sounds incredibly tough to navigate those feelings of guilt and helplessness, especially when you’re so dedicated to your mom's care. It's understandable to feel isolated in this experience; caring for someone with Alzheimer's can be a lonely journey. Have you had a chance to share these feelings with anyone, or are there support systems in place that you might consider exploring?",
     "condition": "emotion_text_only",
-    "val_t": -0.28400957584381104,
-    "aro_t": 0.14658594131469727,
+    "val_t": -0.2955585718154907,
+    "aro_t": 0.17389273643493652,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess I worry that my experiences are so unique that no one could really get what I'm going through. It's like I’m carrying this weight, and I fear that if I share it, it might just sound like a jumble of feelings that don't connect. Plus, I often feel like I’m just going to be judged or told to get over it, which makes me hesitant to open up.",
-    "therapist": "It sounds like you're feeling really vulnerable about sharing your unique experiences, and that’s completely valid. The weight of your feelings can feel like a jumble, and it's understandable to worry about judgment or dismissal. What if we explored together how you can express these feelings in a way that feels safe and meaningful for you?",
+    "client": "I haven’t really talked to anyone about how I feel. I guess I’m afraid they won't understand or might think I'm complaining too much. The idea of support groups sounds nice, but I worry that sharing my feelings in a group would just make it all feel more real and heavy. I'm not sure if I’m ready for that.",
+    "therapist": "It’s completely normal to feel hesitant about opening up, especially when you worry about being misunderstood or feeling vulnerable. Acknowledging those fears is an important step, and it’s okay to take your time. Maybe we can explore some smaller steps you could take to connect with others or express your feelings without feeling overwhelmed. What do you think could help you feel more comfortable sharing your experience?",
     "condition": "emotion_text_only",
-    "val_t": -0.23284780979156494,
-    "aro_t": 0.07362473011016846,
-    "text_emotion": "Sad"
+    "val_t": -0.16621899604797363,
+    "aro_t": 0.08471071720123291,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you acknowledging how vulnerable I feel about sharing my experiences. It’s just that whenever I try to express my feelings, I often end up feeling misunderstood, like my words don't capture what I'm really going through. I worry that if I open up, it will only lead to more judgment or people thinking I'm overreacting.",
-    "therapist": "I can sense how deeply you feel the struggle to express your emotions, and it’s tough when you fear being misunderstood or judged. It’s completely natural to worry about how your words might be received, especially with such complex feelings. What might help you feel more comfortable in sharing your experiences, even just a little bit at a time?",
+    "client": "I guess I could think about talking to a friend or writing down my feelings first. But even that feels pretty daunting. What if they don’t know what to say or they just brush it off? I’m not sure sharing how heavy all this is would help; it might just make me feel worse.",
+    "therapist": "It's understandable to feel apprehensive about sharing your feelings, especially when you're concerned about others' responses. The weight of your emotions is significant, and it's completely valid to be cautious about how sharing might impact you. Writing your feelings down could be a gentle way to start processing them without the pressure of immediate feedback. What do you think might come up for you if you were to try that?",
     "condition": "emotion_text_only",
-    "val_t": -0.06750023365020752,
-    "aro_t": 0.07571721076965332,
-    "text_emotion": "Neutral"
+    "val_t": -0.30385756492614746,
+    "aro_t": 0.03923773765563965,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you understand how hard it is for me to share my emotions. I often feel like I’m just not good at expressing myself, and I worry about how others will react. It's like there’s this wall between me and the world, and I don’t know how to start breaking it down.",
-    "therapist": "It sounds like you’re feeling really stuck between wanting to express yourself and fearing how others might respond, which can create a sense of isolation. That wall you describe must feel very heavy, especially when you just want to connect and be understood. What small steps could you take to begin chipping away at that wall, even if it feels uncomfortable?",
+    "client": "I think if I tried writing things down, I might feel a bit relieved, but I also worry that it could bring up even more emotions that I’m not ready to face. It just feels like there’s a lot I’ve kept bottled up, and I’m scared of what might come out if I start. Plus, I’m not really sure how to start or what to say; it feels overwhelming to think about putting it all into words.",
+    "therapist": "It sounds like you’re feeling a mix of apprehension and relief at the thought of writing things down, which is completely understandable. The fear of unearthing emotions you've kept bottled up can feel daunting, but it’s also a brave step towards processing what you’re going through. Perhaps we can start small—maybe just jot down a few thoughts or feelings without worrying about structure. What’s one thing you feel comfortable expressing right now, even if it’s just a single word or phrase?",
     "condition": "emotion_text_only",
-    "val_t": -0.09720909595489502,
-    "aro_t": 0.12323534488677979,
+    "val_t": -0.19862473011016846,
+    "aro_t": 0.29845130443573,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you’re saying about feeling stuck and isolated. It’s just that every time I think about expressing myself, I feel this intense fear of being judged or misunderstood. The thought of chipping away at that wall feels daunting, like I might just end up feeling more exposed and vulnerable instead of connecting with anyone.",
-    "therapist": "I can sense how overwhelming that fear of judgment and misunderstanding feels for you, making the idea of opening up seem even more daunting. It’s completely natural to want to protect yourself from feeling exposed and vulnerable. What if we explored some gentle ways to express yourself that feel a little safer, so you can begin to build that connection at your own pace?",
+    "client": "Right now, I think I could write down \"overwhelmed.\" It captures a lot of what I feel, but I still worry that writing it down will make it all feel more real and heavy. I guess I just want to be able to manage this without feeling like I’m drowning, but I'm not sure if expressing it will help or just make things harder for me.",
+    "therapist": "Feeling \"overwhelmed\" truly captures the weight of what you’re experiencing, and it's understandable to worry that writing it down might intensify those feelings. It’s okay to take this process at your own pace; sometimes, simply acknowledging your emotions can offer a sense of relief. What if you allowed yourself to write just that one word for now, without any pressure to explore it further? How do you feel about starting with that small step?",
     "condition": "emotion_text_only",
-    "val_t": -0.34531641006469727,
-    "aro_t": 0.13192546367645264,
-    "text_emotion": "Sad"
+    "val_t": -0.1512972116470337,
+    "aro_t": 0.15047383308410645,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate your understanding, but I still feel really hesitant about opening up. The idea of expressing myself, even in a gentle way, makes my chest tighten. What if I say something that makes me feel even more judged or misunderstood? It's hard to shake that fear.",
-    "therapist": "It sounds like the fear of judgment and misunderstanding is really weighing on you, making the idea of opening up feel even more intimidating. That tightness in your chest reflects just how real and intense those feelings are. What if we talked about what specifically triggers that fear for you, so we can work together to find a way to ease those feelings?",
+    "client": "I think starting with just writing \"overwhelmed\" feels a bit more manageable than I expected. It’s a small step, but I still feel nervous about what it might lead to. I guess I’m worried that once I start, I won't be able to stop or control where my thoughts might go. How do I keep it from spiraling into more anxiety?",
+    "therapist": "It’s great to hear that writing \"overwhelmed\" feels manageable for you, but I can see that the nerves about where that might lead are still present. It’s completely normal to feel anxious about diving into deeper emotions, especially when you’re unsure of what might come up. One approach could be to set a time limit for yourself while writing, allowing it to be a brief check-in rather than a lengthy exploration. How do you feel about trying that, and perhaps allowing yourself to pause if it starts to feel too intense?",
     "condition": "emotion_text_only",
-    "val_t": -0.23527014255523682,
-    "aro_t": 0.15343904495239258,
+    "val_t": -0.1663597822189331,
+    "aro_t": 0.2313460111618042,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I definitely feel that tightness in my chest, especially when I think about sharing my thoughts with others. It's like I'm just waiting for someone to judge me or not understand what I'm going through. I guess I'm just worried that if I open up, it will only make things worse instead of better, and that's really intimidating.",
-    "therapist": "It’s really understandable to feel that tightness, especially when you're anticipating judgment or misunderstanding. Opening up can feel like a big risk, and it’s natural to worry about it making things worse. What if we explored some ways to share your thoughts that might feel safer, perhaps starting with someone who seems more empathetic or even through writing?",
+    "client": "Setting a time limit does sound like a good idea, and it might help me feel less pressured. But I still worry that even a brief check-in could trigger emotions that I’m not ready to deal with. What if I start writing and can’t stop the feelings from coming up? It feels like a delicate balance, and I'm not sure I can handle that right now.",
+    "therapist": "It sounds like you’re feeling quite apprehensive about the potential for emotions to surface during your writing, and it's understandable to want to protect yourself from feeling overwhelmed. It is indeed a delicate balance, but it's okay to approach this process gently. You might consider writing in a safe space where you can pause whenever you need or even have a comforting activity planned afterward. How does that sound to you, and what might help you feel more secure as you begin this exploration?",
     "condition": "emotion_text_only",
-    "val_t": -0.2632490396499634,
-    "aro_t": 0.2131134271621704,
+    "val_t": -0.06875455379486084,
+    "aro_t": 0.1573704481124878,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get that opening up can be risky, but it feels overwhelming to even think about sharing my thoughts with someone else. Writing might seem easier, but I worry that it won't really capture what I'm feeling, and there's still that fear of being judged if someone reads it. It just feels like a lot of pressure, and I'm not sure if it's worth the effort.",
-    "therapist": "It sounds like you’re really feeling the weight of that pressure—wanting to express yourself but fearing that it won’t fully capture your emotions or might be judged. It’s understandable to feel overwhelmed, especially when it seems like every option carries its own set of risks. What if we took a moment to reflect on what you hope to achieve by sharing your thoughts? That might help us find a way forward that feels more manageable.",
+    "client": "I appreciate that you’re suggesting a gentle approach, and having a safe space sounds nice. But I still feel hesitant about taking that first step. What if I start writing and it opens up a floodgate of emotions that I can't handle? I don't want to end up feeling even more overwhelmed than I already do.",
+    "therapist": "I hear your hesitation, and it’s completely valid to be concerned about the possibility of feeling even more overwhelmed. Taking that first step can be daunting, especially when emotions feel close to the surface. Perhaps you could try writing just a few words or even a sentence about how you're feeling right now, without diving deeper. Would that feel more manageable, and could it help you gauge how you might respond?",
     "condition": "emotion_text_only",
-    "val_t": -0.11713266372680664,
-    "aro_t": 0.15877056121826172,
-    "text_emotion": "Angry"
+    "val_t": -0.07324743270874023,
+    "aro_t": 0.2736828327178955,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I guess I just want to be understood, but it feels like every time I try to share what I'm really thinking, things get complicated. I worry that people won't get it, or worse, they'll judge me for what I'm feeling. It makes me hesitant to even start the conversation because I don't want to open myself up to that kind of vulnerability.",
-    "therapist": "It’s completely understandable to want to be understood, especially when opening up feels so complicated and vulnerable. Your concerns about judgment and the potential for misunderstanding are very real and can make starting that conversation feel daunting. What if we explored what being understood means to you, and how you might communicate that in a way that feels safer for you?",
+    "client": "I think writing just a few words might feel a bit less scary, which is a small relief. But I still wonder if even a few words will trigger something bigger. I guess I just want to feel like I have some control over how I process all this, and I’m not sure if that’s possible. What if it just opens up that floodgate anyway?",
+    "therapist": "It’s understandable to want to feel in control of your emotions, especially when you're unsure about how writing might affect you. The concern about opening up a floodgate is valid; it shows how much you're trying to protect yourself. Perhaps you could approach writing as an experiment—giving yourself permission to stop at any point if it becomes uncomfortable. What do you think about that idea, and how might it help you feel more secure in the process?",
     "condition": "emotion_text_only",
-    "val_t": -0.23290622234344482,
-    "aro_t": 0.11052918434143066,
+    "val_t": -0.08976852893829346,
+    "aro_t": 0.1228330135345459,
     "text_emotion": "Angry"
   }
 ]

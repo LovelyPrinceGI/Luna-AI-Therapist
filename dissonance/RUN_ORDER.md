@@ -114,3 +114,31 @@ source ~/luna_env/bin/activate
 export OPENAI_API_KEY="sk-..."
 cd /mnt/c/Luna-AI-Therapist/dissonance
 ```
+
+## B. Pilot calibration (~20 dialogues)
+```bash
+python run_dissonance_multibackbone.py --model gpt4o-mini --start 1 --end 20 --manip-rate 0.10
+```
+
+### วัด flag rate จริง → ปรับ rate ให้ตกช่วง 3–5% (เช่น 0.10 ให้ 4% → ใช้เลย; ถ้าต่ำไป เพิ่มตามสัดส่วน)
+
+## 📊 คาดการณ์ injection (deterministic seed)
+
+|manip-rate|injected turns|หมายเหตุ|
+|:---|:---:|---:|
+|0.05|3.6%	|ใกล้เป้า 3–5% (flag จริงอาจต่ำกว่านิด)|
+|0.08	|~5.9%|	แนะนำเริ่มที่นี่|
+|0.10|	7.4%|	ถ้า flag จริงตกต่ำเกิน|
+
+## 🚀 คำสั่งรัน (ใน WSL) เทส flagrate ก่อน
+
+```bash
+# PILOT: 20 dialogues ก่อน ดูว่า flag จริงได้กี่ %
+python run_dissonance_multibackbone.py --model gpt4o-mini --start 1 --end 20 --manip-rate 0.08
+```
+
+คำสั่งรัน (ใน WSL, luna_env) test zonos 
+```bash
+cd /mnt/c/Luna-AI-Therapist/dissonance
+python test_zonos_emotion_conditioning.py
+```

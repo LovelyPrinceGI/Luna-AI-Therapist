@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really anxious lately about my final exams next month. I haven't been able to stick to my study schedule, and I'm starting to feel like no matter how hard I try, I might not be able to do well. I know therapy can help with a lot of things, but I'm not sure how it can make a difference with this.",
-    "therapist": "Hi there! It sounds like you're under a lot of pressure and the anxiety is really getting in the way of your studying. How have you been coping with these feelings so far, and what do you think might be the toughest part about preparing for your exams?",
+    "client": "Hi Luna, I've been really anxious lately about my final exams next month. I haven't been able to stick to my study schedule, and I keep thinking I'm going to fail. It's been really hard to stay focused and motivated.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and the anxiety is really getting in the way of your studying. It's completely understandable to feel this way, especially with exams looming. Can you tell me more about what specific thoughts come up when you try to study?",
     "condition": "baseline",
-    "val_t": -0.1446133852005005,
-    "aro_t": 0.19594740867614746,
+    "val_t": -0.267594575881958,
+    "aro_t": 0.24728143215179443,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, yeah, it's been really tough. I've been trying to stay on top of my studying, but I keep getting distracted by my anxiety. The toughest part is probably the feeling that no matter how much I study, it's never going to be enough. It's like I'm constantly second-guessing myself and that just makes me more anxious.",
-    "therapist": "It sounds like your anxiety is really taking a toll on your confidence and making it hard to focus. It’s completely understandable to feel that way, especially with something as important as your exams. What are some of the thoughts that come up when you start feeling like your efforts won’t be enough?",
+    "client": "When I try to study, I keep thinking, \"What if I don't understand this material well enough?\" and \"What if I fail despite all my effort?\" It's hard to shake these thoughts, and they make me feel like I'm not good enough.",
+    "therapist": "Those are really tough thoughts to have, and it’s no wonder they’re making it hard to focus. It’s natural to worry about understanding the material and the fear of failure can be overwhelming. How do these thoughts make you feel about yourself and your abilities?",
     "condition": "baseline",
-    "val_t": -0.21578824520111084,
-    "aro_t": 0.2741204500198364,
-    "text_emotion": "Angry"
+    "val_t": -0.24446916580200195,
+    "aro_t": 0.08686697483062744,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I feel like no matter how much I study, I'll never be prepared enough. The thought that I might fail just keeps circling in my head, and it’s really hard to shake off. It’s like I’m constantly second-guessing everything I do.",
-    "therapist": "It’s really tough when those thoughts keep coming back and make you doubt yourself. It’s natural to worry about failing, but I wonder if we can explore some of the evidence that supports and challenges these thoughts. What are some of the things you’ve already done to prepare, or times in the past when you’ve handled difficult situations well?",
+    "client": "These thoughts make me feel inadequate and like I’m not smart enough. I start to doubt all the work I’ve put in so far and wonder if I’m just not cut out for this. It’s really hard to keep going when I feel this way.",
+    "therapist": "It’s completely understandable to feel inadequate and doubt your abilities when you’re facing such challenging thoughts. It’s important to recognize that these feelings are a reaction to your anxiety and not a reflection of your true capabilities. What are some things you’ve accomplished in the past that might help remind you of your strengths and resilience?",
     "condition": "baseline",
-    "val_t": -0.21143245697021484,
-    "aro_t": 0.19743883609771729,
+    "val_t": -0.39757561683654785,
+    "aro_t": 0.20421648025512695,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess you're right, it does feel like I'm constantly doubting myself. I’ve tried to prepare by reading up on the topic and practicing, but it still feels like it’s never enough. I do remember a time when I managed to pull through a tough project at work, but it’s hard to feel confident when these anxious thoughts keep coming back. How do I stop them from overwhelming me?",
-    "therapist": "It’s really commendable that you’ve already put in so much effort to prepare, and it’s great that you can recall a time when you successfully managed a tough project. Building on that past success can be a powerful way to boost your confidence. What do you think would help you feel more in control when those anxious thoughts start to overwhelm you? Maybe there’s a specific strategy or small step you can take to start shifting that mindset?",
+    "client": "I guess I’ve done well in some of my previous exams and projects, but it’s hard to feel confident when I’m so overwhelmed right now. I worry that past successes don’t mean anything if I can’t perform now. It’s tough to see those accomplishments as proof of my abilities when I feel so uncertain.",
+    "therapist": "It’s really tough to feel confident when you’re in the midst of such overwhelming anxiety. Recognizing your past successes is a powerful step, even if it feels challenging right now. Can you think of a time when you overcame a similar feeling of uncertainty and managed to do well? How did you support yourself through that?",
     "condition": "baseline",
-    "val_t": -0.2329498529434204,
-    "aro_t": 0.21080493927001953,
+    "val_t": -0.17767846584320068,
+    "aro_t": 0.11727344989776611,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, but it's hard for me to pinpoint exactly what would help when the anxiety hits. I feel like I've tried a lot of things, but nothing seems to stick. Maybe I’m just not good at managing anxiety, or maybe the strategies just don’t work for me.",
-    "therapist": "It’s completely understandable to feel that way, especially when you’ve tried different things and still feel stuck. It can be really discouraging. Sometimes, though, it’s about finding the right approach that resonates with you, and that can take time. What if we tried a small, manageable experiment together, like a brief relaxation exercise or a quick mindfulness practice, to see how it feels? What do you think about giving something like that a try?",
+    "client": "I remember when I had to give a big presentation last semester. I was so nervous and felt like I wouldn’t be able to do it, but I ended up doing really well. I supported myself by breaking the task into smaller steps and practicing a lot. But it’s hard to feel like that will work this time because the stakes feel so much higher.",
+    "therapist": "It’s great that you were able to reflect on that past experience and remember how you managed to succeed. Breaking tasks into smaller steps and practicing are effective strategies, and they can still be helpful even when the stakes feel higher. What do you think might be different this time that could make these strategies feel more manageable or effective?",
     "condition": "baseline",
-    "val_t": -0.17125189304351807,
-    "aro_t": 0.0567779541015625,
-    "text_emotion": "Sad"
+    "val_t": 0.03954970836639404,
+    "aro_t": 0.14679205417633057,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate you suggesting that, but I feel a bit skeptical. I've tried relaxation and mindfulness before, and it didn't seem to make much of a difference. It's hard because when I'm feeling really anxious, it's tough to just sit there and try to calm down.",
-    "therapist": "I completely understand your skepticism; it’s tough to keep trying things that haven’t worked in the past. It’s important to acknowledge that everyone’s experience with anxiety is different, and finding what works for you might take some trial and error. What if we tried a different approach, like breaking down your study sessions into smaller, more manageable chunks, or setting a specific, achievable goal for each session? How does that sound?",
+    "client": "I think what might be different this time is that I have more resources and support. Last time, I felt more isolated, but now I have friends and even a study group that can help me. Maybe reaching out to them and working together could make it feel less overwhelming. But I’m still worried about finding the motivation to stick to a study plan.",
+    "therapist": "That’s a really positive realization, and it’s great that you have more resources and support this time around. Leaning on your friends and the study group can definitely make a big difference. How do you think you could structure your study plan to make it feel more achievable and motivating? Maybe breaking it down into smaller, manageable tasks and setting some realistic goals could help.",
     "condition": "baseline",
-    "val_t": -0.16660189628601074,
-    "aro_t": 0.10952341556549072,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate you understanding my skepticism. Breaking down my study sessions sounds like it could help, but I worry that I'll still get overwhelmed and end up feeling guilty if I don't meet those smaller goals. It’s hard because I tend to set high standards for myself, and even small goals feel like a lot of pressure.",
-    "therapist": "It’s really important to recognize that setting high standards for yourself can be both a strength and a source of pressure. It’s great that you’re open to trying smaller goals, and it’s okay to feel a bit apprehensive about it. What if we also built in some flexibility and self-compassion, so that if you don’t meet a goal, it’s not seen as a failure but as a learning opportunity? How do you think you could be kinder to yourself during this process?",
-    "condition": "baseline",
-    "val_t": -0.049413442611694336,
-    "aro_t": 0.09660923480987549,
+    "val_t": -0.08346641063690186,
+    "aro_t": 0.08488845825195312,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 8,
-    "client": "I appreciate the idea of being more flexible and kind to myself, but I often end up feeling like I’m not doing enough if I don’t meet my goals. It’s hard to shift from seeing them as black and white to something more nuanced. I worry that if I lower my standards, I might not push myself enough to grow.",
-    "therapist": "I understand how challenging it can be to shift from a black-and-white mindset to a more nuanced one, especially when you’re used to setting high standards for yourself. It’s a delicate balance, and it’s okay to feel unsure about it. What if we explored some ways to set realistic goals that still challenge you, but also allow for some flexibility and self-compassion? How do you think you could recognize and celebrate your progress, even if it’s in small steps?",
+    "turn": 7,
+    "client": "I like the idea of breaking it down into smaller tasks, but I’m still worried about actually sticking to the plan. I tend to get sidetracked or give up when I feel overwhelmed. Maybe if I set very specific goals and have a friend check in on me, it could help me stay on track. It’s just hard to believe I can do it when I’ve struggled so much before.",
+    "therapist": "It’s really insightful of you to recognize the challenges you face when you feel overwhelmed. Setting specific goals and having a friend check in can be a great way to stay accountable and motivated. What do you think might help you believe in your ability to stick to the plan, even when things get tough? Maybe there’s a small step you can take today that feels manageable and could build your confidence?",
     "condition": "baseline",
-    "val_t": -0.11968839168548584,
-    "aro_t": 0.051621317863464355,
+    "val_t": -0.08578753471374512,
+    "aro_t": 0.15270531177520752,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think having a friend check in on me regularly could really help. Maybe I can start by setting a small, achievable goal for today, like reviewing one chapter or completing a practice test. It feels more manageable, but I’m still a bit skeptical about whether I can keep this up consistently.",
+    "therapist": "That’s a great plan to start with a small, achievable goal—it can really help build momentum and confidence. It’s normal to feel skeptical, especially when you’ve struggled before. What do you think might help you stay motivated and remind yourself of your progress as you move forward? Maybe keeping a journal of your achievements, no matter how small, could be a helpful way to track your progress and stay encouraged?",
+    "condition": "baseline",
+    "val_t": -0.043789029121398926,
+    "aro_t": 0.11504924297332764,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I really do want to try, but it feels really hard to let go of those high standards. I worry that if I lower them, I won’t be as driven or successful. Plus, it’s tough to celebrate small steps when I’m so used to aiming for perfection. How can I make sure I’m still pushing myself while also being kinder to myself?",
-    "therapist": "It’s completely understandable to have those concerns about maintaining your drive and success while being kinder to yourself. It’s a common challenge, and it’s great that you’re open to exploring this. One approach could be to set both high-level goals and smaller, manageable steps, and to focus on the progress you make, no matter how small. How do you think you could reframe your mindset to see small steps as valuable and meaningful, and still feel driven to achieve your bigger goals?",
+    "client": "I like the idea of keeping a journal to track my progress. It might help me see that I’m making small steps forward, even when it doesn’t feel like it. But I’m still a bit worried about staying consistent with it. It’s hard to keep up with new habits, especially when I’m feeling so anxious.",
+    "therapist": "It’s great that you’re open to the idea of keeping a journal—it can be a powerful tool for staying motivated and recognizing your progress. It’s completely normal to worry about consistency, especially when anxiety is high. What do you think might help you stay committed to this new habit, even on the tough days? Maybe setting a specific time each day to write in your journal or finding a quiet, comfortable spot could make it easier to stick with it?",
     "condition": "baseline",
-    "val_t": -0.06293034553527832,
-    "aro_t": 0.17192566394805908,
-    "text_emotion": "Tense"
+    "val_t": -0.15927600860595703,
+    "aro_t": 0.0651087760925293,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I see what you're saying, but it's hard for me to feel like I'm making progress when the steps are so small. I worry that if I focus too much on the little things, I'll lose sight of the bigger picture and my overall goals. How do I balance that without feeling like I'm not doing enough?",
-    "therapist": "I understand that it can be tough to feel like you’re making meaningful progress when the steps are small, and it’s important to keep your eye on the bigger picture. One way to balance this might be to set both short-term and long-term goals, and to regularly reflect on how the smaller steps contribute to your larger objectives. How do you think you could celebrate the small wins while still keeping your bigger goals in mind, to help you stay motivated and on track?",
+    "client": "I think setting a specific time to write in the journal could help, but I’m still concerned about finding the motivation on days when I’m feeling really down. It might be easier if I can find a way to make it feel less like a chore and more like a helpful tool. Maybe if I can find a way to make it a bit more enjoyable, it won’t feel so daunting.",
+    "therapist": "That’s a really good point. Making the journaling process more enjoyable can definitely help it feel less like a chore. You could try adding some elements that make it more engaging, like using different colored pens or stickers, or even writing in a cozy spot with a cup of your favorite tea. How do you think these small changes might help you stay motivated, even on the tougher days?",
     "condition": "baseline",
-    "val_t": -0.031076431274414062,
-    "aro_t": 0.13835632801055908,
+    "val_t": 0.06470084190368652,
+    "aro_t": 0.10029518604278564,
     "text_emotion": "Neutral"
   }
 ]

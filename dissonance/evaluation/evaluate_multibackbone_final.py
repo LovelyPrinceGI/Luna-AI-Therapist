@@ -26,7 +26,7 @@ BACKBONES = ["gpt4o-mini", "claude", "qwen", "deepseek"]
 CONDITIONS = {
     "baseline":    {"prefixes": ["baseline"],          "suffix": "full_baseline", "is_baseline": True},
     "emotion":     {"prefixes": ["emotion"],           "suffix": "full_emotion_online", "is_baseline": False},
-    "multimodal":  {"prefixes": ["multimodal", "dissonance"], "suffix": "full_multimodal", "is_baseline": False},
+    "multimodal":  {"prefixes": ["dissonance"],        "suffix": "full_multimodal", "is_baseline": False},
     "dissonance":  {"prefixes": ["dissonance"],        "suffix": "full_dissonance_online", "is_baseline": False},
 }
 
@@ -42,8 +42,9 @@ args = parser.parse_args()
 # =====================================================
 # OpenAI
 # =====================================================
-EVALUATION_MODEL = "gpt-4o"
-client = OpenAI()
+EVALUATION_MODEL = "openai/gpt-4o"
+OR_KEY = os.environ.get("OPENROUTER_API_KEY", "").strip().strip('"').strip("'").strip()
+client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=OR_KEY)
 print(f"Evaluator: {EVALUATION_MODEL} | Dialogues: {args.start}-{args.end} | Backbones: {args.backbones}")
 
 SYSTEM_PROMPT = """You are an expert psychological evaluator specializing in Cognitive Behavioral Therapy (CBT) and therapeutic alliance. Your task is to analyze a full counseling session transcript and score the therapist's performance based on the evaluation frameworks used in the MIRROR paper (arXiv:2504.13211v2).

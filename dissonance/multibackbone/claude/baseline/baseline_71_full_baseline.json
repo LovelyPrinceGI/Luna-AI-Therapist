@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having a really hard time since my grandmother passed away a few weeks ago. I can't seem to focus at work at all — I'll be in the middle of something and then just completely lose track of what I was doing, and it's starting to affect my performance. I guess I'm here because people keep telling me therapy helps, but honestly I'm not sure talking about it is actually going to change how I feel.",
-    "therapist": "I'm so sorry for the loss of your grandmother — grief is one of the heaviest things we carry, and it makes complete sense that your mind is struggling to stay present when it's holding so much pain. Your skepticism about therapy is actually really honest and worth honoring; you don't have to believe it will work for it to be worth exploring together. I'm curious — when you imagine \"feeling better,\" what would that actually look like for you in your day-to-day life?",
+    "client": "I've been having a really hard time since my grandmother passed away a few weeks ago. I keep spacing out at work, like I'll be in the middle of a task and suddenly realize I've just been staring at my screen for twenty minutes without doing anything. I'm not sure talking about it is actually going to change how I feel, but I figured I'd give this a shot.",
+    "therapist": "I'm really glad you gave this a shot, and I want you to know that what you're experiencing — the grief, the spacing out, the doubt about whether talking will even help — all of it makes complete sense after losing someone so important to you. Grief has a way of pulling our minds somewhere else entirely, especially when we're trying to push through our days as if everything is normal. I'm curious — when you find yourself staring at that screen, if you could put words to where your mind actually goes in those moments, what do you think you'd find there?",
     "condition": "baseline",
-    "val_t": -0.16219723224639893,
-    "aro_t": 0.061576247215270996,
-    "text_emotion": "Sad"
+    "val_t": -0.11824941635131836,
+    "aro_t": 0.03524065017700195,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 2,
-    "client": "Honestly, when I try to picture \"feeling better,\" I just... draw a blank, which is kind of scary in itself. I think I'd want to stop waking up at 3am with this tight feeling in my chest, replaying the last few weeks before she passed and wondering if I did enough. I guess feeling better would mean not carrying this guilt around like it's something I deserve to feel forever.",
-    "therapist": "That image you painted — waking at 3am with that tightness, replaying those final weeks — sounds exhausting and heartbreaking, and it tells me how deeply you loved her. I want to gently notice something you said: that the guilt feels like something you *deserve* to feel forever, which is a really painful belief worth examining together when you're ready. What does that inner voice actually say to you in those 3am moments — what specifically is it telling you that you didn't do enough?",
+    "client": "Honestly, when I try to think about where my mind goes, it's like... I keep replaying the last time I saw her, and I didn't say anything particularly meaningful, I just kind of hugged her and left. I think a big part of it is this guilt, like I should have known it was going to be the last time and said something more, done something more. It's hard to even admit that out loud because it sounds so irrational when I say it, but it just sits there in my chest all day.",
+    "therapist": "It takes real courage to say that out loud, and I want you to sit with the fact that what you're feeling isn't irrational at all — it's one of the most human responses to loss there is, this aching wish that we could have known. But I'd gently invite you to notice something: a warm hug from someone you love is actually a profound expression of care, and I wonder if part of you already knew that, even in that moment. What do you think your grandmother experienced when you hugged her goodbye — what might that have meant to her?",
     "condition": "baseline",
-    "val_t": -0.27900588512420654,
-    "aro_t": 0.11815321445465088,
+    "val_t": -0.26971435546875,
+    "aro_t": 0.1270672082901001,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "It says things like... \"you knew she was getting worse and you still went to that work conference\" and \"you promised you'd call every Sunday but you missed two in a row that last month.\" It's very specific, that voice — it doesn't just say I failed her in some vague way, it has this list of exact moments it keeps returning to, like evidence in a case against me. And honestly, part of me thinks that voice is just telling the truth, not distorting anything — which is why I'm not sure \"examining the belief\" is going to change anything.",
-    "therapist": "That voice sounds like a relentless prosecutor, and I understand why it feels credible — it *is* specific, and those moments were real. But here's something worth sitting with: a prosecutor only presents one side of the case, and I wonder if there's an equally specific list of moments where you *were* there for her that this voice conveniently leaves out. What do you think she would say if she were the one weighing all the evidence?",
+    "client": "I want to believe that, and part of me does think she knew I loved her, she wasn't someone who needed big dramatic declarations. But then my brain immediately jumps to this other thought, like maybe I'm just telling myself that to feel better, and I can't really know what she felt, so it doesn't actually resolve anything. It's like no matter what angle I look at it from, the guilt just finds a way to stay.",
+    "therapist": "That pattern you're describing — where your mind accepts a comforting thought for just a moment and then immediately pulls it away — is something we can actually work with, because it tells us the guilt might be functioning almost like a rule your brain has decided to enforce, rather than a conclusion based on evidence. It's worth gently asking: what would it mean for you if you *did* let yourself off the hook — is there a part of you that feels like holding onto the guilt is somehow honoring her, or staying connected to her? I ask because sometimes grief and guilt get tangled together in ways that feel protective, even when they're also painful.",
     "condition": "baseline",
-    "val_t": -0.15120255947113037,
-    "aro_t": 0.08262526988983154,
+    "val_t": -0.22250521183013916,
+    "aro_t": 0.14560306072235107,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and part of me wants to believe there's a counter-list somewhere. But honestly, when I try to think about what she'd say, I just imagine her being kind about it to spare my feelings, not because it's actually true. It's hard to trust that version when the guilty one feels so much more... real, I guess.",
-    "therapist": "It's really telling that your mind automatically discounts her kindness as \"just sparing your feelings\" — that's the guilt talking, essentially rigging the jury so no evidence can ever count in your favor. I want to gently ask: if a close friend came to you carrying this same guilt about *their* grandmother, would you also assume their grandmother's kindness toward them was just politeness, or would you trust it as real? What feels different when it's you being judged versus someone you care about?",
+    "client": "That actually hit something, because yeah, I think if I stopped feeling guilty it would feel like I was just... moving on and forgetting her, like the guilt is proof that she mattered to me. But I don't know if I fully buy the idea that it's just my brain enforcing a rule, because it doesn't feel arbitrary, it feels like it's pointing at something real that I actually did wrong. I guess I'm just not sure how you separate legitimate regret from the kind you're describing.",
+    "therapist": "That distinction you're drawing is actually really important and worth honoring — legitimate regret acknowledges something real, while the kind of guilt we've been exploring tends to demand punishment without end, and never lets you reach a verdict. But I want to stay with what you said first, because it's so meaningful: the idea that her mattering to you needs the guilt to prove it — what if the love itself, the grief you're carrying right now, is already that proof? What do you think it would look like to remember her and stay connected to her in a way that feels like honoring her, rather than punishing yourself?",
     "condition": "baseline",
-    "val_t": -0.06827223300933838,
-    "aro_t": 0.06060385704040527,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "That question kind of stopped me for a second, because honestly, if a friend told me their grandmother was being warm to them, I'd just... believe it. I wouldn't make them argue their case or look for hidden motives. But when it's me, it feels different because I actually know all the things I did wrong — I wasn't there enough, I missed visits, I let months go by — so it feels like I've earned the doubt in a way my friend hasn't.",
-    "therapist": "That pause you just had is really significant — you've just noticed something important: that you hold yourself to a completely different standard than you'd ever impose on someone you love, and you're using your self-knowledge not as wisdom but as a weapon against yourself. It's worth considering that your friend also has things they \"did wrong\" that they simply haven't told you — none of us show up perfectly for the people we love, and yet you'd still trust their grandmother's warmth as real. What do you think it would feel like, even just for a moment, to extend yourself the same basic trust you'd give your friend?",
-    "condition": "baseline",
-    "val_t": -0.05890238285064697,
-    "aro_t": 0.163443922996521,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 6,
-    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it just feels... different when it's me. Like, I know all my own failures from the inside, every ugly thought and selfish moment, and that feels way harder to look past than whatever my friend might be hiding. Even trying to imagine giving myself that same trust feels almost dishonest, like I'd be letting myself off the hook for things I genuinely did wrong.",
-    "therapist": "What you're describing — knowing yourself \"from the inside\" with all your messy thoughts and moments — is something every human carries, but most of us never have to put it on trial the way you're doing right now. There's an important difference between acknowledging that you weren't perfect (which is honest) and concluding that imperfection cancels out your love or means you deserve ongoing punishment (which is the guilt distorting things). I'm wondering: in your mind, what would actually \"letting yourself off the hook\" look like — and is there a version of self-compassion that doesn't require pretending those hard moments didn't happen?",
-    "condition": "baseline",
-    "val_t": -0.2974165678024292,
-    "aro_t": 0.15681016445159912,
+    "val_t": -0.171331524848938,
+    "aro_t": 0.13022148609161377,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "Honestly, when I try to imagine \"letting myself off the hook,\" it feels like I'm just... excusing myself, like I'm saying what I did or didn't do didn't matter. And I think part of me is afraid that if I stop punishing myself, I'll somehow forget how much she meant to me, like the guilt is the only thing keeping that connection alive. I don't know if I can hold both things at once — that I loved her and that I failed her in some ways — without one of them canceling the other out.",
-    "therapist": "What you just said feels like a really profound and honest insight — that the guilt has become a way of staying close to her, of keeping the love alive, which makes so much sense even as it's costing you so much. But I want to offer a gentle reframe: the love and the imperfection aren't actually in competition, because it's precisely *because* she mattered so deeply that those missed calls and that conference feel so heavy — the grief itself is proof of the love. What if the connection to her doesn't have to live in the guilt, but could live somewhere that hurts a little less — what are some moments with her that feel like pure love, without the shadow of those final weeks?",
+    "turn": 5,
+    "client": "That's a nice idea in theory, but I genuinely don't know what that would look like in practice, and I'm worried it's one of those things that sounds good in a therapy session but then I go home and nothing actually changes. She used to make this specific recipe, and I've thought about trying to make it myself, but then I feel like I'd just be sitting alone in my kitchen crying, which doesn't exactly sound like honoring her so much as just being sad by myself. I guess I'm not sure how to tell the difference between doing something meaningful and just torturing myself.",
+    "therapist": "I really appreciate your honesty about that fear, because it's a valid one — and I actually want to gently push back on one thing: sitting alone in your kitchen crying while making her recipe might not be torturing yourself, it might be *exactly* what grief that honors someone looks like, even if it's messy and painful. The fact that you've already thought about making that recipe tells me something in you is already reaching toward her in a meaningful way. What do you imagine she would think if she could see you standing in your kitchen, trying to recreate something she made for you?",
     "condition": "baseline",
-    "val_t": -0.27823400497436523,
-    "aro_t": 0.1757676601409912,
+    "val_t": -0.3039431571960449,
+    "aro_t": 0.11129820346832275,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "She would probably laugh at me a little, honestly, because I'm not a great cook and she always teased me about that. And then I think she'd be glad, like genuinely glad, not in a sentimental way but just in this quiet way she had. I didn't expect that thought to make me feel something, but it did, and now I'm kind of sitting here not knowing what to do with it.",
+    "therapist": "That moment you just had — that's not nothing, that's actually your mind finding her in a real and specific way, her laugh, her quiet gladness, the way she actually was with you. It's okay to not know what to do with it right away; you don't have to resolve it or turn it into anything, you can just let it be there. I'm wondering if that image — her being quietly glad — might be something worth returning to when the guilt gets loud, almost like a different kind of evidence about who you were to each other?",
+    "condition": "baseline",
+    "val_t": 0.046900391578674316,
+    "aro_t": 0.16936194896697998,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I like the idea of that, but I'm a little skeptical that I'll actually be able to access it when the guilt is really loud, because in those moments it feels like everything else just gets crowded out. It's like right now, talking about it, I can hold onto that image of her laughing, but at work when I'm staring at my screen, I don't know if I'll have the presence of mind to go there. I guess I'm willing to try, but I don't want to set myself up to feel like a failure if it doesn't work the way it's supposed to.",
+    "therapist": "That skepticism is actually really healthy and worth listening to, because you're right that accessing a calm image in a moment of overwhelm is a skill that takes practice, not something that just works the first time — so I want to reframe this not as something that should work, but as a small experiment we're just curious about. And the bar doesn't have to be \"the guilt disappears\" — even a few seconds of holding her laughing at you in that kitchen would be worth noticing. What if the next time you catch yourself staring at that screen, you just tried it once, without any pressure for it to fix anything, and we see together what actually happens?",
+    "condition": "baseline",
+    "val_t": -0.14774620532989502,
+    "aro_t": 0.1618180274963379,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and part of me really wants to believe that... but it's hard not to feel like you're just trying to make me feel better, like you're offering me an easier version of the story. When I try to think of moments that feel like pure love, they're there, they exist, like Sunday mornings when she'd call just to read me something from whatever book she was into, but then almost immediately my brain drags me back to the end and I think, \"but you weren't there when it counted.\" I don't know if I can hold onto those good memories without them just becoming another reminder of what I lost.",
-    "therapist": "I want to honor your skepticism directly — you're right that I *am* on your side, but that doesn't mean I'm handing you a false story, and the fact that those Sunday morning memories exist and feel real is something your own mind produced, not something I invented. What strikes me is that your brain is doing something very specific: it allows the good memory in for just a moment, then immediately uses it as a runway to land back on guilt — and noticing that pattern, that *mechanism*, is actually really important work. I'm curious: in that brief moment before your brain redirected you, when you were picturing her calling to read to you — what did that feel like in your body, just for that second?",
+    "client": "Okay, framing it as an experiment rather than something I'm supposed to get right does make it feel a little less daunting, I'll admit that. I think my worry is still that I'll catch myself spacing out and then feel guilty about spacing out on top of everything else, like I'll turn it into another thing I'm doing wrong. But I guess I can try it once and just... report back on what actually happened, without deciding in advance that it failed.",
+    "therapist": "That awareness you just named — the worry about layering guilt on top of guilt — is actually really valuable to carry into the experiment, because if that happens, it's useful information rather than evidence that you failed. You've already done something significant today: you found a real, specific image of her that actually moved you, and that came from you, not from me. I'll be really curious to hear what you notice — not whether it \"worked,\" but just what it was actually like in that moment.",
     "condition": "baseline",
-    "val_t": -0.11313462257385254,
-    "aro_t": 0.20011365413665771,
-    "text_emotion": "Angry"
+    "val_t": -0.08940315246582031,
+    "aro_t": 0.054904818534851074,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "For just that second, before everything else came in, it felt like... warmth, I guess, kind of in my chest, like something loosening a little. But it was so fast, and I almost don't trust it, because it feels like if I let myself actually sit in that feeling, I'm somehow letting myself off the hook for not being there more at the end. It's like the warmth and the guilt are tied together and I can't have one without the other dragging me back down.",
-    "therapist": "That warmth you felt — that loosening in your chest — that's not you letting yourself off the hook, that's her, that's the love that was real and still lives in you, and it's significant that your body recognized it even when your mind rushed to shut it down. What you're describing, that warmth and guilt being tied together, makes sense right now because grief is new and the loss is raw, but I don't think they have to be permanently fused — the warmth doesn't erase the pain, and the pain doesn't cancel the warmth. I wonder if, just as a small experiment this week, you might notice when that warmth surfaces and try to stay with it for just one or two breaths before the guilt pulls you away — not to deny anything, but just to see what happens when you give it a little more room?",
+    "client": "I think I needed to hear that it came from me, because I've been sitting here half-expecting you to hand me some technique that I'd then feel obligated to execute correctly. It's a little strange to admit that this conversation actually did something, because I came in pretty convinced it wouldn't. I'm still nervous about the week ahead, but I think I can try the experiment once and just be honest with you about what it was actually like.",
+    "therapist": "What you just said matters a lot — you came in skeptical and honest, and you stayed that way throughout, and that's actually what made this conversation real rather than just going through the motions. The nervousness about the week ahead makes complete sense, and you don't have to feel ready, you just have to be willing to notice one moment and bring it back here. I'm really glad you gave this a shot.",
     "condition": "baseline",
-    "val_t": -0.22700655460357666,
-    "aro_t": 0.1605445146560669,
-    "text_emotion": "Angry"
+    "val_t": 0.01303088665008545,
+    "aro_t": 0.12137603759765625,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe that the warmth and the guilt don't have to cancel each other out. But honestly, when I try to imagine actually doing that — just sitting with the warmth for a breath or two — I'm scared that if I let myself feel good about her even for a second, it means I'm moving on, like I'm already forgetting her. I know that probably sounds irrational, but it feels like the guilt is the last thing keeping me connected to how much she mattered.",
-    "therapist": "You've actually named something really important here — that fear of \"moving on\" is one of the most common and painful parts of grief, and it doesn't sound irrational at all, it sounds like love trying to protect itself. But I want to gently offer this: those Sunday morning calls, the warmth in your chest just now, the fact that you're here carrying all of this so seriously — that's what keeps her alive in you, not the punishment. What if staying connected to her didn't have to hurt — what do you think *she* would want the thing that keeps her memory alive to feel like?",
+    "client": "Thank you, and I mean that genuinely, which is a weird thing for me to say because I usually leave conversations like this feeling kind of hollow. I think what I'm taking away is just that one small thing, trying the experiment once and not turning it into a test I can pass or fail. I'll be honest, I'm already a little worried I'll overthink it, but I guess that's kind of on brand for me at this point.",
+    "therapist": "That self-awareness — knowing that overthinking is \"on brand\" for you — is actually one of your strengths, because you can see it coming, which means you're already a step ahead of it. And if you do catch yourself overthinking the experiment, that's just more honest data to bring back, not a sign that you did it wrong. I'm really looking forward to hearing what you find out.",
     "condition": "baseline",
-    "val_t": -0.2602524757385254,
-    "aro_t": 0.09572327136993408,
-    "text_emotion": "Sad"
+    "val_t": 0.08139204978942871,
+    "aro_t": 0.07300055027008057,
+    "text_emotion": "Neutral"
   }
 ]

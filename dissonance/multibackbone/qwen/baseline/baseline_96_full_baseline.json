@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, it's been a tough few weeks. Since my breakup with Maria, I just can't seem to find joy in things I used to love, like hiking with friends. It feels like everything is a bit more muted and less exciting. I know we broke up three months ago, but it's still really hard to shake this feeling.",
-    "therapist": "I'm really sorry to hear that you're going through this, and it's completely understandable that you're still feeling the impact of your breakup with Maria. It's natural for these feelings to linger, especially when you're doing things that used to bring you joy. Can you tell me more about what it feels like when you try to engage in activities you used to love?",
+    "client": "Hey Luna, it's been a tough few weeks. Since the breakup with Maria, I just can't seem to get into the things I used to love, like hiking with friends. It feels like everything is just ... off, and I'm not sure if therapy can really help me get back to enjoying life again.",
+    "therapist": "I'm really sorry to hear that you're feeling this way, and it's completely understandable to feel off after a breakup. It's natural for such a significant change to affect your enjoyment of activities you once loved. How have you been coping with these feelings, and are there any small steps you might be willing to try to reconnect with your interests?",
     "condition": "baseline",
-    "val_t": -0.1496347188949585,
-    "aro_t": 0.1453624963760376,
-    "text_emotion": "Angry"
+    "val_t": -0.044977664947509766,
+    "aro_t": 0.1191091537475586,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 2,
-    "client": "It feels really hollow, like I'm just going through the motions. Even when I try to do things I used to love, like hiking or painting, I can't shake the feeling that it's all pointless without her. It's hard to find the motivation to even start, and when I do, it just reminds me of the good times we had together.",
-    "therapist": "It sounds incredibly difficult to reconnect with those activities, and it’s completely understandable that they bring up a lot of mixed feelings. It’s natural to feel a sense of emptiness when you’re reminded of the good times you shared with Maria. How do you think you might gently start to rebuild some interest in these activities, even if it’s just a small step?",
+    "client": "Thanks for understanding, Luna. I've mostly been staying in, watching TV, and trying to keep busy with work. But it feels like nothing really helps. When you say small steps, I don't know, it just seems hard to even think about doing things I used to enjoy. It feels like I'm just going through the motions.",
+    "therapist": "It sounds like you're really giving yourself a chance to process this difficult time, and that's important. It's okay to feel this way, and it's common to lose interest in things we usually enjoy when we're going through a tough emotional period. What do you think might be a tiny step, even if it feels insignificant, that could help you start to reconnect with something you used to enjoy? Maybe it's just thinking about it for now, without any pressure to actually do it.",
     "condition": "baseline",
-    "val_t": -0.10019516944885254,
-    "aro_t": 0.15383875370025635,
-    "text_emotion": "Angry"
+    "val_t": 0.04050636291503906,
+    "aro_t": 0.11374485492706299,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how hard it is. It feels like every time I try to do something I used to enjoy, I’m just reminded of how much I miss her. I don’t know if I can handle that kind of emotional weight right now. It’s hard to even imagine starting small when it feels like everything is so big and overwhelming.",
-    "therapist": "I can really see how overwhelming and heavy this all feels for you, and it’s completely valid to feel that way. It’s okay to take your time and not force yourself into anything that feels too big right now. What do you think might be a small, manageable step you could take to start reconnecting with yourself or your interests, even if it’s just a tiny bit?",
+    "client": "I appreciate that, Luna. Thinking about it is definitely less intimidating. I guess I could start by looking up some local hiking trails or even just reading about them. But it feels like a big leap to actually go out and do it, you know? It's hard to imagine myself enjoying it right now.",
+    "therapist": "That's a really good start, and taking it one step at a time is so important. Just the act of looking up trails or reading about them can help you feel more connected to the activity, even if you're not ready to go out yet. How do you think you might feel if you were to take that small step, even if it's just mentally preparing for it? What thoughts come up when you imagine yourself looking up those trails?",
     "condition": "baseline",
-    "val_t": 0.02495419979095459,
-    "aro_t": 0.2885204553604126,
-    "text_emotion": "Tense"
+    "val_t": 0.12681889533996582,
+    "aro_t": 0.12424170970916748,
+    "text_emotion": "Excited"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It does feel really heavy sometimes. I guess a small step could be trying to pick up a book or something, but it's hard because I just don't feel motivated most of the time. It's like the anxiety and guilt weigh me down so much that even small things seem too big.",
-    "therapist": "I completely understand how the weight of anxiety and guilt can make even small steps feel daunting. It’s okay to start with something as simple as picking up a book, even if it’s just for a few minutes. How about setting a very gentle goal, like reading just one page or spending five minutes with a book? What do you think might help you make that small step feel a bit more manageable?",
+    "client": "When I think about looking up the trails, it feels a bit daunting, but also a little bit hopeful. I guess I worry that it might make me feel more alone or remind me of the times I went hiking with Maria. But maybe it could also be a way to start rebuilding some of those positive feelings, even if it's just a small step.",
+    "therapist": "It's really brave of you to acknowledge both the daunting and hopeful aspects of that step. It's completely normal to have mixed feelings, especially when activities remind you of shared experiences. At the same time, it's great that you can see the potential for rebuilding positive feelings. What do you think might help you manage those feelings of loneliness or reminders of Maria if you decide to take that small step?",
     "condition": "baseline",
-    "val_t": -0.15229475498199463,
-    "aro_t": 0.1628580093383789,
-    "text_emotion": "Angry"
+    "val_t": 0.07802939414978027,
+    "aro_t": 0.04596662521362305,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate the idea, but I'm not sure if reading will really help with the anxiety and guilt I'm feeling. It's hard to focus on something like that when my mind is so cluttered. I worry that I'll just end up feeling frustrated and like I'm not making any progress.",
-    "therapist": "I hear you, and it’s totally understandable that reading might not feel like the right step right now, especially when your mind is so cluttered. It’s important to choose something that feels a bit more aligned with where you are emotionally. What are some other small, low-pressure activities that might help you feel a bit more grounded or give you a sense of control, even if just for a moment?",
+    "client": "I think having some distractions or ways to shift my focus might help. Maybe listening to music or a podcast while I look up the trails could make it a bit easier. But it's still a bit scary to face those memories, and I'm not sure if I'm ready for that just yet.",
+    "therapist": "That's a thoughtful approach, and using music or a podcast as a way to shift your focus can be really helpful. It's okay to take things at your own pace and not rush into anything you're not ready for. How do you feel about setting a small, manageable goal for yourself, like looking up one trail or reading a short article about hiking, and seeing how it goes? What do you think might be a good way to support yourself emotionally as you try this?",
     "condition": "baseline",
-    "val_t": -0.2673224210739136,
-    "aro_t": 0.1513742208480835,
+    "val_t": -0.14687740802764893,
+    "aro_t": 0.14978182315826416,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, Luna. It’s just hard to find anything that feels right when I’m feeling so overwhelmed. Maybe something like taking a short walk or doing a bit of stretching could help, but I worry that even those small things might feel too much sometimes.",
-    "therapist": "I completely understand how overwhelming it can be to even consider small steps when you're feeling so weighed down. Taking a short walk or doing some gentle stretching can be really grounding, and it’s great that you’re thinking about those options. How about starting with just one or two minutes of stretching or a very short walk around your home or a nearby area? What do you think might make it a bit easier to try one of these activities, even if it’s just for a short time?",
+    "client": "I think setting a small goal like that could be manageable. It feels less overwhelming than trying to force myself to go hiking right away. Maybe I can also write down a few positive affirmations or reasons why I used to enjoy hiking, to help boost my mood and remind myself of the good times, not just the tough ones.",
+    "therapist": "That's a great plan, and I'm really glad you're considering a manageable goal that feels less overwhelming. Writing down positive affirmations and reasons why you enjoyed hiking can be a powerful way to shift your focus and reconnect with the positive aspects of the activity. How do you think you might feel after taking that step, and what do you hope it might bring you?",
     "condition": "baseline",
-    "val_t": -0.026282191276550293,
-    "aro_t": 0.17387712001800537,
-    "text_emotion": "Tense"
+    "val_t": 0.16871511936187744,
+    "aro_t": 0.09302425384521484,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate you suggesting something manageable, but I still feel really stuck. It's hard to even imagine myself doing that right now. I worry that I'll start and then feel even more overwhelmed or frustrated if I can't keep it up.",
-    "therapist": "I can see how much you’re struggling, and it’s completely understandable to feel stuck and worried about adding more pressure to yourself. It’s okay to take things incredibly slowly, and even just acknowledging how you feel is a big step. What if we focus on something even smaller, like taking a few deep breaths or finding a quiet moment to sit and notice your surroundings? How does that feel as a starting point?",
+    "client": "I think I might feel a bit more hopeful and less stuck after taking that step. It could help me see that there are still things to look forward to, even if they're small. I hope it might bring me a sense of progress and a little bit of joy, even if it's just a start.",
+    "therapist": "That's a beautiful and hopeful outlook, and it's wonderful to hear that you're open to seeing what small steps can bring. Feeling a bit more hopeful and less stuck is a great start, and it can lead to more positive changes over time. How do you think you might build on this sense of progress and joy as you move forward?",
     "condition": "baseline",
-    "val_t": -0.29953646659851074,
-    "aro_t": 0.24886882305145264,
-    "text_emotion": "Angry"
+    "val_t": 0.1502530574798584,
+    "aro_t": 0.23791897296905518,
+    "text_emotion": "Excited"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It does feel good to acknowledge how I'm feeling, but I worry that even small steps might not make a difference. I mean, I've tried taking deep breaths before, and it just doesn't seem to help with the bigger issues. How do I know if I'm just wasting my time?",
-    "therapist": "I understand your concern, and it’s completely valid to feel that way, especially when you’ve tried things before and they didn’t seem to make a big difference. It’s important to remember that small steps are about building a foundation and creating a sense of control, even if they don’t immediately solve the bigger issues. How do you think you might approach these small steps with a sense of curiosity, rather than pressure, to see if they can help you feel a bit more grounded, even if just for a moment?",
+    "client": "I think I could start by gradually increasing the time I spend on activities I used to enjoy, like maybe looking up more trails or planning a short walk in a nearby park. It feels less daunting when I break it down into smaller steps. But I'm still a bit worried about how I'll manage the emotional ups and downs as I try to rebuild these habits.",
+    "therapist": "That's a really thoughtful and realistic approach, and breaking things down into smaller steps can make a big difference. It's completely normal to worry about the emotional ups and downs, and taking it one step at a time can help you manage those feelings more effectively. What do you think might be some strategies or resources that could support you emotionally as you start to rebuild these habits? Maybe there's a friend, a relaxation technique, or a favorite self-care activity that could help?",
     "condition": "baseline",
-    "val_t": -0.1043006181716919,
-    "aro_t": 0.12172830104827881,
-    "text_emotion": "Angry"
+    "val_t": -0.13163256645202637,
+    "aro_t": 0.07107305526733398,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I really do want to try, but it's hard to feel curious when I'm so overwhelmed by anxiety and guilt. It feels like every small step just reminds me of how far I still have to go, and that just makes me feel more isolated and defeated. I guess I’m just not sure how to shift from feeling pressured to feeling curious.",
-    "therapist": "I completely understand how overwhelming and defeating it can feel, especially when every step seems to highlight how far you have to go. It’s totally normal to feel that way. What if we focus on finding just one small thing that you can do today, not with the goal of making everything better, but simply to give yourself a tiny bit of space or a moment of calm? How does that feel as a starting point, and what might that one small thing be?",
+    "client": "I think connecting with a friend who also enjoys hiking might be helpful. They could offer some support and make the experience less isolating. I also find that journaling helps me process my emotions, so maybe I can write about my feelings as I start to take these steps. It's still a bit daunting, but I feel a little more hopeful that I can manage it.",
+    "therapist": "Those are both excellent strategies, and reaching out to a friend who shares your interests can make a big difference in feeling supported. Journaling is a great way to process your emotions and track your progress, which can be really empowering. It's totally normal to still feel a bit daunting, but the fact that you're feeling more hopeful is a positive sign. How do you think you might prepare for that first hike with your friend, and what do you hope to gain from the experience?",
     "condition": "baseline",
-    "val_t": -0.30757975578308105,
-    "aro_t": 0.17799437046051025,
-    "text_emotion": "Angry"
+    "val_t": 0.17142891883850098,
+    "aro_t": 0.15234887599945068,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It does feel overwhelming, and sometimes it's hard to see the point of even trying. But I guess focusing on something small could be manageable. I just worry that even small things might feel too big on some days. Maybe I could try something really simple, like taking a short walk or listening to a calming song? But what if I can't even manage that?",
-    "therapist": "I understand how daunting even small steps can feel, and it’s completely okay to have those worries. It’s great that you’re considering something simple like a short walk or listening to a calming song. What if we think of these small steps as gentle experiments, where the goal is just to see how you feel, rather than expecting a big change? How does that feel, and what might help you feel a bit more supported in trying one of these small things today?",
+    "client": "I think I'll start by reaching out to my friend and suggesting a short, easy trail. I'll also make sure to pack some snacks and water, and maybe bring a playlist to listen to. I hope this hike can help me feel more connected to nature and maybe even start to enjoy the activity again, even if it's just a little bit. It's still a bit scary, but I'm willing to give it a try.",
+    "therapist": "That's a fantastic plan, and I'm really proud of you for taking these steps. Reaching out to your friend, packing snacks and water, and bringing a playlist are all great ways to make the experience more enjoyable and supportive. It's completely okay to feel a bit scared, and giving it a try is a sign of your resilience. How do you think you might reflect on your experience after the hike, and what do you hope to learn from it?",
     "condition": "baseline",
-    "val_t": 0.07453978061676025,
-    "aro_t": 0.11644303798675537,
-    "text_emotion": "Neutral"
+    "val_t": 0.13522064685821533,
+    "aro_t": 0.12852132320404053,
+    "text_emotion": "Excited"
   }
 ]

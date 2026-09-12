@@ -1,0 +1,103 @@
+\setlength{\footskip}{8mm}
+
+\chapter{DISCUSSION}
+
+This chapter interprets the experimental findings in depth: what the results mean for our two research questions, how they situate within prior work, why key design decisions were made, and what limitations and future directions follow.
+
+\section{Revisiting Research Questions}
+
+\subsection{RQ1: Does the Dissonance-Aware Framework Outperform the Baselines?}
+
+Our first hypothesis (H1) predicted that the Dissonance-Aware therapist would achieve the highest or tied-highest scores on all seven evaluation metrics compared to Baseline, Emotion (Text-Only), and Multimodal (Vocal-Aware) conditions. The 100-dialogue experiment on GPT-4o mini supports this prediction with respect to the text-only baselines: Dissonance-Aware outperformed Baseline and Emotion on every metric, with gains concentrated on the CTRS dimensions: Collaboration rose from 3.26 to 4.06 (+0.80), Guided Discovery from 2.48 to 3.16 (+0.68), Strategy from 2.45 to 3.07 (+0.62), and Focus from 3.05 to 3.64 (+0.59), while Understanding improved from 4.17 to 4.70 (+0.53). Against the Multimodal condition, the two vocal conditions were near-equivalent (differences $\leq 0.10$ on six metrics), with Dissonance-Aware leading on CTRS Focus.
+
+Two aspects of this result deserve emphasis. First, the two vocal conditions (Multimodal and Dissonance-Aware) clearly outperform the two text-only conditions on nearly every metric, which indicates that vocal information is the primary driver of the gain, and that the dissonance computation contributes \emph{on top of} raw vocal metadata, most visibly on CTRS Focus. Second, the largest gains appear precisely where we theorized they would: the CTRS competencies that require the therapist to guide, focus, and strategize, rather than simply to be warm. Interpersonal Effectiveness and Affective Bond improved the least, because a supportive tone is already achievable from text alone; what text alone cannot supply is the perception of hidden affect, and that is where the dissonance signal acts.
+
+One finding we did not fully anticipate was the behavior of the Multimodal (Vocal-Aware) condition on the Qwen backbone, where adding vocal metadata without the dissonance structure left Guided Discovery near the Emotion (Text-Only) level (3.08 vs.\ 2.96) while Dissonance-Aware lifted it to 3.40. We interpret this as evidence that raw acoustic information can act as noise for a weaker model unless an explicit reasoning frame (the dissonance delta and flag) tells the model what to do with it. The Dissonance-Aware condition outperforms Multimodal on six of seven metrics on Qwen, reinforcing the claim that the signal's value lies in the mismatch computation, not merely in access to more data.
+
+Paired $t$-tests (Section~\ref{subsec:significance}) confirm this reading: the Dissonance--Multimodal difference on GPT-4o mini is not significant ($t = -0.39$ on per-dialogue totals), whereas every vocal condition separates clearly from the text-only baselines ($t \geq 4.2$). The equivalence arises because the dissonance flag fired on only 0.5\% of turns with synthetic voices: the TTS director derives vocal emotion from the text, so text--voice mismatch rarely occurs naturally. The mechanism itself is verified by the real-voice demonstration (Section~\ref{sec:chat-demo}), where a genuine mismatch ($\delta_V = -1.05$) triggered appropriate exploration. We therefore read the dissonance flag as a functional mechanism whose causal effect remains under-tested at scale under synthetic speech, and we treat Dissonance-Aware and Multimodal as equivalent on GPT-4o mini rather than as a failed hypothesis.
+
+\subsection{RQ2: Is the Advantage Robust Across LLM Backbones?}
+
+Our second hypothesis (H2) predicted that the dissonance advantage would persist across different LLM backbones. This was supported without exception: all four backbones (GPT-4o mini, Claude Sonnet 4.6, Qwen-2.5-72B-Instruct, DeepSeek V3.2) showed positive Dissonance-over-Baseline uplift on every summary measure, across dense and Mixture-of-Experts architectures, closed and open-weight models, and three vendors.
+
+The most interesting pattern in the RQ2 data is the \emph{inverse relationship} between baseline strength and uplift magnitude. GPT-4o mini, the weakest backbone, gained the most (average +0.64 across metrics), while Claude Sonnet 4.6, whose Baseline already approached ceiling (Understanding 5.05/6), gained the least (+0.11). This is a desirable property: the framework adds the most value exactly where it is needed most. The practical consequence is notable. GPT-4o mini under Dissonance-Aware raised its Understanding score from 4.17 to 4.70, moving substantially closer to Claude's Baseline of 5.05 at roughly a twentieth of the inference cost. In other words, the dissonance signal can partially substitute for raw model capability in this task, which matters for deploying emotionally aware therapeutic AI in cost-constrained settings.
+
+We did not, however, claim that the framework closes the gap entirely. Claude under Dissonance-Aware achieved the highest absolute scores in the study (5.16 on every CTRS dimension), so stronger backbones still produce stronger therapists. The honest summary is that the dissonance signal raises the floor meaningfully while also nudging the ceiling upward.
+
+\subsection{What We Did Not Achieve}
+
+Our ultimate goal is a therapeutic system that perceives masked affect as reliably as a skilled human clinician. We are still far from that goal in two ways: our evaluation relies on an LLM judge rather than human experts, and our dialogues are synthetic rather than real client data. These are discussed as limitations below.
+
+\section{Comparing with Past Work}
+
+Table~\ref{tab:past-work} positions our framework against the closest prior works, in terms of the cues each system uses, the task it addresses, and how it is evaluated.
+
+\begin{table}[hbt!]
+\caption{Comparison with prior work: cues, tasks, and evaluation}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lp{2.6cm}p{2.2cm}p{2.6cm}p{3.4cm}}
+\hline
+\textbf{Work} & \textbf{Cues Used} & \textbf{Task} & \textbf{Evaluation} & \textbf{Key Difference from Ours} \\ \hline
+CACTUS \cite{lee2024cactus} & Text only & CBT dialogue generation & CTRS + PANAS (COUNSELINGEVAL) & No vocal channel at all \\
+MIRROR \cite{kim-etal-2025-mirror} & Text + facial expression & CBT reframing with resistance & GPT-4o judge (3 metrics) & Visual modality only; no voice \\
+Haydarov et al. \cite{haydarov-etal-2025-towards} & Face-to-speech VA dissonance & Therapeutic intervention generation & LLM judge + expert study & Dissonance between face and voice, not text and voice \\
+Wang \& Wu \cite{wang2024evaluationdatainconsistencymultimodal} & Text + audio inconsistency & Multimodal sentiment analysis & DiffEmo benchmark accuracy & Treats mismatch as a failure mode, not a signal \\
+SpeechCueLLM \cite{wu2025beyond} & Prosody as text descriptors & Emotion recognition & F1 (IEMOCAP, MELD) & Classification, not dialogue generation \\
+Sun et al. \cite{sun2024beyond} & Pitch, loudness, duration & Robot navigation decisions & Task success rate & Non-therapeutic domain \\
+\textbf{Ours} & \textbf{Text-to-speech VA delta + flag + vocal descriptors} & \textbf{CBT therapist response generation} & \textbf{7-metric blind GPT-4o judge across 4 backbones} & Dissonance as a prompt-level therapeutic signal \\ \hline
+\end{tabular}%
+}
+\label{tab:past-work}
+\end{table}
+
+Our results are consistent with, and extend, three threads of prior findings. First, Sun et al. and Wu et al. (SpeechCueLLM) showed that vocal features injected as text improve LLM decision-making and emotion recognition; we confirm the same principle holds for generative therapeutic dialogue. Second, MIRROR demonstrated that non-verbal cues (facial expressions) improve AI therapists' handling of client resistance; we show that vocal cues play an analogous role, and voice is arguably the more deployable channel in teletherapy, where cameras may be off. Third, Wang and Wu documented that multimodal models degrade when text and audio conflict; our results provide the complementary constructive view: the same conflict, computed explicitly and surfaced to the model as a dissonance flag, becomes a therapeutic asset rather than a failure mode. The closest work remains Haydarov et al., who compute dissonance between facial and vocal emotion. Our formulation differs in using text and speech, the two channels most available in real counseling deployments, and in evaluating full multi-turn CBT response generation under a blind seven-metric protocol replicated across four LLM backbones.
+
+\section{Experimental Decisions}
+
+Several design choices shaped the results and deserve explicit discussion.
+
+\textbf{Prompt-level feature injection instead of fine-tuning.} All four therapist backbones remain frozen; emotional information reaches the model purely through the prompt. This decision is what makes the architecture-agnostic claim (H2) testable at all, since the identical signal can be injected into any LLM without modification. It also makes the framework cheap to replicate: no training runs, no adaptation cost, and immediate transfer to future models. The trade-off is that prompt-based signals compete for the model's attention with dialogue content, which may be one reason weaker backbones (Qwen) occasionally mishandle raw vocal metadata without the dissonance frame.
+
+\textbf{Fixed threshold $\tau = 0.5$.} We deliberately kept the dissonance threshold fixed and simple, following prior work, rather than learning or tuning it. A fixed, interpretable rule keeps the experimental variable isolated: any performance difference is attributable to the signal's presence, not to threshold optimization. The cost of this choice is rigidity; a single global threshold cannot distinguish a genuinely masked client from, for example, a noisy TTS artifact. Adaptive, context-aware thresholding is therefore a natural future direction (see Limitations and Future Work).
+
+\textbf{Resist persona for the client.} The client LLM was configured with skepticism and partial resistance, inspired by the MIRROR framework's emphasis on resistance handling. This persona creates precisely the conversational moments where dissonance is clinically meaningful: a client who says they are fine while sounding otherwise. A fully cooperative client would rarely produce text-voice mismatch, and the framework would have little room to demonstrate its value.
+
+\textbf{Shared problem seeds.} Every condition and every backbone ran on the identical set of 100 problem seeds. This choice removes seed-level variation as a confound and permits direct per-dialogue comparison across conditions.
+
+\textbf{Blind GPT-4o judge at temperature 0.0.} Automated evaluation was necessary to score 1,600 sessions, and a deterministic, condition-blind judge maximizes consistency. We note, however, that an LLM judge is not a substitute for human clinical experts; prior work has shown that LLM evaluators can misalign with expert assessments in psychotherapy settings. Our results should therefore be read as strong but preliminary evidence of therapeutic quality.
+
+\textbf{Synthetic speech via Zonos.} Using TTS-synthesized client audio avoids all privacy and ethics concerns around real patient recordings, and it gives exact control over intended vocal emotion. The cost is fidelity: the alpha-stage TTS occasionally produces degenerate or truncated audio, and its prosodic range is narrower than real human speech. This limitation surfaced concretely during our demo preparation, when screening revealed several utterances with degenerate synthesis.
+
+\textbf{Stateful therapist context.} The therapist LLM receives the complete conversation history accumulated up to that turn, implemented by passing the accumulated system, client, and therapist messages as the full context for each generation call. This reflects real therapeutic practice in which each response builds on earlier disclosures, references prior emotions, and maintains continuity across turns. The history is maintained as an in-memory list that is cleared at the end of each dialogue, requiring no persistent storage. The principal trade-off is a modest increase in prompt length as the session progresses, which is partially offset by allowing deeper, more contextually grounded therapeutic responses.
+
+\textbf{Generation temperature 0.7.} We selected 0.7 as the balance between natural conversational tone and topical stability for therapist role-play, and held it constant across all backbones and conditions to prevent temperature from becoming a confound.
+
+\textbf{Implications for practitioners.} Read together, these decisions suggest a practical guideline for building emotionally aware therapeutic AI on a budget: you do not need a frontier model or a training pipeline. A small, inexpensive model, given an explicit text-voice dissonance signal in its prompt, approaches the baseline performance of a model many times its cost. The critical ingredients are the mismatch computation itself and a prompt that frames mismatch as something to explore gently rather than to accuse.
+
+\section{Limitations and Future Work}
+
+\subsection{Limitations}
+
+We focus on concrete limitations that could affect the validity of our findings.
+
+\textbf{TTS fidelity.} Our synthesized client audio comes from an alpha-stage TTS engine. During screening we observed degenerate outputs (a sustained scream-like artifact in one utterance) and truncated sentences in others. Such artifacts inject noise into the speech VA and vocal descriptors, and in some dialogues they likely degraded the very signal the framework depends on. Results obtained with production-grade TTS or real recordings could differ.
+
+\textbf{Rare dissonance flags under synthetic speech.} Because the TTS director derives vocal emotion from the text content, speech VA tracks text VA closely and the dissonance flag fired on only 0.5\% of turns. On the remaining turns the Dissonance-Aware prompt receives the same information as the Multimodal prompt, which limits our ability to measure the flag's causal effect at scale and explains the statistical equivalence of the two vocal conditions on GPT-4o mini. A controlled manipulation that synthesizes voices deliberately contradicting the text would raise the flag rate to a designed level and directly test the mechanism.
+
+\textbf{Vocal descriptor variance dependency.} The librosa descriptors are only as variable as the client's emotional state. In particular, the pitch component is constant across all turns in all 100 dialogues (always ``very high pitch'' in the current Zonos output), while loudness and rate do vary. When the client's emotional state remains stable, the pitch descriptor provides no turn-level variation, reducing its discriminative value to the therapist.
+
+\textbf{Computational overhead.} The Dissonance-Aware pipeline costs approximately 29\% more time per dialogue than Baseline (97.3s vs.\ 75.4s on Claude), driven mainly by longer therapist responses and by the WavLM and librosa extraction steps. This overhead is acceptable offline but matters for real-time deployment.
+
+\textbf{LLM-judged, synthetic, English-only data.} All evidence comes from synthetic dialogues evaluated by an LLM. We have no evidence yet from real therapy clients or human expert raters, and the framework has not been tested in languages other than English or on long-term multi-session therapy.
+
+\subsection{Future Work}
+
+We see two concrete next steps.
+
+\textbf{Cross-turn dissonance tracking with adaptive threshold.} The most direct extension tracks dissonance across turns rather than per utterance, enabling the detection of persistent hidden-affect patterns. A client who flags on three consecutive turns about the same topic presents a far stronger signal than any single-turn delta, and an adaptive threshold that tightens after repeated flags addresses the rigidity of the fixed $\tau = 0.5$ rule in one step, while reducing false alarms when dissonance flags are transient.
+
+\textbf{Human validation with real voices.} The second priority is to replay the framework with real recorded speech (as piloted in our scripted demonstration session, where a real voice produced a clean $\delta_V = -1.05$ dissonance flag) and to evaluate responses with trained CBT clinicians rather than an LLM judge. This would test whether the gains we measured survive contact with real human affect and expert clinical standards.
+
+\textbf{Controlled dissonance manipulation.} The third priority is to synthesize client voices whose emotional delivery deliberately contradicts the text (e.g., cheerful delivery of distressed content), raising the flag rate from 0.5\% to a designed level. Comparing Dissonance-Aware against Multimodal on flagged turns would provide a direct causal test of whether the dissonance flag, rather than vocal metadata alone, improves therapeutic exploration.
+
+Longer-term directions include disentangling shared, unique, and synergistic information across text and speech to reduce false alarms, and therapeutically reframed omission analysis on flagged turns, adapting deception-style text forensics into gentle exploration of what a client may be leaving unsaid.

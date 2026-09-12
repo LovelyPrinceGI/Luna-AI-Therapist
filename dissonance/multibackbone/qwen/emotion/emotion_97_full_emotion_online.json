@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. Ever since I failed that important exam, I can't stop worrying about my academic future and whether I can keep my scholarship. It feels like everything is riding on this, and I'm not sure if I can handle the pressure.",
-    "therapist": "I can hear how much this is weighing on you, and it’s completely understandable to feel stressed about your academic future and scholarship. It sounds like you’re under a lot of pressure. What are some of the thoughts that come up for you when you worry about this?",
+    "client": "Hey Luna, I've been really anxious lately about my academic future. I failed a crucial exam last semester, and now I'm worried about losing my scholarship and whether I can even handle the coursework. It's been weighing heavily on me. I don't know if therapy can really make a difference, but I'm trying to be open to it.",
+    "therapist": "Hi there, I'm really glad you reached out and are willing to explore this together. It sounds like the pressure of your academic situation is taking a significant toll on you, and it’s completely understandable to feel overwhelmed and uncertain. Can you tell me more about what specific thoughts or fears come up when you think about your academic future?",
     "condition": "emotion_text_only",
-    "val_t": -0.2961655855178833,
-    "aro_t": 0.2848472595214844,
-    "text_emotion": "Angry"
+    "val_t": -0.07099330425262451,
+    "aro_t": 0.1841951608657837,
+    "text_emotion": "Tense"
   },
   {
     "turn": 2,
-    "client": "When I think about it, I just feel so overwhelmed. I worry that if I don’t get this scholarship, I won’t be able to afford the next semester, and that just adds to the anxiety. It’s hard to focus on my studies when I’m constantly stressed about it.",
-    "therapist": "It sounds really overwhelming, and it’s natural to feel anxious when so much feels at stake. It’s understandable that these worries are making it hard to focus. Have you noticed any specific thoughts or beliefs that come up often when you’re feeling this way?",
+    "client": "When I think about my academic future, I get really worried that I’m not smart enough to succeed. I start thinking that failing this exam means I’ll fail more courses and eventually lose my scholarship. It’s like a spiral of negative thoughts that I can’t seem to break out of. I know I should focus on doing better, but it’s hard to feel motivated when I’m so down on myself.",
+    "therapist": "It’s really tough when those negative thoughts start to spiral, and it’s completely normal to feel down on yourself after a setback. It sounds like you’re putting a lot of pressure on yourself, and that can make it hard to see other possibilities. Can you think of any evidence or past experiences that might challenge the idea that you’re not smart enough to succeed?",
     "condition": "emotion_text_only",
-    "val_t": -0.3478811979293823,
-    "aro_t": 0.28272974491119385,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "Yeah, I feel like I'm constantly thinking that I'm not good enough, that I'll mess things up, and that everyone will be disappointed in me. It's hard to shake those thoughts, and they just keep coming back. I've tried to push them away, but it doesn't seem to help much.",
-    "therapist": "It sounds like those thoughts are really persistent and can be very tough to shake. It’s understandable to feel like you’re not good enough or that you might let others down, especially when you’re under so much pressure. Have you tried any specific strategies to manage these thoughts, or is there a particular one you’d like to explore together?",
-    "condition": "emotion_text_only",
-    "val_t": -0.41526973247528076,
-    "aro_t": 0.16441619396209717,
+    "val_t": -0.37326502799987793,
+    "aro_t": 0.11148369312286377,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "Yeah, I've tried a few things, but they don't seem to stick. I’ve been journaling and trying to distract myself with activities, but the thoughts just keep coming back. It’s hard because I feel like I’m just not making any progress, and it’s exhausting.",
-    "therapist": "It sounds like you’ve been putting in a lot of effort to manage these thoughts, and it can be really frustrating when they keep coming back. It’s completely understandable to feel exhausted and like you’re not making progress. Have you noticed any patterns in when these thoughts are most intense, or are there specific situations that seem to trigger them more?",
+    "turn": 3,
+    "client": "I guess I’ve had some good grades in the past, and I did well in high school. But it feels different now. The coursework is harder, and I feel like I’m falling behind. It’s hard to shake the feeling that I’m just not cut out for this. I don’t know if those past successes really mean anything now.",
+    "therapist": "It’s understandable to feel that way when the coursework gets more challenging, and it’s common for past successes to feel less relevant in the moment. However, those good grades and your past achievements are still important and can be a source of strength. What do you think might help you reconnect with that sense of confidence and ability, even in the face of harder coursework?",
     "condition": "emotion_text_only",
-    "val_t": -0.2434936761856079,
-    "aro_t": 0.15868794918060303,
+    "val_t": -0.10522639751434326,
+    "aro_t": 0.0742650032043457,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I think it would help if I could find a way to break down the coursework into smaller, more manageable parts. But it’s hard to even start because I feel so overwhelmed. Maybe talking to a tutor or a professor could give me some direction, but I’m worried they’ll just confirm that I’m not doing well enough.",
+    "therapist": "Breaking down the coursework into smaller, manageable parts is a great strategy, and it’s good that you’re considering reaching out to a tutor or professor for guidance. It’s natural to feel worried about how they might respond, but they’re there to support you and can offer valuable insights. What do you think might be the first step you could take to start breaking down your workload or seeking that support?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15991055965423584,
+    "aro_t": 0.12142443656921387,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "Yeah, I've noticed that the thoughts are a lot worse when I'm alone or when I have a lot of free time to think. It's like my mind just spirals into all these worst-case scenarios. I guess it makes sense, but it's hard to break that cycle, especially when I feel so alone.",
-    "therapist": "It makes sense that you’d notice these thoughts becoming more intense when you have a lot of time to yourself. Being alone can sometimes make it easier for the mind to spiral into those worst-case scenarios. Have you tried any mindfulness or grounding techniques to help manage these thoughts when they start to spiral? Sometimes focusing on the present moment can help break that cycle.",
+    "client": "I think the first step could be to make a list of all the tasks I need to complete and then break them down into smaller, daily goals. But it’s hard to even start that list because I feel so overwhelmed and unsure of where to begin. I worry that even if I make the list, I won’t stick to it.",
+    "therapist": "It’s completely understandable to feel overwhelmed and unsure about where to start. Making a list and breaking tasks into smaller goals is a great plan, and it’s okay to take it one step at a time. What might help you get started on that list, even if it’s just a small first step? Maybe you could begin by jotting down one or two immediate tasks that feel most pressing?",
     "condition": "emotion_text_only",
-    "val_t": -0.2432394027709961,
-    "aro_t": 0.030646681785583496,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I've tried a few mindfulness exercises before, but they don't always seem to work for me. It's hard because my mind just keeps going back to those anxious thoughts, and it feels like I can't break free from them. I guess I just get frustrated when I feel like I'm not making progress.",
-    "therapist": "It’s completely understandable to feel frustrated when the mindfulness exercises don’t seem to have the effect you’re hoping for. It can be really tough to break free from those anxious thoughts, especially when they feel so persistent. Have you considered trying a different approach, like cognitive restructuring, where we can examine and challenge those anxious thoughts more directly?",
-    "condition": "emotion_text_only",
-    "val_t": -0.281136155128479,
-    "aro_t": 0.12993288040161133,
+    "val_t": -0.14249968528747559,
+    "aro_t": 0.12203288078308105,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I get what you're saying, but I feel like I've tried so many different things already, and nothing seems to stick. Cognitive restructuring sounds good in theory, but I worry it might just be another thing that doesn't work for me. It's hard because I feel like I'm stuck in this loop of anxiety, and I don't know how to break out of it.",
-    "therapist": "I can understand how frustrating it must feel to try so many different things and still feel stuck in that loop of anxiety. It’s completely normal to have doubts about whether new strategies will work, especially when you’ve had a lot of experience with things not sticking. Let’s take a gentle and curious approach to cognitive restructuring. We can start by identifying one specific anxious thought and gently explore it together. What’s one thought that’s been particularly persistent for you lately?",
+    "turn": 6,
+    "client": "I appreciate your encouragement, Luna. It does feel more manageable to start with just a couple of tasks. I think I could write down the most pressing assignments and try to tackle one small part of them today. But I’m still worried about staying motivated and not getting overwhelmed again.",
+    "therapist": "I’m glad to hear that breaking down the tasks feels more manageable for you. It’s totally normal to still have concerns about motivation and feeling overwhelmed. Starting with small, achievable steps can build momentum and help you stay on track. What do you think might help you stay motivated and focused as you work through these tasks? Maybe there’s a reward you can give yourself for each small accomplishment?",
     "condition": "emotion_text_only",
-    "val_t": -0.22223711013793945,
-    "aro_t": 0.19960880279541016,
+    "val_t": 0.07838380336761475,
+    "aro_t": 0.19990122318267822,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "I like the idea of rewarding myself for small accomplishments. Maybe I could treat myself to a favorite snack or some downtime after I complete a task. But I still worry that I’ll get distracted or lose focus. It’s hard to stay on track when I feel so anxious and uncertain.",
+    "therapist": "It’s great that you’re considering rewarding yourself for your accomplishments—that can be a powerful motivator. It’s also completely normal to worry about getting distracted or losing focus, especially when you’re feeling anxious and uncertain. What strategies have you found helpful in the past for staying on track, or are there any new ones you might be willing to try?",
+    "condition": "emotion_text_only",
+    "val_t": -0.0734943151473999,
+    "aro_t": 0.1473158597946167,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I’ve been really stuck on the thought that I’m going to fail at my new job. It’s been haunting me, and I keep imagining all these scenarios where I mess up and everyone realizes I’m not cut out for it. I know it’s irrational, but it feels so real. I’m not sure if breaking it down will make a difference, though.",
-    "therapist": "It sounds like that thought about failing at your new job is really weighing on you, and it’s understandable that it feels so real and persistent. Even though you recognize it might be irrational, those feelings can be very powerful. Let’s take a closer look at this thought together. Can you think of any evidence that supports the idea that you might succeed in your new job, or any times in the past where you’ve handled challenges well?",
+    "client": "In the past, I’ve found that setting specific times for studying and taking regular breaks helps a bit. But it’s hard to stick to a schedule when I feel so anxious. I’m willing to try new strategies, but I’m not sure what would work for me. It feels like everything I try just ends up being a reminder of how much I’m struggling.",
+    "therapist": "It sounds like you’ve already got some good strategies in place, like setting specific times for studying and taking breaks, but it’s really tough to stick to them when anxiety is high. It’s completely understandable to feel like everything you try is a reminder of your struggles. Have you considered trying some relaxation techniques, like deep breathing or mindfulness, to help manage the anxiety before you start studying? It might make it a bit easier to stick to your schedule. What do you think about giving that a try?",
     "condition": "emotion_text_only",
-    "val_t": -0.23929989337921143,
-    "aro_t": 0.20916378498077393,
+    "val_t": -0.2205263376235962,
+    "aro_t": 0.10790562629699707,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I know you're trying to help, but it's hard to think of those times right now. I feel like every small mistake I make at work is just confirming that I’m not cut out for this. It’s tough to see the positive when I’m so worried about messing up.",
-    "therapist": "I can understand how challenging it is to see the positive when you’re feeling so worried about making mistakes. It’s natural to focus on those small errors when you’re under a lot of pressure. Let’s take a moment to acknowledge that feeling. Can you share a bit about a time, no matter how small, when you felt more confident or when something went well at work? Sometimes even the smallest successes can provide a different perspective.",
+    "client": "I think trying relaxation techniques could be helpful, but I’m not sure if I can actually calm down enough to make a difference. It’s hard because my mind is always racing with worries. I’m willing to give it a try, but I’m skeptical about how much it will help with my anxiety.",
+    "therapist": "It’s completely understandable to feel skeptical and to worry that relaxation techniques might not be enough, especially when your mind is racing with worries. Starting with something small and manageable might help you get a sense of whether it can make a difference. Maybe you could try a short, guided relaxation exercise or a few minutes of deep breathing to see how it feels? What do you think about giving it a try and seeing if it brings any relief, even if it’s just a little bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.2377767562866211,
-    "aro_t": 0.12329423427581787,
+    "val_t": -0.10108339786529541,
+    "aro_t": 0.1505352258682251,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you trying to help me see things differently, but it's really hard to think of those moments right now. I feel like every time I think I'm doing well, something goes wrong, and it just reinforces my worries. I don't know if focusing on the small successes will really change how I feel.",
-    "therapist": "I can really hear how difficult it is for you to shift your focus right now, and it’s completely understandable to feel that way when things keep going wrong. It’s natural for those setbacks to reinforce your worries. Let’s take a step back and explore this a bit differently. Sometimes, it can be helpful to look at the bigger picture and consider what you’ve learned from these challenges. What do you think you’ve gained from facing these difficulties, even if they feel tough right now?",
+    "client": "I appreciate your suggestion, Luna. I think I’ll give the deep breathing a try. It’s hard to imagine it will completely solve my anxiety, but I’m willing to see if it can help even a little. Maybe if I can calm down a bit, it’ll be easier to focus on my tasks.",
+    "therapist": "I’m really glad you’re willing to give deep breathing a try. It’s a small step, but it can often make a bigger difference than we expect. Even a little bit of calm can help you focus more clearly on your tasks. How about we start with a simple exercise right now? You can take a few deep breaths, inhaling slowly through your nose and exhaling through your mouth. See if you can feel your body start to relax a bit. How does that feel?",
     "condition": "emotion_text_only",
-    "val_t": -0.12142503261566162,
-    "aro_t": 0.1259535551071167,
-    "text_emotion": "Angry"
+    "val_t": 0.10890555381774902,
+    "aro_t": 0.051065683364868164,
+    "text_emotion": "Neutral"
   }
 ]

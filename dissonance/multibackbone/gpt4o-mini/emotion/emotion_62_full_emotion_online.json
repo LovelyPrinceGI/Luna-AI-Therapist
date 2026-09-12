@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. It’s hard to shake off this sadness, and it's affecting my ability to concentrate at work. I sometimes wonder if therapy can really help me through this, or if I’ll just be stuck feeling this way forever.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; that sounds incredibly overwhelming and painful. It's completely understandable to feel stuck in sadness during such a difficult time, and it's important to recognize how this grief is impacting your daily life. Therapy can be a helpful space to explore these feelings and find ways to cope. What do you think might be the first step toward feeling a bit more grounded?",
+    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. It's like this heavy cloud of sadness is just following me around, and I can't seem to focus on anything at work. I find myself getting distracted easily and feeling guilty for not being able to push through it.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds incredibly heavy and overwhelming for you right now. It's understandable to feel distracted and guilty when you're navigating such a profound loss. Can we explore some of the thoughts you're having about this guilt?",
     "condition": "emotion_text_only",
-    "val_t": -0.3079162836074829,
-    "aro_t": 0.19852101802825928,
+    "val_t": -0.4146606922149658,
+    "aro_t": 0.18552052974700928,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding, but honestly, I just feel so heavy with sadness right now. It feels like there's this cloud over me that just won't lift, and I'm not sure how to start feeling grounded when everything feels so chaotic. I guess I’m skeptical about what could really help me at this stage; it all seems a bit overwhelming.",
-    "therapist": "It sounds like you're carrying a lot of heaviness and uncertainty right now, which can be really challenging. It's normal to feel skeptical when you're in the midst of such deep sadness and chaos. Finding ways to ground yourself can be a gradual process, and it's okay to take small steps. What small action do you think you could try today that might help ease some of that heaviness?",
+    "client": "I've been thinking that maybe I should be handling this better, like I shouldn't be so affected by it. I feel guilty for not being strong and for letting it interfere with my work and daily life. Sometimes, I even think my family expects me to just move on, which makes me feel even worse about how I'm handling everything.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to cope in a way that feels more acceptable to you and your family. It's completely natural to feel affected by such a significant loss, and there's no right or wrong way to grieve. What do you think would happen if you allowed yourself to feel those emotions without judgment?",
     "condition": "emotion_text_only",
-    "val_t": -0.24341535568237305,
-    "aro_t": 0.16312038898468018,
-    "text_emotion": "Angry"
+    "val_t": -0.4157065153121948,
+    "aro_t": 0.08407402038574219,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate you acknowledging the heaviness I feel. It’s just hard for me to see how a small action could really make a difference when everything feels so overwhelming. I mean, what could I possibly do today that would actually help? It feels like even the smallest things become too much to handle sometimes.",
-    "therapist": "I hear you—everything can feel like a monumental task when you're carrying such a heavy emotional load. It's completely valid to feel that even the smallest actions seem overwhelming right now. Sometimes, just taking a moment to breathe or stepping outside for a brief walk can be a small but meaningful way to reconnect with yourself. What do you think about trying something gentle like that, or is there a different small action that feels more manageable for you?",
+    "client": "I guess if I let myself feel those emotions, it might feel like a relief at first, but then I worry I’d just spiral into sadness. I don’t want to get stuck in that place, you know? It feels safer to try to push through it, even if it’s not working.",
+    "therapist": "I can understand why you might feel hesitant to fully embrace those emotions; it can seem daunting to let sadness take over. It’s important to recognize that while it may feel safer to push through, allowing yourself to feel can actually be a part of healing. What if we explored some small ways to acknowledge those feelings without letting them overwhelm you?",
     "condition": "emotion_text_only",
-    "val_t": 0.03717386722564697,
-    "aro_t": 0.16578471660614014,
-    "text_emotion": "Tense"
+    "val_t": -0.2410041093826294,
+    "aro_t": 0.06140029430389404,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate your understanding, but honestly, even the idea of stepping outside feels daunting right now. I get that it could be a good way to reconnect, but the thought of having to actually do it makes me anxious. What if I just can't bring myself to go out? It feels like another thing on my to-do list that I might not be able to handle.",
-    "therapist": "It sounds like even the thought of taking that step feels really daunting and adds to your anxiety, which is completely understandable. It’s okay to feel overwhelmed by what seems like small tasks when you’re in such a heavy place. Instead of thinking about going outside, perhaps we can explore something even smaller and more manageable that feels safe for you. What’s one tiny thing you could do right where you are that might bring you a little comfort?",
+    "client": "I see what you’re saying, but I’m not sure how to even start acknowledging those feelings without feeling like I’m drowning in them. It just seems like a slippery slope, and I'm worried that once I start, I won't be able to stop. I guess I want to know what those small ways look like, but part of me feels like it might just be too hard right now.",
+    "therapist": "It makes sense that you're feeling hesitant, as it can be really tough to think about acknowledging those feelings without feeling overwhelmed. Starting small can help create a sense of safety; perhaps you might try setting aside just a few minutes each day to write down what you're feeling or even talk to someone you trust about it. What do you think would feel manageable for you right now in terms of taking that first step?",
     "condition": "emotion_text_only",
-    "val_t": -0.13551151752471924,
-    "aro_t": 0.17588984966278076,
+    "val_t": -0.22665047645568848,
+    "aro_t": 0.17586064338684082,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you’re trying to make this feel more manageable, but honestly, even the idea of doing something tiny feels like a lot right now. I can’t think of anything that would actually bring me comfort; it’s like my mind just shuts down when I try. What if I just can’t find anything that helps?",
-    "therapist": "It sounds like you're really feeling stuck and that your mind feels heavy and unresponsive right now, which can be incredibly frustrating. It’s okay to not have the energy or clarity to find comfort in this moment; sometimes, just being present with your feelings is a step in itself. What if we took a moment together to simply acknowledge how you’re feeling without the pressure to change it? Would that feel helpful for you?",
+    "client": "I guess writing down my feelings could be a start, but I worry that once I put pen to paper, I’ll just get lost in all the sadness. It feels like opening a floodgate that I might not be able to close again. Talking to someone sounds even harder because I don’t want to burden anyone with my feelings right now.",
+    "therapist": "It sounds like you're feeling really apprehensive about expressing your emotions, fearing that it might lead to feeling overwhelmed. It's completely understandable to worry about burdening others as well; many people feel that way when they're dealing with tough emotions. What if we brainstormed some gentle ways to express your feelings that feel safer, like writing a letter to your grandmother or even jotting down a few thoughts that don’t have to be fully formed?",
     "condition": "emotion_text_only",
-    "val_t": -0.05129194259643555,
-    "aro_t": 0.12817227840423584,
-    "text_emotion": "Neutral"
+    "val_t": -0.2650628089904785,
+    "aro_t": 0.1456451416015625,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you're suggesting we just sit with my feelings, but it feels hard to just acknowledge them without wanting to push them away. I guess I'm so used to trying to fix things or make them better that being present feels uncomfortable, like I'm just stuck in a loop. I feel guilty for not being able to move past this, and that just adds to the heaviness.",
-    "therapist": "It's completely understandable to feel uncomfortable sitting with your feelings, especially when you're used to trying to fix things. The guilt you're experiencing for not moving past this is a heavy burden to bear, and it can make everything feel even more suffocating. It’s okay to acknowledge that you’re in a loop right now; many people struggle with this during tough times. What if we explored what it feels like to give yourself permission to just be in this moment, without the pressure to change anything?",
+    "client": "Writing a letter to my grandmother does sound like it could be a gentler way to express my feelings. But at the same time, I wonder if it will just make me feel sadder or remind me of how much I miss her. I guess I worry that I might not even know what to say, and then I’ll feel frustrated for not being able to express myself well.",
+    "therapist": "It's completely natural to feel apprehensive about writing that letter, especially with the fear that it might amplify your sadness or lead to frustration. It can be difficult to find the right words when emotions are so strong. What if you started with just a few simple thoughts or memories that come to mind, even if they feel small? There’s no right or wrong way to express yourself, and this could be a gentle way to connect with your feelings without pressure. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1874450445175171,
-    "aro_t": 0.07682383060455322,
+    "val_t": -0.3151431083679199,
+    "aro_t": 0.12450313568115234,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but it feels so hard to just sit with my feelings. I feel like if I don't try to fix things, I’m just being lazy or giving up. The guilt just keeps piling on because I feel like I should be doing something to make it better instead of just... being.",
-    "therapist": "I can see how difficult it is for you to simply be with your feelings without the urge to fix them. It’s understandable to feel guilty when you believe you should be doing something, but allowing yourself to just exist in this moment doesn’t mean you’re giving up or being lazy; it’s a part of the healing process. What if we explored what it would look like to be gentle with yourself during this time, rather than judging yourself for how you feel?",
+    "client": "Starting with just a few simple thoughts or memories does feel a bit less intimidating, and I like the idea of it being low-pressure. But I still worry that even small memories might lead to a rush of emotions that I’m not ready to handle. What if I can’t stop thinking about those memories once I start? It feels like a fine line between honoring my feelings and getting swept away by them.",
+    "therapist": "It’s understandable to feel apprehensive about even small memories leading to overwhelming emotions. Finding that balance between honoring your feelings and feeling swept away can be challenging. What if you set a time limit for yourself when writing, allowing you to express your thoughts but also giving yourself permission to pause if it becomes too much? How does that approach feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.32439887523651123,
-    "aro_t": 0.09473872184753418,
-    "text_emotion": "Sad"
+    "val_t": -0.12720227241516113,
+    "aro_t": 0.16760921478271484,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying that, but it feels really hard to just sit with my feelings. I keep thinking that if I don't do something about them, they’ll just spiral out of control. I feel guilty for not being productive or for not having a clear plan to fix everything, so it’s tough to imagine being gentle with myself right now.",
-    "therapist": "It's completely understandable to feel that your emotions might spiral if you don't take action, and that push to be productive can be really heavy. It sounds like you're caught in a cycle of guilt and pressure to fix everything right away, which can make being gentle with yourself feel impossible. Remember, allowing yourself to feel and process these emotions isn’t a sign of weakness; it’s actually a part of moving forward. What do you think might happen if you gave yourself a little space to simply acknowledge these feelings without the pressure to change them right away?",
+    "client": "Setting a time limit does sound like a helpful way to manage things, but I still feel nervous about what might come up during that time. I can see how it could help me stop before I get too overwhelmed, but part of me worries that even a few minutes could bring up feelings I’m not ready to face. I guess I just don’t want to end up feeling worse after trying to write.",
+    "therapist": "It’s completely normal to feel nervous about what might come up when you start writing, especially when emotions are so close to the surface. It sounds like you're wanting to protect yourself from feeling worse, which is a natural instinct. What if you approached this time not as a way to solve everything, but as a small experiment to see how it feels? You could even prepare a comforting activity for afterward, so you have something to look forward to. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.23720693588256836,
-    "aro_t": 0.043793559074401855,
-    "text_emotion": "Sad"
+    "val_t": -0.2705651521682739,
+    "aro_t": 0.12260937690734863,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I see what you're saying, but it feels really hard to just sit with my emotions. I often think that if I don’t do something about them right away, they’ll just get worse or consume me. It’s like I’m afraid that if I acknowledge how I feel, I’ll get stuck in that feeling and never move forward.",
-    "therapist": "I understand that the fear of getting stuck in your emotions can feel really overwhelming, and it’s natural to want to take action to avoid that. It sounds like you're grappling with a lot of anxiety about acknowledging your feelings, thinking it might lead to deeper pain. What if we took a moment to explore what it would feel like to acknowledge those emotions without the pressure to act on them immediately? How might that shift your perspective on the feelings you're experiencing?",
+    "client": "I like the idea of treating it as an experiment rather than a definitive solution, but I still feel a bit uneasy about it. What if I end up feeling more overwhelmed than I expected? Preparing a comforting activity afterward is a nice thought, but I’m worried it won't be enough to pull me back if things get too heavy.",
+    "therapist": "It’s completely valid to feel uneasy about the possibility of being overwhelmed, especially when emotions are involved. It shows how much you care about your well-being. What if you also considered having a plan in place for when those feelings arise, like a brief grounding technique or a go-to person you could reach out to if you need support? That way, you can feel a bit more secure while still giving yourself permission to explore your feelings. How does that idea resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.3196467161178589,
-    "aro_t": 0.1697099208831787,
+    "val_t": -0.20129811763763428,
+    "aro_t": 0.11608433723449707,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but the idea of just sitting with my emotions feels really daunting. I worry that if I start acknowledging them, I’ll get overwhelmed and spiral into darker thoughts. It’s like I’m afraid that once I open that door, I won’t be able to close it again.",
-    "therapist": "It sounds like you’re feeling a lot of fear around the idea of acknowledging your emotions, worried that it might lead to overwhelming thoughts that are hard to manage. That fear of opening a door you can’t close is completely valid, especially when you're feeling vulnerable. It's okay to take things at your own pace; we can explore those feelings gently together. What if we approached this by focusing on one specific emotion or thought for just a moment, rather than diving into everything at once? How does that sound to you?",
+    "client": "Having a plan in place does sound reassuring, and I can see how it might help me feel a bit more secure while I explore my feelings. But I’m still unsure about what grounding techniques would actually work for me in the moment, especially if my emotions become really intense. It’s hard to think about reaching out to someone when I feel like I should be handling this on my own.",
+    "therapist": "It sounds like you're feeling a mix of uncertainty and pressure to handle everything on your own, which can be really tough. It’s okay to seek support; everyone needs it sometimes, especially during challenging moments. As for grounding techniques, you might try simple ones like focusing on your breath, feeling the texture of an object near you, or even counting things you see around you. Would you like to explore some specific techniques together that might resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.23837745189666748,
-    "aro_t": 0.19174230098724365,
-    "text_emotion": "Angry"
+    "val_t": -0.04106557369232178,
+    "aro_t": 0.1646883487701416,
+    "text_emotion": "Tense"
   }
 ]

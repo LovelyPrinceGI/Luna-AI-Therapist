@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandma passed away last month. Every time my family gets together now, I just feel this heavy emptiness where she should be. I'm not sure talking about it will help - the pain feels too deep, you know?",
-    "therapist": "It sounds like you’re carrying a profound sense of loss, and it’s completely natural to feel that emptiness when someone so important is no longer there. I wonder if we could explore what comes to mind when you think about those moments with your family—what emotions or memories feel particularly strong?",
+    "client": "I've been really struggling since my grandma passed away last month. We had this big family dinner last weekend, and the whole time I just kept noticing her empty chair and thinking about how she should've been there. Everyone else seemed to be enjoying themselves, but I just felt this heavy sadness that wouldn't go away. Part of me wonders if talking about it will even help - the pain feels too deep, you know?",
+    "therapist": "It sounds like you're carrying such profound grief while also noticing how others around you seem to be moving forward, which must feel extra lonely. The pain does feel deep right now, and that makes complete sense given how meaningful your grandma was in your life - would you be willing to share what made your relationship with her so special?",
     "condition": "baseline",
-    "val_t": -0.3886650800704956,
-    "aro_t": 0.12430477142333984,
+    "val_t": -0.39047038555145264,
+    "aro_t": 0.12236416339874268,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I keep remembering how my mom used to make Sunday dinners for all of us. The house would smell like her cooking, and everyone would actually talk and laugh together. Now when I think about it, I just feel this heavy ache in my chest because I know those days are gone forever. \n\nSometimes I wonder if focusing on these memories is making it worse. Like maybe I should just try to forget instead of constantly reopening the wound.",
-    "therapist": "Those Sunday dinners sound like such meaningful moments of connection, and it makes sense that missing them would bring up deep grief. What do you think it would feel like to hold space for those memories while also gently exploring what new traditions might bring comfort?",
+    "client": "She was the only one who really understood me growing up. While my parents were always busy, Grandma would listen without judging when I had problems. But now that she's gone, I feel like I'm supposed to just \"move on\" like everyone else - my mom even told me it's time to stop crying about it. I don't know how to grieve properly when people act like it's been long enough already.",
+    "therapist": "It sounds like your grandma provided such a safe, accepting space for you - no wonder this loss feels especially painful. The pressure to \"move on\" from others must make the grieving process feel even more confusing and lonely - what do you think your grandma would say about giving yourself permission to grieve in your own way?",
     "condition": "baseline",
-    "val_t": -0.0971231460571289,
-    "aro_t": 0.14606714248657227,
+    "val_t": -0.29383981227874756,
+    "aro_t": 0.16604125499725342,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I don't know...the idea of new traditions just makes me feel guilty, like I'm trying to replace what we had. Those dinners were special because they were with my parents, and now that they're gone, nothing else will ever feel the same. Even thinking about changing things makes my chest feel tight.",
-    "therapist": "That guilt makes so much sense—it shows how much love and meaning those moments held for you. I wonder if we could sit with this thought together: what if new traditions aren't about replacing, but about honoring what you've lost while making space for what still matters?",
+    "client": "She'd probably tell me to take all the time I need, and that it's okay to cry. But it's hard to hear her voice in my head anymore - sometimes I worry I'm forgetting what she sounded like. And even if she would understand, the rest of my family doesn't, so I end up just pretending I'm fine around them.",
+    "therapist": "That worry about forgetting her voice shows just how much you cherish those memories with her. It makes sense that putting on a brave face around family would leave you feeling even more alone in your grief - what would it feel like to create small moments where you could honor your grandma's memory privately, just for yourself?",
     "condition": "baseline",
-    "val_t": -0.2120504379272461,
-    "aro_t": 0.21196162700653076,
-    "text_emotion": "Angry"
+    "val_t": -0.20021212100982666,
+    "aro_t": 0.06459081172943115,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it still feels wrong to create new traditions. Like I'm trying too hard to move on when I should still be grieving. The old ways were so special because of who I shared them with - new ones just feel empty now. \n\nI've tried doing new holiday things with friends before, and I just ended up crying in the bathroom because it wasn't the same. It makes me feel guilty for even trying.",
-    "therapist": "It sounds like you're caught between honoring your grief and feeling pressure to \"move on,\" which must be incredibly painful. What if we explored what \"grieving well\" might look like for you, without comparing it to anyone else's timeline or expectations?",
+    "client": "I guess I could try looking through old photos or making her favorite recipes. But part of me worries that doing those things alone will just make me feel worse. It's like... when I think about her now, the happy memories just remind me that she's gone, if that makes sense?",
+    "therapist": "It's completely understandable that happy memories might feel bittersweet right now - grief has a way of making even joyful moments ache with absence. Might it help to think of these activities not as ways to avoid the pain, but as opportunities to feel connected to her in whatever way feels right in that moment?",
     "condition": "baseline",
-    "val_t": -0.3344823122024536,
-    "aro_t": 0.11943387985229492,
-    "text_emotion": "Sad"
+    "val_t": -0.11759781837463379,
+    "aro_t": 0.033435821533203125,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "That actually makes me feel a bit defensive. Everyone keeps telling me there's no timeline for grief, but then I see people getting impatient when I'm still struggling months later. I don't know what \"grieving well\" even means - sometimes it feels like people just want me to pretend I'm okay so they can feel more comfortable.",
-    "therapist": "You're absolutely right to feel frustrated—it's painful when others' discomfort with grief makes you feel pressured to perform healing. What would it feel like to define what grieving well means for you, without worrying about others' expectations?",
+    "client": "Maybe... but it's scary to let myself really feel that connection because the loss hurts so much. I tried listening to her favorite song the other day and just broke down crying. Part of me thinks I should avoid things that remind me of her until the pain isn't so raw.",
+    "therapist": "It sounds like you're trying to protect yourself from that intense wave of grief, which is completely valid when the loss feels so fresh. Sometimes, though, allowing ourselves to feel that pain - even in small doses - can help us process it rather than pushing it away - what would it feel like to try embracing those memories for just a few moments at a time, knowing you can pause whenever it feels overwhelming?",
     "condition": "baseline",
-    "val_t": -0.2913360595703125,
-    "aro_t": 0.0911937952041626,
-    "text_emotion": "Sad"
+    "val_t": -0.3589698076248169,
+    "aro_t": 0.19893360137939453,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I like the idea of defining grief on my own terms, but I'm not sure how to even start. When I try to think about what grieving well means for me, I just feel guilty—like I'm being selfish for not considering how my sadness affects my family. They keep telling me I need to \"move on\" already, and part of me worries they're right.",
-    "therapist": "It sounds like you're carrying both your grief and the weight of others' expectations, which must feel so heavy. What if we explored what small moments of honoring your feelings might look like, without worrying about whether it meets anyone else's definition of \"moving on\"?",
+    "client": "I guess I could try looking at one photo for just a minute or two. But I'm worried once I start crying, I won't be able to stop. Do you really think small doses will help when the sadness feels bottomless right now?",
+    "therapist": "It's understandable to worry about being overwhelmed by the sadness - it does feel bottomless right now. But by starting with just one photo for a brief moment, you're giving yourself control over the experience rather than letting the grief control you - would you feel comfortable trying this and noticing what happens, knowing you can stop whenever you need to?",
     "condition": "baseline",
-    "val_t": -0.3250826597213745,
-    "aro_t": 0.11683905124664307,
-    "text_emotion": "Sad"
+    "val_t": -0.31174027919769287,
+    "aro_t": 0.1463872194290161,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I don't know... when I try to honor my feelings, it just makes me feel more guilty. Like I'm being selfish for not \"getting over it\" fast enough for my family. They keep telling me I need to be strong for them, but that just makes the grief feel even heavier. \n\nThe idea of small moments sounds nice in theory, but I'm not sure how to do that without feeling like I'm letting everyone down. It's like no matter what I do, I'm failing someone.",
-    "therapist": "It sounds like you're caught between your own need to grieve and the pressure to be strong for others—that's an incredibly difficult place to be. What would it feel like to imagine, just for a moment, that your grief isn't a burden but a testament to how much love was there?",
+    "client": "I guess I could try looking at just one photo for a minute tomorrow. But what if I get stuck crying for hours? I've been avoiding looking at pictures because I'm scared the grief will swallow me whole. Also, my roommate might be home, and I don't want her to see me like that.",
+    "therapist": "It's completely valid to feel worried about being overwhelmed and wanting privacy during such a vulnerable moment. What if you planned this for a time when your roommate is out, and set a timer for just one minute to help create a sense of safety and boundaries with the experience? That way, you can dip your toes in gently without feeling like you're diving into the deep end.",
     "condition": "baseline",
-    "val_t": -0.37721264362335205,
-    "aro_t": 0.13837027549743652,
-    "text_emotion": "Sad"
+    "val_t": -0.4218069314956665,
+    "aro_t": 0.23119819164276123,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about grief showing love, but it's hard to believe that when everyone keeps telling me to \"stay strong\" for my family. I feel like if I really let myself grieve, I'll just be letting them down when they need me most. The love feels buried under all this pressure to hold it together.",
-    "therapist": "It sounds like \"staying strong\" has come to mean suppressing your pain, which must feel so isolating in your grief. I wonder what might shift if we explored how being present with your sadness could actually be its own form of strength—for yourself and those you love?",
+    "client": "Setting a timer and doing it when I'm alone does sound less scary. But I still worry that even one minute might be too much - what if just seeing her face makes me spiral? Maybe I should wait until I feel stronger. Though part of me knows I might never feel \"ready\"...",
+    "therapist": "You're absolutely right that we often never feel fully \"ready\" to face grief - it shows such self-awareness to recognize that. What if we thought of this as an experiment rather than a test - with no right or wrong way for it to feel, just valuable information about what you need in this moment?",
     "condition": "baseline",
-    "val_t": -0.0036579370498657227,
-    "aro_t": 0.24900436401367188,
-    "text_emotion": "Tense"
+    "val_t": -0.19276213645935059,
+    "aro_t": 0.1545858383178711,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I don't know... letting myself feel the sadness sounds terrifying. If I start crying, I'm afraid I'll never stop. And what good would that do anyone? My family needs me to be the strong one right now.",
-    "therapist": "It makes so much sense that letting yourself feel the sadness feels terrifying—grief can feel like an overwhelming wave, and it’s natural to fear it might consume you. I wonder what it would feel like to imagine tears not as endless, but as a way of honoring your love for your grandma while still being present for your family?",
+    "client": "I like the idea of calling it an experiment - that takes some pressure off. But I'm still worried I'll fail at even this small step. What if I can't handle looking at her photo for just one minute? That would mean I'm not as strong as I should be by now.",
+    "therapist": "It sounds like there's a lot of pressure on yourself to be \"strong\" and handle this perfectly, but grief isn't about strength - it's about honoring your feelings as they are. What if we reframe this experiment as simply gathering information about where you're at today, without any judgment about what \"should\" be?",
     "condition": "baseline",
-    "val_t": -0.34254157543182373,
-    "aro_t": 0.24143493175506592,
+    "val_t": -0.16521930694580078,
+    "aro_t": 0.11301791667938232,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about honoring her, but I'm scared if I start crying I won't be able to stop. My family needs me to be strong right now - my mom's barely holding it together and my little sister looks to me for support. If I break down, who's going to hold everything together?",
-    "therapist": "You're carrying so much—not just your own grief, but the worry that showing it might leave your family without support. What if being honest about your pain could actually create space for all of you to grieve together, rather than leaving you to hold it alone?",
+    "client": "That actually makes me feel a little lighter - like I'm not failing at grieving. But I still don't know if I can do it tomorrow. What if I try setting the timer for just 30 seconds first? Though even that feels scary when I imagine her smiling face staring back at me...",
+    "therapist": "That's such a thoughtful adjustment - starting with just 30 seconds shows real self-compassion in meeting yourself where you're at. What would it feel like to imagine that smiling face as her cheering you on in taking this brave, gentle step toward healing?",
     "condition": "baseline",
-    "val_t": -0.23185932636260986,
-    "aro_t": 0.23366069793701172,
-    "text_emotion": "Angry"
+    "val_t": -0.015720248222351074,
+    "aro_t": 0.24702036380767822,
+    "text_emotion": "Tense"
   }
 ]

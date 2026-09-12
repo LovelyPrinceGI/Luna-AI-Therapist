@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately, family gatherings have been really hard for me since my grandma passed away last month. Every time we’re all together, I just feel her absence so strongly, and it’s like I can’t enjoy anything anymore. I’m not sure if therapy can really help with this—it just feels like something I have to get through on my own.",
-    "therapist": "It sounds like these family gatherings have become a painful reminder of your loss, and it’s understandable to feel overwhelmed by her absence. Grief can make it hard to find joy in moments that used to feel meaningful—what thoughts tend to come up for you when you’re in those situations?",
+    "client": "It's been really hard going to family dinners since my grandma passed away last month. Everyone else seems to be moving on, but I just sit there feeling her absence so strongly - I keep expecting to hear her laugh or see her in her usual chair. I don't even know if talking about it will help because nothing can bring her back.",
+    "therapist": "It sounds like you're holding onto her memory in a very vivid way, and that this fresh grief is making family gatherings particularly painful right now. When you notice yourself expecting her to be there, what thoughts tend to come up for you about her absence?",
     "condition": "emotion_text_only",
-    "val_t": -0.28715527057647705,
-    "aro_t": 0.0781552791595459,
-    "text_emotion": "Sad"
+    "val_t": -0.10809862613677979,
+    "aro_t": 0.09820818901062012,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 2,
-    "client": "I just keep thinking about how she should be there with us, laughing and talking like she always did. It feels so wrong to be sitting around the table without her, and I end up feeling guilty if I even smile or enjoy myself for a moment. I know people say I should try to focus on the good memories, but it’s hard when her absence feels so heavy.",
-    "therapist": "It sounds like her absence feels so present in those moments, and the guilt you’re experiencing makes it even harder to allow yourself any sense of joy—almost like enjoying yourself might mean forgetting her. Have you noticed if there are any specific memories or thoughts that make the guilt feel stronger?",
+    "client": "I keep thinking about how she should still be here with us - it feels so wrong that she's gone. Sometimes I get angry that she didn't take better care of her health, but then I feel guilty for thinking that way. I'm not sure if focusing on these thoughts helps, but they just keep popping up whether I want them to or not.",
+    "therapist": "I hear how conflicted you're feeling - the anger and guilt seem to be tangled up with your love for her, which makes this grief even more complicated. When those \"should\" thoughts come up about her being here, what's your sense of whether challenging them would feel comforting or dismissive right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.07810807228088379,
-    "aro_t": 0.1642165184020996,
-    "text_emotion": "Angry"
+    "val_t": -0.3163127899169922,
+    "aro_t": 0.07428395748138428,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "Yeah, that’s exactly how it feels—like if I let myself enjoy anything, it’s like I’m betraying her memory. There are certain moments, like when I’m cooking her favorite meal or driving past places we used to go together, that hit me the hardest. It’s like the guilt just floods in, and I can’t shake it. I don’t know how to move past that without feeling like I’m dishonoring her.",
-    "therapist": "It sounds like these moments—whether it's cooking or passing familiar places—become painful triggers where the guilt feels almost like a duty to her memory. I wonder, what would your grandmother say about you carrying this guilt so heavily? Do you think she would want it to weigh on you this way?",
+    "client": "Honestly, trying to challenge those \"should\" thoughts just makes me feel worse right now. It almost feels like I'd be betraying her memory if I stopped feeling this way. But maybe that's not rational? I don't know - everything about grieving feels so confusing right now.",
+    "therapist": "It makes complete sense that challenging these thoughts feels like a betrayal right now - grief has its own timing, and what feels \"rational\" might not match what your heart needs. Would it feel more gentle to simply notice these thoughts as they come, without needing to change them just yet?",
     "condition": "emotion_text_only",
-    "val_t": -0.3101084232330322,
-    "aro_t": 0.204473614692688,
+    "val_t": -0.39520394802093506,
+    "aro_t": 0.2230280637741089,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "That's a hard question... I don't know if she'd want me to feel this way, but she also sacrificed so much for me. If I stop feeling guilty, it's like I'm forgetting all she did. The thought of letting go makes me feel even worse, like I'd be abandoning her memory. \n\nI can imagine her telling me not to dwell on it, but that feels too easy somehow. Like I'm just making excuses to feel better when I don't deserve to.",
-    "therapist": "It sounds like this guilt has become intertwined with your love for her—almost as if holding onto it keeps her close in some way. What would it look like to honor her memory *and* allow yourself moments of peace, without viewing them as a betrayal?",
+    "client": "That actually sounds... less overwhelming than trying to fix how I feel. But part of me worries that if I just let the thoughts come, I'll get stuck in them forever. Sometimes the pain feels like the only connection I have left to her, you know?",
+    "therapist": "I hear your concern about holding onto the pain as a way to stay connected to her - that's such a natural part of grieving when the loss is still so fresh. What if we thought about other ways to maintain that connection that might feel less painful, like sharing favorite stories about her or keeping something of hers close by?",
     "condition": "emotion_text_only",
-    "val_t": -0.34845829010009766,
-    "aro_t": 0.1300950050354004,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 5,
-    "client": "That's an interesting way to put it, but I'm not sure I can separate the two. Whenever I start to feel okay, the guilt comes rushing back even stronger. It's like if I'm not suffering, I'm not remembering her properly. How am I supposed to enjoy anything when she can't?",
-    "therapist": "It sounds like there’s a fear that easing your pain might mean her memory fades—that the suffering itself has become a way to keep her close. What would it feel like to challenge that idea, even just a little? For example, could remembering her laughter or warmth also be a way to honor her, without the guilt?",
-    "condition": "emotion_text_only",
-    "val_t": -0.21526873111724854,
-    "aro_t": 0.1274857521057129,
+    "val_t": -0.1859341859817505,
+    "aro_t": 0.10476958751678467,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "That’s... really hard to imagine. It feels like if I let go of the guilt, I’m letting go of her. The pain is the only thing that feels real sometimes. Like, if I start focusing on happy memories, does that mean I didn’t love her enough? What if I forget how much it hurt to lose her?",
-    "therapist": "It sounds like the guilt has become so tied to your love for her that letting go of one feels like letting go of the other—that’s such a painful place to be. What if, instead of measuring your love by how much it hurts, we considered how deeply your grief reflects how much she meant to you? Could there be room for both the pain *and* the warmth of her memory?",
+    "turn": 5,
+    "client": "My aunt actually gave me grandma's favorite scarf, but I haven't been able to wear it or even take it out of the drawer. It feels too final somehow, like if I use her things that means I'm accepting she's gone. But maybe keeping it in my bag instead... that might be easier than wearing it right away?",
+    "therapist": "That sounds like a gentle first step - keeping it in your bag could help you feel connected without it feeling too overwhelming right now. What do you imagine would help you feel ready to take that next step when the time feels right?",
     "condition": "emotion_text_only",
-    "val_t": -0.3221522569656372,
-    "aro_t": 0.11306333541870117,
-    "text_emotion": "Sad"
+    "val_t": 0.0310211181640625,
+    "aro_t": 0.05543553829193115,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "Maybe when family dinners don't feel quite so raw anymore? I'm afraid if I bring her scarf to dinner, I'll just completely break down in front of everyone. But the idea of having a piece of her with me... that part feels comforting, even if it's scary too.",
+    "therapist": "It sounds like you're finding a balance between honoring your grief and taking small steps towards comfort - that's such an important part of the healing process. When you think about bringing the scarf, what feels more manageable: having it with you but keeping it private at first, or sharing it with your family when you're ready?",
+    "condition": "emotion_text_only",
+    "val_t": 0.05442249774932861,
+    "aro_t": 0.24350261688232422,
+    "text_emotion": "Tense"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, but it’s hard to separate the guilt from the love. Every time I think about her, I feel like I should’ve done more, been more present. It’s like the guilt reminds me of how much I failed her, and that overshadows the good memories. I’m not sure I can just reframe it—it feels like I’d be letting myself off the hook too easily.",
-    "therapist": "It sounds like the guilt feels so deeply rooted in your sense of responsibility toward her, almost as if easing it would mean ignoring what you perceive as your shortcomings. What would it feel like to explore whether those thoughts—“I should’ve done more”—are truly reflective of reality, or if they’re part of the weight grief has placed on you?",
+    "client": "I think keeping it private at first would be easier - I'm not ready for all the questions and emotions that might come up if my family sees it. But maybe I could keep it in my pocket during dinner, just so I know it's there if I need comfort. That might be a way to start without feeling overwhelmed.",
+    "therapist": "That sounds like a very thoughtful and gentle way to begin - creating that quiet connection in your pocket lets you hold her close while respecting what feels manageable right now. What do you imagine might be the smallest sign that you're ready to take the next step with the scarf when the time comes?",
     "condition": "emotion_text_only",
-    "val_t": -0.23767316341400146,
-    "aro_t": 0.06660544872283936,
-    "text_emotion": "Sad"
+    "val_t": 0.006890416145324707,
+    "aro_t": 0.10841548442840576,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I guess I never really thought about whether those thoughts are realistic or not. It’s just always felt true—like I failed her by not doing more. But now that you mention it, I don’t know if I can separate what’s real from what grief is making me feel. It’s hard to even consider that I might be blaming myself unfairly, because it feels like letting myself off the hook somehow.",
-    "therapist": "It sounds like this guilt has become such a familiar part of your grief that questioning it feels almost uncomfortable—like it might mean dismissing your responsibility to her. What would it look like to gently examine those thoughts, not to let yourself off the hook, but to understand whether they’re serving you or keeping you stuck in pain?",
+    "client": "Maybe when I can talk about her without instantly crying? Right now even mentioning her name makes me tear up. But I worry that if I wait until I'm \"ready,\" I'll never actually take that step - grief seems to have no timeline.",
+    "therapist": "You're absolutely right that grief doesn't follow a set timeline, and it's wise to notice that waiting for \"no tears\" might not be realistic. What if we thought about small steps - like keeping the scarf nearby during dinner until you feel ready to share about it, rather than waiting until the pain feels completely gone?",
     "condition": "emotion_text_only",
-    "val_t": -0.3068920373916626,
-    "aro_t": 0.06892788410186768,
-    "text_emotion": "Sad"
+    "val_t": -0.26405608654022217,
+    "aro_t": 0.15950918197631836,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess the idea of examining these thoughts makes me nervous because what if I realize I didn't do enough? The guilt feels like the only way to honor her memory, you know? Like if I stop beating myself up, it would mean I don't care as much.",
-    "therapist": "It sounds like the guilt has become a way to prove your love for her—as if letting go of it would risk diminishing how much she meant to you. What if honoring her could include both acknowledging your pain *and* recognizing that your love doesn’t need to be measured by suffering?",
+    "client": "That makes sense - I don't think the pain will ever completely go away, so waiting for that might mean waiting forever. But keeping it nearby feels a little overwhelming too - I'm afraid I'll just focus on her absence even more with the scarf right there. Maybe I'm not ready for this step yet after all?",
+    "therapist": "I hear this important hesitation - it sounds like you're wisely recognizing when something might feel like too much right now, even if part of you wants to try. Would it help to think of this as gathering information about what feels manageable, rather than seeing it as \"ready or not ready\"? What smaller ways of connecting with her memory feel bearable at this moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.23038196563720703,
-    "aro_t": 0.15362727642059326,
+    "val_t": -0.10473179817199707,
+    "aro_t": 0.16503429412841797,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I never thought about it that way before. It's just... when I start to feel less guilty, it almost feels like I'm forgetting her or something. But you're right, the pain isn't the only proof I loved her. It's just hard to imagine how to honor her without this constant weight. \n\nWhat if I stop feeling guilty and then realize I didn't love her as much as I thought? That thought scares me more than the guilt itself.",
-    "therapist": "It makes so much sense that this fear—of your love being tied to the guilt—feels even scarier than the pain itself. Would it be worth exploring what *other* ways your love for her shows up, even beyond the guilt? Like the ways you still carry her with you in your actions or memories?",
+    "client": "I like the idea of gathering information rather than pushing myself too hard. Right now, looking at photos of her feels easier than dealing with her physical belongings. Sometimes I just scroll through old pictures on my phone when I miss her - it feels more manageable because I can stop whenever I need to. But I still feel guilty that I'm not \"strong enough\" to handle her scarf yet.",
+    "therapist": "It sounds like looking at photos is providing a gentle way to connect with her memory while respecting your emotional limits right now - that's not a lack of strength, but rather a wise way of caring for yourself during this difficult time. What would it feel like to let go of that guilt about the scarf and focus on what feels nurturing right now, knowing that different ways of connecting might feel right at different times?",
     "condition": "emotion_text_only",
-    "val_t": -0.34287726879119873,
-    "aro_t": 0.19572961330413818,
-    "text_emotion": "Angry"
+    "val_t": -0.0275876522064209,
+    "aro_t": 0.1038057804107666,
+    "text_emotion": "Neutral"
   }
 ]

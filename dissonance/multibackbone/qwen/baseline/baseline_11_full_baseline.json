@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. Trying to balance my full-time job and taking care of the kids while my partner is away on a work trip has been really tough. I find myself constantly stressed and exhausted, and I’m not sure if therapy can even help with all this.",
-    "therapist": "It sounds like you're under a lot of pressure right now, and it’s completely understandable to feel overwhelmed and exhausted. Therapy can definitely help by providing strategies to manage stress and offering a supportive space to process these feelings. How have you been coping with the stress so far, and are there any specific times when you feel it the most?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. My partner is on a work trip, so I'm the only one looking after our two young kids, and I also have a full-time job at the marketing firm. It's just a lot to handle, and I'm not sure if I can keep up with everything. I feel like I'm constantly running on empty.",
+    "therapist": "It sounds like you're juggling a lot right now, and it’s completely understandable to feel overwhelmed. Taking care of the kids and managing your job can be incredibly demanding, especially when you’re doing it alone. What are some things that have helped you cope in the past, or are there any small steps you can take to give yourself a bit of a break?",
     "condition": "baseline",
-    "val_t": -0.26307082176208496,
-    "aro_t": 0.1816474199295044,
+    "val_t": -0.1807781457901001,
+    "aro_t": 0.16958582401275635,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, it's been really tough. I've been trying to cope by working out and staying busy, but it feels like the stress just keeps piling up. I notice it the most when I'm alone at night, and all the worries just flood in. It's hard to shake off that feeling of being overwhelmed.",
-    "therapist": "It sounds like you’ve been putting in a lot of effort to manage the stress, and it’s really tough when it feels like it’s not enough. Being alone at night can definitely amplify those feelings of overwhelm. Have you noticed any specific thoughts or worries that come up during those times, or any patterns in what triggers these feelings?",
+    "client": "I appreciate that you're understanding, Luna. In the past, I've found that taking a short walk or having a cup of tea by myself can help a little. But lately, even those small things feel impossible to fit into my day. I feel guilty about taking time for myself when there's so much to do, and I worry that if I take a break, everything will fall apart.",
+    "therapist": "It’s really important to acknowledge that you’re doing your best in a very challenging situation. Feeling guilty about taking time for yourself is common, but it’s also crucial for your well-being. Have you considered setting a tiny, manageable goal for yourself, like taking just a five-minute break to breathe deeply or have that cup of tea, even if it’s while the kids are napping? How do you think that might impact your day?",
     "condition": "baseline",
-    "val_t": -0.2699190378189087,
-    "aro_t": 0.16693449020385742,
-    "text_emotion": "Angry"
+    "val_t": -0.19445466995239258,
+    "aro_t": 0.06137371063232422,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "Yeah, at night, my mind just races with all sorts of worries. I often think about all the things I should have done differently during the day, and I feel this constant guilt. It's hard to pinpoint exactly what triggers it, but I think it's just the quiet and the darkness that make everything feel more intense.",
-    "therapist": "It makes sense that the quiet and darkness can amplify those feelings, and it’s common for our minds to race with worries and self-criticism during those times. Those thoughts about what you should have done differently can be really tough to shake. Can we explore some of those specific thoughts a bit more? For example, what are some of the things you tell yourself, and how do those thoughts make you feel?",
+    "client": "I hear what you're saying, and I know it makes sense, but it's hard to see how just a five-minute break will make a difference when there's so much to do. I worry that if I take even a short break, I'll fall behind even more, and then I'll feel even more overwhelmed. It's a tough cycle to break.",
+    "therapist": "I completely understand how tough it is to break that cycle, and it’s natural to worry about falling behind. Sometimes, even a small break can help reset your mind and make you more efficient in the long run. What if we tried to reframe taking a break as an investment in your ability to handle everything, rather than a luxury you can’t afford? How do you think that perspective might change the way you feel about taking those short breaks?",
     "condition": "baseline",
-    "val_t": -0.37090814113616943,
-    "aro_t": 0.0816270112991333,
-    "text_emotion": "Sad"
+    "val_t": -0.1891261339187622,
+    "aro_t": 0.15085816383361816,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Sure, I guess the main things I tell myself are that I should have been more considerate or that I’m not good enough. It makes me feel really guilty and alone, like I’m the only one who can’t get things right. I know it’s irrational, but it’s hard to shake those thoughts, especially at night.",
-    "therapist": "Those are really powerful thoughts, and it’s understandable that they would bring up feelings of guilt and loneliness. It’s important to recognize that these thoughts, while very common, can be quite unkind to ourselves. Can we try to look at some evidence that might challenge these thoughts? For example, are there times when you have been considerate or when you’ve handled things well, even if it didn’t feel like it at the time?",
+    "client": "I see what you mean about reframing it as an investment, but it's still hard for me to shake the guilt. I feel like I should be constantly productive, and taking a break feels like I'm shirking my responsibilities. I guess I can try to see it as a way to recharge, but it's going to be a struggle to change that mindset.",
+    "therapist": "It’s completely normal to feel that guilt, and changing that mindset can take time and practice. Recognizing that taking a break is a way to recharge and maintain your productivity is a great first step. Maybe you could start by setting a specific time for a short break each day, almost like a mini-appointment with yourself. How do you think that might feel, and do you think it could help you start to shift your mindset over time?",
     "condition": "baseline",
-    "val_t": -0.267819881439209,
-    "aro_t": 0.05585372447967529,
-    "text_emotion": "Sad"
+    "val_t": -0.12280189990997314,
+    "aro_t": 0.030632734298706055,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I understand what you’re saying, but it’s hard for me to see those moments when I’ve been considerate or handled things well. It feels like every time I try to think of something positive, my mind just goes back to all the things I’ve done wrong or could have done better. I don’t know if I can find those positive examples.",
-    "therapist": "It’s completely normal to have a hard time seeing the positive when you’re feeling overwhelmed and critical of yourself. Our minds can often focus on the negatives, especially when we’re under stress. Let’s try a small experiment: What if we set aside a specific time each day, even just a few minutes, to write down one thing you did well or something positive that happened? This can help balance out those critical thoughts over time. How does that sound to you?",
+    "client": "I can see the logic in setting a specific time for a break, but it still feels like adding one more thing to my already packed schedule. I worry that if I set a time and then can't stick to it, I'll just feel more frustrated. But maybe starting with something very small, like a two-minute break, could be less daunting. I'll give it a try and see how it goes.",
+    "therapist": "That’s a really thoughtful approach, and starting with a two-minute break is a great way to make it feel more manageable. It’s okay if it feels like adding one more thing at first; the goal is to make it a helpful addition rather than a burden. How about we check in on how it goes after a few days? What do you think might be some signs that it’s working for you, or areas where you might need to adjust?",
     "condition": "baseline",
-    "val_t": 0.01626431941986084,
-    "aro_t": 0.08844125270843506,
+    "val_t": -0.03468453884124756,
+    "aro_t": 0.06559276580810547,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the idea, but it feels a bit challenging. I often struggle to find anything positive in my day, and forcing myself to write it down might just make me feel worse. I worry that it will just highlight how much I feel I’m failing.",
-    "therapist": "I completely understand that it can feel challenging and even counterproductive to try to find positive moments when you’re already feeling down. It’s important to approach this in a way that feels manageable and not overwhelming. Maybe we could start with a different approach, like simply acknowledging your efforts and the difficult tasks you handle each day, without necessarily focusing on finding something positive. What do you think about that?",
+    "client": "I think checking in after a few days is a good idea. I'll pay attention to how I feel during and after the breaks, and whether they help me feel more focused or less overwhelmed. If it doesn't feel right, I'll let you know, and we can try something else. It's hard to predict how it will go, but I'm willing to give it a shot.",
+    "therapist": "That’s a fantastic plan, and I’m really glad you’re willing to give it a try. Paying attention to how you feel during and after the breaks is a great way to gauge their impact. Remember, it’s okay to be flexible and adjust as you go. How do you feel about setting a specific time for your first two-minute break, and what do you think might be a good way to use that time?",
     "condition": "baseline",
-    "val_t": -0.14203286170959473,
-    "aro_t": 0.08909523487091064,
-    "text_emotion": "Angry"
+    "val_t": 0.15522384643554688,
+    "aro_t": 0.10688626766204834,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It does feel more manageable to just acknowledge my efforts without forcing myself to find something positive. But I still worry that even this might feel like another thing I'm not doing well enough, you know? It's hard to break that cycle of self-criticism.",
-    "therapist": "I completely understand, and it’s really common to feel that way, especially when self-criticism is a strong habit. It’s a gentle process, and it’s okay to start small. Maybe we can start with just one simple acknowledgment each day, like, “I did my best today,” or “I managed to get through another day.” Even a small step can make a difference over time. How does that feel to you?",
+    "client": "I think setting a specific time for the break could help make it a priority. Maybe I could try it right after I drop the kids off at school, before I start my workday. For those two minutes, I might just sit in my car and take some deep breaths or listen to a calming song. It feels a bit strange to plan a break, but I'll give it a try and see how it goes.",
+    "therapist": "That’s a wonderful idea, and setting a specific time like that can really help make it a priority. Sitting in your car and taking deep breaths or listening to a calming song sounds like a great way to start your day on a more centered note. It might feel a bit strange at first, but giving yourself that small moment to pause can make a big difference. How do you think you might remind yourself to take this break, especially on days when things feel extra hectic?",
     "condition": "baseline",
-    "val_t": -0.09397077560424805,
-    "aro_t": 0.047602176666259766,
+    "val_t": 0.08845388889312744,
+    "aro_t": 0.010766267776489258,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate your understanding, Luna. It does feel a bit overwhelming to even start with small steps, though. I worry that I won't be able to stick with it or that I'll just end up feeling more discouraged if I can't do it consistently. It's hard because my self-criticism is so deeply ingrained.",
-    "therapist": "I hear you, and it’s completely understandable to feel overwhelmed and concerned about consistency, especially when self-criticism is so deeply ingrained. It’s okay to take it one step at a time and to be gentle with yourself. What if we start with just noticing your efforts and acknowledging them, even if it’s just for a moment? For example, you could simply pause and say, “I’m trying my best,” whenever you notice yourself feeling overwhelmed. How does that feel to you?",
+    "client": "I think setting an alarm on my phone for right after I drop the kids off at school could help remind me to take that break. It’s a good idea, but on really hectic days, I might still feel like I can’t afford to take even two minutes. I’ll have to work on reminding myself that it’s important for my well-being.",
+    "therapist": "Setting an alarm is a great strategy to help you remember to take that break. It’s totally understandable that on hectic days, it might still feel challenging to step away, even for a short time. Reminding yourself that taking care of your well-being is just as important as everything else on your to-do list can be a powerful motivator. How do you think you might reinforce that reminder to yourself, maybe through a positive affirmation or a note to yourself?",
     "condition": "baseline",
-    "val_t": -0.14985275268554688,
-    "aro_t": 0.09636032581329346,
-    "text_emotion": "Angry"
+    "val_t": -0.02552938461303711,
+    "aro_t": 0.053343772888183594,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate the suggestion, but it's hard for me to even notice my efforts when I'm feeling so overwhelmed. I often don't recognize when I'm trying my best until it's too late, and then I just end up feeling guilty. It's a tough cycle to break.",
-    "therapist": "I completely understand how difficult it is to notice your efforts in the moment, especially when you’re feeling overwhelmed. It’s a tough cycle, and it’s okay to take it slowly. What if we try a little experiment where you set a reminder on your phone or a note somewhere visible, just to prompt you to pause and acknowledge your efforts, even if just for a moment? This can help you catch those moments of effort and reduce the guilt later. How does that sound to you?",
+    "client": "I like the idea of a positive affirmation or a note to myself. Maybe I could write something like, \"Taking care of myself helps me be a better parent and employee\" and keep it on my phone or in my car. It might help me remember that those two minutes are actually an investment in everything else I do. It still feels a bit daunting, but I'm willing to give it a try.",
+    "therapist": "That’s a really powerful affirmation, and having it readily available on your phone or in your car can be a great way to reinforce that message to yourself. It’s normal for it to feel daunting at first, but you’re taking a positive step by recognizing the value of those two minutes. How do you think you might reflect on your progress after a few days, and what might be some signs that this small break is making a difference for you?",
     "condition": "baseline",
-    "val_t": -0.2775003910064697,
-    "aro_t": 0.11956596374511719,
-    "text_emotion": "Angry"
+    "val_t": 0.1444007158279419,
+    "aro_t": 0.0930185317993164,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I understand what you're saying, and it does sound like a good idea in theory. But I worry that it might just feel like one more thing to keep track of, and that could add to my anxiety instead of helping. It’s hard to find the balance sometimes.",
-    "therapist": "I totally get that adding another thing to keep track of can feel overwhelming, and it’s important to find what works best for you without adding more stress. Maybe we can start with something even simpler, like a mental note to yourself, “I am doing my best,” whenever you notice yourself feeling overwhelmed. This way, it’s not an additional task, but a gentle reminder to acknowledge your efforts. How does that feel to you?",
+    "client": "I think I'll reflect on my progress by journaling for a few minutes each evening about how those two-minute breaks went and how I felt afterward. Signs that it's making a difference might be feeling a bit less overwhelmed, more focused, or even just a tiny bit more patient with the kids and myself. It’s a small step, but I’m hopeful it can help.",
+    "therapist": "Journaling is a great way to reflect on your progress and notice the subtle changes that might be happening. Recognizing signs like feeling less overwhelmed, more focused, or a bit more patient are all valuable indicators that those breaks are making a positive impact. It’s wonderful that you’re taking this step, and even small changes can lead to significant improvements over time. How do you feel about giving yourself some credit for trying this new approach, and what might you say to yourself to stay motivated?",
     "condition": "baseline",
-    "val_t": -0.1822044849395752,
-    "aro_t": 0.09958219528198242,
-    "text_emotion": "Angry"
+    "val_t": 0.04240071773529053,
+    "aro_t": 0.054897189140319824,
+    "text_emotion": "Neutral"
   }
 ]

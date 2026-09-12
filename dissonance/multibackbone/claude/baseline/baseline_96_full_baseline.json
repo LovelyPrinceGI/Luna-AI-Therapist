@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really off ever since my breakup with Maria about three months ago. Like, things I used to love doing, hiking with friends, being outdoors, just don't feel the same anymore. I honestly don't know if talking about it is going to change anything, but I figured I'd give this a shot.",
-    "therapist": "It means a lot that you took this step, even with some doubt about whether it will help — that kind of honesty is actually a really good starting point. Losing a relationship can quietly reshape the way everyday things feel, like the color has been turned down on experiences that used to light you up. I'm curious — when you're out on a hike or with friends now, what kinds of thoughts tend to run through your mind in those moments?",
+    "client": "I've been having a really hard time since my breakup with Maria about three months ago, and I guess that's why I finally decided to come here. I used to love going hiking with my friends on weekends, but lately I just can't bring myself to enjoy it — or anything, really. I'm not even sure therapy can fix something like this, but I figured I had nothing to lose by trying.",
+    "therapist": "It takes real courage to show up here, especially when you're feeling this low and uncertain about whether anything can help — I'm really glad you came. What you're describing, losing the joy in things you used to love like hiking, is such a painful and common part of grief after a significant relationship ends, and it makes complete sense that you're struggling. I'm curious — when you imagine yourself back on one of those hiking trails, what thoughts or feelings come up for you?",
     "condition": "baseline",
-    "val_t": -0.1819746494293213,
-    "aro_t": 0.12230300903320312,
-    "text_emotion": "Angry"
+    "val_t": -0.19082176685333252,
+    "aro_t": 0.07758820056915283,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Yeah, when I'm out hiking or whatever, I keep thinking about how she would have loved this trail, or how I'd be taking a photo to send her. It's like my brain won't just let me be present — it keeps pulling me back to this person who isn't there anymore. And then I feel kind of guilty for even being out enjoying myself, like I don't deserve to feel good when things ended the way they did.",
-    "therapist": "What you're describing makes so much sense — your brain formed deep habits around sharing experiences with Maria, and those habits don't just switch off overnight. I want to gently shine a light on that guilt though, because there's an interesting thought hiding in there: the idea that you *don't deserve* to feel good, which is worth examining together. What do you think \"the way things ended\" says about you as a person that would make feeling joy somehow off-limits for you?",
+    "client": "When I picture myself out on a trail, the first thing that hits me is this image of Maria — we did that route together so many times, and now it just feels like it belongs to her somehow. I get this hollow, almost sick feeling in my chest, like I'd just be surrounded by reminders of what I lost. Honestly, I think part of me avoids it because being out there alone would just make the loneliness feel even more real.",
+    "therapist": "That hollow, sick feeling you're describing makes so much sense — those trails hold real memories, and your mind is trying to protect you from that pain by keeping you away. I want to gently notice something with you though: you mentioned going with *friends*, which means you wouldn't actually be alone out there, yet part of your mind seems to be framing it that way. What do you think it would feel like to test that thought — that being on the trail means facing loneliness — by going once with someone you trust?",
     "condition": "baseline",
-    "val_t": -0.3092538118362427,
-    "aro_t": 0.19166791439056396,
+    "val_t": -0.26914989948272705,
+    "aro_t": 0.13410067558288574,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess... when things ended with Maria, I was the one who pulled away first. I told myself it was for good reasons, but there's this voice in the back of my head that says I gave up on her, and people who give up on others don't really deserve to just move on and be happy. It feels like feeling joy would be some kind of proof that I didn't care enough in the first place.",
-    "therapist": "That inner voice is carrying a really heavy judgment — essentially putting you on trial and ruling that happiness is off-limits as a kind of punishment. But I'd gently ask you to examine the logic there: is it actually true that someone who genuinely *didn't* care would feel this much pain and guilt three months later? What might it say about you that this still weighs on you so deeply?",
+    "client": "I hear what you're saying, and yeah, logically I know my friends would be there — but I'm not sure it would actually feel any different. Like, even when I'm around people lately, I still feel this weird distance, this sense that nobody really gets what I'm going through with Maria. I guess I'm worried that going on the hike and still feeling lonely would somehow be worse than just staying home.",
+    "therapist": "That fear makes a lot of sense — it feels safer to avoid the test than to risk \"failing\" it and feeling even more hopeless. What you're describing, feeling distant even in a crowd, often comes from a belief that you have to carry this grief invisibly, which can quietly deepen the loneliness. I'm wondering — have you been able to tell any of your friends even a little bit of what you just shared with me, about how much you're struggling since the breakup?",
     "condition": "baseline",
-    "val_t": 0.039609551429748535,
-    "aro_t": 0.2922096252441406,
-    "text_emotion": "Tense"
+    "val_t": -0.3039616346359253,
+    "aro_t": 0.07238662242889404,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and part of me wants to accept that logic... but it almost feels too convenient, like I'm just looking for a way to let myself off the hook. Because yeah, I still feel the pain, but couldn't that just mean I feel bad about what I did rather than proving I actually cared about her? I'm not sure those two things are the same, and that distinction keeps tripping me up.",
-    "therapist": "That's actually a really sharp and honest distinction to make, and it shows a lot of self-awareness that you're not just grabbing onto the easiest explanation. You're right that guilt and love aren't the same thing — but I'm wondering if the story that you \"gave up on her\" is the whole truth, or whether it's one harsh interpretation of a decision that probably had more complexity to it. What were those reasons you told yourself at the time when you pulled away — do they feel completely invalid to you now, or is part of you still able to see why you made that choice?",
+    "client": "Not really, honestly. I've kind of just been saying \"I'm fine\" or deflecting with jokes when they ask how I'm doing, because I don't want to be that guy who can't get over a breakup three months later. I guess I worry they'll think I'm being dramatic, or that they'll get tired of hearing about it.",
+    "therapist": "It's so understandable that you want to protect yourself from judgment, but I notice there's an automatic thought worth examining here: \"three months is too long to still be hurting,\" as if grief has a deadline your friends are secretly tracking. The irony is that by hiding behind \"I'm fine,\" you're actually creating the very distance that makes you feel unseen and alone. What do you think might happen if you let just one trusted friend see even a small piece of what you're really going through?",
     "condition": "baseline",
-    "val_t": -0.16313982009887695,
-    "aro_t": 0.13000619411468506,
+    "val_t": -0.2558640241622925,
+    "aro_t": 0.12024366855621338,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... at the time I told myself I was drowning too, that I couldn't keep being her emotional support when I could barely hold myself together. And honestly, part of me still sees that — like, I wasn't in a good place, and I genuinely didn't know how to help her without losing myself. But then she died, and suddenly that reasoning feels like just a really convenient excuse I made up to justify abandoning someone who needed me.",
-    "therapist": "I'm so sorry — losing Maria, and carrying this weight in the wake of her death, is an enormous amount of pain to hold. What you're experiencing now makes deep sense: grief has a way of rewriting our memories and turning reasonable, human decisions into evidence of the worst things we fear about ourselves. I want to sit with you in this for a moment — because the person who pulled away to protect their own mental health, and the person who genuinely cared about Maria, can both be true at the same time. Can you tell me a little about what it's been like carrying this since she passed?",
+    "client": "I mean, maybe you're right that I'm creating some of that distance myself, and that's kind of uncomfortable to sit with. But I think about opening up to someone like my friend Jake, and I just imagine him not knowing what to say, or giving me some generic \"she wasn't right for you anyway\" response — and that would honestly make me feel worse, not better. I don't know, maybe I've just convinced myself it's safer to keep it inside than to risk that kind of disappointment.",
+    "therapist": "That anticipation of disappointment is real and worth taking seriously — you've probably experienced moments before where vulnerability didn't land the way you hoped, and your mind is trying to shield you from that. But I gently want to point out that you're essentially making a decision *for* Jake before he's even had the chance to show up for you, which means he never gets the opportunity to surprise you. What do you actually know about Jake that might be worth weighing against that fear — has he ever shown up for you in a meaningful way before?",
     "condition": "baseline",
-    "val_t": -0.3797476291656494,
-    "aro_t": 0.20508277416229248,
-    "text_emotion": "Angry"
+    "val_t": -0.3251391649246216,
+    "aro_t": 0.07787740230560303,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "It's been... exhausting, honestly. Like I wake up every morning and the first thing my brain does is replay all the times I didn't answer her calls, or made excuses not to visit, and I just lie there feeling like a terrible person before the day even starts. And the worst part is there's no way to fix it now — she's gone, and I can't go back and be the friend she deserved.",
-    "therapist": "The finality of her death has locked you in a kind of impossible loop — your mind keeps returning to the evidence for the prosecution, with no way to take action or make amends, and that helplessness is one of the most painful places a person can be. I want to reflect something back to you gently: you're describing yourself as a \"terrible person,\" but what I'm hearing is someone who was genuinely struggling, made imperfect choices under that strain, and is now grieving both Maria *and* the relationship you wish you'd had with her. I'm wondering — if a close friend came to you carrying this exact story, word for word, would you look at them and see a terrible person, or would you see something more complicated than that?",
+    "client": "Yeah, actually — when my dad got sick a couple years ago, Jake was the one who kept checking in on me without me even having to ask. I guess I kind of forgot about that when I was picturing him fumbling through some awkward response about Maria. It's just hard because this feels different, more embarrassing somehow, like grief over a relationship is less serious than a family crisis and I should just be over it by now.",
+    "therapist": "What you just did there is really important — you went looking for evidence and found something that genuinely contradicts the story your mind has been telling you about Jake, and that takes honesty. It's also worth gently challenging this hierarchy of \"acceptable\" grief you've described, because pain doesn't rank itself by category — a relationship that mattered deeply to you *is* serious, full stop. I'm curious where you think this idea came from, that heartbreak is somehow less deserving of support than other kinds of loss?",
     "condition": "baseline",
-    "val_t": -0.43331634998321533,
-    "aro_t": 0.24992680549621582,
+    "val_t": -0.2886030673980713,
+    "aro_t": 0.18218743801116943,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I've heard that question before, you know — the \"what would you say to a friend\" thing — and I always know what I'm supposed to say. But when I try to actually apply it to myself, it just... doesn't stick. Like I can see the logic of it, but it doesn't reach whatever part of me is convinced I failed her.",
-    "therapist": "You're pointing to something really important — there's a difference between understanding something intellectually and actually *feeling* it, and it sounds like the part of you that believes you failed Maria isn't really a thoughts problem, it's deeper than that. That inner conviction probably didn't form through logic, which means logic alone isn't always enough to loosen its grip — sometimes it needs something different, like grief that's actually been felt and moved through rather than managed. I'm curious, in these three months, have you had any space to just *grieve* Maria — not analyze what happened or put yourself on trial, but actually mourn losing her?",
+    "client": "Honestly, I think a lot of it comes from how I grew up — my dad was pretty stoic, and the message was always kind of \"deal with it and move on,\" especially around relationship stuff. I remember him saying something once about how heartbreak is just part of life and you don't make a big deal out of it. I never really questioned that until just now, but I can see how I've been carrying that around like it's some kind of rule I have to follow.",
+    "therapist": "That's a really meaningful insight — recognizing that what feels like a personal truth is actually a rule you inherited, one that made sense in your dad's world but may not be serving you now. Carrying that \"deal with it silently\" message has likely made this grief so much heavier, because you've been fighting the pain *and* judging yourself for having it at the same time. I'm wondering — now that you can see it as something you learned rather than something that's simply true, does it feel like a rule you actually want to keep following?",
     "condition": "baseline",
-    "val_t": -0.16233420372009277,
-    "aro_t": 0.12214076519012451,
-    "text_emotion": "Angry"
+    "val_t": -0.10302186012268066,
+    "aro_t": 0.05118143558502197,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I've been sitting with that question and honestly... I don't think I have. Every time I start to feel something about losing her, it immediately turns into this courtroom in my head where I'm listing everything I did wrong, and the grief just gets swallowed up by the guilt. I'm not even sure I know how to separate the two at this point.",
-    "therapist": "What you just named is really significant — the guilt has essentially been standing guard at the door, not letting the grief through, and that means you've been carrying the weight of losing her without ever really getting to just *miss* her. That courtroom in your mind serves a kind of purpose, painful as it is — focusing on what you did wrong might actually feel safer than facing the rawness of simply loving someone who is gone. I wonder, if we could somehow quiet the prosecutor for just a moment — what would be the first thing you'd want to say to Maria, if you could?",
+    "client": "When you put it that way, no, I don't think I actually want to keep following it — it's just that knowing something intellectually and actually changing how you feel about it seem like very different things. Like, I can tell myself \"it's okay to struggle after a breakup\" but there's still this voice in my head that sounds a lot like my dad saying I'm being weak. I'm not sure how you get from understanding something to actually believing it in your gut.",
+    "therapist": "You've just named one of the most honest and important things about how change actually works — insight is the map, but it's new *experiences* that rewire the gut feeling, and that takes time and repetition. One way to start bridging that gap is through small moments that gently contradict the old rule, like letting Jake in even briefly, because each time the world responds with care instead of judgment, that inner voice loses a little of its authority. What might it feel like to treat one small act of openness this week — not as a test of whether you're \"over it,\" but as an experiment in gathering new evidence about what you actually deserve?",
     "condition": "baseline",
-    "val_t": -0.34307658672332764,
-    "aro_t": 0.15901005268096924,
-    "text_emotion": "Angry"
+    "val_t": -0.22002339363098145,
+    "aro_t": 0.08775413036346436,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I sat with that for a second and it actually kind of hit me hard, what you said about the guilt being a guard. Because you're right, it's easier to be angry at myself than to just... feel how much I miss her. If I could say something to Maria right now, I think it would just be \"I'm sorry I wasn't there more, but I really did love you\" — and even saying that out loud makes my chest tight in a way that's different from the guilt, it's just pure sadness.",
-    "therapist": "That tightness in your chest right now — that's grief, real and uncomplicated, and it's actually a sign that you're finally letting yourself feel something true about her rather than about your own failures. What you just said, that you loved her, isn't in conflict with the choices you made when you were struggling — both things lived in you at the same time then, and they still do now. I want to ask you to stay with that feeling for just a moment rather than rushing past it — what's it like to let yourself simply miss her, even just for right now?",
+    "client": "I like the idea of calling it an experiment rather than some big emotional moment I have to get right — that framing actually makes it feel a little less terrifying. But I'm already thinking about how it might go, like maybe I text Jake and he's busy or gives a one-word response, and then I've put myself out there for nothing. I guess I'm just scared that even a small step could end up feeling like more proof that I should've kept things to myself.",
+    "therapist": "It's really telling that your mind is already writing Jake's response for him — and notably, it's writing the worst version, which is exactly what that old \"stay stoic, stay safe\" rule would want you to believe to keep you protected. Even a busy or brief reply wouldn't actually prove you shouldn't have reached out; it would just mean Jake was busy, and those are two very different things. What would you say to a close friend who was afraid to reach out because they might get an imperfect response — would you tell them that silence was the safer choice?",
     "condition": "baseline",
-    "val_t": -0.23701250553131104,
-    "aro_t": 0.2833470106124878,
+    "val_t": -0.2507913112640381,
+    "aro_t": 0.1420196294784546,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "It's... strange, because when I actually let myself just miss her instead of immediately going to what I did wrong, there's this sadness that feels almost quieter somehow, less jagged. Like it's just her face I'm thinking about, the way she'd laugh at her own jokes before she even got to the punchline. But I don't know how long I can stay there before my brain pulls me back to the guilt, it's like it won't let me have the grief without the punishment attached to it.",
-    "therapist": "What you just described — her laugh, her face — that's love, and it's yours to keep, and no amount of guilt can actually take that away from you. The fact that the sadness felt quieter and less jagged is really important information, because it suggests that the grief itself isn't what's unbearable — it's the guilt layered on top of it that makes it so sharp and exhausting. I'm wondering if we could think of that quieter place not as something you have to hold onto perfectly, but as somewhere you now know exists — a place you've visited once today and can find your way back to — does that feel like something worth gently practicing?",
+    "client": "No, I'd probably tell them to just send the message and that an imperfect response is better than wondering forever — it's kind of annoying how clearly I can see that when it's hypothetically someone else's problem. I think I'd feel pretty hypocritical saying \"stay silent\" to a friend when I know that's not actually good advice. I guess the hard part is that I can be compassionate toward some imaginary friend way more easily than I can toward myself.",
+    "therapist": "What you just noticed — that gap between how you'd treat a friend versus how you treat yourself — is actually one of the most important things we can work with in therapy, and the fact that you can see it so clearly is a real strength. That double standard isn't a character flaw; it's something that was taught to you, by that same stoic voice that said struggle should be private and silent. What do you think it would take to become even a little bit more like that compassionate friend to yourself — not perfectly, just enough to send one honest message to Jake this week?",
     "condition": "baseline",
-    "val_t": -0.34185540676116943,
-    "aro_t": 0.150681734085083,
+    "val_t": -0.16289865970611572,
+    "aro_t": 0.09262537956237793,
     "text_emotion": "Angry"
   }
 ]

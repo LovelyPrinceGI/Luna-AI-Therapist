@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandmother passed away last year. Family gatherings are just so hard for me now; they remind me of her absence and it feels overwhelming to be around everyone. I've been avoiding them, but I can't shake this feeling of guilt for not being there for my family.",
-    "therapist": "I'm really sorry to hear how tough things have been for you since your grandmother passed away. It sounds like family gatherings have become a painful reminder of your loss, and it's understandable to feel overwhelmed and guilty about not being there for your family. Can you share more about what specific thoughts or feelings come up for you when you're faced with the idea of attending these gatherings?",
+    "client": "Luna, I've been really struggling since my grandmother passed away last year. Family gatherings feel so overwhelming now; I can't shake the feeling of her absence, and it just makes me want to avoid everyone. I'm not sure if talking about this will really help, but it's been weighing heavily on me.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds like you're carrying a heavy burden. It's completely understandable to feel overwhelmed during family gatherings, especially when you're reminded of her absence. Talking about it can be tough, but sometimes sharing those feelings can bring a little relief. What do you think might happen if you allowed yourself to express those feelings with someone in your family?",
     "condition": "emotion_text_only",
-    "val_t": -0.3968775272369385,
-    "aro_t": 0.15383970737457275,
-    "text_emotion": "Sad"
+    "val_t": -0.29527783393859863,
+    "aro_t": 0.18440842628479004,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I think about attending family gatherings after my grandmother's passing, I feel this heavy weight of guilt. I worry that if I go, I'll just be a reminder of her absence for everyone, and I don’t want to bring more pain to the family. At the same time, I feel anxious about being around everyone, thinking they might be judging me for not coping well enough or for not being as supportive as I should be.",
-    "therapist": "It sounds like you're carrying a heavy burden of guilt and anxiety about attending family gatherings, fearing that your presence might bring up painful memories for others. It’s completely natural to feel this way after such a significant loss, but remember that your feelings are valid and you are not alone in this. What would it look like for you to express your feelings to your family, or perhaps find a way to honor your grandmother while still being present?",
+    "client": "I guess expressing my feelings could help, but I worry about how my family would react. They might just want to move on and not think about her anymore, and I don't want to be the one bringing everyone down. It feels so complicated—like I'm stuck between wanting to remember her and not wanting to make things awkward.",
+    "therapist": "It sounds like you're feeling really stuck between wanting to honor your grandmother's memory and fearing how your family might react. It’s completely normal to have mixed feelings about bringing her up, especially in a family setting where everyone may be processing their grief differently. Have you considered ways to remember her that feel comfortable for you, perhaps during a quieter moment with your family?",
     "condition": "emotion_text_only",
-    "val_t": -0.4499777555465698,
-    "aro_t": 0.09485530853271484,
+    "val_t": -0.2242060899734497,
+    "aro_t": 0.08073782920837402,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying my feelings are valid, but honestly, I feel really stuck. The idea of expressing my feelings to my family makes me anxious; I worry they'll think I'm just trying to make the gathering about me or that they'll be upset. It feels like a lot of pressure, and I'm not sure how to honor my grandmother without bringing everyone's mood down.",
-    "therapist": "It sounds like you’re feeling really trapped in this situation, wanting to honor your grandmother while also being concerned about how your family might react. That pressure can be incredibly heavy, especially when you're already navigating your own grief. Have you thought about small ways you could honor her that might feel less overwhelming, or perhaps sharing a memory that feels more like a celebration rather than a focus on loss?",
+    "client": "I’ve thought about ways to remember her, but it feels like anything I say might just bring up too much emotion. I don't know if I could handle the awkwardness or if it would just make everyone uncomfortable. It feels easier to just keep my feelings to myself than to risk having a heavy moment.",
+    "therapist": "It sounds like you're grappling with a lot of fear around expressing your feelings, and it's understandable to want to avoid those heavy moments. Keeping your emotions to yourself can feel like the easier option, but it can also make things feel more isolating. What if you considered sharing a small memory or a light-hearted story about your grandmother that honors her without feeling too overwhelming? How might that feel for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.182977557182312,
-    "aro_t": 0.19382178783416748,
+    "val_t": -0.1964789628982544,
+    "aro_t": 0.09156334400177002,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that, but it just feels like anything I do will be criticized by my family. I want to honor my grandmother, but I also don’t want to stir up any drama. The idea of sharing a memory feels daunting because I don't think anyone will see it the way I do.",
-    "therapist": "It sounds like you’re feeling a lot of pressure and concern about how your family might respond, which makes it tough to consider honoring your grandmother in a way that feels right for you. It's completely understandable to fear criticism when you're already feeling vulnerable. What if you started by sharing your feelings with just one supportive family member, or perhaps writing down your memories as a way to process them? How does that idea resonate with you?",
+    "client": "I see what you're saying, and I like the idea of sharing a light-hearted story, but I’m still worried it might not come across the right way. What if everyone just feels sad instead of remembering her fondly? I don’t want to make anyone feel worse, and I really don’t know if I can do it without getting emotional myself.",
+    "therapist": "It sounds like you're feeling a lot of pressure to navigate this delicate situation perfectly, and it's completely understandable to worry about how others might react. Remembering your grandmother with a light-hearted story doesn’t have to be a heavy moment; it can be a way to celebrate her life while allowing space for everyone to connect. What if you took a small step and practiced sharing that story or memory with someone you trust first? How does that feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.06540989875793457,
-    "aro_t": 0.1359626054763794,
+    "val_t": -0.21109247207641602,
+    "aro_t": 0.2050306797027588,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, but honestly, I feel really hesitant about sharing my feelings with anyone in my family. I'm worried it might lead to more conflict or misunderstandings, and I just don’t want to deal with that right now. Writing down my memories sounds nice, but I’m not sure it would really help me process everything—I might just end up feeling even more sad.",
-    "therapist": "It's completely understandable to feel hesitant about sharing your feelings, especially when you're worried about potential conflict or misunderstandings. It sounds like you're in a delicate place, where the thought of processing your grief feels daunting, and that's okay. What do you think would feel most comforting for you right now—maybe finding a quiet space to reflect on your memories alone, or engaging in an activity that brings you peace?",
+    "client": "Practicing it with someone I trust sounds less intimidating than doing it in front of the whole family. But I still worry that even sharing it with one person could lead to a flood of emotions that I’m not ready to deal with. What if they start crying, and then I can't hold it together either? It feels risky to open up, even to just one person.",
+    "therapist": "It sounds like you're feeling really vulnerable about the possibility of opening up, and it’s okay to have those concerns. Sharing your feelings can indeed feel risky, especially when you worry about the emotional reactions of others. What if you approached it as a conversation where you can express your feelings while also setting the expectation that it might be an emotional moment? How might that shift your perspective on opening up?",
     "condition": "emotion_text_only",
-    "val_t": -0.25910019874572754,
-    "aro_t": 0.10656261444091797,
-    "text_emotion": "Sad"
+    "val_t": -0.18681728839874268,
+    "aro_t": 0.15807628631591797,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you understand how tough this is for me. I feel overwhelmed by the idea of processing my grief, and I’m not sure if reflecting alone would help or just make things worse. Engaging in an activity that brings me peace sounds nice, but I also worry that I might just end up feeling guilty for not facing my feelings directly.",
-    "therapist": "It sounds like you're caught in a tough spot, feeling overwhelmed by the idea of processing your grief while also grappling with guilt about not facing it head-on. It's completely normal to have mixed feelings about how to handle your emotions, especially during such a difficult time. What if you considered allowing yourself a bit of space to engage in something peaceful, while also setting a gentle intention to check in with your feelings later on? How might that approach feel for you?",
+    "client": "I see what you're saying about setting the expectation, and it makes sense to prepare for the emotions. But I still feel anxious just thinking about it. What if the conversation doesn’t go how I hope? I just don’t want to be the one who makes everything heavy for everyone else, and that thought makes me want to avoid it altogether.",
+    "therapist": "It sounds like you're feeling quite anxious about the potential outcomes of having this conversation, which is completely understandable. The fear of making things heavy for others can be really daunting and might make you want to retreat. It’s okay to feel that way—what if you allowed yourself to acknowledge those feelings while also considering that sharing your story might also create a deeper connection with your family? What do you think would happen if you framed it as a way to honor your grandmother together?",
     "condition": "emotion_text_only",
-    "val_t": -0.2584792375564575,
-    "aro_t": 0.0947638750076294,
-    "text_emotion": "Sad"
+    "val_t": -0.23433732986450195,
+    "aro_t": 0.21043193340301514,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate your suggestion, but it feels hard to give myself that space. I keep thinking that if I don’t confront my grief directly, I’m somehow avoiding it or not honoring the memory of what I’ve lost. It’s like there’s this pressure to feel everything all at once, and I’m scared that taking a step back might mean I'm not dealing with it at all.",
-    "therapist": "It sounds like you're feeling a lot of pressure to confront your grief all at once, which can be incredibly overwhelming. It's natural to want to honor your grandmother's memory, but it's also important to remember that grieving is a personal journey, and it doesn't always have to look a certain way. What if you allowed yourself to take small steps, giving yourself permission to feel whatever comes up in its own time? How does that idea resonate with you?",
+    "client": "I can see how framing it as a way to honor my grandmother could help bring us closer, and that’s a comforting thought. But I still feel this tight knot in my stomach just thinking about it. What if my family doesn't feel the same way? I don’t want to feel like I’m putting them in a position where they have to react in a certain way. It just feels so uncertain.",
+    "therapist": "It's great to hear that framing it as a way to honor your grandmother feels comforting, but I can sense that uncertainty and tension you're experiencing. It's natural to worry about how others might respond, especially when it comes to something so personal. What if you approached the conversation with an open mind, allowing for whatever feelings arise, rather than focusing on a specific reaction from your family? How might that shift your approach and ease some of that tightness in your stomach?",
     "condition": "emotion_text_only",
-    "val_t": -0.2162867784500122,
-    "aro_t": 0.19972050189971924,
+    "val_t": -0.16591322422027588,
+    "aro_t": 0.17579567432403564,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate what you're saying about taking small steps, but it feels challenging to just let things unfold naturally. I worry that if I don't confront my feelings head-on, I might forget about my grandmother or not honor her memory properly. It feels like there's this pressure to grieve perfectly, and I'm not sure how to navigate that.",
-    "therapist": "It's completely understandable to feel that pressure to grieve perfectly and to worry about forgetting your grandmother. Grief can be such a complicated and personal experience, and there’s no right or wrong way to honor her memory. What if you reframed your approach to grieving as a journey that allows for both reflection and gentle moments of peace? How might that shift help you feel less burdened by the need to do it all at once?",
+    "client": "I see what you mean about being open to whatever feelings come up, and I think that could help me feel less pressure. But honestly, it's still a bit scary to think about. I worry that if I let go of that control and just allow emotions to happen, it might spiral into something overwhelming, and I’m not sure I’m ready for that.",
+    "therapist": "I can really sense how scary and overwhelming it feels to consider letting go of that control. It’s completely normal to fear what might happen if you allow emotions to surface, especially when dealing with such a significant loss. What if you took it one step at a time, allowing yourself to experience just a little bit of that vulnerability at first? How might that approach help you feel more in control while still honoring your feelings?",
     "condition": "emotion_text_only",
-    "val_t": -0.1754213571548462,
-    "aro_t": 0.19206082820892334,
+    "val_t": -0.1595747470855713,
+    "aro_t": 0.251491904258728,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about reframing grief as a journey, but it feels overwhelming to think about it that way right now. I often feel guilty if I’m not grieving in a certain way, and the idea of allowing myself to feel peace feels almost wrong. It’s like I’m worried that if I let go of that pressure, I might forget her or not honor her memory properly.",
-    "therapist": "I hear you—it sounds incredibly heavy to feel that guilt and pressure about how you should be grieving. It's natural to want to honor your grandmother's memory, but it's also important to recognize that allowing yourself moments of peace doesn't mean you're forgetting her. What if you considered that honoring her could also include nurturing your well-being? How might that shift in perspective feel for you right now?",
+    "client": "Taking it one step at a time sounds more manageable, and I appreciate that suggestion. I think I could try sharing a small memory without diving too deeply into all my feelings at once. But I still worry that even a little vulnerability could lead to a wave of emotions that I might not be able to handle, and I don't want to disrupt the moment for everyone else.",
+    "therapist": "It’s great to hear that taking it one step at a time feels more manageable for you. I can understand the worry about even a small act of vulnerability leading to intense emotions, and that’s a valid concern. What if you reminded yourself that it’s okay to express just a bit of emotion, and that it doesn’t have to disrupt the moment? How might it feel to think of your feelings as a part of the gathering, rather than something that could overshadow it?",
     "condition": "emotion_text_only",
-    "val_t": -0.19953548908233643,
-    "aro_t": 0.13450884819030762,
-    "text_emotion": "Angry"
+    "val_t": 0.03530144691467285,
+    "aro_t": 0.16473817825317383,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I appreciate what you're saying, but it feels really complicated. I can’t shake the feeling that if I take time for myself or allow myself to feel happy, it somehow means I didn’t love her enough or that I’m moving on too quickly. It makes me feel guilty, like I’m betraying her memory, and that’s hard to reconcile.",
-    "therapist": "It sounds like you're grappling with some really complex feelings about love, memory, and what it means to move forward after such a significant loss. It's understandable to feel guilty when you think about allowing yourself moments of happiness, as if it diminishes your love for your grandmother. What if you considered that your love for her can coexist with your own well-being? How might you begin to honor those feelings while still allowing space for your own joy?",
+    "client": "I like the idea of thinking of my feelings as part of the gathering instead of something that would overshadow it. It makes it seem a bit less intimidating. But I still can't shake the fear that even a small moment of vulnerability could turn into something bigger than I expect, and I’m worried about being unable to pull myself back together if that happens.",
+    "therapist": "I’m glad to hear that thinking of your feelings as part of the gathering feels less intimidating. It’s completely natural to fear that a small moment of vulnerability could lead to something bigger, and I want you to know that it’s okay to feel that way. What if you allowed yourself to have a plan in place for those moments, like taking a deep breath or stepping away for a moment if you start to feel overwhelmed? How does that approach feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2518954277038574,
-    "aro_t": 0.15520715713500977,
+    "val_t": -0.24881458282470703,
+    "aro_t": 0.1673492193222046,
     "text_emotion": "Angry"
   }
 ]

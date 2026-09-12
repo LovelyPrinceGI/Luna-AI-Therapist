@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed since losing my job back in February. Every time I sit down to update my resume, I just freeze up because I don't know how to make myself stand out anymore. The bills keep piling up and I feel like I'm falling behind everyone else my age.",
-    "therapist": "It sounds like losing your job has left you feeling stuck and overwhelmed, especially when facing tasks like updating your resume. That sense of comparing yourself to others must add another layer of pressure—what thoughts come up when you notice yourself making those comparisons?",
+    "client": "I’ve been really stressed since I lost my job back in February. I keep worrying about money and whether I’ll find something that pays enough to cover my bills. Every time I try to update my resume, I feel stuck—like I don’t even know where to start or how to make myself stand out. Honestly, I’m not sure if talking about it will really help me figure this out.",
+    "therapist": "It sounds like losing your job has brought up a lot of uncertainty and worry, especially around finances and the job search process—those feelings are completely valid given the situation. When you try to update your resume, what thoughts come up that make you feel stuck?",
     "condition": "baseline",
-    "val_t": -0.3477332592010498,
-    "aro_t": 0.1097564697265625,
-    "text_emotion": "Sad"
+    "val_t": -0.355363130569458,
+    "aro_t": 0.15060460567474365,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking \"Everyone else is so much further ahead in their careers\" whenever I see LinkedIn updates from my old coworkers. It makes me feel like such a failure that I can't even bring myself to open my resume file - what's the point when I'll never measure up? \n\nBut then I also know this thinking isn't helping me move forward, which just makes me feel more stuck. It's like my brain is working against me.",
-    "therapist": "I hear how these comparisons create a painful cycle where the self-doubt makes taking action feel impossible, which then reinforces the feelings of falling behind. When you notice that thought \"I'll never measure up,\" what evidence might challenge or support that belief?",
+    "client": "I just keep thinking that my skills aren’t good enough, or that no one will want to hire me because I’ve been out of work for a while. It feels like I’m competing with people who are way more qualified, and I don’t measure up. I know I should try, but it’s hard to motivate myself when I feel like it’s pointless.",
+    "therapist": "It sounds like you're caught in a cycle of self-doubt, which can make taking those first steps feel overwhelming. Have you ever considered exploring what evidence supports or challenges the thought that your skills aren’t good enough? Sometimes breaking it down can help shift perspective.",
     "condition": "baseline",
-    "val_t": -0.3758605718612671,
-    "aro_t": 0.1159738302230835,
-    "text_emotion": "Sad"
+    "val_t": -0.2554445266723633,
+    "aro_t": 0.1299504041671753,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess the evidence against it would be that I have managed to accomplish some things in the past, like finishing school or holding down a job. But it's hard to focus on that when I see people my age buying houses or getting promotions - that's when the \"never measure up\" feeling hits hardest. \n\nThe evidence supporting the belief is everywhere though - social media, conversations with friends, even family members asking when I'll \"settle down.\" It feels like the world is constantly showing me how far behind I am.",
-    "therapist": "You're doing important work by recognizing both sides of this—your past accomplishments and the external pressures that trigger self-doubt. What do you notice happens to your motivation when you focus on those external comparisons versus when you remember your own capable moments?",
+    "client": "I guess I haven’t really thought about it that way, but I’m not sure if looking for evidence will help. It feels like the proof is right there—I didn’t get hired in the last few interviews I went to, so doesn’t that mean my skills aren’t enough? It’s hard to argue with that.",
+    "therapist": "I hear how those past interviews have reinforced this belief about your skills, and rejection can feel very personal. Might there be other factors—like the job market or company needs—that played a role, rather than it being solely about your abilities?",
     "condition": "baseline",
-    "val_t": -0.1805884838104248,
-    "aro_t": 0.11107957363128662,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I notice that when I compare myself to others, I just freeze up and can't get anything done. But when I remember times I actually succeeded at something, I feel a little spark of energy—though it's hard to hold onto that feeling. It's frustrating because the comparisons feel automatic, while the positive memories take so much effort to focus on.",
-    "therapist": "It makes sense that those automatic comparisons feel more powerful—our brains are wired to notice threats, even social ones. That small spark when recalling your successes is valuable—what would it look like to gently nurture that spark when it appears?",
-    "condition": "baseline",
-    "val_t": 0.01521599292755127,
-    "aro_t": 0.12217879295349121,
+    "val_t": -0.09842193126678467,
+    "aro_t": 0.04899406433105469,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 5,
-    "client": "I get what you're saying about nurturing that spark, but it's hard when the negative comparisons feel so much louder and more real. When I do try to focus on my successes, it almost feels like I'm lying to myself or being arrogant. Like I'm just pretending to be better than I actually am.",
-    "therapist": "It sounds like there's a real tension between acknowledging your strengths and worrying it might be dishonest or boastful. What do you think makes it feel more acceptable to focus on shortcomings than to recognize your genuine capabilities?",
+    "turn": 4,
+    "client": "I never really considered that—I always took it as me not being good enough. I mean, one of the jobs I interviewed for did get canceled because of budget cuts... but it's hard not to blame myself. Even if there are other reasons, what if I'm just making excuses?",
+    "therapist": "It sounds like you’re carrying a lot of self-blame, even when external factors, like budget cuts, were clearly out of your control. How might it feel to explore whether your self-criticism might be outweighing the actual circumstances?",
     "condition": "baseline",
-    "val_t": -0.19715666770935059,
-    "aro_t": 0.17455852031707764,
-    "text_emotion": "Angry"
+    "val_t": -0.2686460018157959,
+    "aro_t": 0.05553328990936279,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 5,
+    "client": "I guess I do tend to assume the worst about myself. But even if I try to see it differently, it’s hard to shake the feeling that I should’ve done something more—prepared better, networked more, whatever. Like maybe if I’d tried harder, I wouldn’t be in this situation now.",
+    "therapist": "It sounds like you're holding yourself to an impossibly high standard—as if there was some perfect amount of effort that could have prevented this situation entirely. What might it feel like to treat yourself with the same compassion you'd offer a friend going through this?",
+    "condition": "baseline",
+    "val_t": -0.19800734519958496,
+    "aro_t": 0.06157827377319336,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I guess focusing on my shortcomings feels safer because it's what I'm used to. If I start acknowledging my strengths, it feels like I'm setting myself up for disappointment when I inevitably fail at something. Plus, I worry people will think I'm arrogant if I talk about what I'm good at.",
-    "therapist": "You've identified such an important pattern—how self-criticism can feel protective against both failure and judgment from others. What would it look like to balance this by acknowledging your skills while also accepting that setbacks are a normal part of growth?",
+    "client": "If it were a friend, I’d probably tell them they’re being too hard on themselves and that it’s not their fault. But for some reason, I can’t seem to apply that to myself. It feels like if I’m too compassionate, I’ll just let myself off the hook and stop trying altogether. I don’t know how to balance being kind to myself with staying motivated.",
+    "therapist": "It sounds like you’re worried that self-compassion might lead to complacency, but in reality, being kind to yourself can actually help you approach challenges with more clarity and energy. What might it feel like to experiment with treating yourself with the same understanding you’d offer a friend, while still holding onto your motivation?",
     "condition": "baseline",
-    "val_t": -0.16457438468933105,
-    "aro_t": 0.08921539783477783,
+    "val_t": -0.18055617809295654,
+    "aro_t": 0.07746803760528564,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about accepting setbacks, but it's hard when mistakes feel so personal. Like last week at work when I messed up a presentation, I couldn't stop thinking how everyone must think I'm incompetent. Acknowledging my skills feels fake somehow - like I'm just pretending to be better than I am.",
-    "therapist": "It sounds like that presentation experience really reinforced the belief that mistakes define your competence, which makes acknowledging your strengths feel inauthentic. What would it look like to view that presentation not as proof of incompetence, but as an opportunity to learn and grow?",
+    "client": "I’m not sure if I can separate self-compassion from feeling like I’m letting myself off the hook. It’s like I’ve always pushed myself hard to get things done, and if I stop doing that, I’m afraid I’ll just give up. I don’t know how to balance being kind to myself and still feeling like I’m working hard enough.",
+    "therapist": "It sounds like you’ve always relied on self-criticism as a way to motivate yourself, and the idea of letting go of that feels scary—like you might lose your drive. What if self-compassion could actually help you approach tasks with less pressure, making it easier to take action without feeling overwhelmed? How might it feel to explore small, manageable steps forward while practicing kindness toward yourself?",
     "condition": "baseline",
-    "val_t": -0.2395116090774536,
-    "aro_t": 0.15874731540679932,
+    "val_t": -0.16649770736694336,
+    "aro_t": 0.13635897636413574,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about seeing it as a learning opportunity, but it's hard to shake the feeling that I should have known better. Everyone else seemed so polished and prepared, while I stumbled over my words. It makes me question if I'm really cut out for this role at all. \n\nThe idea of reframing it sounds nice in theory, but in the moment it just felt like public proof that I'm not as capable as my colleagues.",
-    "therapist": "That moment of stumbling must have felt so exposing—like your inner doubts were suddenly visible to everyone. When you compare your preparation to others', what might you be overlooking about your own unique strengths that don't show up in polished presentations?",
+    "client": "I guess I’ve never thought about self-compassion as a way to actually help me move forward—it always felt like it would just make me lazy. But the idea of taking small steps feels a little less overwhelming than trying to tackle everything at once. I’m just not sure how to start being kind to myself when I’m so used to being hard on myself. It feels unnatural, like I’m forcing it.",
+    "therapist": "It’s completely understandable that self-compassion feels unnatural when you’re so used to pushing yourself through criticism—it’s like learning a new skill, and it takes time to feel comfortable. What might it feel like to start small, like acknowledging one thing you’re doing well each day, even if it feels a bit forced at first?",
     "condition": "baseline",
-    "val_t": -0.11667025089263916,
-    "aro_t": 0.10949790477752686,
+    "val_t": -0.23587477207183838,
+    "aro_t": 0.16116881370544434,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess I've never really thought about my strengths in those moments. All I can focus on is how I messed up and how everyone must be judging me. It's like my brain only sees the flaws—even if other people don't notice them as much as I do. \n\nBut when you ask about unique strengths... I don't know. Maybe I'm better at reading the room than some people who just deliver perfect speeches? That doesn't feel very impressive though.",
-    "therapist": "It's interesting how quickly your focus shifts to what you perceive as flaws, while dismissing strengths like reading the room—which is actually a valuable skill in many professional settings. What would it feel like to gently redirect your attention to those unique qualities when self-doubt starts to take over?",
+    "client": "Acknowledging one thing I’m doing well each day... I guess I could try, but it feels a bit forced, like I’m just pretending. And what if I can’t even think of anything? I’m just not used to focusing on positives—it feels easier to notice where I’m falling short. I’m worried I’ll just end up feeling fake or frustrated with myself.",
+    "therapist": "It sounds like the idea of focusing on positives feels unfamiliar and even uncomfortable, which is completely valid—it’s hard to shift a mindset you’ve relied on for so long. What if you started with something small, like noticing a moment when you took a step forward, no matter how tiny, and simply acknowledging it without judgment? How might that feel?",
     "condition": "baseline",
-    "val_t": -0.1534435749053955,
-    "aro_t": 0.0858311653137207,
+    "val_t": -0.22677969932556152,
+    "aro_t": 0.09807562828063965,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but when I try to focus on my strengths, it just feels forced and fake. Like I'm trying to convince myself of something I don't really believe. The negative thoughts feel more real and automatic to me. \n\nIt's especially hard at work because I'll notice one small mistake and then suddenly all my \"strengths\" disappear from my mind. I know logically that reading people well is useful, but in the moment it never feels like enough.",
-    "therapist": "It makes complete sense that these positive reframes feel inauthentic when they contradict such deeply held beliefs about yourself. That automatic dismissal of your strengths—especially when mistakes happen—shows how powerful these thought patterns are. What would it be like to simply notice when this happens, without trying to force the positive thoughts just yet?",
+    "client": "I guess I could try noticing small steps, like updating my resume or sending out an application, even if it feels like such a small thing. But I’m worried I’ll just brush it off as not being enough—like it doesn’t really count unless it leads to something big, like getting an interview or a job offer. It’s hard to feel like those small steps matter.",
+    "therapist": "It sounds like you're measuring progress only by big outcomes, which can make the smaller but important steps feel invisible. What if you tried to recognize that every action—no matter how small—is part of building momentum, even if the results aren’t immediate? How might it feel to acknowledge that effort as valuable in itself?",
     "condition": "baseline",
-    "val_t": -0.09727036952972412,
-    "aro_t": 0.12145674228668213,
-    "text_emotion": "Angry"
+    "val_t": -0.10188162326812744,
+    "aro_t": -0.012035012245178223,
+    "text_emotion": "Neutral"
   }
 ]

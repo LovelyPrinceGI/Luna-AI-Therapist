@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately, especially during family gatherings. It's been six months since my grandmother passed away, and I just can't seem to find any joy in being around my family. I feel so isolated and like no one understands what I'm going through. I know we're here to work through this, but sometimes I wonder if therapy can really make a difference.",
-    "therapist": "Hi there, I’m so glad you reached out today. It sounds incredibly tough to be navigating these family gatherings while still processing the loss of your grandmother. It’s completely understandable to feel isolated and to wonder about the impact of therapy. How have you been coping with these feelings, and what do you think might help you feel more supported during these times?",
+    "client": "Hi Luna, I've been really struggling lately, especially with family gatherings. Ever since my grandma passed away six months ago, I just can't seem to find any joy in being around everyone, and it feels like I'm completely isolated even when we're all together. I don't know if therapy can really help with this, but I'm trying to be open to it.",
+    "therapist": "Hi there, I'm so glad you reached out. It sounds incredibly challenging to feel isolated during family gatherings, especially after losing someone so close to you. Grief can make these moments particularly tough. Can you tell me a bit more about what goes through your mind during these gatherings?",
     "condition": "baseline",
-    "val_t": -0.2383580207824707,
-    "aro_t": 0.13101530075073242,
-    "text_emotion": "Angry"
+    "val_t": 0.016161680221557617,
+    "aro_t": 0.11691451072692871,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to keep busy, but it's hard not to feel overwhelmed and alone, especially when everyone else seems to be moving on. I've been thinking that maybe if I could find a way to talk about her more, it might help, but I don't know how to bring it up without making things awkward.",
-    "therapist": "It’s really brave of you to try to keep busy, and it’s completely normal to feel overwhelmed and alone, especially when others seem to be moving on. Talking about your grandmother can be a healing process, and finding a way to bring it up can be challenging. Have you thought about sharing a memory or a story about her with someone you trust, just to see how it feels? What do you think might make it easier to open up about her in these family settings?",
+    "client": "When we get together, I can't help but feel like everyone is moving on with their lives and I'm stuck in the past. I keep thinking about all the times my grandma was there, and now she's not, and it just feels so surreal. I end up feeling guilty for not being as happy or engaged as everyone else, and I worry that they think I'm just being negative or stubborn.",
+    "therapist": "It makes complete sense that you're feeling this way, especially given the deep connection you had with your grandma. Those feelings of being stuck in the past and the sense of surrealness can be really powerful. How do you usually cope with these feelings during family gatherings, and have there been any moments where you felt a bit better, even if just for a short while?",
     "condition": "baseline",
-    "val_t": -0.03208768367767334,
-    "aro_t": 0.1567286252975464,
-    "text_emotion": "Tense"
+    "val_t": -0.3516315221786499,
+    "aro_t": 0.16410017013549805,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it's hard to bring it up. I feel like everyone else is just moving on and I'm stuck in the past. I worry that if I start talking about it, it might bring up a lot of emotions for me and for others. It's not that I don't want to share, but I feel like I need to be strong for everyone else.",
-    "therapist": "It’s completely understandable to feel that way, and it’s okay to need time to process your grief at your own pace. The pressure to be strong for others can be overwhelming, and it’s natural to worry about stirring up emotions. Have you considered finding a smaller, more private setting to share your thoughts and feelings with someone who you think would understand and support you? How do you think that might feel for you?",
+    "client": "Most of the time, I just try to keep to myself and avoid too much interaction. I'll sit in a corner or spend a lot of time on my phone to avoid feeling like I'm the downer of the group. Sometimes, if someone mentions a memory of my grandma, I feel a little better for a moment, but it doesn't last long. It's hard to know how to handle it without feeling like I'm bringing everyone else down.",
+    "therapist": "It sounds like you're trying to protect yourself and others from the discomfort, and that’s a very understandable response. It’s also touching that sharing memories of your grandma can bring you a small sense of comfort, even if it’s fleeting. How do you think it would feel to share more of those memories with your family, or to let them know how you’re feeling, even if just a little bit?",
     "condition": "baseline",
-    "val_t": -0.09774339199066162,
-    "aro_t": 0.11621987819671631,
-    "text_emotion": "Angry"
+    "val_t": -0.25109875202178955,
+    "aro_t": 0.0859910249710083,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I've pushed everyone away already. I worry that if I try to open up now, it might be too late or they won't understand. It's tough to find that balance between being strong and being vulnerable.",
-    "therapist": "I can hear how much you’re struggling with this, and it’s completely valid to feel that way. It’s tough to find that balance between being strong and being vulnerable, and it’s okay to feel uncertain about reaching out now. What do you think might be the first small step you could take to reconnect with someone in a way that feels safe for you? How do you imagine that might feel?",
+    "client": "I appreciate that, Luna. But I worry that if I start talking about my feelings, it might make everyone else feel uncomfortable or sad. I don't want to be the one who ruins the mood, and I'm not sure they really want to hear about my struggles. It feels safer to keep it to myself, even though it's hard.",
+    "therapist": "I completely understand your concern about making others feel uncomfortable. It’s a natural worry, especially when you’re already feeling vulnerable. At the same time, it’s possible that sharing a little bit of how you feel could also open up a space for connection and understanding. Have there been any moments, even small ones, where someone in your family has shown support or understanding that surprised you in a positive way?",
     "condition": "baseline",
-    "val_t": -0.15968525409698486,
-    "aro_t": 0.1070016622543335,
-    "text_emotion": "Angry"
+    "val_t": -0.1254725456237793,
+    "aro_t": 0.0812385082244873,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It’s just hard to imagine what that first step might look like. I worry that if I reach out, it might just end up feeling awkward or make things worse. I guess I’m not sure how to make it feel safe.",
-    "therapist": "I understand how daunting that first step can feel, and it’s completely normal to worry about it feeling awkward or making things worse. Sometimes, starting with a small, low-pressure interaction can help. Maybe sending a text to a close family member or friend to check in on them, or sharing a simple memory of your grandmother, could be a gentle way to begin. What do you think about that idea, and how does it feel to consider it?",
+    "client": "You're right, Luna. There have been a few times when my cousin or my aunt has mentioned how much they miss my grandma, and it felt like they understood a little bit of what I'm going through. But it's still hard to know if they'd be open to hearing more about my feelings, especially when everyone seems to be trying to stay positive. I guess I'm just worried about how it might change things.",
+    "therapist": "It’s really brave of you to reflect on those moments of connection. It’s understandable to worry about how sharing more might affect things, but those small moments suggest that your family might be more open and supportive than you think. What do you think might be a small step you could take to start sharing a bit more, even if it’s just a little at a time?",
     "condition": "baseline",
-    "val_t": -0.09797096252441406,
-    "aro_t": 0.08997368812561035,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate the suggestion, but I'm still really worried about it feeling forced or awkward. I mean, I haven't reached out in a while, and I don't want to come off as insincere or like I'm just checking a box. It's hard because I feel so disconnected already.",
-    "therapist": "I completely understand your concerns about it feeling forced or awkward, and it’s important to approach this in a way that feels genuine and comfortable for you. It’s okay to take your time and find a way that feels right. What if you started by just acknowledging how you’ve been feeling to someone you trust, even if it’s just a brief, honest message? How does that feel to you, and what do you think might be the hardest part of doing that?",
-    "condition": "baseline",
-    "val_t": -0.2165147066116333,
-    "aro_t": 0.11611402034759521,
+    "val_t": -0.1914505958557129,
+    "aro_t": 0.08654904365539551,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I appreciate that you're suggesting a more gradual approach. I think the hardest part for me would be feeling vulnerable and worrying about how the other person might react. I worry they might not understand or that it could make things awkward between us.",
-    "therapist": "It’s totally understandable to feel vulnerable and worry about how others might react. Those concerns are valid, and it’s okay to take things at your own pace. Starting with a more gradual approach, like sharing a small, manageable piece of how you’re feeling, can sometimes help ease into more open conversations. What do you think might help you feel a bit more comfortable or supported as you consider taking that step?",
+    "turn": 6,
+    "client": "I appreciate your encouragement, Luna. Maybe I could start by sharing a memory of my grandma with just one person, like my cousin, and see how it goes. It feels like a small step, but it's still a bit scary to open up, especially when I'm not sure how they'll react. I guess I'll have to be brave and take that risk.",
+    "therapist": "That’s a really thoughtful and manageable step, and I’m proud of you for considering it. It’s completely normal to feel scared about opening up, but starting with someone you trust, like your cousin, can be a gentle way to ease into it. How do you think you might prepare yourself for that conversation, or what might help you feel a bit more comfortable as you take this step?",
     "condition": "baseline",
-    "val_t": -0.024624347686767578,
-    "aro_t": 0.027744531631469727,
+    "val_t": -0.03049933910369873,
+    "aro_t": 0.1414729356765747,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It’s just hard because I’ve had bad experiences in the past where people didn’t react well to my feelings. I worry that even if I start small, it might still blow up in my face. I’m not sure how to trust that it will be different this time.",
-    "therapist": "I can totally understand why past experiences would make you hesitant and worried about how people might react this time. It’s completely valid to have those concerns, and it’s okay to take your time and be cautious. What do you think might help you feel a bit more secure or supported as you consider opening up, even in a small way? Are there any specific people or situations that feel a little safer to you?",
+    "turn": 7,
+    "client": "Thanks, Luna. I think writing down a few thoughts or memories beforehand might help me feel more prepared and less overwhelmed. It could also give me something concrete to share, so I don't feel like I'm stumbling over my words. I just hope it doesn't come across as too rehearsed or forced.",
+    "therapist": "That’s a great idea, writing down your thoughts and memories can definitely help you feel more prepared and confident. It’s a way to organize your feelings and make sure you’re expressing what’s most important to you. How do you think you’ll know if the conversation is going well, or if it’s helping you feel more connected, even a little bit?",
     "condition": "baseline",
-    "val_t": -0.11373960971832275,
-    "aro_t": 0.12612009048461914,
+    "val_t": 0.13926458358764648,
+    "aro_t": 0.09751677513122559,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I think I'll know if it's going well if my cousin listens and maybe shares a memory of their own. If they seem understanding and not uncomfortable, that would be a good sign. I just hope it doesn't feel too one-sided or awkward. It's a small step, but I'm still a bit nervous about it.",
+    "therapist": "It’s completely natural to feel nervous, but you’re setting up a good framework for how to gauge the conversation. Your cousin sharing a memory of their own would indeed be a positive sign that they’re open and supportive. What do you think might help you feel more at ease during the conversation, perhaps something you can do right before you talk to your cousin?",
+    "condition": "baseline",
+    "val_t": -0.12869417667388916,
+    "aro_t": 0.14455652236938477,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just really hard to trust that people won't judge or misunderstand me. I do feel a bit safer with a couple of close friends, but even then, I worry about burdening them or being seen as too negative. I guess I could try opening up a little more to them, but it feels like a big step.",
-    "therapist": "I hear you, and it’s completely understandable to feel that way, especially given past experiences. It’s a big step to open up, and it’s okay to take it slowly. Starting with those close friends who feel a bit safer might be a good place to begin. You could try sharing just a small piece of how you’re feeling and see how it goes. How does that feel to you, and what might make it a bit easier to take that step with them?",
+    "client": "I think taking a few deep breaths and maybe reminding myself why I want to share this might help. It’s about connecting and maybe finding some comfort, even if it’s just a little. I’ll try to focus on that and not get too caught up in what might go wrong.",
+    "therapist": "That’s a wonderful approach, and focusing on your intention to connect and find some comfort is a powerful way to stay centered. Taking deep breaths and reminding yourself of your purpose can really help calm your nerves. How do you feel about setting a specific time to have this conversation, so you can mentally prepare and feel more in control of the situation?",
     "condition": "baseline",
-    "val_t": 0.04040670394897461,
-    "aro_t": 0.12968885898590088,
+    "val_t": 0.0665583610534668,
+    "aro_t": 0.04680800437927246,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but it still feels really daunting. I worry that they might not understand or that they'll judge me for how I feel. It's hard to open up when I've been hurt before, you know?",
-    "therapist": "I completely understand how daunting it feels, and it’s totally valid to worry about being misunderstood or judged, especially after being hurt before. Opening up is a big step, and it’s okay to go at your own pace. What do you think might help you feel a bit more comfortable or supported as you consider taking this step? Are there any small ways you could test the waters, like sharing a brief thought or feeling, to see how it goes?",
+    "client": "Setting a specific time sounds like a good idea, but I'm a bit worried about finding the right moment. I don't want it to feel forced or like I'm putting too much pressure on my cousin. But I can try to pick a quieter time when we’re not in the middle of a big family gathering, maybe when we’re both a bit more relaxed.",
+    "therapist": "That’s a thoughtful consideration, and choosing a quieter, more relaxed time can definitely help make the conversation feel more natural. It’s great that you’re being mindful of your cousin’s comfort as well. How do you think you might gauge when the timing feels right, or what signs might you look for to know it’s a good moment to bring up the memory?",
     "condition": "baseline",
-    "val_t": -0.19039714336395264,
-    "aro_t": 0.11832475662231445,
-    "text_emotion": "Angry"
+    "val_t": 0.035861849784851074,
+    "aro_t": 0.0195235013961792,
+    "text_emotion": "Neutral"
   }
 ]

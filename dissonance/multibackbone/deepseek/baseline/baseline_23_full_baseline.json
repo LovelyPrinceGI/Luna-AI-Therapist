@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately, I've been dreading family gatherings because they just don't feel the same without my dad. Everyone tries to act normal, but I can see his empty chair at the dinner table and it makes me so sad I can barely function. I'm not sure talking about it will help - the pain feels too fresh, too physical sometimes.",
-    "therapist": "I hear how deeply you're feeling the absence of your dad during these family moments, and how that empty chair serves as such a powerful reminder of your loss. It makes complete sense that this would bring up such strong emotions—grief often does feel physical before we can even put words to it. What comes up for you when you notice yourself focusing on that empty space at the table?",
+    "client": "Lately, I’ve been feeling really overwhelmed whenever I’m with my family. It’s been two months since my dad passed away, and every time we get together, I just feel this heavy sadness that I can’t shake. I’m not sure if therapy can really help with this—it feels like it’s just something I have to live with.",
+    "therapist": "I hear how painful this grief feels for you, especially when you're with family who are also mourning. That heavy sadness makes complete sense—you're grieving a profound loss. What thoughts come up when you notice that sadness during family time?",
     "condition": "baseline",
-    "val_t": -0.47165215015411377,
-    "aro_t": 0.12806177139282227,
-    "text_emotion": "Sad"
+    "val_t": -0.31258463859558105,
+    "aro_t": 0.19699883460998535,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's like this heavy weight in my chest every time I see his spot at the table. I know he's been gone for two years now, but part of me still expects him to walk in and sit down like nothing happened. Sometimes I get angry at myself for still feeling this way—shouldn't I be \"over it\" by now?",
-    "therapist": "That expectation of him walking in shows how much your heart still holds space for him, and there's no timeline for when that should change. The anger at yourself suggests you might be holding some expectations about how grief \"should\" look—what makes you feel like there's a right way to grieve?",
+    "client": "When I’m with my family, I keep thinking about how unfair it is that my dad’s gone. I also feel guilty because I wasn’t there as much as I could’ve been in his last few months. It’s hard to talk about it with them because everyone seems to deal with it differently, and I don’t want to make things worse for them.",
+    "therapist": "Those sound like really painful thoughts to carry—both the sense of unfairness and the guilt. It's understandable that you'd want to protect your family while also needing space for your own grief. How do you imagine your dad might respond if he could hear these feelings you're holding?",
     "condition": "baseline",
-    "val_t": -0.35118091106414795,
-    "aro_t": 0.20445501804351807,
-    "text_emotion": "Angry"
+    "val_t": -0.4013941287994385,
+    "aro_t": 0.11210358142852783,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess I feel like I *should* be over it by now—it's been almost a year since the breakup. Everyone else seems to think I'm stuck, like my sister keeps saying \"just move on already.\" But when I walk into our old coffee shop, I still turn my head every time the door opens. That's pathetic, right?",
-    "therapist": "It sounds like you're carrying both your own grief and the weight of others' expectations about how quickly you should heal. That automatic glance toward the door shows how deeply meaningful this connection was—not something pathetic, but something human. What would it feel like to give yourself permission to miss them without judgment?",
+    "client": "I think my dad would tell me not to feel guilty and that he knew I loved him. But even imagining that doesn’t really ease the guilt—it’s like I know logically he wouldn’t blame me, but emotionally, I still feel like I failed him. It’s hard to shake that feeling, even though I know it’s not entirely rational.",
+    "therapist": "It sounds like there's a real tug-of-war between what you know to be true and what you feel—that must be so exhausting. When that guilt surfaces, do you notice if certain memories or situations tend to bring it up more strongly than others?",
     "condition": "baseline",
-    "val_t": -0.3322107791900635,
-    "aro_t": 0.20547640323638916,
-    "text_emotion": "Angry"
+    "val_t": -0.3495885133743286,
+    "aro_t": 0.09245681762695312,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I know I *should* give myself permission to grieve, but it just feels self-indulgent. Everyone else has moved on—my friends keep saying I need to \"get back out there,\" and I can see how tired my family is of me being sad. When I try to miss them without judgment, it just makes me feel more alone.",
-    "therapist": "It sounds like you're caught between honoring your authentic feelings and the pressure to meet others' expectations, which must feel incredibly isolating. That word \"should\" keeps coming up—what would happen if you set aside what others think and simply acknowledged what *you* need right now?",
+    "client": "It’s usually when I’m alone or when I see my dad’s things around the house—like his favorite chair or his old tools. Those moments hit me hardest, and I start replaying all the times I could’ve visited him more or been more present. I know I can’t change the past, but it’s hard to stop thinking about it.",
+    "therapist": "Those objects seem to carry so many memories—both the loving ones and the painful what-ifs. It makes sense they'd stir up such strong feelings. What do you think your dad would want you to focus on when these thoughts about the past come up?",
     "condition": "baseline",
-    "val_t": -0.39954566955566406,
-    "aro_t": 0.06287491321563721,
+    "val_t": -0.15264403820037842,
+    "aro_t": 0.04855465888977051,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I know I *should* focus on what I need, but it's not that simple. When I try to think about my own needs, I just feel guilty, like I'm being selfish. And honestly, I'm not even sure what I truly want anymore—I've spent so long trying to please everyone else.",
-    "therapist": "It sounds like you've been so attuned to others' needs that your own feelings have become unfamiliar territory, and that disconnect must feel confusing. The guilt you're experiencing suggests you might be holding onto an old belief that self-care equals selfishness—when did you first start feeling that way?",
+    "client": "I think he’d want me to remember the good times we did have together—like our fishing trips and how we’d always watch football on Sundays. But sometimes focusing on those happy memories makes me feel worse because I realize I can’t have those moments with him anymore. It’s like the more I try to think positively, the more I miss him.",
+    "therapist": "It sounds like there's a bittersweet tension—those happy memories bring warmth but also fresh waves of loss. Grief often moves in these unpredictable ebbs and flows. How might it feel to let those memories simply exist, without pressuring yourself to feel one way or another about them?",
     "condition": "baseline",
-    "val_t": -0.28116393089294434,
-    "aro_t": 0.19521760940551758,
+    "val_t": -0.1314990520477295,
+    "aro_t": 0.09279155731201172,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I think my mom first made me feel that way when I was a kid. She'd always say \"stop being selfish\" whenever I wanted time alone or to do something just for me. But now I feel guilty even when I know logically that self-care is important - it's like my brain won't accept that it's okay. \n\nIt's confusing because part of me knows I deserve care too, but the guilt is so automatic that it overrides everything else. I'll be taking a relaxing bath and suddenly feel like I'm wasting time that should be spent helping others.",
-    "therapist": "It makes so much sense that this deep-rooted belief would still affect you now—those childhood messages can become automatic thoughts that play on repeat. That moment in the bath where guilt interrupts your relaxation shows how powerfully those old patterns can override your present needs. What would it feel like to gently challenge that automatic guilt by reminding yourself that caring for yourself actually makes you more available to care for others too?",
+    "client": "That actually sounds... less exhausting than what I've been doing. I guess I've been trying to force myself to either only feel the happy parts or push the memories away completely when they hurt. Letting them just be there seems scary though—what if the sadness overwhelms me?",
+    "therapist": "It’s completely natural to feel scared of being overwhelmed by sadness—grief can feel so big and unpredictable. What might it look like to take small steps toward letting those memories exist, while also giving yourself permission to pause or step back if it feels like too much?",
     "condition": "baseline",
-    "val_t": -0.33950793743133545,
-    "aro_t": 0.15716421604156494,
+    "val_t": -0.2052440643310547,
+    "aro_t": 0.13985180854797363,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about self-care making me more available to others, but it's hard to believe that when the guilt feels so immediate and real. When I try to relax, it's like this voice in my head says \"You're being selfish\" before I can even enjoy the moment. \n\nThe part about childhood messages makes sense though - my mom always put everyone else first and made me feel bad for taking time for myself. But even knowing that, the guilt doesn't just go away.",
-    "therapist": "It's understandable that simply knowing the origin of these feelings doesn't automatically dissolve them—these neural pathways were built over years, so they'll take time and practice to rewire. That critical voice feels so convincing because it's been reinforced for so long, but it doesn't make it true. What small act of self-care could you experiment with this week while consciously noticing—without judgment—when that guilty voice appears?",
+    "client": "Maybe I could start by looking at just one of his things—like his favorite coffee mug—and let myself feel whatever comes up without judging it. But I worry that once I start feeling, I won't be able to stop. The sadness already feels so big when it sneaks up on me, and I'm scared to invite it in on purpose.",
+    "therapist": "That worry makes so much sense—like opening a door you're not sure you can close. What if you tried this experiment with the mug when you have some extra support around, like a friend who could be there with you or right after our session?",
     "condition": "baseline",
-    "val_t": -0.2985438108444214,
-    "aro_t": 0.10233235359191895,
+    "val_t": -0.33142948150634766,
+    "aro_t": 0.13646483421325684,
     "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about rewiring taking time, but honestly even small acts of self-care make me feel guilty. Like if I take time for myself, I immediately think \"I should be doing something productive instead.\" It's exhausting. I'm not sure how to notice that voice without judgment when it feels so true in the moment.",
-    "therapist": "It sounds like that critical voice has become so familiar that it feels like truth rather than just a thought—that must feel incredibly draining to constantly wrestle with. What if we tried something different: instead of fighting the voice or believing it, simply acknowledging \"Ah, there's that old recording playing again\"? How does that idea sit with you?",
+    "client": "That might help, but honestly, I don’t like the idea of crying in front of people—even friends. It makes me feel weak, like I should be handling this better by now. And what if they don’t know what to say? Then it just gets awkward for everyone.",
+    "therapist": "I hear how vulnerable it feels to show these emotions—like there's pressure to \"handle\" grief a certain way. Many people worry about being a burden, but I wonder what it would feel like to let someone simply witness your pain without needing them to fix it?",
     "condition": "baseline",
-    "val_t": -0.12088704109191895,
-    "aro_t": 0.1303960084915161,
+    "val_t": -0.30100584030151367,
+    "aro_t": 0.17360460758209229,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it's hard to just notice the thoughts without reacting to them. When that critical voice starts up, it feels so real and urgent—like if I don't fix whatever it's criticizing about me right now, something bad will happen. The idea of just observing it sounds too passive, like I'm giving it permission to keep attacking me.",
-    "therapist": "It makes complete sense that simply observing these thoughts would feel insufficient when they carry such urgency and feel like threats—your brain is trying to protect you in its own way. That fear of passivity is important—what if we reframed noticing as an active choice to disengage from the thought's power rather than believing it? How might that shift your experience?",
+    "client": "I guess I've never really thought about someone just being there without trying to fix it. But even if they did, I'm not sure I could believe they truly want to be—especially when I can't even handle my own grief. It feels like too much to ask of someone, to just sit with me in this mess.",
+    "therapist": "It sounds like you're carrying this grief alone partly to protect others—but that leaves you feeling even more isolated in your pain. What would it be like to test that belief gently—maybe by sharing just a small piece of what you're feeling with someone you trust?",
     "condition": "baseline",
-    "val_t": -0.24931013584136963,
-    "aro_t": 0.20878851413726807,
-    "text_emotion": "Angry"
+    "val_t": -0.37904393672943115,
+    "aro_t": 0.1334618330001831,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about making it an active choice, but when my anxiety spikes, it feels impossible to just \"disengage.\" The thoughts feel so real and urgent—like if I don't obsess over them, something bad will actually happen. I've tried noticing before, but it just makes me feel more out of control.",
-    "therapist": "It sounds like in those moments, your brain is convinced these thoughts are emergencies that demand immediate attention—that must feel incredibly overwhelming. When you've tried noticing before, what typically happens right before the feeling of losing control intensifies?",
+    "client": "I could maybe try sharing something small with my best friend—she’s been checking in on me a lot. But I still worry she’ll feel awkward or not know how to respond, and then I’ll feel like I’ve burdened her. Even though she’s supportive, it’s hard to believe anyone truly wants to hear about my sadness when they have their own lives to deal with.",
+    "therapist": "It's understandable to worry about overstepping—that care for your friend's comfort shows how considerate you are. What if you asked her what level of support feels manageable for her, so you don't have to guess where the boundaries are?",
     "condition": "baseline",
-    "val_t": -0.2314056158065796,
-    "aro_t": 0.23777425289154053,
+    "val_t": -0.14338481426239014,
+    "aro_t": 0.08444440364837646,
     "text_emotion": "Angry"
   }
 ]

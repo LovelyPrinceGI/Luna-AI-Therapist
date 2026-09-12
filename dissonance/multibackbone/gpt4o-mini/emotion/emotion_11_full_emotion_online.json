@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately trying to balance my full-time job at the marketing firm with taking care of my two young kids while my partner is away on a work trip. It feels like I'm constantly juggling deadlines at work and managing the kids' needs, and I'm not sure how to handle it all. Sometimes I wonder if therapy can really help me with this, or if I just need to tough it out.",
-    "therapist": "It sounds like you’re feeling really overwhelmed with everything on your plate right now, and it’s completely understandable to feel that way. Balancing work and family responsibilities can be incredibly challenging, especially when you're feeling stretched thin. It might be helpful to explore what specific thoughts you have about your situation—what are some of the pressures you're feeling?",
+    "client": "I've been feeling really overwhelmed lately trying to juggle my full-time job at the marketing firm while also taking care of my two young kids. My partner is away on a work trip, and it's just so much to handle on my own. I can't shake the feeling that I'm failing at both work and being a parent, and I'm not sure how therapy can really help with that.",
+    "therapist": "It sounds like you're carrying a heavy load right now, and it's completely understandable to feel overwhelmed when you're trying to balance so much on your own. The pressure of feeling like you're falling short in both your job and your role as a parent can be really tough to manage. What specific thoughts or beliefs do you find yourself having about these feelings of failure?",
     "condition": "emotion_text_only",
-    "val_t": -0.25720489025115967,
-    "aro_t": 0.19469714164733887,
+    "val_t": -0.3490152359008789,
+    "aro_t": 0.1974925994873047,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I definitely feel overwhelmed, like I'm constantly juggling too many things at once. The pressure to meet everyone's expectations, both at work and home, feels suffocating. I often find myself thinking that I’m not doing enough, and that just adds to the guilt and anxiety I already have.",
-    "therapist": "It sounds like you're carrying a heavy burden, feeling the pressure to meet expectations both at work and at home. That sense of guilt and anxiety can be really overwhelming, especially when you're trying to juggle so many responsibilities. Let's take a moment to examine those thoughts—what evidence do you have that you’re not doing enough, and are there alternative perspectives that might help lessen that weight?",
+    "client": "I often think that if I can't meet all the demands at work and at home, it means I'm just not cut out for this. I feel guilty when I think about how my kids might be suffering because I'm so stressed and distracted. It's hard to shake off those thoughts, and I worry that no matter how hard I try, it won't be enough.",
+    "therapist": "It sounds like you're really beating yourself up over these thoughts, and that guilt can be incredibly heavy to carry. It's tough to feel like you're not living up to expectations, especially when you care so deeply about your kids and your work. How might you challenge those thoughts about not being cut out for this, and what evidence do you have that suggests you're doing your best in such a challenging situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.40731847286224365,
-    "aro_t": 0.29981446266174316,
-    "text_emotion": "Angry"
+    "val_t": -0.3677159547805786,
+    "aro_t": 0.09675729274749756,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I feel really overwhelmed by everything, and it seems like no matter what I do, it's never enough. When I try to think about what evidence I have that I'm not doing enough, I just come up with a list of all the things I haven't finished or the moments I feel like I've failed. It's hard to see any alternative perspectives when I'm in that headspace; it just feels like I'm constantly letting people down.",
-    "therapist": "It sounds like you’re really caught in a cycle of feeling overwhelmed and that it’s hard to break free from those negative thoughts. Focusing on what you haven't accomplished can make it feel like you're always falling short, which is a heavy load to carry. Have you considered celebrating even the small wins or moments where you’ve done well? What might that look like for you?",
+    "client": "I guess I could try to think of some moments where I handled things well, like when I managed to complete a big project at work despite the chaos at home. But it's hard to focus on that when I'm constantly stressed, and I feel like I'm just going through the motions. I wonder if challenging those thoughts will actually make a difference because it feels like the pressure is always there, no matter what I tell myself.",
+    "therapist": "It sounds like you're feeling pretty stuck in a cycle of stress, which makes it hard to recognize your accomplishments, even when you have had successes like completing that big project. It’s completely normal to doubt whether shifting your thoughts will make a difference when the pressure feels constant. What small steps do you think you could take to focus on those positive moments, even amidst the stress?",
     "condition": "emotion_text_only",
-    "val_t": -0.30150115489959717,
-    "aro_t": 0.15859520435333252,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I get what you're saying about focusing on small wins, but it feels a bit artificial to me. I mean, how can I celebrate when there’s so much I still haven’t done? It just feels like I’m trying to put a positive spin on things that don’t really feel positive at all.",
-    "therapist": "I understand why celebrating small wins might feel artificial when you're facing so many unmet expectations. It’s tough to find positivity when the weight of everything feels so heavy. Instead of forcing a positive spin, could we explore what acknowledging those feelings looks like for you? What would it feel like to recognize the effort you’re putting in, even if the outcomes aren’t what you hoped for?",
-    "condition": "emotion_text_only",
-    "val_t": 0.06339144706726074,
-    "aro_t": 0.12332212924957275,
+    "val_t": -0.0668257474899292,
+    "aro_t": 0.11347877979278564,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 5,
-    "client": "I appreciate you saying that, but it just feels like acknowledging my feelings won’t change anything. I still have this overwhelming sense of failure because things aren't going the way I wanted them to. It’s hard for me to see the effort as something worthwhile when it feels like I’m still falling short.",
-    "therapist": "It’s clear that you’re feeling a deep sense of failure, and it’s understandable to feel that way when things aren’t aligning with your expectations. Acknowledging those feelings can feel frustrating, especially when it seems like they don’t change the reality of your situation. What if we looked at the specific areas where you feel you’re falling short—can you identify one or two that feel particularly burdensome? By breaking it down, we might find a way to address them more effectively.",
+    "turn": 4,
+    "client": "I'm not sure what small steps I could take, honestly. It feels like I’m just trying to survive the day-to-day, so thinking about positive moments feels a bit unrealistic. I worry that if I focus on them, it might just feel like I'm ignoring all the things that aren't going well, and I don’t want to be in denial about how hard this really is.",
+    "therapist": "It’s completely understandable to feel that way, especially when you're in survival mode. Acknowledging the challenges you're facing is important, and it sounds like you want to be realistic about your situation. What if we explored ways to recognize both the difficulties and the small victories without feeling like you’re ignoring the hard parts?",
     "condition": "emotion_text_only",
-    "val_t": -0.1882479190826416,
-    "aro_t": 0.11896634101867676,
+    "val_t": -0.18968331813812256,
+    "aro_t": 0.11361443996429443,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying, and it makes sense to try to balance acknowledging both sides. But it feels daunting to even think about recognizing small victories when I'm so focused on what’s not going right. I guess I'm just worried that if I start looking for positives, I might end up feeling guilty for not being more grateful or satisfied with what I have.",
+    "therapist": "I hear you; it sounds really challenging to think about recognizing those small victories when you're feeling weighed down by everything that isn't going right. It's natural to worry that focusing on the positives could lead to guilt, especially when you're feeling so much pressure. What if we reframed the idea of \"gratitude\" to simply noticing what is working, without any judgment—almost like a snapshot of your day? How does that feel to you?",
+    "condition": "emotion_text_only",
+    "val_t": -0.14714431762695312,
+    "aro_t": 0.10007500648498535,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess I can see what you mean about feeling like a failure. Lately, I've been really struggling with my job performance; I feel like I'm not meeting expectations, and that makes me anxious. I don't know if breaking it down will help, though. It feels overwhelming, and I'm not sure where to even start.",
-    "therapist": "It sounds like you're really grappling with anxiety around your job performance, and it's understandable to feel overwhelmed when you don't know where to begin. Sometimes, just starting with a small step can make things feel a bit more manageable. What if we took a moment to identify just one specific task or aspect of your job that feels most pressing? By pinpointing that, we can work together to find a way to approach it without feeling so weighed down.",
+    "client": "I appreciate the idea of just noticing what’s working without judgment; that sounds a bit more manageable. But I can't help but feel skeptical—what if all I notice are the little things that still feel overshadowed by everything going wrong? I’m worried it might just make me feel worse when I realize how few positives there are in my day.",
+    "therapist": "It's understandable to feel skeptical, especially when you're in a tough spot and worried that focusing on the positives might highlight just how few there are. It can feel daunting to try and shift your perspective when the challenges seem so loud. What if we started with simply noticing any small moments of ease or joy, without the pressure of them needing to outweigh the negatives? How would that approach feel for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2927217483520508,
-    "aro_t": 0.2575364112854004,
+    "val_t": -0.17373061180114746,
+    "aro_t": 0.13130033016204834,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate what you're saying, but it feels hard to narrow it down to just one task. Everything at work seems pressing, and I worry that if I focus on one thing, I'll be neglecting everything else. It just feels like I'm juggling too many balls, and I might drop them all if I don't keep my eye on every single one.",
-    "therapist": "It sounds like you're feeling really stuck in a place where everything feels urgent, and I can see why that would make it hard to focus on just one task. The fear of neglecting other responsibilities can be quite overwhelming, especially when it feels like you’re juggling so much at once. What if we explored some strategies for managing those tasks without feeling like you have to keep your eye on every single one? How do you typically prioritize your work when things get busy?",
+    "client": "That does sound a bit more doable—just noticing moments of ease or joy without the pressure to make them seem bigger than they are. But I still worry that it might feel like I'm forcing myself to see things in a positive light when I'm not really feeling that way. What if I can't find those moments at all? It just feels tough to even think about right now.",
+    "therapist": "It sounds like you're feeling a mix of uncertainty and pressure, which is completely valid given everything you're facing. It’s okay to feel that it might be tough to notice those moments, and it’s important to honor where you are right now. What if we allowed yourself the space to simply be where you are, without the expectation of finding positives? Would it help to explore what’s making it tough to find those moments, or maybe even just sit with those feelings for a bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.13501334190368652,
-    "aro_t": 0.09569478034973145,
-    "text_emotion": "Angry"
+    "val_t": -0.08733081817626953,
+    "aro_t": 0.12058806419372559,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I feel like I'm constantly being pulled in so many directions, and the thought of prioritizing just one task feels impossible. I often end up just doing a little bit of everything, which just leaves me feeling even more overwhelmed. I’m not sure how to manage my time better when it feels like everything is equally urgent.",
-    "therapist": "It sounds like you're feeling really pulled in multiple directions, and that can create a sense of chaos when everything feels equally urgent. It’s understandable to feel overwhelmed when you’re trying to juggle so many tasks at once. Let’s explore some time management techniques together—what do you think about creating a simple list of tasks and identifying which ones are truly the most pressing? That way, we can work towards finding a clearer path forward without feeling so scattered.",
+    "client": "I think giving myself permission to just be where I am could actually feel like a relief, but I’m also worried that sitting with these feelings will just make the heaviness feel even more overwhelming. Sometimes, it feels like if I acknowledge how hard things are, I might get stuck in that negativity. I wonder if there’s a way to explore those tough feelings without sinking deeper into them.",
+    "therapist": "It sounds like you're really navigating a delicate balance between acknowledging your feelings and fearing that doing so might pull you deeper into negativity. It's completely natural to worry about getting stuck, especially when the heaviness feels so present. What if we approached this exploration gently, perhaps by setting a time limit or focusing on just one specific feeling at a time? How does that approach resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2157585620880127,
-    "aro_t": 0.21986496448516846,
-    "text_emotion": "Angry"
+    "val_t": -0.09492206573486328,
+    "aro_t": 0.09952747821807861,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate the idea of a task list, but I worry that it might just add to my stress rather than help. I often feel like everything is urgent, and I can’t even figure out which tasks really matter. It feels daunting to prioritize when I’m already overwhelmed, and I’m not sure a list would change that for me.",
-    "therapist": "I hear you—it sounds like the idea of a task list feels more like an additional source of stress rather than a solution, especially when everything seems urgent. It’s completely valid to feel daunted by the thought of prioritizing when you’re already feeling overwhelmed. What if we shifted our focus to exploring what’s contributing to that sense of urgency? Are there specific deadlines or expectations at work that are amplifying those feelings for you?",
+    "client": "I think setting a time limit could help, so it doesn't feel like I'm just drowning in my feelings. Focusing on just one specific feeling sounds more manageable too, but I still worry about what will come up during that time. What if I start to feel emotions that are too intense to handle? It feels a bit scary to think about.",
+    "therapist": "It’s understandable to feel scared about diving into those deeper emotions, especially when they seem intense. Setting a time limit can really provide a sense of safety, allowing you to explore without feeling overwhelmed. What if we also discussed some grounding techniques or strategies to help you manage those feelings if they start to feel too intense? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.15110445022583008,
-    "aro_t": 0.11071443557739258,
+    "val_t": -0.20617330074310303,
+    "aro_t": 0.2173314094543457,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you acknowledging how overwhelming it feels right now. At work, there are constant deadlines that keep piling up, and it feels like I can never catch a break. I keep thinking that if I don't meet these expectations, I'm going to let everyone down, which just adds to my anxiety.",
-    "therapist": "It sounds incredibly stressful to have those constant deadlines looming over you, and I can see how that pressure would make you feel anxious about letting others down. When you're in that headspace, it’s understandable to feel like you're stuck in a cycle of worry. Can we explore which expectations feel the most overwhelming right now, and maybe look at ways to address them together?",
+    "client": "Talking about grounding techniques sounds like it could be helpful, but I still feel a bit skeptical. I worry that they might not work for me in the moment, especially when emotions are running high. What if I try to use a technique and it just makes me feel more anxious instead of calming me down? It feels like a lot to navigate on top of everything else.",
+    "therapist": "It makes sense to feel skeptical, especially when you're in a heightened emotional state and unsure how grounding techniques might work for you. The thought of trying something new can feel daunting, particularly when you're already managing so much. What if we explored a couple of simple techniques together, and you could decide which ones feel more comfortable to you, without any pressure to use them right away? How does that idea resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1782444715499878,
-    "aro_t": 0.2592393159866333,
+    "val_t": -0.16926801204681396,
+    "aro_t": 0.15560710430145264,
     "text_emotion": "Angry"
   }
 ]

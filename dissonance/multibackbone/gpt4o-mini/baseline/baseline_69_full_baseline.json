@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been feeling really lost since my dad passed away two months ago. It's like everything I used to enjoy just feels empty, and I don't know how to connect with my friends anymore. I keep wondering if therapy is really going to help me find my way back to feeling better.",
-    "therapist": "I'm really sorry to hear about your loss; it’s completely understandable to feel lost and disconnected during such a painful time. It’s important to acknowledge that grief can change how we relate to our interests and relationships. What are some small steps you might consider taking to reconnect with your friends or activities that once brought you joy?",
+    "client": "I've been feeling really lost since my dad passed away two months ago. It's like I can't find joy in anything anymore, and even when I'm with friends, I feel this huge disconnect. I often wonder if therapy can really help me through this, but I just feel so stuck.",
+    "therapist": "I'm really sorry to hear about your dad's passing; that’s such a profound loss, and it’s completely understandable to feel lost and disconnected right now. It’s okay to wonder about therapy and whether it can help; many people have those thoughts during tough times. What do you think might help you start to reconnect with your feelings or with your friends?",
     "condition": "baseline",
-    "val_t": -0.3026893138885498,
-    "aro_t": 0.15971004962921143,
-    "text_emotion": "Angry"
+    "val_t": -0.34270596504211426,
+    "aro_t": 0.11140310764312744,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I appreciate you acknowledging my loss; it feels like such a heavy weight to carry. Reconnecting with friends or doing things I used to enjoy seems daunting right now. I feel so distant from everything and everyone, and I worry that it won't feel the same or that they'll see how much I've changed.",
-    "therapist": "It’s completely normal to feel that heaviness and to worry about how things might change in your relationships and interests. Acknowledging those feelings is the first step, and it’s okay to take your time. What do you think might help you feel a bit more comfortable in reaching out to a friend or trying an activity, even if it feels small?",
+    "client": "I honestly don't know what would help me reconnect right now. I feel like I’m just going through the motions, but I can’t shake this heaviness. Even when my friends reach out, I find it hard to be open with them about how I'm feeling, and I worry they won’t understand.",
+    "therapist": "It’s understandable to feel that heaviness, especially when you're navigating such a significant loss. It’s also common to worry about being open with friends; vulnerability can feel risky. What do you think might happen if you shared even a small part of what you’re feeling with them?",
     "condition": "baseline",
-    "val_t": -0.03472256660461426,
-    "aro_t": 0.12496662139892578,
-    "text_emotion": "Neutral"
+    "val_t": -0.17574846744537354,
+    "aro_t": 0.09353983402252197,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying that it’s normal to feel this way, but honestly, reaching out to a friend feels really daunting right now. I worry that they won’t understand what I’m going through, or that I’ll just end up feeling more isolated if they don’t respond the way I hope. It’s hard to shake off that heaviness and muster the energy to try something new, even if it seems small.",
-    "therapist": "It makes sense that reaching out feels daunting, especially when you're navigating such heavy emotions and uncertainty about how others might respond. It's okay to take things at your own pace and to acknowledge that the fear of misunderstanding can be really overwhelming. What if you thought about reaching out in a way that feels safe for you, like sending a message to share just a little of what you’re feeling? How does that idea resonate with you?",
+    "client": "I guess I worry that if I share even a small part of what I'm feeling, they won't really get it or they'll think I'm just looking for pity. It feels like a lot of pressure to put that on them when I don’t even know what I want to say. Plus, I'm not sure if I’d be able to find the right words to explain how deep this loss feels.",
+    "therapist": "It makes sense to worry about how your friends might react and to feel pressure about expressing such profound emotions. Your feelings are valid, and it’s okay to take your time in figuring out what to say. What if you started by sharing how you're feeling in a simple way, without the pressure of having to explain everything? How might that feel for you?",
     "condition": "baseline",
-    "val_t": -0.09332144260406494,
-    "aro_t": 0.10307753086090088,
-    "text_emotion": "Neutral"
+    "val_t": -0.3792349100112915,
+    "aro_t": 0.07341110706329346,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate that you understand how overwhelming it can be. But even the idea of sending a message feels intimidating; I'm worried it won't be received well or that I'll just make things more awkward. I guess I still struggle with the fear that my feelings aren't valid or that others will judge me for expressing them.",
-    "therapist": "It's completely valid to feel intimidated by the idea of sharing your feelings, especially when you're concerned about how others might react. Remember, your emotions are important and deserving of acknowledgment, and often, friends can surprise us with their understanding and support. What might it look like for you to express just a small part of what you’re feeling, perhaps even just to test the waters?",
+    "client": "I suppose starting simply could take some of the pressure off, but I still feel scared about how they'll react. It’s hard to imagine just saying something like \"I'm having a tough time\" without feeling like I need to justify it or dive deeper into my feelings. What if they ask questions I can't answer, or what if they just don’t know how to respond?",
+    "therapist": "It's completely normal to feel scared about how your friends might react, especially when it comes to sharing something so personal. Remember, you don’t have to have all the answers or dive deep if you’re not ready; sharing simply that you’re having a tough time can be a starting point. How would it feel to reach out to them with that small step, knowing that your friends may just want to support you in whatever way they can?",
     "condition": "baseline",
-    "val_t": -0.18866288661956787,
-    "aro_t": 0.20652782917022705,
+    "val_t": -0.3128470182418823,
+    "aro_t": 0.15188074111938477,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying, but it feels really daunting to even think about opening up to my friends. I worry they might not understand or think I'm overreacting, which just makes me feel more isolated. Testing the waters sounds nice in theory, but I can't help but think, what if it goes wrong?",
-    "therapist": "It's completely understandable to feel apprehensive about opening up, especially when you're worried about being misunderstood or feeling more isolated. It’s okay to have those fears, and they don't diminish the validity of your feelings. What if you approached this gently, perhaps by sharing something small or asking for their support without diving too deep right away? How might that feel for you?",
+    "client": "I can see how that could be a starting point, but it still feels really daunting. I guess part of me worries that if I reach out and it doesn't go well, it might make everything feel even worse. I wish I could just be more confident about sharing, but it feels like such a huge leap right now.",
+    "therapist": "It's completely understandable to feel daunted by the idea of reaching out, especially when you’re already carrying so much weight. Taking that step can feel like a big leap, and it’s okay to acknowledge that fear. What if you considered reaching out to someone you trust the most, just to share how daunting it feels? Sometimes, starting with that honesty can open the door to deeper conversations without the pressure of expectations. How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.12752747535705566,
-    "aro_t": 0.09034359455108643,
-    "text_emotion": "Angry"
+    "val_t": -0.04336977005004883,
+    "aro_t": 0.15661120414733887,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you're acknowledging my fears about opening up, but I still feel really hesitant. Sharing anything, even something small, feels like a big leap for me. What if they still don't understand me or it just makes things worse? It’s hard to shake off that feeling of being misunderstood.",
-    "therapist": "It’s completely valid to feel hesitant, especially when the fear of being misunderstood looms large. Taking a leap, even a small one, can feel overwhelming, and it's okay to honor that feeling. What if you took a moment to reflect on what you might need from your friends in that conversation—like just someone to listen? How does that idea resonate with you?",
+    "client": "I see what you’re saying, and it does make sense to start with someone I trust. But even with that person, I worry that I’ll just freeze up or go blank when I try to talk about how I’m feeling. I don't want to burden them with my emotions or make things awkward between us, you know? It just feels complicated.",
+    "therapist": "It’s perfectly normal to feel complicated about opening up, especially when you care about the other person’s feelings too. It shows how much you value your relationship, which is a good thing. What if you approached the conversation with a light touch, maybe even acknowledging that it feels awkward for you? This could help ease some of that pressure and remind your friend that you’re still navigating your feelings. How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.16771793365478516,
-    "aro_t": 0.12239563465118408,
+    "val_t": -0.15315961837768555,
+    "aro_t": 0.12872624397277832,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you understand my hesitation, but honestly, it feels really daunting to even think about bringing this up with my friends. I worry that if I ask for someone to just listen, they'll misinterpret it as me wanting advice or trying to make them feel responsible for my feelings. It makes me anxious to think about how they might react or if they'll even be able to support me in the way I need.",
-    "therapist": "It's completely understandable to feel anxious about how your request for support might be interpreted, especially when you're hoping for a specific kind of understanding. It sounds like you're really attuned to the dynamics of your friendships, which is important. What if you considered expressing your desire for them to just listen right from the start? How might you phrase that in a way that feels comfortable for you?",
+    "client": "I can see how acknowledging the awkwardness could actually help, but it still feels like a lot to manage. I worry that even if I try to keep it light, my emotions might just spill out anyway, and I won’t know how to handle that in front of them. What if it ends up being more uncomfortable than I expect?",
+    "therapist": "It's completely understandable to feel anxious about your emotions spilling out; that uncertainty can be daunting. It’s okay to not have everything figured out, and sometimes those raw moments can actually bring people closer together. What if you allowed yourself to just be present in the moment, trusting that your friend will be supportive, even if it feels uncomfortable? How might that shift your perspective on the conversation?",
     "condition": "baseline",
-    "val_t": -0.13865244388580322,
-    "aro_t": 0.1684361696243286,
+    "val_t": -0.17111849784851074,
+    "aro_t": 0.11529791355133057,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you understand where I’m coming from, but I still feel really hesitant about being so direct with my friends. What if they don’t respond the way I hope they would? I worry that if I say I just want them to listen, it might come off as needy or put pressure on them, which makes me feel even more anxious.",
-    "therapist": "It's completely valid to feel hesitant about being direct, especially with the fear that it may come off as needy or create pressure. Your feelings are important, and it’s okay to prioritize your comfort in these situations. What if you tried a more casual approach, like mentioning you’ve been going through a tough time and would appreciate their company? How does that option feel to you?",
+    "client": "I get what you're saying about being present and trusting my friend, but it still feels like a big leap for me. It’s hard to shake off that fear of vulnerability, and I can’t help but think about all the ways it could go wrong. I guess I just wish I could fast-forward to a time when it feels easier to connect without all this worry.",
+    "therapist": "It’s completely valid to wish for a time when connecting feels easier, and that fear of vulnerability is a natural response when sharing your feelings. It can be tough to sit with that discomfort, but taking small steps can help you gradually build your confidence. What if you planned a little experiment, like writing down your thoughts or feelings beforehand so you can express them more clearly? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.2564183473587036,
-    "aro_t": 0.1920323371887207,
-    "text_emotion": "Angry"
+    "val_t": 0.006693363189697266,
+    "aro_t": 0.1857830286026001,
+    "text_emotion": "Tense"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about being more casual, but it still feels really hard for me to open up like that. I worry that it might come off as too vulnerable, and I don't want to burden anyone with my problems. What if they don't respond the way I hope they would?",
-    "therapist": "It's completely understandable to feel that opening up can make you feel vulnerable, and the fear of burdening others can be really heavy to carry. It’s important to remember that sharing your feelings can foster connection, and often, friends want to support you. What if you focused on finding a balance by sharing just a small piece of what you're feeling, perhaps as a way to gauge their response without feeling overwhelmed? How does that feel to you?",
+    "client": "Writing down my thoughts does sound like it could help organize my feelings, but I'm not sure if it would really ease my anxiety about sharing. What if I write everything down and then still can't bring myself to say it out loud? It feels like there’s a wall between my emotions and expressing them, and I’m not sure how to break that down.",
+    "therapist": "It’s understandable to feel that wall between your emotions and expressing them; that can be a tough barrier to overcome. Writing down your thoughts can be a useful tool, even if it feels like a challenge to vocalize them later. What if you started by sharing just one or two lines from what you wrote, allowing it to be a gentle introduction? How does that approach feel to you?",
     "condition": "baseline",
-    "val_t": -0.19107067584991455,
-    "aro_t": 0.06591665744781494,
-    "text_emotion": "Sad"
+    "val_t": -0.09146261215209961,
+    "aro_t": 0.12037384510040283,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but the idea of opening up even a little feels really daunting to me. I worry that even a small piece of my feelings might be too much for someone else to handle, and I don’t want to come across as needy or burdensome. It’s hard to trust that they would want to support me, especially when I often feel so alone in what I'm going through.",
-    "therapist": "It’s completely understandable to feel that sharing even a small piece of your feelings might be daunting, especially when you're worried about being perceived as needy or burdensome. Feeling alone in your experience can amplify those worries, but it’s important to remember that many friends genuinely want to be there for you. What if you considered that reaching out might also give them the chance to show their support, and you can frame it in a way that feels manageable for you? How does that possibility resonate with you?",
+    "client": "I can see how starting with just one or two lines could make it feel less overwhelming, but I still worry that even those small parts might not come out the way I intend. It feels vulnerable to even think about sharing anything I’ve written. What if they don’t respond the way I hope, or what if it all feels too raw for me in the moment?",
+    "therapist": "It makes sense to feel vulnerable about sharing even small parts of your feelings, especially when you’re concerned about how it will be received. It’s okay to acknowledge that rawness; emotions can be intense and unpredictable. What if you allowed yourself to focus more on the act of sharing, rather than how it's received? This might help reduce some of the pressure you’re feeling. How does that shift in focus resonate with you?",
     "condition": "baseline",
-    "val_t": -0.22830116748809814,
-    "aro_t": 0.10825812816619873,
+    "val_t": -0.16537761688232422,
+    "aro_t": 0.09366345405578613,
     "text_emotion": "Angry"
   }
 ]

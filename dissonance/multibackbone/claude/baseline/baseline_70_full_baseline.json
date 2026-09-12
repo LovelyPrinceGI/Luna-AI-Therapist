@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed out lately about my grades and whether I'm going to keep my scholarship this term. Last semester I got a pretty bad grade on my final project, and it's been sitting in the back of my mind ever since, like this constant low hum of dread. I'm not even sure talking about it is going to change anything, because the pressure is just... real, you know? It's not in my head.",
-    "therapist": "You're absolutely right that the pressure is real — scholarship requirements and grades carry genuine, concrete stakes, and I want you to know I'm not here to minimize any of that. At the same time, I'm curious about that \"constant low hum of dread\" you mentioned, because sometimes the way our minds *carry* a real stressor can add an extra layer of weight on top of the actual problem. I wonder — when that dread shows up, what kinds of thoughts tend to come with it?",
+    "client": "I've been really stressed out lately about my grades and whether I'm going to keep my scholarship this term. Last semester I got a pretty bad grade on my final project, and it's like I can't stop thinking about it — I keep replaying what I did wrong and worrying that I'm going to mess up again. Honestly, I'm not even sure talking about it is going to change anything, because the pressure is just... real, you know?",
+    "therapist": "It makes complete sense that you're feeling this weight — scholarship pressure is very real, and that kind of stress deserves to be taken seriously, not minimized. I also notice that your mind seems to be working overtime, replaying that past project as though it's a warning sign about your future, which can feel exhausting and hard to escape. I'm curious — when you imagine \"messing up again,\" what does that specific fear look like in your mind: is it more about the grade itself, what others might think, or something else entirely?",
     "condition": "baseline",
-    "val_t": -0.3548794984817505,
-    "aro_t": 0.17938768863677979,
+    "val_t": -0.35837626457214355,
+    "aro_t": 0.22743570804595947,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, I mean... the thoughts are usually something like \"what if I fail this exam and lose my scholarship and then disappoint everyone who believed in me.\" It kind of spirals from one bad grade to basically my whole future falling apart in like five seconds flat. And underneath all of that is this feeling that I don't really deserve to be here in the first place, like I just got lucky and eventually everyone's going to figure that out.",
-    "therapist": "What you're describing — that lightning-fast spiral from one exam to your entire future, and that feeling of not truly belonging — is something many high-achieving people experience, and it even has a name: impostor phenomenon. It's worth gently noticing that the same mind telling you \"you just got lucky\" is the mind that *also* earned that scholarship in the first place, and those two things deserve to sit next to each other. What do you think someone who genuinely believed in you — one of those people you're afraid of disappointing — would say if they heard you describe yourself as just lucky?",
+    "client": "Honestly, I think it's kind of both, but if I had to pick one, it's more about what losing the scholarship would mean — like, it would prove to everyone, including my parents, that I don't actually belong here. There's this voice in my head that says I only got this far because I got lucky, and that bad grade last semester felt like the luck finally running out. It's hard to explain, but it's less about the letter grade and more about what it says about me as a person.",
+    "therapist": "What you're describing — this sense that one setback reveals a hidden truth about whether you truly belong — is something many high-achieving people experience, and it even has a name: impostor syndrome, where accomplishments feel like luck but mistakes feel like proof. It's worth gently noticing that your mind is applying very different rules to your successes versus your struggles, almost like the evidence only counts when it goes against you. If a close friend came to you with that same \"I only got here by luck\" thought, what evidence do you think *they* would point to that your mind might be overlooking right now?",
     "condition": "baseline",
-    "val_t": -0.14351046085357666,
-    "aro_t": 0.17350661754608154,
-    "text_emotion": "Angry"
+    "val_t": -0.07453596591949463,
+    "aro_t": 0.0825495719909668,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, and part of me wants to believe it, but it's hard not to dismiss it as something you're just supposed to say to make me feel better. Like, even if my professor or my mom said \"you earned this,\" I think I'd find a way to explain it away — maybe they don't see the full picture, or they're being kind. The idea that two opposite things can both be true at the same time, the luck and the earning, just feels like a contradiction I can't quite hold onto.",
-    "therapist": "That instinct to explain away reassurance is actually really important information — it tells us that the belief \"I don't deserve to be here\" isn't really waiting for *evidence*, it's working more like a filter that lets doubt in and keeps confidence out. You're not failing to think clearly; you've just got a very well-practiced mental habit of protecting that belief from being challenged. I'm curious — can you think of one specific moment, maybe a piece of work or a decision you made, where you can trace a clear line between *your* effort or thinking and a good outcome, something that's harder to hand entirely to luck?",
+    "client": "I mean, I guess a friend would probably point out that I actually earned decent grades in most of my other classes, and that I got the scholarship in the first place based on real work I did. But here's the thing — when I try to think about it that way for myself, it just doesn't land the same way, like I can say the words but I don't actually feel them. It's like there's a disconnect between knowing something logically and actually believing it, and I'm not sure how to close that gap.",
+    "therapist": "You've just identified something really important — that gap between intellectual knowing and felt believing is real, and it's actually one of the most common experiences people have when working through these kinds of deep-seated beliefs about themselves. The thing is, repeating logical counter-arguments rarely closes that gap on its own, because the original belief wasn't built through logic — it was built through experiences and feelings, so it often needs to be *experienced* differently to shift. I'm wondering — can you think of a specific moment, even a small one, from this term where you genuinely worked hard or figured something out that felt like *you*, not luck?",
     "condition": "baseline",
-    "val_t": -0.05912363529205322,
-    "aro_t": 0.14224612712860107,
-    "text_emotion": "Angry"
+    "val_t": -0.022978901863098145,
+    "aro_t": 0.010136246681213379,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I mean... there was this project last quarter where my manager was completely checked out and I basically had to figure out the whole rollout plan myself. It actually went well — people said it went well — but my first instinct right now is to say \"well, anyone could have done that\" or \"I just got lucky the stakeholders were easy to work with.\" I can hear myself doing the thing you just described, and it's kind of unsettling to catch it happening in real time like that.",
-    "therapist": "That moment of catching yourself mid-dismissal is genuinely significant — that's not a small thing, that's you observing your own mind in action, which is exactly the kind of awareness that creates room for change. Notice that \"anyone could have done that\" conveniently erases the fact that your manager *didn't* do it, the other people in the room *didn't* do it — you were the one who stepped up and figured it out. What does it feel like, even just physically, to let that reality land for a moment without immediately explaining it away?",
+    "client": "There was this one moment a few weeks ago where I stayed up late working through a really difficult stats problem, and I finally figured it out on my own without asking anyone for help — and I remember feeling genuinely proud for like a minute. But then almost immediately my brain was like, \"okay but that's just one problem, that doesn't mean anything in the bigger picture.\" I guess I can see what you're getting at, but I'm skeptical that focusing on small moments like that is actually going to quiet the louder voice that keeps telling me I'm going to fail.",
+    "therapist": "That moment with the stats problem is actually really significant — not because one problem proves everything, but because your brain's immediate move to dismiss it (\"that's just one problem\") is the same pattern that's been discounting your scholarship, your grades, and your hard work all along. Your skepticism makes sense, and I'm not suggesting these small moments magically silence that louder voice overnight — but what if the goal isn't to silence it right away, but to slowly build a body of evidence that your mind can't quite dismiss as easily? What do you think it would take for a moment like that stats breakthrough to feel like it *counts* — is there a version of it that your inner critic would actually have a harder time writing off?",
     "condition": "baseline",
-    "val_t": -0.027884244918823242,
-    "aro_t": 0.23542988300323486,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 5,
-    "client": "Okay, when you put it that way... I notice something kind of tight in my chest, like a mix of wanting to accept it and also this immediate urge to deflect again. It's uncomfortable, honestly, like I'm waiting for someone to point out the flaw in the logic, to remind me why I shouldn't feel good about it. I guess I'm not used to just... sitting with something positive without it feeling like I'm setting myself up to be wrong.",
-    "therapist": "That discomfort you're feeling is actually a really healthy sign — it means you're bumping up against the edges of an old belief rather than just sliding past it, and that's where real shifts can begin to happen. The feeling of \"setting yourself up to be wrong\" makes a lot of sense if your mind has learned that confidence is dangerous, but I want to gently offer that sitting with something positive isn't the same as claiming you're perfect or invincible. What do you think it would mean for you — not for anyone else, just for you — if you allowed yourself to own that project success, even just a little?",
-    "condition": "baseline",
-    "val_t": -0.15889930725097656,
-    "aro_t": 0.12601745128631592,
+    "val_t": -0.1425083875656128,
+    "aro_t": 0.1452723741531372,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I hear what you're saying, and part of me wants to believe it's that simple. But if I let myself own the success, I think I'd just be waiting for the moment someone figures out I didn't really deserve it — like I'd be handing them ammunition. It's easier to stay small and quiet about it than to stick my neck out and have it cut off.",
-    "therapist": "That image of \"staying small\" as a form of protection is so vivid, and it makes complete sense as a strategy — if you never claim anything, there's nothing to take away. But I want to reflect something back gently: that strategy might be keeping you *safe* from an imagined threat while also being the very thing that feeds the feeling of not belonging, because you never get to fully inhabit your own accomplishments. I'm wondering — has staying small actually protected you from the dread, or has it mostly just kept the dread quieter while still always there?",
+    "turn": 5,
+    "client": "That's an interesting way to put it, and I've been sitting with it for a second — I think maybe if I had done well on something that was graded, like an actual assignment that someone else evaluated, my inner critic would have a harder time brushing it off. But even as I say that, I can already hear the next excuse: \"well that was just one assignment, or the professor was generous, or the topic happened to be something you already knew.\" It feels like the goalposts just keep moving, and I'm honestly not sure there's a version of success that my brain would fully accept as real proof.",
+    "therapist": "You've just made a really profound observation — noticing that the goalposts keep moving is itself evidence that the inner critic isn't actually looking for proof, it's working backwards to protect a conclusion it's already committed to, which means no single grade was ever going to be enough to satisfy it. This is actually important, because it shifts the question away from \"how do I find the *right* evidence\" and toward \"why is my mind so invested in maintaining this belief that I don't belong?\" What do you think that voice might be trying to protect you from — is there something that feels safer about believing the luck narrative than fully owning your own capability?",
     "condition": "baseline",
-    "val_t": -0.215520977973938,
-    "aro_t": 0.1933732032775879,
+    "val_t": -0.058031558990478516,
+    "aro_t": 0.08721697330474854,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "That question actually stopped me for a second, because I hadn't thought about it that way before. I think maybe... if I own my capability and then still fail, there's no excuse left — like, the luck narrative is almost a safety net that means failure isn't really my fault. But admitting that out loud feels uncomfortable, because it also means I've been kind of sabotaging my own confidence on purpose, even if I didn't realize it, and I'm not sure what to do with that.",
+    "therapist": "What you just uncovered takes real courage to say out loud — that the luck narrative has been offering you protection, a way to fail without it meaning something final about who you are, which is actually a very human and understandable thing for your mind to construct. And I want to gently reframe one thing: recognizing this pattern isn't the same as saying you've been sabotaging yourself *on purpose* — your mind was trying to keep you safe, even if the strategy has been costing you more than it's protecting you. Now that you can see the safety net for what it is, I'm curious — what feels more frightening to you in this moment: the possibility of trying fully and failing, or the possibility of trying fully and actually succeeding?",
+    "condition": "baseline",
+    "val_t": -0.2349252700805664,
+    "aro_t": 0.17974472045898438,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I mean... when you put it that way, I have to admit the dread doesn't actually go away, it just kind of... hums in the background constantly. Like I'm always waiting for someone to figure out I don't really belong here, even when nothing bad is happening. But I guess I never really thought about the fact that shrinking myself might actually be making that feeling worse, not better — that's kind of uncomfortable to sit with.",
-    "therapist": "That discomfort you're sitting with right now is actually really meaningful — you've just noticed that the thing you've been using to feel safer might be quietly sustaining the very fear you're trying to escape, and that's a genuinely important insight to arrive at on your own. The hum doesn't go away with shrinking because the belief underneath it never gets a chance to be tested or challenged — it just gets to keep running unchecked in the background. I'm curious: if staying small isn't actually buying you safety, just silence, what might it look like to experiment — even in one tiny, low-stakes way — with letting yourself take up just a little more space?",
+    "client": "Honestly, that question caught me off guard, because my first instinct was to say failing — but the more I sit with it, the more I think succeeding might actually be scarier. Because if I try fully and succeed, then there's no more hiding behind the luck story, and suddenly everything is on me — every future failure, every expectation, all of it. That feels like a lot of weight to carry, and I'm not sure I'm ready to admit that out loud, let alone actually live it.",
+    "therapist": "The fact that you just admitted that out loud — even while saying you weren't sure you were ready to — tells me something important about your courage and self-awareness, and I want you to sit with that for a moment. What you're describing, this fear that success raises the stakes unbearably, is really common among people who care deeply and have a lot riding on their performance, and it makes complete sense that owning your capability feels heavier than hiding behind luck. I'm wondering — when you imagine carrying that weight of full ownership, is it something you picture carrying completely alone, or is there a version of succeeding where you'd feel like you had enough support around you to make it feel less crushing?",
     "condition": "baseline",
-    "val_t": -0.2471904754638672,
-    "aro_t": 0.0999598503112793,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 8,
-    "client": "I hear what you're saying, and part of me actually gets it — like, intellectually I can follow the logic. But when you ask what it would look like to take up more space, my mind just goes kind of blank and then immediately jumps to all the ways it could go wrong. Even something \"tiny and low-stakes\" doesn't feel that way to me, because there's this voice that says any crack in the wall is where everything starts to fall apart.",
-    "therapist": "That \"any crack in the wall\" image is really telling — it suggests your mind has learned to treat the whole structure as fragile, where even small risks feel existentially dangerous rather than just mildly uncomfortable. But I want to gently offer that the wall metaphor might be working against you here, because what you're actually building toward isn't a wall that holds everything out, but more like a foundation that can hold *you* even when things don't go perfectly. I wonder — can you think of a time in the past where you took a small risk, something did go imperfectly, and yet you were still standing afterward?",
-    "condition": "baseline",
-    "val_t": -0.09547197818756104,
-    "aro_t": 0.13275396823883057,
+    "val_t": -0.15004897117614746,
+    "aro_t": 0.19711792469024658,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I hear what you're saying about the foundation versus the wall, and part of me gets it intellectually, but it still feels a little too neat, like a reframe that sounds good in theory. As for a time things went imperfectly and I survived... I mean, yeah, there have been moments, but my mind immediately jumps to \"that was different\" or \"you just got lucky that time.\" It's hard to let those examples actually mean something when the anxiety is telling me this situation is uniquely dangerous.",
-    "therapist": "You've just done something really important — you've named the exact move your mind makes to quarantine any evidence that might challenge the anxiety, that \"this time is different\" thought is like an immune response that keeps the belief protected from anything that might weaken it. And you're right that the reframes can feel too neat, because words alone can't fully override something that lives in your body as much as your mind — which is actually why I'm less interested in convincing you and more interested in helping you *discover* something through small experience rather than logic. So I'm curious: not what you *should* do, but what feels like the absolute tiniest possible moment this week where you could let yourself be seen just a little — even something that feels almost too small to count?",
+    "turn": 8,
+    "client": "When I picture succeeding, it's almost always this image of me alone at a desk, like the achievement is mine but so is all the pressure and expectation that comes after it. I don't really have many people around me who I feel like I could lean on — my parents are proud but they don't really get the academic side of it, and I haven't let most of my friends in on how much I'm struggling. So the idea of having support sounds nice in theory, but I'm honestly not sure where that would even come from in my actual life.",
+    "therapist": "That image of you alone at the desk is really striking, and it sounds like the isolation isn't just in your imagination — you've been carrying this very real weight largely by yourself, which makes the pressure feel even heavier than it needs to be. It's worth noticing that part of what's kept you isolated is the same protective pattern we've been talking about: if you let people in on the struggle, it makes it more real, and it raises the stakes of being seen. I'm curious — of the people already in your life, even loosely, is there anyone where you've felt even a small flicker of \"this person might actually get it,\" someone you haven't fully let in yet but who maybe could be?",
     "condition": "baseline",
-    "val_t": -0.15876317024230957,
-    "aro_t": 0.1490713357925415,
+    "val_t": -0.03658950328826904,
+    "aro_t": 0.051412105560302734,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "There's actually this one person in my study group, Maya, who made a comment a few weeks ago about feeling like she was \"waiting to get caught\" — and I remember thinking, wow, that sounds exactly like how I feel, but I just kind of laughed it off and moved on. I guess she might get it, but the idea of actually opening up to her feels risky, because right now she probably thinks I have it more together than I do, and I don't want to change that. It's easier to keep the image up than to find out she might judge me, or worse, that even she can't really help.",
+    "therapist": "Maya essentially handed you an invitation without either of you fully realizing it — she was showing you her own vulnerability, and part of you recognized it deeply enough that you still remember it weeks later. It's really worth noticing that the same fear keeping you from opening up to her — \"she'll see I don't have it together\" — is probably the exact fear she was expressing when she talked about waiting to get caught, which means you might both be protecting the same carefully maintained image from each other. What do you think would actually happen in that moment if you responded to Maya the way you wish someone had responded to you when she said that?",
+    "condition": "baseline",
+    "val_t": -0.1273123025894165,
+    "aro_t": 0.21401751041412354,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're not trying to talk me out of it with logic, because yeah, that never really lands. But when you ask about letting myself be seen... even something tiny feels loaded, because my brain immediately goes to \"what's the point, they won't really get it anyway.\" I guess maybe... texting back my coworker who reached out last week, instead of leaving it on read like I have been — that feels small enough that I can't really justify avoiding it, but it still makes me nervous.",
-    "therapist": "That example you just came up with yourself is perfect — not because it's risk-free, but because you found it on your own terms, which means some part of you already believes it might be worth doing. I also want to gently notice that \"what's the point, they won't really get it\" is worth holding lightly, because it might be another way the wall keeps itself intact by closing the door before anyone even gets a chance to surprise you. What do you imagine might happen — even in the best case — if you sent that text and your coworker actually did get it, even just a little?",
+    "client": "I think if I had said something back to her in that moment, like \"I feel that way too,\" it probably would have been a relief for both of us — and honestly, imagining that makes me feel a little emotional, because it's such a small thing but it feels like it could have changed something. But now it's weeks later and I don't know how to just bring it up out of nowhere without it feeling forced or weird. And there's still that fear that even if Maya does get it, two people struggling together doesn't actually solve the problem — it might just mean we're both anxious together.",
+    "therapist": "That emotional reaction you just had is really telling — it suggests that connection around this struggle isn't just a \"nice to have\" for you, it's something you've genuinely been hungry for, and that matters. On the practical side, it's actually rarely as out-of-nowhere as it feels to circle back — even something simple like \"hey, that thing you said a few weeks ago about waiting to get caught has been sticking with me\" is a natural and honest opening that most people would find touching rather than forced. And I want to gently push back on the idea that shared struggle is just \"two people being anxious together\" — there's a real difference between anxiety that isolates you and anxiety that gets named out loud with someone who understands, so I'm curious: what would it mean for you to feel less alone in this, even if the pressure itself didn't change?",
     "condition": "baseline",
-    "val_t": -0.24264192581176758,
-    "aro_t": 0.17993712425231934,
+    "val_t": -0.2322711944580078,
+    "aro_t": 0.2385650873184204,
     "text_emotion": "Angry"
   }
 ]

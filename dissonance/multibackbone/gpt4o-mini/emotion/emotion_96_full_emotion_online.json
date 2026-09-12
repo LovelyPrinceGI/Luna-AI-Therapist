@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really stuck since my breakup with Maria three months ago. It’s like I’ve lost interest in everything I used to enjoy, especially hiking with my friends. I know I should be able to move on, but instead, I just feel this heaviness that makes it hard to even want to go outside. I'm not sure if talking about it in therapy will actually help me.",
-    "therapist": "It sounds like you're carrying a lot of weight from your breakup, and it's understandable to feel stuck when something so significant has changed in your life. Losing interest in activities you once enjoyed, like hiking, can be really disheartening. I wonder, what thoughts come up for you when you think about getting outside or reconnecting with those activities?",
+    "client": "I've been really struggling since my breakup with Maria three months ago. I used to love going hiking with friends, but now it just feels empty and I can't enjoy it like I used to. I often wonder if therapy can really help me feel better about this situation.",
+    "therapist": "It sounds like you're feeling quite lost and heavy since your breakup with Maria, and it's understandable that you would find activities you once enjoyed to feel empty now. It's normal to question whether therapy can truly help, especially during such a difficult time. What are some thoughts or feelings that come up for you when you think about hiking or your past experiences with it?",
     "condition": "emotion_text_only",
-    "val_t": -0.31041693687438965,
-    "aro_t": 0.11369609832763672,
+    "val_t": -0.3057175874710083,
+    "aro_t": 0.1206657886505127,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I think about hiking and how much I used to love it, but now it feels so overwhelming. I just picture myself out there and feel this weight of sadness and guilt, like I shouldn't be having fun without my ex. It feels hard to imagine enjoying something that was once so special to me.",
-    "therapist": "It sounds like you’re feeling a deep sadness and guilt when you think about hiking, which makes it hard to reconnect with something that used to bring you joy. It's completely natural to feel this way after a significant loss. What if we explored some of those feelings a bit more? Could there be a way to honor your past experiences with hiking while also allowing yourself to find new moments of joy?",
+    "client": "When I think about hiking, I remember the laughter and the connection I had with Maria. Now, it feels like a reminder of what I lost, and that just makes me feel more alone. I worry that if I go back to hiking, it will just be painful and remind me of her instead of helping me heal.",
+    "therapist": "It sounds really painful to associate hiking with the memories of laughter and connection you shared with Maria. It’s completely understandable to fear that going back might only bring more hurt instead of healing. Have you thought about how you might approach hiking differently, or perhaps consider other activities that could help you reconnect with joy in a new way?",
     "condition": "emotion_text_only",
-    "val_t": -0.2615443468093872,
-    "aro_t": 0.20988821983337402,
+    "val_t": -0.11360025405883789,
+    "aro_t": 0.1346956491470337,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you acknowledging the sadness and guilt I feel about hiking. It’s just that every time I think about it, I remember the last trip I took with my friend who passed away, and it feels like I’m betraying their memory by even considering going again. I don’t know how to honor those memories and still allow myself to enjoy the outdoors again; it just feels impossible right now.",
-    "therapist": "It sounds incredibly heavy to carry the weight of both your friend’s memory and your feelings of guilt about enjoying the outdoors again. It’s understandable to feel like you’re betraying their memory when you think about hiking without them. What if we explored some ways to honor your friend's legacy while also allowing yourself the space to experience joy in nature again? How would that look for you?",
+    "client": "I guess I haven’t really thought about approaching hiking differently. Right now, it just feels too tied to my memories with Maria, and the idea of trying to enjoy it again feels overwhelming. I’m not sure if I can just switch gears and find joy in something that feels so heavy for me.",
+    "therapist": "It sounds like you're carrying a lot of weight with those memories, and it's completely understandable to feel overwhelmed at the thought of trying to enjoy hiking again. It's okay to honor those feelings and take your time. What if we explored some smaller steps together, or even different activities that could help lighten that heaviness and slowly bring back some joy?",
     "condition": "emotion_text_only",
-    "val_t": -0.07799649238586426,
-    "aro_t": 0.13028061389923096,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate what you’re saying, but it feels really complicated. I can’t shake this feeling that if I enjoy nature again, I’m somehow forgetting my friend or moving on too quickly. It just feels wrong to find joy in the places we used to share together, like I’m betraying their memory or something.",
-    "therapist": "I can hear how complicated and painful this feels for you, especially when it comes to finding joy in the places that hold such deep memories. It’s completely normal to fear that moving forward might mean leaving your friend behind, but it’s also important to recognize that honoring their memory can coexist with your own joy. What are some small ways you might be able to reconnect with nature that feel respectful of those memories, while also allowing you to experience your own happiness?",
-    "condition": "emotion_text_only",
-    "val_t": -0.08002376556396484,
-    "aro_t": 0.2174665927886963,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 5,
-    "client": "I understand what you're saying, but it feels really overwhelming to think about reconnecting with nature right now. I keep imagining that if I try to enjoy it, I’ll be forgetting my friend or somehow disrespecting their memory. It just feels like a tightrope walk between honoring them and allowing myself to feel happy again.",
-    "therapist": "It sounds like you're feeling a lot of pressure to find the right balance between honoring your friend and allowing yourself to experience happiness again, and that can be incredibly overwhelming. It’s okay to take your time with this; there’s no rush to figure it all out at once. What if we explored some gentle, small steps you might feel comfortable taking towards reconnecting with nature, while still holding onto those memories?",
-    "condition": "emotion_text_only",
-    "val_t": 0.2077239751815796,
-    "aro_t": 0.17621636390686035,
+    "val_t": 0.15828335285186768,
+    "aro_t": 0.3272268772125244,
     "text_emotion": "Excited"
   },
   {
-    "turn": 6,
-    "client": "I appreciate you saying it’s okay to take my time, but I still feel this weight of guilt when I think about reconnecting with nature. It feels like I'm betraying my friend's memory somehow, like enjoying life again means I’m forgetting them. I don’t know if I can take those small steps without feeling that way.",
-    "therapist": "It’s clear that the guilt you’re feeling is really heavy, and it’s completely understandable to worry about how reconnecting with nature might affect your memories of your friend. It’s important to honor those feelings, and it’s okay to feel that tension between wanting to enjoy life and wanting to hold onto their memory. What if we explored that guilt a bit more? Can you share what specific thoughts come up for you when you think about taking those small steps?",
+    "turn": 4,
+    "client": "I appreciate the idea of taking smaller steps, but I’m honestly not sure what those steps would look like for me right now. It feels like every time I think of an activity, I just end up comparing it to what I used to do with Maria, and that brings me down even more. I don’t know if I have the energy to explore new things when I’m stuck in this mindset.",
+    "therapist": "It sounds like you’re feeling really stuck and drained right now, especially with the constant comparisons to your past experiences with Maria. It’s completely normal to feel that way when everything seems tied to those memories. Would it help to explore some very small, low-pressure activities that don’t feel too overwhelming, or maybe even think about what you used to enjoy before the relationship?",
     "condition": "emotion_text_only",
-    "val_t": -0.22696447372436523,
-    "aro_t": 0.090659499168396,
+    "val_t": -0.13488304615020752,
+    "aro_t": 0.13768506050109863,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you're saying, but thinking about activities I used to enjoy feels tricky too. I feel like I’ve lost a bit of myself in this breakup, and I'm not even sure what I liked before Maria. It’s hard to imagine doing something without feeling the weight of what I lost, and I’m worried that anything I try will just remind me of her.",
+    "therapist": "It sounds like you're feeling a deep sense of loss and uncertainty about who you are and what you enjoy, which can make it really challenging to think about trying new things. It's completely normal to feel that way after a breakup, as it often shakes our sense of self. What if we took a moment to reflect on some small aspects of your life or interests that might still be there, even if they feel dim right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.16562211513519287,
+    "aro_t": 0.12891006469726562,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I guess I can try to think about some of those small interests, but it feels difficult because I can't pinpoint what I truly enjoy anymore. Everything seems to be shrouded in this fog of loss. I worry that if I dig too deep, I'll just end up feeling worse instead of finding something that might actually make me feel better.",
+    "therapist": "It sounds like you're feeling really weighed down by this fog of loss, and it's completely understandable to worry that exploring your interests might lead to more pain instead of relief. It's important to be gentle with yourself during this time. What if we approached this exploration in a very light way, perhaps just jotting down any small memories or activities that come to mind, without the pressure of deciding if you enjoy them right now?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2526818513870239,
+    "aro_t": -0.002086043357849121,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "When I think about taking those small steps, I just feel this overwhelming sense of guilt. I worry that enjoying nature or even smiling again might feel like I'm betraying my friend’s memory. It feels like I'm stuck between wanting to move forward and feeling like I should be sad forever.",
-    "therapist": "It sounds like you’re really grappling with the guilt of wanting to move forward while feeling like you should remain in that place of sadness. It’s completely natural to feel torn between those two emotions, especially when the memories of your friend are so vivid and impactful. What if we looked at ways to honor your friend's memory that might allow you to feel a bit lighter, while also giving yourself permission to experience moments of joy? What do you think that could look like for you?",
+    "client": "I see what you mean about being gentle with myself, but even the idea of jotting down memories feels daunting. What if I can't think of anything or it just brings up more sadness? I feel like I’m stuck in this loop of loss, and I’m not sure I can even face those memories without feeling overwhelmed.",
+    "therapist": "It sounds like you’re feeling really trapped in this cycle of loss, and the thought of facing those memories feels incredibly overwhelming. It’s okay to feel that way, and there's no rush to dive into anything that feels too heavy. What if we simply focused on how you’re feeling in this moment, without needing to dig into the past right now? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.42920804023742676,
-    "aro_t": 0.13404536247253418,
-    "text_emotion": "Sad"
+    "val_t": -0.24120080471038818,
+    "aro_t": 0.17732322216033936,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying that it's natural to feel torn; it really resonates with how I've been feeling. Honoring my friend's memory sounds nice, but I’m not sure how that would work in practice. I worry that if I try to let go of some of the sadness, it might mean I'm forgetting them, and that feels really hard for me.",
-    "therapist": "It’s really touching that you want to honor your friend's memory, and it’s completely understandable to feel that letting go of some sadness might mean forgetting them. Finding a way to carry their memory with you while also allowing space for your own healing can feel complex. What if we brainstormed some meaningful ways you could keep their memory alive while also creating new experiences for yourself? How does that sound to you?",
+    "client": "Focusing on how I’m feeling right now does sound a bit easier than having to dig into the past, but I still feel a lot of heaviness. Right now, I feel a mix of sadness and frustration, like I’m trying to find my way out of a dark room but can't find the door. I guess I’m just worried that even talking about my feelings won’t lead to any real change.",
+    "therapist": "It sounds like you’re feeling a profound heaviness mixed with sadness and frustration, which makes it challenging to see a way forward. It’s completely valid to worry about whether expressing your feelings will bring about real change, especially when everything feels so dark. What if we took a moment to just acknowledge those feelings together, without any pressure to find immediate solutions? How does that feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1769629716873169,
-    "aro_t": 0.1016683578491211,
+    "val_t": -0.28637170791625977,
+    "aro_t": 0.12270939350128174,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you understand how important my friend was to me, but the idea of moving forward feels really daunting. I worry that if I focus on creating new experiences, it might feel like I'm trying to erase them instead of honoring their memory. What if I can't find a way to balance both without feeling guilty?",
-    "therapist": "It’s completely understandable to feel daunted by the idea of moving forward, especially when you’re so deeply connected to your friend’s memory. The fear of losing that connection while trying to create new experiences is valid and can be really heavy to carry. What if we explored some ideas together about how you might keep their memory present in your life while also allowing yourself to take small steps toward new joys? What are some ways you think would feel respectful and meaningful to you?",
+    "client": "Acknowledging my feelings without the pressure to find solutions does feel a bit comforting. It’s like a small relief to just sit with the heaviness instead of trying to push it away. But I still worry that if we don’t work on finding a way out of this dark place, I’ll just be stuck here forever, feeling lost and alone.",
+    "therapist": "I'm really glad to hear that sitting with your feelings offers you some comfort, even if just a little. It’s understandable to worry about feeling stuck in this dark place, and it’s important to know that you’re not alone in this experience. What if we explored some small, gentle ways to start inching toward the light, while still honoring the heaviness you're feeling right now? What might that look like for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.16691899299621582,
-    "aro_t": 0.13135647773742676,
+    "val_t": -0.10235095024108887,
+    "aro_t": 0.11125242710113525,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you understand how heavy this feels for me. It’s just that sometimes I worry that moving on might mean forgetting, and that thought terrifies me. I’m not sure how I could incorporate new experiences while still honoring my friend’s memory—what if it feels wrong or disrespectful?",
-    "therapist": "It’s so clear how much you care about your friend and how deeply you want to honor their memory, which makes this struggle feel even more intense. It’s completely normal to feel terrified that moving on might mean forgetting them, but finding a way to weave their memory into your new experiences could be a loving tribute. What if we explored some small, meaningful ways you could incorporate elements of your friend into those new experiences? How would that feel for you?",
+    "client": "I appreciate the idea of inching toward the light, but I honestly feel skeptical about what that could even look like for me right now. It feels like I’m still so deep in this heaviness that any small step might just feel pointless or overwhelming. I worry that even trying to find a way out might just remind me of what I’ve lost instead of helping me move forward.",
+    "therapist": "It sounds like you're feeling a strong sense of skepticism and heaviness, which makes the idea of taking any steps forward feel daunting and perhaps even pointless. It’s completely understandable to worry that trying to move forward might only deepen the reminders of what you’ve lost. What if we took a moment to think about what \"moving forward\" could look like for you, even in the smallest, gentlest way, without any pressure to feel a certain way or achieve a specific goal? What might that look like for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.04817521572113037,
-    "aro_t": 0.07825291156768799,
-    "text_emotion": "Neutral"
+    "val_t": -0.1719444990158081,
+    "aro_t": 0.13638854026794434,
+    "text_emotion": "Angry"
   }
 ]

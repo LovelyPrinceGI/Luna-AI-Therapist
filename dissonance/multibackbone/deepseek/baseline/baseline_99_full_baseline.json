@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately I've been feeling completely drained by my new job at this startup. The hours are insane - I'm pulling 60-70 hour weeks trying to keep up, but I still feel like I'm falling behind. Part of me wonders if therapy can even help when the problem is just the reality of this toxic work culture.",
-    "therapist": "I hear how exhausted and overwhelmed you're feeling by the demands of this new job - that sounds incredibly draining physically and emotionally. I'm curious, when you say you feel like you're falling behind despite working so much, what thoughts go through your mind in those moments?",
+    "client": "Lately, I’ve been feeling completely drained by my new job at the tech startup. I’ve been working late hours for weeks, and it feels like there’s always more to do—I can’t seem to catch a break. I’m starting to wonder if therapy can really help with this, though, because it feels like the problem is just the job itself.",
+    "therapist": "It sounds like you’re feeling overwhelmed and exhausted by the demands of your new job, and it’s understandable to question whether therapy can help when the situation feels so external. Let’s explore how your thoughts about the job might be influencing your emotions—what’s been going through your mind when you’re working those late hours?",
     "condition": "baseline",
-    "val_t": -0.36639654636383057,
-    "aro_t": 0.10812687873840332,
+    "val_t": -0.28823578357696533,
+    "aro_t": 0.0985022783279419,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I keep thinking \"I'm not good enough for this role\" and \"Everyone else is handling it better than me.\" It's like this constant pressure in my chest that makes it hard to focus, even when I'm putting in extra hours. I know I should be grateful for the opportunity, but I just feel like I'm drowning.",
-    "therapist": "Those sound like really painful thoughts to be carrying around while already pushing yourself so hard. I notice you mention \"should\" feel grateful - how does that expectation sit with you when you're already feeling overwhelmed?",
+    "client": "I keep thinking \"If I don't stay late, I'll fall behind and everyone will think I'm incompetent.\" It's like this constant pressure in my chest, even when I'm trying to sleep. But part of me knows that's probably irrational because nobody has actually said anything negative about my performance.",
+    "therapist": "It sounds like there’s a powerful belief driving your actions—the fear of being perceived as incompetent—and it’s creating both emotional and physical tension. Let’s examine the evidence: has there been any indication that others view you negatively, or could this be more about your own high expectations for yourself?",
     "condition": "baseline",
-    "val_t": -0.29855096340179443,
-    "aro_t": 0.17670726776123047,
+    "val_t": -0.26657915115356445,
+    "aro_t": 0.14300894737243652,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "That \"should\" feeling makes me even more guilty, honestly. Like I know I have good things in my life, so why can't I just be happy? It just adds another layer of failure when I can't force myself to feel grateful. \n\nSometimes I think people would judge me if I admitted how unhappy I feel despite having what looks like a good life on paper.",
-    "therapist": "It sounds like you're carrying both the weight of your job stress and this heavy burden of guilt about how you \"should\" feel - that's a lot to manage. What would it feel like to acknowledge that both the struggle and the gratitude can exist at the same time without canceling each other out?",
+    "client": "Now that you mention it, I did get positive feedback during my last review. But I still feel like they were just being nice - like they're waiting for me to mess up. It's hard to trust the positive stuff when my brain keeps telling me I'm one mistake away from being exposed as a fraud.",
+    "therapist": "It sounds like you’re caught in a cycle of discounting the positive feedback you’ve received, which can amplify feelings of self-doubt and fear of failure. What do you think might happen if you allowed yourself to fully accept that positive feedback as genuine, even if just for a moment?",
     "condition": "baseline",
-    "val_t": -0.32110595703125,
-    "aro_t": 0.10016834735870361,
-    "text_emotion": "Sad"
+    "val_t": -0.1625654697418213,
+    "aro_t": 0.15099990367889404,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about both feelings existing at the same time, but it just makes me feel more guilty when I can't fully appreciate the good things about my job. Like I know I should be grateful for having stable work, but the stress keeps drowning that out no matter how hard I try. It feels like I'm failing at being properly thankful.",
-    "therapist": "I hear how hard you're trying to hold both the gratitude and the stress, and how frustrating it feels when the stress overshadows everything else. What might it look like to practice acknowledging the difficulty of your situation without immediately jumping to what you \"should\" be feeling instead?",
+    "client": "I guess it would feel... uncomfortable, like I'd be letting my guard down. If I start believing the positive feedback and then make a mistake later, wouldn't that make the disappointment even worse? It's safer to just assume the worst and keep pushing myself.",
+    "therapist": "It sounds like you're using this assumption of impending failure as a kind of protective shield, even though it's exhausting you. What do you think this belief might be costing you in terms of your wellbeing and how you experience your work?",
     "condition": "baseline",
-    "val_t": -0.2672770023345947,
-    "aro_t": 0.12086617946624756,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 5,
-    "client": "I don't know... when I try to acknowledge the difficulty, it just makes me feel worse. Like I'm wallowing in it instead of fixing things. Shouldn't I be focusing on the positive instead? That's what everyone keeps telling me to do.",
-    "therapist": "It sounds like you're caught between feeling the pain and fearing that acknowledging it means you're not being \"positive enough.\" I wonder what it would be like to consider that recognizing your struggle isn't wallowing - it's actually the first step toward making meaningful changes?",
-    "condition": "baseline",
-    "val_t": -0.20060551166534424,
-    "aro_t": 0.08901011943817139,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I get what you're saying, but when I try to acknowledge my pain, I just feel worse. It's like opening a floodgate of negative emotions that I can't control. I worry that if I start feeling all this, I'll just spiral downward and never get back up.",
-    "therapist": "It makes sense that you'd be cautious about opening up to these feelings when they've felt so overwhelming before. What if we explored ways to acknowledge your emotions in small, manageable doses so they don't feel so overwhelming?",
-    "condition": "baseline",
-    "val_t": -0.37179815769195557,
-    "aro_t": 0.13898015022277832,
+    "val_t": -0.2963806390762329,
+    "aro_t": 0.05002927780151367,
     "text_emotion": "Sad"
   },
   {
-    "turn": 7,
-    "client": "I like the idea of managing emotions in smaller doses, but I'm not sure how to even start. When I try to acknowledge my feelings, they just seem to snowball out of control. It's like opening the floodgates - once I start, everything comes rushing in at once.",
-    "therapist": "That makes complete sense - when emotions have been building up for so long, it's understandable they'd feel overwhelming when you first try to acknowledge them. What if we started by just noticing one small physical sensation when you're stressed, like tension in your shoulders or your breathing, rather than diving straight into the emotions?",
+    "turn": 5,
+    "client": "It's definitely costing me sleep and any enjoyment I could get from my work. I used to love coding, but now every line I write feels like it has to be perfect or I'll get fired. Maybe that's why I'm working so late - trying to make everything flawless.",
+    "therapist": "It sounds like your pursuit of perfection is overshadowing the joy you once found in coding, which must feel disheartening. Let’s explore what “good enough” might look like in your work—what would it feel like to allow yourself that space?",
     "condition": "baseline",
-    "val_t": 0.002249598503112793,
-    "aro_t": 0.1252652406692505,
-    "text_emotion": "Neutral"
+    "val_t": -0.06841862201690674,
+    "aro_t": 0.22835171222686768,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "\"Good enough\" feels terrifying because in tech, good enough code can have bugs that crash systems. But I know logically that's extreme - not every line needs to be perfect. The hard part is figuring out where to draw the line between reasonable standards and impossible perfectionism.",
+    "therapist": "You're articulating such an important tension—between the realistic need for quality in your work and the impossible demand for perfection. What would it feel like to experiment with setting one small, achievable standard for \"good enough\" on a less critical task?",
+    "condition": "baseline",
+    "val_t": -0.10285532474517822,
+    "aro_t": 0.15560615062713623,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I guess I could try it with a minor internal tool I'm working on - something that won't break the company if it's not perfect. But I'm worried that once I start lowering my standards, I'll lose my edge and start letting things slip on important projects too. It feels like a slippery slope.",
+    "therapist": "It sounds like there’s a fear that allowing yourself some flexibility in one area might lead to a complete loss of control in others—which is understandable when perfectionism has been your safety net. What evidence do you have from your past that suggests you’re capable of balancing high standards with reasonable flexibility?",
+    "condition": "baseline",
+    "val_t": -0.16000652313232422,
+    "aro_t": 0.007328152656555176,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about starting small, but I don't know if focusing on physical stuff will help. When I'm anxious, my mind just races with all these worst-case scenarios, and I can't even notice my body. It feels like putting a bandaid on a broken bone.",
-    "therapist": "I hear how overwhelming those racing thoughts feel - they sound like they completely take over in those moments. What if we tried to simply notice that the thoughts are racing, without needing to engage with them or stop them right away?",
+    "client": "When I think about it, I did complete my degree without being perfect in every class - I got some B's and still graduated. But work feels different somehow, more high stakes. Maybe because now people are paying me, and my mistakes could affect real users.",
+    "therapist": "It sounds like you're able to recognize that perfection isn't always necessary, as shown by your success in completing your degree—which is a great example of balance. What do you think might be different now, and how could you begin to apply that same flexibility to your work in a way that feels manageable?",
     "condition": "baseline",
-    "val_t": -0.20108723640441895,
-    "aro_t": 0.11264514923095703,
-    "text_emotion": "Angry"
+    "val_t": -0.04652440547943115,
+    "aro_t": 0.11687910556793213,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but when my thoughts start racing it feels impossible to just observe them without getting sucked in. It's like trying to watch a tornado from the inside - everything's spinning too fast to just stand back and notice. I've tried mindfulness before and it just makes me more frustrated when I can't do it right.",
-    "therapist": "It sounds like mindfulness has felt more frustrating than helpful when you've tried it, especially when those tornado-like thoughts are already spinning out of control. What if we explored a different approach - like imagining those thoughts as clouds passing by, where you don't have to stop them or interact with them, just notice they're there?",
+    "client": "I think what's different is that in school, mistakes just affected my grades, but at work they could impact real people and my reputation. But maybe I could start by treating some smaller work tasks like school assignments - like internal documentation where perfection truly isn't necessary. Though part of me worries that even with documentation, sloppy work could reflect badly on me.",
+    "therapist": "It sounds like you're making an important distinction here—recognizing that not every task carries the same level of stakes, which is a great first step. What do you think might happen if you allowed yourself to approach internal documentation with the mindset that \"good enough\" is truly sufficient for that specific task?",
     "condition": "baseline",
-    "val_t": -0.19327795505523682,
-    "aro_t": 0.17602407932281494,
-    "text_emotion": "Angry"
+    "val_t": -0.14695560932159424,
+    "aro_t": -0.00975501537322998,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about imagining thoughts as clouds, but when my anxiety spikes, it feels impossible to just observe them. The thoughts feel so real and urgent, like they demand my full attention. I worry that if I don’t engage with them, something bad might happen, even though I know that’s probably irrational.",
-    "therapist": "I hear how those anxious thoughts demand your full attention and feel so compelling in the moment - that urgency makes complete sense when you're in that heightened state. What if we tried something different: when those urgent thoughts arise, could you experiment with asking yourself, \"Is this thought trying to protect me in some way?\" Not to engage with the content, but to create just a tiny bit of space between you and the urgency?",
+    "client": "I guess if I tried that, I'd feel guilty at first - like I'm cutting corners. But maybe I could save an hour or two each week that I currently spend obsessing over minor formatting in docs. It's just hard to trust that \"good enough\" won't somehow backfire later if someone notices it's not perfect.",
+    "therapist": "That guilt you anticipate is understandable—it’s challenging to shift away from patterns that have felt protective, even when they’re exhausting. Let’s explore this: if someone *did* notice the documentation wasn’t perfect, what do you imagine would happen, and how might you cope with that?",
     "condition": "baseline",
-    "val_t": -0.2730051279067993,
-    "aro_t": 0.224959135055542,
-    "text_emotion": "Angry"
+    "val_t": -0.17214465141296387,
+    "aro_t": 0.029101967811584473,
+    "text_emotion": "Sad"
   }
 ]

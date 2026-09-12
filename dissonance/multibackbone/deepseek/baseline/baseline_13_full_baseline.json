@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just got rejected from my top choice university last week, and I can't stop feeling like a complete failure. Everyone around me seems to be moving forward while I'm stuck here questioning if I'm even good enough. I know therapy is supposed to help with stuff like this, but I'm not sure talking about it will change the fact that I wasn't good enough for them.",
-    "therapist": "I hear how painful this rejection feels, and how it's making you question your worth - that's completely understandable when something we've worked hard for doesn't work out as we'd hoped. I wonder if we could explore together what \"being good enough\" means to you in this situation?",
+    "client": "I got rejected from my dream school last week, and I can't stop feeling like a complete failure. Everyone around me seems to be moving forward while I'm stuck here, and I keep thinking I'm just not smart or good enough. Part of me wonders if talking about it will even help - it's not like it'll change the rejection.",
+    "therapist": "It sounds like this rejection has really shaken your confidence and left you questioning your abilities, which is completely understandable given how much this meant to you. I’m curious—what does “being smart or good enough” mean to you, and how do you usually measure that?",
     "condition": "baseline",
-    "val_t": -0.30811333656311035,
-    "aro_t": 0.18583977222442627,
+    "val_t": -0.37269651889801025,
+    "aro_t": 0.21649706363677979,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I don't know... I guess being good enough would mean getting that promotion instead of being passed over again. But it's hard to think about that without feeling like maybe I'm just not cut out for this career path. When things like this keep happening, it's hard not to take it personally.",
-    "therapist": "It sounds like these repeated setbacks are really shaking your confidence in your career path, and that must feel incredibly discouraging. I notice you're connecting these work situations directly to your personal worth - what makes you feel this is about you rather than other possible factors?",
+    "client": "I guess being good enough means getting accepted by places like that school - when they reject me, it feels like proof I'm not. I measure it by achievements and what other people think of me, which I know isn't great, but honestly how else are you supposed to know? Like test scores and acceptances are real, concrete things - my own opinion of myself feels made up.",
+    "therapist": "It makes sense that concrete achievements feel like more reliable proof of your worth, especially when society often reinforces that narrative. I wonder if we could explore how this belief is serving you—has measuring yourself this way made you feel more secure over time, or has it left you feeling like you're constantly needing to prove yourself?",
     "condition": "baseline",
-    "val_t": -0.18664264678955078,
-    "aro_t": 0.07350802421569824,
-    "text_emotion": "Sad"
+    "val_t": -0.08752214908599854,
+    "aro_t": 0.14875900745391846,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I know logically that there are other factors at play - the economy, company budgets, things like that. But it's hard not to take it personally when I keep getting passed over for promotions or my ideas get shot down. It makes me feel like I'm just not good enough no matter how hard I try. \n\nWhen you suggest it might not be about me, part of me wants to believe that, but another part thinks \"then why does this keep happening to me specifically?\" It's like there's this pattern that proves I'm not cut out for this career.",
-    "therapist": "It's understandable that this pattern feels personal when you're the common thread in these experiences - our brains naturally look for patterns to make sense of things. I wonder if we could explore how you're defining \"being cut out for this career\" versus what might just be normal career challenges everyone faces?",
+    "client": "You're right about the proving myself part - I'm always chasing the next achievement, but it never really makes me feel better for long. But what's the alternative? If I stop measuring myself this way, I'm scared I'll just become lazy and accomplish nothing. The rejection already makes me feel like I'm falling behind.",
+    "therapist": "I hear how scary it feels to imagine stepping away from these external measures—it sounds like they've been motivating you, even if the relief is temporary. What if we explored what \"accomplishing nothing\" might actually look like in your daily life—do you think there might be a middle ground between relentless achievement and total stagnation?",
     "condition": "baseline",
-    "val_t": -0.1466449499130249,
-    "aro_t": 0.13102221488952637,
+    "val_t": -0.2361133098602295,
+    "aro_t": 0.13809406757354736,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess I never really thought about how I'm defining success in my career. It just feels like everyone else is handling the challenges better than me, and that must mean I'm not good enough. But when you put it that way, maybe I am being too hard on myself - though it's hard to believe that when I see my coworkers managing the same pressures without falling apart.",
-    "therapist": "It sounds like you're starting to notice how comparing yourself to others might be shaping your definition of success, which is an important insight. What would it feel like to consider that your coworkers might have their own struggles that aren't always visible from the outside?",
+    "client": "I guess a middle ground would be... still accomplishing things but not defining myself by them. But that feels impossible right now. When I think about my daily life without using achievements as my metric, I just feel empty - like who even am I then? It's terrifying.",
+    "therapist": "That emptiness and terror make complete sense—you're confronting what feels like a loss of identity after building it around achievements for so long. What might it look like to start noticing small moments where you feel valuable that have nothing to do with external validation, even if they feel insignificant right now?",
     "condition": "baseline",
-    "val_t": -0.21356618404388428,
-    "aro_t": 0.09332191944122314,
+    "val_t": -0.23683667182922363,
+    "aro_t": 0.22675538063049316,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying, but it's hard not to compare when I see my coworkers getting promotions and recognition while I'm stuck in the same position. Even if they have struggles, at least they're succeeding professionally - that's what everyone sees and values. I just feel like I'm falling behind no matter how hard I try.",
-    "therapist": "It makes complete sense that you'd feel this way when you're seeing visible signs of others' advancement while your own efforts haven't been recognized in the same way. I wonder if we could explore what \"falling behind\" means to you personally, beyond what others might see or value?",
+    "client": "Hmm... I did feel good when I helped my little sister with her homework last week. She said I explain things better than her teacher. But that feels so small compared to real accomplishments, you know? Like it's cute but doesn't really count.",
+    "therapist": "It's interesting that you dismiss that moment as \"small\"—could that be the achievement-focused perspective talking? The way you helped your sister actually shows qualities like patience and teaching ability that many universities value. What do you think it says about you that you were able to create that positive impact, regardless of whether it comes with a grade or acceptance letter?",
     "condition": "baseline",
-    "val_t": -0.11865389347076416,
-    "aro_t": 0.11251449584960938,
-    "text_emotion": "Angry"
+    "val_t": 0.18617308139801025,
+    "aro_t": 0.1396700143814087,
+    "text_emotion": "Excited"
   },
   {
     "turn": 6,
-    "client": "I guess when I think about \"falling behind,\" it's not just about promotions or achievements. It's this constant fear that I'm wasting my potential and time is running out. But when I try to explain that to friends, they just say \"everyone moves at their own pace,\" which makes me feel even more alone in this. \n\nThe weirdest part is I know logically that comparison is unhealthy, but I can't stop checking LinkedIn and feeling sick when I see former classmates getting ahead. It's like I'm punishing myself on purpose.",
-    "therapist": "I hear how deeply this fear of wasted potential is affecting you, and how isolating it feels when well-meaning advice doesn't resonate with your experience. What do you think drives you to keep checking LinkedIn even when you know it makes you feel worse?",
+    "client": "I never thought about it that way - I guess it shows I have skills that don't show up on transcripts. But it's hard to believe those matter as much when the system clearly values grades and test scores more. Like if universities really cared about these qualities, wouldn't they have ways to measure them?",
+    "therapist": "You're absolutely right that the current system often overlooks these qualities—and that disconnect can feel really invalidating. What if we explored how you might begin valuing these aspects of yourself, even if the system doesn't, since they clearly matter in the real world beyond academia?",
     "condition": "baseline",
-    "val_t": -0.4100762605667114,
-    "aro_t": 0.20197761058807373,
-    "text_emotion": "Angry"
+    "val_t": 0.005592703819274902,
+    "aro_t": -0.011504411697387695,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I think I keep checking because part of me hopes I'll finally see something that makes me feel better - like proof that I'm not falling behind. But it always backfires because I end up comparing myself to people who seem to have it all figured out. It's like I'm punishing myself but can't stop.",
-    "therapist": "It sounds like this checking behavior is almost like an emotional gamble - hoping for reassurance but often getting the opposite outcome. What might it feel like to experiment with limiting these comparison triggers while we work on building your own measures of success?",
+    "client": "I guess I could try valuing those things more, but it feels like I'm just making myself feel better about not being good enough by the system's standards. Like, if I start saying \"oh but I'm great at explaining things,\" isn't that just coping? How do I know I'm not just lying to myself?",
+    "therapist": "It sounds like you're worried that valuing these qualities might feel like settling or denying reality, which shows how deeply the system's standards have influenced your self-perception. What if we approached this as an experiment—what would it look like to acknowledge both your achievements and these other qualities, without dismissing either as \"coping\" or \"the only truth\"?",
     "condition": "baseline",
-    "val_t": -0.23230719566345215,
-    "aro_t": 0.18929243087768555,
+    "val_t": -0.14139282703399658,
+    "aro_t": 0.1145467758178711,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about it being an emotional gamble, but when I try not to check how others are doing, I just feel more anxious. What if I'm falling behind and don't even know it? The idea of limiting those triggers makes me nervous because then I'm just left with my own doubts.",
-    "therapist": "I understand how not checking might actually increase your anxiety right now - it's like you're trying to stay informed to manage that fear of falling behind. What if we approached this gradually, perhaps starting by noticing what happens emotionally when you do check, to better understand what need it's serving for you?",
+    "client": "I could try that experiment, but it feels like I'm just making excuses for not measuring up. Like if I say \"I'm good at helping people AND I wanted good grades,\" it just sounds like I'm trying to have it both ways after failing at one of them. The rejection still feels like the real verdict.",
+    "therapist": "It's understandable that the rejection still feels like the definitive truth—that belief has been reinforced for so long. I'm curious: in what other areas of life do we accept that multiple truths can coexist without canceling each other out?",
     "condition": "baseline",
-    "val_t": -0.26839709281921387,
-    "aro_t": 0.1754751205444336,
+    "val_t": -0.15205824375152588,
+    "aro_t": 0.07842230796813965,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it’s hard not to check because I feel like I’m missing something important if I don’t. When I do check, I feel a bit of relief at first, but then I just end up scrolling more and more, which makes me even more anxious. I’m not sure if noticing my emotions will really help—it feels like I’ll just get stuck in my head even more.",
-    "therapist": "It sounds like checking provides a temporary sense of relief, but then pulls you into a cycle that ultimately leaves you feeling worse. I wonder if we could explore together what that initial relief might be telling us about what you're hoping to find or avoid in those moments?",
+    "client": "I guess I can think of examples - like someone can be a great parent but not a great employee, or vice versa. But those feel different because they're separate roles. When it's all about me and my abilities, it feels like there should just be one answer - either I'm capable or I'm not. Maybe that's black-and-white thinking though.",
+    "therapist": "You've made such an important connection here—recognizing how this \"either/or\" thinking might be limiting your self-perception. What do you imagine might shift if you allowed your abilities to exist on a spectrum, just like those separate roles do?",
     "condition": "baseline",
-    "val_t": -0.27828454971313477,
-    "aro_t": 0.23437321186065674,
-    "text_emotion": "Angry"
+    "val_t": 0.01410377025604248,
+    "aro_t": 0.02207016944885254,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I guess the relief comes from feeling like I'm preventing something bad from happening, like if I don't check the locks five times, my apartment might get broken into. But you're right - after I do it, I just feel exhausted and stupid for wasting so much time on it. \n\nThe hard part is that even though I know logically the chances are low, my brain keeps screaming \"but what if this is the one time you don't check?\" That fear feels so real in the moment.",
-    "therapist": "I hear how overwhelming that \"what if\" feeling can be in the moment, even when you know logically the chances are low. It sounds like checking provides temporary relief from that intense fear, but leaves you feeling drained afterward. What do you think might happen if we experimented with gradually reducing the number of checks while also developing alternative ways to cope with that fear?",
+    "client": "I guess it would take some pressure off, but it also feels like giving myself an out. Like if I say \"I'm good at some things and not others,\" won't I just focus on what I'm bad at anyway? The rejection still proves I'm lacking in the areas that really matter to me.",
+    "therapist": "You're pointing out something really important—that simply acknowledging strengths and weaknesses doesn't automatically change which ones feel most significant to you. What if we explored what specifically makes certain areas \"matter more\"—is it about your personal values, or have those priorities been shaped by external expectations?",
     "condition": "baseline",
-    "val_t": -0.14695417881011963,
-    "aro_t": 0.21705830097198486,
-    "text_emotion": "Angry"
+    "val_t": -0.2770339250564575,
+    "aro_t": 0.07206141948699951,
+    "text_emotion": "Sad"
   }
 ]

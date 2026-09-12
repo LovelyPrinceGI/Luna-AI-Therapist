@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed with my new job at the tech startup. The demands are just so high, and I constantly feel like I'm falling behind on project deadlines. It's hard not to feel anxious about it, and sometimes I wonder if therapy can really help me manage these feelings.",
-    "therapist": "It sounds like you’re carrying a heavy burden with your new job, and it’s understandable to feel anxious when the demands seem overwhelming. It’s great that you’re reaching out for support—therapy can be a valuable resource in finding ways to manage these feelings. What specific thoughts do you find yourself having when you feel you're falling behind?",
+    "client": "I've been feeling really overwhelmed with my new job at the tech startup. It seems like the demands just keep piling up, and I constantly feel like I'm falling behind on my project deadlines. I can't help but wonder if therapy can really help me manage this anxiety, or if it's just something I have to figure out on my own.",
+    "therapist": "It sounds like you're navigating a really challenging situation at your new job, and it's completely understandable to feel overwhelmed with everything that's being asked of you. It's great that you're considering therapy as a potential support; many people find it helpful in managing anxiety and developing coping strategies. What specific thoughts or feelings come up for you when you think about your project deadlines?",
     "condition": "emotion_text_only",
-    "val_t": -0.2146691083908081,
-    "aro_t": 0.2162257432937622,
+    "val_t": -0.24687957763671875,
+    "aro_t": 0.2236037254333496,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I often think that I'm not good enough for this job, and that everyone else is handling it better than I am. It makes me feel really anxious, like I'm constantly under a spotlight and I just can't keep up. Sometimes I worry that I’ll disappoint my boss or my colleagues, which only adds to the pressure.",
-    "therapist": "It sounds like you’re dealing with a lot of self-doubt and pressure, which can be really tough to manage. Feeling like you’re under a spotlight can intensify that anxiety, especially when you worry about disappointing others. Have you considered exploring any evidence that contradicts those thoughts about not being good enough?",
+    "client": "When I think about my project deadlines, I feel this tight knot in my stomach. It’s like I can’t escape the pressure of needing to perform perfectly, and then I start to doubt my abilities. I often think, \"What if I mess this up?\" and that just makes the anxiety worse. I’m not sure how talking about it will really help, though.",
+    "therapist": "It sounds incredibly tough to feel that pressure and self-doubt weighing on you, especially with the tight knot in your stomach. Those \"what if\" thoughts can really amplify anxiety and make it hard to see your own capabilities. Talking about these feelings can provide some clarity and help you challenge those doubts. What might be one small step you could take to address these feelings or the pressure you're experiencing?",
     "condition": "emotion_text_only",
-    "val_t": -0.34063708782196045,
-    "aro_t": 0.1880260705947876,
+    "val_t": -0.3318244218826294,
+    "aro_t": 0.2067805528640747,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying about self-doubt and pressure, but it feels so overwhelming sometimes. I mean, I'm constantly worried about what others think of me, and it’s hard to see any evidence that contradicts those negative thoughts. I just feel like I’m always falling short, no matter what I do.",
-    "therapist": "It sounds like you're really struggling with that overwhelming sense of inadequacy, and it’s understandable to feel stuck when those thoughts seem so persistent. It can be hard to shift our perspective when we’re caught in a cycle of worry about what others think. What would it look like for you to take a step back and consider a time when you felt competent or proud of something you achieved?",
+    "client": "I get what you're saying, but honestly, it feels hard to pinpoint a small step. I think I would just keep avoiding the tasks that stress me out instead of facing them head-on. And even if I wanted to take a step, I'm not sure what it would be. It's like I can't even see a way forward right now.",
+    "therapist": "It’s understandable to feel stuck and overwhelmed when the tasks seem so daunting, and avoidance can often feel like the easier choice in those moments. It’s okay that you’re struggling to see a clear way forward right now; many people experience this when faced with stress. Let’s take a moment to explore what specifically makes those tasks feel so stressful for you. What thoughts come up when you think about tackling them?",
     "condition": "emotion_text_only",
-    "val_t": -0.25247156620025635,
-    "aro_t": 0.1536027193069458,
+    "val_t": -0.16444337368011475,
+    "aro_t": 0.08619582653045654,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about feeling inadequate and how it can be hard to see things differently when those thoughts are so loud. But honestly, it feels like there are so few moments when I can actually pinpoint something I’m proud of. I usually end up dismissing my achievements as not that big of a deal, so thinking back on something like that feels almost impossible right now.",
-    "therapist": "It sounds really discouraging to feel like your achievements don’t hold much weight in your eyes, and that can make it even harder to shift those negative thoughts. It’s common to downplay our successes, especially when we’re feeling overwhelmed. Can we explore a recent situation where you accomplished something, no matter how small, and see if we can find a way to acknowledge its significance together?",
+    "client": "When I think about tackling those tasks, I immediately feel a wave of dread. I start to think about how I might fail or disappoint my team, and that just makes me want to shut down altogether. It's hard for me to believe that I could do it well, so I often just put it off and hope things will magically get easier, but they never do.",
+    "therapist": "It sounds like that wave of dread is really overwhelming, and it's understandable that those fears of failure can lead to wanting to shut down. It can feel like a heavy weight when you’re struggling to believe in your ability to succeed. It might be helpful to explore those fears further and consider the evidence for and against them. What past experiences can you recall where you were able to handle a challenge, even if it didn’t go perfectly?",
     "condition": "emotion_text_only",
-    "val_t": -0.07625329494476318,
-    "aro_t": 0.18194842338562012,
+    "val_t": -0.28516077995300293,
+    "aro_t": 0.12062287330627441,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess I can think of a small accomplishment, like finishing a project at work last week. But honestly, it feels like just another task that I was supposed to do, so I don’t really see why it’s worth acknowledging. It’s hard for me to celebrate anything because I always feel like I could have done better or that it just wasn’t enough.",
-    "therapist": "I hear you, and it’s tough when even small accomplishments feel like just another item on a to-do list. It’s understandable to feel that way, especially when you're striving for perfection. What if we took a moment to reflect on what made finishing that project significant for you, even if it feels small? How did it contribute to your overall goals or to your team?",
+    "client": "I guess there have been times where I managed to pull through, like when I worked on a group project in college. It wasn’t perfect, and I was really stressed, but I did contribute and we got a decent grade. Still, I struggle to remember that when I’m in the moment now; it feels like that was a different me. How do I even get back to that mindset when everything feels so heavy?",
+    "therapist": "It’s great that you could recall that experience of contributing to a group project, even if it felt stressful at the time. It sounds like you have the ability to pull through under pressure, but I can see how it feels distant from where you are now. Finding ways to reconnect with that mindset can be tough, especially when everything feels heavy. What do you think would help you remind yourself of that past experience when you’re facing these current challenges?",
     "condition": "emotion_text_only",
-    "val_t": -0.002049684524536133,
-    "aro_t": 0.1243889331817627,
+    "val_t": -0.06140244007110596,
+    "aro_t": 0.10036170482635498,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it just feels like I'm always moving from one task to another without really enjoying anything I do. When I finished that project, I was relieved, but it didn’t feel special; it felt more like I was just checking off a box. I’m not sure how reflecting on its significance will help me see it any differently.",
-    "therapist": "It sounds like you’re in a cycle of just getting through tasks without really finding joy in what you do, which can be really draining. That sense of relief without celebration can leave you feeling empty, and it’s understandable to question the value of reflecting on those moments. What if we explored ways to bring more enjoyment into your daily tasks, so they feel less like boxes to check and more like meaningful steps towards something you value?",
+    "client": "I don't know, maybe if I wrote it down or something? But even then, I can't shake the feeling that it was just a fluke. I worry that if I try to remind myself of that experience, it won't really help when I'm faced with deadlines now. What if I end up letting myself down again?",
+    "therapist": "It sounds like you’re feeling really uncertain about whether those past successes can translate into your current situation, which is completely understandable. It’s tough to shake off the worry of letting yourself down again, especially when you’re in a vulnerable place. Writing it down could be a good start, as it might help you see the strengths you had during that time more clearly. What if you also considered some small, achievable goals for your current tasks? How might that help you feel more in control?",
     "condition": "emotion_text_only",
-    "val_t": -0.030736923217773438,
-    "aro_t": 0.0686110258102417,
-    "text_emotion": "Neutral"
+    "val_t": -0.285733699798584,
+    "aro_t": 0.06723535060882568,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but honestly, it feels overwhelming to think about adding more to my day. I’m already struggling just to get through everything, and the idea of trying to find joy in tasks seems unrealistic. It almost feels like another thing I have to force myself to do, which just adds to the pressure.",
-    "therapist": "I completely understand how adding anything else to your already full plate can feel overwhelming and even more burdensome. It’s natural to feel resistant when you’re just trying to keep up with everything. Instead of focusing on finding joy right now, what if we looked at small ways to ease some of that pressure? Are there specific tasks that feel particularly heavy, and could we brainstorm some ways to make them a bit lighter?",
+    "client": "I guess setting small, achievable goals does sound more manageable, but I still feel skeptical about whether it will actually work for me. Sometimes, even small tasks can feel overwhelming, and I worry that I’ll just end up feeling disappointed if I can’t accomplish them. It’s hard to believe that breaking things down will make a difference when I’m already so stressed.",
+    "therapist": "It’s completely natural to feel skeptical about trying new strategies when you’re already feeling stressed and overwhelmed. The fear of disappointment can add to the heaviness you're experiencing, making it hard to believe that breaking things down could help. It might be worth considering starting with just one very small task, something that feels almost too easy, to see how it feels. What do you think about picking one tiny step to try, just as an experiment?",
     "condition": "emotion_text_only",
-    "val_t": -0.037218451499938965,
-    "aro_t": 0.3243114948272705,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate that you understand how overwhelmed I feel. Honestly, it’s hard to even think about lightening my load because everything seems so urgent and important right now. I guess I could try to identify some tasks that weigh on me, but I’m not sure if it’ll really make a difference. What if those tasks are just too essential to let go of?",
-    "therapist": "I can see how challenging it is to consider lightening your load when everything feels urgent and important. It’s completely valid to feel hesitant about identifying tasks that weigh on you, especially when they seem essential. What if we approached it as a way to gain clarity rather than letting go? Perhaps we could take a look at what you’re currently managing and see if there are any tasks that could be adjusted or made more manageable without compromising your responsibilities. How does that sound to you?",
-    "condition": "emotion_text_only",
-    "val_t": -0.08245587348937988,
-    "aro_t": 0.1792052984237671,
+    "val_t": -0.20759856700897217,
+    "aro_t": 0.09466171264648438,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I appreciate your understanding, but I'm still feeling overwhelmed by the idea of adjusting my tasks. Everything feels like it's on my plate for a reason, and I'm worried that if I start changing things, it might lead to bigger problems down the line. I just don't know if I can trust that approach right now; it seems risky to me.",
-    "therapist": "It sounds like you’re feeling quite apprehensive about the idea of adjusting your tasks, and I can understand why it would feel risky when everything seems so critical. That concern about potential consequences makes perfect sense, especially when you’re already feeling overwhelmed. What if we explored those feelings of uncertainty together? Are there specific tasks that you feel particularly anxious about adjusting, and what might be the worst-case scenario you’re imagining?",
+    "turn": 8,
+    "client": "I guess trying one tiny step could be less intimidating than tackling everything at once. But I still have this nagging doubt that it won't change anything, and it feels frustrating to think about trying something that might not work. What if I just end up feeling like a failure again? It’s hard to shake that feeling.",
+    "therapist": "It sounds really frustrating to feel that nagging doubt and the weight of those past experiences looming over you. It’s completely understandable to worry that trying something new might lead to more disappointment. Remember that even the smallest step is still progress, and it's okay if it doesn’t feel perfect. What would it look like to approach this tiny step with curiosity rather than pressure?",
     "condition": "emotion_text_only",
-    "val_t": -0.07729923725128174,
-    "aro_t": 0.1770855188369751,
+    "val_t": -0.2973341941833496,
+    "aro_t": 0.11884474754333496,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 9,
+    "client": "I guess approaching it with curiosity could take some of the pressure off, but it still feels hard to shift my mindset that way. I worry that if I don’t succeed, I’ll just reinforce that negative belief about myself. It’s like I’m scared to open myself up to that possibility, even if it’s just a small step.",
+    "therapist": "It’s understandable that shifting your mindset feels challenging, especially with that fear of reinforcing negative beliefs about yourself. That’s a heavy burden to carry, and it makes sense to want to protect yourself from that possibility. Perhaps we can explore what success would look like for you, even in a small way, so that you can redefine it on your own terms. What might be a way to measure success that feels more supportive rather than judgmental?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20297229290008545,
+    "aro_t": 0.1243278980255127,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I feel a knot in my stomach just thinking about it. The tasks I have seem so all-consuming, and the idea of adjusting them feels like I'm playing with fire. I keep imagining that if I change anything, everything will fall apart, and I can't bear the thought of that happening.",
-    "therapist": "It sounds like the thought of adjusting your tasks brings up a lot of fear and anxiety for you, almost like you’re standing on shaky ground. That knot in your stomach is a clear sign of how heavy this feels, and it’s completely valid to worry about the potential fallout from making changes. What if we took a moment to explore what specifically feels so consuming about your current tasks? Understanding more about them might help us find a way to navigate this without feeling like you're risking everything.",
+    "client": "I think redefining success could be helpful, but it feels a bit daunting to even think about what that might look like for me. I often measure success by how others perceive my work, which adds a lot of pressure. It’s hard to imagine a supportive way to measure it because I’m so used to being critical of myself. I’m not sure how to start shifting that perspective.",
+    "therapist": "It sounds like redefining success feels quite daunting, especially when you’re used to measuring it through the lens of others' perceptions. That pressure can be really overwhelming, and it’s understandable to feel stuck in that critical mindset. Maybe we can take a small step together by thinking of one aspect of your work that you genuinely enjoy or feel proud of, regardless of external opinions. What might that look like for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.17304682731628418,
-    "aro_t": 0.22761356830596924,
-    "text_emotion": "Angry"
+    "val_t": -0.05176591873168945,
+    "aro_t": 0.06259572505950928,
+    "text_emotion": "Neutral"
   }
 ]

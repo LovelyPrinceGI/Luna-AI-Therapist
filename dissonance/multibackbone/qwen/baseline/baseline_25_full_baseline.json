@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. It's my final semester in college, and everyone around me is talking about their study plans and how they're going to ace all their exams. It's making me feel a lot of pressure, and I'm not sure if I can keep up. I know therapy is supposed to help, but sometimes I just feel like it won't make a difference.",
-    "therapist": "I can really understand how overwhelming that must feel, especially with everyone around you talking about their plans and successes. It’s completely normal to feel pressured and uncertain, and it’s okay to have moments where you doubt the effectiveness of therapy. What are some of the thoughts that come up for you when you feel like therapy won’t make a difference?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. It's my final semester in college, and everyone seems so focused on their study plans and how they're going to ace everything. It’s making me really anxious, and I can’t shake the feeling that I’m not doing enough. I don’t know if therapy can really help with this, but I’m trying to keep an open mind.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and it's completely understandable to feel overwhelmed with everything going on. It's great that you're reaching out and keeping an open mind about therapy. Can you tell me a bit more about what specific thoughts or fears are coming up for you when you compare yourself to others?",
     "condition": "baseline",
-    "val_t": -0.1939002275466919,
-    "aro_t": 0.25334954261779785,
-    "text_emotion": "Angry"
+    "val_t": -0.06784987449645996,
+    "aro_t": 0.24793589115142822,
+    "text_emotion": "Tense"
   },
   {
     "turn": 2,
-    "client": "I often think that maybe I’m just too stuck in my ways, and that no matter what we talk about, I’ll still feel the same way. It’s hard to believe that things can change when I’ve felt this way for so long. It’s like I’m just waiting for the next thing to go wrong, and I don’t see how talking about it will make a difference.",
-    "therapist": "It makes sense that you feel stuck and skeptical, especially when you’ve been feeling this way for a long time. Change can feel really challenging, and it’s natural to wonder if talking about things will actually make a difference. Can you think of a small step or experiment we could try together that might help you see if things can shift, even a little bit?",
+    "client": "I guess I can’t help but think that everyone else has it all figured out. They seem so confident and have clear plans, while I feel like I’m just floundering. It makes me feel like I’m falling behind, and that just adds to my anxiety.",
+    "therapist": "It’s really common to feel that way, especially when you see others seeming so confident and sure of their path. The comparison can make it hard to see your own progress and strengths. What do you think might be some of the reasons behind these thoughts, and how do they make you feel about yourself and your future?",
     "condition": "baseline",
-    "val_t": -0.1897350549697876,
-    "aro_t": 0.12358415126800537,
+    "val_t": -0.29334092140197754,
+    "aro_t": 0.2218172550201416,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how I feel, but it's hard to imagine what kind of small step would actually make a difference. I feel like I've tried so many things before, and they haven't really changed much. It's tough to see how one more thing could help.",
-    "therapist": "I completely understand that it feels tough to imagine what might make a difference, especially when you’ve tried things before and haven’t seen much change. It’s important to acknowledge that feeling and not rush past it. At the same time, sometimes even small, manageable steps can provide a sense of control and progress. What if we started by identifying one small, specific thing you could do this week that might feel a bit easier and less daunting? What do you think might be a small step you could try?",
+    "client": "I think a big part of it is that I’ve always been a perfectionist, and I set really high standards for myself. It’s hard not to feel like I’m falling short when I see others who seem to have everything together. It makes me doubt my abilities and feel like I’m not good enough, which is really scary when I’m thinking about my future.",
+    "therapist": "It makes sense that your perfectionism and high standards are contributing to these feelings. It’s tough when you’re constantly comparing yourself to others and feeling like you’re not measuring up. How do you think these thoughts and feelings are impacting your daily life and your sense of self-worth?",
     "condition": "baseline",
-    "val_t": -0.028328418731689453,
-    "aro_t": 0.03616321086883545,
-    "text_emotion": "Neutral"
+    "val_t": -0.11741507053375244,
+    "aro_t": 0.20608317852020264,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that you're trying to help me find a manageable step, but it's hard for me to see what might actually make a difference. I feel like I've tried so many things before, and they just haven't worked. It's tough to find something that feels both doable and meaningful. What if I just end up feeling discouraged again?",
-    "therapist": "I can see how frustrating and discouraging it must be to feel like you’ve tried so many things without seeing the changes you hoped for. It’s completely understandable to feel hesitant about trying something new. Perhaps we could start by exploring what some of those past efforts were and what made them feel unhelpful. This might give us some insights into what could be more meaningful or doable for you this time. What do you think about that?",
+    "client": "These thoughts are definitely making it hard to focus on my studies and enjoy the present. I find myself constantly worrying about the future and feeling like I’m not good enough, which just drains my energy and makes me feel isolated. It’s hard to feel confident or happy when I’m always questioning myself.",
+    "therapist": "It sounds like these thoughts are really taking a toll on your ability to enjoy the present and focus on your studies. It’s completely understandable to feel drained and isolated when you’re constantly questioning yourself. How do you think we could start to shift some of these negative thought patterns, even in small ways, to help you feel more confident and present?",
     "condition": "baseline",
-    "val_t": -0.2294999361038208,
-    "aro_t": 0.10821938514709473,
+    "val_t": -0.24739253520965576,
+    "aro_t": 0.10255563259124756,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you understanding how I feel. It's just that I've tried so many things before, like journaling, meditation, even different therapies, and nothing seems to stick. I guess I'm just worried that this will end up feeling like more of the same, and I don't know if I have the energy to go through that again.",
-    "therapist": "I completely understand your concerns and the frustration that comes with feeling like you’ve tried so many things without seeing the results you hoped for. It’s important to acknowledge that you’ve already put in a lot of effort, and it’s okay to feel weary. Let’s take a moment to reflect on what aspects of those past efforts felt unhelpful or didn’t resonate with you. This can help us tailor our approach to something that feels more meaningful and sustainable for you. What do you think were some of the key reasons those things didn’t stick?",
+    "client": "I think it would be helpful to start by acknowledging that not everyone is as perfect as they seem on the surface. But it’s hard to break that cycle of comparison and self-doubt. I’m not sure how to stop myself from always thinking about what others are doing and how they’re doing it better.",
+    "therapist": "That’s a really insightful observation. Recognizing that others might not be as perfect as they appear can be a powerful first step. One strategy could be to gently challenge those automatic thoughts when they come up. For example, when you notice yourself comparing, you might ask, “What evidence do I have that they are doing better?” or “What are some strengths I bring to my own path?” How does that feel as a starting point for breaking the cycle?",
     "condition": "baseline",
-    "val_t": -0.003419160842895508,
-    "aro_t": 0.07898759841918945,
+    "val_t": -0.06989765167236328,
+    "aro_t": 0.037461280822753906,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate you validating my feelings, Luna. I think a big part of why those things didn’t stick is because they felt too forced or not aligned with who I am. I often felt like I was trying to fit into a mold that just didn’t fit me, and that made it hard to sustain. It’s hard to keep up with something that doesn’t feel authentic.",
-    "therapist": "Thank you for sharing that, it’s really important to recognize when something doesn’t feel authentic or aligned with who you are. It’s no wonder it’s been hard to sustain those practices when they don’t feel like a good fit. Let’s explore what does feel authentic and true to you. What are some activities or practices that you’ve enjoyed in the past, or that you feel naturally drawn to, even if they’re not the typical things recommended for stress or overwhelm?",
+    "client": "It sounds like a good idea, but it’s hard to put into practice when those thoughts are so automatic. I worry that even if I try to challenge them, I’ll still end up feeling like I’m not measuring up. It’s a tough cycle to break, and I’m not sure where to start.",
+    "therapist": "It’s completely normal to feel that way, and it’s a common challenge to shift those automatic thoughts. Starting small can make a big difference. Maybe we could try a simple exercise: the next time you notice those thoughts coming up, see if you can take a moment to pause, take a deep breath, and gently remind yourself of one thing you’re proud of or that you’ve accomplished recently. How does that sound as a starting point?",
     "condition": "baseline",
-    "val_t": -0.042687416076660156,
-    "aro_t": 0.10891103744506836,
-    "text_emotion": "Neutral"
+    "val_t": -0.17067229747772217,
+    "aro_t": 0.10250699520111084,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. I think the activities I enjoy are often more spontaneous, like taking a walk in nature or listening to music. But it’s hard to make time for those things when my schedule feels so packed and overwhelming. I worry that if I take time for myself, I’ll fall behind on everything else.",
-    "therapist": "It’s completely understandable to feel that way, especially when your schedule feels so packed and overwhelming. Taking time for yourself can feel like a luxury you can’t afford, but it’s actually an important part of maintaining your well-being and preventing burnout. What if we explored ways to integrate some of those spontaneous activities into your daily routine, even if just for a few minutes at a time? How do you think that might feel, and what could be a small way to start?",
+    "client": "It sounds manageable, but I’m still a bit skeptical. I worry that it won’t be enough to really change how I feel. But I’m willing to try it and see if it helps me feel more grounded when those thoughts come up.",
+    "therapist": "I understand your skepticism, and it’s totally valid to have those doubts. It’s a process, and small steps can lead to bigger changes over time. Let’s try it out together, and we can always adjust as we go. How about we also set a small, manageable goal for the next week, like practicing this exercise a few times and noting how it feels? What do you think about that?",
     "condition": "baseline",
-    "val_t": 0.05565190315246582,
-    "aro_t": 0.12086904048919678,
+    "val_t": 0.008154034614562988,
+    "aro_t": 0.03709852695465088,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I see what you're saying, and I really do want to try, but it's hard to find even a few minutes in my day. I feel like I'm constantly juggling work and family responsibilities, and the idea of adding one more thing, even if it's just for me, feels overwhelming. How can I make time for myself without feeling guilty or like I'm neglecting everything else?",
-    "therapist": "I totally understand how challenging it can be to find time for yourself when you’re juggling so many responsibilities. Feeling guilty or like you’re neglecting other things is a common concern, but taking care of yourself is not a luxury—it’s a necessity. What if we brainstormed some very short, low-effort activities that you could fit into your day, even if it’s just a minute or two at a time? For example, taking a deep breath and a quick stretch during a break, or listening to a favorite song while you’re doing chores. How do you think that might feel, and what small things could you try?",
+    "client": "I think setting a small goal like that could be helpful, but I’m still a bit nervous about how it will go. I’ll try to practice the exercise a few times this week and see how it feels. It might be hard to remember to do it in the moment, but I’ll give it a shot.",
+    "therapist": "That’s a great approach, and it’s completely normal to feel a bit nervous about trying something new. Setting a small, manageable goal is a fantastic way to start. If you find it hard to remember in the moment, you might consider setting a gentle reminder on your phone or placing a note somewhere you’ll see it often. How do you think you can make it easier to remember to practice this exercise?",
     "condition": "baseline",
-    "val_t": -0.21986591815948486,
-    "aro_t": 0.25836181640625,
-    "text_emotion": "Angry"
+    "val_t": 0.054145216941833496,
+    "aro_t": 0.10814213752746582,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate the idea, but it feels like even those small things might be hard to fit in. I often get so caught up in my to-do list that I forget to take those breaks, and then I end up feeling guilty for not getting everything done. It’s hard to prioritize myself when there’s so much else going on.",
-    "therapist": "I can totally understand how challenging it is to remember to take those breaks, especially when you’re so focused on your to-do list. It’s completely normal to feel guilty about taking time for yourself when there’s so much else going on. One thing we could try is setting very gentle and specific reminders, like setting a phone alarm for a quick one-minute break, or even placing a sticky note somewhere visible as a gentle nudge to pause and breathe. How do you think that might work for you, and what would make it feel more doable?",
+    "client": "I think setting a reminder on my phone could be really helpful. I’ll try to pick a specific time each day to do the exercise, maybe right after I have my morning coffee. It might still be a challenge, but having a set time could make it easier to remember and stick to.",
+    "therapist": "That’s a great plan! Having a specific time like right after your morning coffee can create a helpful routine and make it easier to remember. It’s okay if it feels challenging at first; the important thing is to be kind to yourself and keep trying. How do you feel about giving it a week and then reflecting on how it went?",
     "condition": "baseline",
-    "val_t": -0.20248019695281982,
-    "aro_t": 0.017055749893188477,
-    "text_emotion": "Sad"
+    "val_t": 0.16083288192749023,
+    "aro_t": -0.01696610450744629,
+    "text_emotion": "Happy"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but I don't think it will work for me. Setting reminders feels like just one more thing to manage, and it might end up adding to my stress instead of helping me relax. It's hard because I already feel overwhelmed with all the tasks I have to keep track of.",
-    "therapist": "I completely understand your concern about adding another thing to manage, especially when you’re already feeling overwhelmed. It’s important to find a solution that doesn’t add to your stress. Instead of setting reminders, what if we focused on integrating small moments of self-care into activities you’re already doing? For example, you could take a few deep breaths while you’re waiting for the kettle to boil or enjoy a moment of silence while you’re walking to your next class. How do you think that might feel, and what small moments could you see yourself fitting in naturally?",
+    "client": "I feel a bit more hopeful about trying it out, but I’m still a little anxious about whether it will make a difference. I’ll give it a week and see how it goes, and I’ll try to be kind to myself if I struggle with it.",
+    "therapist": "It’s completely natural to still feel a bit anxious, and it’s great that you’re willing to give it a try and be kind to yourself. Taking that step is a sign of strength. As you go through the week, try to notice any small changes or moments of relief, no matter how subtle they might be. How do you think you can support yourself during this process, especially when you find it tough?",
     "condition": "baseline",
-    "val_t": -0.16277337074279785,
-    "aro_t": 0.11011576652526855,
-    "text_emotion": "Angry"
+    "val_t": -0.0931398868560791,
+    "aro_t": 0.10875082015991211,
+    "text_emotion": "Neutral"
   }
 ]

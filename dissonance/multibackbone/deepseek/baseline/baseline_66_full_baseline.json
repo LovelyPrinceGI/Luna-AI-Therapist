@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling at work since my dad passed away last month. I keep zoning out during meetings, and then I feel guilty for not being productive, which just makes everything worse. Part of me is just sad, but there's also this anger I don't understand - like why did he have to leave so suddenly? I'm not sure talking about it will change anything though.",
-    "therapist": "I hear how deeply your father's passing is affecting you, both in your grief and in how it's impacting your work. It makes complete sense that you'd feel this mix of sadness and anger when such an important relationship was suddenly taken from you. What comes up for you when you notice that anger arising?",
+    "client": "Lately, I’ve been struggling at work because I can’t seem to focus on anything. Ever since my dad passed away, I feel this heavy mix of sadness and anger, and it’s just consuming me. I’m not sure if therapy can really help with this—it feels like something I just have to get through on my own.",
+    "therapist": "I hear how deeply you’re feeling the weight of your grief and how it’s impacting your ability to focus and function at work—this is such a heavy and overwhelming experience to carry alone. It’s understandable to wonder if therapy can help, especially when the pain feels so immense—would you be open to exploring together how this mix of emotions might be shaping your thoughts and actions right now?",
     "condition": "baseline",
-    "val_t": -0.46844422817230225,
-    "aro_t": 0.1855762004852295,
+    "val_t": -0.4162815809249878,
+    "aro_t": 0.16114675998687744,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I don't know...the anger just makes me feel guilty afterward. Like I shouldn't be mad at him for dying, but part of me is so furious that he left me to deal with everything alone. Then I get stuck in this cycle where I'm angry, then ashamed for feeling angry, and it just drains me at work. \n\nI guess what comes up is this thought that if I'd been a better daughter, maybe I wouldn't feel so abandoned now. That probably doesn't make sense, but that's where my mind goes.",
-    "therapist": "It sounds like you're carrying so much weight between the grief itself and judging yourself for how you're grieving. That thought about being a \"better daughter\" must be incredibly painful to sit with - would you be willing to explore where that belief might come from?",
+    "client": "I guess I could try talking about it, but I don't see how that'll change anything. The anger just keeps bubbling up—like yesterday I snapped at a coworker over nothing. Then I feel guilty, which makes the sadness worse. It's this awful cycle I can't escape.",
+    "therapist": "It sounds like you're noticing a painful pattern where the anger leads to guilt, which then deepens the sadness—that cycle must feel exhausting to be caught in. I wonder if we could gently look at what thoughts or beliefs come up right before those moments when the anger bubbles over?",
     "condition": "baseline",
-    "val_t": -0.3699895143508911,
-    "aro_t": 0.11376965045928955,
+    "val_t": -0.44302380084991455,
+    "aro_t": 0.08945059776306152,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I don't know where that belief comes from exactly...I just keep thinking I should have visited my mom more when she was sick. Everyone says \"you did your best,\" but that doesn't change how guilty I feel. It's like no matter what I do now, it'll never be enough to make up for it.",
-    "therapist": "That guilt sounds like it's weighing heavily on you, and I notice how \"should have\" keeps coming up in your thoughts. When you hear others say \"you did your best,\" what makes that hard to believe right now?",
+    "client": "I guess before I snap, I just feel this frustration that everything’s falling apart—like I’m supposed to be strong and keep it together, but I can’t. It’s like I’m failing at everything, and that makes me so mad at myself. But I don’t know how to stop thinking that way—it feels so automatic.",
+    "therapist": "It makes so much sense that you'd feel frustrated when holding onto that expectation to \"be strong\"—that's an incredibly heavy burden to carry while grieving. I wonder if we could explore together where that belief about needing to always keep it together comes from?",
     "condition": "baseline",
-    "val_t": -0.3558478355407715,
-    "aro_t": 0.12756431102752686,
-    "text_emotion": "Sad"
+    "val_t": -0.3694441318511963,
+    "aro_t": 0.30362725257873535,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "When people say \"you did your best,\" it just makes me feel worse because I know I could have done more. I keep replaying all the moments where I hesitated or made the wrong choice, and that's what sticks with me, not the effort I put in. \n\nIt's like my brain won't let me accept any comfort because then it would mean I'm letting myself off the hook too easily. The guilt feels like the only appropriate response, even though I know it's exhausting.",
-    "therapist": "I hear how that guilt has become almost like a way to honor your mom's memory, as if letting it go would mean you didn't care enough. That must be so exhausting to carry every day. What do you think your mom would say about the way you're holding onto this guilt?",
+    "client": "I think that belief comes from my dad—he always seemed so composed, even when things were tough. I guess I feel like I should be like him, but I’m not. It’s hard to let go of that, because it feels like I’m letting him down if I don’t live up to that standard. It’s like I’m failing him all over again.",
+    "therapist": "Hearing you say that makes me wonder—might your dad's composure have been his way of coping, rather than a standard he expected you to meet? What do you imagine he'd say if he saw you trying to bear all this grief alone?",
     "condition": "baseline",
-    "val_t": -0.3008486032485962,
-    "aro_t": 0.13180208206176758,
-    "text_emotion": "Angry"
+    "val_t": -0.28611648082733154,
+    "aro_t": 0.09300816059112549,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "That's... actually a really hard question. I think my mom would probably tell me to stop beating myself up over things I can't change. But at the same time, the guilt feels like proof that I still love her, you know? If I let it go, it's like saying what happened doesn't matter anymore. \n\nI don't know if I'm ready to imagine her saying that to me. It feels too simple, like I'm just telling myself what I want to hear. The guilt has been with me for so long that I don't know who I'd be without it.",
-    "therapist": "It sounds like that guilt has become intertwined with your love for your mom and your sense of identity, making it feel unsafe to let go. When you think about who you'd be without that guilt, what feelings or fears come up for you?",
+    "client": "I never really thought about it that way—maybe he was just coping in his own way. If he saw me now, I think he’d tell me to stop being so hard on myself… but it’s hard to believe that. Part of me feels like I’m supposed to keep pushing through, because that’s what he would’ve done. Letting myself feel this pain feels like weakness, even though I know that’s probably not true.",
+    "therapist": "What a meaningful insight—that perhaps your dad's way of coping wasn't necessarily the \"right\" or only way to handle difficult emotions. I'm struck by how you can intellectually recognize the need for self-compassion, yet emotionally it still feels like weakness—what would it be like to experiment with letting yourself feel just 10% more of that pain without judging it?",
     "condition": "baseline",
-    "val_t": -0.3405156135559082,
-    "aro_t": 0.1857694387435913,
-    "text_emotion": "Angry"
+    "val_t": -0.3152027130126953,
+    "aro_t": 0.1225423812866211,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I guess without the guilt, I’d feel... empty, like I’m betraying her memory or forgetting her. It’s scary to think about letting it go because it feels like the only thing connecting me to her now. But at the same time, I know it’s exhausting carrying it around all the time. I just don’t know how to stop.",
-    "therapist": "It sounds like you're caught between the exhaustion of holding onto this guilt and the fear of what might happen if you let it go. That connection to your mom feels so important, yet the weight of maintaining it through guilt is draining. What might it look like to honor her memory in a way that feels loving but not painful?",
+    "client": "That 10% idea makes me nervous—like if I let the floodgates open even a little, everything might come pouring out. What if I can't stop once I start? I'm already struggling to hold it together at work—I don't want to completely fall apart there.",
+    "therapist": "It sounds like you're carrying this fear that any amount of grieving might overwhelm your carefully maintained control—which makes perfect sense when you're trying to function at work. Could we explore what small, safe ways might exist to honor your emotions without fearing total collapse—maybe outside of work hours first?",
     "condition": "baseline",
-    "val_t": -0.3065756559371948,
-    "aro_t": 0.21310734748840332,
+    "val_t": -0.25419652462005615,
+    "aro_t": 0.2544146776199341,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I’ve never really thought about honoring her memory in a different way. The guilt feels like it’s keeping her close, like if I let it go, I’m betraying her or forgetting her. But you’re right, it’s exhausting—I just don’t know how to separate the guilt from the love. What if trying to change things makes me feel even more distant from her?",
-    "therapist": "It sounds like the guilt has become so intertwined with your love for her that the idea of separating them feels almost scary—like it might risk losing that connection. What if honoring her memory could be about celebrating the love you shared rather than punishing yourself for what you feel you could’ve done differently? How might that feel to explore?",
+    "client": "I guess I could try something small outside of work, but I’m not sure what that would even look like. Whenever I’m alone at home, I just distract myself with TV or chores—it feels safer that way. Letting myself actually feel anything seems scary, like I’ll get stuck there and won’t be able to pull myself back together.",
+    "therapist": "It's so understandable that you'd reach for distractions—they've been protecting you from feeling overwhelmed by the enormity of your grief. I wonder if we could brainstorm one tiny, intentional way to connect with your emotions—maybe setting a five-minute timer to write or just sit with whatever comes up?",
     "condition": "baseline",
-    "val_t": -0.2775613069534302,
-    "aro_t": 0.11484432220458984,
-    "text_emotion": "Sad"
+    "val_t": -0.2246013879776001,
+    "aro_t": 0.13175463676452637,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That idea makes my chest feel tight. Celebrating the love almost feels... selfish, like I don't deserve to remember the good things when I failed her at the end. But part of me wants to try—it's just that the guilt is so loud that it drowns out everything else. How do people even start doing that when the regret feels like part of who I am now?",
-    "therapist": "It's understandable that this idea brings up such strong physical and emotional reactions—you're confronting a belief that's been central to your grieving process. That tension between wanting to try and feeling undeserving shows how much you're wrestling with this. What small step could you imagine taking that might help shift focus from regret to love, even just a little?",
+    "client": "Five minutes feels manageable, but honestly, I’m scared of what might come up during that time. What if I start crying and can’t stop? Or what if I just feel numb and nothing happens—what does that even mean? It feels like I can’t win either way.",
+    "therapist": "You're naming such important fears—both about being overwhelmed by emotions and about potentially not feeling enough. This ambivalence is completely normal when facing grief we've worked hard to contain. What if we framed those five minutes not as something you have to \"win,\" but simply as an experiment to observe whatever shows up—even numbness—with curiosity rather than judgment?",
     "condition": "baseline",
-    "val_t": -0.2892690896987915,
-    "aro_t": 0.2301844358444214,
+    "val_t": -0.26270830631256104,
+    "aro_t": 0.1871812343597412,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I don't know if I can shift focus like that. Every time I try to think about love instead of regret, it just makes me feel worse because I remember all the ways I failed them. The physical tension in my chest gets so bad when I even consider letting go of the guilt - it feels like I'd be betraying their memory.",
-    "therapist": "That physical tension in your chest tells me how deeply this guilt is wired into your body and sense of connection to them. It makes sense that trying to shift focus would feel like a betrayal when the guilt has been your way of keeping them close. What if, instead of trying to let go of the guilt right away, we simply noticed it with curiosity when it arises—acknowledging it as proof of your love, while also making space for other feelings to exist alongside it?",
+    "client": "An experiment feels less scary than trying to \"fix\" something, I guess. But I’m still worried about what might happen—like if I start crying or feeling angry, I’m not sure I’ll know how to handle it. What if I can’t stop after the five minutes are up? That’s what really scares me.",
+    "therapist": "It makes complete sense that uncertainty about what might emerge feels frightening—you've been working so hard to keep everything contained. What if we created a simple \"aftercare plan\" for those five minutes—maybe having a comforting activity or grounding technique ready to help transition back if needed?",
     "condition": "baseline",
-    "val_t": -0.44548261165618896,
-    "aro_t": 0.12205708026885986,
-    "text_emotion": "Sad"
+    "val_t": -0.3792541027069092,
+    "aro_t": 0.29060089588165283,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about the guilt being connected to love, but it's hard to imagine making space for other feelings when this one takes up so much room. Every time I try to notice it without judging, I just end up feeling worse because then I'm thinking about how I *shouldn't* feel guilty, which makes me feel guilty about that too. It's like my brain twists everything back to the same painful place.",
-    "therapist": "It sounds like your mind has become so skilled at redirecting every attempt at self-compassion back to guilt—almost like it's protecting you from the vulnerability of grieving differently. That \"shouldn't feel guilty about guilt\" spiral must be exhausting to navigate. What do you think might happen if you could observe these thought patterns without trying to change them, just noticing how they come and go?",
+    "client": "Having a plan sounds better, but I don’t even know what would help me feel grounded afterward. Most things I normally do to relax just feel hollow now. And part of me thinks this whole exercise is pointless—it’s not going to bring my dad back or make the pain go away. I just don’t see how crying in a controlled way changes anything.",
+    "therapist": "I hear how deep your pain runs and how facing it directly feels both scary and pointless—it’s so hard to imagine how anything could ease the loss of your dad. While this exercise won’t change the reality of his absence, it might help you begin to process some of the emotions you’ve been carrying—what do you imagine your dad would say if he saw you trying to take this small, brave step toward healing?",
     "condition": "baseline",
-    "val_t": -0.3914520740509033,
-    "aro_t": 0.13130056858062744,
-    "text_emotion": "Sad"
+    "val_t": -0.2179635763168335,
+    "aro_t": 0.09432423114776611,
+    "text_emotion": "Angry"
   }
 ]

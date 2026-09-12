@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. I got a grade on my last exam that was way lower than I expected, and now I feel like I’m losing my grip on maintaining a perfect GPA. It’s been really hard to shake off this feeling of disappointment and pressure.",
-    "therapist": "I can hear how disappointed and stressed you're feeling right now. It’s completely understandable to be upset when things don’t go as planned. How have you been coping with these feelings so far?",
+    "client": "Hey Luna, I’ve been really stressed lately about my grades. I got a disappointing grade on my last exam, and now I feel like I’m under so much pressure to maintain a perfect GPA. It’s just been weighing on me a lot. I know I should probably feel more confident, but I can’t shake this anxiety.",
+    "therapist": "Hi there, I can really understand how stressful this must be for you. It’s natural to feel anxious when you’re facing academic pressures, and it sounds like you’re putting a lot of weight on yourself to maintain a perfect GPA. Can you tell me more about what thoughts are going through your mind when you think about your grades?",
     "condition": "emotion_text_only",
-    "val_t": -0.36787450313568115,
-    "aro_t": 0.21727609634399414,
+    "val_t": -0.3089909553527832,
+    "aro_t": 0.25223541259765625,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's been tough. I've been trying to distract myself with work and keeping busy, but it only helps for a little while. I still feel this weight of disappointment and stress, and it's hard to shake off.",
-    "therapist": "It sounds like you’re doing your best to manage the stress, but the disappointment is still weighing heavily on you. It’s important to acknowledge how you’re feeling and not push it away. Have you tried talking to someone or expressing your feelings in another way, like writing or art, to help process them?",
+    "client": "When I think about my grades, I feel like I’m constantly falling short of my own expectations. I worry that if I don’t get perfect grades, I won’t be able to get into the grad school I want, and that will affect my whole future. It’s like every grade feels like a make-or-break moment.",
+    "therapist": "It sounds like you’re putting a lot of pressure on yourself, and that can be really tough. It’s understandable to worry about how your grades might impact your future, but it’s also important to consider whether these thoughts are helping or hindering you. What evidence do you have that one less-than-perfect grade will significantly impact your chances of getting into grad school?",
     "condition": "emotion_text_only",
-    "val_t": -0.2789041996002197,
-    "aro_t": 0.1324092149734497,
+    "val_t": -0.2527456283569336,
+    "aro_t": 0.1833897829055786,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I've tried talking to people, but it doesn't seem to help much. Writing or art sounds interesting, but I'm not sure I have the creative energy to get into it right now. It feels like one more thing to add to my plate.",
-    "therapist": "I understand that it can feel overwhelming to add another activity, especially when you’re already feeling drained. It’s okay to take it easy and not force yourself into something that feels like another burden. What do you think might be a small, manageable step you could take to start feeling a bit lighter, even if it’s just a tiny change?",
+    "client": "I guess I don’t have concrete evidence that one bad grade will ruin everything, but it feels like it could. I’ve always been told that grad schools are so competitive, and I don’t want to take any chances. It’s hard to let go of that fear, even if I know it’s not entirely rational.",
+    "therapist": "I can see how those fears can be really persistent, even when you know they might not be entirely rational. It’s tough to let go of them, especially when you’ve been told how competitive grad schools can be. Have you ever considered what steps you can take to manage this anxiety, or perhaps how you might reframe your thoughts to be more balanced?",
     "condition": "emotion_text_only",
-    "val_t": 0.08090078830718994,
-    "aro_t": 0.14757943153381348,
-    "text_emotion": "Excited"
+    "val_t": -0.26704609394073486,
+    "aro_t": 0.12624454498291016,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard to find the motivation to even do something small when I feel so drained all the time. I guess I could try something really simple, like taking a short walk or listening to some music, but I worry that it won't make much of a difference.",
-    "therapist": "It’s completely understandable to feel that way when you’re so drained. Starting with something small can still make a difference, even if it doesn’t feel like it right away. Sometimes, just taking a short walk or listening to music can help shift your mood a little bit. What do you think might be the smallest step you could take today that feels doable for you?",
+    "client": "I’ve tried to remind myself that one bad grade isn’t the end of the world, but it’s hard to fully believe it. I guess I could try to reframe my thoughts, but it feels like a big leap to go from feeling like I’m failing to feeling confident. It’s hard to shift that mindset when the stakes feel so high.",
+    "therapist": "It’s completely understandable that it feels like a big leap to shift from feeling like you’re failing to feeling confident, especially when the stakes feel so high. It’s a gradual process, and it’s okay to take small steps. Maybe you could start by acknowledging the times when you’ve succeeded in the past, or by setting realistic goals for yourself. What are some small wins or successes that you can remind yourself of when you’re feeling this way?",
     "condition": "emotion_text_only",
-    "val_t": -0.09084117412567139,
-    "aro_t": 0.04705178737640381,
+    "val_t": -0.09605109691619873,
+    "aro_t": 0.06800472736358643,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate the suggestion, but honestly, even those small steps feel really hard right now. I know they might help, but it's hard to muster the energy or motivation. It feels like even a short walk or listening to music would be a big effort.",
-    "therapist": "I completely understand how challenging it can be to find the energy for even small steps when you’re feeling this way. It’s okay to acknowledge that and not push yourself too hard. Sometimes, just allowing yourself to feel and rest can be a form of self-care. What do you think might help you feel a bit more supported or comforted right now, even if it’s just a small thing?",
+    "client": "I appreciate that suggestion, Luna. I do have some successes I can think of, like when I got a good grade on a tough project last semester. But it’s hard to remember those when I’m in the middle of feeling so anxious. I’ll try to make a list of my past successes, but I’m not sure how much it will help in the moment when I’m feeling overwhelmed.",
+    "therapist": "It’s great that you’re willing to try making a list of your past successes—that can be a really helpful tool. It’s totally normal to have a hard time remembering those positive moments when you’re feeling anxious. One thing you might find useful is to keep that list handy, maybe even on your phone, so you can refer to it when you’re feeling overwhelmed. How do you think that might help you in the moment?",
     "condition": "emotion_text_only",
-    "val_t": 0.008444666862487793,
-    "aro_t": 0.10125923156738281,
-    "text_emotion": "Neutral"
+    "val_t": 0.0055599212646484375,
+    "aro_t": 0.20365703105926514,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and I do feel a bit drained most of the time. It’s hard to think of what might help because everything seems overwhelming. I guess just having someone to talk to, even if it’s just for a little while, feels like it could make a small difference. But it’s hard to reach out, you know?",
-    "therapist": "I really understand how overwhelming it can feel, and it’s completely normal to struggle with reaching out. Just having someone to talk to can indeed make a small but meaningful difference. It’s okay to take it one step at a time. What do you think might make it a bit easier to reach out to someone, even if it’s just a friend or a family member?",
+    "client": "I think having that list on my phone could be helpful, but I’m still a bit skeptical about how much it will change how I feel in the moment. When I’m in the middle of feeling anxious, it can be hard to step back and look at things objectively, even with a list. I’ll try it though, and maybe it will make a difference over time.",
+    "therapist": "I understand that you’re feeling a bit skeptical, and that’s completely normal. Change can take time, and it’s okay to have doubts. Having the list on hand might not instantly change how you feel, but it can be a helpful reminder of your capabilities and past successes, which can gradually build your confidence. How do you think you might use the list when you’re feeling overwhelmed, even if it’s just a small step?",
     "condition": "emotion_text_only",
-    "val_t": -0.16331744194030762,
-    "aro_t": 0.13495028018951416,
-    "text_emotion": "Angry"
+    "val_t": 0.055721402168273926,
+    "aro_t": 0.12356054782867432,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It’s just really hard for me to open up, even to people I trust. I worry a lot about burdening them or being a nuisance. I guess I could try texting a friend, but what if they don’t respond right away? That would just make me feel worse.",
-    "therapist": "I can understand how tough it is to open up, especially when you’re worried about burdening others. It’s a very common concern, and it’s okay to feel that way. Texting a friend can be a good start, and remember that they might not always be able to respond immediately. What do you think might help you feel less anxious about reaching out, even if it’s just a small gesture or a brief message?",
+    "client": "I think I might try pulling up the list when I’m studying and start to feel really anxious. Even if it doesn’t completely alleviate the anxiety, maybe just seeing those successes will give me a little boost and help me keep going. It’s a small step, but I’ll give it a shot.",
+    "therapist": "That’s a great plan, and I’m really glad you’re willing to give it a try. Even a small boost can make a big difference when you’re in the middle of a tough study session. Using the list as a quick reminder of your successes can help you stay motivated and keep things in perspective. How do you think you might also reward yourself for making progress, even if it’s just a small step forward?",
     "condition": "emotion_text_only",
-    "val_t": -0.22656762599945068,
-    "aro_t": 0.075264573097229,
-    "text_emotion": "Sad"
+    "val_t": 0.0588611364364624,
+    "aro_t": 0.18403112888336182,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but I still feel really anxious about it. What if I text them and they don’t respond right away, or at all? It just feels like it might make things worse, like I’m imposing or they’ll think I’m needy.",
-    "therapist": "I can hear how anxious you’re feeling about reaching out, and it’s completely understandable to worry about how others might respond. It’s natural to feel like you’re imposing, but remember that your friends care about you and would likely want to support you. What do you think might be a way to frame your message that feels less imposing, or is there someone you feel a bit more comfortable reaching out to?",
+    "client": "I like the idea of rewarding myself for making progress. Maybe I could take a short break to do something I enjoy, like reading a chapter of a book or listening to some music, after I’ve made some progress on my studies. It might help me feel less overwhelmed and more motivated to keep going.",
+    "therapist": "That’s a fantastic idea! Taking short breaks to do something you enjoy can be a great way to recharge and stay motivated. It’s all about balancing the pressure with self-care. How do you think you might build these breaks into your study routine, and what other small rewards might you consider as you make progress?",
     "condition": "emotion_text_only",
-    "val_t": -0.36463892459869385,
-    "aro_t": 0.2424556016921997,
-    "text_emotion": "Angry"
+    "val_t": 0.24197077751159668,
+    "aro_t": 0.1988534927368164,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I get what you’re saying, and I know you’re trying to help, but it’s still really hard for me to reach out. I worry that they’ll think I’m needy or that I’m just always negative. It’s hard because I don’t want to burden anyone, and I feel like I should be able to handle this on my own.",
-    "therapist": "I understand how challenging it is to reach out, especially when you’re worried about being seen as needy or burdening others. It’s a very common concern, and it’s okay to feel that way. It’s also important to remember that asking for support is a sign of strength, not weakness. What do you think might be a small way to start, even if it’s just a brief message or a light conversation, to help ease into reaching out?",
+    "client": "I think I can start by setting a timer for 45 minutes of focused study time, and then take a 10-minute break to do something I enjoy. It might feel a bit strange at first, but I can see how it could help me stay more focused and less anxious. Other small rewards could be treating myself to a favorite snack or a quick walk outside when I finish a particularly tough section of my studies. It’s a new approach, so I’m a bit nervous about how it will work, but I’m willing to give it a try.",
+    "therapist": "That’s a really thoughtful plan, and I’m proud of you for setting it up. It’s completely normal to feel a bit nervous about trying a new approach, but breaking your study time into manageable chunks and rewarding yourself can make a big difference. How do you think you might adjust this plan if you find it’s not working as well as you hoped, or if you need to make it more flexible to fit your needs?",
     "condition": "emotion_text_only",
-    "val_t": -0.25399458408355713,
-    "aro_t": 0.13137662410736084,
-    "text_emotion": "Angry"
+    "val_t": 0.16582202911376953,
+    "aro_t": 0.11362600326538086,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, and I really do want to try, but it feels really hard to take that first step. I worry that people will think I’m just looking for attention or that I’m overreacting. It’s like I know it’s a good idea, but my mind just keeps finding reasons why it won’t work.",
-    "therapist": "I can really understand how tough it is to take that first step, especially when you’re worried about how others might perceive you. It’s completely normal to have those doubts and concerns. It’s great that you recognize it as a good idea, even if your mind is finding reasons to hesitate. What do you think might be a small, manageable step you could take to start addressing these worries, even if it’s just acknowledging them to yourself?",
+    "client": "I think if it’s not working as well as I hoped, I might need to adjust the length of my study sessions or the type of rewards I give myself. Maybe I’ll start by trying it out for a week and see how it goes, and then make tweaks based on what I learn. It’s a bit daunting, but I’m open to making changes to find what works best for me.",
+    "therapist": "It’s great to see you thinking so flexibly about how you can adapt your plan. Starting with a week to see how it goes is a smart approach, and being open to making changes based on what you learn is a key part of finding what works best for you. It’s completely normal to feel a bit daunted, but taking it one step at a time can really help. How do you think you might stay motivated during this trial period, especially if you encounter some challenges?",
     "condition": "emotion_text_only",
-    "val_t": -0.17310655117034912,
-    "aro_t": 0.15892565250396729,
-    "text_emotion": "Angry"
+    "val_t": 0.1597229242324829,
+    "aro_t": 0.08495199680328369,
+    "text_emotion": "Excited"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I got some news from my doctor a few weeks ago that I'm still trying to wrap my head around — I was diagnosed with a chronic illness, and honestly, it's like the ground just disappeared from under me. I keep thinking about what my life is going to look like going forward, and the fear just won't let up, no matter what I do. I'm not even sure talking about it is going to change anything, because the diagnosis is real and nothing said in here is going to make it go away.",
-    "therapist": "What you're carrying right now is genuinely heavy, and that feeling of the ground disappearing makes complete sense — receiving a diagnosis like this reshapes so much of how you imagined your future, and the fear you're feeling is a very natural response to something so significant. You're absolutely right that our conversations won't change the diagnosis itself, and I want to honor that reality rather than pretend otherwise — but what we *can* explore together is how your thoughts about the future might be shaping the intensity of that fear, and whether some of those thoughts are telling you the full story. I'm curious — when you imagine your life going forward, what does that picture actually look like in your mind?",
+    "client": "I've been really struggling ever since my doctor told me I have a chronic illness about three weeks ago. It's like this constant weight sitting on my chest — I can't stop thinking about what my life is going to look like from here on out, whether I'll be able to work, have relationships, just... be normal. Honestly, I'm not even sure talking about it is going to change anything, because the diagnosis isn't going away no matter what I say in here.",
+    "therapist": "I hear you — receiving a diagnosis like that is genuinely life-altering, and the weight you're describing makes complete sense given how much uncertainty you're suddenly carrying. You're right that talking won't change the diagnosis itself, but I wonder if it might help us untangle some of the fears that are piling on top of it, because right now it sounds like you're not just carrying the illness — you're also carrying every worst-case version of your future all at once. What feels like the heaviest of those fears when you sit with it — the work, the relationships, or something else entirely?",
     "condition": "baseline",
-    "val_t": -0.27317166328430176,
-    "aro_t": 0.21506500244140625,
+    "val_t": -0.32014381885528564,
+    "aro_t": 0.22597885131835938,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I imagine my life going forward, honestly it's just... blank, or dark. Like I used to have this vague sense of growing old, maybe traveling, being around people I love, and now all of that feels like it was written in pencil and someone just erased it. I know that probably sounds dramatic, but it's like the future stopped existing the moment the doctor said those words.",
-    "therapist": "That doesn't sound dramatic at all — it sounds like grief, and what you're describing is a very real loss of the future you had quietly assumed was yours, which deserves to be acknowledged as exactly that. What I gently want to invite you to notice is that your mind has moved from \"this will be different\" to \"this is gone,\" and those are actually two very different things, even though the fear can make them feel identical right now. I wonder — when you think about those things you mentioned, the traveling, the people you love, is there a part of you that still *wants* those things, even if it feels fragile to admit that?",
+    "client": "Honestly, when I really sit with it, the loneliness is what hits hardest. I keep imagining people slowly pulling away once they realize I'm not going to be the same person they knew — like I'll become a burden, or too complicated to deal with. And the worst part is I haven't even told most people yet, so I'm already grieving something that hasn't even happened.",
+    "therapist": "That image of grieving something that hasn't happened yet is really insightful — your mind is trying to protect you by bracing for loss, but in doing so it's making you live through that loneliness *right now*, before anyone has even had the chance to respond. It's worth gently noticing that the story of \"I'll become a burden and people will pull away\" is a prediction your fear is making, not a fact that's been tested yet. When you imagine telling someone you trust about your diagnosis, is there anyone who comes to mind where part of you — even a small part — suspects they might surprise you?",
     "condition": "baseline",
-    "val_t": -0.05006611347198486,
-    "aro_t": 0.08148539066314697,
-    "text_emotion": "Neutral"
+    "val_t": -0.4430522918701172,
+    "aro_t": 0.15432345867156982,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "Yeah... if I'm honest, there is a part of me that still wants those things. It's just that wanting them feels almost worse than not wanting them, because then I have to sit with the possibility that I might not get them. It's like I've been trying to protect myself by convincing myself I've already let go, but I haven't, not really.",
-    "therapist": "What you just said takes real courage and self-awareness — you've named something really important, that the \"letting go\" has been a protective story your mind created to shield you from the pain of wanting something that feels uncertain. But here's what I notice: the fact that the wanting is still there, still alive, suggests that your sense of a future hasn't actually been erased — it's been hidden away for safekeeping. What do you think it might feel like to let yourself want those things, even just a little, without needing to know yet how the story ends?",
+    "client": "There's my friend Dara — we've been close for years and she's generally pretty steady, not the type to freak out or disappear. But I guess part of me is scared that even she has a limit, and a chronic illness is a different kind of ask than the normal stuff friends deal with together. I know you're saying it's just a prediction, but it feels so real that it's hard to hold it loosely, if that makes sense.",
+    "therapist": "It makes complete sense that it feels real — our minds don't easily distinguish between a vivid fear and an actual memory, so the emotional weight can feel identical even when one hasn't happened yet. What strikes me is that you described Dara as \"steady\" and someone who doesn't disappear — that's not a random person, that's someone your own experience has given you evidence to trust. I'm curious: if Dara came to *you* with something big and scary in her life, what would you want her to believe about how you'd show up for her?",
     "condition": "baseline",
-    "val_t": -0.22802627086639404,
-    "aro_t": 0.12773585319519043,
-    "text_emotion": "Angry"
+    "val_t": -0.07545900344848633,
+    "aro_t": 0.06797254085540771,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and part of me wants to believe that framing... but honestly, it also scares me. Like, if I let myself actually want those things again, a real connection, a future that means something, and it still doesn't work out, I don't know if I can survive that disappointment again. It feels safer to keep telling myself I've moved on, even if that's not entirely true.",
-    "therapist": "The fear you're describing — protecting yourself from hope because hope feels like it could break you — is one of the most human things there is, and it makes complete sense given what you've been through. What I'd gently offer is that the strategy of \"I've already let go\" has a hidden cost too, because it means you're already living with the loss *without* any of the possibility, which is actually the worst of both worlds. I'm wondering — has there been a time in your life before where you allowed yourself to want something uncertain, and what happened to you when you did?",
+    "client": "I'd want her to know I'd be there, that she wouldn't be too much for me. And I can see what you're doing — you're trying to get me to apply that same logic to myself, and intellectually I get it. But it still feels different when I'm the one who needs something, like there's this voice that says being on the receiving end of care is just... not okay for me somehow.",
+    "therapist": "That voice that says receiving care \"isn't okay for you\" is really worth paying attention to — it sounds like it's been around longer than this diagnosis, and it may be doing a lot of the heavy lifting in creating that loneliness you're feeling. You caught the reframe quickly, which tells me part of you *wants* to believe you're worthy of the same care you'd freely give Dara — there's a real tension there, not just a blind spot. Where do you think that voice learned that being cared for was something you didn't deserve or couldn't accept?",
     "condition": "baseline",
-    "val_t": -0.1818751096725464,
-    "aro_t": 0.18149077892303467,
+    "val_t": -0.1541534662246704,
+    "aro_t": 0.14335846900939941,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hate that what you said actually makes sense, because part of me wanted to just dismiss it. The \"worst of both worlds\" thing kind of stopped me in my tracks, because yeah, I'm already grieving something that hasn't even ended yet, and that's exhausting. As for wanting something uncertain... I guess there was a time I really let myself hope my dad and I could repair our relationship, and when it fell apart anyway, it felt like the hoping itself had made me stupid somehow.",
-    "therapist": "That moment with your father sounds like it left a really painful lesson behind — not just the loss of the relationship, but this belief that hoping had somehow made you foolish, when really it just made you human and brave. It makes so much sense that your mind is now trying to protect you from repeating that experience by shutting hope down before it can hurt you, but I want to gently challenge that conclusion — the hoping didn't make you stupid, it made you someone who was willing to love even when it was risky, and that's actually a kind of strength. I'm curious, when you look back now, do you regret that you hoped for things to work out with your dad, or is there a part of you that's glad you tried?",
+    "client": "I think it probably goes back to growing up — my mom was dealing with her own stuff, depression mostly, and I learned pretty early that the way to keep things stable was to not add to her load. So I became the one who held things together, and somewhere along the way that just became who I was. It's strange to even say that out loud, because I've never really connected it to now before, but I'm also not sure what I'm supposed to do with that realization.",
+    "therapist": "What you just did — making that connection out loud for the first time — is actually significant, because that young version of you made a really smart adaptation to a hard situation, and it kept things stable when you needed it to. But that strategy, as protective as it was then, seems to have quietly followed you into adulthood and is now telling you that your needs don't belong in your closest relationships — even when you're facing something as real as this diagnosis. I'm wondering, now that you can see where that voice came from, does it feel any different to hear it — like maybe it's carrying an old message that was never really meant to be permanent?",
     "condition": "baseline",
-    "val_t": -0.3244272470474243,
-    "aro_t": 0.21355926990509033,
-    "text_emotion": "Angry"
+    "val_t": -0.032424211502075195,
+    "aro_t": 0.056841254234313965,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "That's... a really hard question to sit with. Part of me wants to say I regret it, because it would be easier to just feel angry and done with it, but honestly, there's this small, quiet part of me that's glad I didn't give up without trying. I just don't know how to hold both of those things at once without feeling like I'm contradicting myself.",
-    "therapist": "What you're describing isn't a contradiction — it's actually one of the most honest and mature things a person can feel, because real experiences are almost never just one thing, and holding grief and gratitude at the same time is a sign of real emotional depth, not confusion. That small, quiet part of you that's glad you tried — I want you to notice that it has survived everything, the disappointment with your dad, and now this diagnosis, and it's still speaking up. I wonder if that quiet part might have something important to say about how you want to face what's ahead with your illness too?",
+    "client": "It does feel a little different, like maybe I can see it from the outside for a second instead of just being inside it. But I'm also worried that understanding where it comes from doesn't automatically make it easier to act differently — like, knowing the origin doesn't just switch off the feeling. I guess I'm skeptical that insight alone is enough to change something that's been wired in for this long.",
+    "therapist": "Your skepticism is completely valid — insight is actually just the first step in CBT, not the destination, and you're right that understanding something intellectually doesn't automatically rewire years of practiced behavior. The real change tends to come from small, carefully chosen moments of acting *slightly differently* than that old voice instructs, and then seeing what actually happens — which is where someone like Dara might matter more than you realize right now. I'm wondering if there's a small, manageable way you could let her in — not the whole story all at once if that feels like too much, but just enough to test what she actually does, rather than what your fear predicts she'll do?",
     "condition": "baseline",
-    "val_t": -0.16703271865844727,
-    "aro_t": 0.17475450038909912,
-    "text_emotion": "Angry"
+    "val_t": -0.11467540264129639,
+    "aro_t": 0.06183028221130371,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and part of me wants to believe it... but I also wonder if that quiet voice is just some kind of defense mechanism, you know, like my brain trying to protect me from how scary this diagnosis actually is. Because when I sit with it honestly, the fear is so much louder than that small hopeful part, and I don't know if I trust it enough to let it guide me through something this serious. It feels almost naive to lean on something so fragile when the stakes are this high.",
-    "therapist": "The fear being louder right now makes complete sense — it's doing its job of signaling that something serious and real is happening, and I wouldn't want to minimize that. But I want to gently offer a different way of looking at that quiet voice: fragile doesn't mean false, and sometimes the things we have to strain to hear are telling us something truer than the alarm bells that are drowning them out. I'm wondering — when you call that hopeful part \"naive,\" whose voice does that criticism actually sound like, is it yours, or is it something you learned somewhere along the way?",
+    "client": "I think I could maybe text her and just say I've had some hard health news and could use a catch-up — that feels less terrifying than leading with the full diagnosis right away. But I'm already anticipating that anxious feeling of waiting for her response, wondering if she'll brush it off or get weird about it, and I don't know how to handle it if she does react badly. I guess what I'm really asking is, what do I do with myself in that gap between sending the message and finding out if my fear was right?",
+    "therapist": "That text you described is a beautifully calibrated first step — it opens a door without forcing you to walk all the way through it at once, and I want you to notice that you came up with that yourself. For the waiting period, it might help to gently remind yourself that the anxiety in that gap is your old protective voice doing what it's always done, not evidence that something bad is coming — and that you can survive the discomfort of uncertainty even if her response isn't perfect, because one reaction from one person won't confirm or cancel your worth. What's something you could do in that window — something small and grounding — that would help you stay in the present rather than living inside the feared outcome?",
     "condition": "baseline",
-    "val_t": -0.22566008567810059,
-    "aro_t": 0.1997913122177124,
+    "val_t": -0.17005181312561035,
+    "aro_t": 0.2259538173675537,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That question kind of stopped me for a second, because honestly... it doesn't fully sound like me. It sounds more like my dad, maybe, or just this general voice I grew up around that treated optimism like it was something embarrassing, like you were setting yourself up to look stupid. But even knowing that, I don't know how to just unhear it — it's been in my head so long it feels like mine.",
-    "therapist": "What you just recognized is genuinely significant — you've identified that the voice telling you hope is naive and embarrassing was handed to you, it wasn't something you chose or concluded on your own, and that distinction matters more than it might feel like it does right now. Unlearning a voice that's lived in your head for decades isn't something that happens in a single moment of insight, but noticing that it isn't truly yours is actually the first and hardest step, and you just did that. I'm curious — if you tried to imagine what *your* voice, the one that's actually yours, would say about hope and the future, even if it's just a guess, what do you think it might sound like?",
+    "client": "I think I'd probably go for a walk or make tea — something physical that keeps my hands busy and gets me out of my own head for a bit. But I'll be honest, there's a part of me that worries I'll just bring the anxiety with me on that walk, replaying the what-ifs the whole time, so I'm not sure how much it would actually help. Is there something more... active I could do, or a way to make the grounding thing actually work when my brain is really spinning?",
+    "therapist": "Walking and tea are actually genuinely good instincts — and you're right that a spinning mind can hitchhike along, so it sometimes helps to give your attention something specific to anchor to, like noticing five things you can see or feel on that walk, which gently interrupts the what-if loop without forcing you to suppress it. Another option is something I'd call \"scheduled worrying\" — you give yourself a specific 10-minute window to think through the fears deliberately, and then when they creep in outside that window, you can remind yourself \"I'll think about that at my worry time,\" which can take away some of their urgency. Which of those feels like it might actually fit how your brain works — or is there something else that's helped you interrupt a spiral in the past, even briefly?",
     "condition": "baseline",
-    "val_t": -0.14719080924987793,
-    "aro_t": 0.14023351669311523,
+    "val_t": -0.07332849502563477,
+    "aro_t": 0.14767086505889893,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I sit with that question for a moment because honestly it's harder than it sounds. Like, I want to say my voice would be something hopeful and clear, but when I actually try to hear it, it's... quiet, almost like it got crowded out so long ago that I'm not sure what's left. I guess if I had to guess, it might sound something like \"things could still change\" — but even saying that out loud feels fragile, like I'm scared to hold onto it too tight in case it breaks.",
-    "therapist": "\"Things could still change\" — I want you to notice that you found that, quietly and honestly, even in the middle of all this fear and grief and uncertainty, and that matters. The fact that it feels fragile doesn't mean it's wrong; sometimes the truest things we carry are the ones we hold most carefully, not because they're weak, but because we know they're worth protecting. I'm wondering — what would it look like to just let that sentence exist for now, not as a promise or a guarantee, but simply as something you're allowing yourself to hold gently, one day at a time?",
+    "client": "The scheduled worrying thing actually sounds more like something I could work with, because at least it feels like I'm not just trying to white-knuckle the anxiety away — I'm giving it a time and place instead of pretending it doesn't exist. I'm a little skeptical about whether I'll actually be able to tell myself \"not now\" when the spiral starts, because in the moment it feels so urgent and automatic, like it just takes over. But I think it's worth trying, and honestly this whole conversation has been more useful than I expected it to be, even if I'm still scared about sending that text.",
+    "therapist": "It means a lot to hear that this felt useful, and I want to reflect back what I noticed today — you came in skeptical that talking could change anything, and by the end you've made a real connection about where your fear of receiving care comes from, identified a concrete first step with Dara, and found a tool that actually fits how your mind works. The urgency of the spiral is real, but you don't have to win an argument with it in the moment — even just pausing to say \"this feels urgent, and I have a time for this later\" plants a small seed of distance between you and the thought. I'll be rooting for you when you send that text — and I'm curious, when you imagine yourself on the other side of having sent it, regardless of how Dara responds, how do you think you might feel about having taken that step?",
     "condition": "baseline",
-    "val_t": -0.2437593936920166,
-    "aro_t": 0.170495867729187,
-    "text_emotion": "Angry"
+    "val_t": 0.04550576210021973,
+    "aro_t": 0.14611411094665527,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I think... letting it just exist without needing it to be a promise is actually harder than it sounds, because my brain immediately wants to either cling to it or dismiss it entirely. It's like I don't know how to hold something in the middle — it feels unstable, like I'll drop it if I'm not gripping it tight enough. But maybe that's kind of what I've been doing with everything lately, either holding on so hard it hurts or letting go before it even has a chance.",
-    "therapist": "What you just described - that pattern of gripping tightly or releasing completely - is such an important thing to recognize, and it sounds like it's been an exhausting way to have to move through the world, especially now when so much feels uncertain. That middle space, holding something gently without needing to control its outcome, is actually a skill that can be learned, even if it feels completely foreign right now, and the fact that you've named it so clearly suggests you're already more aware of it than you realize. I'm curious — can you think of anything in your life, even something small, where you've managed to hold uncertainty without it destroying you, somewhere that middle ground might have already existed without you giving yourself credit for it?",
+    "client": "I think I'd feel scared but maybe also a little proud, like I did something that went against that old wiring even when it was uncomfortable. It's weird to even imagine feeling proud of sending one text, but I guess that's kind of the point — it's not really about the text, it's about choosing not to disappear into myself. I'm still nervous, but I think I'm going to try.",
+    "therapist": "That reframe — \"choosing not to disappear into myself\" — is genuinely profound, and you found those words yourself, which tells me you understand at a deeper level than you might give yourself credit for. That small pride you're imagining is worth holding onto, because it's your healthier self recognizing that you deserve to take up space in your own relationships, even when the old wiring says otherwise. Be gentle with yourself this week, and I hope you'll come back and tell me what happened — not just with Dara, but with how it felt to let yourself be seen.",
     "condition": "baseline",
-    "val_t": -0.21319043636322021,
-    "aro_t": 0.16101491451263428,
-    "text_emotion": "Angry"
+    "val_t": -0.031168103218078613,
+    "aro_t": 0.17812800407409668,
+    "text_emotion": "Tense"
   }
 ]

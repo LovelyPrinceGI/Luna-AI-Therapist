@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling with family gatherings lately. It's been a month since my grandmother passed away, and every time I see everyone, her absence just hits me so hard. I know everyone is trying to be supportive, but I can't seem to shake this feeling of emptiness. I'm not even sure if talking about it will make a difference.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandmother and how deeply her absence is affecting you during family gatherings. It's completely understandable to feel a sense of emptiness, and it's okay to take your time and process these feelings. How have you been coping with these emotions, and is there anything specific that you feel might help you during these gatherings?",
+    "client": "Hi Luna, it's been really tough lately. After losing my grandmother last month, I find it really hard to enjoy family gatherings. Her absence just feels so heavy and it's hard to be around everyone without feeling really sad and alone. I don't know if talking about it will help, but I thought I'd give it a try.",
+    "therapist": "Hi there, I'm so glad you reached out. Losing someone we love can create such a profound sense of emptiness, and it's completely understandable that family gatherings feel different and challenging now. How have you been coping with these feelings, and are there any moments, however small, where you've found a glimmer of comfort or support?",
     "condition": "baseline",
-    "val_t": -0.2497847080230713,
-    "aro_t": 0.14091813564300537,
+    "val_t": -0.12025070190429688,
+    "aro_t": 0.1396714448928833,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thank you for understanding. It's been really tough, especially during the holidays. I've been trying to stay busy and distract myself, but it doesn't really help much. I feel like there's a part of me that's just missing, and I don't know how to fill that void. I've thought about talking to my family about it, but I'm worried they might not understand or it might make things more awkward.",
-    "therapist": "I can imagine how challenging it must be to navigate these feelings, especially during the holidays. It's natural to seek ways to distract yourself, but it's also important to acknowledge and process the grief you're experiencing. Talking to your family might feel daunting, but sharing your feelings can sometimes bring a sense of relief and support. What do you think might help you feel more comfortable or prepared to have that conversation with them?",
+    "client": "Thanks for listening, Luna. It's been really tough. I've been trying to distract myself with work and hobbies, but it only works for a little while. The hardest part is that I feel like I'm just going through the motions. I haven't really found much comfort, and I worry that I'm pushing people away because I'm so withdrawn. It's hard to let them in when I feel so vulnerable.",
+    "therapist": "I can really hear how much you're struggling, and it's okay to feel this way. It's natural to seek distractions, but it's also tough when they don't provide lasting relief. It sounds like you're carrying a heavy burden, and it's okay to let others in and share your vulnerability. How do you think you might start to open up to those around you, even in small ways?",
     "condition": "baseline",
-    "val_t": -0.13433218002319336,
-    "aro_t": 0.14341163635253906,
+    "val_t": -0.16726481914520264,
+    "aro_t": 0.14536452293395996,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It's just really hard to know where to start or how to bring it up. I worry they'll either dismiss my feelings or get upset themselves, which would just make everything more complicated. I guess I'm not sure how to prepare for that kind of conversation.",
-    "therapist": "It's completely understandable to feel uncertain about how to start such a sensitive conversation. It's normal to worry about how others will react, but remember that your feelings are valid and important. One approach could be to choose a quiet, calm moment to share your thoughts with someone you trust, perhaps starting with how you've been feeling and what you need from them. What do you think might be the first thing you'd want to say to them, or who do you think might be the best person to start with?",
+    "client": "I appreciate your understanding, Luna. It's just hard to know how to start opening up. I worry that if I do, it might make things even more awkward or bring up sad memories for everyone else. Maybe I could try talking to one close friend about how I'm feeling, but I'm not sure if that will make a difference. What do you think?",
+    "therapist": "It's completely understandable to worry about how opening up might affect others, and it's a sign of your thoughtfulness. Starting with one close friend is a gentle and manageable step. It can be a way to ease into sharing your feelings and seeing how it feels to let someone in. What do you think might be the hardest part of talking to your friend, and how could you prepare yourself for that conversation?",
     "condition": "baseline",
-    "val_t": -0.10845088958740234,
-    "aro_t": 0.12417888641357422,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate your suggestions, Luna. It's just really hard for me to think about opening up because I feel like I've been let down before. I worry that if I share how I'm feeling, they might not understand or might even judge me. I guess I'm not sure who would be the best person to talk to about this.",
-    "therapist": "I understand how past experiences can make it hard to trust that others will be supportive, and it's completely valid to have those concerns. It's important to choose someone you feel safe with, even if it's just a small step. Sometimes, starting with a neutral or less emotionally charged topic can help ease into the conversation. Who do you feel might be the most understanding and supportive listener, even if it's just someone to start with?",
-    "condition": "baseline",
-    "val_t": -0.05160629749298096,
-    "aro_t": 0.09596872329711914,
+    "val_t": -0.008823871612548828,
+    "aro_t": 0.04677999019622803,
     "text_emotion": "Neutral"
   },
   {
+    "turn": 4,
+    "client": "I think the hardest part will be finding the right words to express how I'm feeling without breaking down. I also worry that my friend might not know how to respond, which could make things more uncomfortable. I guess I could write down some key points I want to share beforehand to help me stay focused and clear. But I'm still nervous about how it will go.",
+    "therapist": "It's really brave of you to consider taking that step, and writing down key points is a great strategy to help you feel more prepared and focused. It's normal to feel nervous, but remember that your friend likely cares about you deeply and wants to understand and support you. How do you think you might handle any awkward moments or your friend's reactions, and what might you say to yourself to stay grounded during the conversation?",
+    "condition": "baseline",
+    "val_t": -0.14850950241088867,
+    "aro_t": 0.13983631134033203,
+    "text_emotion": "Angry"
+  },
+  {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just really hard to find someone who gets it, you know? I feel like everyone I talk to ends up judging me or giving advice that doesn't really fit. It's hard to open up when I feel like I might be misunderstood again.",
-    "therapist": "I completely understand how challenging it can be to find someone who truly gets what you're going through. It's natural to feel hesitant to open up when past experiences have made you feel misunderstood or judged. It might be helpful to reflect on what kind of support you're looking for and perhaps share that specific need with someone you trust. Is there anyone in your life, even a friend or a family member, who has shown a bit more understanding in the past, or is there someone new you could consider reaching out to?",
+    "client": "I appreciate your encouragement, Luna. I think if things get awkward, I might just take a deep breath and remind myself that it's okay to feel this way. I could say something like, \"This is really hard for me, but I appreciate you listening.\" It's just that I'm still nervous about how my friend will react and whether they'll really understand.",
+    "therapist": "You're doing a great job thinking this through, and those are excellent strategies to help you stay centered. It's natural to be nervous, but reminding yourself that it's okay to feel this way and expressing that to your friend can create a safe space for both of you. How do you think you might support yourself after the conversation, regardless of how it goes, to help you process and take care of yourself?",
     "condition": "baseline",
-    "val_t": -0.1488417387008667,
-    "aro_t": 0.1505643129348755,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate your understanding, Luna. It's just hard for me to think about opening up to someone else when I've felt so misunderstood in the past. I'm not sure if there's anyone who really gets it, and I worry that trying to explain everything again will just make me feel more isolated. It's a bit overwhelming to think about.",
-    "therapist": "I can absolutely understand how overwhelming and isolating it feels to think about opening up again, especially after feeling misunderstood in the past. It's important to take your time and not rush into anything that doesn't feel right. Sometimes, writing down your feelings or even speaking to a neutral party, like a therapist, can be a way to process and maybe gain some clarity. What do you think might be a small step you could take to start feeling a bit more supported, even if it's just for yourself?",
-    "condition": "baseline",
-    "val_t": -0.16383516788482666,
-    "aro_t": 0.11615753173828125,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate that, Luna. It does feel overwhelming, and I'm not sure if writing down my feelings would really help. It's hard because I've tried journaling before, and it just made me feel more stuck in my thoughts. I guess I'm just not sure what a small step would look like for me right now.",
-    "therapist": "I understand that journaling hasn't been helpful for you in the past, and it's important to find a method that feels right for you. Sometimes, small steps can be as simple as taking a moment to acknowledge your feelings and giving yourself permission to feel them without judgment. It could also be something like taking a short walk or engaging in a calming activity that you enjoy. What do you think might be a small, manageable step that could help you feel a bit more grounded or supported right now?",
-    "condition": "baseline",
-    "val_t": 0.008745551109313965,
-    "aro_t": 0.1554582118988037,
+    "val_t": 0.02608513832092285,
+    "aro_t": 0.19463670253753662,
     "text_emotion": "Tense"
   },
   {
-    "turn": 8,
-    "client": "I appreciate that, Luna. I think acknowledging my feelings without judgment sounds good in theory, but it's really hard for me to do in practice. I tend to spiral into overthinking and self-criticism. Taking a walk or doing something calming might help, but it's hard to make myself do those things when I'm feeling really anxious or guilty.",
-    "therapist": "I understand how challenging it can be to break that cycle of overthinking and self-criticism, and it's completely valid to struggle with putting these ideas into practice. It's okay to find it hard, and it's a process. Sometimes, setting a very small, specific goal can make it feel more manageable, like taking just a few minutes to step outside or do a short breathing exercise. How do you think you might be able to make that small step a bit easier for yourself, even if it's just for a short moment?",
+    "turn": 6,
+    "client": "Thanks, Luna. After the conversation, I might need some time to myself to process everything. Maybe I could do something soothing like taking a walk or listening to calming music. I just hope it helps me feel a bit lighter, even if it's just for a little while.",
+    "therapist": "Those are wonderful ways to take care of yourself after a difficult conversation. Taking a walk or listening to calming music can really help you reconnect with yourself and find some peace. How do you think you might acknowledge and validate your feelings after talking to your friend, and what might you say to yourself to reinforce that it's okay to feel the way you do?",
     "condition": "baseline",
-    "val_t": -0.17239713668823242,
-    "aro_t": 0.055632948875427246,
-    "text_emotion": "Sad"
+    "val_t": 0.1948026418685913,
+    "aro_t": 0.037053585052490234,
+    "text_emotion": "Happy"
+  },
+  {
+    "turn": 7,
+    "client": "I think after the conversation, I might tell myself, \"It's okay to feel this way, and it's brave of me to share my feelings.\" It's important to remind myself that my grief is valid and that opening up is a step toward healing, even if it's tough. I just hope I can be kind to myself and not judge my emotions too harshly.",
+    "therapist": "That's a beautiful and compassionate way to support yourself, and I'm proud of you for finding those words. Reminding yourself that your grief is valid and that sharing is a brave step can really help you navigate this challenging time. How do you think you can continue to practice this kindness and self-compassion in other areas of your life, even in the smaller moments?",
+    "condition": "baseline",
+    "val_t": 0.0061827898025512695,
+    "aro_t": 0.0721365213394165,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think I can try to be more mindful of my thoughts and feelings throughout the day, maybe by keeping a journal to write down moments when I feel overwhelmed or lonely. It's hard because I often criticize myself for not coping better, but I'll try to catch those negative thoughts and replace them with kinder, more understanding ones. It's a process, and I know it won't happen overnight, but I'm willing to give it a shot.",
+    "therapist": "That's a fantastic approach, and I'm really impressed by your willingness to take this step. Keeping a journal can be a powerful tool for gaining insight and managing your emotions. It's completely normal to have critical thoughts, but catching and gently challenging them is a key part of the process. How do you think you might reward yourself for the small steps you take each day, even when things feel tough?",
+    "condition": "baseline",
+    "val_t": 0.10187363624572754,
+    "aro_t": 0.05431985855102539,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you're suggesting small steps, but I still find it really hard to motivate myself to do even those small things. It feels like the anxiety and guilt just weigh me down, and I end up convincing myself that it won't make a difference. How can I push past that feeling of futility?",
-    "therapist": "I completely understand how the weight of anxiety and guilt can make even small steps feel incredibly daunting. It's common to feel like nothing will make a difference, but it's important to remember that every small action can still have an impact, even if it's not immediately apparent. One approach could be to focus on the process rather than the outcome, and to gently remind yourself that taking care of yourself, even in small ways, is a valuable act of self-compassion. What do you think might be a kind and gentle way to motivate yourself, even when the anxiety feels overwhelming?",
+    "client": "I like the idea of rewarding myself, but it can be hard to feel motivated when I'm feeling down. Maybe I could treat myself to something small, like a favorite snack or a relaxing bath, after I write in my journal or have a tough conversation. It might help me feel a bit better and give me something to look forward to.",
+    "therapist": "That's a wonderful idea, and it's a great way to create positive reinforcement for your efforts. Treating yourself to small pleasures can definitely help boost your mood and give you something to look forward to. What are some other small things you enjoy that you might incorporate into your routine to help lift your spirits?",
     "condition": "baseline",
-    "val_t": -0.235772967338562,
-    "aro_t": 0.1889944076538086,
-    "text_emotion": "Angry"
+    "val_t": 0.15905547142028809,
+    "aro_t": 0.10303628444671631,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I appreciate your understanding, but it's hard for me to see how small steps can make a difference when the anxiety feels so overpowering. It's like I'm stuck in a fog, and everything seems futile. I worry that even trying to take care of myself might just make me feel more overwhelmed and guilty. How do I break through that?",
-    "therapist": "I can see how overwhelming and frustrating it must feel to be stuck in that fog of anxiety and guilt. It's completely understandable to feel like nothing will make a difference. One approach could be to focus on self-compassion and gentle self-care, even if it's just for a few moments. Sometimes, acknowledging that it's okay to feel stuck and giving yourself permission to not have all the answers can be a start. What do you think might be a small, kind gesture you could offer yourself today, even if it's just a moment of self-acknowledgment or a brief break from the overwhelming feelings?",
+    "client": "I really like the idea of incorporating more small joys into my routine. I enjoy reading, so maybe I could set aside some time each evening to read a few chapters of a good book. I also love watching comedies, so maybe I could watch an episode of a funny show to lift my mood. It's hard to find the motivation sometimes, but I think these small things could make a difference.",
+    "therapist": "Those are fantastic ideas, and it's great to see you thinking about ways to incorporate more joy into your routine. Reading and watching comedies are wonderful ways to give yourself a mental break and lift your spirits. How do you think you might make these activities a regular part of your routine, and what might help you stay committed to them, even on tough days?",
     "condition": "baseline",
-    "val_t": -0.27762532234191895,
-    "aro_t": 0.23621070384979248,
-    "text_emotion": "Angry"
+    "val_t": 0.30947017669677734,
+    "aro_t": 0.19430291652679443,
+    "text_emotion": "Excited"
   }
 ]

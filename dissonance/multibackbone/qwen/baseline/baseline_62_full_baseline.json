@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, it's been really tough lately. Ever since my grandmother passed away last month, I've been feeling so sad and it's really affecting my concentration at work. I keep thinking about her all the time, and it's hard to focus on anything else. I'm not even sure if talking about it will help, but I'm here and I'm trying.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandmother and the tough time you're having. It's completely understandable that you're feeling this way, and it's okay to need space to grieve and process. How have you been coping with these feelings, and are there any moments when you find it a bit easier to focus?",
+    "client": "Hi Luna, it's been really tough lately. After losing my grandmother last month, I've been feeling really sad and it's hard to concentrate at work. I keep thinking about all the moments we shared, and it’s just so overwhelming. I’m not sure if talking about it will really help, but I’m trying to be open to it.",
+    "therapist": "Hi there, I'm so glad you reached out today. It sounds like you're carrying a lot of sadness and it's completely understandable given what you've been through. Losing someone we love can be incredibly overwhelming. How have you been coping with these feelings of sadness and the difficulty concentrating at work?",
     "condition": "baseline",
-    "val_t": -0.12866783142089844,
-    "aro_t": 0.16837596893310547,
-    "text_emotion": "Angry"
+    "val_t": -0.0010248422622680664,
+    "aro_t": 0.16533637046813965,
+    "text_emotion": "Tense"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to keep busy with work, but it's hard to focus sometimes. I find it a bit easier when I'm with my family, but even then, I feel a lot of guilt for not being able to do more for my grandmother when she was alive.",
-    "therapist": "I can see how much you care about your grandmother and your family. It's natural to feel guilt, especially when we reflect on our relationships with loved ones who have passed. Can you tell me more about what you think you could have done differently, and how those thoughts make you feel?",
+    "client": "Thanks, Luna. It's been really hard to cope. I’ve been trying to stay busy, but it feels like no matter how much I do, the sadness just won’t go away. I’ve also been having trouble sleeping, which makes it even harder to focus at work. I don’t know if there’s a way to make it better or if I’m just stuck feeling like this.",
+    "therapist": "I can hear how much you're struggling, and it's completely normal to feel this way after such a significant loss. Staying busy can be a way to cope, but it's also okay to allow yourself to feel the sadness. It might be helpful to explore some strategies to manage the sadness and improve your sleep. Have you tried any specific techniques or activities that have brought you some comfort or relief, even if just a little?",
     "condition": "baseline",
-    "val_t": -0.14169085025787354,
-    "aro_t": 0.05811619758605957,
-    "text_emotion": "Sad"
+    "val_t": -0.2787131071090698,
+    "aro_t": 0.11679971218109131,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I keep thinking about all the times I could have called her more or visited more often. It feels like I let her down, and now it's too late to make it right. These thoughts just weigh so heavily on me, and I can't shake the guilt.",
-    "therapist": "It sounds incredibly沉重 and painful to be carrying this guilt, and it's clear how much you valued your relationship with your grandmother. It's natural to look back and wish we could have done more, but it's also important to remember the love and care you did show her. Can you think of any moments where you feel proud of how you supported her, or times when she expressed how much she appreciated you?",
+    "client": "I’ve tried talking to a few friends, but it feels like they don’t really understand what I’m going through. I’ve also been listening to music that reminds me of my grandmother, which helps a little, but not enough. I don’t know if there’s anything else that can really make a difference right now. It feels like the sadness is just a part of me now.",
+    "therapist": "It sounds like you’ve been reaching out in ways that feel meaningful to you, and it’s understandable that you might feel like others don’t fully understand. Listening to music that reminds you of your grandmother is a beautiful way to honor her memory. It’s okay to feel like the sadness is a part of you right now; grief can be a long and complex journey. Have you considered exploring other activities or rituals that might help you process your feelings, even in small ways? Sometimes, finding new outlets can offer some comfort and a sense of connection.",
     "condition": "baseline",
-    "val_t": -0.38509583473205566,
-    "aro_t": 0.10219299793243408,
+    "val_t": -0.2132282257080078,
+    "aro_t": 0.08442997932434082,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I really appreciate you saying that, Luna. It's hard to think about the positive moments sometimes because the guilt feels so overwhelming. But, I do remember when I helped her move into her new apartment, and she said how much it meant to her. It's just hard to hold onto those memories when I feel like I could have done more.",
-    "therapist": "I can understand how overwhelming the guilt can feel, and it's wonderful that you were able to recall such a meaningful moment. It sounds like that experience was deeply significant for both of you. How does it feel to reflect on that memory? Does it bring any sense of comfort or pride, even amidst the guilt?",
+    "client": "I appreciate that, Luna. I’ve thought about trying other activities, but it feels hard to find the motivation. It’s like everything I try just reminds me of what I’ve lost. I don’t know if I have the energy to explore new things right now. It feels safer to just stay in my routine, even if it’s not the most comforting.",
+    "therapist": "I completely understand how you feel. It’s natural to stick to your routine when everything feels so uncertain and painful. Finding the motivation to try new things can be incredibly challenging, especially when they remind you of what you’ve lost. It’s okay to take things one step at a time. Have you considered small, gentle changes to your routine that might feel a bit more manageable, like a short walk in nature or trying a new recipe? Sometimes, even the smallest shifts can make a difference. What do you think might feel doable for you right now?",
     "condition": "baseline",
-    "val_t": -0.04407012462615967,
-    "aro_t": 0.1306617259979248,
+    "val_t": 0.0024346113204956055,
+    "aro_t": 0.0623701810836792,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "It does bring some comfort, but the guilt still feels heavy. I know that moment was special, but I can't help thinking about all the times I could have done more for her. It's hard to let go of those thoughts, even when I try to focus on the good memories.",
-    "therapist": "It's completely understandable that the guilt is still weighing on you, and it's okay to feel that way. It's a sign of how much you cared for her. At the same time, it might be helpful to explore whether there's a way to balance those thoughts with the positive memories and the impact you did have. What do you think might help you feel a bit more at peace with the memories of your time together?",
+    "client": "I hear what you’re saying, Luna, and I appreciate the suggestions. It’s just hard to imagine that something like a short walk or a new recipe will make a difference. I know it’s supposed to be a small step, but it feels like even those small things are out of reach right now. I don’t want to push myself too hard and end up feeling worse.",
+    "therapist": "I totally understand where you’re coming from, and it’s completely valid to feel that way. Grief can make even the smallest tasks feel overwhelming. It’s important to listen to your body and not push yourself too hard. Maybe we can focus on finding some gentle ways to support yourself that don’t feel like a stretch. What are some things you used to enjoy or that brought you a sense of peace, even if they seem small or simple? It could be something like reading a few pages of a book or spending a few minutes in quiet reflection. How does that feel to you?",
     "condition": "baseline",
-    "val_t": 0.02943110466003418,
-    "aro_t": 0.046337127685546875,
-    "text_emotion": "Neutral"
+    "val_t": 0.030922651290893555,
+    "aro_t": 0.15102577209472656,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, but it's hard to see the positive when I feel like I could have done more. I keep replaying the moments where I think I let her down. It's tough to find a balance when the guilt is so overwhelming. How do I even start to shift my focus to the good things?",
-    "therapist": "I can see how challenging it is to shift your focus when the guilt feels so strong. It's a process, and it's okay to take it one step at a time. One approach might be to gently challenge those thoughts by asking yourself what evidence supports the idea that you let her down, and what evidence might suggest that you did your best. What do you think might be a small step you can take to start acknowledging the positive moments, even just a little bit?",
+    "client": "I appreciate your understanding, Luna. I used to love reading, but it’s been hard to focus on a book lately. I do find that spending a few minutes in quiet reflection can be calming, though. I think I could try that more often, even if it’s just for a few minutes each day. It feels more manageable than trying to do something new.",
+    "therapist": "That’s a great insight, and I’m glad you found something that feels manageable. Starting with quiet reflection can be a gentle way to support yourself and create a bit of calm in your day. It’s okay if reading is challenging right now; you can always return to it when you feel ready. How about setting aside a specific time each day for your reflection? Maybe picking a quiet moment in the morning or evening could help make it a regular part of your routine. How does that feel to you?",
     "condition": "baseline",
-    "val_t": -0.13553011417388916,
-    "aro_t": 0.08102595806121826,
-    "text_emotion": "Angry"
+    "val_t": 0.13625848293304443,
+    "aro_t": 0.03173172473907471,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, and I really do want to feel better, but it's hard. When I think about the times I felt like I let her down, those moments feel so real and overwhelming. It's tough to find the positive when the guilt is so strong. How do I even start to look for those positive moments without feeling like I'm lying to myself?",
-    "therapist": "I completely understand how overwhelming those feelings can be, and it's okay to take it slowly. It's not about lying to yourself, but rather about finding a more balanced perspective that includes both the moments of regret and the positive times you shared. One small step could be to write down one or two positive memories each day, even if they feel small. How does that feel to you, and do you think it might help to start with something like that?",
+    "client": "I like the idea of setting aside a specific time for reflection, Luna. I think doing it in the evenings might work best for me, after the busyness of the day. It feels doable, but I’m a bit worried that I might struggle to stick to it consistently. I’ll give it a try, though, and see how it goes.",
+    "therapist": "That’s a great plan, and I’m glad you found a time that feels doable for you. It’s completely normal to have concerns about consistency, especially when you’re dealing with so much. Starting small and being gentle with yourself is key. Maybe you can begin by committing to just a few minutes each evening and see how it goes. How do you think you can remind yourself to take this time for reflection, especially on days when it feels harder?",
     "condition": "baseline",
-    "val_t": -0.22065412998199463,
-    "aro_t": 0.2091306447982788,
-    "text_emotion": "Angry"
+    "val_t": 0.03307366371154785,
+    "aro_t": 0.028119921684265137,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate your suggestion, Luna, but it feels like a bit of a stretch right now. I understand the idea of balancing perspectives, but when I'm in a really low place, those positive memories often feel distant and hard to grasp. It's hard to see the good when the guilt and regret are so heavy.",
-    "therapist": "I completely understand, and it's totally valid to feel that way, especially when you're in a low place. It's okay to take your time and not force anything. Sometimes just acknowledging how you feel can be a step in the right direction. What do you think might be a gentle way to start connecting with those positive memories, even if it feels like a small step? Maybe there's a photo or a memento that brings a bit of comfort when you look at it?",
+    "client": "I think setting a reminder on my phone might help, Luna. It’s a small nudge that could make a difference, especially on the tougher days. I’m still a bit skeptical about how much it will help, but I’m willing to give it a try. It’s just hard to imagine anything making this pain go away.",
+    "therapist": "Setting a reminder is a great idea, and it’s a practical way to help you stay consistent. It’s completely understandable to feel skeptical, and it’s okay to acknowledge that the pain is deep and won’t disappear quickly. Small steps like this can still be meaningful and supportive, even if they don’t take away the pain entirely. How do you think you might reflect on your experience after a week or so, to see if it’s making any difference, even in small ways?",
     "condition": "baseline",
-    "val_t": -0.14376699924468994,
-    "aro_t": 0.009115219116210938,
+    "val_t": 0.008008360862731934,
+    "aro_t": 0.10695946216583252,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just hard to find the motivation to connect with those positive memories when I feel so weighed down by everything else. I do have a photo of a trip I took with my friends a few years ago that always makes me smile, but it's hard to look at it without feeling guilty for not being in a better place right now.",
-    "therapist": "I understand how difficult it can be to find the motivation, especially when you're feeling weighed down. It's okay to have those mixed feelings, and it's natural to feel a bit of guilt even when something brings you a smile. Maybe you could start by allowing yourself to look at that photo and just notice the feelings it brings up, without judgment. How does it feel to give yourself permission to experience a moment of joy, even if it's small?",
+    "client": "I think I’ll try to journal a bit after my reflection time each evening. Writing down how I feel might help me see if there are any small changes or moments of peace that I might not notice otherwise. It’s a bit daunting, but I’m willing to give it a shot.",
+    "therapist": "That’s a wonderful idea, and I’m really impressed by your willingness to try journaling. Writing down your thoughts and feelings can be a powerful way to process and gain new insights. It’s okay if it feels daunting at first; you can start with just a few sentences each evening. Over time, you might notice subtle shifts or moments of peace that you wouldn’t have recognized otherwise. How do you feel about setting a goal to write just a little each evening, and perhaps reflecting on how it goes after a week?",
     "condition": "baseline",
-    "val_t": -0.09085321426391602,
-    "aro_t": 0.12512099742889404,
-    "text_emotion": "Angry"
+    "val_t": 0.08634328842163086,
+    "aro_t": 0.04310786724090576,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate you saying that, Luna. It's just hard to let myself feel happy when I have so much guilt and anxiety weighing on me. I worry that if I allow myself to feel joy, I'll be ignoring all the things I feel bad about. It's a bit overwhelming to think about.",
-    "therapist": "I completely understand that feeling, and it's very normal to worry about allowing yourself to feel joy when you're carrying so much guilt and anxiety. It's a delicate balance, and it's okay to take it slowly. Perhaps you could try allowing yourself just a small moment of happiness, without expecting it to erase the difficult feelings. How does it feel to give yourself permission to experience a little bit of joy, even if it's just for a short time?",
+    "client": "I appreciate your encouragement, Luna. I think setting a goal to write a little each evening sounds manageable. I’m still a bit nervous about it, but I’ll give it a try and see how it goes. I’ll let you know how it feels after a week.",
+    "therapist": "I’m so glad you’re willing to give it a try, and it’s totally normal to feel a bit nervous about it. Taking that first step is a significant accomplishment in itself. Writing a little each evening can be a gentle and meaningful way to explore your feelings and track your progress. I’m here to support you, and I’d love to hear how it goes after a week. How do you feel about setting aside a specific spot or notebook just for this journaling, to make it feel more special and intentional?",
     "condition": "baseline",
-    "val_t": -0.041538357734680176,
-    "aro_t": 0.3116111755371094,
-    "text_emotion": "Tense"
+    "val_t": 0.15848612785339355,
+    "aro_t": 0.11989748477935791,
+    "text_emotion": "Excited"
   }
 ]

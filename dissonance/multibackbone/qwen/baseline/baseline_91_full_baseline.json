@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. Every time I visit my grandmother's favorite coffee shop, I feel completely overwhelmed with sadness. I know it's been a month, but I can't seem to shake these intense feelings, and I'm not sure if coming to therapy will even help.",
-    "therapist": "Hi there, I'm so glad you reached out. It's completely understandable to feel overwhelmed with sadness, especially in places that remind you of your grandmother. It's a sign of how much you cared for her. What do you think might be going through your mind when you visit the coffee shop?",
+    "client": "Hey Luna, I've been really struggling lately. Every time I visit my grandmother's favorite coffee shop, I get overwhelmed with sadness. I know it's been a month, but I can't seem to shake the feeling, and I'm not sure if talking about it will even help.",
+    "therapist": "I'm so sorry to hear that you're struggling with these feelings, and I can imagine how overwhelming it must be to visit a place that holds such special memories. It's completely normal to feel this way, and talking about it can be a step toward understanding and managing those emotions. What do you think might be helpful for you right now, or is there a specific part of these feelings you'd like to explore further?",
     "condition": "baseline",
-    "val_t": -0.28015220165252686,
-    "aro_t": 0.20147430896759033,
+    "val_t": -0.30636322498321533,
+    "aro_t": 0.15772557258605957,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. When I visit the coffee shop, I feel a mix of nostalgia and sadness. I keep thinking about all the times we spent there together, and it just hits me how much I miss her. It's hard to be in those places without feeling a deep sense of loss.",
-    "therapist": "I can see how much those memories mean to you, and it's natural to feel a deep sense of loss. It sounds like the coffee shop is a place filled with important memories. How do you think these visits are affecting your daily life or your ability to cope with her absence?",
+    "client": "I appreciate that, Luna. I guess what's really hard is that this coffee shop was a place where we used to spend so much time together. Every corner reminds me of her, and it feels like I can't escape the sadness. I'm not sure if there's a way to make those memories less painful.",
+    "therapist": "I can understand how deeply those memories are connected to the place and how each reminder can bring up a wave of sadness. It’s natural to feel this way, and it’s okay to take your time with the healing process. Have you found any activities or moments that bring you a sense of comfort or peace, even if just for a short while? How do you think we could start to make those visits a bit easier for you?",
     "condition": "baseline",
-    "val_t": -0.08837258815765381,
-    "aro_t": 0.1294010877609253,
-    "text_emotion": "Angry"
+    "val_t": 0.01961660385131836,
+    "aro_t": 0.11701548099517822,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "Visiting the coffee shop does feel like a double-edged sword. On one hand, it's comforting to be in a place that reminds me of her, but on the other hand, it just makes me feel more alone and sad. I worry that I'm not moving forward, and it's hard to find a balance.",
-    "therapist": "It's completely understandable to feel both comfort and sadness in those moments. It's a sign of the deep connection you had with your grandmother. How do you think you might find a way to honor those memories while also taking care of your emotional well-being?",
+    "client": "That's a good question. I find that listening to music or going for a walk sometimes helps, but it's hard to apply that when I'm in the coffee shop. I don't know if it's even possible to make those visits easier; it feels like the sadness is just too overwhelming.",
+    "therapist": "It’s really helpful to know what brings you some comfort, even if it’s just for a moment. Those small moments of respite are important. It might be worth gently exploring some ways to integrate those comforting activities into your visits to the coffee shop. For example, could you bring a playlist that reminds you of happier times or take a short walk around the block before or after your visit? How do you feel about trying something like that, even as a small experiment?",
     "condition": "baseline",
-    "val_t": -0.24582159519195557,
-    "aro_t": 0.07448232173919678,
+    "val_t": -0.2223583459854126,
+    "aro_t": 0.03932762145996094,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I really appreciate that, Luna. It's just hard because those memories are so bittersweet. I worry that if I try to honor them, I might end up feeling even more sad and lonely. How do I balance that?",
-    "therapist": "I understand that balancing those bittersweet feelings can be really challenging. It's okay to allow yourself to feel both the joy and the sadness of those memories. What do you think might help you feel more supported when you're honoring those memories, or are there small steps you could take to make it a bit easier?",
+    "client": "I see what you're saying, Luna, but I'm not sure if it will make a difference. The sadness is so intense that I worry a playlist or a walk won't be enough to shift how I feel. Plus, it feels like I might be just avoiding the real issue by doing those things.",
+    "therapist": "I completely understand your concerns, and it’s totally valid to feel that way. It’s important to acknowledge the intensity of your emotions and not rush through them. At the same time, small steps like these can sometimes provide a bit of a buffer, allowing you to gradually build up your emotional resilience. What do you think about starting with something very small, like listening to one song or taking a short walk, just to see how it feels? It doesn’t have to be a solution, but it might give you a sense of what helps or doesn’t help, and we can go from there.",
     "condition": "baseline",
-    "val_t": -0.18570411205291748,
-    "aro_t": 0.10018527507781982,
-    "text_emotion": "Angry"
+    "val_t": -0.2643146514892578,
+    "aro_t": 0.10331714153289795,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, but it's hard to feel supported when I'm so used to pushing those feelings away. I guess I could try to talk about these memories with someone, but I worry they won't understand or will just try to cheer me up. It feels like a risk to open up like that.",
-    "therapist": "It's really brave of you to consider opening up, and it's completely valid to have those concerns. Finding someone who can listen without trying to fix or dismiss your feelings is important. Have you thought about who in your life might be able to provide that kind of support, or is there someone you feel a bit more comfortable with?",
+    "client": "I appreciate your understanding, Luna. I guess I can try listening to one song or taking a short walk, but I’m still nervous about it. It feels like a big step, even if it’s a small one, and I’m not sure if I’m ready to face those memories again.",
+    "therapist": "I understand that this feels like a big step, and it’s okay to feel nervous about it. Taking small steps is about finding a balance between facing your feelings and not overwhelming yourself. You don’t have to push yourself too hard, and it’s perfectly fine to take it one step at a time. How does it feel to just consider this small step for now, and what do you think might support you in making this decision?",
     "condition": "baseline",
-    "val_t": -0.10654056072235107,
-    "aro_t": 0.13875925540924072,
-    "text_emotion": "Angry"
+    "val_t": -0.020597219467163086,
+    "aro_t": 0.15837466716766357,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate you saying that, Luna. It's just hard because I feel like I don't really have anyone I can completely trust. My friends are nice, but they always seem to have their own stuff going on, and my family is pretty distant. It feels like everyone is so busy or preoccupied that they don't really get it.",
-    "therapist": "I can really understand how isolating that must feel, and it's completely valid to want a space where you feel fully understood. It's tough when the people around you are dealing with their own challenges. Have you ever considered joining a support group or finding a community where you might meet others who share similar experiences?",
+    "client": "It feels a bit less overwhelming to just consider it, but I'm still not sure if I can actually do it. I think having a specific song that reminds me of happier times might help, but I'm worried that it might not be enough to outweigh the sadness. Maybe if I start with a different place first, a less emotionally charged one, and then gradually work my way up to the coffee shop?",
+    "therapist": "That’s a really thoughtful approach, and it’s great that you’re considering a gradual process. Starting with a less emotionally charged place can be a good way to build your confidence and resilience. It might help you prepare for the more challenging visits to the coffee shop. What do you think about choosing a place to start, and how does it feel to imagine taking that first step?",
     "condition": "baseline",
-    "val_t": -0.08931994438171387,
-    "aro_t": 0.06766617298126221,
+    "val_t": -0.08776557445526123,
+    "aro_t": 0.0646355152130127,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate the suggestion, but I don't think it will work for me. I've tried joining groups before, and it always feels like I'm just going through the motions. Plus, it's hard to open up to strangers when I already struggle with trust and feeling understood.",
-    "therapist": "I completely understand that joining a group might not feel right for you, and it's okay to honor your feelings about that. It's really important to find a way to connect that feels authentic and safe for you. What are some other ways you might explore expressing or processing these feelings, even if it's in a more private or individual way?",
+    "client": "I like the idea of starting with a less emotionally charged place. It feels more manageable and less daunting. I think I could try visiting a park where we sometimes went, but it wasn’t as significant to us. It might help me get used to the idea of facing these places again.",
+    "therapist": "That sounds like a really good plan, and I’m glad you found a starting point that feels more manageable. Visiting the park can be a gentle way to begin this process and help you build up your confidence. How do you feel about setting a specific time to visit the park, and what do you think might be helpful to bring with you or do while you’re there to make it a more positive experience?",
     "condition": "baseline",
-    "val_t": -0.14012086391448975,
-    "aro_t": 0.0677567720413208,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I hear you, and I do appreciate your understanding. It's just that group settings make me so anxious, and I worry I won't be able to open up. Maybe I could try writing more in my journal or even start a blog where I can share my thoughts anonymously. Do you think that could help me feel more connected?",
-    "therapist": "That's a great idea, and it sounds like a thoughtful way to explore your feelings in a safe and controlled environment. Writing can be a powerful tool for processing and can help you gain clarity. How do you think journaling or blogging might help you feel more connected or provide some relief?",
-    "condition": "baseline",
-    "val_t": 0.09329080581665039,
-    "aro_t": 0.08524429798126221,
+    "val_t": 0.09304177761077881,
+    "aro_t": 0.0671393871307373,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 9,
-    "client": "I appreciate the suggestion, but I'm not sure if writing will really help me. I feel like my thoughts are so jumbled, and putting them down on paper might just make me more anxious. It's hard to see how this will actually make me feel less lonely or guilty.",
-    "therapist": "I understand that the idea of writing might feel overwhelming, especially when your thoughts feel jumbled. It's okay to try different approaches and see what works best for you. What do you think about starting with just a few minutes a day, maybe jotting down a few thoughts or feelings without worrying too much about making them perfect? How does that feel to you?",
+    "turn": 8,
+    "client": "I think setting a specific time to visit the park sounds like a good idea. I might bring a book or a journal to keep me occupied and give me something to focus on if the memories start to feel overwhelming. It’s still a bit scary, but I think it’s a step in the right direction.",
+    "therapist": "That’s a great plan, and bringing a book or journal is a thoughtful way to give yourself some focus and a sense of control. It’s completely normal to feel a bit scared, but taking this step shows a lot of courage. How do you feel about the idea of reflecting on your experience afterward, perhaps jotting down your thoughts in your journal? This can help you process your feelings and see any progress you might be making.",
     "condition": "baseline",
-    "val_t": -0.16702616214752197,
-    "aro_t": 0.02840101718902588,
-    "text_emotion": "Sad"
+    "val_t": 0.1665560007095337,
+    "aro_t": 0.11315500736236572,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "Reflecting on my experience in the journal sounds like a good idea, but I worry that I might not be able to find the right words or that it might bring up more sadness. I’ll try it, though, and see how it goes. It’s hard to know what to expect, but I’m willing to give it a shot.",
+    "therapist": "It’s completely understandable to worry about finding the right words or feeling more sadness, and it’s okay to take it one step at a time. Journaling can be a helpful tool, even if it’s just a few sentences or a few words that capture how you feel. You might find that it helps you process your emotions in a different way. How does it feel to try this, and is there anything specific you’d like to focus on or keep in mind as you start this process?",
+    "condition": "baseline",
+    "val_t": 0.05545032024383545,
+    "aro_t": 0.06246078014373779,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I see what you mean, and I appreciate the suggestion. It's just that when I try to write, I feel like I'm not doing it right, and that just adds to my anxiety. I worry that even a few minutes might end up feeling like a chore.",
-    "therapist": "I completely understand that the pressure to \"do it right\" can add to your anxiety. It's important to find an approach that feels manageable and not like a chore. What if we tried a more structured but gentle approach, like writing down one thing you're grateful for or one small positive moment from your day? How does that feel to you?",
+    "client": "I appreciate your support, Luna. It feels a bit daunting, but I think focusing on how I feel in the moment and maybe writing down a few key thoughts could be helpful. I’ll try to be gentle with myself and not expect too much, just see what comes up.",
+    "therapist": "I’m so glad to hear that you’re feeling supported, and it’s great that you’re approaching this with a sense of gentleness and openness. Focusing on how you feel in the moment and writing down a few key thoughts is a wonderful way to start. Remember, there’s no right or wrong way to do this, and it’s all about exploring what works best for you. How do you feel about setting a specific time for your visit to the park, and is there anything else you’d like to prepare or think about before you go?",
     "condition": "baseline",
-    "val_t": -0.09541201591491699,
-    "aro_t": 0.15829527378082275,
-    "text_emotion": "Angry"
+    "val_t": 0.13588476181030273,
+    "aro_t": 0.08537900447845459,
+    "text_emotion": "Excited"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just don't see the point in doing anything anymore. Everything reminds me of my partner, and when I try to do things we used to enjoy together, it just makes the loneliness worse. Part of me wants to believe therapy can help, but another part thinks maybe this pain is just something I have to live with now.",
-    "therapist": "I hear how deeply you're hurting, and how everything feels connected to the loss of your partner right now. It makes sense that familiar activities would bring up painful reminders when you're grieving. What would it feel like to explore new activities that aren't tied to those shared memories?",
+    "client": "Lately, I’ve just been feeling so empty and unmotivated. Ever since my partner passed away three months ago, everything I used to enjoy feels meaningless. I keep trying to push myself to do things, but it’s like I’m just going through the motions without any real joy. Honestly, I’m not sure if therapy can even help with something like this—it feels like this loss is just too big to overcome.",
+    "therapist": "I hear how deeply this loss has affected you, and it makes complete sense that activities you once enjoyed might feel hollow right now. Grief can make even simple tasks feel overwhelming—would you be willing to share what a typical day looks like for you now compared to before?",
     "condition": "baseline",
-    "val_t": -0.2050638198852539,
-    "aro_t": 0.0637286901473999,
-    "text_emotion": "Sad"
+    "val_t": -0.3686094284057617,
+    "aro_t": 0.15714681148529053,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I get what you're saying about trying new things, but honestly the idea just makes me feel more alone. Everything feels empty without them, and doing something new just reminds me that they're not here to share it with me. Even small things like trying a new coffee shop just make the loneliness sharper.",
-    "therapist": "That emptiness you're describing sounds so heavy to carry, and I can hear how even small attempts feel like they amplify the loss rather than help. The pain is real, and it's okay that new experiences feel raw right now. Would you be willing to explore what kind of support might make those first steps feel slightly less overwhelming?",
+    "client": "Before, my days had a rhythm—I’d wake up, make breakfast with my partner, go to work, and come home to spend time together. Now, I barely get out of bed most mornings. I drag myself through work, and when I come home, the silence feels suffocating. It’s hard to imagine how anything could feel normal again.",
+    "therapist": "It sounds like the absence of those shared routines has left a profound void in your daily life. What comes up for you when you imagine trying one small, comforting routine—maybe making breakfast just for yourself—even if it feels different now?",
     "condition": "baseline",
-    "val_t": -0.18884670734405518,
-    "aro_t": 0.04139220714569092,
-    "text_emotion": "Sad"
+    "val_t": -0.12599217891693115,
+    "aro_t": 0.10372769832611084,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I don't know what kind of support would help, honestly. Every time I try to reach out to friends, I just end up feeling more alone because they don't really get it. Even when they try to be supportive, their lives seem so normal compared to this emptiness I'm carrying around.",
-    "therapist": "It sounds like you're experiencing a painful gap between what others can offer and the depth of what you're feeling inside. That isolation when people don't fully understand can make the loneliness feel even more profound. What do you imagine might help bridge that gap between your experience and what others are able to provide?",
+    "client": "Just thinking about making breakfast alone makes my chest feel tight. It’s not just about the food—it’s that I can still hear their laughter in the kitchen, you know? Part of me knows I should try, but another part feels like I’d just be pretending things are okay when they’re not.",
+    "therapist": "Those contrasting feelings—knowing you \"should\" try while feeling like it would be pretending—show how complex grief can be. Would it feel different if you thought of making breakfast not as moving on, but as a way to honor those memories while caring for yourself in this moment?",
     "condition": "baseline",
-    "val_t": -0.2188032865524292,
-    "aro_t": 0.06270337104797363,
-    "text_emotion": "Sad"
+    "val_t": 0.009400725364685059,
+    "aro_t": 0.23213398456573486,
+    "text_emotion": "Tense"
   },
   {
     "turn": 4,
-    "client": "I don’t know what would bridge that gap. It feels like no matter how much I try to explain, people just don’t get it, or they offer quick fixes that don’t help. I guess I feel like I’m speaking a language no one else understands, and it makes me wonder if I’m just too different or if I’m the problem.",
-    "therapist": "That sense of being fundamentally misunderstood can be so isolating, and I hear how frustrating it feels when well-meaning responses miss the mark. You're not the problem - grief often creates this profound disconnect that's hard for others to grasp unless they've been there. What would it feel like to explore ways to honor your unique experience without needing others to fully understand it?",
+    "client": "I never thought about it that way—as an act of honoring instead of moving on. That actually makes me tear up a little. But what if I just start crying in the middle of making eggs? That thought scares me, like I might fall apart completely if I let myself do those familiar things.",
+    "therapist": "It's completely understandable that tears might come up—in fact, those emotions showing up during familiar routines shows how deeply you cared. What would it feel like to imagine letting the tears come while you cook, knowing they're part of the love you still carry?",
     "condition": "baseline",
-    "val_t": -0.22624027729034424,
-    "aro_t": 0.13443684577941895,
+    "val_t": -0.3117479085922241,
+    "aro_t": 0.21598994731903076,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "It’s just... I don’t know if I can honor my experience when it feels like everyone else has moved on. I keep hearing things like “time heals” or “they’re in a better place,” but it doesn’t help me feel any less alone. I guess part of me wants people to understand, even if I know they probably can’t. It’s like I’m stuck in this space where I’m grieving, and the world keeps moving without me.",
-    "therapist": "I hear how much you're longing for understanding and validation, and how painful it feels when the world keeps moving while your grief feels frozen in time. Those well-meaning phrases can sometimes feel dismissive rather than comforting, especially when what you really need is space to feel your loss. What would it look like to create moments where your grief feels acknowledged, even if others can't fully understand?",
+    "client": "I guess I've been treating the tears like something to avoid at all costs, like they're dangerous somehow. But if I think about it as love... that changes things. I'm just afraid once I start crying, I won't be able to stop. Like the grief might swallow me whole if I let it out.",
+    "therapist": "That fear of being overwhelmed by grief makes so much sense—it shows how powerfully love and loss are intertwined for you right now. What if we thought about those tears not as an endless flood, but as waves that naturally rise and fall—would that feel any different to consider?",
     "condition": "baseline",
-    "val_t": -0.3131452798843384,
-    "aro_t": 0.09322857856750488,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I understand what you're saying, but it feels impossible to create those moments when everyone around me seems to have moved on. I feel like I’m stuck in this bubble of grief while the world keeps spinning, and it’s isolating. Even when I try to talk about it, people either change the subject or say things like “time will heal,” which just makes me feel more alone.",
-    "therapist": "That bubble of grief you're describing sounds so heavy to carry, especially when it feels like the world around you has moved on while you're still processing such a profound loss. It makes sense that those responses would leave you feeling more isolated rather than supported. What would it feel like to explore ways to honor your grief in your own space and time, without needing others to fully understand?",
-    "condition": "baseline",
-    "val_t": -0.23486101627349854,
-    "aro_t": 0.059832096099853516,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 7,
-    "client": "Honoring my grief on my own sounds... lonely. I know people can’t fully understand what I’m going through, but it feels like they’re not even trying. I want to feel seen and validated, not like I’m just supposed to handle this all by myself. It’s hard to imagine doing it alone without feeling even more disconnected.",
-    "therapist": "I hear how much you're longing for connection and validation in your grief, and how painful it feels when it seems like others aren't making the effort to understand. That sense of being left to handle such a heavy experience alone can feel incredibly isolating. What would it look like to balance honoring your grief in your own way while also finding small moments of connection with those who might be able to offer support, even if it's imperfect?",
-    "condition": "baseline",
-    "val_t": -0.3119295835494995,
-    "aro_t": 0.13705146312713623,
+    "val_t": -0.2988518476486206,
+    "aro_t": 0.25461721420288086,
     "text_emotion": "Angry"
   },
   {
-    "turn": 8,
-    "client": "I understand what you’re saying, but it’s hard to believe anyone really *gets* what I’m going through. Even when people try to connect, it feels like they’re just saying what they think they’re supposed to say, not really understanding the depth of this pain. I don’t want to force connections if they’re not genuine—it just makes me feel more alone.",
-    "therapist": "That sense of disappointment when connections feel surface-level or forced can deepen the loneliness, especially when you're carrying such profound pain. It makes sense that you'd want authentic understanding rather than just well-meaning but empty words. What would genuine connection look like for you right now, even if it's just in small moments?",
+    "turn": 6,
+    "client": "That wave analogy actually helps a little. I grew up near the ocean, so I know waves do come and go... but what if I'm not strong enough to ride them out? Some days it already feels like I'm barely keeping my head above water. Maybe I could try making breakfast one morning when I'm feeling slightly stronger?",
+    "therapist": "It sounds like the ocean analogy resonates with you, and I admire your willingness to consider trying breakfast on a day when you feel a bit more grounded. What would it feel like to remind yourself that it’s okay to step back if the waves feel too intense, knowing you can always try again when you’re ready?",
     "condition": "baseline",
-    "val_t": -0.2917526960372925,
-    "aro_t": 0.06514620780944824,
+    "val_t": 0.08514654636383057,
+    "aro_t": 0.09463584423065186,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "That permission to step back actually makes it feel less scary. I think I've been putting so much pressure on myself to \"get better\" on some timeline. But I still worry—what if those \"stronger days\" never come? It's been three months and some days I feel worse than I did at the beginning.",
+    "therapist": "It's understandable to worry about the timeline of grief—three months can feel like both an eternity and no time at all when your world has changed so deeply. What if we viewed this as less about waiting for \"stronger days\" and more about noticing the subtle shifts in how you experience this pain over time?",
+    "condition": "baseline",
+    "val_t": -0.30842745304107666,
+    "aro_t": 0.10653436183929443,
     "text_emotion": "Sad"
   },
   {
-    "turn": 9,
-    "client": "Genuine connection... I'm not even sure what that looks like anymore. It feels like everyone is just going through the motions, and I can't blame them because I do it too. Maybe it would be someone actually asking how I'm really doing and sticking around to hear the messy answer, not just the \"I'm fine\" I always say. \n\nBut even if someone did that, I don't know if I could open up. It's like there's this wall, and I'm scared if I let it down, they'll see how broken I am inside and walk away. So I stay stuck in this cycle of wanting connection but being too afraid to really let anyone in.",
-    "therapist": "I hear how much you're longing for deeper connection but also how scary it feels to let someone see the vulnerability and pain you're carrying inside. That fear of being seen as \"too broken\" can make it so hard to trust others with your truth. What would it feel like to take one small step toward letting someone in, even just a little, to test the waters and see how it feels?",
+    "turn": 8,
+    "client": "That... that actually makes sense. I have noticed some tiny shifts, like last week when I caught myself smiling at a memory instead of immediately crying. But then I felt guilty for smiling at all. It's so confusing—shouldn't I be getting \"better\" in a straight line instead of this messy back-and-forth?",
+    "therapist": "Those mixed feelings—the smile followed by guilt—show how grief isn't linear at all, but more like learning to carry love and loss together. Could we explore what it might feel like to see that moment as part of healing rather than something to feel guilty about?",
     "condition": "baseline",
-    "val_t": -0.3274405002593994,
-    "aro_t": 0.1719752550125122,
+    "val_t": -0.00557863712310791,
+    "aro_t": 0.11792147159576416,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I want to believe that smiling isn't betraying their memory, but it still feels wrong somehow. Like if I start feeling even a little bit okay, it means I'm forgetting them or loving them less. The guilt comes so fast I can barely catch my breath.",
+    "therapist": "It makes so much sense that joy and grief feel tangled together right now—that's often how deep love shows up after loss. What if we slowed down that moment when guilt arises, and explored what your loved one might say about you finding moments of lightness?",
+    "condition": "baseline",
+    "val_t": -0.23253321647644043,
+    "aro_t": 0.14083492755889893,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "The idea of letting someone in feels terrifying because I’m so used to being misunderstood. What if I open up and they don’t get it, or worse, they judge me? I don’t even know who I’d even try to talk to—most people seem too busy with their own lives to care. It’s hard to imagine taking that step without feeling like I’m burdening someone.",
-    "therapist": "I hear how vulnerable and exposed it feels to consider opening up, especially when you're so used to feeling misunderstood. That fear of being judged or seen as a burden can make it feel safer to keep everything inside, even though it leaves you feeling so alone. What would it feel like to identify one person in your life who might be able to listen without judgment, even if they can't fully \"fix\" what you're going through?",
+    "client": "That question hits me hard. They... they were always the first to make me laugh, even on my darkest days. I can almost hear them saying \"Don't stop living just because I did.\" But then my stomach knots up because that thought makes the loss feel even more real, you know? Like I'm admitting they're really gone.",
+    "therapist": "It sounds like in that moment, you're holding both their wisdom about continuing to live and the piercing reality of missing them—what would it feel like to make space for both truths at once, as painful as that might be?",
     "condition": "baseline",
-    "val_t": -0.37177371978759766,
-    "aro_t": 0.22996485233306885,
-    "text_emotion": "Angry"
+    "val_t": -0.10757553577423096,
+    "aro_t": 0.2784665822982788,
+    "text_emotion": "Tense"
   }
 ]

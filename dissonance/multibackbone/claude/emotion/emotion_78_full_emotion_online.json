@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really dreading this family reunion that's coming up next month, and just thinking about it makes my heart race and my chest tighten. There was this big fallout with my cousin last year and I honestly don't know how to face everyone after that. I'm not even sure talking about it here is going to change anything, but I figured I'd at least try.",
-    "therapist": "It takes real courage to show up and try, even when part of you doubts it'll help — and I'm glad you did. The physical sensations you're describing, that racing heart and chest tightness, tell me this situation carries a lot of weight for you, and that makes complete sense given the fallout with your cousin. I'd love to understand a little more — when you imagine being at that reunion, what's the specific moment or scenario that feels most difficult to face?",
+    "client": "I've been really stressed out lately about this family reunion that's coming up next month. Just thinking about it makes my heart race — like, I can feel my chest tighten and my thoughts start spiraling. I'm not even sure talking about it is going to make it any easier to actually show up there.",
+    "therapist": "It sounds like even just thinking about the reunion brings up a lot of tension in your body, which tells me this feels pretty significant for you. That worry about whether talking will actually help is really understandable — and it's actually a great thing to name right at the start. I'm curious, when your thoughts start spiraling about the reunion, what's the kind of thought that tends to show up first?",
     "condition": "emotion_text_only",
-    "val_t": -0.21159863471984863,
-    "aro_t": 0.2678506374359131,
+    "val_t": -0.2493671178817749,
+    "aro_t": 0.29764509201049805,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I think the hardest moment would be walking in and seeing my cousin already there, surrounded by family, and everyone acting like nothing happened. Like, I'd be standing there knowing what she said about me behind my back, and everyone else would just be laughing and talking, completely oblivious. That image alone makes my chest tight just thinking about it — this feeling of being totally invisible and wronged at the same time.",
-    "therapist": "That image sounds really painful — feeling unseen and carrying this private wound while everyone around you seems unbothered is a deeply isolating experience. I'm curious about the thought underneath that moment though — when you picture yourself standing there feeling invisible and wronged, what does that scene tell you about yourself or your place in the family? Sometimes our most distressing mental images carry a hidden belief worth examining.",
+    "client": "The first thought that usually hits me is something like, \"Everyone's going to notice how much I've pulled away from the family over the past few years.\" And then it just snowballs from there — I start imagining all these awkward silences or people asking why I never call, and I don't have a good answer for any of it. It's like I already feel guilty before I've even walked through the door.",
+    "therapist": "That pre-emptive guilt is such a heavy thing to carry — you're essentially putting yourself on trial before anyone has even said a word to you. It's worth gently noticing that your mind is treating these imagined reactions as facts, when really they're predictions your anxious brain is generating to try to \"prepare\" you. What evidence do you actually have that people will respond that way, versus what might you be filling in yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.0711662769317627,
-    "aro_t": 0.2730633020401001,
-    "text_emotion": "Tense"
+    "val_t": -0.3464752435684204,
+    "aro_t": 0.1598440408706665,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess... when I picture that scene, the thought that comes up is something like \"I don't really matter here.\" Like, the family just keeps moving and laughing and nobody notices that I'm hurting, and part of me takes that as proof that my feelings are just less important than everyone else's. It's a hard thing to say out loud, honestly, because it sounds so dramatic when I put it into words, but that's what it feels like.",
-    "therapist": "It doesn't sound dramatic at all — it sounds like a really honest and vulnerable thing to name, and I'm glad you trusted yourself enough to say it out loud. That belief, \"I don't really matter here,\" is worth gently examining together, because it's doing a lot of heavy lifting in that imagined scene — it's actually your mind treating a moment of people being *unaware* of your pain as *evidence* that they don't care about it. I'm wondering, is there anything from your history with this family — moments outside of this situation — that might tell a different story about whether you matter to them?",
+    "client": "I mean, I hear what you're saying, and logically I get it — but it's hard to separate that out when my aunt literally texted me last Christmas asking why I'd gone so quiet. That feels like pretty real evidence to me, not just something I'm making up. So it's not totally in my head, right?",
+    "therapist": "You're absolutely right that your aunt's text is real — I don't want to dismiss that, and it makes sense that it stuck with you. But it's worth exploring what that moment actually tells us: she reached out, which could mean she noticed the distance *and* still wanted connection, rather than judgment. What do you think she was really looking for when she sent that message?",
     "condition": "emotion_text_only",
-    "val_t": -0.033503055572509766,
-    "aro_t": 0.20712745189666748,
-    "text_emotion": "Tense"
+    "val_t": -0.09496712684631348,
+    "aro_t": 0.1395207643508911,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I mean... yeah, there probably are moments, if I really think about it. My aunt did call me out of nowhere last year just to check in, and my cousin remembered something small I'd mentioned months before and brought it up again. But it's hard to hold onto those things when my brain keeps going back to this image of everyone just... carrying on without me, like I'm not even a blip on their radar.",
-    "therapist": "It's really significant that those moments came to you — your aunt's unprompted call, your cousin remembering that small detail — those are quiet but real pieces of evidence that you *do* register with the people around you. What you're describing is something our minds do so naturally, where one painful image drowns out a whole collection of warmer moments, and it's worth noticing that your brain is selectively curating the \"proof\" it's using to support that belief. When you hold both things at once — that reunion image *and* your aunt's call — does the thought \"I don't really matter here\" still feel as solid and certain as it did before?",
+    "client": "Okay, maybe she was reaching out because she missed me, I can kind of see that. But even if that's true, it almost makes it worse — like, now I feel guilty for not responding better to her, on top of everything else. It's hard to reframe it as something warm when my gut reaction is just more shame.",
+    "therapist": "It's really meaningful that you could open up to that possibility, even a little — and it makes sense that it immediately brought up another layer of guilt, because that's often how shame works, it finds a new foothold. What I'm noticing is that you're holding yourself to a standard where even someone missing you becomes evidence against you, which is worth slowing down on. Where do you think that tendency to turn warmth into self-blame comes from for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1892317533493042,
-    "aro_t": 0.09849977493286133,
+    "val_t": -0.37760865688323975,
+    "aro_t": 0.15950548648834229,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and I guess... no, it doesn't feel quite as solid when I put those two things side by side. But there's still this part of me that wonders if my aunt just called because she was bored, or my cousin remembered that detail by accident, you know? Like my brain immediately wants to find a way to discount those examples and go back to the familiar story that I don't really matter.",
-    "therapist": "What you just did there is actually a really important insight — you caught your brain in the act of discounting, and naming that pattern is a meaningful step. It's worth asking: if a close friend shared those same two examples with you and then said \"but she was probably just bored,\" what would you say to them? Sometimes we apply a completely different, harsher standard of evidence to ourselves than we would to someone we care about.",
+    "client": "Honestly, I think it goes back pretty far — like, I grew up in a family where you were kind of expected to show up and be present, and when you weren't, it was noticed and commented on. So I guess I internalized this idea that pulling back means you're failing the people you love. But I'm not sure digging into where it comes from actually changes how it feels when I'm standing in that reunion hall next month.",
+    "therapist": "That's a really important insight — you've carried this belief that distance equals failure for a long time, and it makes complete sense it feels so automatic now. You're also right that understanding where something comes from doesn't instantly dissolve it, and I don't want to pretend otherwise. But I'm wondering — if a close friend told you they'd pulled back from family for a few years, would you see them as failing the people they love, or might you understand it differently?",
     "condition": "emotion_text_only",
-    "val_t": -0.04701030254364014,
-    "aro_t": 0.12518155574798584,
-    "text_emotion": "Neutral"
+    "val_t": -0.07039904594421387,
+    "aro_t": 0.16571009159088135,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I mean... if a friend said that to me, I'd probably tell them that those moments were real and that the other person clearly enjoyed their company. But it's just so much harder to believe that when it's about me — like, the rules feel different somehow, and I know that's probably not logical. I guess I'm just worried that if I start giving myself that same benefit of the doubt, I'll miss some real warning sign that someone actually doesn't want me around.",
-    "therapist": "You just spotted something really important — you already *know* the kinder interpretation is more logical, and yet there's this protective part of you that resists applying it to yourself, almost like self-doubt is standing guard against a future hurt. That worry, that if you're too generous with yourself you'll miss a real warning sign, makes a lot of sense as a strategy, but it's worth asking whether that hypervigilance has actually kept you safer, or whether it's mostly just cost you the ability to feel like you belong. What do you think that protective part of you is most afraid would happen if you did start extending yourself the same grace you'd give a friend?",
+    "client": "I'd probably be really understanding with a friend — like, I'd assume they had their reasons and I wouldn't think less of them for it. But when I try to apply that same logic to myself, it just doesn't land the same way, it feels almost like I'm letting myself off the hook too easily. I don't know if that's me being hard on myself or if there's actually a real difference between my situation and a hypothetical friend's.",
+    "therapist": "That gap you're noticing — where compassion flows easily toward others but feels almost suspicious when you turn it on yourself — is actually one of the most common and telling patterns we see, and it's worth taking seriously. The feeling that self-compassion means \"letting yourself off the hook\" is itself a belief worth examining, because understanding your own reasons isn't the same as saying your choices had no impact. What do you think would actually happen inside you if you allowed yourself the same understanding you'd give a friend — would it feel like giving up, or might it free up some space to do something different?",
     "condition": "emotion_text_only",
-    "val_t": -0.24876391887664795,
-    "aro_t": 0.12781000137329102,
-    "text_emotion": "Angry"
+    "val_t": -0.10224127769470215,
+    "aro_t": 0.03681480884552002,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I think that part of me is afraid that if I stop being so hard on myself, I'll get comfortable and then not see it coming when people actually do pull away or decide I'm too much. Like, the self-criticism almost feels like it's keeping me prepared, you know? But I'll admit, sitting here right now, I can't actually think of a single time that beating myself up first made the loneliness hurt any less when it happened.",
-    "therapist": "That last thing you said is really worth sitting with — you've been carrying this self-criticism like a shield, but when you look back honestly, it never actually softened the blow of loneliness when it came. That's a really courageous thing to recognize, because it gently pulls the rug out from under the idea that being hard on yourself is keeping you safe — it's been costing you without really delivering on its promise. I'm wondering, if self-criticism isn't actually the protection you thought it was, what might a gentler, more realistic way of staying aware of your relationships look like for you?",
+    "client": "I think if I'm being honest, it might free up some space — like, maybe I'd stop spending so much energy dreading the reunion and actually think about how I want to show up there. But there's also this fear that if I'm too easy on myself, I'll just keep avoiding and nothing will actually change. I guess I'm not sure self-compassion and actually doing the hard thing can coexist.",
+    "therapist": "There's something really hopeful in what you just said — you can already sense that releasing some of this weight might actually move you *toward* the reunion rather than away from it, which suggests self-compassion and action aren't as opposed as they feel. In fact, harsh self-judgment often keeps us stuck in shame loops rather than motivating change, while self-compassion can create the safety needed to take a real risk. So I'm curious — when you imagine showing up to that reunion from a place of \"I have reasons for the distance and I want to reconnect,\" rather than \"I'm guilty and need to prove myself,\" how does that version of you behave differently?",
     "condition": "emotion_text_only",
-    "val_t": -0.36238622665405273,
-    "aro_t": 0.1858609914779663,
-    "text_emotion": "Angry"
+    "val_t": -0.22760653495788574,
+    "aro_t": 0.09283459186553955,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and part of me actually agrees with it, which is kind of uncomfortable to admit. But when I try to imagine being gentler with myself about my relationships, I almost immediately feel like I'd just... stop paying attention, like I'd miss the signs that I'm pushing people away again. It's like the self-criticism feels like vigilance, even if it's not actually working.",
-    "therapist": "There's something really meaningful in the fact that part of you *agrees* — even if it feels uncomfortable, that's not a small thing. What you're describing is a belief that's quietly running in the background: that gentleness equals inattention, as if caring about yourself and staying aware of your relationships are somehow opposites — but I'd gently challenge that, because real attentiveness actually comes from a calmer, clearer place, not a self-critical one. What if staying connected to your relationships didn't require you to be your own harshest critic — what might \"paying attention with kindness\" actually look like in practice for you?",
+    "client": "That version of me probably walks in without immediately scanning the room for judgment, maybe even initiates a conversation with my aunt instead of waiting to be confronted. But honestly, just imagining it feels kind of fragile — like it's a nice idea in theory but I'm worried the second someone says something even slightly pointed, I'll collapse right back into that guilty, defensive place. I don't know how to make that more grounded version of me actually stick when things get real.",
+    "therapist": "That image of you initiating with your aunt rather than bracing for confrontation is genuinely significant — and the fragility you're feeling around it is real, not a sign it won't work. What you're describing is actually something we can prepare for concretely: if someone says something pointed, having a grounded response ready in advance can be the difference between collapsing into old patterns and staying anchored in that more compassionate version of yourself. What's one thing someone might say at the reunion that feels most likely to knock you off balance, so we can think through how that grounded version of you might actually handle it?",
     "condition": "emotion_text_only",
-    "val_t": -0.11490058898925781,
-    "aro_t": 0.11941826343536377,
+    "val_t": -0.22805249691009521,
+    "aro_t": 0.14252328872680664,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it feels kind of abstract right now. Like, \"paying attention with kindness\" sounds nice in theory, but when I'm actually in a moment where I feel like I've let someone down or haven't reached out in too long, the gentle approach just feels like making excuses for myself. I guess I'm worried that if I'm not hard on myself about it, I'll just... drift further away from the people I care about.",
-    "therapist": "That worry makes a lot of sense, and I want to acknowledge that you're not just resisting change for no reason — you genuinely care about the people in your life, and that care is actually what's underneath all of this. But I'd gently point out that drifting from people and being kind to yourself aren't the same thing — in fact, when we feel shame about not reaching out, it often makes it *harder* to pick up the phone, not easier, because the self-criticism adds a layer of dread on top of the already difficult moment. Can you think of a specific recent time when you felt like you'd let someone down — and we could look together at whether the self-criticism actually moved you closer to them, or whether it quietly got in the way?",
+    "client": "Probably the thing that would hit hardest is someone saying something like, \"We never hear from you anymore, it's like you don't care about this family.\" Just typing that out makes my stomach drop a little. I can see how having a response ready might help, but I'm also worried that if I rehearse something it'll come out sounding scripted and defensive, which might make things worse instead of better.",
+    "therapist": "That sentence clearly carries a lot of weight for you, and it makes sense your body reacted just to typing it — it cuts right to the core of that fear of being seen as someone who stopped caring. The good news is that preparing a response doesn't have to mean memorizing a script; it can just mean getting clear on what's *true* for you, so that when the moment comes, you're drawing from something real rather than performing. What would you actually want someone like your aunt to understand about why you pulled back, if you could say it honestly and without shame?",
     "condition": "emotion_text_only",
-    "val_t": -0.18146371841430664,
-    "aro_t": 0.043090224266052246,
-    "text_emotion": "Sad"
+    "val_t": -0.2840712070465088,
+    "aro_t": 0.17244136333465576,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Yeah, there was this thing with my friend Marcus a few weeks ago — he texted me asking if I wanted to grab coffee, and I just... didn't respond for like four days. I kept telling myself I was a terrible friend, that he probably already thought I was flaky and didn't care, and honestly that just made it feel even more impossible to reply because I didn't know how to explain the silence. So I guess you're right that the self-criticism didn't exactly push me to pick up the phone, but I still feel like if I just let myself off the hook, I'll keep doing the same thing and eventually lose him altogether.",
-    "therapist": "What you just described with Marcus is such a clear and honest example of exactly what we've been talking about — the self-criticism didn't motivate you, it actually built a wall that made reaching out feel impossible. And I want to gently separate two things that your mind is fusing together: \"letting yourself off the hook\" and \"doing nothing differently\" aren't the same thing — you can respond to that four-day silence with self-compassion *and* still choose to text Marcus today. What do you think would have happened if, instead of \"I'm a terrible friend,\" the thought had been something like \"I've been struggling and I can still reach out now\" — do you think that might have made it easier to reply?",
+    "client": "I think what I'd want her to understand is that pulling back wasn't about not caring — it was more like I was going through a really hard period and I didn't know how to show up as anything other than a mess, so I just... disappeared instead. Saying that out loud actually feels different from the guilt spiral, like it's more honest and less about failing. But I'm scared that even if I say something true and vulnerable like that, it might not land the way I mean it, and I'll just end up feeling more exposed and misunderstood than before.",
+    "therapist": "What you just articulated is really profound — \"I didn't know how to show up as anything other than a mess, so I disappeared\" is honest, human, and actually quite hard to misunderstand if someone is listening with any openness at all. The fear of being exposed and still misunderstood is real, and vulnerability does carry that risk — but notice that saying it out loud just now felt different from the guilt spiral, which suggests it's already doing something for *you* regardless of how anyone else receives it. How might it change things if you went into that conversation holding onto that — that speaking your truth has value even if the other person's response isn't perfect?",
     "condition": "emotion_text_only",
-    "val_t": -0.255279541015625,
-    "aro_t": 0.12974703311920166,
+    "val_t": -0.356528639793396,
+    "aro_t": 0.15216493606567383,
     "text_emotion": "Angry"
   }
 ]

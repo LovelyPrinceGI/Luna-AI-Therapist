@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I graduated last May because I still haven't found a job in my field, and it's starting to feel like maybe I'm just not good enough. Everyone I went to school with seems to be posting about their new positions and careers on LinkedIn, and I can't even get a callback. Honestly, I'm not sure talking about it is going to change anything, but I figured I'd give this a shot.",
-    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I want you to know that what you're feeling — that creeping sense of \"maybe I'm just not enough\" — is such a painful place to sit, especially when it feels like everyone around you is moving forward. That thought, though, is worth gently examining together, because the job market being difficult isn't really the same thing as *you* being not good enough, even though our minds can blur those two things together. What do you think has been the loudest piece of evidence your mind keeps using to convince you that *you're* the problem, rather than the circumstances?",
+    "client": "I've been really struggling since I graduated back in May — I still haven't found a job in my field, and it's starting to feel like maybe I'm just not good enough. Every time I see someone from my graduating class post about their new position or promotion on LinkedIn, I feel this wave of shame that's hard to shake. I'm not even sure talking about it is going to change anything, but I figured I'd try.",
+    "therapist": "It takes real courage to reach out even when part of you doubts it will help, and I want you to know that what you're carrying — that persistent sense of \"not being enough\" compounded by those LinkedIn moments — sounds genuinely painful and exhausting. That thought, *\"I'm not good enough,\"* is worth gently examining together, because it's a conclusion your mind has drawn, and conclusions can be tested. What specific evidence has your mind been using to convince you that's true?",
     "condition": "emotion_text_only",
-    "val_t": -0.1404426097869873,
-    "aro_t": 0.10695528984069824,
-    "text_emotion": "Angry"
+    "val_t": -0.36098039150238037,
+    "aro_t": 0.13784277439117432,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I guess the loudest thing my mind keeps throwing at me is that my friends from college all seem to have landed these solid jobs, like they figured it out and I'm still just... stuck. Every time I see someone post about a promotion or a new position, this voice in my head goes \"see, it's you, you're the one who can't get it together.\" I hear what you're saying about circumstances versus me being the problem, but honestly it's hard to separate those two things when the rejection keeps feeling so personal.",
-    "therapist": "That voice that says \"see, it's you\" is so convincing, especially when the pain of rejection keeps feeding it — and I really hear how exhausting it is to carry that comparison every time you open LinkedIn. One thing worth noticing is that you're essentially using other people's highlight reels as evidence about your own worth, when in reality you're only seeing their wins, not their struggles, rejections, or the luck involved in their timing. If a close friend came to you in your exact situation — same field, same market, same timeline — would that voice in your head tell *them* that they just \"can't get it together\"?",
+    "client": "I guess the main thing my brain keeps coming back to is that it's been almost six months and I have nothing to show for it — no offers, barely any interviews, just a lot of silence from applications I sent out. And then when I do get an interview, I either freeze up or I leave feeling like I said all the wrong things, which just confirms the story that I'm not cut out for this. It's hard to argue with that when the results seem to back it up.",
+    "therapist": "It makes sense that the silence and the tough interviews feel like proof — your mind is doing something very natural, which in CBT we call **confirming evidence**: it latches onto results that fit the \"not good enough\" story and quietly ignores anything that doesn't. But I'm curious — in those interviews where you felt you said the wrong things, is it possible that what you're interpreting as failure is actually just the normal awkwardness of a skill that's still being built, rather than a fixed verdict on who you are? What would you say to a close friend who'd had the exact same six months as you?",
     "condition": "emotion_text_only",
-    "val_t": -0.3167901039123535,
-    "aro_t": 0.15178906917572021,
+    "val_t": -0.1386113166809082,
+    "aro_t": 0.08281028270721436,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean... no, I wouldn't say that to a friend. I'd probably tell them the job market is brutal right now and that it doesn't mean anything about who they are. But it feels different when it's me — like, I know all the ways I've fallen short, all the times I hesitated or didn't follow through, so the voice feels more... credible, I guess.",
-    "therapist": "It's really meaningful that you just noticed that gap — you'd offer your friend compassion and context, but you hold yourself to a completely different standard, armed with every private doubt and misstep that nobody else sees. That \"credibility\" the voice has comes partly from the fact that you have *access* to your own hesitations in a way you simply don't have with your friends — but having more information about yourself doesn't automatically make the harshest interpretation the most accurate one. I'm curious — when you think about those moments you hesitated or didn't follow through, what do you think was actually going on for you then?",
+    "client": "I know what you're getting at, and honestly if a friend told me they'd been job hunting for six months I'd probably tell them it takes time and it doesn't mean anything about their worth. But when it's me, that logic just doesn't land the same way — it feels like I'm making excuses for myself rather than being honest about my shortcomings. I think part of me is worried that if I'm too easy on myself, I'll just stop trying altogether.",
+    "therapist": "You've just named something really important — that self-compassion feels dangerous to you, like it's a slippery slope toward giving up, and that's such a common but worth-examining belief. The truth is, research actually suggests the opposite: harsh self-criticism tends to increase anxiety and avoidance, while self-compassion tends to *sustain* motivation because you're not constantly fighting shame on top of an already hard task. What do you think has taught you that being kind to yourself leads to complacency — is there a history there that makes that feel so true?",
     "condition": "emotion_text_only",
-    "val_t": -0.06257259845733643,
-    "aro_t": 0.129530668258667,
-    "text_emotion": "Neutral"
+    "val_t": -0.21267831325531006,
+    "aro_t": 0.14450383186340332,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess... when I think about those moments, a lot of times I was just exhausted or overwhelmed, and I told myself I'd do it later but then later never came. But the voice in my head doesn't frame it that way — it just says I'm lazy or I don't care enough, and honestly that interpretation feels more true even when I try to push back against it. I think part of me is scared that if I let myself off the hook, I'll just keep not following through and confirm that the harsh voice was right all along.",
-    "therapist": "What you just said is really insightful — you're essentially keeping the harsh voice in charge because you believe it's the thing protecting you from falling apart, but there's an important difference between self-compassion and letting yourself off the hook entirely. Recognizing that you were exhausted and overwhelmed isn't making excuses, it's actually *accurate information* that could help you understand what you need to follow through better — whereas \"I'm lazy\" just shames you without giving you anything useful to work with. What do you think might actually help you take action in those overwhelmed moments — not the harsh voice's answer, but what you, as someone who just showed a lot of self-awareness, genuinely thinks?",
+    "client": "I think it probably comes from growing up in a household where high standards were just the baseline — like, praise wasn't really given unless you'd done something exceptional, and if you struggled, the response was more \"push harder\" than \"that sounds difficult.\" So I internalized this idea that pressure and self-criticism are what keep you from getting lazy, and without them I'd just... coast. I hear what you're saying about the research, but honestly it's hard to believe that being gentler with myself would actually make me more productive rather than just giving me permission to settle.",
+    "therapist": "What you're describing makes so much sense — you essentially grew up in a system where pressure *was* the fuel, so of course it feels wired into you as the only reliable engine. But it's worth noticing that this belief was handed to you by your environment before you were old enough to question it, which means it's worth asking: has relentless self-criticism actually been *working* for you these past six months, or has it maybe been part of what's making the interviews harder and the silence heavier? What might it look like to run a small experiment — not abandoning your standards, but just loosening the self-judgment a little — and see what actually happens to your motivation?",
     "condition": "emotion_text_only",
-    "val_t": -0.30153346061706543,
-    "aro_t": 0.1877448558807373,
-    "text_emotion": "Angry"
+    "val_t": -0.05420041084289551,
+    "aro_t": 0.028748750686645508,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I mean... honestly, when I'm that overwhelmed, what probably would help is just breaking it down into something smaller, like not \"clean the whole apartment\" but just \"put these three things away.\" But even as I say that, part of me is like, okay but I've told myself that before and I still didn't do it, so maybe I really am just lazy and the smaller steps thing is just another excuse I'm using. I guess I don't fully trust that being kinder to myself will actually change anything, because the harsh voice has been there so long it feels like it's the only thing that's ever gotten me to do anything at all.",
-    "therapist": "You actually just identified something really practical and grounded — breaking things down — and then immediately the harsh voice swooped in to discredit it, which tells me that voice is very practiced at shutting down your own good instincts. It's worth asking though: if the harsh voice has truly been your engine all this time, how come it hasn't solved the procrastination problem yet — because a tool that was really working wouldn't still leave you feeling this stuck. What if the voice isn't actually what gets you moving, but rather what you've *survived despite*?",
+    "client": "Honestly, when you put it that way — asking whether the self-criticism has actually been working — I don't have a great answer, because I'm still unemployed and I feel worse than I did in May, so objectively no, it hasn't been producing the results I want. But the idea of running an experiment with it feels vague to me, like I'm not sure what that would even look like in practice on a Tuesday when I'm sending out applications and getting nothing back. What would \"loosening the self-judgment\" actually mean in a concrete moment — because I can't just decide to feel differently?",
+    "therapist": "You're absolutely right that you can't just decide to feel differently — and I love that you're pushing for something concrete, because that's exactly where change actually happens. So here's one specific thing: when you send an application and hear nothing back, your mind likely fires an automatic thought like *\"see, I'm not good enough\"* — and instead of arguing with it or accepting it, you could just practice **naming it**: *\"there's that story again,\"* and then redirect to one small next action. It's not about feeling better in that moment, it's about not letting the thought automatically drive the car — does that feel like something you could experiment with this week, even just to notice how often that thought shows up?",
     "condition": "emotion_text_only",
-    "val_t": -0.27735960483551025,
-    "aro_t": 0.1570645570755005,
-    "text_emotion": "Angry"
+    "val_t": -0.1961754560470581,
+    "aro_t": 0.0765460729598999,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "That actually... hit different, I have to admit. Like, I never thought about it that way — that maybe the harsh voice isn't driving me forward, it's just been something I've been dragging along with me this whole time. But it's hard to fully believe that, because if I let go of it, what's even left to push me?",
-    "therapist": "That question — \"what's left to push me?\" — is such an important one, and I think it reveals that somewhere along the way you learned that you needed a threat to motivate you, rather than something you actually *want* to move toward. But you've been sitting here today, reflecting honestly, pushing back on hard ideas, showing up even when you doubted it would help — none of that was driven by the harsh voice, that was just *you*. So I'm curious: when you think about your field, the work you actually studied for — is there anything there that used to genuinely excite you, before all of this got so heavy?",
+    "client": "I think I can try the naming thing — it's low-stakes enough that it doesn't feel like I'm being asked to overhaul how I think overnight. My worry is that I'll say \"there's that story again\" and then immediately think \"but what if it's not just a story, what if it's actually true\" and end up in the same spiral anyway. Like, does the naming actually interrupt the thought, or does it just add a layer on top of the same loop?",
+    "therapist": "That \"but what if it's true\" follow-up thought is so predictable that it's almost worth naming it too — you could even call it **the prosecutor**, because its whole job is to re-open the case every time you try to close it. The naming doesn't magically silence it, but over time it does something subtler: it creates just enough distance that you're the one *observing* the thought rather than *being* the thought, and that small gap is actually where choice lives. What do you think it would mean for you if, even after months of uncertainty, the story turned out to be just that — a story your mind constructed to explain a painful situation, rather than a factual verdict?",
     "condition": "emotion_text_only",
-    "val_t": -0.18250823020935059,
-    "aro_t": 0.16970431804656982,
-    "text_emotion": "Angry"
+    "val_t": -0.05665874481201172,
+    "aro_t": 0.060097575187683105,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I mean... yeah, there was a time when I actually loved the research side of things. I'd stay late in the lab not because I had to, but because I genuinely wanted to figure something out, like the problem itself was pulling me in. But honestly, it feels so far away now that I'm not even sure if that was real or if I've just built it up in my memory because everything now feels so bleak by comparison.",
-    "therapist": "That memory of staying late in the lab — not because you had to, but because the problem was *pulling you in* — that's not something you invent, that's a real and specific feeling that bland nostalgia doesn't usually produce. The fact that it feels distant right now makes sense, because when we're worn down and discouraged for long enough, genuine passion can go quiet without disappearing entirely. What do you think that version of you — the one who stayed late because they *wanted* to — would think about the job search if they were the one leading it, rather than the harsh voice?",
+    "client": "Honestly, if it turned out to be just a story, I think I'd feel relieved but also kind of... angry, maybe? Like, I've spent six months beating myself up over something that was never actually a verdict, and that's a lot of energy wasted on a lie my own brain made up. But I also can't fully let myself believe it's just a story yet, because if I do and then I still don't get a job, it'll feel like I was naive on top of everything else.",
+    "therapist": "That anger makes complete sense — recognizing you've been punishing yourself based on a story rather than a verdict *is* a kind of loss, and it's okay to grieve that energy. But I want to gently hold up what you just said at the end: you're essentially refusing to let go of the story as a way of protecting yourself from future disappointment, which means the belief is costing you *now* as a kind of insurance policy against pain *later* — and that's a really heavy deal to be carrying. What would it look like to hold the uncertainty without needing to fully commit either way — not \"it's just a story\" and not \"it's definitely true,\" but something more like \"I genuinely don't know yet, and that's allowed\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.17192161083221436,
-    "aro_t": 0.17851221561431885,
+    "val_t": -0.20201373100280762,
+    "aro_t": 0.1879643201828003,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I sat with that for a second, and honestly... I think that version of me would probably be more curious about the search, like treating it as a puzzle to figure out rather than a test I'm already failing. But it's hard to access that right now because the rejections have kind of piled up and made everything feel like evidence that I was wrong about myself all along. I guess what I'm wondering is, how do I actually get back to that headspace when the discouragement feels so loud?",
-    "therapist": "That reframe — from \"test I'm already failing\" to \"puzzle to figure out\" — is genuinely significant, and the fact that you could access it even briefly tells me that version of you isn't gone, just buried under a lot of accumulated pain. Getting back to that headspace probably isn't one big shift but small, deliberate moments of borrowing that curious perspective — even just for one small task — before the harsh voice has time to weigh in. What's one tiny piece of the job search that you could approach this week as an experiment to figure out rather than a verdict to survive?",
+    "client": "\"I genuinely don't know yet, and that's allowed\" — I've been sitting with that phrase and it feels almost too simple, like it can't possibly be enough to counter six months of feeling like a failure. But I think what's hard about it is that uncertainty has felt like the enemy this whole time, something to escape by either proving I'm good enough or accepting that I'm not, so just... sitting in the middle feels uncomfortable in a way I don't totally have words for. I can see why it might be less exhausting than the constant verdict-seeking, but I'm not sure I know how to actually tolerate that middle space without it just feeling like giving up on getting an answer.",
+    "therapist": "That discomfort you're describing — the middle space feeling like giving up — is actually one of the most important things you've named so far, because what you're really talking about is **tolerating uncertainty**, and that's genuinely hard, not a personal weakness. The verdict-seeking, exhausting as it's been, has probably felt like *doing something*, like staying in control of a situation that keeps refusing to resolve — so sitting in the middle can feel passive, even though it actually takes more courage than swinging between extremes. I'm wondering: in other areas of your life, has there ever been a period of not-knowing that eventually resolved without you forcing an answer — and what did it feel like to look back on it?",
     "condition": "emotion_text_only",
-    "val_t": -0.2417902946472168,
-    "aro_t": 0.15349483489990234,
-    "text_emotion": "Angry"
+    "val_t": -0.26195812225341797,
+    "aro_t": 0.07713091373443604,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe that's possible. But honestly, when I think about picking even one small thing from the job search, my mind immediately jumps to \"what if I do it wrong\" or \"what's the point if nothing comes of it anyway.\" Maybe I could try rewriting just one section of my resume and tell myself I'm just experimenting with the wording rather than making it perfect, but I'm already bracing for that critical voice to show up the second I open the document.",
-    "therapist": "It's really meaningful that even while anticipating the critical voice, you still landed on something concrete and genuinely workable — \"experimenting with the wording\" is exactly the kind of framing that belongs to that curious, lab-staying version of you, not the harsh voice. The critical voice showing up when you open the document isn't a sign that you're failing the experiment, it's just noise that you can notice and name — something like \"there's that voice again\" — without letting it be the judge of whether you keep going. What do you think it would feel like to finish that one small experiment, even imperfectly, just to prove to yourself that you can do it *with* the noise rather than only if it goes away first?",
+    "client": "Actually, yeah — when I was waiting to hear back about college admissions, I was convinced I'd ruined my future by not getting into my first choice, and I spent months catastrophizing about it. But then I ended up at a school I genuinely loved and looking back, all that anguish felt kind of unnecessary, even though I couldn't have known that at the time. I guess the difference that's hard to shake is that with the job search, it feels more open-ended — college had a deadline, there was a finish line, but this could theoretically drag on indefinitely, and that's what makes the uncertainty feel less survivable.",
+    "therapist": "You just gave yourself really powerful evidence — that your mind has catastrophized an uncertain waiting period before, declared it unsurvivable, and then been wrong in a way you couldn't have predicted from inside it. The open-ended nature of the job search is genuinely harder than a deadline, I won't minimize that, but I'd gently point out that \"less survivable\" is your mind's forecast, and you've already shown that its forecasts under uncertainty aren't always reliable. What if the absence of a finish line, as uncomfortable as it is, also means the story isn't over yet — and that matters?",
     "condition": "emotion_text_only",
-    "val_t": -0.11610186100006104,
-    "aro_t": 0.15404891967773438,
+    "val_t": -0.16235506534576416,
+    "aro_t": 0.17001628875732422,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Honestly, that framing is kind of interesting — \"with the noise rather than only if it goes away first.\" I think part of me has been waiting for the anxiety to just disappear before I let myself try, like I need perfect conditions to even start. But I'm not sure I fully trust that I can actually tolerate the discomfort in the moment — it's one thing to talk about it here and another to be sitting alone at my desk with that voice getting loud.",
-    "therapist": "You've just named something really profound — that you've been waiting for perfect conditions that were never going to arrive, and there's something quietly hopeful in the fact that you can see that pattern so clearly now. The gap between talking about it here and sitting alone at your desk is real, and we're not pretending otherwise — but tolerating discomfort doesn't mean the voice goes quiet, it means you act for even just five minutes while it's loud and discover that you survived it. When that voice gets loud at your desk, what's one thing you could say to yourself in that moment — maybe something you'd tell that friend we talked about earlier — to help you stay in the experiment just a little longer?",
+    "client": "\"The story isn't over yet\" — I want to hold onto that, and part of me does find it genuinely comforting for a second before the anxiety rushes back in. I think what gets me is that knowing my forecasts are unreliable doesn't automatically make the uncertainty feel more bearable, it just means I can't trust my own sense of how things are going, which almost feels worse in a way. Like, if I can't trust the catastrophizing but I also can't trust the reassurance, what am I supposed to navigate by?",
+    "therapist": "That's a genuinely profound question, and the fact that you're asking it means you've already moved somewhere important — you're not just trying to escape the bad feeling anymore, you're asking how to *orient* yourself. The answer in CBT isn't to find a more reliable feeling to navigate by, but to shift from feelings and forecasts toward **values and behavior** as your compass: not \"how does this feel or how will it turn out,\" but \"what kind of effort and person do I want to show up as today, regardless of the silence.\" It's less satisfying than certainty, but it's something you can actually hold onto — what would it mean to you to define this period not by whether you get a job, but by how you moved through it?",
     "condition": "emotion_text_only",
-    "val_t": -0.12467384338378906,
-    "aro_t": 0.17242872714996338,
+    "val_t": -0.15808844566345215,
+    "aro_t": 0.1288834810256958,
     "text_emotion": "Angry"
   }
 ]

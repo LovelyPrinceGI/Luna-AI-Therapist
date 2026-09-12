@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just got my final project grade back, and it was way lower than I expected. Now I can't stop thinking that maybe I'm just not cut out for this program, even though I worked really hard on it. I don't know if talking about it will help - the grade is already set, so what's the point?",
-    "therapist": "I hear how disappointed and discouraged you're feeling about this grade, especially after putting in so much effort. When we face setbacks, it's common for our minds to jump to conclusions like \"I'm not cut out for this\"—would you be open to exploring what evidence might challenge that thought?  \n\nWhat's coming up for you when you say \"the grade is already set, so what's the point\"?",
+    "client": "I just got my final project grade back, and it was way lower than I expected. I worked so hard on it, and now I can't stop thinking that maybe I'm just not cut out for this program. I know you're supposed to help with stuff like this, but I'm not sure talking about it will change the fact that I might not be good enough.",
+    "therapist": "It sounds like you're feeling really disappointed and doubting yourself after receiving this grade, especially after putting in so much effort. When we're in this headspace, our minds often jump to the worst conclusions—what makes you think this one grade means you're not cut out for the program?",
     "condition": "emotion_text_only",
-    "val_t": -0.11094307899475098,
-    "aro_t": 0.11554265022277832,
+    "val_t": -0.13670361042022705,
+    "aro_t": 0.16028833389282227,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess the evidence would be that I've passed other classes before, but this one just feels different. When I see that grade, all I can think is that no matter how hard I try next time, the professor probably already thinks I'm not good enough.  \n\nIt's just...what if I put in all this effort again and still fail? Then I'll have wasted even more time. At least if I give up now, I won't get my hopes up.",
-    "therapist": "It sounds like this one grade has shaken your confidence deeply, even though you have a history of succeeding in your program. That fear of pouring effort into something and still facing disappointment is so understandable—it can feel safer to pull back.  \n\nI notice your mind is predicting how the professor sees you and how future efforts might turn out. Would it help to test those predictions, rather than accepting them as facts?",
+    "client": "Because it's not just this one grade - I've been barely scraping by in most of my classes. This was the project I actually felt good about, and now even that turned out bad. Maybe I'm just not as smart as everyone else here, and I'm fooling myself by staying in this program. I don't see how thinking differently about it will magically make me do better.",
+    "therapist": "You're carrying a heavy weight of discouragement after seeing this pattern in your grades, and it makes sense you'd question your place in the program. When you say \"I'm not as smart as everyone else,\" what evidence do you have for that thought—and what evidence might not fit that story?",
     "condition": "emotion_text_only",
-    "val_t": -0.26555144786834717,
-    "aro_t": 0.08573997020721436,
-    "text_emotion": "Sad"
+    "val_t": -0.20273292064666748,
+    "aro_t": 0.123008131980896,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying about testing predictions, but I don't know how to even start doing that. The professor gave me that disappointed look when handing back my paper, and now I keep imagining them thinking I'm not cut out for this program. \n\nIt's not just about this one grade—it makes me question if all my past successes were just luck. What if I try harder next time and still fail? That thought makes me want to avoid office hours and just scrape by instead.",
-    "therapist": "I hear how stuck you feel between wanting to protect yourself from future disappointment and wanting to push forward—that's such a painful place to be. The professor's reaction seems to have reinforced your doubts, making past successes feel like flukes rather than proof of your capability.  \n\nWhen you imagine going to office hours now, what's the very worst that could happen—and what's the most realistic outcome? Sometimes naming our fears helps shrink them.",
+    "client": "I guess the evidence is that I'm struggling while others seem to get it so easily. But...I did get accepted into this program, so someone must have thought I could do it. It's just hard to believe that when I keep seeing bad grades. I don't know how that helps me though - knowing I got in doesn't make the work any easier now.",
+    "therapist": "It sounds like you're caught between recognizing that you were accepted into the program for a reason and feeling overwhelmed by the challenges you're facing now. What would it look like to focus on small, manageable steps to improve, rather than comparing yourself to others or judging your overall ability?",
     "condition": "emotion_text_only",
-    "val_t": -0.2771143913269043,
-    "aro_t": 0.09627628326416016,
+    "val_t": -0.2576848268508911,
+    "aro_t": 0.06344032287597656,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "The worst that could happen? He could tell me straight to my face that my work isn't good enough and I don't belong in this program. That would destroy me. But realistically...I guess he'd probably just seem a little distracted and give me some standard feedback. \n\nIt's just hard because even if the realistic outcome isn't that bad, my brain keeps going back to that worst-case scenario. Like I can't stop imagining his disappointed face even though it probably wouldn't happen that way.",
-    "therapist": "It's powerful that you can recognize the gap between your worst fears and the more likely outcome—that's an important step. Your brain keeps pulling you toward that painful \"disappointed face\" image because our minds tend to amplify threats when we're feeling vulnerable.  \n\nWould it help to practice holding both truths: that this *feels* terrifying, while also remembering you've handled difficult feedback before? How might you prepare yourself if the realistic outcome (standard feedback) happens?",
+    "client": "Small steps sound nice in theory, but I don't even know where to start. Every time I try to study or work on assignments, I get overwhelmed thinking about how far behind I am. It feels like no matter what small step I take, it won't be enough to catch up with everyone else.",
+    "therapist": "The weight of feeling behind can make even small steps feel impossible right now—that sense of overwhelm is completely understandable. What if we focused first on just one assignment or concept, without comparing it to where others are? Where might you begin if you gave yourself permission to go at your own pace?",
     "condition": "emotion_text_only",
-    "val_t": -0.2901275157928467,
-    "aro_t": 0.1669844388961792,
+    "val_t": -0.14990246295928955,
+    "aro_t": 0.15369462966918945,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about holding both truths, but it's hard to shake that image of disappointment. Even though I've handled feedback before, each time feels like the first time all over again. I keep thinking \"what if this is the time I completely mess up?\" \n\nThe preparing part sounds helpful in theory, but my mind goes blank when I try to think of how to actually do that. It's like all my usual coping skills disappear when I'm in that anxious headspace.",
-    "therapist": "It makes complete sense that this feels so fresh and overwhelming each time—anxiety has a way of making past experiences fade while magnifying present fears. That \"what if this is the time...\" thought is especially sticky because it feels like it *could* be true, even if it isn't likely.  \n\nWhen your mind goes blank like that, could we try something small? Like writing down just one sentence you might say to the professor beforehand, or one grounding breath before opening your notebook? What feels the tiniest bit manageable right now?",
+    "client": "I guess I could start with the material I struggled with most on this last project. But part of me thinks \"what's the point?\" because even when I focus on one thing, I still make mistakes. It feels like I'm just delaying the inevitable realization that maybe this program is too hard for me.",
+    "therapist": "I hear how defeated you're feeling—like every effort leads back to the same discouraging place. But I notice something important: even in this heaviness, you're still able to identify where to begin (\"the material I struggled with most\"). What would it feel like to approach just that one area with curiosity rather than judgment, as an experiment rather than a test of your worth?",
     "condition": "emotion_text_only",
-    "val_t": -0.24686706066131592,
-    "aro_t": 0.11125683784484863,
-    "text_emotion": "Angry"
+    "val_t": -0.19168412685394287,
+    "aro_t": 0.07814550399780273,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but even small steps feel impossible when my mind goes blank like that. What if I try to prepare something to say and then freeze up anyway? That would just make me feel even more embarrassed in front of the professor. \n\nThe breathing thing might help, but I'm worried I'll do it wrong or people will notice and think I'm weird. Anxiety makes everything feel like a test I'm going to fail.",
-    "therapist": "I hear how trapped you feel—like every possible next step comes with its own \"what if\" that keeps you stuck. Anxiety has a way of turning even small acts of self-care into something that feels risky or performative.  \n\nLet me ask this: If we took the professor's opinion out of the equation entirely, what would *you* need in that moment to feel just 5% more grounded? No right answers, no grades—just what might help *you* when the blankness hits.",
+    "client": "I've never really thought about learning that way before. I guess I always see everything as a test of whether I'm good enough. But the idea of just exploring one concept without that pressure... it sounds nice, but I'm not sure I can actually do it. My mind automatically goes to \"you have to get this right\" mode.",
+    "therapist": "I can hear the shift in your voice as you consider this new approach—there's a mix of cautious hope and understandable skepticism. That \"get it right\" mode is so automatic for you—what would happen if, just for one study session, you treated mistakes not as proof you're not good enough, but as valuable information about where to focus next?",
     "condition": "emotion_text_only",
-    "val_t": -0.29283952713012695,
-    "aro_t": 0.2584129571914673,
-    "text_emotion": "Angry"
+    "val_t": 0.024870753288269043,
+    "aro_t": 0.1339660882949829,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I don't know, that question makes me feel kind of stupid. Like there should be an obvious answer but I'm blanking on it. Maybe just sitting somewhere quiet? But then I start thinking about how much time I'm wasting not working, which makes me feel worse.",
-    "therapist": "It sounds like you're caught in a cycle where even potential solutions end up feeling like failures—like your mind keeps finding ways to turn quiet moments into more reasons to criticize yourself. That exhaustion and self-doubt come through so clearly.  \n\nWhat if we tried shifting the goal? Instead of finding a \"right\" way to cope, could we just notice what happens when you sit quietly for *one minute*—not to fix anything, but to observe without judgment?",
+    "client": "I can try to think that way, but my stomach still clenches at the thought of looking at my mistakes. What if I try seeing them as learning opportunities and still don't improve? That might feel even worse, like I'm failing at this new approach too. It's scary to hope things could be different.",
+    "therapist": "It sounds like you're feeling both a glimmer of possibility and some understandable fear about trying this new approach—your mind is already anticipating how it might go wrong. That tension between hope and fear is completely normal when we try something unfamiliar. What would it feel like to start small—maybe just 15 minutes of approaching one concept with curiosity—rather than expecting yourself to completely shift how you view mistakes all at once?",
     "condition": "emotion_text_only",
-    "val_t": -0.48339664936065674,
-    "aro_t": 0.07413077354431152,
+    "val_t": -0.34759795665740967,
+    "aro_t": 0.11772406101226807,
     "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but even the idea of sitting quietly for a minute makes me anxious. My mind just races with all the things I should be doing instead, and then I feel guilty for wasting time. It's like I can't win - either I'm overwhelmed by doing things, or I'm overwhelmed by not doing enough.",
-    "therapist": "I hear how trapped you feel—like every option, even taking a brief pause, gets tangled in thoughts about what you \"should\" be doing instead. That constant pressure to be productive must be exhausting to carry.  \n\nWhat do you think it would feel like to acknowledge—just for a moment—that this guilt might be *part* of the problem, rather than proof you're failing? Could we explore that together?",
+    "client": "15 minutes sounds manageable, but I'm worried it won't be enough to make a difference. What if I try it and still feel just as lost? Part of me thinks I should be spending hours studying, not just 15 minutes—otherwise I'll fall even further behind. It's hard to balance trying something new with the pressure to catch up.",
+    "therapist": "I hear you caught between wanting to try this new approach and feeling the persistent pressure to make big gains quickly—that push-and-pull must be exhausting. Notice how your mind jumps to \"it won't be enough\"—what if, just for these 15 minutes, we focused on the process (engaging with curiosity) rather than the outcome (how much ground you cover)? Where might you start that feels gently challenging but not overwhelming?",
     "condition": "emotion_text_only",
-    "val_t": -0.26886141300201416,
-    "aro_t": 0.18692457675933838,
-    "text_emotion": "Angry"
+    "val_t": -0.17618238925933838,
+    "aro_t": 0.06320393085479736,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "The idea that the guilt itself is part of the problem actually makes me feel more anxious. Like now I'm failing at *not* feeling guilty too. Even when I try to take a break, my brain just keeps tallying all the unfinished tasks. It's like my worth is tied to how much I accomplish each day.",
-    "therapist": "It sounds like this cycle of guilt and self-criticism has become so ingrained that even trying to challenge it feels like another thing to \"get right.\" That pressure to tie your worth to productivity must feel incredibly heavy.  \n\nWhen you think about your worth being separate from your daily accomplishments, what comes up for you? Is there even a tiny part of you that might believe you deserve rest, regardless of how much you’ve checked off your list?",
+    "client": "I could maybe start by just reviewing the professor's comments on my project for 15 minutes without trying to fix anything. But I'm scared I'll just feel stupid all over again seeing where I went wrong. It's easier to avoid it completely than face that feeling of disappointment in myself.",
+    "therapist": "It takes real courage to face feedback that's brought up so much self-doubt before—I hear how vulnerable this feels for you. When you imagine reviewing those comments, what would help you stay grounded in remembering this is about improving your work, not measuring your worth?",
     "condition": "emotion_text_only",
-    "val_t": -0.20719516277313232,
-    "aro_t": 0.15617334842681885,
-    "text_emotion": "Angry"
+    "val_t": -0.46111559867858887,
+    "aro_t": 0.15670740604400635,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "It's hard to imagine my worth being separate from what I accomplish each day. When I try to rest, I just feel guilty about all the things I should be doing instead. Even the idea of deserving rest makes me anxious because it feels like I'm letting myself off the hook too easily.",
-    "therapist": "I hear how deeply this belief—that you must *earn* rest—has taken root, and how unsettling it feels to challenge it. That guilt reflex is so strong it even turns self-compassion into something that feels like cheating.  \n\nWhat do you think it would be like to experiment with this: What if taking intentional rest *is* part of the work, not the opposite of it? Could we explore what that might look like for you, even in small ways?",
+    "client": "Maybe I could remind myself that even the best students get constructive feedback sometimes. But it's hard because when I see comments on my work, I immediately feel like they're pointing out flaws in me as a person, not just my project. I'm not sure how to separate the two.",
+    "therapist": "It sounds like you're making an important distinction here—between feedback on your work and judgments about yourself as a person. That automatic jump to personalizing criticism is so common and understandable—what happens if, just during these 15 minutes, you practice noticing when your mind makes that leap and gently guide it back to focusing on the work itself as separate from your self-worth?",
     "condition": "emotion_text_only",
-    "val_t": -0.2888585329055786,
-    "aro_t": 0.0966726541519165,
-    "text_emotion": "Sad"
+    "val_t": -0.11776256561279297,
+    "aro_t": 0.047423601150512695,
+    "text_emotion": "Neutral"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I got laid off from my job at the tech startup last month. Every morning I wake up with this tight feeling in my chest, just dreading the day ahead and thinking about how my savings are slowly draining away. I guess I'm here because people keep telling me therapy helps, but honestly I'm not sure talking about it is going to pay my bills or get me hired anywhere.",
-    "therapist": "It makes complete sense that you're feeling that chest tightness and dread — losing a job is a genuinely destabilizing experience, and the financial pressure on top of it makes everything feel more urgent and heavy. I really appreciate your honesty about being skeptical of therapy, and you're right that our conversations won't directly pay the bills — what they *can* do is help you untangle the thoughts that might be making each day feel even harder than it needs to be. \n\nI'm curious, when you wake up with that tight feeling in the morning, what's usually the first specific thought that runs through your mind?",
+    "client": "I've been really struggling since I got laid off from my job at the tech startup last month. Every morning I wake up with this tight feeling in my chest, just dreading the day ahead and thinking about how my savings are slowly draining away. I'm not even sure talking about it is going to change anything practical, like it's not going to magically put money in my bank account or get me a new job.",
+    "therapist": "It makes complete sense that you're feeling that chest tightness and dread — losing your job is a genuinely difficult and disorienting experience, and the financial worry on top of it is very real. You're right that our conversation won't instantly solve the practical challenges, but sometimes the way we're *thinking* about a situation can make it feel even heavier than it already is, and that's something we can work with together. I'm curious — when you wake up with that dread in the morning, what's usually the very first thought that runs through your mind?",
     "condition": "baseline",
-    "val_t": -0.25031518936157227,
-    "aro_t": 0.1267300844192505,
+    "val_t": -0.35580146312713623,
+    "aro_t": 0.16390526294708252,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the first thought is usually something like \"another day of nothing\" — like I already know before I even get out of bed that I'm going to spend hours sending out applications and hearing nothing back. And then it kind of spirals from there into this feeling that maybe I'm just not good enough, that there's something fundamentally wrong with me that employers can see even through a resume. It's embarrassing to even say out loud, but that's what's actually going through my head.",
-    "therapist": "Thank you for trusting me with that — it takes real courage to say those thoughts out loud, and I want you to know there's nothing embarrassing about them, they're incredibly common after a job loss. What I'm noticing is that your mind is taking a painful situation (a tough job market, slow responses) and turning it into a story about *who you are* as a person, which is a really important distinction to explore. \n\nWhen you think about the evidence — your actual work history, skills, and accomplishments — does that tell the same story as \"something is fundamentally wrong with me,\" or does it tell a different one?",
+    "client": "The first thought is usually something like \"another day of nothing\" — like I'm just going to spin my wheels sending out applications and hearing nothing back. And then almost immediately I start doing the math in my head, calculating how many months I have left before I'm really in trouble, and it just spirals from there. I guess I can see how that might be making things heavier, but it also feels like I'm just being realistic about a genuinely bad situation.",
+    "therapist": "That thought \"another day of nothing\" is really worth pausing on, because it frames the entire day as already failed before it's even begun — and I can see how that would make getting out of bed feel exhausting. You're absolutely right that the situation is genuinely hard, and we don't want to dismiss that, but there's a difference between being realistic and your mind jumping straight to the worst-case version of events before you've even had your coffee. When you look back at the past month, have there actually been *any* small moments of progress — even ones that felt insignificant at the time?",
     "condition": "baseline",
-    "val_t": -0.30120790004730225,
-    "aro_t": 0.11469578742980957,
-    "text_emotion": "Sad"
+    "val_t": -0.16402685642242432,
+    "aro_t": 0.06992447376251221,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, and logically I know my work history isn't bad — I've had good projects, decent feedback from managers. But in the moment when I'm staring at my inbox and there's nothing there, logic kind of goes out the window and it just feels like proof that I'm not good enough. It's like I know the \"right\" answer you're looking for, but knowing it doesn't make the feeling go away.",
-    "therapist": "You've just named something really profound — that knowing the \"rational\" answer and *feeling* it are two very different things, and that gap is exactly where so much of the suffering lives. I'm not looking for a \"right\" answer from you; what you're describing, where an empty inbox becomes *proof* of your worth, is your brain doing something very human but also very painful, treating absence of news as meaningful evidence when really it's just... silence. \n\nWhat do you think it would feel like to treat that empty inbox as neutral information rather than a verdict — even just for an experiment, not because you have to believe it yet?",
+    "client": "I mean, I guess I did get a callback for a phone screen last week, and I updated my LinkedIn profile which I'd been putting off for ages. But honestly, when I think about those things, they feel so small compared to the mountain I'm still facing — like, one phone screen isn't a job offer, you know? I worry that if I start focusing on those little wins, I'm just going to be deluding myself into thinking things are better than they are.",
+    "therapist": "It's really telling that those things *did* happen — a callback and tackling something you'd been avoiding are genuinely meaningful steps, not delusions — and the fact that your mind immediately shrinks them down while magnifying the mountain is actually a really common thinking pattern worth noticing. Acknowledging small progress isn't the same as pretending the mountain doesn't exist; you can hold both truths at once — \"this is hard AND I am moving forward.\" What do you think it would feel like to start your morning by briefly noting one thing you *did* do, rather than letting your mind jump straight to everything still undone?",
     "condition": "baseline",
-    "val_t": -0.06967532634735107,
-    "aro_t": 0.09256529808044434,
-    "text_emotion": "Neutral"
+    "val_t": -0.21376073360443115,
+    "aro_t": 0.13222575187683105,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I want to say it would feel like relief, but honestly, when I try to imagine it, it just feels kind of... impossible? Like, my brain immediately goes \"okay but what if the silence actually does mean something this time\" and then I'm right back in the same loop. I guess I don't fully trust myself to just decide something is neutral when every part of me is screaming that it isn't.",
-    "therapist": "That \"impossible\" feeling is really important information — it tells us that we can't just think our way out of this, which means we need to find smaller, more manageable footholds rather than trying to leap straight to \"it's all neutral.\" What if instead of trying to convince yourself the silence means *nothing*, we just practiced gently questioning whether it means *everything* — creating just a tiny bit of space between the feeling and the verdict? \n\nWhen that loop kicks in and your brain says \"but what if the silence means something this time,\" what do you think you'd need in that moment — distraction, a grounding action, a different question to ask yourself?",
+    "client": "Honestly, my first reaction is that it sounds a bit like one of those gratitude journal things, and I've never really been able to stick with those. I think the problem is that in the morning when that dread hits, I'm not exactly in a headspace where I can think clearly about what I've accomplished — it just feels like the anxiety takes over before I even have a chance. But I don't know, maybe there's something to it, I'm just not sure I'd actually follow through with it consistently.",
+    "therapist": "Your skepticism is really valid — forcing yourself to write in a journal while anxiety is already flooding your system is a bit like trying to read a map in the middle of a storm. What if instead we thought about something even smaller and lower-stakes, like just a single mental \"pause\" when that dread hits — not to force positivity, but just to notice \"there's that anxious thought again\" before it fully takes over? I'm wondering, is there a particular moment in your morning routine — maybe making coffee or getting dressed — where you might have even just a few seconds of mental space before the spiral kicks in?",
     "condition": "baseline",
-    "val_t": -0.12679648399353027,
-    "aro_t": 0.18792951107025146,
+    "val_t": -0.18542742729187012,
+    "aro_t": 0.16696655750274658,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and honestly the idea of just creating \"a tiny bit of space\" feels more realistic than trying to flip some switch and feel neutral about it. But I think my problem is that in the moment, when the silence is actually happening, I don't have access to that rational part of my brain — it's like it just goes offline and the anxiety takes over completely. I'm not sure if a question or a grounding action would even reach me when I'm already that far down the spiral.",
-    "therapist": "What you're describing is so real — anxiety has a way of narrowing our focus so completely that our thinking brain genuinely becomes harder to access, and that's not a personal failing, it's just how our nervous system works under stress. This is actually why it helps to build a small \"circuit breaker\" *before* you're in the spiral — something physical and automatic, like a few slow breaths or even just standing up and moving to a different room, that can create just enough of a pause for that rational part to come back online. \n\nI'm wondering — are there any moments, even brief ones, where you've naturally interrupted a spiral before, and if so, what was happening around you when that occurred?",
+    "client": "When I make coffee is actually kind of a quiet moment, I'll admit — it's usually before I've checked my phone or anything. But I'm a bit skeptical about whether just \"noticing\" the thought is really going to do anything, like won't it still be there after I've noticed it? I guess I don't really understand how observing it changes the experience of it.",
+    "therapist": "That's such a sharp question, and it gets at something really important — noticing doesn't make the thought disappear, but right now the thought is essentially running on autopilot and dragging you straight into the spiral before you've even registered it's happening. When you pause and name it — \"there's that 'another day of nothing' thought\" — you create just a tiny bit of distance between you and the thought, so instead of *being* the anxiety, you're *observing* it, which subtly shifts you from passenger to driver. It's a small shift, but I'm curious — can you think of any time in your life where simply naming something, even just to yourself, made it feel even slightly less overwhelming?",
     "condition": "baseline",
-    "val_t": -0.16330671310424805,
-    "aro_t": 0.1872025728225708,
-    "text_emotion": "Angry"
+    "val_t": -0.07438170909881592,
+    "aro_t": 0.06094801425933838,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "Honestly, I'm trying to think if there's ever been a moment like that, and... maybe once or twice when my roommate happened to come home right in the middle of it. Like, I had to sort of snap out of it to talk to her, and I guess that did break the spiral a little. But I can't exactly count on her being there, and the idea of trying to do some breathing exercise on my own when I'm already panicking just feels kind of impossible — like, who remembers to do that when their brain is already on fire?",
-    "therapist": "That's a really valuable observation — your roommate's presence naturally pulled you out of your head and into connection with another person, and that's not a small thing, it's actually telling us something important about what *your* brain responds to. It sounds like human contact, even brief and unplanned, works as a circuit breaker for you in a way that a solo breathing exercise might not — and that's genuinely useful information we can work with rather than forcing a technique that doesn't fit how you're wired. \n\nI'm curious, are there other small ways you could build in moments of human contact during those hard morning hours — even something low-stakes like a text to a friend or stepping outside where other people are — that might create that same natural interruption?",
+    "client": "Actually, yeah — I remember when I was going through a rough patch a few years ago, I started telling myself \"this is just anxiety talking\" and it did help a little, like it stopped feeling quite so much like the truth. So I guess I can see what you mean about that distance thing. But I'm still not totally sure how to make myself actually do it in the moment when the dread is already hitting hard — it's like knowing you should take a deep breath during a panic attack versus actually being able to do it.",
+    "therapist": "That example you just gave is really significant — you've actually already used this skill before and found it helpful, which means this isn't something foreign you're learning from scratch, it's something you're *reactivating*. You're also absolutely right that knowing and doing are very different things, which is why it helps to anchor the practice to something automatic you're already doing — like that coffee moment — so the routine itself becomes the reminder, rather than relying on willpower when you're already flooded. What if we treated this coming week as a small experiment: just during that coffee moment, see if you can catch the thought and whisper to yourself \"that's the anxiety talking\" — not to fix anything, just to see what happens?",
     "condition": "baseline",
-    "val_t": -0.2119283676147461,
-    "aro_t": 0.26925718784332275,
+    "val_t": -0.15951228141784668,
+    "aro_t": 0.19551944732666016,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I mean, yeah, that makes sense when you put it that way, but I'm not sure texting someone in the morning is as easy as it sounds. Like, I always worry I'm bothering people, especially that early, and then if they don't respond right away I think I've annoyed them or they're avoiding me, which honestly just makes the anxiety worse. Stepping outside where other people are is maybe more realistic, but even that feels kind of daunting when I'm already in that spiral.",
-    "therapist": "It's really striking that the same pattern shows up here too — silence from a friend becomes proof you've bothered them, just like silence from employers becomes proof you're not good enough, and that tells us this is a core thread worth gently pulling on together. Stepping outside feels more realistic to you, and I think that instinct is worth trusting — even just standing on your doorstep or walking to the end of the block puts you in a different physical and sensory space, which can be enough to interrupt the spiral without requiring anything from another person. \n\nWhat do you think the smallest, most manageable version of \"stepping outside\" would look like on a morning when you're already feeling that dread — is there a version that feels just barely doable rather than daunting?",
+    "client": "Framing it as an experiment actually makes it feel a bit less pressured, like I'm not committing to fixing myself or anything, just kind of observing. I think I could probably try that during the coffee moment — it's low enough stakes that I don't feel like I'm setting myself up to fail. My only worry is that some mornings the anxiety hits really hard and I might just forget entirely, and then I'll end up feeling guilty on top of everything else for not even managing to do this one small thing.",
+    "therapist": "It's really wonderful that the experiment framing feels manageable, and I want to gently flag something important: if you forget some mornings, that's not failure — that's just data, and it's actually *expected* when we're trying to build new habits under stress. We can even build that into the experiment itself, so the question isn't \"did I do it every day?\" but rather \"what did I notice on the days I did manage it?\" What do you think it says about how you're treating yourself that your mind immediately jumped to guilt as the consequence for missing a day?",
     "condition": "baseline",
-    "val_t": -0.20013010501861572,
-    "aro_t": 0.1446598768234253,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I think the smallest version would be just opening the front door and standing there for a minute, maybe not even stepping fully outside. But even as I say that, I'm aware that on those really bad mornings, the dread kind of locks me in place, and the door itself starts to feel like this huge barrier. I guess I'm not sure if I'd actually do it or if I'd just tell myself I will and then not follow through, which would make me feel even worse about myself.",
-    "therapist": "Opening the front door — that's a genuinely concrete and reachable idea, and the fact that you identified it yourself matters more than you might realize. I also want to gently notice something: you're already anticipating failure and using it as evidence against yourself, which is that same pattern showing up again — your mind is trying to protect you from disappointment by pre-loading the shame, but it's also quietly talking you out of even trying. \n\nWhat if we treated it not as a commitment you can fail, but as a tiny experiment with no wrong outcome — even getting up and *touching* the door handle on a bad morning would be worth noticing — and I'm curious, is there anything that's ever helped you follow through on something small when that \"locked in place\" feeling has shown up before?",
-    "condition": "baseline",
-    "val_t": -0.33843719959259033,
-    "aro_t": 0.07330620288848877,
+    "val_t": -0.27848803997039795,
+    "aro_t": 0.07303619384765625,
     "text_emotion": "Sad"
   },
   {
-    "turn": 9,
-    "client": "I hear what you're saying about the pre-loading shame thing, and honestly it kind of landed in a weird way because I hadn't thought of it like that before. But calling it a \"tiny experiment with no wrong outcome\" feels a little too clean, like a reframe that sounds nice in a therapy room but falls apart when I'm actually lying there at 2pm feeling like a failure for not having moved in hours. As for what's helped before... I genuinely can't think of anything, which probably says something, though I'm not sure what.",
-    "therapist": "You're right to push back on that — \"no wrong outcome\" can sound hollow when you're actually lying there, and I don't want to offer you something that feels true here but dissolves when you need it most. And I want to sit with what you just said about not being able to think of anything that's helped before, because rather than that meaning something is fundamentally broken in you, it might mean you've been carrying this largely alone, without the right kind of support, for longer than just this past month. \n\nWhat does that 2pm moment actually feel like from the inside — is it more like numbness, or more like being pinned down by something heavy?",
+    "turn": 8,
+    "client": "That's kind of a gut punch of a question, honestly — I think I'm pretty hard on myself in general, like there's this constant background hum of feeling like I should be doing more, handling things better. It's probably connected to the job stuff too, like somewhere in my head I've decided that getting laid off means I wasn't good enough, even though I know rationally it was a company-wide thing. I guess I just hadn't really connected that guilt pattern to how I was thinking about this little experiment until you pointed it out.",
+    "therapist": "That connection you just made is really significant — you've linked together the morning dread, the guilt about the experiment, and this deeper belief that getting laid off means something about your worth, and that kind of insight doesn't come easily. It's worth sitting with the fact that you *know* rationally it was a company-wide decision, which means part of you already has evidence against that \"not good enough\" story — your mind just isn't giving that evidence equal weight. I'm curious, if a close friend came to you and said they'd been laid off in a company-wide cut and therefore must not be good enough, what would you say to them?",
     "condition": "baseline",
-    "val_t": -0.09442293643951416,
-    "aro_t": 0.1177595853805542,
+    "val_t": -0.15768945217132568,
+    "aro_t": 0.10411810874938965,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I'd obviously tell them that's ridiculous, that layoffs happen to talented people all the time and it doesn't define their worth at all. But sitting here trying to apply that same logic to myself feels weirdly harder, like I can see the compassion I'd have for someone else but there's this wall when I try to turn it inward. I don't know, maybe I just don't fully believe I deserve the same kind of understanding I'd give a friend.",
+    "therapist": "What you just said — \"I don't fully believe I deserve the same understanding I'd give a friend\" — is one of the most honest and courageous things you can recognize about yourself, and I want you to know that so many people carry exactly that same wall without ever being able to name it so clearly. That gap between the compassion you'd freely offer someone else and what you allow yourself is something we can really work with, and it's often at the heart of that constant background hum you described. I'm wondering — what do you think that wall is protecting you from, if you were to let a little of that same kindness in?",
+    "condition": "baseline",
+    "val_t": -0.2432563304901123,
+    "aro_t": 0.11370491981506348,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "It's more like being pinned down, honestly. There's this weight that just... settles on my chest, and my mind starts running through everything I haven't done, everyone I've probably disappointed, and it feels like the walls of the room get smaller. I don't know if \"alone\" fully captures it either, because even when people are around, it doesn't really lift.",
-    "therapist": "What you're describing — that weight, the shrinking walls, the sense that even other people's presence can't quite reach you — sounds really exhausting to carry, and I want to make sure I'm understanding the full picture. I have to ask gently and directly: when you're in those moments feeling pinned down and disconnected, do any thoughts of harming yourself or not wanting to be here ever come up?",
+    "client": "That's a question I really wasn't expecting and I'm not sure I have a clean answer for it. My gut reaction is something like... if I let myself off the hook, I might stop pushing hard enough to fix the situation, like the self-criticism is somehow keeping me motivated. But even as I say that out loud, I can hear how exhausting that sounds, like I've basically built a system where being cruel to myself is the only way I know how to function.",
+    "therapist": "What you just described — using self-criticism as fuel — is incredibly common, but you've also just spotted the flaw in it yourself: a system that requires constant cruelty to function is an exhausting and ultimately fragile one, and it's worth asking whether it's actually working, given that the harsh self-talk hasn't made the mornings easier or the job search faster. There's actually good evidence that self-compassion *increases* motivation and resilience rather than undermining it, because you're not spending so much energy just surviving your own inner critic. What might it look like, even in one small moment this week, to try motivating yourself with encouragement rather than criticism — and what feels scary about that?",
     "condition": "baseline",
-    "val_t": -0.2122706174850464,
-    "aro_t": 0.12640011310577393,
+    "val_t": -0.2983134984970093,
+    "aro_t": 0.2845696210861206,
     "text_emotion": "Angry"
   }
 ]

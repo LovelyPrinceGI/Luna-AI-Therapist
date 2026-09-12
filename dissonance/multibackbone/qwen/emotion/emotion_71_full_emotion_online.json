@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been having a really hard time lately. Ever since my grandmother passed away, I can't seem to focus at work, and I feel this overwhelming sadness creeping up on me throughout the day. I know it's normal to grieve, but it's just so hard to manage, and I'm not sure if therapy can really make a difference.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandmother and the challenges you're facing. It's completely normal to feel overwhelmed and struggle with focus after such a loss. Therapy can definitely help you navigate these feelings and find ways to cope. How have you been managing your emotions so far?",
+    "client": "Hey Luna, I've been really struggling lately. Ever since my grandmother passed away, I find it hard to concentrate at work and I'm overwhelmed by sadness during the day. I know I should be more productive, but it's just so hard.",
+    "therapist": "I'm really sorry to hear that you're going through such a tough time, especially with the loss of your grandmother. It's completely understandable that you're feeling overwhelmed and finding it hard to focus. How have you been coping with these feelings, and are there any specific moments when the sadness feels more intense?",
     "condition": "emotion_text_only",
-    "val_t": -0.37427663803100586,
-    "aro_t": 0.09409964084625244,
+    "val_t": -0.3246774673461914,
+    "aro_t": 0.11846733093261719,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It's been really tough. I've been trying to keep busy with work and some chores, but it feels like a Band-Aid on a deep wound. I keep thinking about all the things I wish I had said to her before she passed. It's hard to shake off the guilt and loneliness.",
-    "therapist": "I can hear how deeply you're feeling this loss and the weight of those unspoken words. It's natural to experience guilt and loneliness during times like these. Have you had a chance to talk to anyone about these feelings, or perhaps write them down in a letter, even if you don't send it?",
+    "client": "Thanks for understanding, Luna. I've been trying to cope by distracting myself with work, but that only works for so long. The sadness hits me the hardest in the evenings when I'm alone at home. It feels like the silence is just filled with all these memories and regrets.",
+    "therapist": "It sounds like you're doing your best to manage the sadness, but the evenings can be particularly challenging when you're alone with your thoughts. It's natural for memories and feelings of regret to come up during quieter times. Have you tried reaching out to friends or family during these moments, or perhaps engaging in activities that bring you comfort?",
     "condition": "emotion_text_only",
-    "val_t": -0.18364357948303223,
-    "aro_t": 0.08054697513580322,
+    "val_t": -0.19995653629302979,
+    "aro_t": 0.09820497035980225,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I've thought about writing a letter, but it feels so final, you know? Like it's a way of saying goodbye, and I'm not sure I'm ready for that yet. Plus, I worry it won't really help or might even make me feel worse.",
-    "therapist": "It sounds like writing the letter brings up a lot of mixed feelings for you, and that's completely understandable. It's okay to take your time and do what feels right for you, even if that means not writing the letter just yet. What do you think might help you feel more ready or comfortable with the idea?",
+    "client": "I have tried reaching out to friends, but sometimes I feel like I'm just burdening them with my sadness. And finding activities that bring me comfort is tough because nothing really seems to help. I just end up feeling more isolated and guilty for not being able to move on.",
+    "therapist": "It's completely understandable to feel like you might be burdening others with your sadness, and it's tough when the things you usually enjoy don't seem to help. It's important to remember that sharing your feelings with friends can actually bring you closer, and it's okay to take time to grieve and heal. What are some small steps you might be willing to take to ease the feeling of isolation, even if it's just for a short while?",
     "condition": "emotion_text_only",
-    "val_t": -0.24329829216003418,
-    "aro_t": 0.041075706481933594,
+    "val_t": -0.3648117780685425,
+    "aro_t": 0.028797507286071777,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard because I feel like writing the letter could stir up a lot of old emotions, and I'm not sure I'm ready to face them. Maybe if I could start with something smaller, like just jotting down some of my thoughts without actually sending them, that might help me ease into it. But even that feels daunting.",
-    "therapist": "I understand that facing those emotions can be daunting, and it's okay to take small steps. Starting with jotting down your thoughts without the pressure of sending them can be a gentle way to begin. Maybe you could try writing a few sentences about how you're feeling today or a memory you have of your grandmother. How does that feel to you?",
+    "client": "I hear what you're saying, but it's hard for me to reach out and open up. I worry about how much I might upset them or how they might react. Maybe I could try something small, like sending a quick text to a friend, but I'm not sure it will make a difference.",
+    "therapist": "I can really understand how difficult it is to reach out, especially when you're worried about how they might react. It's a valid concern, and taking small steps can be a good way to start. Sending a quick text is a gentle way to connect and might help you feel less isolated. What do you think about trying that, even if just to see how it feels?",
     "condition": "emotion_text_only",
-    "val_t": 0.059354305267333984,
-    "aro_t": 0.07340145111083984,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate the suggestion, Luna. It feels a bit overwhelming to start, but I can try writing down my thoughts. I just worry that it might stir up more anxiety and sadness, especially thinking about my grandmother. It's hard because those memories are both comforting and painful at the same time.",
-    "therapist": "I completely understand how those memories can be both comforting and painful. It's natural to feel a mix of emotions, and it's okay to take it one step at a time. Starting with a few thoughts might help you process without feeling overwhelmed. How about setting aside a small, manageable time each day to write, even if it's just a few minutes? That way, you can ease into it gradually. What do you think about that?",
-    "condition": "emotion_text_only",
-    "val_t": -0.10985827445983887,
-    "aro_t": 0.1311941146850586,
+    "val_t": -0.15527963638305664,
+    "aro_t": 0.07532632350921631,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I see what you mean about taking it one step at a time, but it still feels really daunting. I worry that even a few minutes a day might bring up too much, and I'm not sure I can handle it. It's hard because I feel like I might get overwhelmed and end up feeling worse.",
-    "therapist": "I can see how the idea of even a few minutes a day still feels daunting, and it's okay to feel that way. It's important to find a pace that feels manageable for you. Maybe we can start with something even smaller, like just taking a moment to acknowledge your feelings without writing them down. How about taking a few deep breaths and saying a short phrase to yourself, like \"It's okay to feel this way\"? How does that feel to you?",
+    "turn": 5,
+    "client": "I appreciate your support, Luna. I'll think about sending a text, but it still feels a bit daunting. I guess I'm afraid of being a downer and making things awkward. But maybe if I just send something light and casual, it could help.",
+    "therapist": "I'm glad you're considering it, even if it feels daunting. It's completely normal to worry about making things awkward, but a light and casual message can be a great way to start. You might find that your friends are more supportive and understanding than you expect. What do you think you might say in a casual text to a friend?",
     "condition": "emotion_text_only",
-    "val_t": -0.30793488025665283,
-    "aro_t": 0.16727256774902344,
+    "val_t": 0.0498652458190918,
+    "aro_t": 0.10364007949829102,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 6,
+    "client": "I think I might start with something simple, like asking how their day was or sharing a funny moment from my day. It feels less heavy that way, and it might make it easier to open up a bit more if the conversation goes well. But I'm still a bit nervous about it.",
+    "therapist": "That's a thoughtful approach, and starting with something light and simple can definitely make it easier to open up gradually. It's natural to feel a bit nervous, but taking that small step can be a significant act of self-care. How do you think you might handle it if the conversation feels a bit awkward at first?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1178276538848877,
+    "aro_t": 0.12202227115631104,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you're trying to make it more manageable, but I still feel a bit skeptical. Taking deep breaths and saying a short phrase sounds simple, but I worry that it won't really make a difference in how I feel. It's hard to believe that such a small step will help with my anxiety and guilt.",
-    "therapist": "I understand your skepticism, and it's completely valid to feel that way, especially when you're dealing with such deep emotions. Small steps can sometimes feel too simple, but they can build up over time and help you feel more in control. If you're not ready for even that, we can explore other strategies. What are some things that have brought you a sense of comfort or relief in the past, even if just a little?",
+    "client": "If the conversation feels awkward, I guess I'll try to be honest and say that I'm feeling a bit off lately. I might say something like, \"I've been having a tough time, but I'm trying to stay positive.\" It's just hard to know how much to share without feeling like I'm oversharing or making things uncomfortable.",
+    "therapist": "It's really brave to consider being honest about how you're feeling, even if it feels a bit off. Sharing that you're having a tough time can actually help others understand where you're coming from and show them that you trust them. If you do feel like you might be oversharing, you can always gauge their reaction and adjust. What do you think might be a good way to check in with yourself after the conversation to see how it went and how you feel?",
     "condition": "emotion_text_only",
-    "val_t": -0.18410348892211914,
-    "aro_t": 0.07563292980194092,
+    "val_t": -0.20789802074432373,
+    "aro_t": 0.01824367046356201,
     "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I appreciate you understanding my skepticism. It's hard to find things that bring me comfort, but sometimes listening to music or going for a short walk helps a little. I just feel like those things don't really address the deeper issues I'm dealing with, you know?",
-    "therapist": "I understand that those small comforts might not feel like they address the deeper issues, but they can still be valuable in providing a bit of relief and grounding. It's important to have those moments of respite, even if they seem small. Have you tried combining these activities with reflecting on your thoughts or feelings afterward? For example, after a walk, you might spend a few minutes thinking about what came up for you during that time. How does that sound to you?",
+    "client": "After the conversation, I think I could take a few minutes to reflect on how it went and how I feel. Maybe writing down my thoughts or even just thinking about it quietly could help me process. It's just hard to know if I'll feel better or if it will bring up more emotions.",
+    "therapist": "Reflecting on the conversation and taking some time to process your thoughts is a great idea. It can help you understand your feelings better and see if the interaction was helpful or if it brought up more emotions. How do you think you might handle any new emotions that come up during this reflection, and is there anything specific you might want to focus on?",
     "condition": "emotion_text_only",
-    "val_t": -0.013673782348632812,
-    "aro_t": 0.03354477882385254,
+    "val_t": -0.1348510980606079,
+    "aro_t": 0.0006327629089355469,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I see what you mean about the small comforts, but I still struggle with feeling like they're just temporary fixes. Reflecting on my thoughts after a walk sounds good in theory, but it's hard for me to do that consistently. I often find myself getting distracted or feeling like I'm not doing it right.",
-    "therapist": "I can understand how those small comforts might feel like temporary fixes, and it's completely normal to struggle with consistency, especially when you're feeling overwhelmed. Reflecting on your thoughts can be challenging, and it's okay to go at your own pace. Maybe we can start by setting a very gentle goal, like taking a moment after your walk to notice one thing you appreciated or found interesting. How does that feel to you?",
+    "client": "I think if new emotions come up, I'll try to be gentle with myself and acknowledge them without judgment. I might focus on the positive aspects of the conversation, like feeling a bit more connected, even if it's just a small step. It's just hard to know if I'll be able to manage any negative feelings that might arise.",
+    "therapist": "It's really admirable that you're planning to be gentle with yourself and acknowledge your emotions without judgment. Focusing on the positive aspects, like feeling more connected, can be a helpful way to navigate through any new emotions that arise. How do you think you might support yourself if you do encounter some negative feelings, even as you take these small steps?",
     "condition": "emotion_text_only",
-    "val_t": -0.1551734209060669,
-    "aro_t": -0.00045859813690185547,
-    "text_emotion": "Sad"
+    "val_t": 0.03180372714996338,
+    "aro_t": 0.011405348777770996,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It does feel a bit daunting to try to be consistent with something new, even if it's just noticing one thing. I worry that I might not be able to stick with it, and then I'll just feel more disappointed in myself. It's hard to find the motivation sometimes, especially when I'm already feeling down.",
-    "therapist": "I understand how daunting it can feel to try to be consistent with something new, especially when you're already feeling down. It's completely normal to worry about not sticking with it and feeling disappointed. How about starting with a very gentle intention, like noticing one thing you appreciate, without putting pressure on yourself to do it every time? Even if you manage it once in a while, it can still be a positive step. What do you think about that?",
+    "client": "If I do encounter negative feelings, I might try to remind myself that it's okay to feel this way and that it's a normal part of the grieving process. I could also use some of the relaxation techniques we've talked about, like deep breathing or a short walk, to help manage those feelings. It's just hard because I often feel like I should be stronger and not let these emotions get to me.",
+    "therapist": "It's really important to remind yourself that it's okay to feel this way, especially during the grieving process. Using relaxation techniques like deep breathing or taking a short walk can be very effective in managing those emotions. It's completely normal to feel like you should be stronger, but allowing yourself to experience and process these feelings is a sign of strength, not weakness. How do you think you can continue to be kind to yourself as you navigate through these emotions?",
     "condition": "emotion_text_only",
-    "val_t": -0.16684257984161377,
-    "aro_t": 0.026418447494506836,
-    "text_emotion": "Sad"
+    "val_t": -0.11723482608795166,
+    "aro_t": 0.05183517932891846,
+    "text_emotion": "Neutral"
   }
 ]

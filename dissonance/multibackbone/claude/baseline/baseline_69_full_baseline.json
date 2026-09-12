@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having a really hard time since my dad passed away two months ago — it was so sudden, and I just wasn't prepared for it at all. Everything feels kind of grey and flat now, like I go through the motions of my day but nothing actually feels meaningful or enjoyable anymore. I'm not even sure talking about it is going to change anything, but I figured I'd try because I don't know what else to do.",
-    "therapist": "It takes real courage to reach out, especially when part of you doubts it will help — and I want you to know that what you're feeling makes complete sense after losing your dad so suddenly and without any chance to prepare. That grey, flat feeling you're describing, where the color seems to have drained out of everyday life, is a very natural response to grief, not a sign that something is permanently broken in you. I'm really glad you're here, and I'd love to understand more — when you think about your dad, is there a particular moment or feeling that tends to come up most strongly for you?",
+    "client": "I've been really struggling ever since my dad passed away two months ago — it was so sudden, and I just wasn't prepared for any of it. Everything that used to feel normal or even enjoyable just feels kind of hollow now, like I'm going through the motions. I'm not even sure talking about it is going to change anything, but I figured I should at least try something because I can't keep living like this.",
+    "therapist": "I'm really glad you reached out, and it takes genuine courage to try something new when you're already feeling so depleted. What you're describing — that hollowness, going through the motions — makes complete sense after such a sudden, profound loss, and it doesn't mean something is permanently broken in you. I also want to honor your honesty about doubting whether talking will help, because that skepticism is worth holding alongside the part of you that showed up here anyway.\n\nCan you tell me a little about what a typical day has felt like for you these past two months?",
     "condition": "baseline",
-    "val_t": -0.20952022075653076,
-    "aro_t": 0.05831575393676758,
-    "text_emotion": "Sad"
+    "val_t": -0.2832791805267334,
+    "aro_t": 0.1435011625289917,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate you saying that, but honestly, part of me still wonders if talking about it is just going to make it worse, you know? Like, the thing that keeps coming up is this image of the last time I saw him — we kind of had an argument about something stupid, and I never got to fix it. I just carry this feeling that he died thinking I didn't care about him, and I don't know how to get past that.",
-    "therapist": "That weight you're carrying — the fear that he died with a wrong impression of you — sounds absolutely exhausting, and it makes so much sense that your mind keeps returning to that last moment. I want to gently ask you to consider this: in the full story of your relationship with your dad, across all the years you shared, is one argument really the thing that would have defined how he understood your love for him? When you think about who he was as a person, what do you imagine he actually held in his heart about you?",
+    "client": "Honestly, most days I just kind of drag myself through the basics — get up, go to work, come home, stare at my phone or the TV without really taking anything in. I used to call my dad pretty much every Sunday, and now Sunday rolls around and I just don't know what to do with myself, so I usually end up just lying in bed longer than I should. It's like there's this routine-shaped hole where he used to be, and I keep almost reaching for it out of habit and then remembering all over again.",
+    "therapist": "That image of a \"routine-shaped hole\" is such a vivid and honest way to describe what you're experiencing — grief doesn't just live in big moments, it hides in the small, ordinary ones like a Sunday phone call, and that repeated moment of reaching and remembering must be exhausting in a quiet, relentless way. What you're feeling isn't you failing to cope; it's actually a reflection of how real and meaningful that connection with your dad was. \n\nI'm curious — when Sunday comes and that wave hits, what kinds of thoughts tend to run through your mind in those moments?",
     "condition": "baseline",
-    "val_t": -0.34178411960601807,
-    "aro_t": 0.19446146488189697,
+    "val_t": -0.20950400829315186,
+    "aro_t": 0.10392260551452637,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I want to believe what you're saying, I really do, but my mind just keeps snagging on that one moment. Like, logically I know we had years of good times, but in the middle of the night when I can't sleep, logic doesn't really show up. And honestly, I don't know what he held in his heart, because I never got to ask him, and that's the part that kills me.",
-    "therapist": "That uncertainty — never getting the chance to ask him — is one of the most painful parts of sudden loss, and I don't want to minimize how real that ache is. What you're describing at 3am is actually something our minds do under grief and stress: they zero in on the most painful possibility as if it were fact, even when the full picture is much more complex. I'm wondering — if your dad were sitting here right now, and you could tell him what you wish he knew, what would you most want to say to him?",
+    "client": "Honestly, a lot of it is guilt — like, I keep thinking about the last time we talked and whether I said enough, whether he knew how much I appreciated him. I also get this thought that I should have called more often, not just on Sundays, and now it's too late and there's nothing I can do about that. It's like my brain just keeps circling back to all the things I didn't do rather than letting me just... miss him.",
+    "therapist": "That circling your brain does — replaying what you didn't say or do — is such a common but painful part of grief, and it's worth gently noticing that your mind is essentially trying to find a way to fix something that feels unbearable, even when there's nothing left to fix. The fact that you're so focused on whether he *knew* you appreciated him actually tells me a lot about how much you cared — people who don't love deeply don't tend to worry about this the way you do. \n\nI'd like to explore that thought a little — if you imagine your dad looking at the relationship you two had, the Sunday calls, the consistency of showing up week after week, what do you think *he* would say about whether you loved him enough?",
     "condition": "baseline",
-    "val_t": -0.2778623104095459,
-    "aro_t": 0.27094709873199463,
-    "text_emotion": "Angry"
+    "val_t": -0.3083465099334717,
+    "aro_t": 0.07855629920959473,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I sit with that question for a moment because it catches me off guard. I think... I'd want him to know that I'm sorry I wasn't there more in the last year, that I got so caught up in my own stuff and I just assumed we had more time. And I'd want him to know that I loved him even when I was bad at showing it, because I'm not sure he always knew that.",
-    "therapist": "What you just shared is so tender and so honest, and the love in those words is unmistakable — the very fact that you carry this much pain is itself evidence of how deeply you cared. I also notice something important: you said you loved him \"even when you were bad at showing it,\" which tells me you know the love was always there, even when life got in the way, and chances are he felt that too in ways that went beyond any single argument. I'm curious — is there anything you remember from your years together, maybe something small, that might suggest he did know you loved him, even imperfectly?",
+    "client": "I mean, logically I know he probably would have said I was a good kid and that he knew I loved him — he wasn't the type to hold things against people. But when I try to actually picture that, it feels almost like I'm just making it up to make myself feel better, like I'm putting words in his mouth that I can't really be sure of. So I'm not sure that exercise fully works for me, because my brain just comes back with \"but you can't actually know that.\"",
+    "therapist": "That's such an important and honest pushback, and I really respect that you're not just accepting a reframe that doesn't genuinely land for you — that kind of self-awareness is actually really valuable in this process. What I'd gently offer is that your brain applying that \"you can't actually know\" standard only seems to go one direction — it doubts the reassuring thoughts, but it accepts the guilty ones as fact, even though you can't fully verify those either. \n\nSo I'm wondering — what actual evidence from your *history together*, things he said or did over the years, might speak to how he saw you and your relationship?",
     "condition": "baseline",
-    "val_t": -0.025730609893798828,
-    "aro_t": 0.16896569728851318,
-    "text_emotion": "Tense"
+    "val_t": -0.08510804176330566,
+    "aro_t": 0.11658716201782227,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I sit with that for a moment, because honestly my first instinct is to brush it off and say \"I don't know.\" But there is this one thing I keep coming back to — he used to call me on Sunday mornings just to talk about nothing, football scores or whatever he'd watched on TV, and he kept doing that even after some of our worst fights. Maybe that means something, I don't know, but it also just makes me sad because I didn't always pick up.",
-    "therapist": "Those Sunday morning calls are so meaningful — he kept reaching for you, consistently, even after conflict, and that's not something people do unless they feel a fundamental connection and love. And I want to gently reflect something back to you: you remember those calls, you notice what they meant, and even the sadness you feel about the missed ones shows how much you valued that thread between you. What do you think it says about him — and about the two of you — that he kept calling?",
+    "client": "That point about the double standard actually kind of stopped me for a second, because I hadn't thought about it that way before. I guess there are things — like he used to brag about me to his friends, I know that because they'd mention it, and he'd always pick up the phone no matter what time I called. But even as I'm saying that, there's a part of me that feels almost guilty for using those memories as evidence, like I'm trying to let myself off the hook for something I should still feel bad about.",
+    "therapist": "That moment of pause you just had is really significant — you found real, concrete evidence that existed independent of your grief, things other people witnessed and reflected back to you. And I want to name what's happening in that last part gently: your mind seems to have a rule that feeling better about this is somehow a betrayal, like grief is something you *owe* your dad, and that letting go of the guilt means you're not taking the loss seriously enough.\n\nWhat do you think — is it possible to fully honor how much he meant to you *and* release some of this guilt, or does part of you feel those two things can't coexist?",
     "condition": "baseline",
-    "val_t": -0.3030714988708496,
-    "aro_t": 0.11667263507843018,
-    "text_emotion": "Sad"
+    "val_t": -0.24908125400543213,
+    "aro_t": 0.11150550842285156,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I think it says he never stopped caring, even when things were hard between us... and maybe that he was more patient with me than I ever gave him credit for. But then I feel this wave of guilt, because if he kept reaching out and I wasn't always there, what does that say about me? I don't know if I can hold onto the idea that it was a real connection without also feeling like I failed it somehow.",
-    "therapist": "The fact that you can hold both of those things — his patience and your own regret — actually shows a lot of emotional honesty and maturity, even if it feels painful right now. But I want to gently challenge the idea that imperfectly showing up to a relationship means you failed it — real connections aren't destroyed by missed calls or busy seasons of life, and his continued reaching out suggests he understood that too. I'm wondering, if a close friend described their relationship with their parent in exactly the same way you just described yours, would you tell them they had failed — or would you see something more complicated and more human than that?",
+    "client": "That framing actually makes a strange kind of sense — like I've been treating the guilt as proof that I loved him, so dropping it feels dangerous, like I'd be losing the last thread connecting me to how much he mattered. But I genuinely don't know how you just... decide to let something like that go, it's not like I can flip a switch. It feels more like the guilt has become such a habit that even if I wanted to release it, I wouldn't know where to start.",
+    "therapist": "What you just named — guilt as a habit, as a thread of connection — is genuinely one of the most insightful things you can recognize in grief, and it reframes the whole challenge: this isn't about willpower or flipping a switch, it's about slowly building *other* threads that connect you to how much he mattered, ones that don't require you to suffer to prove your love. The Sunday calls, the bragging to his friends, the way he always picked up — those are also threads, and they don't ask anything painful of you to hold onto. \n\nI'm wondering if we could think small here — is there one tiny thing, maybe even on a Sunday, that might let you feel close to him or honor what he meant to you in a way that feels different from lying in bed with the guilt?",
     "condition": "baseline",
-    "val_t": -0.27567851543426514,
-    "aro_t": 0.06318366527557373,
-    "text_emotion": "Sad"
+    "val_t": -0.2678302526473999,
+    "aro_t": 0.17125511169433594,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I mean... no, I wouldn't tell a friend they failed. I'd probably say they did the best they could given everything going on in their life. But it feels different when it's me — like I'm supposed to hold myself to a higher standard because he was my dad, not just anyone.",
-    "therapist": "What you just noticed is really important — that gap between the compassion you'd freely offer a friend and the much harsher standard you hold yourself to is something worth sitting with, because it tells us a lot about where some of this pain is coming from. That double standard isn't a sign that you're right to judge yourself more harshly; it's actually a very common pattern in grief, where love gets tangled up with self-blame as a way of trying to make sense of an unbearable loss. I'm curious — where do you think that belief comes from, that loving someone deeply means you're not allowed the same grace you'd give anyone else?",
+    "client": "There's a part of me that wants to say yes to that, but I'm also a little worried that whatever I try will just end up feeling hollow or performative, like I'm doing a ritual that doesn't actually reach him. He and I used to watch the same football team, and I've been avoiding games completely because it feels like too much — but maybe that's actually something I could try, just watching a game and letting myself think about him without it having to mean anything profound. I guess my hesitation is that I'm not sure if it'll help or just make the missing worse.",
+    "therapist": "What you just described — watching a game, letting yourself think about him, without it needing to be profound — actually sounds like exactly the right size and spirit for a first step, and I love that it came from you rather than me. And your hesitation is worth taking seriously, but I'd gently offer that \"making the missing worse\" and \"helping\" might not be opposites here — sometimes letting yourself truly miss someone in a context that also holds good memories is itself a form of relief, even when it hurts.\n\nWhat if you approached it as a small experiment rather than a solution — just one game, with no pressure to feel better afterward, and then we see what actually happened rather than what you feared might happen?",
     "condition": "baseline",
-    "val_t": -0.06167292594909668,
-    "aro_t": 0.10241401195526123,
+    "val_t": -0.06635153293609619,
+    "aro_t": 0.08528292179107666,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I don't know, I've never really thought about it that way before. I guess somewhere along the line I started believing that if I really loved him, I should have done more, seen the signs earlier, been there in a different way. It's like the love itself is what makes me feel like I failed him, and I'm not sure I can just... untangle that, even if what you're saying makes sense logically.",
-    "therapist": "What you just articulated — that the love itself is the source of the guilt — is a really profound insight, and it makes so much sense that it feels impossible to untangle, because you've been carrying that belief for a long time without even knowing it was there. We don't have to untangle it all at once; just noticing that the guilt and the love have gotten knotted together is itself a meaningful first step, and it's something we can gently explore over time. I'm wondering — does any part of you believe that your dad, knowing you the way he did, would want you to keep punishing yourself with that knot, or would he want something different for you?",
+    "client": "Framing it as an experiment rather than a solution actually takes some pressure off, because I think part of what's been stopping me is this fear that I'll try something and it won't work and that'll just confirm that nothing can help. I can probably do that — just one game, no expectations. I guess my only real worry is that I'll be sitting there alone, and the loneliness of watching it without being able to text him about it might just feel unbearable in a way that's hard to prepare for.",
+    "therapist": "That worry about the loneliness mid-game is so real and worth taking seriously — there's a difference between missing him in the abstract and hitting that specific moment where you'd normally grab your phone, and it makes sense to think ahead about that. It might be worth having a small plan for that moment, not to avoid the feeling but to have somewhere to put it — whether that's texting a friend who knew him, jotting down what you would have said to him, or just letting yourself sit with it for a minute and acknowledging that the urge to reach out is itself evidence of something beautiful.\n\nIs there anyone in your life — maybe someone who also loved him or shared that football connection — who might want to watch that game with you, or even just be a text away?",
     "condition": "baseline",
-    "val_t": -0.06770789623260498,
-    "aro_t": 0.1733921766281128,
-    "text_emotion": "Tense"
+    "val_t": -0.27289319038391113,
+    "aro_t": 0.1515895128250122,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That question kind of stopped me in my tracks, because I know the answer — I know he wouldn't want this for me. But knowing that and actually feeling it are two completely different things, and right now it just feels like an intellectual answer I can give without it really landing anywhere inside me. It's like I can say the words \"he'd want me to be okay\" but there's still this other part that insists I don't deserve to be.",
-    "therapist": "You just named something really important — that there's a part of you that doesn't feel you deserve to be okay, and that's worth taking seriously, because that belief is carrying a lot of weight right now. The gap between knowing something and *feeling* it is real, and it often takes time and gentle repetition before the heart catches up with what the mind already understands — so please don't judge yourself for being in that gap. I'm curious about that voice that says you don't deserve to be okay — how long do you think it's been with you, and do you sense it was there even before you lost your dad?",
+    "client": "There's my uncle — my dad's brother — who's been a fan of the same team forever, and honestly I've been avoiding him a little because talking to him means talking about my dad, and I haven't felt ready for that. But maybe that's actually backwards, like maybe he's one of the few people who actually gets what I'm losing because he's losing it too. I'm a little scared to reach out because I don't want to make it harder for him or feel like I'm burdening someone else with my grief.",
+    "therapist": "What you just flipped there — realizing that avoiding your uncle might actually be backwards — is a really meaningful shift, and I think your instinct is right that he might be one of the few people who doesn't need the loss explained to him. And that fear of burdening him is tender and kind, but consider that he may be sitting with his own version of the same loneliness, possibly also wondering if reaching out would be too much for *you* — sometimes two people are protecting each other from the very thing they both need.\n\nWhat would it feel like to send him just a small, low-pressure message — maybe something as simple as mentioning the game and seeing if he'd want to watch together?",
     "condition": "baseline",
-    "val_t": -0.18313050270080566,
-    "aro_t": 0.15230894088745117,
+    "val_t": -0.38097620010375977,
+    "aro_t": 0.16933298110961914,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Honestly, that voice has been around for a long time... way before my dad died. I think it started when I was pretty young, like I always felt like I had to earn my place in the family, earn people's love, and if I messed up even a little it meant I wasn't good enough. Losing my dad just kind of turned up the volume on something that was already there, you know?",
-    "therapist": "What you just shared takes real courage, and it reframes so much — your dad's death didn't create this wound, it reopened something much older, and that means the grief you're carrying is doing double duty right now. That young part of you who learned love had to be earned deserved so much better than that burden, and it makes complete sense that it's been shaping how you see yourself ever since. I'm wondering — when you think back to that younger version of you, the one who first learned they had to earn their place, what do you wish someone had told them?",
+    "client": "Honestly, when I picture actually typing that message out, my stomach tightens up a little — like there's this fear that once I open that door, we'll both just fall apart and I won't know how to hold that for either of us. But I think you're right that we might both be doing the same dance around each other, and that's kind of a sad thought. I could probably manage something short, like just mentioning the game without making it heavy, and see what he says.",
+    "therapist": "That image of both of you doing the same dance around each other, each trying to protect the other, is quietly heartbreaking — and noticing it might be exactly what gives you the courage to take one small step out of it. A short, light message about the game is a beautiful way to open a door without forcing either of you to walk through it all at once, and if you both end up falling apart a little watching that game together, that might actually be exactly the right thing rather than something to fear.\n\nAs you sit with all of this today, I'm wondering — what feels even just slightly different about how you're seeing things compared to when we started talking?",
     "condition": "baseline",
-    "val_t": -0.12891900539398193,
-    "aro_t": 0.13122475147247314,
+    "val_t": -0.13934707641601562,
+    "aro_t": 0.15390324592590332,
     "text_emotion": "Angry"
   }
 ]

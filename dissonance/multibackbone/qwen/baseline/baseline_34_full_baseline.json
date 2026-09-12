@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. I'm trying to balance my graduate program and my part-time job at the coffee shop, and it feels like I'm constantly falling short in both areas. I know I should be able to handle it, but I just feel so stretched and stressed all the time. I'm not even sure if therapy can really help with all this.",
-    "therapist": "It sounds incredibly overwhelming to be juggling both your graduate program and your job, and it’s completely normal to feel stretched and stressed in these circumstances. It’s really brave of you to reach out and talk about how you’re feeling. How have you been coping with these feelings so far, and what do you think might help you feel a bit more in control?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. I'm trying to juggle my graduate program and my part-time job at the coffee shop, and it's just a lot. I keep feeling like I'm not doing enough in either place, and it's starting to really stress me out. I'm not even sure if talking about it will help, but here I am.",
+    "therapist": "Hi there, it sounds like you're carrying a heavy load right now, and it's completely understandable to feel overwhelmed with everything you're juggling. It’s really brave of you to reach out and share how you’re feeling. How have you been coping with these feelings so far, and is there anything specific that you think might help ease the stress?",
     "condition": "baseline",
-    "val_t": -0.2795919179916382,
-    "aro_t": 0.21984505653381348,
+    "val_t": -0.22407889366149902,
+    "aro_t": 0.20550692081451416,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks, Luna. It does feel overwhelming, and sometimes I feel like I'm drowning. I've been trying to keep it all together by staying up late to get everything done, but it's not sustainable. I know I need to find a better way to manage, but it's hard to see a clear path forward.",
-    "therapist": "It’s really tough to feel like you’re drowning, and I can see how exhausting it must be to try and keep everything together by staying up late. It’s great that you recognize the need for a more sustainable way to manage. What are some things that have helped you feel more balanced or less stressed in the past, even if just for a little while?",
+    "client": "Thanks for listening, Luna. I've been trying to stay organized with lists and schedules, but it feels like I'm just spinning my wheels. I've also been trying to get enough sleep and eat well, but it's hard to keep up with everything. I don't really know what else to do to make it feel more manageable. It's just so overwhelming.",
+    "therapist": "I can really see how much effort you're putting into managing everything, and it’s impressive that you’re already using strategies like staying organized and taking care of your basic needs. It’s totally normal to feel like you’re spinning your wheels when you’re under this much pressure. Have you noticed any specific thoughts that come up when you feel overwhelmed, or any situations that seem to trigger these feelings the most?",
     "condition": "baseline",
-    "val_t": -0.08316910266876221,
-    "aro_t": 0.15595710277557373,
-    "text_emotion": "Angry"
+    "val_t": 0.04608869552612305,
+    "aro_t": 0.2539790868759155,
+    "text_emotion": "Tense"
   },
   {
     "turn": 3,
-    "client": "I appreciate you understanding how hard it is. Sometimes, I find that going for a walk or listening to music helps a little, but it’s hard to make those things a regular part of my routine. I feel like I can’t afford to take that time when there’s so much to do.",
-    "therapist": "It’s completely understandable to feel that way when you have so much on your plate. Taking time for yourself can feel like a luxury, but it’s actually a crucial part of maintaining your well-being. How do you think we could find small, manageable ways to incorporate these activities into your routine, even if it’s just a few minutes a day?",
+    "client": "Yeah, I think a lot of my overwhelm comes from feeling like I'm not doing enough in either place. When I'm at work, I feel guilty about not dedicating more time to my studies, and when I'm studying, I feel like I should be contributing more at my job. It's a constant back-and-forth, and it's exhausting. I don't really know how to break out of this cycle.",
+    "therapist": "It sounds like you’re caught in a really tough cycle of self-criticism and guilt, which can definitely make things feel even more overwhelming. It’s understandable to want to excel in both areas, but that pressure can be really draining. Have you ever tried setting some specific, small goals for each area that feel achievable, or perhaps talking to someone in either place about how you’re feeling to see if they can offer any support or flexibility?",
     "condition": "baseline",
-    "val_t": 0.039862632751464844,
-    "aro_t": 0.04566359519958496,
-    "text_emotion": "Neutral"
+    "val_t": -0.19079828262329102,
+    "aro_t": 0.14440655708312988,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, and I know it's important, but it feels like even finding a few minutes a day is a challenge. I often end up feeling guilty for taking time for myself, like I should be doing something more productive or helping someone else. It's hard to break that cycle.",
-    "therapist": "I hear you, and it’s really common to feel guilty about taking time for yourself, especially when you have so many responsibilities. It’s important to remember that self-care isn’t selfish; it’s actually a way to recharge so you can be more effective in all areas of your life. What do you think might help you reduce that guilt, even just a little bit? Maybe there’s a way to reframe how you see self-care, or a small step you can take to start feeling more comfortable with it?",
+    "client": "I like the idea of setting smaller goals, but I worry that even small goals might feel too big sometimes. And talking to someone about how I’m feeling sounds good in theory, but I don’t want to come across as complaining or not pulling my weight. It’s hard to open up about these things, you know?",
+    "therapist": "I completely understand those concerns. It’s totally normal to worry that even smaller goals might feel too big, and it’s really common to feel hesitant about opening up for fear of being seen as complaining. Maybe we could start by breaking down those smaller goals into even tinier, more manageable steps, and see how that feels. And when it comes to talking to others, you could frame it as seeking support to improve and balance your responsibilities. How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.2007911205291748,
-    "aro_t": 0.02855360507965088,
-    "text_emotion": "Sad"
+    "val_t": -0.07551252841949463,
+    "aro_t": -0.005190134048461914,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I understand what you're saying, and I know self-care is important, but it's still hard for me to shake the guilt. I feel like every minute I spend on myself is a minute I could be using to help my family or get more work done. It’s a struggle to see it as anything but selfish. How do I even start to change that mindset? It feels so ingrained.",
-    "therapist": "It’s completely understandable to feel that way, and those feelings of guilt can be deeply ingrained. Changing that mindset takes time and practice, but it’s a worthwhile journey. One step could be to start by recognizing the value you bring to your family and work when you’re not burnt out. How do you think taking care of yourself might actually benefit the people you care about and the tasks you need to complete?",
+    "client": "That does sound a bit more doable, Luna. I think breaking things down into even smaller steps could help. But I still worry about how I’ll find the motivation to stick to those steps, especially when I’m feeling so drained. As for talking to others, I’ll give it some thought, but it’s still a bit daunting.",
+    "therapist": "It’s great to hear that breaking things down into smaller steps feels more manageable. Finding motivation when you’re feeling drained can be really challenging, but even the smallest steps can make a difference. Maybe we could explore some simple self-care practices or quick energy boosters that can help you feel a bit more energized throughout the day. And taking it one step at a time with talking to others is a good approach. What are some of the things that might make it feel less daunting to have those conversations?",
     "condition": "baseline",
-    "val_t": -0.319693922996521,
-    "aro_t": 0.08949947357177734,
-    "text_emotion": "Sad"
+    "val_t": -0.0616682767868042,
+    "aro_t": 0.10567796230316162,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying, but it's hard for me to see the value I bring when I'm already feeling so guilty about taking time for myself. It feels like a Catch-22—like I need to be perfect to justify taking a break, but I can never be perfect enough. How do I break that cycle?",
-    "therapist": "It’s really tough to feel stuck in that cycle, and it’s understandable to feel like you need to be perfect to justify taking a break. One way to break this cycle is to start with small, gentle steps. Maybe you could try setting aside just a few minutes each day for something that brings you a sense of relief or joy, without placing any expectations on yourself. How do you think you might feel if you started with something small and manageable, like a short walk or a few minutes of deep breathing?",
+    "client": "I think having a few quick self-care practices could definitely help. Maybe taking a short walk or doing a quick mindfulness exercise when I feel overwhelmed. As for talking to others, I think it would help if I could frame the conversation as a way to improve my performance and balance, rather than just complaining. I’ll try to focus on specific areas where I need support, which might make it feel less daunting.",
+    "therapist": "That’s a fantastic plan! Incorporating quick self-care practices like short walks or mindfulness exercises can be really effective in managing stress and boosting your energy. Focusing on specific areas where you need support and framing the conversation as a way to improve your performance is a great approach. It shows a proactive and solution-oriented mindset. How do you think you’ll feel after taking these steps, and is there anything else you think might help you feel more confident in these conversations?",
     "condition": "baseline",
-    "val_t": -0.15195870399475098,
-    "aro_t": 0.13887596130371094,
-    "text_emotion": "Angry"
+    "val_t": 0.0478748083114624,
+    "aro_t": 0.06863200664520264,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, and I do want to try, but it feels like even those small things might just add to my anxiety. I worry that if I take time for myself, even just a few minutes, I'll end up feeling guilty for not doing something more productive. It's hard to break that thought pattern.",
-    "therapist": "I completely understand how those thoughts can make it hard to take that first step. It’s natural to worry about feeling guilty, especially when you’re already under a lot of pressure. One thing we can try is to gently challenge those thoughts by looking at the evidence. For example, what might happen if you took just a few minutes for yourself, and how might that compare to the worry you’re feeling now? What do you think could be a small, manageable step that might help you start to see things differently?",
+    "client": "I think I’ll feel a bit more in control and less overwhelmed if I can stick to these smaller steps and self-care practices. It’s still a bit daunting, but breaking it down makes it feel more achievable. I might also find it helpful to write down some key points I want to discuss before talking to my supervisor or a professor, just to keep myself on track and make sure I’m clear about what I need.",
+    "therapist": "That’s a really positive outlook, and writing down key points before your conversations is a great strategy to stay focused and clear. It’s completely normal to still feel a bit daunted, but you’re taking important steps to make the situation more manageable. How do you think you’ll handle it if you encounter any setbacks or if the conversations don’t go exactly as you hoped? Having a plan for those moments can also help build your confidence.",
     "condition": "baseline",
-    "val_t": -0.24320697784423828,
-    "aro_t": 0.10179793834686279,
-    "text_emotion": "Angry"
+    "val_t": -0.00580906867980957,
+    "aro_t": 0.11726236343383789,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate your understanding, Luna. It's just that whenever I try to take time for myself, I end up feeling guilty and thinking about all the things I should be doing instead. I know it’s important, but it’s hard to see how a few minutes alone will make a difference when I feel like I’m constantly behind. How can I start to change that without feeling even more overwhelmed?",
-    "therapist": "I understand how challenging it can be to break that cycle of guilt and feeling behind. It’s okay to start small and focus on what feels manageable. One approach could be to reframe those few minutes as a necessary investment in your well-being, rather than time taken away from your responsibilities. What if you viewed those moments as a way to recharge, so you can be more effective and present when you return to your tasks? How do you think you might feel if you tried to approach self-care from this perspective, even for a short time each day?",
+    "client": "I think if I encounter setbacks, I’ll try to remind myself that it’s okay to not have everything figured out right away. I might need to take a step back, reassess, and maybe even reach out for more support if needed. It’s just hard to shake the feeling of not being good enough, but I’ll do my best to stay positive and focused on the progress I’m making.",
+    "therapist": "That’s a really healthy and balanced approach, and I’m proud of you for recognizing the importance of self-compassion and flexibility. Reminding yourself that it’s okay to not have everything figured out right away is a powerful way to manage those feelings of not being good enough. It’s also great that you’re open to reaching out for more support when needed. How do you think you can continue to reinforce these positive thoughts and strategies in your daily life?",
     "condition": "baseline",
-    "val_t": -0.1372067928314209,
-    "aro_t": 0.19245457649230957,
-    "text_emotion": "Angry"
+    "val_t": 0.04360353946685791,
+    "aro_t": 0.114707350730896,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and I do see the logic in it. But it's hard for me to actually believe that taking time for myself won't make me feel guilty or like I'm falling behind. It feels like a luxury I can't afford, even if it's just a few minutes.",
-    "therapist": "I completely understand how difficult it is to shift that mindset, especially when you’re already feeling overwhelmed. It’s okay to take it one small step at a time. What if we started by trying to identify a specific activity that you enjoy and that feels less like a luxury and more like a necessary break? For example, a short walk, a few minutes of deep breathing, or even a quick chat with a friend. How do you think you might feel if you tried to see this as a way to maintain your energy and well-being, rather than a luxury?",
+    "client": "I think I can start by setting aside a few minutes each day to reflect on what I’ve accomplished, no matter how small. It might also help to have a friend or family member check in with me occasionally to provide some encouragement and support. It’s still a bit daunting, but I’m willing to give it a try.",
+    "therapist": "That’s a wonderful plan, and I’m really encouraged to hear you’re considering ways to celebrate your accomplishments, no matter how small. Having a friend or family member check in can be a great source of support and motivation. It’s totally normal for it to feel daunting, but you’re taking meaningful steps to manage your stress and build a more balanced life. How do you think you’ll feel after a week of practicing these new strategies, and is there anything else you’d like to explore or prepare for?",
     "condition": "baseline",
-    "val_t": -0.057038307189941406,
-    "aro_t": 0.1323690414428711,
+    "val_t": 0.11874222755432129,
+    "aro_t": 0.07786595821380615,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but it's hard because I often feel guilty when I take time for myself. I worry that I'm not being productive or that I'm letting others down. It's tough to see these moments as necessary when I feel like I should always be doing more.",
-    "therapist": "I understand how tough it is to overcome that guilt, and it’s completely valid to worry about not being productive or letting others down. It’s a common feeling, especially when you’re juggling so many responsibilities. One thing that might help is to start by reframing these moments as essential for your overall well-being, rather than just a break. How do you think you might feel if you viewed these small moments as a way to prevent burnout and improve your ability to support others, rather than as a luxury?",
+    "client": "After a week of practicing these new strategies, I think I’ll feel a bit more grounded and less overwhelmed. It might still be a challenge, but I’m hopeful that it will start to make a difference. I’m curious, though—do you have any tips for staying consistent with these practices, especially when things get really busy?",
+    "therapist": "That’s a really positive and hopeful outlook, and I’m glad you’re feeling more grounded. Staying consistent with these practices, especially during busy times, can definitely be a challenge. One tip is to integrate these practices into your daily routine in a way that feels natural and manageable. For example, you could set specific times for quick mindfulness exercises or short walks, just like you would for any other important task. It can also help to have a gentle reminder system, like setting an alarm on your phone or writing a note where you’ll see it often. How do you think you can make these practices a regular part of your day, even when things get hectic?",
     "condition": "baseline",
-    "val_t": -0.12430644035339355,
-    "aro_t": 0.02744424343109131,
+    "val_t": 0.04426836967468262,
+    "aro_t": 0.055786728858947754,
     "text_emotion": "Neutral"
   }
 ]

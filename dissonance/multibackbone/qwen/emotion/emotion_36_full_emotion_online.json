@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. My new business is already costing more than I anticipated, and I just got hit with some unexpected tax bills last week. It feels like everything is piling up, and I’m not sure how to manage it all.",
-    "therapist": "It sounds like you’re under a lot of pressure right now, and it’s completely understandable to feel overwhelmed with everything piling up. Let’s break it down a bit—what’s one small step you could take today to start managing the stress?",
+    "client": "Hey Luna, I've been really stressed lately about my new business. I just got hit with some unexpected tax bills, and it's making me feel like everything is spiraling out of control. I know I should be more optimistic, but it’s hard to see a way out. I’m not even sure if therapy can really help with something like this.",
+    "therapist": "Hi there, it sounds like you're going through a really tough time with your business and these unexpected tax bills. It's completely understandable to feel overwhelmed and uncertain, especially when things seem to be piling up. How have you been coping with these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.25174546241760254,
-    "aro_t": 0.23094916343688965,
+    "val_t": -0.33917129039764404,
+    "aro_t": 0.16170120239257812,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate that, Luna. It’s just hard to know where to start, you know? Everything feels so overwhelming, and I’m not sure a small step will make much of a difference. It’s hard because I feel like I’m already trying my best, but it’s not enough.",
-    "therapist": "I can really hear how challenging this feels for you, and it’s completely normal to feel stuck when everything seems so overwhelming. It sounds like you’re already putting in a lot of effort, and that’s something to acknowledge. Sometimes, even a small step can help shift the momentum. What’s one thing that’s been a small win for you recently, even if it feels minor?",
+    "client": "Thanks for understanding, Luna. I've been trying to stay on top of everything, but it feels like no matter how much I work, I can't get ahead. I've been staying up late, skipping meals, and I even had to push back important client meetings. It's just all so exhausting, and I feel like I'm losing control. I don't think I can keep this up much longer.",
+    "therapist": "It sounds like you're putting a tremendous amount of pressure on yourself, and it's taking a toll. It's really important to acknowledge how exhausting and overwhelming this has been for you. What do you think might help you feel a bit more in control or give you some relief in the short term?",
     "condition": "emotion_text_only",
-    "val_t": 0.02269768714904785,
-    "aro_t": 0.2306993007659912,
-    "text_emotion": "Tense"
+    "val_t": -0.13555777072906494,
+    "aro_t": 0.2687941789627075,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It's hard to see any wins sometimes, but I guess I did manage to make my bed every day this week. It feels like a tiny victory, but it's something, I suppose. It's just hard to feel like it makes a difference when everything else feels so heavy.",
-    "therapist": "It’s really great that you’re recognizing those small victories, like making your bed every day. Those little actions can actually make a bigger impact than you might think, especially in moments when everything else feels heavy. How do you think acknowledging these small wins might help you in managing the larger challenges you’re facing?",
+    "client": "I guess taking a break and doing something I enjoy might help, but it feels selfish to take time for myself when there's so much to do. I also worry that if I slow down, everything will fall apart. It's hard to see how I can find a balance right now.",
+    "therapist": "It's completely understandable to feel that way, especially when there's so much on your plate. Taking time for yourself isn't selfish; it's essential for your well-being and can actually help you be more productive and resilient. What are some small things you could do to recharge that might not feel like a huge time commitment?",
     "condition": "emotion_text_only",
-    "val_t": 0.11573076248168945,
-    "aro_t": 0.15354537963867188,
-    "text_emotion": "Excited"
+    "val_t": -0.20562827587127686,
+    "aro_t": 0.0949239730834961,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess I see what you mean about the small wins, but it still feels like they're just drops in a bucket compared to everything else. It's hard to feel like those little things are enough when the bigger stuff still looms over me. I worry that focusing on them might just be a distraction from the real issues.",
-    "therapist": "I totally understand how you feel. It’s natural to worry that small wins might seem insignificant when there are bigger issues at stake. However, those small steps can actually build your resilience and give you a sense of control, even if they don’t solve everything right away. What do you think might be a small, manageable step you could take to address one of the bigger issues, even if it’s just a tiny bit?",
+    "client": "I hear what you're saying, and I know it makes sense, but it's hard to see how a quick break will make a difference when there's so much at stake. Maybe I could take a short walk or listen to some music, but it feels like those things are just a band-aid solution. I worry that I'll come back to the same pile of problems and feel even more overwhelmed.",
+    "therapist": "I understand that it can feel like a quick break is just a temporary fix, especially when the stakes are so high. It's important to recognize that taking small breaks can actually help clear your mind and reduce some of the immediate stress, even if it doesn't solve everything. What do you think might be a manageable way to incorporate these short breaks into your day without feeling like you're falling behind?",
     "condition": "emotion_text_only",
-    "val_t": -0.07132148742675781,
-    "aro_t": 0.08863818645477295,
-    "text_emotion": "Neutral"
+    "val_t": -0.23440837860107422,
+    "aro_t": 0.14979863166809082,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I see what you're saying, but it feels like those small steps won't make a dent in the bigger problems I'm facing. It's hard to see how something small could really help when I feel so overwhelmed by everything else. I guess I could try something, but I’m not sure what would even make a difference.",
-    "therapist": "I understand that it feels like those small steps might not make much of a difference when you’re facing such big challenges. It’s completely valid to feel that way. Sometimes, though, even a small step can start to shift your perspective and give you a bit more energy to tackle the bigger issues. What’s one small action you could take today that feels doable, even if it seems minor?",
+    "client": "I see your point, Luna, but it's still hard for me to see how a short break will make a real difference. I guess I could try setting a timer to take a five-minute walk or do some deep breathing exercises. But I worry that if I take too many breaks, I'll fall further behind and the problems will just pile up even more.",
+    "therapist": "I understand your concerns, and it's completely valid to worry about falling behind. Starting with small, manageable breaks can be a good way to test the waters and see how it affects your focus and energy. Maybe you could try setting a timer for a five-minute break every couple of hours and see how it impacts your productivity and stress levels. How does that sound?",
     "condition": "emotion_text_only",
-    "val_t": -0.0987846851348877,
-    "aro_t": 0.11949634552001953,
-    "text_emotion": "Angry"
+    "val_t": -0.2105497121810913,
+    "aro_t": 0.04222571849822998,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, but it's hard to see how a small action can really make a difference when I feel so overwhelmed. I guess I could try to do something like take a short walk or call a friend, but it feels like those things won't really change the big picture. It's just hard to see the point sometimes.",
-    "therapist": "I can really understand how difficult it is to see the point of small actions when you’re feeling so overwhelmed. It’s important to acknowledge that these feelings are valid. At the same time, small actions can sometimes provide a bit of relief and help you feel more in control, even if they don’t solve everything. How about we focus on one of the bigger issues for a moment—what’s one small step you could take today that might feel more directly related to one of those larger challenges?",
+    "client": "I appreciate your suggestion, Luna, and I'll try to set a timer for those breaks. It's hard to believe it will make a big difference, but I'm willing to give it a shot. I just hope it doesn't end up feeling like one more thing to manage in an already chaotic day.",
+    "therapist": "I understand that it can feel like one more thing to manage, but I'm glad you're willing to give it a try. Sometimes, small changes can have a bigger impact than we expect. How do you think you can make these breaks feel more like a priority rather than an additional task? Maybe there's a way to integrate them into your routine that feels more natural and less burdensome.",
     "condition": "emotion_text_only",
-    "val_t": -0.16412889957427979,
-    "aro_t": 0.10651898384094238,
-    "text_emotion": "Angry"
+    "val_t": 0.08149003982543945,
+    "aro_t": 0.11920082569122314,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but it's hard to see how a small step can make a difference when the problems feel so big and overwhelming. I guess I could try to reach out to a friend or family member for support, but I often feel like I’m just a burden to them. It’s hard to know how to start without feeling guilty or like I’m overstepping.",
-    "therapist": "I can really understand how you feel like reaching out for support might seem difficult when you’re already carrying so much. It’s completely normal to worry about being a burden, but remember that friends and family often want to be there for you, even if it’s just to listen. What do you think might be a gentle way to reach out and let them know you’re struggling, without putting too much pressure on yourself?",
+    "client": "That's a good point, Luna. Maybe if I treat these breaks as a non-negotiable part of my day, like brushing my teeth, it won't feel so burdensome. I could set a reminder on my phone to go off at the same times each day, and maybe even find a quiet spot where I can really unwind for a few minutes. It might help if I can see these breaks as a way to recharge rather than just another to-do item.",
+    "therapist": "That's a great approach, and I'm glad you're finding a way to make these breaks feel more manageable. Treating them as a non-negotiable part of your day, like brushing your teeth, can really help shift your mindset. Setting a reminder and finding a quiet spot are excellent strategies. How do you think you can make these short breaks more enjoyable or meaningful to you, so they feel like a true recharge?",
     "condition": "emotion_text_only",
-    "val_t": -0.2978757619857788,
-    "aro_t": 0.08946943283081055,
-    "text_emotion": "Sad"
+    "val_t": 0.009040236473083496,
+    "aro_t": 0.0006771087646484375,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but it's still really hard for me to imagine reaching out. I feel like I'm already such a burden, and I don't want to make things worse by bringing my problems into their lives. I guess I could try sending a text or something, but what if they don’t know how to respond? That could make me feel even more alone.",
-    "therapist": "I can really understand how tough it is to reach out when you feel like you might be a burden. It’s a very common concern, and it’s okay to feel that way. Sending a text is a gentle way to start, and you can keep it light and open-ended. For example, you could say something like, \"Hey, just wanted to check in. How are you doing?\" This way, you’re not overwhelming them, and it opens the door for a conversation. What do you think about trying that?",
+    "client": "I think I could make these breaks more enjoyable by doing something I really enjoy, like listening to a favorite song or reading a few pages of a book. It might help if I can find something that completely takes my mind off work, even for just a few minutes. I'm still a bit skeptical, but I'm willing to give it a try and see if it makes a difference.",
+    "therapist": "It's great to hear that you're considering ways to make these breaks more enjoyable and meaningful. Listening to a favorite song or reading a few pages of a book can be wonderful ways to take your mind off work and recharge. Even a small shift in focus can make a big difference. How do you think you can remind yourself of the importance of these breaks when you're feeling particularly stressed or overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.3562617301940918,
-    "aro_t": 0.0828392505645752,
-    "text_emotion": "Sad"
+    "val_t": 0.18516778945922852,
+    "aro_t": 0.1460181474685669,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I see what you mean, but I still worry that even a simple text might come off as needy. It's hard because I feel like I’m constantly thinking about how I might be perceived, and that makes it really tough to reach out. I don’t want to push anyone away.",
-    "therapist": "I can really understand how worrying about being perceived as needy can make it even harder to reach out. It’s natural to be sensitive to how others might perceive you, especially when you’re already feeling vulnerable. How about starting with a simple, casual message that doesn’t feel too heavy? Something like, \"Hey, just wanted to check in. How’s your week going?\" This way, you’re connecting without putting too much pressure on yourself or the other person. What do you think about that?",
+    "client": "I think having a reminder on my phone with a positive message or a note to myself could help. It might also help if I can find a small ritual to signal the start of my break, like lighting a candle or making a cup of tea. I just hope I can stick to it, especially when the stress feels overwhelming.",
+    "therapist": "I love the idea of using a positive reminder on your phone and a small ritual to mark the start of your break. These can be powerful ways to signal to your mind and body that it's time to pause and recharge. It's natural to worry about sticking to it, especially when stress is high, but starting with small, manageable steps can make a big difference. How do you think you can celebrate or acknowledge your progress, even if it's just a few successful breaks each day?",
     "condition": "emotion_text_only",
-    "val_t": -0.2686440944671631,
-    "aro_t": 0.16853797435760498,
-    "text_emotion": "Angry"
+    "val_t": 0.09474539756774902,
+    "aro_t": 0.07717227935791016,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I see what you mean, and I appreciate the suggestion. It does feel less heavy, but I still worry that they might think I’m trying too hard or that I’m just being needy. It’s hard because I don’t want to come off as clingy or desperate, you know?",
-    "therapist": "I completely understand your concerns, and it’s natural to worry about how others might perceive you, especially when you’re feeling vulnerable. It’s important to find a balance that feels right for you. Maybe you could start with a very light and casual message, just to touch base and see how they’re doing. How about something like, \"Hey, just wanted to say hi. How’s everything going?\" This way, you’re reaching out without it feeling too heavy. What do you think about that approach?",
+    "client": "I like the idea of celebrating small wins, Luna. Maybe I could write down a quick note each time I take a break and reflect on how I feel afterward. It might help me see the positive impact over time, even if it's just a small improvement. I'm still a bit skeptical, but I think it's worth a try.",
+    "therapist": "That's a fantastic idea, and I'm glad you're finding ways to make it work for you. Writing down your reflections can be a powerful tool to see the positive impact of these breaks over time, even if the changes feel small. It's okay to be a bit skeptical; taking small steps and noticing any improvements can help build confidence. How do you think you can stay motivated to continue this practice, even on days when you're feeling particularly overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.1111903190612793,
-    "aro_t": 0.11226391792297363,
-    "text_emotion": "Angry"
+    "val_t": 0.14559638500213623,
+    "aro_t": 0.12203872203826904,
+    "text_emotion": "Excited"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately with my new job at the tech startup. I missed an important deadline last week, and now I'm just stressed all the time, wondering if I'm cut out for this role. I know I should be able to handle it, but I can't shake this feeling that I'm failing.",
-    "therapist": "It sounds like you're under a lot of pressure and feeling really unsure about yourself right now. It's completely understandable to feel this way, especially with the added stress of a new job and a missed deadline. Can you tell me more about what thoughts are going through your mind when you feel like you're failing?",
+    "client": "Hey Luna, I've been really stressed out lately. The new job at the tech startup is just overwhelming, and I missed an important deadline last week. I don't know if I can keep up with everything they're throwing at me.",
+    "therapist": "It sounds like you're under a lot of pressure right now, and missing that deadline must have been really tough. How are you feeling about your ability to handle everything at work?",
     "condition": "baseline",
-    "val_t": -0.34113335609436035,
-    "aro_t": 0.22968316078186035,
+    "val_t": -0.31514036655426025,
+    "aro_t": 0.24993836879730225,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I feel like I'm failing, I can't help but think that everyone else is handling their responsibilities so much better than I am. It makes me doubt my abilities and wonder if I even belong in this new job. I worry that I’m letting everyone down, and that just adds to my anxiety.",
-    "therapist": "It sounds like you’re carrying a heavy burden of self-doubt and worry, which is really tough to manage. It’s natural to compare yourself to others, but it’s important to remember that everyone has their own challenges and struggles, even if they’re not visible on the surface. What do you think might be some evidence that you are capable and do belong in this role, despite the current challenges?",
+    "client": "I feel really overwhelmed and unsure if I can actually do this job. I keep second-guessing myself and worrying that I'm not good enough. It's hard to shake off that feeling of failure after missing the deadline.",
+    "therapist": "It’s completely understandable to feel overwhelmed and doubt yourself, especially after a setback like missing a deadline. Those feelings of inadequacy can be really tough to shake. Can you think of any specific thoughts that come up when you start to doubt yourself?",
     "condition": "baseline",
-    "val_t": -0.4176415205001831,
-    "aro_t": 0.20740199089050293,
+    "val_t": -0.34457623958587646,
+    "aro_t": 0.2677876949310303,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It’s just hard because I often feel like I’m not meeting the expectations, and the comparison is always there. I know everyone has their struggles, but it’s tough to see the evidence of my own capabilities when I’m so focused on what I’m lacking.",
-    "therapist": "It’s completely understandable that feeling like you’re not meeting expectations can be really tough, and it’s natural for those comparisons to weigh on you. It’s important to acknowledge your strengths and the progress you’ve made, even if it feels small right now. Can you think of any specific times recently where you felt competent or received positive feedback, even if it was a small thing?",
+    "client": "When I start to doubt myself, I keep thinking, \"What if I can't handle this job?\" and \"Why did I even think I was qualified for this?\" It's like every small mistake feels magnified, and I can't help but think I'm going to fail.",
+    "therapist": "Those are really common thoughts when we’re feeling overwhelmed, and it’s natural to question our abilities during tough times. It sounds like those thoughts are making you feel even more anxious and uncertain. What evidence do you have that you are capable and qualified for this job, despite the challenges?",
     "condition": "baseline",
-    "val_t": -0.05869770050048828,
-    "aro_t": 0.09743714332580566,
-    "text_emotion": "Neutral"
+    "val_t": -0.31959962844848633,
+    "aro_t": 0.2575944662094116,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard to remember those moments when I feel so weighed down by everything else. I did get a compliment from a coworker last week about a project I handled, but it felt so small compared to everything else that went wrong. It's tough to see the bright side when the negative stuff feels so overwhelming.",
-    "therapist": "It’s really common to focus more on the negative aspects, especially when you’re feeling overwhelmed. It’s great that you were able to recall that compliment from your coworker, even if it felt small at the time. Can you try to think of a few more moments, no matter how small, where you felt a sense of accomplishment or were told you did a good job? Sometimes gathering a few of these can help balance out the negative thoughts.",
+    "client": "I know I have a strong background in tech and I did well in my previous roles, but this new job is just on another level. It's hard to remember those successes when I'm feeling so overwhelmed right now. I don't think I can just switch off these negative thoughts.",
+    "therapist": "It’s completely understandable that the new challenges are making it hard to focus on your past successes. Recognizing your strong background and previous achievements is a important step. What are some small steps or strategies you could try to help manage these negative thoughts and feel a bit more in control?",
     "condition": "baseline",
-    "val_t": -0.04913961887359619,
-    "aro_t": 0.10992085933685303,
-    "text_emotion": "Neutral"
+    "val_t": -0.10721480846405029,
+    "aro_t": 0.19412267208099365,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, but it’s hard because I often feel like those moments are few and far between. When I do get a compliment, it’s easy to dismiss it as just being polite or not genuine. I’ll try to think of a few more, but I’m not sure how much it will help when the negative feelings are so strong.",
-    "therapist": "I understand how challenging it can be to hold onto those positive moments, especially when the negative feelings are so strong. It’s really common to dismiss compliments, thinking they might not be genuine. Maybe we can try a small experiment: the next time you receive a compliment or have a moment of success, try writing it down and reflecting on it later. How do you think that might affect how you feel about your abilities over time?",
+    "client": "I appreciate that, but it's hard to see a way out of this. I guess I could try to break down my tasks into smaller, more manageable pieces, but it feels like everything is urgent. I don't think I have the mental space to do that right now.",
+    "therapist": "It’s totally understandable that it feels overwhelming to try to break things down when everything seems urgent. Taking a moment to breathe and prioritize can sometimes help create a bit of mental space. What do you think might help you find a small moment of calm or clarity, even if just for a short time?",
     "condition": "baseline",
-    "val_t": -0.07256627082824707,
-    "aro_t": 0.017246007919311523,
+    "val_t": -0.09510886669158936,
+    "aro_t": 0.10281896591186523,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the idea, but it feels really hard to actually believe those compliments or positive moments. I tend to overthink and find reasons why they might not be true. It’s tough to see myself in a positive light when I’m so used to feeling like I’m not good enough.",
-    "therapist": "It’s completely understandable to struggle with believing positive feedback, especially when you’re in a cycle of self-doubt. Overthinking and finding reasons to dismiss compliments is a common pattern, and it takes time and practice to shift that mindset. What do you think might be a small step you could take to start building more confidence in those positive moments, even if it feels small at first?",
+    "client": "I think taking a few deep breaths might help, but I worry that it won't be enough to really make a difference. It's hard to find the time to step back when there's always something that needs my attention right away.",
+    "therapist": "Taking deep breaths is a good start, and it’s okay if it doesn’t solve everything immediately. Sometimes, just pausing for a moment can help you regain a bit of clarity and control. What if you set aside a very short, specific time each day, even just a few minutes, to step back and reflect on your priorities? How might that feel?",
     "condition": "baseline",
-    "val_t": -0.14015448093414307,
-    "aro_t": 0.10069692134857178,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate that, Luna. It's just hard because even when I try to accept a compliment, my mind immediately goes to all the reasons why it might not be true. I guess a small step could be trying to just say \"thank you\" without adding any caveats, but it feels like such a superficial change. How do I make it feel more real?",
-    "therapist": "It’s really important to acknowledge how challenging it is to accept compliments, especially when your mind automatically goes to the negative. Starting with a small step like saying \"thank you\" without adding any caveats is actually a meaningful change, as it helps to break the pattern of self-doubt. How about also taking a moment to pause and reflect on why the compliment might be true, even if just for a second? This can help you start to internalize the positive feedback more deeply. What do you think about trying that out and seeing how it feels?",
-    "condition": "baseline",
-    "val_t": 0.04586327075958252,
-    "aro_t": 0.05793750286102295,
+    "val_t": -0.13072752952575684,
+    "aro_t": 0.06704998016357422,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 8,
-    "client": "I understand what you're saying, and I can see the logic in it, but it's just so hard for me to not immediately dismiss a compliment. I worry that if I try to reflect on why it might be true, I'll just end up second-guessing myself even more. It feels like a step in the right direction, but I'm not sure how to actually make it stick.",
-    "therapist": "I completely understand how challenging it can be to break that pattern of dismissing compliments, and it’s totally valid to worry about second-guessing yourself. It’s a gradual process, and it’s okay to take it one small step at a time. What if we tried a shorter, more focused reflection, like just identifying one specific reason why the compliment might be true, and then moving on? This way, you can acknowledge the positive without getting too caught up in overthinking. How does that feel to you?",
+    "turn": 7,
+    "client": "I can see the logic in that, but it feels like those few minutes might just add to my stress if I can't make any real progress. I worry that I'll just end up feeling guilty for taking time away from work. It's hard to justify that when there's always so much to do.",
+    "therapist": "I understand that taking time for yourself can feel counterintuitive when there’s so much to do, and the fear of adding to your stress or feeling guilty is valid. It might be helpful to view these short breaks as a way to recharge and improve your overall productivity. How do you think you might feel after taking a few minutes to step back and breathe, even if it’s just once a day?",
     "condition": "baseline",
-    "val_t": -0.04843783378601074,
-    "aro_t": 0.12157368659973145,
+    "val_t": -0.314963698387146,
+    "aro_t": 0.04118084907531738,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I can see the point about recharging, but I still worry that those few minutes won't be enough to make a real difference. I feel like I should be constantly working to catch up, and taking a break might just make me feel even more behind. It's a tough balance to find.",
+    "therapist": "It’s really tough to find that balance, especially when you feel like you’re always behind. Taking breaks can be challenging, but they can also help prevent burnout and improve your overall efficiency. What if you tried a short break and then assessed how it affects your focus and productivity? How do you think you might feel after giving it a try?",
+    "condition": "baseline",
+    "val_t": -0.11601698398590088,
+    "aro_t": 0.028302669525146484,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate your suggestion, but I'm still a bit hesitant. It feels like even pinpointing one reason why the compliment might be true could open the door to a lot of self-doubt and overthinking. How can I be sure I won't spiral into that same pattern again?",
-    "therapist": "I understand your hesitation, and it’s completely normal to worry about spiraling into self-doubt. It’s a valid concern, and it’s important to approach this gently. One way to manage this could be to set a clear boundary for yourself, like giving yourself just 30 seconds to think about why the compliment might be true, and then consciously shifting your focus to something else, like a task or a positive activity. This can help you engage with the positive feedback without getting too deep into overthinking. How does that sound to you?",
+    "client": "I appreciate the suggestion, but I'm still not sure I can bring myself to take those breaks. It feels like a luxury I can't afford right now. I worry that even a short break will make me feel guilty and stressed, rather than refreshed. It's hard to see how it will help when I feel so overwhelmed.",
+    "therapist": "I understand that taking breaks feels like a luxury you can’t afford right now, and the worry about feeling guilty or more stressed is very real. It’s okay to feel that way. What if we explored some very quick, on-the-spot strategies you can use to take a tiny mental break, like a one-minute mindfulness exercise or a quick stretch, that might feel less like a luxury and more like a necessary reset? How do you think that might fit into your day?",
     "condition": "baseline",
-    "val_t": -0.1290673017501831,
-    "aro_t": 0.11859548091888428,
+    "val_t": -0.17792904376983643,
+    "aro_t": 0.11498939990997314,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I see what you're saying, and it does make some sense. But I worry that even 30 seconds might be too long and could still send me spiraling. It’s hard because I tend to overthink things so quickly, and I’m not sure if I can control that switch so easily.",
-    "therapist": "I completely understand your concern, and it’s okay to take it even more slowly if that feels right for you. Maybe we can start with an even smaller step, like just acknowledging the compliment with a simple \"thank you\" and then gently redirecting your attention to something neutral or positive right away. This way, you’re still practicing acceptance without giving too much space to the self-doubt. How does that feel to you?",
+    "client": "I can see how a one-minute break might be less daunting, but I'm still not sure it will make a difference. It feels like I need a bigger solution to this overwhelming feeling. I worry that these tiny breaks won't be enough to actually help me feel better or more in control.",
+    "therapist": "I understand that a one-minute break might seem like a small step, and you’re right, sometimes we need more substantial solutions to feel better. It’s important to acknowledge that these tiny breaks can be a starting point, and they might help you build the resilience to tackle bigger issues. What are some other strategies or resources you think might help you feel more in control and less overwhelmed?",
     "condition": "baseline",
-    "val_t": -0.12720835208892822,
-    "aro_t": 0.1566774845123291,
+    "val_t": -0.11307370662689209,
+    "aro_t": 0.15215802192687988,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really stressed lately about my grades. I got a C in calculus last semester, and now I'm feeling this immense pressure to keep a perfect GPA this year. I'm not sure if therapy can really help with something like this, but I feel like I need to talk to someone about it.",
-    "therapist": "Hi there! It sounds like you're under a lot of pressure and feeling quite stressed about your grades. It’s completely understandable to feel this way, and talking about it can be a big step towards finding some relief. What specific thoughts are going through your mind when you think about maintaining a perfect GPA?",
+    "client": "Hey Luna, I've been really struggling lately with the pressure to keep up a perfect GPA, especially after getting a C in calculus last semester. It feels like everything is riding on this, and I can't shake off this constant anxiety. I know therapy is supposed to help, but I'm not sure if it can really make a difference for something this intense.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and the anxiety about your GPA is really weighing on you. It's completely understandable to feel overwhelmed, especially after a setback like getting a C in calculus. Can you share more about what specific thoughts come up when you think about your GPA and how they might be impacting your daily life?",
     "condition": "emotion_text_only",
-    "val_t": -0.215490460395813,
-    "aro_t": 0.1955050230026245,
+    "val_t": -0.1893765926361084,
+    "aro_t": 0.26278531551361084,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. When I think about maintaining a perfect GPA, I feel like there's this constant weight on my shoulders. I worry that if I slip up even once, it will reflect poorly on me and I won’t get into the grad school I want. It's hard to shake off the fear of failure.",
-    "therapist": "It sounds like the fear of failure is really weighing on you and creating a lot of stress. It’s understandable to worry about how your grades might impact your future goals, but it’s important to remember that one setback doesn’t define your entire academic journey. What are some of the thoughts or beliefs you have that might be contributing to this fear?",
+    "client": "Sure, when I think about my GPA, I keep telling myself that if I don't improve, I won't get into the grad schools I want. It's like I can't stop thinking about it, and it's affecting my sleep and my ability to focus on other things. I feel like I'm stuck in this cycle of worry and can't break free.",
+    "therapist": "It sounds like your concerns about your GPA are really taking a toll on you, and it’s understandable that you’re feeling stuck in this cycle of worry. It’s important to recognize how these thoughts are affecting your sleep and focus. Have you noticed any specific triggers that make these thoughts more intense, or are there any small steps you can take to start breaking this cycle?",
     "condition": "emotion_text_only",
-    "val_t": -0.11444711685180664,
-    "aro_t": 0.09844481945037842,
+    "val_t": -0.31922459602355957,
+    "aro_t": 0.1596682071685791,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, I feel like if I don’t do well on this upcoming exam, it could ruin everything. I mean, I’ve put so much effort into my studies, and the thought of failing just makes me feel like all that hard work was for nothing. I know you’re saying one setback doesn’t define everything, but it’s hard not to think that way when the stakes feel so high.",
-    "therapist": "It sounds like the pressure you’re feeling is really significant, and it’s understandable to worry about the impact of this exam on all your hard work. It’s natural to feel this way, but it might be helpful to explore some of the evidence that supports or challenges the idea that one exam could ruin everything. What are some of the strengths and successes you’ve had in your academic journey so far that you can draw upon?",
+    "client": "I think the main trigger is when I see other students doing well or talking about their grades. It makes me feel even more inadequate and like I'm falling behind. I know I should try to take some small steps, but it's hard because the anxiety feels so overwhelming. I don't want to just give up, but I also don't know where to start.",
+    "therapist": "It sounds really tough to see others doing well when you’re struggling with your own grades. That comparison can definitely make you feel inadequate and increase your anxiety. It’s important to acknowledge that these feelings are valid, but also to remember that everyone’s journey is different. What small steps do you think might help you start addressing this anxiety, even if they seem small at first? Maybe something like setting a specific, manageable goal for today or this week?",
     "condition": "emotion_text_only",
-    "val_t": -0.2883681058883667,
-    "aro_t": 0.20896267890930176,
+    "val_t": -0.32604336738586426,
+    "aro_t": 0.20289361476898193,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, but it's hard to focus on my past successes when I feel like everything is riding on this one exam. I know I've done well before, but what if this time is different? It's like all my efforts could be for nothing if I mess this up.",
-    "therapist": "I can see how the pressure of this exam is making it difficult to focus on your past successes. It’s natural to have these worries, especially when the stakes feel so high. However, it might be helpful to remind yourself of the skills and strategies that have helped you succeed in the past. What are some of the coping mechanisms or study techniques that have worked for you before, and how might you apply them to this exam?",
+    "client": "I appreciate that, Luna. Setting a small goal sounds like a good idea, but it’s hard to know what would actually make a difference. Maybe I could start by reviewing my notes from the last class and trying to get a better handle on the material. But I also worry that it won’t feel like enough, and I’ll just end up feeling more stressed.",
+    "therapist": "It’s completely understandable to feel that way, especially when you’re already under a lot of stress. Starting with something small, like reviewing your notes, can be a meaningful step forward. It’s okay if it doesn’t feel like enough right away; the important thing is that you’re taking action, which can help build momentum and reduce that feeling of being overwhelmed. How about setting a specific time today to review your notes, and maybe rewarding yourself afterward to make it a bit more manageable?",
     "condition": "emotion_text_only",
-    "val_t": -0.18945562839508057,
-    "aro_t": 0.16130316257476807,
+    "val_t": -0.1477876901626587,
+    "aro_t": 0.07147300243377686,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying, but it's hard to feel confident when I keep thinking about all the ways I could mess up. I've used some strategies before, like breaking down the material into smaller chunks and using flashcards, but I feel like this exam is just on a whole different level. It's tough to see how those same techniques will be enough this time.",
-    "therapist": "I understand that it’s tough to feel confident when you’re facing such a challenging exam. It’s natural to worry about the different ways things could go wrong. However, the strategies you’ve used before, like breaking down the material and using flashcards, have helped you in the past. What specific aspects of this exam do you think make it feel different, and how might you adapt those successful strategies to address these new challenges?",
+    "client": "I like the idea of setting a specific time to review my notes and rewarding myself afterward. It might help me feel a bit more in control. But I still worry that it won’t be enough to make a real difference in my GPA, and that thought is really hard to shake off.",
+    "therapist": "It’s great that you’re open to trying this approach, and setting a specific time to review your notes can definitely help you feel more in control. It’s natural to have concerns about whether these small steps will make a significant impact on your GPA, but remember that progress often comes from consistent, manageable actions. What do you think might help you feel more confident that these steps are moving you in the right direction?",
     "condition": "emotion_text_only",
-    "val_t": -0.10231983661651611,
-    "aro_t": 0.08853578567504883,
+    "val_t": -0.028843998908996582,
+    "aro_t": 0.051072001457214355,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but this exam feels like a whole different beast. The material is so dense, and I feel like I can't keep up no matter how much I break it down. I tried flashcards, but I just end up feeling overwhelmed and like I’m not making any progress.",
-    "therapist": "It sounds like you’re really struggling with the density and complexity of this material, and that’s completely understandable. Feeling overwhelmed can make it hard to see progress, even when you’re putting in a lot of effort. Have you tried breaking the material into even smaller, more manageable sections, or maybe finding a different way to engage with it, like through practice problems or study groups? What do you think might help you feel a bit more in control?",
+    "client": "I think tracking my progress, even in small ways, might help me feel more confident. Maybe keeping a log of what I’ve accomplished each day or week could show me that I’m making headway, even if it’s just a little at a time. But it’s still hard to shake the feeling that I need to do more, and that these small steps won’t be enough to turn things around.",
+    "therapist": "It’s a really good idea to track your progress, even in small ways. Keeping a log of your accomplishments can provide a tangible way to see that you’re making progress, which can be very reassuring. It’s understandable that you still feel the pressure to do more, but recognizing and valuing those small steps can build your confidence over time. How do you think you can balance acknowledging these small wins with the ongoing effort you feel is necessary?",
     "condition": "emotion_text_only",
-    "val_t": -0.2096947431564331,
-    "aro_t": 0.2660008668899536,
-    "text_emotion": "Angry"
+    "val_t": -0.01702558994293213,
+    "aro_t": 0.1102762222290039,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It's just that breaking it down hasn't really helped much so far. I feel like no matter how small I make the sections, I still get stuck and feel like I’m not making any real progress. It’s hard because I feel like I’m already putting in so much effort, but it doesn’t seem to be paying off.",
-    "therapist": "I can see how frustrating and disheartening it must feel to put in so much effort without seeing the progress you hope for. It’s important to acknowledge that you’re already doing your best, and it’s okay to feel stuck. Sometimes, when traditional methods aren’t working, it can be helpful to try a different approach. Have you considered seeking out additional resources, like a tutor or different study materials, to help you tackle this material from a new angle? What do you think might make a difference for you right now?",
+    "client": "I think I can start by setting aside a few minutes each day to write down what I’ve accomplished, no matter how small. It might help me see that I’m making progress, even if it doesn’t feel like it in the moment. But it’s still a challenge to not feel like I’m falling behind, especially when I compare myself to others.",
+    "therapist": "It’s great to hear that you’re willing to start tracking your accomplishments, even the small ones. This can be a powerful way to build a sense of progress and accomplishment over time. It’s completely normal to still feel the challenge of not falling behind, especially when you compare yourself to others. How can you be kind to yourself during these moments of comparison, and what might help you focus more on your own journey?",
     "condition": "emotion_text_only",
-    "val_t": -0.11250507831573486,
-    "aro_t": 0.09380674362182617,
+    "val_t": 0.04417121410369873,
+    "aro_t": 0.08960914611816406,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate you acknowledging how I feel. It's just hard because I've already tried so many different things, and I'm not sure if more resources will really make a difference. It feels like I’m missing something fundamental, and I’m worried that even with a tutor or new materials, I might still struggle.",
-    "therapist": "I understand how frustrating it can be to feel like you’re missing something fundamental, even after trying so many different approaches. It’s natural to wonder if more resources will really make a difference. Sometimes, stepping back and reflecting on what might be causing the struggle can provide new insights. What do you think might be the underlying challenge that’s making this material particularly difficult for you?",
+    "client": "I think being kind to myself means acknowledging that everyone’s path is different and that I’m doing the best I can. It’s hard to focus on my own journey when I see others succeeding, but maybe reminding myself of my own strengths and progress can help. It’s just tough to shift that mindset when the anxiety is so strong.",
+    "therapist": "You’re absolutely right; acknowledging that everyone’s path is different and that you’re doing your best is a powerful form of self-compassion. It’s completely understandable that it’s tough to shift your mindset, especially when anxiety is strong. Reminding yourself of your strengths and the progress you’ve made, no matter how small, can be a helpful way to stay grounded. What are some specific strengths or achievements you can remind yourself of when you start to feel overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.06251180171966553,
-    "aro_t": 0.079903244972229,
+    "val_t": -0.010916352272033691,
+    "aro_t": 0.0838388204574585,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it feels like no matter how much I try to reflect, I end up in the same place. It's hard because I feel like I’m stuck in a loop of self-doubt and anxiety, and I don’t know how to break out of it. I’ve tried so many things, and it just seems like the same issues keep coming back.",
-    "therapist": "It sounds like you’re really struggling with a cycle of self-doubt and anxiety, and that can feel incredibly frustrating and overwhelming. It’s important to acknowledge that you’ve been trying your best and have taken many steps to address this. Sometimes, breaking out of that loop can feel daunting, but it’s not impossible. What are some small steps or strategies you think might help you start to shift away from this pattern of self-doubt?",
+    "client": "That’s a good point, Luna. When I feel overwhelmed, I can remind myself that I’ve always been a hard worker and have managed to maintain a good GPA overall. I’ve also overcome other challenges in the past, like when I had to retake a difficult course. It’s just hard to hold onto those thoughts when the anxiety about my GPA is so consuming.",
+    "therapist": "It’s really valuable that you can reflect on your strengths and past successes, even when the anxiety feels consuming. Recognizing your hard work and your ability to overcome challenges is a strong foundation to build on. It’s totally normal for those anxious thoughts to still be there, but reminding yourself of these positive aspects can help create a more balanced perspective. How do you think you can make it a habit to remind yourself of these strengths and past successes, especially during tough moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.24518322944641113,
-    "aro_t": 0.1834505796432495,
-    "text_emotion": "Angry"
+    "val_t": -0.07126176357269287,
+    "aro_t": 0.2581082582473755,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you’re trying to help, but it feels like no matter what I do, the self-doubt just keeps creeping back. I’ve tried a few things before, like journaling and mindfulness, but they don’t seem to make a big difference. I guess I’m just not sure what else to try, and it’s hard to keep feeling hopeful when nothing seems to stick.",
-    "therapist": "I can hear how challenging and disheartening this feels for you. It’s completely understandable to feel stuck when the self-doubt keeps coming back, even after trying different strategies. It’s important to remember that change can be a gradual process, and it’s okay to take small steps. What are some small, manageable actions you could try today that might help you feel a bit more in control or give you a sense of progress, even if it’s just a small shift?",
+    "client": "I think I could start by writing down a list of my strengths and past successes and keeping it somewhere visible, like on my desk or in my planner. That way, when I feel overwhelmed, I can look at it and remind myself of what I’ve accomplished. It’s just hard to make this a habit when the anxiety is so persistent and feels so real.",
+    "therapist": "It’s a great idea to create a visible reminder of your strengths and past successes. Having that list on your desk or in your planner can be a powerful tool to help you stay grounded when anxiety feels overwhelming. It’s completely normal for the anxiety to persist and feel very real, but having that reminder can gradually help you build a stronger sense of resilience. How do you think you can encourage yourself to check this list regularly, especially during moments of high stress?",
     "condition": "emotion_text_only",
-    "val_t": -0.09636914730072021,
-    "aro_t": 0.07400190830230713,
-    "text_emotion": "Neutral"
+    "val_t": -0.08073318004608154,
+    "aro_t": 0.18744874000549316,
+    "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I got laid off from my job at the marketing firm about a month ago, and honestly, it's been really hard to keep it together since then. Every morning I wake up and this wave of dread just hits me immediately — like, what if I can't find something soon and I run out of money? I'm not even sure talking about it is going to change anything practical, but I figured I should at least try something because I can't keep going on like this.",
-    "therapist": "It takes real courage to reach out when you're feeling this stuck and uncertain, and I'm glad you decided to try — that morning dread you're describing, that immediate wave of \"what if,\" sounds genuinely exhausting to wake up to every day. While I can't promise to change your practical situation directly, what we *can* work on together is loosening the grip those fear-driven thoughts have on you, which often makes it easier to take action. When that wave of dread hits in the morning, what kinds of specific thoughts tend to run through your mind first?",
+    "client": "I got laid off from my job at the marketing firm about a month ago, and ever since then I've just been feeling completely overwhelmed by everything. The financial uncertainty is really getting to me — I keep running these worst-case scenarios in my head about money running out, and I can't seem to stop. Honestly, I'm not even sure talking about it is going to change anything, but I figured I'd give this a shot.",
+    "therapist": "It takes real courage to reach out even when part of you isn't sure it will help — I'm glad you gave it a shot. Losing a job can shake so many things at once, and that loop of worst-case financial scenarios sounds genuinely exhausting to carry around. I'm curious — when those worst-case thoughts show up, what does the story your mind tells you usually look like at its darkest point?",
     "condition": "emotion_text_only",
-    "val_t": -0.38258063793182373,
-    "aro_t": 0.18423497676849365,
+    "val_t": -0.18342912197113037,
+    "aro_t": 0.23655354976654053,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the first thing that hits me is usually something like \"you're going to fall behind today and never catch up\" — it's this immediate sense that I'm already failing before I've even gotten out of bed. Then it spirals into worrying about specific things, like whether my coworkers think I'm incompetent or whether I missed something important yesterday. It's like my brain is running a highlight reel of everything that could go wrong, and I can't just turn it off.",
-    "therapist": "That \"already failing before you've gotten out of bed\" thought is such a heavy way to start a day, and it makes a lot of sense that it spirals from there — your mind seems to be working overtime trying to protect you from every possible threat, even ones that haven't happened yet. In CBT, we'd call that highlight reel something like \"catastrophic forecasting,\" where the brain treats worst-case scenarios as facts rather than possibilities. When you hear that voice say \"you're going to fall behind and never catch up,\" what evidence do you actually have for and against that being true?",
+    "client": "At its darkest, my mind basically tells me I'm going to drain my savings completely, end up unable to pay rent, and just... lose everything I've worked for. Like, I'll picture myself having to call my parents for money at 34, which feels humiliating, or just being stuck in this downward spiral with no way out. It's like my brain won't let me consider any other outcome — it just keeps replaying that one terrible version of events over and over.",
+    "therapist": "That image your mind keeps replaying — losing everything, having to call your parents — sounds really painful and heavy to sit with, especially when it feels like the only possible outcome. What you're describing is something we call \"tunnel vision\" in CBT, where our brain gets so locked onto the threat that it genuinely blocks out other possibilities, not because they don't exist, but because fear is a very loud narrator. I'd love to gently explore with you — when you look at where you actually stand right now, one month in, what's the real evidence that this worst-case ending is the *most likely* path, versus one of many possible ones?",
     "condition": "emotion_text_only",
-    "val_t": -0.2697402238845825,
-    "aro_t": 0.15197348594665527,
+    "val_t": -0.40883922576904297,
+    "aro_t": 0.18901848793029785,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean, I guess when I actually try to think about evidence... I have caught up before, like there have been times I fell behind on work and somehow got through it. But in the moment, that just doesn't feel real, you know? It's like my brain completely erases those times and only keeps the memories where things went badly, so the \"you'll never catch up\" voice feels way more convincing than any proof I could throw at it.",
-    "therapist": "What you just did — pulling up that real evidence that you *have* caught up before — is actually the core skill we're building here, even though it doesn't feel powerful yet. That gap you're noticing, between what you *know* intellectually and what you *feel* in the moment, is really common, and it happens because that critical voice has had a lot of practice while the \"I've handled hard things before\" voice hasn't been exercised nearly as much. If we could start deliberately collecting those moments where you did catch up or get through something difficult, almost like building a counter-reel to challenge the highlight reel of failures — what's one specific example from the past that feels most convincing to you, even just a little?",
+    "client": "I mean, objectively I know I still have some savings — probably enough for three or four months if I'm careful — and I've been applying to jobs and had a couple of responses already. But here's the thing, knowing that doesn't actually make the fear go away, so I'm not sure how useful it is to just list out the facts. It's like my brain hears the evidence and then immediately says \"yeah, but what if that's not enough?\"",
+    "therapist": "You've actually just identified something really important — your brain is doing a classic move called \"yes, but...\" where it acknowledges the evidence and then immediately discounts it, which is why facts alone don't quiet the fear. You're right that listing evidence isn't enough on its own; the goal in CBT isn't just to *know* the safer thought, but to gradually help your nervous system *feel* it too, and that takes a bit more than logic. What do you notice happens in your body or your thinking right before the \"yeah, but what if\" kicks in — is there a particular moment or trigger that seems to set it off?",
     "condition": "emotion_text_only",
-    "val_t": -0.14768922328948975,
-    "aro_t": 0.1261204481124878,
-    "text_emotion": "Angry"
+    "val_t": -0.0650780200958252,
+    "aro_t": 0.17260408401489258,
+    "text_emotion": "Tense"
   },
   {
     "turn": 4,
-    "client": "I mean... there was this one semester junior year where I fell really behind in three classes at once because I was dealing with some family stuff, and I genuinely thought I was going to fail out. I ended up pulling it together and passing everything, even got a B in one of them. But here's the thing — when I try to hold onto that memory right now, it almost feels like it happened to a different person, like I can't really connect it to who I am today when I'm sitting here panicking about my current workload.",
-    "therapist": "That junior year story is genuinely remarkable — juggling three classes while dealing with family stress and still pulling through takes real resilience, and that person *is* you, even when it feels distant right now. That sense of disconnection from your own past strengths is actually really common when we're anxious, because stress narrows our focus to the present threat and makes our history feel almost fictional. I'm curious — if a close friend described going through exactly what you did junior year, would you have any trouble believing *they* were capable and resilient?",
+    "client": "Honestly, it tends to happen most when I'm just sitting quietly — like at night when I'm trying to fall asleep, or in the morning before I've got anything to distract me. It's almost like the moment there's silence, my brain just rushes in to fill it with all this catastrophic stuff. I guess my body gets this tight, restless feeling in my chest, like I need to do something but there's nothing I can actually do right then.",
+    "therapist": "That tight, restless feeling in your chest in those quiet moments makes a lot of sense — your nervous system is essentially trying to \"solve\" a problem at the exact time when you have the least ability to act on it, which creates this really uncomfortable loop. Those in-between moments — falling asleep, waking up — are actually when our brain's threat-detection system tends to be loudest, precisely because there's no task to anchor it. I'm wondering, when that chest tightness shows up, have you ever tried giving your brain a small, concrete \"job\" to do in that moment — something that gently interrupts the spiral before it picks up speed?",
     "condition": "emotion_text_only",
-    "val_t": -0.2829822301864624,
-    "aro_t": 0.21512937545776367,
+    "val_t": -0.2799081802368164,
+    "aro_t": 0.22938692569732666,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... no, I wouldn't doubt a friend at all. I'd probably be proud of them, honestly. But it feels different when it's me — like I'm somehow not allowed to count my own experiences the same way, or like I'll jinx something if I actually believe I'm capable.",
-    "therapist": "That double standard you just named — being proud of a friend for the exact same thing you won't let yourself claim — is such an important insight, and it points to something worth gently questioning: what is it about *you specifically* that makes your resilience not count? That fear of \"jinxing it\" if you believe in yourself is really worth exploring too, because it suggests that somewhere along the way you learned that confidence is dangerous rather than helpful. What do you think that belief is protecting you from?",
+    "client": "I've tried things like scrolling on my phone or putting on a show, but honestly that just feels like avoidance and it doesn't really help me sleep. I'm a little skeptical about the idea of giving my brain a \"job\" — like, what kind of job is actually going to compete with \"you might lose your apartment\"? It feels like bringing a flashlight to fight a wildfire.",
+    "therapist": "I love that image — a flashlight against a wildfire — and I think your skepticism is actually really healthy and worth taking seriously rather than dismissing. The goal isn't to overpower the fear with a distraction, but more to gently shift your brain from \"threat-scanning mode\" into something slightly more grounded — things like slow breathing or a body scan work not because they're louder than the fear, but because they operate on a different channel entirely, speaking directly to your nervous system rather than trying to out-argue it. It's less about winning a debate with the wildfire and more about stepping out of the wind for a moment — does that distinction feel like it changes things at all, or does it still feel like too small a tool for what you're facing?",
     "condition": "emotion_text_only",
-    "val_t": -0.012373805046081543,
-    "aro_t": 0.18101656436920166,
-    "text_emotion": "Tense"
+    "val_t": -0.14191484451293945,
+    "aro_t": 0.1208113431930542,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I think... it's protecting me from getting my hopes up and then crashing hard when things fall apart again. Like if I stay small and doubtful, the disappointment can't blindside me the way it has before. But hearing you say it out loud like that — that I learned confidence is *dangerous* — that actually kind of stings, because some part of me knows that's not a healthy way to live.",
-    "therapist": "That sting you're feeling right now is actually really meaningful — it's the part of you that *knows* you deserve more than a life spent staying small just to avoid disappointment, and that part is worth listening to. What you're describing, shrinking yourself as armor against pain, makes complete sense given what you've been through, but it also comes with a hidden cost: it keeps you from fully experiencing your own wins, like that junior year comeback. I'm wondering — has staying doubtful actually protected you from hard landings, or has it mostly just taken away the good moments in between?",
+    "client": "That framing actually does make a little more sense to me — like, I'm not trying to logic my way out of a panic, I'm just trying to change the physical state I'm in. But I guess my worry is that in that moment, when the spiral is already going, I won't even remember to try it, or I'll try it and it'll feel so mechanical that I'll just dismiss it. It's hard to practice something calmly when the whole problem is that I can't be calm.",
+    "therapist": "You're raising something really practical and honest — it's genuinely hard to access a tool in the middle of a storm that you've only ever seen described on a calm day. That's actually why in CBT we try to build these practices *before* the spiral peaks, not as a rescue technique but as something familiar enough that it becomes almost automatic — like how you don't have to think about braking when a car stops suddenly, because your body already knows. What if we thought about finding one small, low-stakes moment in your day — not a crisis moment — where you could just experiment with it once, almost like a trial run with no pressure attached?",
     "condition": "emotion_text_only",
-    "val_t": -0.2767573595046997,
-    "aro_t": 0.18122029304504395,
+    "val_t": -0.1472489833831787,
+    "aro_t": 0.17438101768493652,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That question kind of stops me in my tracks, honestly. Because when I really think about it... the hard landings still happened anyway, the doubt didn't actually prevent them. It just meant I was already halfway defeated before anything even went wrong, and I missed feeling good about the times things actually worked out.",
-    "therapist": "That's a genuinely profound realization — the doubt wasn't actually keeping you safe, it was just stealing the good moments while the difficult ones arrived anyway. You've essentially been paying a very high price for protection that was never really there. What would it feel like, even just as an experiment, to let yourself fully own that junior year story as evidence of who you actually are?",
+    "client": "I guess that makes sense — like, building the muscle before I need it rather than trying to lift something heavy the first time. Maybe I could try it in the afternoon when I'm just sitting with coffee or something, when things aren't already spiraling. I'm still a little unsure it'll feel like anything other than just breathing, but I suppose trying it once when I'm not panicking doesn't cost me much.",
+    "therapist": "That coffee moment sounds like a genuinely perfect starting point — low stakes, already a quiet pause in your day, and you've already claimed it as yours. And I'd actually encourage you to hold onto that \"it'll probably just feel like breathing\" expectation, because the first few times it *will* feel ordinary, and that's completely fine — you're not looking for a dramatic shift, just building a little familiarity with the tool. How will you know, even in a small way, if the experiment was worth repeating?",
     "condition": "emotion_text_only",
-    "val_t": -0.028200149536132812,
-    "aro_t": 0.155678391456604,
-    "text_emotion": "Tense"
+    "val_t": 0.04870247840881348,
+    "aro_t": 0.04627954959869385,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and part of me knows it's true — the doubt didn't stop the bad stuff from happening, it just made the good stuff feel hollow too. But when I try to actually claim that junior year as real evidence of who I am, there's this immediate voice that says \"yeah, but that was a fluke, or the circumstances were just right, or other people carried you.\" It feels almost dangerous to fully believe it, like I'm setting myself up to be proven wrong in some humiliating way.",
-    "therapist": "That voice that immediately swoops in with \"fluke, circumstances, other people\" — that's a really classic move of what we call the inner critic, and it's worth noticing that it never seems to need evidence, it just *asserts* things as fact. I'd gently ask: if every success can be explained away as a fluke or outside help, what would it actually take for that voice to ever let you take credit — and does it have a fair standard, or is the bar secretly set to impossible? Because a voice that can never be satisfied isn't protecting you, it's just keeping you small.",
+    "client": "I think if I felt even slightly less tense during that afternoon moment — like even a small reduction in that chest tightness — that would probably be enough to make me try it again. But I'm also wondering if I'll just end up using that quiet time to check job listings or my bank account instead, because that feels more \"productive\" even though I know it probably makes things worse. I guess the honest answer is I'm not sure I'll actually prioritize it over the anxiety-driven stuff that feels more urgent.",
+    "therapist": "You're being really honest with yourself there — recognizing that checking job listings or your bank account *feels* productive but probably feeds the anxiety rather than calming it is actually a meaningful insight, not a small one. That pull toward urgency is so understandable, but what you're describing is essentially choosing the thing that keeps the alarm bell ringing because silence feels riskier than noise. I'm curious — if you imagine both versions of that afternoon moment side by side, the bank-checking one and the breathing one, what do you think each version of you feels like an hour later?",
     "condition": "emotion_text_only",
-    "val_t": -0.28222763538360596,
-    "aro_t": 0.2575812339782715,
+    "val_t": -0.1014549732208252,
+    "aro_t": 0.11055362224578857,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That actually hit me harder than I expected, and I'm sitting with it a little uncomfortably right now. Like, I genuinely don't know what it would take — and when I try to imagine the bar, it just keeps moving, you're right about that. But I guess part of me still wonders if the voice is wrong, or if it's just... telling me something true that I don't want to hear.",
-    "therapist": "That discomfort you're sitting with right now is actually a really healthy sign — it means you're genuinely wrestling with something important rather than just deflecting it. Here's a question worth turning on that voice the same way we'd fact-check any other thought: if it *were* telling you something true, wouldn't it need actual evidence, and wouldn't the bar stay consistent rather than moving every time you get close? The difference between honest self-reflection and the inner critic is that honest reflection can also acknowledge your strengths — so what would a truly *fair* witness to your life say about you, someone who saw both the struggles and that junior year comeback?",
+    "client": "Honestly, when I picture the bank-checking version, I know that an hour later I'd probably feel more wound up — like I'd have just given myself more ammunition for the spiral. The breathing version is harder to picture clearly, but I suppose the most realistic outcome is just... feeling neutral, maybe a little less tense, which isn't exciting but is probably better than worse. I think part of why I resist it is that \"neutral\" doesn't feel like enough when everything feels so urgent, even though I can see logically that neutral is actually a step in the right direction right now.",
+    "therapist": "What you just said is genuinely insightful — that \"neutral\" feels disappointing when urgency is screaming for a dramatic solution, even though neutral *is* actually progress when your baseline has been so activated. There's something worth sitting with there: in the middle of a crisis, calm doesn't feel like winning, but it's actually the foundation everything else gets built on. I wonder if it might help to quietly reframe that afternoon experiment not as \"trying to feel better\" but as \"practicing not making things worse\" — does that feel like a more honest and achievable goal for where you are right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.2170342206954956,
-    "aro_t": 0.18745899200439453,
-    "text_emotion": "Angry"
+    "val_t": -0.06495285034179688,
+    "aro_t": 0.09325623512268066,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to grab onto it, but honestly my first instinct is to dismiss the comeback thing as just... luck, or circumstances lining up. Like, a fair witness would probably still say I'm someone who needs everything to fall into place before I can function, and that's not exactly a glowing character reference. I guess I'm struggling to trust that I'm capable of being objective about myself at all, because every time I try to give myself credit, it feels like I'm just making excuses for being mediocre.",
-    "therapist": "There's something quietly painful in what you just said — this sense that even trying to be fair to yourself feels like making excuses, as if self-compassion and self-deception are the same thing, and they're really not. I want to gently point out that you've done something genuinely rigorous today: you looked for evidence, you questioned your assumptions, you caught your own double standard — that's not what mediocrity looks like, that's what honest self-examination looks like. If \"needing things to fall into place\" were really the full truth about you, how did you manage to pull things together junior year precisely *when* things had fallen apart?",
+    "client": "Yeah, \"practicing not making things worse\" actually lands differently than \"trying to feel better\" — it feels more honest about where I am, less like I'm setting myself up to fail some invisible test. I think I've been putting so much pressure on every small thing to fix the big problem that even a breathing exercise starts to feel like it has to justify itself. That framing takes some of that weight off, so I think I can actually commit to trying it during that coffee moment this week.",
+    "therapist": "It sounds like something genuinely shifted just now — a little quieter, a little less pressured — and I want to acknowledge that, because reframing how you measure progress is actually real cognitive work, not just a small tweak. You've gone from \"this has to fix everything\" to \"I'm just practicing not making things worse,\" and that's a more sustainable and honest relationship with the process. As you head into this week, I'm curious — is there anything you think might get in the way of that coffee moment, that we could think through now so it doesn't catch you off guard?",
     "condition": "emotion_text_only",
-    "val_t": -0.19818902015686035,
-    "aro_t": 0.10982406139373779,
-    "text_emotion": "Angry"
+    "val_t": 0.005007147789001465,
+    "aro_t": 0.10786211490631104,
+    "text_emotion": "Neutral"
   }
 ]

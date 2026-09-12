@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my mom passed away six months ago. It feels like everyone around me has just... moved on with their lives, and I'm still stuck in this heavy fog that won't lift. Honestly, I'm not even sure talking about it is going to help, but I didn't know what else to do.",
-    "therapist": "I'm really glad you reached out, even through the doubt — that took courage, and it tells me a part of you is still looking for a way through this. Losing your mom is one of the most profound losses a person can experience, and the fog you're describing makes complete sense; grief doesn't follow anyone else's timeline, no matter how much it might feel like it should. I'm here to move at whatever pace feels right for you, without any pressure.\n\nCan you tell me a little more about what that \"heavy fog\" feels like for you day to day — is it more like sadness, numbness, exhaustion, or something harder to name?",
+    "client": "I've been really struggling since my mom passed away six months ago. It feels like everyone around me has just... moved on, like it was no big deal, and I'm still stuck in this heavy fog that I can't seem to get out of. I'm not even sure talking about it is going to change anything, but I didn't know what else to do.",
+    "therapist": "I'm so glad you reached out, and I want you to know that what you're carrying right now — this grief, this fog — makes complete sense after losing your mom. Grief doesn't follow anyone else's timeline, and the loneliness of feeling like the world has moved on while you're still in the thick of it can be one of the hardest parts. I'm curious — when you say you feel \"stuck,\" what does a typical day feel like for you right now?",
     "condition": "baseline",
-    "val_t": -0.33313512802124023,
-    "aro_t": 0.11984360218048096,
+    "val_t": -0.3341563940048218,
+    "aro_t": 0.11433601379394531,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "It's kind of all of those things at once, which is part of what makes it so hard to explain to people. Like, I'll wake up and just feel this weight before I've even remembered why, and then it hits me again — oh right, she's gone. And then I feel guilty for those few seconds where I didn't remember, like I'm somehow betraying her by not carrying it every single moment.",
-    "therapist": "That guilt you're describing — feeling like forgetting, even for a moment, is a betrayal — is something so many grieving people experience, and it's such a painful extra layer on top of the loss itself. But I want to gently offer another way to look at it: those few seconds of not remembering aren't a sign that you love her less, they're simply your mind taking a brief, necessary breath. Your love for her isn't measured by how constantly you carry the pain.\n\nWhat do you think she would say if she could see you feeling guilty for those moments?",
+    "client": "Most days I wake up and there's like this split second where everything feels normal, and then it all comes crashing back. I go through the motions — work, eating, whatever — but it's like I'm watching myself from a distance, just doing things automatically without really feeling present. And then at night it gets worse, because that's when the quiet sets in and I start thinking about all the things I never got to say to her.",
+    "therapist": "That split second you describe — that brief moment of normalcy before the grief rushes back — sounds both like a small mercy and a painful reminder all at once, and it takes real courage to keep showing up to your days even when you're running on autopilot. The nights sound especially hard, and those unspoken words have a way of feeling very heavy in the silence. I'd gently like to explore that with you — when you think about the things you never got to say to her, is there one feeling that tends to surface most strongly?",
     "condition": "baseline",
-    "val_t": -0.3640817403793335,
-    "aro_t": 0.1467050313949585,
+    "val_t": -0.22173118591308594,
+    "aro_t": 0.09179544448852539,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I've thought about that before, actually — what she would say. And honestly, she'd probably tell me to stop being so hard on myself, because that's the kind of person she was. But knowing that doesn't really make the guilt go away, you know? It's like my head understands it, but my chest still feels like I'm doing something wrong every time I catch myself just... living.",
-    "therapist": "What you're describing - that gap between what your head knows and what your chest feels - is at the heart of so much of our suffering, and it's so real and valid that just \"knowing better\" doesn't automatically rewire that deep emotional response. It sounds like part of you has actually internalized a belief that continuing to live and even momentarily feel okay is somehow incompatible with loving her — and that's a thought worth gently examining together. She sounds like she was a truly compassionate person, and I wonder if the way you're speaking about her tells us something about the kind of love that actually existed between you.\n\nWhen you imagine what it would look like to honor her memory *without* punishing yourself for living — even if it feels impossible right now — what comes up for you?",
+    "client": "Honestly, the strongest feeling is guilt. Like, I keep replaying conversations where I was impatient with her, or times I didn't call when I said I would, and now I can't fix any of it. It's this constant loop in my head that tells me I wasn't a good enough daughter when it actually mattered.",
+    "therapist": "That guilt loop sounds absolutely exhausting, and I want to gently offer this — the fact that you're feeling it so deeply speaks to how much you loved her, not to a lack of love when she was here. In CBT, we often notice that our minds in grief can become very selective, replaying the moments we fell short while quietly editing out the countless ways we showed up. If a close friend described her relationship with her mother exactly the way you've described yours, would you look at her and see someone who \"wasn't good enough\" — or would you see something more complicated and human?",
     "condition": "baseline",
-    "val_t": -0.24818825721740723,
-    "aro_t": 0.15972745418548584,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I sit with that question for a moment, and honestly, the first thing that comes up is just... blankness, like I can't even picture it. And then almost immediately this wave of guilt, like even trying to imagine it feels like a betrayal. I think part of me is scared that if I stop punishing myself, it means she didn't matter enough to me, even though I know that doesn't really make logical sense.",
-    "therapist": "That fear — that releasing the pain somehow equals releasing her — is one of the most common and heartbreaking traps grief can set for us, and the fact that you can already see it doesn't quite make logical sense shows real self-awareness. What your mind seems to have built is an equation: suffering equals love, so less suffering must mean less love — but that equation isn't true, even though it feels absolutely convincing right now. Grief and love aren't the same thing, and she can matter enormously to you even in your moments of peace.\n\nI'm curious — can you think of any other relationship in your life where you'd measure someone's love for you by how much they suffered on your behalf?",
-    "condition": "baseline",
-    "val_t": -0.4068094491958618,
-    "aro_t": 0.14633667469024658,
+    "val_t": -0.3008164167404175,
+    "aro_t": 0.08632683753967285,
     "text_emotion": "Sad"
   },
   {
-    "turn": 5,
-    "client": "That question kind of stopped me in my tracks, honestly. No, I wouldn't want someone to suffer for me to prove they love me — that actually sounds kind of awful when you put it that way. But it still feels different with my mom, like the rules are different when someone is gone and can't be here anymore.",
-    "therapist": "That moment of being stopped in your tracks is really important — you just caught your own mind applying a different, harsher set of rules to yourself than you would to anyone else you love, and that's a genuinely significant insight. It makes sense that it *feels* different when someone is gone, because the loss is so permanent and there's no more time to show her how much she meant to you in the ordinary ways — so the grief can start to feel like the only remaining proof of your love. But I wonder if there are other ways she already knew, and you already know, that didn't require your suffering.\n\nWhat are some of the ways you showed her you loved her while she was still here?",
+    "turn": 4,
+    "client": "I hear what you're saying, and logically I know I'd probably tell a friend that she was human and that nobody's perfect. But when it comes to myself, that logic just doesn't seem to land the same way — it feels like I'm letting myself off the hook too easily, like I don't deserve that kind of understanding. My mom deserved better, and I feel like softening that somehow dishonors how much I failed her.",
+    "therapist": "What you just named — this sense that self-compassion feels like a betrayal of your mom — is such an important and honest insight, and it's worth sitting with rather than rushing past. I want to gently ask: do you think your mom, who clearly mattered so deeply to you, would have wanted you to sentence yourself to this pain as a way of honoring her love? What do you imagine she would actually say to you right now, if she could?",
     "condition": "baseline",
-    "val_t": -0.17732810974121094,
-    "aro_t": 0.15423309803009033,
+    "val_t": -0.27669060230255127,
+    "aro_t": 0.15454185009002686,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I sat with that question for a second and it actually made my chest tighten up, which surprised me. I mean, I used to call her every Sunday without fail, and I'd drive two hours to take her to her doctor appointments because she hated going alone. But there's this voice in my head that immediately says \"yeah, but that wasn't enough, you could have called more, visited more\" — it just kind of cancels out whatever good I try to remember.",
-    "therapist": "The love in what you just described is so clear and so real — those Sunday calls, those two-hour drives — those aren't small things, those are devotion, and they speak volumes about who you were to her. But I want to gently name what just happened: the moment you accessed something true and good, that critical voice swooped in immediately to cancel it out, and I'd guess that voice has gotten very loud and very fast since she passed. That voice isn't the truth about you or your relationship — it sounds like it might be grief's way of keeping you locked in punishment mode.\n\nIf a close friend described doing all of those things for *their* mother, would that same voice tell you it still wasn't enough — or does it reserve that harshness specifically for you?",
+    "turn": 5,
+    "client": "That question actually made me catch my breath for a second, because I know in my heart she would have told me to stop beating myself up. But then there's this other part of me that immediately thinks, well, that's just what she would have said because she loved me, not because I actually deserved it. It's like even imagining her forgiveness, I find a way to argue against it.",
+    "therapist": "That moment where you caught your breath — that was your heart recognizing something true before your mind could talk you out of it, and I don't want us to move past that too quickly. What you're describing is a really common but painful pattern in CBT — the mind working overtime to block any evidence that might challenge the belief that you're undeserving, essentially moving the goalposts so that no amount of forgiveness, even hers, can ever quite reach you. I'm wondering — what do you think it would mean for you, or what might you have to let go of, if you allowed her forgiveness to actually count?",
     "condition": "baseline",
-    "val_t": -0.12749850749969482,
-    "aro_t": 0.2880135774612427,
+    "val_t": -0.07089066505432129,
+    "aro_t": 0.17160463333129883,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I think if I let her forgiveness actually count, I'd have to let go of the guilt, and the guilt is... it's become this strange way of staying connected to her, like as long as I'm punishing myself I'm still somehow in a relationship with her. Letting it go feels terrifying, almost like losing her a second time. I don't know if I'm ready for that, and I'm not sure I even know who I am in my grief without that weight to carry.",
+    "therapist": "What you just uncovered is profound — the guilt isn't just punishment, it's become a way of holding onto her, and that makes it feel impossible to release even when it's hurting you. I want you to know that letting go of the guilt doesn't mean letting go of *her* — there are other ways to stay connected to your mom that don't require you to suffer, like honoring what she valued, or carrying forward the love rather than the pain. I'm curious — outside of the guilt, are there any other ways, even small ones, that you already feel her presence or keep her close?",
+    "condition": "baseline",
+    "val_t": -0.3322410583496094,
+    "aro_t": 0.2010265588760376,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That question kind of stopped me for a second, because honestly... no, I wouldn't say that to a friend. If a friend told me they drove two hours every week and called every Sunday, I'd probably tell them they were a really good son or daughter. But when you put it that way, it almost makes it worse, because now I can see I'm holding myself to some impossible standard I'd never apply to anyone else, and I don't really know how to stop doing that.",
-    "therapist": "Seeing that double standard so clearly is actually a really meaningful breakthrough, even if it feels uncomfortable right now — awareness is genuinely the first step toward change, and you just did something hard and honest. That impossibly high standard didn't appear out of nowhere, and often these voices develop as a way of protecting us from something, so you don't need to pressure yourself to simply \"stop\" it overnight. The goal isn't to silence that voice through willpower, but to slowly, gently practice offering yourself the same compassion you'd so naturally give a friend.\n\nIf you were to speak to yourself about those Sunday calls and those long drives the way you'd speak to that friend — even just for a moment right now — what would you actually say?",
+    "client": "There are a few small things, like sometimes I cook the recipes she taught me, and for a moment it feels like she's there in the kitchen with me. But honestly I hadn't really thought of those moments as a way of staying connected — I think I've been so consumed by the guilt that I almost felt like I didn't deserve those softer memories. It's a little scary to consider leaning into those things intentionally, because what if it just makes the missing her even more unbearable?",
+    "therapist": "Those kitchen moments — her recipes, her presence in something as simple as a meal — that *is* a real, living connection to her, and it's beautiful that you already have that even without fully realizing it. Your fear makes complete sense, but I'd gently offer that the missing her is already there; what those softer memories might actually bring is some warmth alongside the ache, rather than more pain on top of pain. I wonder if this week you might try cooking one of her recipes with a gentle curiosity — not to force anything, but just to notice what comes up — and see if the experience feels different when you approach it as a way of honoring her rather than something you don't deserve?",
     "condition": "baseline",
-    "val_t": -0.2788736820220947,
-    "aro_t": 0.2216731309890747,
-    "text_emotion": "Angry"
+    "val_t": -0.2829306125640869,
+    "aro_t": 0.10357844829559326,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I guess... I'd say something like, \"You're doing what you can. You're showing up, even when it's hard, and that counts for something.\" But honestly, even just saying that out loud feels kind of hollow to me, like I'm just reciting words I don't actually believe yet — it doesn't feel the same as when I say it to someone else.",
-    "therapist": "The fact that it feels hollow right now is completely okay and actually really normal — you're essentially trying to speak a language your heart hasn't learned yet, and you can't expect fluency after just one sentence. What strikes me is that you *did* say it, even through the doubt, and that small act of trying matters more than whether it felt true in this moment. These things tend to start as words we recite before they slowly become things we actually feel, and that gap you're noticing isn't failure — it's just where you are right now in the process.\n\nI'm wondering, is there a specific memory of a moment with your mom — maybe one of those Sunday calls or one of those drives — that when you picture it, even briefly makes you feel like you were genuinely there for her?",
+    "client": "I think I could maybe try that, but I'm a little worried that I'll just end up sitting there crying alone in my kitchen, and then feel worse and more isolated than before. The loneliness is already so heavy, and doing something that was so tied to her without anyone around to share it with feels like it might just highlight how much has changed. I don't really have people in my life right now who knew her the way I did, and that makes everything feel even more solitary.",
+    "therapist": "The loneliness you're describing — grieving someone when the people around you didn't know her the same way — is its own particular kind of isolation, and it makes complete sense that sharing one of her recipes alone feels daunting rather than comforting right now. Crying in the kitchen isn't necessarily a sign that something went wrong, but I also don't want to push you toward something that feels too solitary too soon — so I'm wondering if there's any way to make that first attempt feel a little less alone, even in a small way, like calling someone while you cook or sharing the finished meal with a neighbor. And I'm also curious — is there anyone in your life, even someone who didn't know your mom well, who you feel safe enough with to start letting them into even a small piece of what you're carrying?",
     "condition": "baseline",
-    "val_t": -0.11953890323638916,
-    "aro_t": 0.19246959686279297,
-    "text_emotion": "Angry"
+    "val_t": -0.37073326110839844,
+    "aro_t": 0.054479241371154785,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I guess... there was this one Sunday call, maybe six months before she passed, where she was telling me about this bird that kept coming to her feeder and she was so excited about it. I actually just listened for once, didn't try to fix anything or rush her off the phone, and she laughed at something I said and told me I always knew how to make her feel better. But then I think about how many other calls I cut short or half-listened to while I was doing something else, and that one good memory just gets swallowed up by all the guilt about the rest.",
-    "therapist": "That moment you just described — her laughing, telling you that you always knew how to make her feel better — that's not a small thing, that's her telling you exactly who you were to her, in her own words, unprompted. And I notice what happened just now: you held something genuinely beautiful for just a moment before that critical voice rushed in to bury it under everything else, which is exactly the pattern we've been seeing together today. The imperfect calls don't erase that moment, and that moment isn't an exception to who you were to her — it might actually be closer to the truth of your relationship than the guilt is.\n\nWhat do you think it would feel like to let that memory of her laughing just exist for a little while, without immediately allowing the guilt to follow it in?",
+    "client": "There's one friend, Sarah, who has checked in on me a few times, but I keep giving her the \"I'm fine\" answer because I don't want to be a burden or make things awkward between us. I guess I'm afraid that if I actually tell her how bad it's been, she won't know what to say and then I'll feel even more alone than if I hadn't said anything. It's almost easier to keep people at a distance than to risk that kind of disappointment.",
+    "therapist": "It's so understandable to want to protect yourself from that risk, and yet I notice that Sarah has checked in *multiple times* — that's someone quietly signaling that she wants to show up for you, even if she doesn't know how heavy things really are. The story your mind is telling you — that honesty will push her away — is worth gently examining, because it might be protecting you from disappointment while also keeping you from the very connection you're aching for. What do you think would actually happen if you gave Sarah just a small, honest answer next time she checked in — not the whole weight of everything, but something a little closer to the truth?",
     "condition": "baseline",
-    "val_t": -0.05078303813934326,
-    "aro_t": 0.16554653644561768,
-    "text_emotion": "Tense"
+    "val_t": -0.3497976064682007,
+    "aro_t": 0.029099106788635254,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I want to say it would feel good, but honestly, the first thing I notice is this kind of... panic almost, like if I let myself just sit with that memory without the guilt attached, I'm somehow letting myself off the hook for all the times I wasn't there. It's like the guilt has become this weird way of proving that I loved her, you know? If I stop feeling bad, maybe it means I didn't care enough.",
-    "therapist": "You just articulated something really profound — that the guilt has become a way of keeping your love for her alive and visible, almost like it's the last thread connecting you to her, and letting it go feels like losing her all over again. That makes so much sense, and it also helps me understand why simply \"thinking differently\" hasn't been enough, because this isn't really about logic — it's about fear of losing your connection to her. But I want to offer a gentle thought: that memory of her laughing, the bird at the feeder, her voice saying you always made her feel better — that *is* her, and that connection lives in you in a way that guilt could never protect or replace.\n\nWhat if the guilt isn't actually keeping you close to her — what do you think might happen to that connection if you leaned into the memory of her laughing instead?",
+    "client": "Honestly, when I think about it that way, I can see that Sarah probably wouldn't just disappear on me — she's been too consistent for that. But there's still this voice in my head saying that there's a difference between checking in out of obligation and actually being able to handle what I'd share. I think I'd be okay trying something small, like admitting I'm having a harder time than I've let on, but I don't really know how to start that conversation without it feeling forced or dramatic.",
+    "therapist": "It's really meaningful that you can already see Sarah's consistency as evidence that she cares, and that you're open to trying something small — that's not a minor thing, that's a genuine shift. Starting doesn't have to be dramatic or perfectly worded; something as simple as \"I've actually been struggling more than I've let on, and I think I needed to finally say that out loud\" opens a door without requiring you to walk through the whole story at once. I'm wondering — if you imagine saying something like that to Sarah, what feels like the hardest part: finding the words, or allowing yourself to be seen as someone who isn't okay right now?",
     "condition": "baseline",
-    "val_t": -0.2424381971359253,
-    "aro_t": 0.17871952056884766,
+    "val_t": -0.22127008438110352,
+    "aro_t": 0.15469813346862793,
     "text_emotion": "Angry"
   }
 ]

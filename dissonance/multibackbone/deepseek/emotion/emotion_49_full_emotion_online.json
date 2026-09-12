@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just completely missed the deadline for my final project at university, and now I can't stop panicking about it. I keep imagining worst-case scenarios where this one mistake ruins my entire grade and future prospects. Part of me wonders if talking about it will even help - the damage is already done, right?",
-    "therapist": "It sounds like you're feeling really distressed about this situation, and your mind is jumping to some overwhelming \"what if\" scenarios. While the deadline has passed, I'm curious—what evidence do you have that this one setback will completely ruin your future?  \n\nWould you be willing to explore how we might put this situation into a more balanced perspective?",
+    "client": "Lately, I’ve been really stressed about failing to meet the deadline for my final project at university. I keep worrying that it’s going to tank my overall grade, and I feel like I’ve let myself down. Honestly, I’m not sure if talking about it will help—I feel like I’ve already messed up, and there’s no way to fix it.",
+    "therapist": "It sounds like you’re feeling really stuck and disappointed with yourself right now. Let’s take a step back and look at this situation—what evidence do you have that *nothing* can be done to improve things?",
     "condition": "emotion_text_only",
-    "val_t": -0.3911198377609253,
-    "aro_t": 0.31956231594085693,
-    "text_emotion": "Angry"
+    "val_t": -0.4409003257751465,
+    "aro_t": 0.1518620252609253,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I know logically that one missed deadline probably won't ruin everything, but it's hard to shake this feeling that I'm falling behind permanently. My mind keeps going to how this makes me look unreliable, and that no one will want to work with me now. \n\nI guess I could try to look at it differently, but part of me feels like that's just making excuses for my failure.",
-    "therapist": "I hear that mix of logical understanding and persistent worry—it's like part of you knows this isn't catastrophic, but the emotional weight still feels heavy. When your mind jumps to being seen as unreliable, what kind of past experiences or beliefs might be fueling that particular fear?  \n\nIt’s interesting you mentioned \"making excuses\"—could we explore how balancing self-compassion with accountability might feel different from excusing the situation?",
+    "client": "I guess technically I could ask for an extension, but I feel like that would just prove I'm incompetent. The professor already thinks I'm disorganized because I asked for help earlier in the semester. I'm just so tired of feeling like I'm always barely scraping by.",
+    "therapist": "It sounds like you're carrying a lot of self-judgment about needing help, which must feel exhausting. What do you think it would mean about you if you *did* ask for an extension—would it necessarily equal incompetence, or could it show self-awareness?",
     "condition": "emotion_text_only",
-    "val_t": -0.28470051288604736,
-    "aro_t": 0.042989373207092285,
+    "val_t": -0.26320338249206543,
+    "aro_t": -0.0009909868240356445,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I think part of it comes from my dad always calling me \"flaky\" when I was younger, even when I had good reasons for canceling plans. Like once I had the flu and he still said I was just making excuses. Now whenever I have to reschedule something, even for valid reasons, that old label pops up in my head. \n\nThe self-compassion thing is hard because it feels like if I'm too kind to myself, I'm just letting myself off the hook. But when I'm too harsh, I end up paralyzed with guilt. I don't know how to find that middle ground without feeling like I'm either being lazy or beating myself up.",
-    "therapist": "It makes so much sense that those childhood experiences with your dad would shape how you view accountability now—those labels can stick with us in powerful ways. I’m struck by how you describe this all-or-nothing struggle: either \"letting yourself off the hook\" or \"paralyzing guilt.\"  \n\nWhat do you think it would look like to respond to this missed deadline the way you might advise a close friend who came to you with the same situation?",
+    "client": "I never thought about it that way. I guess recognizing when you need help could be a form of self-awareness. But it still feels like admitting defeat to me - like I should have been able to handle this on my own like everyone else seems to.",
+    "therapist": "It sounds like you’re caught between wanting to take care of yourself and feeling like you *shouldn’t* need to, which must be really hard. What makes you think others are handling everything perfectly without help—could it be that they’re just not sharing their struggles?",
     "condition": "emotion_text_only",
-    "val_t": -0.39484238624572754,
-    "aro_t": 0.1522587537765503,
-    "text_emotion": "Sad"
+    "val_t": -0.2844069004058838,
+    "aro_t": 0.16135001182556152,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know, if it was my friend I'd probably tell them it's not the end of the world and everyone makes mistakes. But when it's me, it feels different—like I should have known better or worked harder. The friend comparison makes sense logically, but emotionally it's like there's this block stopping me from being that kind to myself.",
-    "therapist": "That gap between how you'd treat a friend and how you treat yourself is really telling—it’s like you’re holding yourself to a much stricter standard. What do you think might happen if you *did* allow yourself that same kindness, even just as an experiment?  \n\nI notice you used the word \"block\"—what does that resistance feel like when you try to extend compassion inward?",
+    "client": "I guess I don’t *know* if others are handling things perfectly—it just seems that way because no one talks about their struggles. But even if they’re not perfect, I still feel like I’m falling short compared to them. It’s hard to shake the feeling that I’m the only one who can’t get it together.",
+    "therapist": "It sounds like this comparison is really weighing on you, even though you recognize it might not reflect reality. When that \"falling short\" feeling comes up, what kind of thoughts typically go through your mind about what it *means* to need help?",
     "condition": "emotion_text_only",
-    "val_t": -0.07318150997161865,
-    "aro_t": 0.07334291934967041,
-    "text_emotion": "Neutral"
+    "val_t": -0.26488184928894043,
+    "aro_t": 0.08713960647583008,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I don't know if I can just flip a switch and start being kind to myself like that. When I try, it feels fake, like I'm lying to myself because I don't actually believe I deserve it. The \"block\" is this heavy feeling in my chest, like my brain just shuts down the nice thoughts before they can even form. \n\nIt's easier to be kind to friends because they haven't made all the mistakes I have. If I go easy on myself, won't I just keep messing up? That's what scares me.",
-    "therapist": "That fear makes so much sense—it sounds like you're worried self-compassion might mean lowering your standards, when really it's about changing how you relate to your mistakes. That \"heavy feeling\" when kindness feels fake—could we sit with that for a moment? What’s the earliest memory you have of believing you needed to earn basic kindness?  \n\nYou mentioned deservingness—what would it take for someone to \"deserve\" self-compassion in your eyes? Let’s examine that rule together.",
+    "client": "I immediately think \"If I were smarter or more capable, I wouldn't need help.\" It makes me feel like a fraud, like I don't really belong in my program. But when you put it that way, it does sound pretty extreme—like I'm either perfect or a total failure with no in-between.",
+    "therapist": "It sounds like you're noticing how all-or-nothing your thinking has been about this—that’s a really important awareness. What might it feel like to challenge that extreme standard by acknowledging that *everyone* has moments of needing support, including capable people?",
     "condition": "emotion_text_only",
-    "val_t": -0.3125159740447998,
-    "aro_t": 0.22752320766448975,
+    "val_t": -0.20181429386138916,
+    "aro_t": 0.20599055290222168,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I don't know... the idea of deserving self-compassion feels foreign to me. The earliest memory I have is probably from elementary school when my teacher would only praise perfect test scores. Anything less than 100% felt like failure. \n\nBut even if I examine that rule, part of me still thinks - shouldn't we have to earn kindness? If I'm too easy on myself, won't I just become lazy or complacent? That fear feels very real.",
-    "therapist": "It sounds like that early lesson—that only perfection deserves kindness—still has a strong grip, and the fear of becoming \"lazy or complacent\" feels very protective in a way. Let's challenge that idea gently: when you've seen others show themselves compassion, have you noticed it actually made them *less* motivated, or more able to grow from mistakes?  \n\nWhat do you think keeps the idea of \"earning\" kindness so compelling for you, even as you recognize its roots in childhood? That might tell us something important.",
+    "client": "It’s uncomfortable to think about, but maybe if I could accept that needing help doesn’t make me a fraud, I wouldn’t feel so paralyzed. But part of me still worries that even if other people struggle sometimes, my struggles are somehow worse or more shameful.",
+    "therapist": "It sounds like you're gently challenging that harsh self-judgment, even though it still feels shaky to hold onto this new perspective. What would it look like to treat yourself with the same compassion you might offer a friend who was struggling with this project?",
     "condition": "emotion_text_only",
-    "val_t": -0.288004994392395,
-    "aro_t": 0.12874281406402588,
+    "val_t": -0.38915038108825684,
+    "aro_t": 0.1630573272705078,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I've never really thought about it that way before. When I see other people being kind to themselves, it does seem like they bounce back faster from setbacks. But for me, the fear is that if I cut myself slack, I'll lose what little motivation I have left. \n\nI think the \"earning\" thing sticks because it's been my survival strategy for so long. If I believe I have to earn kindness, at least there's a path to get it, even if it's impossible. Without that, what if I just become someone who deserves nothing?",
-    "therapist": "That survival strategy makes so much sense—it's been your way of ensuring there's always a path forward, even if it's an exhausting one. I hear how terrifying it feels to imagine letting go of that system, like you'd be stepping into an abyss where worthiness isn't earned.  \n\nWhat if we experimented with viewing self-compassion not as losing motivation, but as changing its fuel source—from fear of unworthiness to commitment to growth? Might that feel different in your body than your current approach?",
+    "client": "I'd probably tell a friend that deadlines are tough for everyone and that asking for help is smart, not weak. But applying that to myself feels different - like I'm making excuses when I should just work harder. It's easier to be kind to others than to myself.",
+    "therapist": "It sounds like you can extend such thoughtful understanding to others, but turn it into criticism when it comes to yourself—that double standard must feel really draining. What do you think keeps that gap between how you treat others and how you treat yourself so wide?",
     "condition": "emotion_text_only",
-    "val_t": -0.21471703052520752,
-    "aro_t": 0.14802801609039307,
-    "text_emotion": "Angry"
+    "val_t": -0.05192887783050537,
+    "aro_t": 0.02463531494140625,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "That shift sounds nice in theory, but it's hard to imagine actually feeling that way. Every time I try to be kinder to myself, it just feels like making excuses—like I'm letting myself off the hook. The fear keeps me going, you know? If I lose that, what if I just stop trying altogether? \n\nI do notice my shoulders get really tense when I'm in that anxious, self-critical headspace. But the idea of using \"growth\" as fuel instead...that just feels vague and shaky compared to the concrete fear of failing.",
-    "therapist": "It makes complete sense that this shift feels vague and shaky compared to the familiar grip of fear—that fear has been such a reliable (if painful) motivator for you. I notice you’re aware of how your body reacts to self-criticism (those tense shoulders)—what physical sensations arise when you *briefly* imagine motivation coming from care rather than fear?  \n\nThe \"making excuses\" worry keeps coming up—could we test that belief by looking at times you’ve shown yourself even small kindnesses? Did those actually lead to you stopping effort, or just changing how you approached challenges?",
+    "client": "I think it’s because I’ve always felt like I have to prove myself—like I’m not good enough unless I’m perfect. For others, I can see their efforts and struggles as normal, but for me, it feels like any mistake means I’m failing completely. It’s hard to let go of that mindset, even though I know it’s not fair to myself.",
+    "therapist": "It sounds like you’re recognizing how deeply this \"prove myself\" narrative has shaped your self-view, even though it leaves no room for human imperfection. What do you think might shift if you started treating your efforts—even the imperfect ones—as evidence of your commitment rather than proof of inadequacy?",
     "condition": "emotion_text_only",
-    "val_t": -0.19076800346374512,
-    "aro_t": 0.15132486820220947,
+    "val_t": -0.2440263032913208,
+    "aro_t": 0.12027740478515625,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I don't know, when I try to imagine motivation coming from care instead of fear, my chest just feels tight like I'm doing something wrong. The few times I've been kind to myself, I ended up procrastinating more—like last week when I told myself it was okay to take a break, but then I didn't get back to work for two days. \n\nIt's hard to believe being gentle with myself won't just make me lazy. Fear might be painful, but at least it gets me moving, you know?",
-    "therapist": "I hear how real that fear is—that without self-criticism, you might lose your drive completely. It’s interesting that in that moment of taking a break, it sounds like the pendulum swung from harshness to avoidance.  \n\nWhat if we explored small experiments where kindness includes *both* rest *and* gentle accountability—not as opposites, but as partners? How might that look different from what you’ve tried before?",
+    "client": "I can see how that perspective would be healthier, but part of me rebels against it—like if I'm not constantly criticizing myself, I'll become complacent and stop pushing myself. It's scary to think about letting go of this perfectionism because it feels like the only thing keeping me from completely failing.",
+    "therapist": "It sounds like that critical voice feels almost protective—like if you loosen your grip, everything might fall apart. That fear makes so much sense. Can we explore what \"failing completely\" would actually look like in reality, versus how it feels in your thoughts?",
     "condition": "emotion_text_only",
-    "val_t": -0.13703382015228271,
-    "aro_t": 0.1441800594329834,
+    "val_t": -0.1707524061203003,
+    "aro_t": 0.12522614002227783,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I don't know... the idea of gentle accountability sounds nice in theory, but it feels like that's just another way to say I need to push myself. Every time I try to be \"kind\" to myself, I end up either beating myself up or slacking off completely. It's like I can't find a middle ground. \n\nHonestly, I'm skeptical that this approach will work for me. When I've tried being gentler in the past, I just end up feeling guilty about not doing enough, which makes me more anxious. It's this cycle I can't seem to break.",
-    "therapist": "It sounds like you've been caught in this exhausting cycle where any attempt at kindness either collapses into avoidance or circles back to guilt—no wonder you're feeling skeptical. That frustration makes complete sense when previous experiments haven't found that middle ground yet.  \n\nWhat if we zoomed out for a moment—are there any areas of your life where you *have* successfully balanced care and accountability, even in small ways? Sometimes those overlooked examples hold clues.",
+    "client": "When I think about actually failing completely, I guess it would mean getting kicked out of my program or disappointing my family. But rationally, I know one late assignment wouldn’t cause that—it just *feels* that catastrophic in my head. Still, even knowing that doesn’t make the anxiety go away.",
+    "therapist": "It sounds like you’re caught between knowing rationally that this isn’t a catastrophe and feeling emotionally overwhelmed by the possibility—that disconnect must be really tough. What do you think keeps the anxiety so strong, even when you can see it’s out of proportion to the actual situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.2106645107269287,
-    "aro_t": 0.1249992847442627,
+    "val_t": -0.3211197853088379,
+    "aro_t": 0.19896411895751953,
     "text_emotion": "Angry"
   }
 ]

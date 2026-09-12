@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. After losing my grandfather, I can't seem to focus on my final exams that are starting next week. I keep feeling overwhelmed by grief and it's hard to see how I'll be able to get through everything.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandfather. Losing someone close can be incredibly difficult, especially when you have important exams coming up. It sounds like you're feeling really overwhelmed right now. Can you tell me more about what's been the hardest part for you in balancing your grief and preparing for your exams?",
+    "client": "Hey Luna, I've been really struggling lately. My grandfather passed away recently, and I just can't seem to focus on my final exams coming up next week. I feel overwhelmed by my grief and can't shake the feeling that I'm not going to do well.",
+    "therapist": "I'm so sorry to hear about your grandfather, and it's completely understandable that you're feeling overwhelmed right now. Grief can be incredibly challenging, especially when it feels like everything else is piling up. How have you been coping with these feelings, and is there anything specific that might help you feel a bit more grounded as you prepare for your exams?",
     "condition": "emotion_text_only",
-    "val_t": -0.3441171646118164,
-    "aro_t": 0.22087371349334717,
+    "val_t": -0.4630706310272217,
+    "aro_t": 0.25292205810546875,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks for understanding, Luna. The hardest part is just finding the motivation to study. I keep getting distracted by memories of my grandfather, and it's hard to focus when I feel so sad and guilty for not being able to do more for him.",
-    "therapist": "I can really understand how challenging it must be to find the motivation to study when you're dealing with such deep emotions. It's completely normal to be distracted by memories and feelings of sadness and guilt. How have you been coping with these feelings when they arise, and do you think there are any small steps you could take to help yourself focus a bit more?",
+    "client": "Thanks for understanding, Luna. I've been trying to stay on top of my studies, but my mind keeps wandering back to all the memories I have with my grandfather. It's hard to stay focused, and I feel guilty for not being able to do more to honor him. I don't know how to balance my grief with the pressure of these exams.",
+    "therapist": "I can see how challenging it must be to balance your grief with the demands of your studies. It's natural to feel guilty and distracted, but it's important to remember that honoring your grandfather can also mean taking care of yourself and doing your best under the circumstances. How do you think you could create a small ritual or moment of remembrance that might help you feel more connected to him while you study?",
     "condition": "emotion_text_only",
-    "val_t": -0.11275637149810791,
-    "aro_t": 0.12927770614624023,
+    "val_t": -0.12916719913482666,
+    "aro_t": 0.10929131507873535,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "It's tough, because those feelings just seem to weigh me down so much. I try to distract myself by watching TV or scrolling through social media, but it doesn't really help in the long run. I don't know, the idea of finding ways to focus more just feels overwhelming right now.",
-    "therapist": "It sounds like you're really struggling with the weight of these emotions, and it's understandable that distractions like TV or social media don't provide lasting relief. It's okay to feel overwhelmed by the idea of finding ways to focus. What do you think might help you feel a bit lighter or more grounded when you're feeling this way? Even small steps can make a difference.",
+    "client": "I like the idea of a small ritual, but I'm not sure what that would look like. Maybe lighting a candle or having a photo of him nearby while I study? I just worry that it might make me even more emotional and distract me further. It's hard to find a balance between remembering him and staying focused on my exams.",
+    "therapist": "Those are great ideas for a ritual, and it's completely understandable to worry about becoming more emotional. It's a delicate balance, but having a small, meaningful reminder of your grandfather could actually provide comfort and strength. You might find that it helps you feel more connected and focused in the long run. How about setting a specific time each day for a short reflection or moment of remembrance, so you can honor him without it interfering too much with your study time?",
     "condition": "emotion_text_only",
-    "val_t": -0.11301982402801514,
-    "aro_t": 0.23065519332885742,
-    "text_emotion": "Angry"
+    "val_t": -0.1277834177017212,
+    "aro_t": 0.05530822277069092,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. I do feel like I'm just carrying this heavy weight all the time. Small steps sound good in theory, but it's hard to know where to start. I feel like I've tried so many things, and they just don't stick. Maybe I'm just not good at finding what works for me.",
-    "therapist": "I can really hear how exhausting it feels to carry that weight all the time, and it's completely understandable to feel stuck. Trying different things and not seeing them stick can be really frustrating. It might be helpful to take a step back and think about what has brought you even a tiny bit of relief or comfort in the past, even if it was just for a moment. What do you think might be a small, manageable step you could try today or this week, even if it's just to give yourself a little break from the heaviness?",
+    "client": "I see what you mean about setting a specific time for reflection. It might help me compartmentalize my grief a bit. But I'm still a bit worried that it could make me more emotional, especially when I'm already feeling so fragile. I guess I can try it, but I'm not sure how well it will work for me.",
+    "therapist": "It's completely normal to feel uncertain and a bit fragile, especially given everything you're going through. Starting with a small, manageable ritual can be a gentle way to honor your grandfather and give yourself some structure. You might find that it helps you feel a bit more in control. How do you think you could ease into this routine, maybe starting with just a few minutes each day, and see how it feels?",
     "condition": "emotion_text_only",
-    "val_t": -0.09514927864074707,
-    "aro_t": 0.07520699501037598,
+    "val_t": -0.09082615375518799,
+    "aro_t": 0.005217552185058594,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard to find those moments of relief when everything feels so overwhelming. I guess I could try something small, like taking a short walk or listening to some music, but I often feel like those things don't really make a difference in the long run. It's hard to believe they'll help when the anxiety and guilt are so persistent.",
-    "therapist": "I understand that it can be really challenging to find those moments of relief when everything feels so overwhelming. It's normal to doubt whether small steps will make a difference, especially when anxiety and guilt are so persistent. Even if they don't solve everything, small actions like taking a short walk or listening to music can still provide some temporary relief and a break from the intensity. How do you think you might be able to incorporate these small steps into your routine, even if just for a little while, to see if they can offer you some comfort?",
+    "client": "I think starting small makes sense. Maybe I could spend just five minutes in the morning looking at a photo of him and saying a few words. It feels doable, but I'm still a bit nervous about how it will affect me emotionally. I'll give it a try and see how it goes.",
+    "therapist": "That sounds like a thoughtful and manageable plan. Starting small can often make a big difference, and it's great that you're willing to give it a try. It's natural to feel a bit nervous, but you're taking a positive step toward finding a balance that works for you. How do you think you'll know if it's helping, and what might be a sign that you need to adjust your approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.05358242988586426,
-    "aro_t": 0.14689850807189941,
-    "text_emotion": "Tense"
+    "val_t": -0.014506220817565918,
+    "aro_t": 0.14915311336517334,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, and I really do want to try, but it's hard to see how something as simple as a walk or listening to music could make a difference when my anxiety and guilt feel so all-consuming. It's like these small things are just a Band-Aid on a much bigger wound. I worry that if I try and it doesn't work, I'll just feel even more discouraged.",
-    "therapist": "I completely understand where you're coming from. It's natural to feel skeptical about the effectiveness of small steps when your anxiety and guilt feel so all-consuming. It's important to recognize that while these small actions might not cure everything, they can sometimes provide a temporary break or a moment of respite, which can be valuable in itself. What do you think might be a small, manageable action you could try today, even if it's just to give yourself a tiny bit of relief, without putting too much pressure on it to solve everything?",
+    "client": "I think I'll know it's helping if I feel a bit more centered and less overwhelmed during my study sessions. If I find myself getting too emotional or distracted, that might be a sign that I need to adjust the ritual or find a different way to honor him. It's a bit of a trial and error process, but I'm willing to give it a shot.",
+    "therapist": "That's a really insightful way to approach it. Having clear indicators of what helps and what doesn't will be really useful as you navigate this. It's great to see you taking such a thoughtful and flexible approach. How do you feel about setting a specific time each day for this ritual, and maybe journaling a bit about how you feel afterward to track your progress?",
     "condition": "emotion_text_only",
-    "val_t": -0.34625232219696045,
-    "aro_t": 0.1737145185470581,
-    "text_emotion": "Angry"
+    "val_t": 0.08531415462493896,
+    "aro_t": 0.09956204891204834,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, and I really do want to try, but it feels like even small actions are just a Band-Aid on a much bigger issue. I worry that if I try something and it doesn't work, I'll just feel even more discouraged. It's hard to find that little bit of motivation when everything feels so overwhelming.",
-    "therapist": "I can really understand how overwhelming it feels, and it's completely valid to worry that small actions might not address the bigger issues. It's tough to find motivation when everything feels so heavy. Maybe we can think about this in a different way—what if the goal isn't to solve everything, but to find a tiny bit of relief or a moment of peace? What do you think might be a small, manageable action you could take today that could give you even a brief respite from the weight you're carrying?",
+    "client": "I like the idea of journaling; it might help me process my feelings more. Setting a specific time each day could give me a sense of routine, but I'm a bit worried about fitting it into my already busy schedule. I'll try it out and see how it goes, though.",
+    "therapist": "It's great to hear that you're open to journaling—it can be a powerful tool for processing your feelings. Finding a routine that works within your busy schedule is important, and it's okay to be flexible with the timing if you need to. How do you think you might fit this ritual into your day, and what might make it feel more manageable?",
     "condition": "emotion_text_only",
-    "val_t": -0.28921687602996826,
-    "aro_t": 0.22052502632141113,
-    "text_emotion": "Angry"
+    "val_t": 0.02892756462097168,
+    "aro_t": -0.0030431747436523438,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I can see where you're coming from, but it's hard for me to imagine that a small action could really make a difference when everything feels so overwhelming. It's like trying to fix a leaky roof with a Band-Aid. I guess I just feel like I need something more substantial to really feel better.",
-    "therapist": "I completely understand that it feels like you need something more substantial to really make a difference, especially when everything feels so overwhelming. It's a valid feeling, and it's important to address the bigger issues you're facing. At the same time, sometimes small actions can be a way to start building a foundation, even if they seem minor. What do you think might be a slightly bigger step you could take that feels more meaningful to you, even if it's still manageable? It could be something that helps you connect with your feelings or honor your grandfather's memory.",
+    "client": "I think I could fit the ritual into my morning routine, right after I wake up. It might feel more manageable if I treat it like a non-negotiable part of my day, kind of like brushing my teeth. But I'm still a bit worried about how it will affect my emotions, and I'll need to be gentle with myself if it gets too much.",
+    "therapist": "That's a really good plan, treating the ritual as a non-negotiable part of your morning routine. It can help create a sense of stability and grounding right from the start of the day. It's completely normal to have some worries about how it will affect your emotions, and being gentle with yourself is so important. How do you think you might check in with yourself after the ritual to see how you're feeling, and what might be some signs that you need to take a break or adjust things?",
     "condition": "emotion_text_only",
-    "val_t": -0.07351076602935791,
-    "aro_t": 0.20374011993408203,
-    "text_emotion": "Tense"
+    "val_t": -0.09012174606323242,
+    "aro_t": 0.10938084125518799,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just hard to find something that feels both meaningful and manageable. Honoring my grandfather's memory is important to me, but I often feel stuck and unsure of how to do that in a way that really resonates with me. Maybe I could try writing a letter to him, expressing how much he meant to me and how I'm feeling now? But I worry that it might be too emotional and overwhelming.",
-    "therapist": "I understand that finding something both meaningful and manageable can be really challenging, especially when you're feeling stuck. Writing a letter to your grandfather could be a very powerful way to honor his memory and express your feelings. It's natural to worry that it might be too emotional, but it can also be a cathartic and healing experience. If you decide to try it, you might start with just a few sentences and see how it feels. How does that sound to you? Would you like to give it a try, or is there another way you might want to honor his memory that feels a bit more comfortable?",
+    "client": "I think I'll check in with myself by taking a few deep breaths and noticing how I feel emotionally and physically right after the ritual. If I feel more grounded and calm, that's a good sign. But if I feel more distressed or overwhelmed, I might need to take a break or try a different approach. It's a process, and I'll have to be patient with myself.",
+    "therapist": "That's a really thoughtful and compassionate approach to checking in with yourself. Taking deep breaths and tuning into your emotional and physical state can provide valuable insights. It's important to be patient and kind to yourself throughout this process. How do you think you'll handle it if you do need to take a break or try a different approach? Having a plan B can be really helpful.",
     "condition": "emotion_text_only",
-    "val_t": -0.11594569683074951,
-    "aro_t": 0.16924452781677246,
-    "text_emotion": "Angry"
+    "val_t": -0.04944491386413574,
+    "aro_t": 0.05745077133178711,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate your suggestion, but I'm really worried that writing a letter might bring up too many emotions. I've been holding it together lately, and I don't want to risk breaking down. Maybe there's a less intense way to honor his memory, like looking through old photos or something?",
-    "therapist": "I completely understand your concerns about writing a letter and the fear of bringing up too many emotions. It's important to find a way to honor your grandfather's memory that feels right for you and doesn't feel too overwhelming. Looking through old photos could be a gentle and meaningful way to do that. It can help you remember the good times and feel connected to him in a less intense way. How does that sound to you? Are there any particular photos or memories that stand out when you think about this?",
+    "client": "If I need to take a break, I think I'll try a different calming activity, like going for a short walk or listening to some soothing music. It might help to have a few options ready so I can switch things up if the ritual isn't working for me on a particular day. I just hope I can find the right balance to help me through this tough time.",
+    "therapist": "It sounds like you have a thoughtful plan in place, and having those alternative calming activities is a great idea. It's important to have flexibility and options, especially during such a challenging time. How do you feel about trying out these different strategies and seeing which ones work best for you? It's all about finding what brings you the most comfort and helps you feel more balanced.",
     "condition": "emotion_text_only",
-    "val_t": -0.012328028678894043,
-    "aro_t": 0.0709906816482544,
+    "val_t": 0.0884939432144165,
+    "aro_t": -0.002903461456298828,
     "text_emotion": "Neutral"
   }
 ]

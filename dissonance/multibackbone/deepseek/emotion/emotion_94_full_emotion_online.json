@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling with taking care of my mom lately. Ever since her Alzheimer's got worse, I feel like I'm drowning in doctor's appointments, medication schedules, and just keeping her safe. Some days I wonder if therapy can even help when the situation itself isn't going to change.",
-    "therapist": "It sounds like you're carrying an incredibly heavy load right now, and the constant demands of caregiving are leaving you feeling exhausted and hopeless. When you say \"drowning,\" I hear how overwhelming this must feel—like there's no relief in sight.  \n\nI wonder if we could explore how these overwhelming thoughts (\"therapy can't help\") might be impacting your ability to cope day to day? What comes up for you when you think about that?",
+    "client": "I've been really struggling with taking care of my mom since her Alzheimer's diagnosis. Some days I feel so guilty when I get frustrated with her, but then I also resent having to put my whole life on hold. I don't know...maybe therapy can't really fix this situation anyway. It's just how things are now.",
+    "therapist": "It sounds like you're carrying a heavy mix of emotions—guilt, frustration, and even some resentment—while trying to navigate this really tough situation with your mom. That sense of \"this is just how things are\" makes me wonder: when those thoughts come up, what happens to your feelings of hope or possibility in that moment?  \n\n(Using the slightly negative valence and moderate arousal to gently explore the cognitive \"trap\" of hopelessness while naming the emotional complexity)",
     "condition": "emotion_text_only",
-    "val_t": -0.2802516222000122,
-    "aro_t": 0.0884467363357544,
+    "val_t": -0.2903093099594116,
+    "aro_t": 0.10792291164398193,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I just feel like no matter what I try, nothing changes. The exhaustion is constant, and therapy feels like one more thing on my to-do list that won’t actually help. When you ask about coping, I just think—what’s the point? Even if I change my thoughts, the situation stays the same.  \n\nI know you’re trying to help, but sometimes it feels like people don’t really get how trapped I feel. Like, sure, I could try to think differently, but that won’t make the physical and emotional toll any lighter.",
-    "therapist": "I hear how deeply stuck and isolated you feel—like the weight of this situation is unshakable, and even well-meaning suggestions can feel dismissive of that reality. It makes sense that when exhaustion is this relentless, \"thinking differently\" might sound impossible, or even unfair to ask of you right now.  \n\nCould we slow down and just acknowledge how valid this pain is, before we try to \"fix\" anything? What would feel most supportive to you in this moment?",
+    "client": "Honestly? Hope just feels like a luxury I can't afford right now. When I try to imagine things getting better, it just makes me feel more exhausted because I know the reality - this disease only gets worse. Some days I wish I could just turn off my feelings completely.",
+    "therapist": "That exhaustion makes complete sense—when hope feels out of reach, it’s natural to want to numb the pain altogether. I’m curious though: in those moments when you wish you could shut off your feelings, what do you think that part of you is trying to protect you from?  \n\n(Meeting their low-energy despair with gentle curiosity—validating the urge to disengage while inviting examination of the underlying fear/overwhelm)",
     "condition": "emotion_text_only",
-    "val_t": -0.27011752128601074,
-    "aro_t": 0.06349515914916992,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "Thank you for saying that. It does feel validating to hear that my pain is real and not just something I need to \"fix\" right away. Honestly, I’m so tired of people telling me to just think positively or try harder—it feels like they don’t understand how heavy this all is. Right now, I just wish I didn’t feel so alone in this. It’s like no one really gets it, and that makes it even harder to see a way out.",
-    "therapist": "I’m really glad that validation feels meaningful to you—it sounds like you’ve been carrying this weight while feeling misunderstood, and that loneliness adds another layer of pain to an already difficult situation. It’s not just about the tasks or the exhaustion; it’s also about feeling unseen in the midst of it all.  \n\nCan you tell me more about what “not feeling so alone” would look like for you? What would that kind of support feel like in your life right now?",
-    "condition": "emotion_text_only",
-    "val_t": -0.12851357460021973,
-    "aro_t": 0.16927659511566162,
+    "val_t": -0.16232383251190186,
+    "aro_t": 0.15545237064361572,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "Honestly, I don’t even know what “not feeling so alone” would look like anymore. It’s been so long since I felt truly connected to someone. I guess it would be nice to have someone who just gets me, who listens without judging or trying to fix everything. But it feels like that’s asking too much, or maybe I’m just not good at letting people in.  \n\nSometimes I think even if I had that kind of support, I’d still feel like a burden or worry that I’m too much for them. It’s hard to imagine it being any different.",
-    "therapist": "It sounds like the idea of connection feels both deeply needed and really distant right now—like even imagining it brings up worries of being \"too much\" or a burden. That’s such a painful place to be, especially when you’ve been carrying so much on your own for so long.  \n\nWhen you think about letting someone in, what’s the biggest fear that comes up for you? Is it about how they might respond, or something inside you that holds you back?",
+    "turn": 3,
+    "client": "I think it's trying to protect me from drowning in guilt. Like if I stop feeling anything at all, I won't have to face how awful I feel when I snap at her for repeating questions, or when I secretly wish someone else would take over. But then I feel guilty for even having that thought. It's a vicious cycle.",
+    "therapist": "It sounds like guilt is wrapping itself around every part of this experience—even your attempts to cope become something to feel guilty about. That cycle must feel so heavy to carry.  \n\nCan we pause for a moment and consider: if a close friend were in your exact situation, what might you say to them about having these thoughts?  \n\n(Meeting their low-energy guilt with compassionate reframing—acknowledging the emotional weight while gently introducing cognitive distance through the \"friend\" perspective)",
     "condition": "emotion_text_only",
-    "val_t": -0.2765690088272095,
-    "aro_t": 0.07244575023651123,
+    "val_t": -0.4450031518936157,
+    "aro_t": 0.10781538486480713,
     "text_emotion": "Sad"
   },
   {
-    "turn": 5,
-    "client": "I guess my biggest fear is that I’ll overwhelm people with my problems and they’ll pull away. It’s like I’m always second-guessing myself—am I being too needy? Am I just dumping my issues on them? It’s exhausting to think about, so I end up keeping everything to myself. But then I just feel lonelier, like I’m stuck in this cycle.",
-    "therapist": "That fear of being \"too much\" makes so much sense—it sounds like you’re caught between this deep need for connection and a worry that sharing your struggles might push people away. And that second-guessing (\"Am I being needy?\") must be exhausting all on its own.  \n\nI wonder if we could explore what happens when you do let someone in, even just a little? Have there been moments when sharing felt less risky than you expected?",
+    "turn": 4,
+    "client": "I'd probably tell my friend they're being too hard on themselves - that no one could handle this perfectly. But when it's me, it's different. I know logically that caregiving is hard, but it feels like I should be handling it better. Like my mom deserves more patience than I have to give.",
+    "therapist": "That gap between what you'd offer a friend and what you demand of yourself feels so painful—like there’s some unspoken rule that *your* patience should be limitless.  \n\nI wonder what it might feel like to hold both truths at once: that this *is* incredibly hard, *and* that doing your best doesn’t mean doing it perfectly?  \n\n(Meeting their resigned guilt with warmth—acknowledging the cognitive double-standard while inviting them to sit with nuance. The slightly negative valence and flat arousal call for gentle cognitive stretching rather than overly activating questions)",
     "condition": "emotion_text_only",
-    "val_t": -0.3967001438140869,
-    "aro_t": 0.1731187105178833,
+    "val_t": -0.09607481956481934,
+    "aro_t": 0.07065093517303467,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "It sounds nice in theory, but letting myself off the hook feels...wrong. Like I'm making excuses for not being better at this. I know my mom didn't choose this disease, but I did choose to be her caregiver. Doesn't that mean I have to hold myself to a higher standard?",
+    "therapist": "I hear how deeply committed you are to doing this right—it’s clear how much love and responsibility you feel toward your mom. But I’m struck by how harshly you’re framing that commitment, almost as if showing yourself compassion would somehow dishonor her.  \n\nWhat do you think it would take for you to see your caregiving as an act of love *and* acknowledge that love doesn’t erase how hard this is?  \n\n(Meeting their flat but slightly negative tone with warmth and validation—acknowledging their sense of duty while gently challenging the rigidity of their expectations for themselves)",
+    "condition": "emotion_text_only",
+    "val_t": -0.09006905555725098,
+    "aro_t": 0.12189793586730957,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "Yeah, there have been a few times when I opened up to friends, and they were actually really supportive. But then later I'll obsess over whether I shared too much or made them uncomfortable. Like last week I told my best friend I'd been feeling lonely, and she was really kind about it, but now I keep replaying the conversation wondering if I came across as pathetic. \n\nIt's like even when it goes okay in the moment, the anxiety creeps in afterwards and makes me regret being vulnerable. Part of me thinks maybe it's better to just keep things surface-level so I don't have to deal with that aftermath.",
-    "therapist": "It sounds like even when vulnerability goes well in the moment, the aftermath brings this wave of doubt—\"Was I too much?\" \"Did I seem pathetic?\"—and that second-guessing almost erases the kindness you received. That push-and-pull must feel so draining: wanting connection, but then feeling like the cost is this lingering anxiety.  \n\nI’m curious—when you replay those conversations, what’s the story you tell yourself about what the other person *really* thought? What evidence do you have that supports or challenges that story?",
+    "client": "Maybe...maybe I need to stop seeing this as an all-or-nothing thing. Like I can be a good daughter and still struggle sometimes. But it's so hard when she looks at me with confusion, and I know she'd never judge me - that just makes me judge myself even more.",
+    "therapist": "That moment when she looks at you with confusion—it seems to bring up so much self-judgment, as if her lack of judgment somehow amplifies your own.  \n\nIt sounds like you’re starting to see that this doesn’t have to be all-or-nothing, though. What do you think might help you hold onto that perspective, especially in those harder moments with her?  \n\n(Meeting their slightly negative valence and low arousal with gentle support—acknowledging the emotional weight of their self-judgment while reinforcing their emerging insight about nuance)",
     "condition": "emotion_text_only",
-    "val_t": -0.22550952434539795,
-    "aro_t": 0.07853043079376221,
-    "text_emotion": "Sad"
+    "val_t": -0.2895994186401367,
+    "aro_t": 0.21689069271087646,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "It’s like I can’t stop replaying the moment in my head, and I convince myself they were just being polite or felt sorry for me. I keep thinking, “They probably thought I was oversharing or being dramatic.” But honestly, I don’t have any solid evidence for that—they seemed genuinely kind in the moment. It’s just hard to trust that kindness because I feel like I don’t deserve it. \n\nI guess the evidence against my worry is that they didn’t seem uncomfortable or dismissive. But even knowing that, it’s hard to shake the feeling that I messed up somehow.",
-    "therapist": "That self-doubt—\"They were just being polite,\" \"I don’t deserve it\"—sounds like it’s clinging tightly, even when the evidence points to genuine care. It’s like your mind has this automatic filter that turns kindness into something suspicious or unearned.  \n\nWhat do you think it would take to let that moment of connection stand as it was, without the \"buts\" creeping in afterward? How might it feel to trust that your friend’s kindness was real?",
+    "client": "Maybe writing down the good moments - like when we laugh together or when she remembers something from my childhood. But then part of me thinks that's just avoiding reality, because the next minute she might forget again. It's like trying to hold onto sand that keeps slipping through my fingers.",
+    "therapist": "It sounds like you’re torn between wanting to hold onto those precious moments and feeling like they might slip away too quickly to matter. That metaphor of holding sand is so vivid—it captures how fleeting and fragile this all feels.  \n\nWhat if noticing those good moments isn’t about avoiding reality, but about balancing it? How might it feel to let those moments matter, even if they don’t last forever?  \n\n(Meeting their slightly negative valence and low arousal with gentle encouragement—validating their sense of fragility while reframing the act of noticing positive moments as a form of balance rather than avoidance)",
     "condition": "emotion_text_only",
-    "val_t": -0.22075629234313965,
-    "aro_t": 0.0712054967880249,
-    "text_emotion": "Sad"
+    "val_t": -0.09570193290710449,
+    "aro_t": 0.04719674587249756,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I know logically that my friend probably meant what they said, but it's like my brain won't let me accept it. Even as I try to believe it, there's this voice saying \"they're just saying that because they feel sorry for you\" or \"they don't really mean it.\" \n\nIt's exhausting because part of me wants to trust their kindness, but the doubt feels safer somehow - like if I don't believe it, I can't be disappointed later. But then I end up feeling lonely anyway.",
-    "therapist": "I hear how exhausting this tug-of-war is—part of you longs to trust that kindness, while another part clings to doubt as a way to protect yourself from potential hurt. It makes sense that this feels like a lose-lose: doubting leaves you lonely, but trusting feels risky and unfamiliar.  \n\nWhat do you think that protective part of you is trying to keep safe by holding onto these doubts? What would it need to feel secure enough to loosen its grip?",
+    "client": "I guess I never thought of it as balancing instead of avoiding. But part of me worries that if I focus on the good moments too much, I'll be blindsided when things get worse. Like if I let my guard down, the pain will hit even harder when reality crashes back in.",
+    "therapist": "That fear makes so much sense—like if you don’t brace yourself for the pain, it’ll knock you over completely when it comes. It’s almost as if staying guarded has become a way to protect yourself from being overwhelmed by grief.  \n\nI wonder if there’s a middle ground here: what if letting yourself feel the good doesn’t erase your awareness of the hard, but instead helps you build resilience for when the harder moments come?  \n\n(Meeting their slightly negative valence and low activation with gentle validation—acknowledging their protective coping strategy while introducing the possibility of emotional flexibility. The response stays grounded in CBT by examining the underlying belief about emotional preparedness.)",
     "condition": "emotion_text_only",
-    "val_t": -0.27645576000213623,
-    "aro_t": 0.038986802101135254,
+    "val_t": -0.3807046413421631,
+    "aro_t": 0.14285027980804443,
     "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I guess that protective part is trying to keep me from getting hurt again. Last time I really trusted someone, they ended up leaving, and that pain was unbearable. But I don't know how to make that part feel secure - it's like no amount of reassurance ever feels like enough. \n\nSometimes I wonder if I'll ever be able to trust fully again, or if I'm just destined to keep people at arm's length forever. That thought makes me feel even more lonely.",
-    "therapist": "That past hurt runs so deep—it makes complete sense that this protective part won’t loosen its grip easily, because last time you trusted fully, the pain was devastating. It’s almost like that part is saying, \"Never again,\" even if it means staying lonely.  \n\nI wonder if we could approach that protector with curiosity rather than frustration? What would it need to see—not just hear—to believe that trust *could* be safe again, even just a little?",
+    "client": "I never thought about it like that - that feeling the good could actually help me handle the bad. But it's scary to try. What if I let myself appreciate those moments and then... I still fall apart when things get worse? Wouldn't that just prove I wasn't strong enough?",
+    "therapist": "It sounds like you’re worried that \"falling apart\" would mean failing somehow—as if strength only counts when it means never crumbling. But what if letting yourself feel *both* the joy and the grief is actually the bravest, most human way through this?  \n\nWhen you imagine those possible future moments of falling apart, what scares you the most about them?  \n\n(Meeting their slightly negative valence and low activation with warmth—gently challenging the all-or-nothing view of strength while exploring their underlying fear of emotional overwhelm. The question invites cognitive examination of their distress tolerance beliefs.)",
     "condition": "emotion_text_only",
-    "val_t": -0.36316192150115967,
-    "aro_t": 0.08356750011444092,
-    "text_emotion": "Sad"
+    "val_t": -0.1903163194656372,
+    "aro_t": 0.13484477996826172,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "That makes sense, but it’s hard to imagine what could convince that part of me that trust is safe again. Every time I think about opening up, I just remember how much it hurt last time, and I freeze. It feels like no matter what I do, I’ll just end up disappointed or hurt again. \n\nI want to believe it’s possible, but it’s like my brain won’t let me take that risk. How do I even start to trust when that protective part feels so strong?",
-    "therapist": "It sounds like that protective part of you is holding on so tightly because it’s trying to shield you from ever feeling that pain again—but at the same time, it’s keeping you stuck in this cycle of loneliness and hesitation. That inner conflict must feel so frustrating and exhausting.  \n\nWhat if we started small—not with big leaps of trust, but with tiny steps? For example, what’s one small way you could test the waters of connection without feeling like you’re risking too much?",
+    "client": "I think what scares me most is that I'll let her down when she needs me most. Like if I break down during a crisis moment, I won't be able to pull myself together enough to help her. It's not just about me falling apart - it's about failing her when she's completely vulnerable.",
+    "therapist": "It sounds like your fear isn’t just about your own emotions, but about how they might impact your ability to care for your mom when she’s at her most vulnerable. That responsibility must feel so heavy to carry.  \n\nI’m curious: when you imagine those crisis moments, what would it look like to both feel your emotions *and* still be there for her in a way that honors your love and commitment?  \n\n(Meeting their slightly negative valence and low arousal with compassionate validation—acknowledging their fear of failing their mom while gently introducing the possibility of holding both emotions and responsibility. The response stays CBT-focused by exploring the cognitive link between emotions and perceived failure.)",
     "condition": "emotion_text_only",
-    "val_t": -0.25384438037872314,
-    "aro_t": 0.16763567924499512,
+    "val_t": -0.38837873935699463,
+    "aro_t": 0.2219022512435913,
     "text_emotion": "Angry"
   }
 ]

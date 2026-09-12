@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really overwhelmed lately. My mom's Alzheimer's has gotten worse, and I'm finding it harder to keep up with all the demands of taking care of her. I know I should be grateful to be able to help her, but sometimes I just feel so drained and unsure if I can keep doing this.",
-    "therapist": "Hi there, I'm so glad you reached out. It's completely understandable to feel overwhelmed and drained given everything you're juggling with your mom's care. How have you been coping with these feelings, and are there any moments when you feel a bit more resilient?",
+    "client": "Hi Luna, it's been a really tough week. My mom's Alzheimer's seems to be getting worse, and I feel like I'm constantly on edge, trying to keep up with everything she needs. I'm just so overwhelmed, and I'm not sure how much more I can handle. I know I should be grateful for being able to help her, but I can't shake this feeling of exhaustion and guilt. I'm not even sure if therapy can really make a difference here.",
+    "therapist": "Hi there, I'm so sorry to hear about everything you're going through with your mom. It's completely understandable to feel overwhelmed and exhausted, and it's okay to acknowledge the difficulty without guilt. How have you been coping with these feelings, and is there anything specific you've found that brings you a bit of relief or comfort?",
     "condition": "baseline",
-    "val_t": -0.25397658348083496,
-    "aro_t": 0.21527612209320068,
+    "val_t": -0.3616238832473755,
+    "aro_t": 0.16754519939422607,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It's been really tough, and most days I just feel so drained and guilty. I try to find moments to take a break, but it feels like I can never fully relax because I'm always worrying about my mom or feeling like I should be doing more. Sometimes I feel like a failure because I can't manage it all.",
-    "therapist": "I can hear how tough this is for you, and feeling both drained and guilty is such a heavy burden to carry. It's natural to want to do everything you can for your mom, but it's also important to recognize that taking care of yourself is not a luxury but a necessity. What are some small ways you might allow yourself to relax or recharge, even if just for a few minutes at a time?",
+    "client": "Thanks for understanding, Luna. It's hard to find moments of relief, but I try to take short breaks when I can, maybe watch a bit of TV or go for a quick walk. But even when I do those things, I can't seem to fully relax. I always feel like I should be doing more for her, and the guilt just follows me everywhere. I don't know if I can ever really escape that feeling.",
+    "therapist": "I can see how much you care for your mom, and it's natural to feel that sense of responsibility and guilt. Taking those short breaks is a good start, and it's important to recognize that you deserve to take care of yourself too. Have you ever considered sharing these feelings with someone close to you, or perhaps exploring ways to get some additional support, even if it's just for a short time, to give yourself a bit more space?",
     "condition": "baseline",
-    "val_t": -0.21168029308319092,
-    "aro_t": 0.11216294765472412,
+    "val_t": -0.16344332695007324,
+    "aro_t": 0.09797060489654541,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I know you're right, but it feels selfish to take time for myself when my mom needs so much help. I worry that if I take even a few minutes to relax, something might happen, and I won't be there for her. It's hard to justify that time for myself when I feel like every moment counts.",
-    "therapist": "I completely understand that feeling of guilt and the worry that something might happen if you take a moment for yourself. It's a common concern, and it shows how much you care for your mom. At the same time, it's important to remember that taking care of yourself isn't selfish; it's essential for you to be able to continue supporting her effectively. Have you ever noticed how you feel or function after taking even a short break, and how that might impact your ability to care for your mom?",
+    "client": "I appreciate your suggestion, Luna, but it's hard to open up to others about this. I feel like they won't fully understand, or they might judge me for feeling guilty about something I should be happy to do. Plus, I don't want to burden anyone else with my problems. I try to handle it all myself, but it's taking a toll on me.",
+    "therapist": "I completely understand your hesitation to open up, and it's valid to worry about how others might react. It takes a lot of courage to share such personal struggles. Have you ever considered writing down your thoughts and feelings as a way to process them, or perhaps talking to a professional who can offer a non-judgmental space? How do you think that might feel for you?",
     "condition": "baseline",
-    "val_t": -0.21519410610198975,
-    "aro_t": 0.10359489917755127,
+    "val_t": -0.2034447193145752,
+    "aro_t": 0.09133923053741455,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, and I know it's important to take care of myself. But it's hard because every time I take a break, I feel this intense guilt. I worry that something could happen while I'm not there, and I'd blame myself for it. It's just really tough to shake that feeling.",
-    "therapist": "I can really hear how much you're struggling with that guilt and worry. It's completely understandable to feel that way, especially given the responsibility you have. It might be helpful to explore what some of those automatic thoughts are when you take a break—like the fear that something could happen. How do you think those thoughts might be impacting your ability to take care of yourself and, in turn, your mom?",
+    "client": "Writing things down might help, but I worry that it won't change how I feel. I've tried journaling before, but it often just makes me feel more stuck in my thoughts. As for talking to another professional, I don't know if I can handle more therapy sessions right now. It feels like adding another thing to my already full plate.",
+    "therapist": "I hear you, and it's totally understandable to feel that way about journaling and adding more to your plate. Sometimes, writing can feel overwhelming if it just reinforces the same thoughts. Have you tried focusing on just one small, specific aspect of your day in your journal, like something that brought you a moment of peace or a small victory? Or, is there a particular activity, no matter how small, that you find enjoyable and could fit into your routine, even if just for a few minutes?",
     "condition": "baseline",
-    "val_t": -0.38842177391052246,
-    "aro_t": 0.03684842586517334,
-    "text_emotion": "Sad"
+    "val_t": -0.15034925937652588,
+    "aro_t": 0.09845900535583496,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I feel like those thoughts are just always there, you know? They make it really hard to relax or take time for myself because I'm always worried something could go wrong. I don't know how to turn them off, and it feels like if I do, I might miss something important.",
-    "therapist": "It sounds like those thoughts are really persistent and can make it incredibly difficult to find any peace. It's understandable to feel that way, especially when you're so deeply invested in your mom's care. One thing we can try is gently challenging those thoughts by looking at the evidence. For example, how often has something actually gone wrong when you've taken a short break, and how might taking care of yourself actually help you be more present and effective when you're with your mom?",
+    "client": "Focusing on small moments of peace sounds like it could be helpful, but I'm not sure I can find those moments right now. It feels like every part of my day is consumed by taking care of my mom. I do enjoy gardening, but it's hard to find the time or energy to do it. I guess I could try to fit in a few minutes, but it feels like such a small thing compared to everything else.",
+    "therapist": "It's completely understandable that it feels challenging to find those moments of peace, especially when so much of your day is dedicated to caring for your mom. Starting small can still make a difference, though. Even a few minutes of gardening might provide a brief respite and a sense of accomplishment. What do you think might be the first step you could take to carve out that time, even if it's just a tiny bit, to reconnect with something you enjoy?",
     "condition": "baseline",
-    "val_t": -0.29226207733154297,
-    "aro_t": 0.062117695808410645,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I see what you're saying, and I know it makes sense logically, but it's hard to shake the feeling that if I take a break, something will go wrong. I've been so focused on making sure she's okay that I worry taking time for myself might make me less attentive when I need to be. It's hard to trust that taking care of myself won't backfire.",
-    "therapist": "I completely understand how challenging it is to trust that taking care of yourself won't backfire, especially when you're so focused on ensuring your mom's well-being. It's a very real concern. One thing we can explore is the idea of a small experiment. What if you tried taking a very short break, maybe just 5-10 minutes, and then reflected on how you feel afterward? Did it affect your attentiveness or ability to care for your mom in a negative way, or did it perhaps help you feel more refreshed and present?",
-    "condition": "baseline",
-    "val_t": -0.1338796615600586,
-    "aro_t": 0.046739816665649414,
+    "val_t": 0.013606071472167969,
+    "aro_t": 0.06631577014923096,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 7,
-    "client": "I see where you're coming from, but I'm really worried that even a short break might make me feel guilty or distracted. It's hard because I feel like every moment I'm not directly helping her is a moment wasted, and that just adds to my anxiety. I don't think taking a break will help me feel more refreshed; it might just make me feel worse.",
-    "therapist": "I hear your concerns very clearly, and it's completely understandable to feel that way given how much you care for your mom. It's a tough balance, and it's okay to feel unsure about taking a break. What if we explore some alternative ways to recharge that might feel less like a break and more like a way to support both of you? For example, could you find a small activity that you both enjoy, or perhaps involve someone else in her care for a short time so you can have a moment to yourself without feeling guilty? How do you think that might feel?",
+    "turn": 6,
+    "client": "I can see how a few minutes of gardening might help, but I'm still struggling to see how I can fit it in. It feels like I'm already juggling so much, and adding one more thing, even if it's just a few minutes, seems daunting. I guess I could try to wake up a bit earlier or set aside a specific time, but I'm worried it will just add more pressure to my already stressful routine.",
+    "therapist": "I can really understand how adding one more thing, even something small like gardening, can feel daunting when you're already juggling so much. It's important to be gentle with yourself and not add more pressure. How about starting with a very small, manageable goal, like just stepping outside for a minute to look at your garden or touch a plant? This way, you can ease into it without feeling overwhelmed. What do you think about trying that, and how might it feel to incorporate such a small step?",
     "condition": "baseline",
-    "val_t": -0.3304327726364136,
-    "aro_t": 0.1436671018600464,
-    "text_emotion": "Angry"
+    "val_t": -0.1724170446395874,
+    "aro_t": 0.041272640228271484,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "I like the idea of starting with a very small step, like just stepping outside to look at the garden. It feels more doable, and maybe it could help me feel a bit more connected to something I enjoy. I'll try to do that tomorrow morning, right after I wake up, before the day gets too busy. It's a small change, but I think it could be a good start.",
+    "therapist": "That's a great plan, and I'm glad you found a step that feels doable. Starting the day with a small, enjoyable moment can set a positive tone and give you a sense of control. How do you think you might build on this small step in the future, even if it's just a slight increase in the time you spend outside? What other small changes might you consider to support your well-being as you continue to care for your mom?",
+    "condition": "baseline",
+    "val_t": 0.2656979560852051,
+    "aro_t": 0.14950406551361084,
+    "text_emotion": "Excited"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It's just hard because I feel like any time I take for myself, even a little, she seems to notice and it makes her upset. I worry that involving someone else might just add more stress to the situation. How can I make sure that I'm not making things worse for her?",
-    "therapist": "I understand how challenging that must be, and it's very thoughtful of you to consider your mom's feelings in everything you do. It's natural to worry about adding more stress, especially when she seems to notice your absence. One approach could be to gradually introduce small changes and see how they go. For example, you might start by finding a short, shared activity that you both enjoy, which can give you both a moment of respite and connection. How do you think that might work, and are there any activities you've both enjoyed in the past that you could try again?",
+    "client": "I think I could try to gradually increase the time I spend outside, maybe adding a minute or two each day. It's a small change, but it might help me feel more grounded. I could also try to find one other small thing to look forward to each day, like a short phone call with a friend or a cup of my favorite tea. It feels manageable, but I'm still a bit skeptical about how much it will help with the overwhelming guilt and exhaustion.",
+    "therapist": "I'm really glad to hear you're considering these small steps, and it's great that you're thinking about gradually increasing the time you spend outside. Finding one other small thing to look forward to each day, like a phone call with a friend or a cup of your favorite tea, can also be a wonderful way to bring some joy and comfort into your routine. It's completely normal to feel skeptical, especially when you're dealing with such intense emotions. How do you think these small changes might impact your overall sense of well-being, even if it's just a little bit, over time?",
     "condition": "baseline",
-    "val_t": -0.2044379711151123,
-    "aro_t": 0.18793940544128418,
-    "text_emotion": "Angry"
+    "val_t": -0.07675707340240479,
+    "aro_t": 0.03914225101470947,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I like the idea of gradually introducing changes, but I'm worried that even small activities might feel forced or awkward. My mom and I used to enjoy watching movies together, but lately, even that feels tense. I don't want to make things worse by trying to force a connection.",
-    "therapist": "I can understand how even activities you used to enjoy together might feel forced or tense now, and it's natural to worry about making things worse. It might be helpful to start with something very simple and low-pressure, like a short walk or a quiet activity that doesn't require much conversation. Sometimes, just being present in a calm, shared space can be comforting. How do you think your mom might respond to a gentle, low-key activity like that?",
+    "client": "I think these small changes could help, even if it's just a little bit. It might not solve everything, but it could give me some moments of relief and make the day feel a bit more manageable. I'm still skeptical, but I'm willing to try it and see how it goes. It's hard to imagine feeling better, but I guess starting small is better than not trying at all.",
+    "therapist": "I'm so glad you're willing to try these small changes, and it's completely understandable to feel skeptical. Starting small is a powerful way to create gradual, positive shifts, and it's okay to take it one step at a time. How do you think you might reflect on your progress, even if it's just the small moments of relief, to help you stay motivated and recognize the value in these changes?",
     "condition": "baseline",
-    "val_t": -0.11893916130065918,
-    "aro_t": 0.10259091854095459,
-    "text_emotion": "Angry"
+    "val_t": 0.12916338443756104,
+    "aro_t": 0.04128837585449219,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I'm still pretty anxious about it. My mom can be really sensitive, and I worry that even a simple walk might lead to some kind of argument or awkward silence. I don't want to make things worse, you know?",
-    "therapist": "I totally understand your anxiety about trying something new, especially given how sensitive your mom can be. It's important to approach things gently and with care. Maybe we can start even smaller, like just sitting together in a quiet room or a comfortable spot where you both can relax without any specific expectations. Sometimes, just being in the same space without the pressure to do or say anything can be comforting. How does that feel to you, and do you think it might be a bit easier to manage?",
+    "client": "I think keeping a simple journal of these small moments could help me reflect on my progress. It might be easier to see the positive changes if I write them down, even if they seem small at the time. I'm still a bit hesitant, but I'll give it a try and see if it helps me feel more motivated and less overwhelmed.",
+    "therapist": "That's a fantastic idea, and I'm really glad you're considering keeping a simple journal. Writing down these small moments can indeed help you see the positive changes more clearly and provide a sense of accomplishment and motivation. How do you think you might approach this journaling—maybe setting a specific time each day to write, or perhaps jotting down notes throughout the day as you notice these moments?",
     "condition": "baseline",
-    "val_t": -0.2138301134109497,
-    "aro_t": 0.13711297512054443,
-    "text_emotion": "Angry"
+    "val_t": 0.10957622528076172,
+    "aro_t": 0.06242525577545166,
+    "text_emotion": "Neutral"
   }
 ]

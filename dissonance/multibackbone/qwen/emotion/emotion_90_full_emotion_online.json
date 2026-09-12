@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, it's been a tough week. I keep getting distracted at work and find myself overwhelmed with grief over losing my mom. I know it's been a while, but some days it just hits me really hard, and I can't seem to shake it off. I'm not sure if talking about it will really help, but I feel like I need to try something.",
-    "therapist": "Hi there, I'm so glad you reached out. It sounds like you're having a really tough time, and it’s completely understandable to feel overwhelmed, especially when memories of your mom come up. Grief can be so unpredictable, and it’s okay to seek support. How have you been coping with these feelings when they arise?",
+    "client": "Hey Luna, it's been really tough lately. I keep thinking about Mom and it's hard to focus on work. I feel like I'm just going through the motions, and it's overwhelming. I know we talked about this before, but I’m not sure if therapy can really help with the deep grief I’m feeling.",
+    "therapist": "I can hear how deeply you're struggling with the loss of your mom and how it's affecting your daily life. It's completely understandable to feel overwhelmed and to question whether therapy can help with such profound grief. Can you tell me more about what you think might help you feel a bit more grounded or connected during these tough times?",
     "condition": "emotion_text_only",
-    "val_t": -0.1566157341003418,
-    "aro_t": 0.22192871570587158,
+    "val_t": -0.3237572908401489,
+    "aro_t": 0.15779101848602295,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It’s been really tough lately, especially when I think about my mom. I try to distract myself by staying busy, but it only works for so long. I feel like these memories just sneak up on me, and I end up feeling really sad and alone. It’s hard to know what to do when that happens.",
-    "therapist": "I can really hear how much you're struggling with these feelings of sadness and loneliness. It’s completely normal for memories to sneak up on you, and it’s okay to feel that way. Staying busy can be a helpful distraction, but it’s also important to find ways to process these emotions when they arise. What are some things that have helped you in the past when you feel particularly sad or alone?",
+    "client": "I appreciate you asking, Luna. Sometimes, just talking about it helps a little, but it’s hard to find moments where I feel truly connected to the people around me. I’ve tried reaching out to friends, but it feels like they don’t really understand what I’m going through. It’s isolating.",
+    "therapist": "I can hear the depth of your loneliness and how difficult it is to feel understood by those around you. It’s completely normal to feel isolated when you’re going through such a profound loss. How do you think we could explore ways to help you feel more connected, even in small moments, or to find someone who might better understand what you’re experiencing?",
     "condition": "emotion_text_only",
-    "val_t": -0.24817979335784912,
-    "aro_t": 0.12025928497314453,
-    "text_emotion": "Angry"
+    "val_t": 0.0018666982650756836,
+    "aro_t": 0.06129777431488037,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "Thanks for understanding, Luna. Sometimes, I try to distract myself by watching movies or playing video games, but it feels like a temporary fix. I’ve also tried talking to friends, but it’s hard to open up about how I really feel because I don’t want to burden them.",
-    "therapist": "I understand that finding the right way to cope can be challenging, and it’s clear that you’re trying different strategies. It’s okay to seek temporary distractions, but it’s also important to find ways to address the deeper feelings. Opening up to friends can be tough, especially when you don’t want to burden them. Have you considered writing down your thoughts and feelings in a journal or perhaps speaking with a trusted family member or a therapist who can offer a safe space to explore these emotions?",
+    "client": "I’ve been thinking about joining a support group, but I’m hesitant because I don’t know if I can open up to strangers. It’s hard to trust that they’ll really get it. But maybe it’s worth a try. What do you think?",
+    "therapist": "It’s really brave of you to consider a support group, even with the hesitation. It’s completely understandable to have concerns about opening up to strangers and whether they will truly understand your experience. Have you thought about what specific aspects of a support group might help you feel more comfortable or what you might hope to gain from it?",
     "condition": "emotion_text_only",
-    "val_t": -0.0028592348098754883,
-    "aro_t": 0.042896389961242676,
+    "val_t": 0.04983949661254883,
+    "aro_t": 0.10507798194885254,
     "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, but journaling just feels like a chore to me. I’ve tried it before, and it always ends up making me feel more overwhelmed. And talking to family or another therapist? I don’t know, it’s hard because I feel like I’m just a constant source of negativity, and I don’t want to push people away.",
-    "therapist": "I can understand how journaling might feel like a chore and even add to your sense of overwhelm. It’s important to find coping strategies that feel right for you, and it’s okay if journaling isn’t one of them. It’s also really tough to feel like you might be a burden to others, and that can make reaching out even harder. What about other activities that might help you express your feelings in a different way, like drawing, listening to music, or even going for a walk? How do you feel about trying something like that?",
+    "client": "I think hearing from others who have lost a parent might help me feel less alone. Maybe if they can share their own struggles and how they coped, it could give me some new perspectives. But I’m still worried about feeling vulnerable in a group setting. It’s a big step for me.",
+    "therapist": "It sounds like joining a support group could provide you with the sense of connection and understanding you’re looking for, and hearing others’ stories might offer you new perspectives. It’s completely natural to feel vulnerable about sharing in a group setting, and taking that step is a big deal. What do you think might help you feel more comfortable or prepared as you consider joining a support group?",
     "condition": "emotion_text_only",
-    "val_t": -0.0675879716873169,
-    "aro_t": 0.18003368377685547,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate that you understand, Luna. I do feel like a burden a lot, and it's hard to open up. Drawing or listening to music sounds less overwhelming, but I worry that it won’t really help me process my feelings. It’s hard to find something that feels both manageable and effective.",
-    "therapist": "I completely understand how you feel, and it’s okay to be cautious about what might help. It’s a delicate balance to find coping strategies that feel both manageable and effective. Drawing or listening to music might not be a cure-all, but they can be gentle ways to start exploring your feelings without feeling too overwhelmed. Maybe we can start by trying one of these activities together in a small way, and see how it feels? What do you think about that?",
-    "condition": "emotion_text_only",
-    "val_t": -0.1414402723312378,
-    "aro_t": 0.001169443130493164,
+    "val_t": -0.09860360622406006,
+    "aro_t": 0.0804520845413208,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 6,
-    "client": "I appreciate that you're trying to find something manageable for me. I do feel a bit skeptical about it, though. It's hard because I worry that trying something new might just end up making me feel more anxious or stressed. I'm not sure if I can handle that right now.",
-    "therapist": "I understand your skepticism and the worry that trying something new might add to your anxiety. It’s completely valid to feel that way, especially when you’re already dealing with a lot. We can take it really slowly and gently, and you can always stop if it feels too much. What if we start with a very small step, like listening to a song that feels meaningful to you, and see how that feels? How does that sound?",
+    "turn": 5,
+    "client": "I think if I could observe a session first, it might help me feel more at ease. That way, I can see how the group operates and get a sense of the people involved before I decide to participate. It’s a small step, but it feels more manageable for me right now.",
+    "therapist": "That’s a really thoughtful approach, and observing a session first can definitely help you feel more comfortable and prepared. It’s a small but meaningful step, and it’s great that you’re considering what will work best for you. How do you think you might go about finding a group that offers this option, or would you like some assistance with that?",
     "condition": "emotion_text_only",
-    "val_t": -0.058756351470947266,
-    "aro_t": 0.121848464012146,
+    "val_t": 0.1570415496826172,
+    "aro_t": 0.020214438438415527,
+    "text_emotion": "Happy"
+  },
+  {
+    "turn": 6,
+    "client": "I think I might start by looking online for local grief support groups. I’ll see if any of them mention the option to observe a session first. If it feels too overwhelming, I’d really appreciate some help from you in finding the right group. It’s just one more thing to handle on top of everything else, and it’s hard to know where to start.",
+    "therapist": "I think starting by looking online for local grief support groups is a good plan, and it’s perfectly okay to take it one step at a time. It’s completely understandable to feel overwhelmed with all that you’re managing right now. If you find it too much or if you’d like some guidance, I’m here to help you every step of the way. How do you feel about scheduling a time to check in after you’ve looked into some groups, so we can go over your options together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.017086148262023926,
+    "aro_t": 0.133888840675354,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate you understanding my concerns, Luna. Listening to a song does sound less overwhelming, but I'm still a bit hesitant. I worry that even small steps might trigger my anxiety, and I'm not sure how to manage that.",
-    "therapist": "I completely understand your hesitation, and it’s okay to take things at your own pace. It’s important to feel safe and comfortable with any steps you take. Listening to a song can be a gentle way to start, and you can always choose a song that feels soothing or comforting to you. If you’re still feeling hesitant, we can also just focus on some deep breathing exercises to help you feel more centered. What do you think about trying that for a moment?",
+    "client": "That sounds like a good plan, Luna. I think having a specific time to check in with you will give me some structure and support. I’ll start looking into the groups this week and let you know what I find. It’s reassuring to know you’re there to help me navigate this.",
+    "therapist": "I’m glad that having a specific time to check in feels supportive and helpful. Taking it one step at a time is a great way to manage everything you’re going through. I’m here to support you every step of the way, so don’t hesitate to reach out if you need anything before our next check-in. How do you feel about setting a specific day and time to discuss what you find?",
     "condition": "emotion_text_only",
-    "val_t": -0.025870680809020996,
-    "aro_t": 0.12520122528076172,
-    "text_emotion": "Neutral"
+    "val_t": 0.2365187406539917,
+    "aro_t": 0.08826792240142822,
+    "text_emotion": "Happy"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. Deep breathing does sound helpful, and it feels like a good way to start without too much pressure. I think I can try that, but I still have some doubts about how much it will really help with the anxiety and loneliness I feel.",
-    "therapist": "I’m glad that deep breathing feels like a good starting point for you. It’s a simple but powerful tool that can help you feel more centered and calm. It’s completely normal to have doubts, and it’s okay to approach this gently. Let’s try a few deep breaths together, and we can see how you feel afterward. How does that sound?",
+    "client": "That works for me, Luna. Let’s set a time next week to go over what I find. I think having a concrete plan will help me stay focused and not feel so overwhelmed. How about we check in on Thursday at the same time?",
+    "therapist": "That sounds like a great plan, and I’m really glad you’re feeling a bit more focused and less overwhelmed with a concrete plan in place. Thursday at the same time works perfectly for me. I’ll be here, ready to listen and support you as you explore these options. How does it feel to have this plan in place, and is there anything else you’d like to discuss before we wrap up today?",
     "condition": "emotion_text_only",
-    "val_t": 0.036589860916137695,
-    "aro_t": 0.17274749279022217,
-    "text_emotion": "Tense"
+    "val_t": 0.13016176223754883,
+    "aro_t": 0.12335443496704102,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you're taking it slow with me. I do feel a bit skeptical, but I'm willing to try. I just hope it actually helps with the anxiety I've been feeling lately. Let's give it a shot.",
-    "therapist": "I’m here for you every step of the way, and I appreciate your willingness to try. It’s okay to feel skeptical, and it’s important to approach things at a pace that feels right for you. Let’s take a few deep breaths together. When you’re ready, breathe in slowly through your nose, hold for a moment, and then exhale slowly through your mouth. How does that feel?",
+    "client": "Having this plan in place actually makes me feel a bit more hopeful. It’s like I have a lifeline to hold onto. I think that’s all I need for now, but I’ll definitely reach out if anything comes up before Thursday. Thanks for your support, Luna.",
+    "therapist": "I’m really glad to hear that having a plan in place is bringing you a sense of hope and stability. It’s wonderful to feel like you have a lifeline to hold onto. I’m here for you whenever you need support, and I’m just a message away if anything comes up before Thursday. How does it feel to have this support system in place, and is there anything else you’d like to touch on before we wrap up today?",
     "condition": "emotion_text_only",
-    "val_t": 0.10249817371368408,
-    "aro_t": 0.19124066829681396,
+    "val_t": 0.26139867305755615,
+    "aro_t": 0.1356368064880371,
     "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I take a few deep breaths, and it does help a little. It's hard to let go of the tension, but I can feel myself relaxing a bit. I appreciate you being patient with me; it’s just that sometimes it feels like no matter what I do, the anxiety and guilt won’t go away.",
-    "therapist": "I’m glad to hear that the deep breathing helped you feel a bit more relaxed, even if it’s just a little. It’s completely understandable that the tension and anxiety can be hard to fully let go, especially when you’re dealing with such deep feelings. It’s a process, and it’s okay to take it one step at a time. What are some thoughts that come up for you when you feel the anxiety and guilt persisting?",
+    "client": "It feels really reassuring to know I have this support system. It’s like a safety net, and that’s comforting. I don’t think there’s anything else I need to talk about today, but I’ll definitely keep thinking about the support group options. Thanks for being there for me, Luna.",
+    "therapist": "I’m so glad to hear that you’re feeling reassured and comforted by the support system we’ve discussed. Having that safety net can make a big difference. It’s great to know you’re keeping an open mind about the support group options. If any thoughts or feelings come up as you think about it, don’t hesitate to reach out. I’m here for you, and I’m looking forward to our check-in on Thursday. How do you feel about moving forward with this plan, and is there anything else you’d like to share or reflect on before we close today’s session?",
     "condition": "emotion_text_only",
-    "val_t": 0.0795295238494873,
-    "aro_t": 0.009198665618896484,
-    "text_emotion": "Neutral"
+    "val_t": 0.29917263984680176,
+    "aro_t": 0.0935288667678833,
+    "text_emotion": "Happy"
   }
 ]

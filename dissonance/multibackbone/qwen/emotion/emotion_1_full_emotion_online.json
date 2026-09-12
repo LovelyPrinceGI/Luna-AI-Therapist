@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really struggling with my new job at the tech startup. It feels like I'm constantly behind on my project deadlines, and the pressure is getting to me. I'm not even sure if therapy can really help with something like this, but I figured I'd give it a shot.",
-    "therapist": "Hi there! It sounds like you're under a lot of pressure and feeling overwhelmed with your new job. It’s completely understandable to feel this way, especially when you’re in a high-paced environment. How have you been coping with these challenges so far?",
+    "client": "Hey Luna, I've been really struggling with my new job at the tech startup. It feels like I'm constantly falling behind on my project deadlines, and the pressure is just overwhelming. I know I should be able to handle it, but I can't shake this feeling of being underwater. I'm not even sure if therapy can really help with something like this.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure and the new job is really taking a toll on you. It's completely understandable to feel overwhelmed when you're constantly falling behind on deadlines. How have you been coping with these feelings, and are there any specific thoughts that keep coming up for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1525477170944214,
-    "aro_t": 0.17094063758850098,
+    "val_t": -0.28675007820129395,
+    "aro_t": 0.24020028114318848,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to stay organized and set clear goals for myself, but it feels like no matter what I do, there's always something else to handle. I end up feeling guilty if I take a break, and that just makes me more anxious.",
-    "therapist": "It sounds like you’re putting in a lot of effort to stay organized and meet your goals, but the constant pressure is making it hard to feel like you’re making progress. It’s really important to recognize that taking breaks is not just okay, but necessary for your well-being. How do you think you could give yourself permission to take those breaks without feeling guilty?",
+    "client": "Thanks for understanding, Luna. I've been trying to stay late at the office to catch up, but it just feels like I'm never going to get ahead. I keep thinking that everyone else is more competent and that I’m the only one who can’t keep up. It’s really hard to shake those thoughts.",
+    "therapist": "It’s really tough when you feel like you’re falling behind, and it’s natural to compare yourself to others. Those thoughts about not measuring up can be really demotivating. Have you noticed any evidence that supports or challenges these thoughts about your competence? What do you think might help you feel more confident in your abilities?",
     "condition": "emotion_text_only",
-    "val_t": -0.22364675998687744,
-    "aro_t": 0.19214963912963867,
-    "text_emotion": "Angry"
+    "val_t": -0.041498541831970215,
+    "aro_t": 0.06086146831512451,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I understand that breaks are important, but it's hard for me to not feel guilty when I take them. I worry that if I stop, even for a little while, I won't get everything done and I'll fall behind. It's a constant struggle to find that balance.",
-    "therapist": "It’s really tough to find that balance, and it’s understandable to feel guilty about taking breaks when you’re worried about falling behind. Recognizing the importance of breaks is a great first step. What are some small, manageable ways you could incorporate breaks into your day that might help you feel less guilty and more refreshed?",
+    "client": "I guess I do get positive feedback from my manager every now and then, but it’s hard to believe it when I feel so behind. It’s like I’m waiting for the other shoe to drop and for them to realize I’m not as good as they think. I don’t know, maybe I just need to work harder, but it feels like I’m already giving it everything I have.",
+    "therapist": "It sounds like you’re caught in a tough cycle of self-doubt, even when you receive positive feedback. It’s understandable to feel that way, but it’s important to recognize the positive aspects as well. What do you think might help you trust the positive feedback you receive more, or what steps could you take to address the parts of your work that feel overwhelming?",
     "condition": "emotion_text_only",
-    "val_t": -0.15575814247131348,
-    "aro_t": 0.054396986961364746,
-    "text_emotion": "Sad"
+    "val_t": -0.0488353967666626,
+    "aro_t": 0.13080155849456787,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, but it's hard because I always feel like there's so much to do. Taking breaks feels like I'm just adding more to my plate later. I guess I could try to do something really quick, like a five-minute walk or a short meditation, but I worry that even that will end up making me feel anxious about the time I'm not working.",
-    "therapist": "I can see how challenging it is for you to take breaks when you feel there’s so much to do. It’s a tough cycle to break, especially when you’re worried about adding more to your plate. Starting with something small, like a five-minute walk or a short meditation, might be a good way to ease into it. How do you think you could reframe these short breaks as a way to recharge and improve your overall productivity, rather than as lost time?",
+    "client": "I think it would help if I could find a way to break down my tasks into smaller, more manageable pieces. That way, I might not feel so overwhelmed. But it’s hard because the projects are so big and interconnected, and I worry that I’ll miss something important if I don’t see the big picture.",
+    "therapist": "Breaking down tasks into smaller pieces is a great strategy to manage the feeling of being overwhelmed. It can help you focus on one thing at a time and reduce the stress of dealing with everything at once. How do you think you could start implementing this approach, and what might be some small steps you can take to ensure you still keep an eye on the big picture?",
     "condition": "emotion_text_only",
-    "val_t": -0.11825382709503174,
-    "aro_t": 0.09403085708618164,
-    "text_emotion": "Angry"
+    "val_t": -0.10454154014587402,
+    "aro_t": 0.04725205898284912,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I understand what you're saying, but it's hard for me to see those breaks as anything but wasted time. I feel like every minute I take for myself is a minute I’m not getting things done, and that just adds to my anxiety. It’s tough to reframe that when I’m already feeling so overwhelmed.",
-    "therapist": "I can really understand how tough it is to see breaks as anything but wasted time when you’re already feeling so overwhelmed. It’s a common struggle, and it’s completely valid to feel that way. Maybe we could explore some evidence that supports the idea that taking short breaks can actually help you be more productive and focused in the long run. What do you think about that?",
+    "client": "I like the idea of breaking things down, but I’m worried that it might make me lose sight of the overall goals. Maybe I could start by making a detailed to-do list for each project and check things off as I go. It’s just hard because I feel like I need to be perfect and not miss anything.",
+    "therapist": "It’s great that you’re considering a detailed to-do list to help manage your tasks. It can be a useful tool to keep track of your progress without losing sight of the big picture. The concern about perfection is understandable, but remember that perfection is often an unrealistic goal. What do you think might help you feel more comfortable with making small mistakes or not having everything perfectly in place?",
     "condition": "emotion_text_only",
-    "val_t": -0.26965129375457764,
-    "aro_t": 0.19235634803771973,
-    "text_emotion": "Angry"
+    "val_t": -0.038800597190856934,
+    "aro_t": 0.08390724658966064,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you're trying to help, but I just can't see how taking breaks will make things better. It feels like I’m just adding more things to my to-do list, and I’m already so overwhelmed. It’s hard to believe that stepping away, even for a short time, won’t just make me feel guilty and unproductive.",
-    "therapist": "I hear you, and it’s completely understandable to feel that way when you’re already overwhelmed. Taking breaks can feel counterintuitive when you have so much on your plate. Let’s try to break it down a bit. What if we started by identifying one small, manageable break you could take today, and we focus on how it might help you feel just a little bit better, even if it’s just a brief moment of relief? How does that sound?",
+    "client": "I know perfection is unrealistic, but it’s hard to let go of that mindset. Maybe if I set more realistic goals and focus on progress rather than perfection, I could feel better about my work. It’s just a big shift in thinking, and I’m not sure how to make that happen consistently.",
+    "therapist": "It’s completely normal to struggle with letting go of the perfection mindset, and recognizing the need for more realistic goals is a big step forward. Making that shift in thinking can take time and practice, but it’s definitely achievable. What are some small steps you can take to start focusing more on progress and less on perfection? How about setting one or two achievable goals for the week and celebrating your progress, no matter how small?",
     "condition": "emotion_text_only",
-    "val_t": -0.19098830223083496,
-    "aro_t": 0.2242063283920288,
-    "text_emotion": "Angry"
+    "val_t": 0.038320064544677734,
+    "aro_t": 0.03309500217437744,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It's just hard to see how a small break will make a difference when I feel like everything is piling up. I know it's supposed to help, but it's hard to believe it will when I'm already feeling so overwhelmed.",
-    "therapist": "I completely understand how difficult it is to see the value in a small break when everything feels like it’s piling up. It’s a tough place to be in, and it’s natural to feel skeptical. Let’s try to focus on how even a tiny break might give you a moment of relief and help you approach your tasks with a slightly fresher perspective. What if you tried something really quick, like a one-minute deep breathing exercise, and we see how it feels? How does that sound?",
+    "client": "I like the idea of setting smaller, achievable goals, but I worry that I’ll still feel like I’m not doing enough. I’ll try it out, though. Maybe I can start by focusing on completing one specific task each day and really acknowledging that I did it. It’s just hard to feel like I’m making progress when there’s so much to do.",
+    "therapist": "It’s great that you’re willing to give it a try, even with the worry that you might still feel like you’re not doing enough. Focusing on one specific task each day and acknowledging your progress is a solid plan. How about also setting aside a few minutes at the end of each day to reflect on what you’ve accomplished, no matter how small? This can help you build a more positive and realistic view of your progress over time. What do you think about that?",
     "condition": "emotion_text_only",
-    "val_t": -0.11008739471435547,
-    "aro_t": 0.19097816944122314,
-    "text_emotion": "Angry"
+    "val_t": 0.009029865264892578,
+    "aro_t": 0.08806383609771729,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate your understanding, but I'm just so overwhelmed right now. I don't think a one-minute break will really make a difference; it feels like the problems will still be there afterward, and I might just feel even more frustrated that I didn't actually get anything done. It's hard to see how a quick exercise will help when everything feels so heavy.",
-    "therapist": "I can really see how overwhelmed and frustrated you’re feeling right now. It makes sense that a one-minute break might not seem like it will make a big difference when the weight of everything feels so heavy. Let’s try to find a middle ground—something that can give you a small sense of relief without adding to your frustration. How about we focus on a quick, simple activity that you enjoy, even if it’s just for a couple of minutes? It could be something as simple as listening to a favorite song or looking at a few photos that make you smile. What do you think about trying that?",
+    "client": "I think setting aside time to reflect on my accomplishments could be helpful, but I’m not sure how to make myself do it consistently. I tend to dwell on what I haven’t done rather than what I have. It feels like a big change, but I’m willing to try it. Maybe I can start with just a few minutes each day and see how it goes.",
+    "therapist": "It’s really encouraging to hear that you’re willing to try reflecting on your accomplishments, even if it feels like a big change. Starting with just a few minutes each day is a great way to build this new habit. How about setting a specific time each day for this reflection, maybe right before you end your workday? What do you think might help you stay committed to this new practice, even on days when it feels harder?",
     "condition": "emotion_text_only",
-    "val_t": -0.20210587978363037,
-    "aro_t": 0.20968174934387207,
-    "text_emotion": "Angry"
+    "val_t": 0.10139596462249756,
+    "aro_t": 0.03784537315368652,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I understand what you're saying, and I do want to feel a bit better, but it's hard to see how something as small as listening to a song or looking at photos will make a dent in all this anxiety and guilt I'm carrying. It feels like a drop in the ocean, you know? I worry that it won't be enough to make a real difference.",
-    "therapist": "I totally understand how it feels like a drop in the ocean, and it’s completely valid to worry that small steps might not make a significant impact right away. It’s important to recognize that even small moments of relief can help chip away at the overwhelming feelings over time. Maybe we can start by trying one of these small activities and then reflect on how it affects your mood, even if it’s just a tiny bit. How does that sound? We can always adjust our approach as we go.",
+    "client": "I think setting a specific time for reflection could work, maybe around 5 PM when I usually wrap up. It might help if I write down my accomplishments in a journal, so I have a record to look back on. But on days when I feel really overwhelmed, it’s going to be tough to stay committed. I just need to remind myself that even small steps are still progress.",
+    "therapist": "It’s great to hear that you’re planning to set a specific time for reflection and even write down your accomplishments. Having a journal can be a powerful tool to see your progress over time. On those tough days when you feel overwhelmed, it’s especially important to be kind to yourself and recognize that even small steps are significant. What do you think might help you stay motivated on those days, or is there someone you can turn to for a little extra support?",
     "condition": "emotion_text_only",
-    "val_t": -0.28595030307769775,
-    "aro_t": 0.2184840440750122,
-    "text_emotion": "Angry"
+    "val_t": -0.03466439247131348,
+    "aro_t": 0.07437145709991455,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and I understand the idea of small steps, but it's hard for me to see how something small could really make a difference when I feel so overwhelmed all the time. It's like trying to bail out a sinking ship with a teaspoon. I appreciate your patience, though. Maybe we could try one of those activities, but I'm not sure I'll be able to see much of a change.",
-    "therapist": "I completely understand how it feels like trying to bail out a sinking ship with a teaspoon. The overwhelm can be so intense that it’s hard to see how small steps could make a difference. Let’s try one of those activities together, and we can approach it with a sense of curiosity to see if it brings even a small shift in how you feel. How about we start with something you enjoy, like listening to a favorite song or looking at some photos that bring you a bit of comfort? We can take it one step at a time and see how it goes. What do you think?",
+    "client": "I think having a supportive friend or colleague to check in with might help on those tough days. It’s hard to stay motivated when I’m feeling down, but talking to someone who understands could make a difference. I just need to find the right person who won’t make me feel worse about my struggles.",
+    "therapist": "It’s really insightful of you to recognize that having a supportive friend or colleague can make a big difference on tough days. It’s important to have someone who can offer encouragement and understanding without making you feel worse. Have you thought about who in your network might be a good fit for this role, or is there someone you trust who you could reach out to for that kind of support?",
     "condition": "emotion_text_only",
-    "val_t": 0.0021055936813354492,
-    "aro_t": 0.102264404296875,
+    "val_t": 0.013263463973999023,
+    "aro_t": 0.12546873092651367,
     "text_emotion": "Neutral"
   }
 ]

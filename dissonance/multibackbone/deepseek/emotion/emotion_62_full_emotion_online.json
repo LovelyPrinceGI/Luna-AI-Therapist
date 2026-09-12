@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandma passed away last month. I can't seem to focus at work at all - I'll just sit at my desk staring at my computer, then realize an hour's gone by without getting anything done. Part of me wonders if talking about it will even help, because nothing can bring her back.",
-    "therapist": "I hear how deeply painful this loss is for you, and how it's affecting your daily life. It makes sense that you're struggling to focus when you're carrying such heavy grief—would you be willing to share what thoughts tend to come up during those moments at your desk?",
+    "client": "It's been really hard since my grandma passed away last month. I keep expecting to see her when I walk into certain rooms or hear her voice, and then it hits me all over again that she's gone. Work has been a disaster because I'll just zone out in the middle of tasks, thinking about her.",
+    "therapist": "It sounds like you're carrying a deep sense of loss, and those moments of expecting to see or hear her must feel jarring when they’re interrupted by reality. It’s understandable that this is affecting your focus at work—grief can make it hard to stay present. Can you tell me a bit more about what goes through your mind when you “zone out” at work?",
     "condition": "emotion_text_only",
-    "val_t": -0.29333603382110596,
-    "aro_t": 0.07650446891784668,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "I just keep thinking \"I should have been there more\" when my mom was sick. It's like this tape playing in my head while I'm trying to work, remembering all the times I canceled visits because I was too busy with my job. The guilt makes it impossible to concentrate on anything else.",
-    "therapist": "That guilt sounds incredibly heavy to carry, especially when it keeps replaying like that. Let's gently examine those thoughts—what makes you certain that being there more would have changed how things unfolded?",
-    "condition": "emotion_text_only",
-    "val_t": -0.41378235816955566,
-    "aro_t": 0.032855868339538574,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I know logically that I couldn't have changed the outcome, but I still feel like I should have tried harder. The what-ifs keep haunting me—what if I'd visited more often, what if I'd noticed the signs earlier? It's like my brain won't let me accept that some things were out of my control.",
-    "therapist": "It sounds like you're caught between knowing the truth intellectually and feeling differently emotionally—that must be so exhausting. When those \"what-if\" thoughts come up, have you noticed if there are moments when they feel slightly less intense or convincing?",
-    "condition": "emotion_text_only",
-    "val_t": -0.23691368103027344,
-    "aro_t": 0.12130129337310791,
+    "val_t": -0.29627346992492676,
+    "aro_t": 0.176996111869812,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "Yeah, sometimes the thoughts do feel a little less intense when I'm distracted, like when I'm watching a show or talking to a friend. But then I feel guilty for not worrying—like if I stop thinking about the \"what-ifs,\" something bad might actually happen. It's like my brain punishes me for trying to relax. \n\nI don't know if tracking when the thoughts feel weaker would help, because then I'd just be focusing on them more. Doesn't that make the anxiety worse?",
-    "therapist": "It sounds like you're caught in a painful cycle where even temporary relief brings its own kind of distress. That makes me wonder—what would it feel like to experiment with noticing those lighter moments without judging yourself for having them?",
+    "turn": 2,
+    "client": "When I zone out, I usually start remembering little things about her—like how she’d always make tea for me when I visited or the way she laughed. Then I feel this wave of guilt, like I didn’t spend enough time with her when she was here. It’s overwhelming, and I just freeze up. I don’t know how to shake it.",
+    "therapist": "Those cherished memories of her seem to bring both warmth and pain, especially when they’re tied to feelings of guilt. It’s clear how much she meant to you, and it’s natural to wish for more time with her. What do you think she might say to you about those feelings of guilt if she were here now?",
     "condition": "emotion_text_only",
-    "val_t": -0.3506263494491577,
-    "aro_t": 0.13729918003082275,
+    "val_t": -0.2951195240020752,
+    "aro_t": 0.14643430709838867,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I think she’d tell me not to feel guilty, that she knew I loved her and did my best. But it’s hard to believe that, you know? I keep replaying moments where I could’ve visited more or called more often. It feels like I failed her, even if she wouldn’t see it that way.",
+    "therapist": "It sounds like a part of you knows what she'd say, but another part is stuck in that painful cycle of \"what if\"—and that tension between knowing and believing can be especially exhausting. \n\nLet me ask: When you catch yourself replaying those moments, what’s the *kindest* way you could interrupt that pattern?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24114716053009033,
+    "aro_t": 0.07860183715820312,
     "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I guess I could try to picture her smiling at me, like she used to when I was overthinking things. But sometimes that makes it worse, because then I just miss her even more. It feels like no matter what I do, the sadness and guilt just come rushing back.",
+    "therapist": "It sounds like you’re caught between wanting to honor her memory and feeling overwhelmed by the weight of your grief—and that balance can feel impossible to find right now. \n\nWhat if, instead of trying to push away the sadness or guilt, you acknowledged them as part of your love for her? Could you tell me about a time when she helped you through a tough moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3378983736038208,
+    "aro_t": 0.14603447914123535,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I don't know... when I do have those lighter moments, it almost feels wrong, like I'm betraying all the things that are making me anxious. Like if I laugh at something, I immediately think \"how can you be laughing when X problem is still there?\" It's like my brain won't let me have a break.",
-    "therapist": "It sounds like you're holding yourself to an impossible standard—that every moment must carry the weight of your grief and anxiety to be \"valid.\" What might it say about your love for your grandma if we reframed those lighter moments as honoring her wish for you to find moments of peace?",
+    "client": "There was a time when I failed a big exam in college, and I felt like such a failure. She sat me down, made me tea, and told me it was just one moment in a long life—that I’d get through it. But now, when I think about her comforting me, it just makes me cry. It’s like I can’t separate the love from the pain, and it’s so exhausting.",
+    "therapist": "It sounds like her love and support were such a grounding force for you, and now that same memory feels bittersweet—a reminder of her kindness but also her absence. It’s understandable that this feels exhausting; grief can make even the most comforting memories ache. \n\nWhat do you think she’d want for you in this moment, knowing how much you’re struggling?",
     "condition": "emotion_text_only",
-    "val_t": -0.06152355670928955,
-    "aro_t": 0.24294519424438477,
-    "text_emotion": "Tense"
+    "val_t": -0.306308388710022,
+    "aro_t": 0.26962006092071533,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about honoring her wishes, but it still feels wrong when I catch myself laughing or enjoying something. Like I'm forgetting about her, you know? The guilt hits me right after those moments and it's like...if I stop hurting, does that mean I loved her less? \n\nIt's easier to just stay in the sadness sometimes. At least then I know I'm still holding onto her.",
-    "therapist": "It makes so much sense that you'd worry about what it *means* when the pain eases—as if the depth of your love is measured by the depth of your suffering. Would it feel possible, even for just a moment, to consider that your love for her exists *beyond* the pain? It's not going anywhere, even when the sadness does.",
+    "client": "I think she’d want me to take care of myself and not get stuck in this sadness—she was always so practical about things like that. But it’s easier said than done. I feel like I’m supposed to move on, but it’s hard to even know what that looks like. Sometimes I worry I’m clinging to the pain because it feels like the only way to hold onto her now.",
+    "therapist": "It makes sense that you're wrestling with this tension—between honoring her practical wisdom and feeling like the sadness is all you have left of her. Grief doesn't follow a timeline, and \"moving on\" might feel more like learning how to carry her love with you differently. \n\nWhat would it look like to take one small step toward caring for yourself *and* still feeling connected to her?",
     "condition": "emotion_text_only",
-    "val_t": -0.05597221851348877,
-    "aro_t": 0.15193450450897217,
-    "text_emotion": "Tense"
+    "val_t": -0.14758014678955078,
+    "aro_t": 0.11336672306060791,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, but it still feels wrong to let the pain fade. It’s like if I’m not hurting, I’m somehow forgetting her or dishonoring her memory. I know logically that love isn’t tied to suffering, but emotionally, it’s hard to separate the two. The idea of feeling better almost makes me feel guilty, like I’m betraying her.",
-    "therapist": "I hear how deeply intertwined your love and grief feel right now—like letting one soften would risk losing the other. That loyalty to your pain makes so much sense, even as it weighs on you. Could we explore what a gentle middle ground might look like—where honoring her memory includes *both* the sorrow *and* the love that exists beyond it?",
+    "client": "Maybe I could start making tea the way she used to for me—it was her little ritual of care. But I’m scared that if I do it, it’ll just make me cry instead of feeling comforting. What if it reminds me too much of what I’ve lost?",
+    "therapist": "That fear of being overwhelmed by the memory makes so much sense—it’s like you’re standing at the edge of something beautiful but painful. What if you tried making the tea with curiosity instead of expectation? Like saying to yourself: *\"Let me see how this feels today\"*—would that feel safer than assuming it *has* to hurt?",
     "condition": "emotion_text_only",
-    "val_t": -0.3183807134628296,
-    "aro_t": 0.09123361110687256,
-    "text_emotion": "Sad"
+    "val_t": -0.21179556846618652,
+    "aro_t": 0.14070451259613037,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I don't know if I can find that middle ground. The grief feels like the only thing keeping her close to me—if I let that go, it's like losing her all over again. But you're right that it's heavy... I just don't trust that the love would still feel as real without the pain.",
-    "therapist": "It sounds like you're holding onto grief as a way to stay connected—that letting it shift might feel like losing your last tether to her. I wonder if we could gently test that belief: what if love isn't something you *lose* when pain changes, but something that evolves and finds new ways to endure?",
+    "client": "I like the idea of trying it with curiosity, but part of me is still afraid I'll just break down. What if it makes me feel worse instead of better? I don't want to ruin the memory of our tea times together by associating them with sadness now.",
+    "therapist": "It sounds like you’re holding onto those tea times as something sacred, and the thought of them being tainted by sadness feels like a risk—that’s very understandable. What if, instead of seeing tears as \"ruining\" the memory, you saw them as part of honoring how much those moments meant to you? Could you tell me what feels most precious about those tea times with her?",
     "condition": "emotion_text_only",
-    "val_t": -0.19007718563079834,
-    "aro_t": 0.1481623649597168,
+    "val_t": -0.19024360179901123,
+    "aro_t": 0.10615015029907227,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That idea makes me feel really uneasy. If I let go of this pain, it's like admitting she's really gone forever. The grief is the only thing that still feels real between us. I know you're saying love can change forms, but it just feels like losing her all over again.",
-    "therapist": "It sounds like the idea of letting the pain shift brings up such deep fear—like it would mean losing the last tangible connection to her. That makes so much sense, and it’s okay to feel uneasy about it. Could we explore what it might feel like to hold onto her in a different way, one that honors her *and* allows you to breathe a little?",
+    "client": "What felt most precious was how she'd always listen without judgment—no matter what I was stressed about, she made me feel like it mattered. But the idea of crying while making tea... I don't know, it makes me feel weak. Shouldn't I be able to remember her without falling apart?",
+    "therapist": "It sounds like those tea times were a safe space where you felt truly seen and supported—and that’s a beautiful memory to hold onto. It’s okay if tears come when you try to recreate that ritual—it doesn’t mean you’re weak or falling apart; it just shows how deeply you cared for her. What if crying could be a way of honoring how much she meant to you, rather than something to avoid?",
     "condition": "emotion_text_only",
-    "val_t": -0.3800787925720215,
-    "aro_t": 0.17507803440093994,
+    "val_t": -0.1432342529296875,
+    "aro_t": 0.17045652866363525,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I don't know... the idea of \"holding onto her in a different way\" just makes me feel guilty, like I'm trying to replace what we had. It's not that simple. The pain is the only thing that feels real sometimes - if I let that go, what's left?",
-    "therapist": "I hear how terrifying it feels to imagine releasing even a fraction of this pain—like you'd be dismantling the last bridge to her. That fear is so understandable. Could we sit with that discomfort together for a moment? What comes up when you consider that love isn't something we *lose* when grief changes shape—it's something we *carry forward*?",
+    "client": "I never thought of tears as honoring her before—that actually makes me feel a little less ashamed of crying. But I'm still scared that if I start, I won't be able to stop. What if I just get stuck in that sadness every time I try to remember the good things?",
+    "therapist": "It makes sense to worry that sadness might pull you under—but grief isn’t a linear process, and tears don’t mean you’ll get stuck there forever. What if you set a small intention before making tea, like: *“I’ll let myself feel whatever comes, and then I’ll do one grounding thing afterward”*—would that help create a sense of safety around the ritual?",
     "condition": "emotion_text_only",
-    "val_t": -0.3633134365081787,
-    "aro_t": 0.1366417407989502,
-    "text_emotion": "Sad"
+    "val_t": -0.33238542079925537,
+    "aro_t": 0.16286098957061768,
+    "text_emotion": "Angry"
   }
 ]

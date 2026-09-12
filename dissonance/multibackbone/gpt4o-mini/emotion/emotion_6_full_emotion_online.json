@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed with my job lately, especially after my team missed that crucial deadline last week. The pressure has been mounting, and I can't shake off the guilt and anxiety about not meeting expectations. I'm starting to wonder if therapy can really help with these feelings, or if I'm just wasting my time.",
-    "therapist": "It sounds like you’re carrying a heavy weight right now, feeling overwhelmed by the pressure and guilt surrounding your job. It’s completely understandable to question whether therapy can truly help when you're in such a tough spot. Can we explore some of the thoughts you're having about your performance and the expectations you feel?",
+    "client": "I've been feeling really overwhelmed with my job lately. As a project manager, the demands just keep increasing, and after my team missed that crucial deadline last week, it feels like everything is piling up. I can't shake off this feeling of guilt and anxiety, and I'm starting to wonder if therapy can actually help me with this.",
+    "therapist": "It sounds like you’re carrying a heavy load right now, especially with the pressures of your job and the recent deadline. That feeling of guilt and anxiety can be really overwhelming. It's completely understandable to question whether therapy can help, but it can be a valuable space to explore these thoughts and feelings. What do you think might be the most helpful thing to focus on as you navigate this situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.361965537071228,
-    "aro_t": 0.2234131097793579,
+    "val_t": -0.34790217876434326,
+    "aro_t": 0.22785353660583496,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I've been feeling this constant pressure to perform perfectly at my job, and it just makes me feel paralyzed. I constantly worry that I'm not doing enough, and then I feel guilty for even thinking that way, like I'm failing everyone. Honestly, I’m not sure how talking about my thoughts will change anything; they just seem so deeply ingrained at this point.",
-    "therapist": "It sounds like you’re really struggling under the weight of those perfectionistic expectations, and it's understandable that you feel paralyzed and guilty. It’s tough when thoughts feel deeply ingrained, making it hard to see a way forward. What if we took a closer look at those thoughts together to see if we can find a different perspective?",
+    "client": "I guess I just want to feel like I have some control over the situation again. It's hard to pinpoint what to focus on because everything feels so interconnected right now—my job, my emotions, even how I view myself. I’m not sure if just talking about it will actually change anything, but I do want to feel less anxious and guilty about it all.",
+    "therapist": "It sounds like you're really yearning for a sense of control amidst the chaos, and it's understandable to feel stuck when everything seems so interconnected. The feelings of anxiety and guilt can cloud your perspective, making it hard to know where to start. Talking about these challenges can indeed lead to change, as it helps clarify your thoughts and feelings. What specific aspects of your situation do you feel you could tackle first to regain that sense of control?",
     "condition": "emotion_text_only",
-    "val_t": -0.3502340316772461,
-    "aro_t": 0.18760812282562256,
+    "val_t": -0.24677658081054688,
+    "aro_t": 0.12371313571929932,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you noticing that I'm struggling, but I'm not sure how looking at my thoughts differently will help. It feels like the expectations I have are just part of who I am, and changing them seems impossible. Plus, I worry that if I don't hold myself to these high standards, I'll let everyone down and that thought really scares me.",
-    "therapist": "I can see how deeply rooted your expectations are and how frightening it feels to consider letting them go. It’s natural to feel scared about the possibility of disappointing others, especially when you hold yourself to such high standards. What if we explored what those standards mean to you and how they impact your sense of self?",
+    "client": "I think one aspect I could tackle is my time management—I often feel like I'm drowning in tasks and deadlines. But even thinking about that feels daunting because I’m not sure where to start. What if I try to organize my tasks and still end up missing something important? It just feels like there’s so much pressure to get everything right.",
+    "therapist": "It sounds like the pressure of managing your tasks is really weighing on you, and it’s understandable to feel daunted by where to begin. The fear of missing something important can definitely add to the stress. Perhaps breaking down your tasks into smaller, more manageable steps could help you feel more in control. What do you think might be a small step you could take to start organizing your tasks?",
     "condition": "emotion_text_only",
-    "val_t": -0.2953583002090454,
-    "aro_t": 0.2139756679534912,
-    "text_emotion": "Angry"
+    "val_t": -0.05028963088989258,
+    "aro_t": 0.0989614725112915,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about my expectations, but it's really hard for me to think about letting them go. They feel like a part of who I am, and I worry that if I stop trying to meet them, people will see me as a failure. Honestly, I'm scared that exploring those standards will just make me feel more anxious and guilty.",
-    "therapist": "It’s completely understandable to feel scared about letting go of those expectations, especially when they feel so intertwined with your identity. Acknowledging that fear is an important step, and it’s okay to be apprehensive about exploring those standards. What do you think might happen if you allowed yourself to take small steps toward understanding them better?",
+    "client": "I see what you're saying about breaking things down, but I can't help but feel skeptical. What if I take the time to organize my tasks and it doesn't make a difference? It just feels like another thing on my already overwhelming plate, and I'm worried that I’ll still end up behind. I’d like to feel more in control, but I’m not sure this is the right approach for me.",
+    "therapist": "I can sense your skepticism and the frustration of feeling like organizing tasks might just add to your burden. It’s perfectly valid to have doubts about whether this approach will truly help you regain control. Maybe we can explore some alternative methods or tools that feel less overwhelming and see if any resonate better with you. What are some ways you've successfully managed tasks in the past that you might feel comfortable trying again?",
     "condition": "emotion_text_only",
-    "val_t": -0.29189276695251465,
-    "aro_t": 0.1828467845916748,
+    "val_t": -0.15242433547973633,
+    "aro_t": 0.12221360206604004,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about the fear of letting go, but honestly, it feels overwhelming to even think about it. Those expectations have been a part of me for so long that I can't imagine what my life would look like without them. Taking small steps sounds easier in theory, but I'm not sure where to start or if I even want to.",
-    "therapist": "I hear you—it sounds really overwhelming to think about what life would be like without those expectations that have been such a big part of you for so long. It’s completely natural to feel uncertain about where to start or even if you want to start exploring that change. What if we took a moment to think about how those expectations have served you and what might be different if you allowed yourself a little flexibility?",
+    "client": "I appreciate you trying to explore different options with me, but honestly, I’m having a hard time thinking of what’s worked in the past. I usually just try to keep everything in my head, which clearly isn’t working anymore. I guess I’m worried that if I don’t find the perfect method right away, I’ll just end up feeling even more overwhelmed and guilty for not getting it right.",
+    "therapist": "It sounds like the pressure to find the \"perfect\" method is adding to your feelings of overwhelm and guilt, which can be really tough. It’s understandable to feel stuck when what you’ve been doing isn’t working anymore, and it’s okay to take your time in finding a solution that feels right for you. Instead of aiming for perfection, perhaps we can focus on experimenting with small changes and see how they feel. What’s one tiny adjustment you could try that wouldn’t feel too daunting?",
     "condition": "emotion_text_only",
-    "val_t": -0.07795882225036621,
-    "aro_t": 0.1491936445236206,
+    "val_t": -0.3051036596298218,
+    "aro_t": 0.15583550930023193,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate what you're saying, but honestly, it feels really scary to think about letting go of those expectations. They've been a part of my identity for so long, and without them, I worry I wouldn't know who I am or what I'm supposed to do. The idea of being flexible sounds nice in theory, but I don't know if I can handle the uncertainty that comes with it.",
-    "therapist": "It makes sense that the thought of letting go of expectations feels scary, especially when they are such a fundamental part of your identity. The uncertainty that comes with change can be daunting, and it’s okay to feel hesitant about it. What if we explored what aspects of your identity you value most and how those could remain intact even if some expectations shifted?",
+    "client": "I appreciate the idea of experimenting with small changes, but I'm still feeling a bit lost on what that could look like for me. It feels like every time I try something new, I end up second-guessing myself and feeling guilty about not sticking to it. I guess I worry that even the tiniest adjustment might not be enough to make a real difference, and then I’ll just be back to square one with my anxiety and guilt.",
+    "therapist": "It sounds like you're feeling quite uncertain about making changes, and that worry about second-guessing yourself can be really draining. It's completely normal to feel hesitant when trying something new, especially when the stakes feel high. Instead of focusing on whether a small change will be enough, how about we explore what feels manageable to you right now? Is there a very small step you can think of that feels less intimidating and could help you move forward, even just a little?",
     "condition": "emotion_text_only",
-    "val_t": -0.04509925842285156,
-    "aro_t": 0.12013554573059082,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 7,
-    "client": "I understand that shifting expectations could be important, but it's hard for me to imagine how I would still feel like myself without them. My identity feels so tied to what I expect from myself and how I think others see me. What if I lose those parts of me that I’ve built up over the years?",
-    "therapist": "I can see how difficult it is to imagine your identity without those expectations, especially when they’ve been such a significant part of your life for so long. It’s natural to fear losing parts of yourself that you’ve built up over the years. What if we took some time to identify the core values and strengths that truly define you, separate from those expectations? This could help illuminate what remains important as you consider any changes.",
-    "condition": "emotion_text_only",
-    "val_t": -0.08700311183929443,
-    "aro_t": 0.06258523464202881,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 8,
-    "client": "I understand what you're saying about separating my identity from those expectations, but honestly, it's hard for me to even know where to begin. I feel like so much of who I am has been shaped by what others want from me, and the thought of digging into my core values feels overwhelming. What if I don't like what I find, or what if it just confirms that I'm not living up to those expectations?",
-    "therapist": "It sounds like you’re feeling really overwhelmed at the thought of digging into your core values, especially when so much of your identity has been shaped by others' expectations. It’s completely understandable to fear what you might find or to worry about confirming those feelings of not measuring up. What if we approached this exploration gently, focusing on one small aspect of your values at a time, to make it feel less daunting?",
-    "condition": "emotion_text_only",
-    "val_t": -0.248268723487854,
-    "aro_t": 0.24930977821350098,
+    "val_t": -0.2534780502319336,
+    "aro_t": 0.13587164878845215,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I appreciate your understanding, but honestly, the idea of digging into my core values still feels really intimidating. I keep thinking about how everyone around me seems to have it all figured out, and I worry that I’ll just end up feeling worse about myself. Focusing on one small aspect does sound more manageable, but what if that small piece just leads me back to those same feelings of inadequacy?",
-    "therapist": "I hear you—digging into your core values does sound intimidating, especially when you’re comparing yourself to others who seem to have everything figured out. It’s natural to worry that exploring even a small piece might lead you back to those feelings of inadequacy. What if we approached it as an experiment, allowing yourself to be curious without the pressure of finding definitive answers? What’s one small thought or value you could gently explore that feels a bit less daunting?",
+    "turn": 7,
+    "client": "I appreciate your encouragement to think about what feels manageable, but I still feel a bit stuck. I think even the smallest step feels like a big commitment right now. What if I try something and it doesn't work out? I don't want to add to my anxiety by feeling like I've failed at even the simplest change.",
+    "therapist": "I can really hear how stuck you feel right now, and that sense of anxiety about trying something new is completely valid. The fear of failure, even with small changes, can feel overwhelming. What if we reframed this idea of commitment? Instead of seeing it as a fixed step, how about viewing it as a temporary experiment—something you can adjust or let go of if it doesn’t feel right? What do you think about that approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.18561434745788574,
-    "aro_t": 0.1265658140182495,
+    "val_t": -0.24662446975708008,
+    "aro_t": 0.1831275224685669,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I see what you're saying about reframing it as a temporary experiment, and that does sound a bit less intimidating. But I still feel hesitant because even experimenting feels like there's an expectation for it to work out. What if I try something and it just reinforces my fear of not being able to manage things? I guess I'm just not sure how to let go of that expectation.",
+    "therapist": "It sounds like the fear of reinforcing your worries is holding you back, and I completely understand that hesitance. Letting go of expectations can be really challenging, especially when you're trying to navigate so much. Perhaps we can explore the idea that every experiment is a learning opportunity, rather than a test of your abilities. What might it look like to approach this with curiosity instead of pressure?",
+    "condition": "emotion_text_only",
+    "val_t": -0.07758653163909912,
+    "aro_t": 0.09033620357513428,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "Thinking about approaching this with curiosity instead of pressure is interesting, but I’m still struggling with how to actually do that. It feels like I’ve been in this cycle of anxiety and guilt for so long that I don’t even know how to be curious about my own feelings or actions. Plus, what if I end up feeling even more anxious if things don’t go well? It’s hard to see the silver lining when I’m so focused on avoiding failure.",
+    "therapist": "It sounds like you're feeling really stuck in that cycle of anxiety and guilt, and it’s understandable to find it challenging to shift your perspective when you're feeling this way. The fear of potential failure can be overwhelming, making it hard to even consider being curious about your feelings or actions. What if we took a moment to acknowledge that it’s okay to feel anxious, and that exploring your feelings doesn’t have to be perfect? Could we start by simply noticing any small moments of curiosity that arise, without any pressure to act on them?",
+    "condition": "emotion_text_only",
+    "val_t": -0.23985350131988525,
+    "aro_t": 0.16839182376861572,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about it being an experiment, but honestly, I really struggle with even the idea of exploring my values. It feels like if I dive in, I might uncover things I’m not ready to face, and that just adds to my anxiety. I keep thinking that what if I discover I don’t like what I find, or what if it just makes me feel more lost?",
-    "therapist": "It’s completely understandable to feel anxious about the possibility of uncovering things you’re not ready to face. The fear of discovering something that makes you feel more lost is valid, and it shows just how much you care about understanding yourself. What if we took a step back and focused on just acknowledging those feelings of anxiety without diving too deep right now? How does that sound to you?",
+    "client": "I appreciate you acknowledging my anxiety and guilt, but even the idea of just noticing moments of curiosity feels like a lot right now. It’s hard for me to see how I can even notice anything when I'm so overwhelmed. What if I try to notice those moments and still feel stuck? It just feels like another expectation to meet, and I’m not sure if I can handle that right now.",
+    "therapist": "I can see how even the idea of noticing those moments feels like another weight on your shoulders, especially when you’re already feeling overwhelmed. It’s okay to feel that way, and you don’t have to add another expectation to your plate right now. Perhaps we can take a step back and simply focus on being present with how you're feeling in this moment, without any pressure to change anything. What are some of the things you’re noticing in your environment or within yourself right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.3345073461532593,
-    "aro_t": 0.20183849334716797,
-    "text_emotion": "Angry"
+    "val_t": -0.0684744119644165,
+    "aro_t": 0.21039414405822754,
+    "text_emotion": "Tense"
   }
 ]

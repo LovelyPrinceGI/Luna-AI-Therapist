@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed lately because my partner keeps bringing up how I'm never around anymore, and I can tell they're getting fed up with it. I've been working late almost every night for the past few months, and every time I come home, there's this tension in the air that just makes everything feel worse. I'm not even sure talking about it here is going to change anything, because the real problem is the job situation, and I don't see how that's going to fix itself.",
-    "therapist": "It sounds like you're carrying a real heaviness right now — caught between the demands of work and the strain it's putting on your relationship, with little room to breathe. I hear your skepticism about whether talking will help, and that's actually worth exploring, because sometimes when we feel stuck, our mind convinces us that *nothing* can shift — even the things that are within our reach. What do you think would feel like even a small step forward, if you let yourself imagine one?",
+    "client": "I've been really stressed about things at home lately, specifically with my partner. They told me last week that they feel like I'm pulling away, and honestly, I could see the frustration on their face when they said it. I'm not sure talking about it here is going to change anything, because the problem feels pretty concrete — I'm just working too much and I don't know how to stop.",
+    "therapist": "It sounds like you're carrying a real heaviness around this — seeing your partner's frustration and feeling somewhat stuck between work demands and your relationship. I also notice a little skepticism about whether talking can help, which makes sense when the problem feels so practical and immediate. I'm curious though — when you say you don't know how to stop working so much, what do you think is driving that: is it external pressure, or is there something internal that makes it hard to step back?",
     "condition": "emotion_text_only",
-    "val_t": -0.3883780241012573,
-    "aro_t": 0.14399969577789307,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "I guess if I'm honest, the thing that feels most suffocating right now is that my partner and I barely talk anymore — like we're just coexisting in the same space, and I don't even know how to start that conversation without it turning into a fight. A small step forward... I don't know, maybe just saying something real to them instead of the usual surface stuff? But even imagining that makes me anxious, because what if I open up and it just makes things worse between us.",
-    "therapist": "That fear of opening up and making things worse is so understandable — it can feel safer to stay on the surface than to risk a conversation that might spiral. But it's worth gently noticing that the \"safe\" silence is already causing pain, so part of you clearly senses that something real needs to be said. What do you imagine you'd most want your partner to *understand* about what you've been going through, if you knew they'd truly hear you?",
-    "condition": "emotion_text_only",
-    "val_t": -0.29444658756256104,
-    "aro_t": 0.21216952800750732,
+    "val_t": -0.3756650686264038,
+    "aro_t": 0.2472316026687622,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I guess... I'd want them to understand that I'm not just being distant or cold, that there's actually a lot going on inside me that I don't even fully understand myself. Like, I'm not pulling away because I don't care — it's more like I'm drowning and I don't know how to ask for a life jacket without making them feel like they're the reason I'm drowning. But even just saying that out loud feels terrifying, because what if they take it the wrong way and it becomes this whole thing where I end up comforting them instead of actually getting what I need?",
-    "therapist": "What you just said — about drowning and not wanting them to feel like the cause — is actually incredibly articulate and tender, and it tells me you have more clarity about your inner world than you're giving yourself credit for. That worry about ending up as the comforter instead of the one being heard is a really important pattern to notice, because it might be quietly stopping you from letting yourself be vulnerable even when you desperately need to be. What do you think gets in the way of you believing you deserve to have your needs heard in this relationship?",
+    "turn": 2,
+    "client": "Honestly, it's probably both, but if I'm being real with myself, I think a lot of it is internal. Like, there's this voice in my head that says if I slow down, things will fall apart — projects will fail, people will think I'm not committed, and then I'll have even more to worry about. It's almost like staying busy feels safer than the alternative, even though I can see it's costing me my relationship.",
+    "therapist": "That's a really honest and insightful observation — you've identified a core belief that busyness equals safety, even as you can see the cost it's creating. In CBT, we'd call that kind of thought a \"protective belief,\" where the mind convinces us that a certain behavior is keeping danger at bay, even when the evidence around us suggests otherwise. What would you say actually happens when you imagine slowing down — what's the specific \"falling apart\" that feels most frightening to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.22299981117248535,
-    "aro_t": 0.262249231338501,
+    "val_t": -0.13097667694091797,
+    "aro_t": 0.06708061695098877,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I think the most frightening thing is that if I slow down at work, I'll be exposed somehow — like people will finally see that I'm not as capable as they think I am. And then on top of that, there's this fear that if I'm not constantly proving my value there, I'll lose my job, and then I'll really let my partner down financially on top of everything else. It's like I've built this whole story where working less leads to this chain of disasters, and even saying it out loud I can kind of hear how extreme it sounds, but it doesn't make the fear go away.",
+    "therapist": "There's something really courageous about saying that out loud — that fear of being \"exposed\" as less capable than people think has a name in CBT, we often call it impostor syndrome, and it's remarkably common in people who are actually quite competent. You've already done something important by noticing that the story you've built — slow down → disaster → let everyone down — is a chain of assumptions rather than facts, even if knowing that doesn't instantly dissolve the fear. I'm wondering, if you looked for evidence: has there ever been a time you did slow down or show vulnerability at work, and the catastrophe you feared didn't actually happen?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3720223903656006,
+    "aro_t": 0.2561403512954712,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess... part of me doesn't really believe I do deserve it, if I'm being honest. Like, they have their own stuff going on, and who am I to add more weight to that? It's almost like I've convinced myself that being low-maintenance is the price I pay for keeping people around.",
-    "therapist": "That belief — that you have to make yourself small to stay lovable — is such a painful way to move through a relationship, and it makes so much sense that it's left you feeling isolated. It's worth gently questioning where that idea actually came from, because it sounds less like a truth about you and more like a rule you learned somewhere along the way to feel safe. When you think back, does this sense of needing to be \"low-maintenance\" to keep people around feel familiar from earlier in your life?",
+    "client": "There was actually one time a couple of years ago where I had to tell my manager I was overwhelmed and needed to push back a deadline, and I was terrified, but she was actually really understanding about it. But here's the thing — I think I've kind of filed that away as a lucky exception rather than evidence that it could go that way again. I guess I'm wondering how I'm supposed to take one or two good experiences and make them feel more real than this constant background fear that's been with me for years.",
+    "therapist": "It's really meaningful that you can see exactly what your mind is doing — labeling that positive experience as a \"lucky exception\" is a classic way our protective beliefs defend themselves, because if the exception counts, the whole fear-based story starts to unravel. You're right that one memory can't instantly overpower years of anxiety, but the goal isn't to force yourself to feel differently overnight — it's to slowly, deliberately collect more evidence that challenges the story, almost like building a case file against the fear. I'm curious — what do you think it would take to start treating that experience with your manager as *data* rather than luck, even just a little?",
     "condition": "emotion_text_only",
-    "val_t": -0.14890754222869873,
-    "aro_t": 0.1478811502456665,
+    "val_t": -0.1843550205230713,
+    "aro_t": 0.17397725582122803,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "Yeah, it does feel familiar, actually. I think back to when I was a kid and my mom was always so stressed and overwhelmed, and I just learned early on that asking for things or having needs made everything worse. So I kind of trained myself to be quiet and easy, and I guess I never really stopped doing that even as I got older.",
-    "therapist": "That's a really profound connection you've just made — the quiet, self-sufficient child who learned that having needs created problems has grown into an adult who still carries that same rule, even in a relationship where you genuinely want closeness. What you learned back then was a way of surviving a stressful environment, and it made sense at the time, but it's worth asking whether that old rule is actually protecting you now or whether it's become the very thing keeping you from the connection you're longing for. What does it feel like to consider that your needs in this relationship might actually be valid and worth expressing, not a burden?",
+    "client": "I think part of what makes it hard to treat it as data is that I'd have to be willing to test it again, and that feels really risky — like I'd be deliberately putting myself in a vulnerable position to see if it goes okay, and what if this time it doesn't? I can see the logic of building a case file, but it feels a bit clinical when the stakes feel so personal and high. And honestly, even if I started to believe work might be okay with me slowing down a little, I'm not sure that automatically fixes the guilt I feel about my partner, because that's a whole separate thing I've been avoiding dealing with.",
+    "therapist": "You're naming something really important — that the logic of this work can feel cold and distant when the emotional stakes with your partner feel so raw and close to home. It makes complete sense that even solving the work piece wouldn't automatically lift the guilt, because those feel like two separate wounds, and it sounds like the one with your partner might actually be the more tender one right now. What do you think you've been most avoiding when it comes to facing that guilt — is it the conversation with your partner, or something you'd have to admit to yourself?",
     "condition": "emotion_text_only",
-    "val_t": 0.06393778324127197,
-    "aro_t": 0.09547388553619385,
-    "text_emotion": "Neutral"
+    "val_t": -0.26890408992767334,
+    "aro_t": 0.09393072128295898,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "Honestly, when you put it that way, there's a part of me that wants to believe it... but then another part just kind of shuts down and thinks, \"yeah, but what if I actually am too much?\" Like, intellectually I can hear what you're saying about the old rule not serving me anymore, but it doesn't really feel true in my body yet. It's like I know the words, but I can't quite make myself trust them.",
-    "therapist": "That gap between knowing something in your head and feeling it in your body is so real, and it's actually one of the most honest things you can say about how change works — it's rarely a single moment of clarity, it's more like slowly building evidence that rewrites the old story. The thought \"what if I'm too much\" has had decades of practice, so it makes sense it doesn't dissolve just because we've named it. What's one moment, even a small one, where someone in your life responded to your needs with care rather than overwhelm — something that might serve as a tiny piece of counter-evidence to that old belief?",
+    "client": "I think it's more what I'd have to admit to myself, honestly. Because somewhere underneath all the busyness, I'm afraid that I've been using work as a way to avoid being really present with my partner, and if I admit that, then I can't blame the job anymore — it becomes about me choosing this, even if it didn't feel like a conscious choice. That's a much harder thing to sit with than just saying I'm overworked.",
+    "therapist": "What you just said takes real courage to admit — recognizing that the busyness might have been a choice, even an unconscious one, shifts the story from something happening *to* you to something you've had some agency in, and that's a genuinely difficult thing to sit with. But I want to gently offer this: acknowledging that you've been avoiding something doesn't make you a bad partner — it actually makes you someone who is finally being honest enough with themselves to change. What do you think it would feel like to share even a small piece of what you just told me, with your partner?",
     "condition": "emotion_text_only",
-    "val_t": -0.1290111541748047,
-    "aro_t": 0.1199413537979126,
+    "val_t": -0.18398189544677734,
+    "aro_t": 0.09141767024993896,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I mean... there was this one time a few months ago when I texted my friend Maya at like 11pm because I was spiraling pretty bad, and instead of just sending a quick \"you okay?\" she actually called me and stayed on the phone for almost an hour. I remember feeling so guilty the whole time, like I kept saying \"I'm sorry, you should go to sleep\" and she just kept saying \"stop apologizing, I'm here because I want to be.\" But even now, telling you that, part of me is like... maybe she just felt obligated, maybe she was secretly annoyed and just didn't show it. It's hard to just take it at face value.",
-    "therapist": "Maya stayed on the phone for an hour at 11pm and kept telling you to stop apologizing — and your mind's response is to find a way to make that care feel unsafe by questioning her motives. That's the old belief doing its job, protecting itself by discrediting the very evidence that challenges it. It's worth sitting with the fact that your mind does this *every time* — so the question isn't really about Maya's intentions, it's about what it would mean for you if you actually let yourself believe she wanted to be there. What do you think you'd have to give up if you accepted that you're not too much?",
+    "client": "Honestly, the idea of saying this to my partner terrifies me, because what if they hear it as me admitting I've been checked out on purpose, and that makes things worse instead of better? I want to believe it would bring us closer, but I also know my partner has been hurt, and I'm not sure they're in a place right now to receive something that complicated without feeling even more let down. I guess I'm worried that being honest might open a door I'm not ready to walk through.",
+    "therapist": "There's a real tenderness in what you're describing — you're not just afraid of your partner's reaction, you're also trying to protect them, which actually says a lot about how much you care. It's worth noticing that the same vulnerability you're afraid to show your partner is the very thing that might help them feel less alone in this, because right now they may be interpreting your distance as not caring rather than as fear. I'm wondering — when you imagine that door you're not ready to walk through, what's on the other side that feels most frightening to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.26629793643951416,
-    "aro_t": 0.1544867753982544,
+    "val_t": -0.3702753782272339,
+    "aro_t": 0.2236003875732422,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That question kind of stopped me in my tracks, honestly. Because I think... if I accepted that, I'd have to give up the excuse. Like, if I'm not too much, then I can't keep using that as the reason to stay distant or to preemptively pull away before people leave. And that's terrifying because then I'd actually have to be present in the friendship, really present, and risk getting hurt without any kind of protective story to fall back on.",
-    "therapist": "What you just named takes real courage — recognizing that the \"I'm too much\" story, as painful as it is, has also been a kind of armor that keeps you from having to fully show up and risk being hurt. There's something bittersweet in that realization, because it means the belief isn't just a wound, it's also been a way of feeling in control. What would it feel like to experiment with being a little more present — maybe first with Maya, where you already have evidence of her care — and see what actually happens when you let someone in without the armor?",
+    "client": "I think what's on the other side is finding out that my partner has been lonelier in this relationship than I realized, and that I've caused real damage that can't just be fixed with a good conversation. There's also this fear that once everything is out in the open, my partner might decide that this pattern of mine — the avoidance, the busyness — is just too much to keep dealing with. I guess I'm terrified that being fully honest might not bring us closer, but might actually give my partner the clarity to leave.",
+    "therapist": "That fear — that honesty might hand your partner the reason to leave — is one of the most painful places a person can find themselves, and it makes complete sense that it's kept you from opening that door. But I want to reflect something back to you: the avoidance that you're afraid might drive your partner away is already creating the distance you're trying to prevent, so in a way, the risk of staying silent may be just as real as the risk of speaking. What do you think your partner is experiencing right now in the absence of this honesty — what story might they be telling themselves about why you've been pulling away?",
     "condition": "emotion_text_only",
-    "val_t": -0.23984932899475098,
-    "aro_t": 0.17274606227874756,
+    "val_t": -0.3060147762298584,
+    "aro_t": 0.18753385543823242,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That word \"armor\" really hit me, because I think you're right, and I hate that you're right. Like, if I keep telling myself I'm too much, then I never have to actually find out if Maya would pull away, and that feels safer somehow. But the idea of just... letting her see more of me without that buffer is honestly terrifying, because what if I do it and she confirms my worst fear?",
-    "therapist": "That fear makes complete sense — the armor has felt like the only thing standing between you and the most painful confirmation of that old belief. But it's worth noticing that right now, you're essentially choosing a guaranteed loneliness over a *possible* rejection, and part of you is starting to see that the certainty of staying hidden might actually cost more than the risk of being seen. What do you think one small, manageable moment of \"letting Maya in\" might look like — something real but not so big that it feels like stepping off a cliff?",
+    "client": "That's actually a really painful thing to think about, because if I'm honest, my partner probably isn't telling themselves a generous story right now — they're more likely thinking that I don't prioritize them, or maybe even that I've stopped loving them the way I used to. And that hurts to sit with, because none of that is true, but I've basically left them to fill in the blanks on their own. I just don't know how you go from realizing that to actually having the conversation, because knowing something needs to happen and feeling ready to do it feel very far apart right now.",
+    "therapist": "The pain in what you're sitting with right now is real — recognizing that someone you love may be quietly concluding they don't matter to you, when the truth is so much more complicated, is a genuinely heartbreaking thing to hold. And I think you've actually already taken a step that matters: the gap between \"knowing\" and \"feeling ready\" is exactly where this kind of work lives, and you don't have to feel fully ready to begin — sometimes a small, imperfect step is more honest than waiting for the perfect moment that never quite arrives. What might the smallest possible version of that conversation look like — not the whole truth all at once, but just enough to let your partner know you're aware, and that you're trying?",
     "condition": "emotion_text_only",
-    "val_t": -0.29098498821258545,
-    "aro_t": 0.32520759105682373,
+    "val_t": -0.21194446086883545,
+    "aro_t": 0.17023444175720215,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and yeah, part of me does recognize that the loneliness is already here, it's not like I'm avoiding pain by keeping the walls up. But when I try to think of something small with Maya, my mind just goes blank or immediately jumps to worst-case scenarios, like even something tiny will somehow open a door I won't be able to close again. I guess maybe... texting her back when she checks in, instead of leaving it on read for three days, but even saying that out loud makes my chest tighten.",
-    "therapist": "That chest tightening when you imagine texting Maya back is your nervous system treating a simple text like a genuine threat — which tells you just how deeply that old protective pattern is wired in. But notice what you did just now: your mind went blank, then jumped to worst-case scenarios, and *then* found something small and real anyway, which means part of you is already pushing gently against the armor. Texting Maya back when she checks in is actually a perfect place to start — small enough to feel survivable, but real enough to begin collecting new evidence. What do you think you might say to her, even just a few words, that would feel honest without feeling like too much all at once?",
+    "client": "Maybe the smallest version would be just telling my partner that I know I've been distant and that it's not about them — that it's something I'm working through and I don't want them to feel like they're on the outside of my life. But even framing it that way, I'm worried it sounds vague enough that my partner might feel like I'm giving them just enough to keep them from asking more questions, rather than actually letting them in. I guess I'm not sure how to make a small step feel genuine rather than like I'm managing the situation.",
+    "therapist": "That instinct you have — wanting the small step to feel genuine rather than strategic — is actually really important, and it tells me you're not looking for a way to manage your partner, you're looking for a way to truly connect. The difference between \"managing\" and \"opening up\" might come down to one thing: whether you include a little of the vulnerability underneath, like acknowledging that it's hard to talk about, or that you're afraid of how they might receive it — because that kind of honesty can't be mistaken for deflection. What do you think would happen if you let your partner see not just that you're working through something, but that part of what makes it hard is how much you're afraid of letting them down?",
     "condition": "emotion_text_only",
-    "val_t": -0.2330470085144043,
-    "aro_t": 0.19315040111541748,
-    "text_emotion": "Angry"
+    "val_t": -0.08867096900939941,
+    "aro_t": 0.02115046977996826,
+    "text_emotion": "Neutral"
   }
 ]

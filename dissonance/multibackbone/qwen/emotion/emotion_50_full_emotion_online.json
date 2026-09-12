@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really anxious lately. After failing two exams this semester, I can't stop worrying about whether I'll be able to graduate on time. It feels like everything is falling apart, and I’m not sure if therapy can even help with this.",
-    "therapist": "Hi there, it sounds like you're going through a really tough time and feeling quite anxious about your academic future. It's completely understandable to feel overwhelmed, especially with the added pressure of failing those exams. How have you been coping with these worries so far?",
+    "client": "Hey Luna, I've been really anxious lately. After failing two exams this semester, I can't shake the feeling that I might not graduate on time. It's been weighing heavily on my mind, and I’m not sure how to move forward.",
+    "therapist": "Hi there, it sounds like you're carrying a lot of worry and anxiety about your exams and the impact on your graduation. It's completely understandable to feel this way, especially after such a setback. What thoughts are coming up for you when you think about not graduating on time?",
     "condition": "emotion_text_only",
-    "val_t": -0.3456944227218628,
-    "aro_t": 0.2585524320602417,
+    "val_t": -0.2898542881011963,
+    "aro_t": 0.2553246021270752,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to stay on top of my studies, but it feels like no matter how much I study, I can't shake this constant worry that I'll fail again. I've been really hard on myself, and it's just adding to my anxiety. It's tough to find a way to break this cycle.",
-    "therapist": "It sounds like you're putting a lot of pressure on yourself, and that can make it even harder to break the cycle of worry and anxiety. It's important to recognize that everyone has setbacks, and it doesn't define your entire academic journey. What are some small steps you think you could take to start easing that pressure and maybe find a more balanced approach to your studies?",
+    "client": "I keep thinking that I’m falling behind everyone else, and that I’ll be the only one who doesn’t graduate with my friends. It feels like a failure, and I’m scared of disappointing my family and myself. It’s hard to see a way out of this.",
+    "therapist": "It sounds really tough to feel like you’re falling behind and to fear disappointing those you care about. It’s natural to have these concerns, but it’s important to remember that setbacks are a part of the journey and don’t define your entire path. What evidence do you have that supports the idea that you will be the only one not graduating, and what evidence might there be against it?",
     "condition": "emotion_text_only",
-    "val_t": -0.16784608364105225,
-    "aro_t": 0.16747844219207764,
-    "text_emotion": "Angry"
+    "val_t": -0.43058836460113525,
+    "aro_t": 0.1576230525970459,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it's hard to shake off the feeling that every mistake could have big consequences. I know everyone makes mistakes, but it feels like I can't afford to slip up, especially with my exams coming up. Taking small steps sounds good, but I'm not sure what those steps would be or if they would even make a difference.",
-    "therapist": "I can see how deeply you're feeling the weight of these potential consequences, and it's completely understandable to be concerned. It's important to recognize that while mistakes can feel significant, they don't have to define your entire path. Small steps can make a difference, even if they seem minor at first. For example, setting realistic study goals, taking short breaks to recharge, or seeking support from peers or a tutor might help. What do you think about trying some of these strategies, or is there another small step you can imagine taking to start feeling more in control?",
+    "client": "I guess I don’t have concrete evidence that I’ll be the only one not graduating. But it feels like everyone else is doing so well, and I’m the one who keeps messing up. It’s hard to see it any other way when I feel so overwhelmed and behind.",
+    "therapist": "It makes sense that you feel overwhelmed and behind, especially when it seems like others are doing well. However, it’s important to recognize that everyone’s journey is different, and what might look like success from the outside doesn’t always tell the whole story. Can you think of any small steps or resources that might help you feel a bit more in control and less overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": 0.0021724700927734375,
-    "aro_t": 0.035264015197753906,
-    "text_emotion": "Neutral"
+    "val_t": -0.2824159860610962,
+    "aro_t": 0.19706571102142334,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate your suggestions, Luna, and I know they make sense, but it's hard for me to see how these small steps will really make a difference when I feel so overwhelmed. It's like I'm drowning in this sea of anxiety and guilt, and these steps feel too small to save me. I guess I'm just struggling to believe that they'll actually help.",
-    "therapist": "I can really understand how overwhelming and daunting this all feels right now. It's completely normal to doubt whether small steps will make a difference when you're in the middle of such a challenging situation. It's like trying to climb a mountain one tiny step at a time—it can feel almost impossible at first. What do you think might help you start to believe in the power of these small steps, even if just a little bit? Maybe there's a specific goal or a small victory that could give you some hope?",
+    "client": "I know you’re right, but it’s hard to see those small steps when I feel so stuck. I’ve thought about talking to a tutor or my professors, but it feels embarrassing to admit I’m struggling. Plus, I’m not sure if they can really help at this point.",
+    "therapist": "It’s completely understandable to feel stuck and embarrassed about reaching out for help. It takes a lot of courage to admit when we’re struggling, and it’s okay to feel uncertain about how much help others can offer. Have you ever considered that talking to a tutor or professor might provide some new perspectives or strategies that could make a difference, even if it’s just a small step forward? What do you think might be the worst-case scenario if you did reach out, and how likely do you think it is to happen?",
     "condition": "emotion_text_only",
-    "val_t": -0.15185284614562988,
-    "aro_t": 0.23565971851348877,
-    "text_emotion": "Angry"
+    "val_t": -0.25316131114959717,
+    "aro_t": 0.08986330032348633,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate you saying that, Luna. It does feel like an uphill battle, and sometimes I just can't see how these small steps will amount to anything significant. I guess I could try setting a really small, achievable goal, but I worry that even that might feel too big or that I'll get discouraged if it doesn't go as planned. How do I find the courage to even start?",
-    "therapist": "I understand how daunting it can feel to start, especially when you're already carrying so much weight. It's completely normal to worry about getting discouraged, but starting with something very small can help build momentum and confidence. Maybe we can think of a tiny goal that feels almost too easy to achieve, just to get the ball rolling. What’s something you could do today that feels almost effortless, even if it’s just a five-minute task? This can help you start to see that you can take control, even if it’s in small ways.",
+    "client": "I guess the worst-case scenario is that they might not take me seriously or think I’m overreacting. But I do see your point about gaining new perspectives. It’s just hard to take that first step when I feel so vulnerable.",
+    "therapist": "It’s totally understandable to worry about not being taken seriously or feeling vulnerable. It’s a brave step to consider reaching out, and it’s okay to take it at your own pace. Maybe you could start by dropping a quick email to a professor or tutor, just to gauge their response and see if they can offer some support. What do you think about taking that small step first?",
     "condition": "emotion_text_only",
-    "val_t": -0.043982863426208496,
-    "aro_t": 0.12191283702850342,
-    "text_emotion": "Neutral"
+    "val_t": -0.18701601028442383,
+    "aro_t": 0.0552525520324707,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, and I really do want to try, but it feels like even the smallest things can be overwhelming sometimes. I mean, I know starting small is supposed to help, but I just worry that I'll end up feeling like I can't even manage that. Maybe I could try to tidy up my desk or something, but it’s hard to even get started when I feel so stuck.",
-    "therapist": "I completely understand how overwhelming even the smallest tasks can feel when you're in this state. It's okay to feel stuck, and it's important to be gentle with yourself. Starting with something as simple as tidying up your desk can be a good way to create a small sense of control and accomplishment. If you find it hard to get started, maybe you could set a timer for just five minutes and see what you can do in that time. How does that sound? Is there anything else that might make it feel a bit easier to begin?",
+    "client": "I think it might help to start with an email. It feels less intimidating than a face-to-face conversation. I’ll try to draft something tonight and see how it goes. It’s still a bit scary, but I’ll give it a shot.",
+    "therapist": "That’s a great plan, and it’s completely understandable that an email feels less intimidating. Taking that first step, even a small one, is a big deal. It’s natural to still feel a bit scared, but you’re showing a lot of courage by giving it a shot. How do you think you’ll feel once you’ve sent the email?",
     "condition": "emotion_text_only",
-    "val_t": -0.28637099266052246,
-    "aro_t": 0.13525354862213135,
-    "text_emotion": "Angry"
+    "val_t": 0.09429061412811279,
+    "aro_t": 0.12872540950775146,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate the suggestion, but I don't think it will work for me. It's hard because even that small task feels like a mountain. I worry that if I start and don't finish, I'll just feel more overwhelmed and disappointed in myself.",
-    "therapist": "I understand how overwhelming even small tasks can feel, and it's completely valid to worry about not finishing and feeling more disappointed. It's important to be kind to yourself and acknowledge that these feelings are a part of your current struggle. Instead of focusing on completing the task, maybe we can start by just setting an intention to spend a few minutes on it without any pressure to finish. What do you think about just giving it a try, even if it's just for a moment, to see how it feels?",
+    "client": "I think I’ll feel a mix of relief and anxiety once I send the email. It will be a relief to have taken action, but I’ll probably still worry about the response. It’s a small step, but it feels like an important one.",
+    "therapist": "It’s completely normal to feel a mix of relief and anxiety after taking that step. It’s a sign that you’re pushing through your comfort zone, which is a positive thing. Recognizing that it’s a small but important step is a great way to frame it. How do you think you’ll handle the waiting period for a response? Are there any activities or strategies that might help you manage the anxiety in the meantime?",
     "condition": "emotion_text_only",
-    "val_t": -0.31276845932006836,
-    "aro_t": 0.16970443725585938,
-    "text_emotion": "Angry"
+    "val_t": 0.0019369125366210938,
+    "aro_t": 0.1097191572189331,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna, and I know you're trying to help. But it's hard for me to even start something without feeling like I'm setting myself up for failure. I get anxious just thinking about it, and that anxiety makes it feel like I can't do anything at all. It's a vicious cycle.",
-    "therapist": "I can really understand how paralyzing that anxiety can be, and it's completely normal to feel like you're setting yourself up for failure. It sounds like the anxiety is creating a vicious cycle that's hard to break. One thing that might help is to focus on the process rather than the outcome. Instead of worrying about whether you'll finish a task, you could try to focus on the act of starting and being present in the moment. What do you think about just giving yourself permission to start something, even if it's just for a minute, without any expectations of how far you'll get? How does that feel to you?",
+    "client": "I think I’ll try to distract myself with some activities I enjoy, like reading or going for a walk. It might help to keep my mind off the waiting. But it’s hard to fully relax knowing there’s something important pending.",
+    "therapist": "It’s a good idea to engage in activities you enjoy to help manage the anxiety while you wait. Reading or going for a walk can be great ways to give your mind a break and maybe even provide some clarity. It’s natural to find it hard to fully relax when you’re waiting for something important, but taking these steps can still be helpful. How do you think you’ll know when it’s time to take a break from waiting and focus on other things?",
     "condition": "emotion_text_only",
-    "val_t": -0.23655152320861816,
-    "aro_t": 0.2799168825149536,
-    "text_emotion": "Angry"
+    "val_t": -0.06025516986846924,
+    "aro_t": 0.04202401638031006,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It makes sense, but it's hard for me to just start something without feeling like I need to finish it right away. I worry that if I don't set high expectations, I won't get anything done at all. It's like I need that pressure to keep me moving forward, even though it's stressful.",
-    "therapist": "I understand that feeling of needing high expectations to keep you moving forward, even though it adds to your stress. It's a tricky balance to strike. Maybe we can explore finding a middle ground—setting realistic expectations that still provide some structure, but without the overwhelming pressure. What do you think about setting a very small, manageable goal for today, just to see how it feels to start without the pressure to finish? How does that sound to you?",
+    "client": "I think I’ll know it’s time to take a break when I start feeling overwhelmed or when my anxiety starts to spiral. Maybe setting a specific time to check my email later can help me focus on other things in the meantime. It’s just hard to let go of the worry, even when I know I should.",
+    "therapist": "It sounds like you have a good sense of when to take a break and how to manage your anxiety. Setting a specific time to check your email can be a really effective strategy to help you stay focused on other things. It’s completely normal to find it hard to let go of the worry, but giving yourself permission to take breaks and engage in other activities can be a step toward managing that worry. What other strategies have you found helpful in the past for dealing with anxiety?",
     "condition": "emotion_text_only",
-    "val_t": 0.04373502731323242,
-    "aro_t": 0.18465471267700195,
-    "text_emotion": "Tense"
+    "val_t": -0.22123265266418457,
+    "aro_t": 0.09631633758544922,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I see where you're coming from, but I'm not sure if setting a small goal will really make a difference. It's hard for me to shake the feeling that if I don't push myself really hard, I'll just end up not doing anything at all. I guess I can try it, but I'm a bit skeptical about whether it will actually help me feel less stressed.",
-    "therapist": "I understand your skepticism, and it’s completely valid to have those concerns. It can be really challenging to break away from the idea that pushing yourself hard is the only way to get things done. Setting small goals isn't about avoiding the work; it's about finding a way to start that doesn't immediately trigger your anxiety. Maybe we can start with something very small, like taking a five-minute break to breathe deeply or writing down one thing you’re grateful for. How does that feel to you, and do you think it might be a bit easier to try?",
+    "client": "In the past, I’ve found that journaling helps me sort through my thoughts and worries. It’s a way to get everything out of my head and onto paper, which can make it feel more manageable. But sometimes, even after journaling, I still feel overwhelmed, especially when the issues feel really big.",
+    "therapist": "Journaling can be a really powerful tool for sorting through complex thoughts and worries. It’s great that you’ve found it helpful in the past. It’s also completely normal to still feel overwhelmed sometimes, especially when the issues feel really big. Have you tried combining journaling with other techniques, like deep breathing or mindfulness, to see if that helps ease the overwhelm a bit more?",
     "condition": "emotion_text_only",
-    "val_t": -0.07920229434967041,
-    "aro_t": 0.08279597759246826,
+    "val_t": -0.07038450241088867,
+    "aro_t": 0.11585414409637451,
     "text_emotion": "Neutral"
   }
 ]

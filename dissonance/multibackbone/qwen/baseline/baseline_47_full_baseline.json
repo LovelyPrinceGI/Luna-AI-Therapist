@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, it's been a tough month since my grandfather passed away. I've been feeling really sad, but also guilty because I can't help thinking I should have spent more time with him when he was around. I know it's irrational, but I can't shake the feeling that I let him down.",
-    "therapist": "Hi there, I'm so sorry to hear about your loss and the difficult feelings you're experiencing. It's completely understandable to feel sad and guilty, and these emotions are a natural part of grieving. Can you tell me more about the thoughts you have when you feel like you should have spent more time with him?",
+    "client": "Hey Luna, I've been really struggling lately. After my grandfather passed away last month, I've been dealing with a lot of sadness, but I also feel guilty for not spending more time with him when he was still around. It's been really hard to shake these feelings.",
+    "therapist": "I'm so sorry to hear about your loss and the difficult feelings you're experiencing. It's completely understandable to feel sadness and guilt, especially after the passing of a loved one. Can you tell me more about what it's like to carry these feelings with you day to day?",
     "condition": "baseline",
-    "val_t": -0.38476455211639404,
-    "aro_t": 0.15412700176239014,
+    "val_t": -0.3488752841949463,
+    "aro_t": 0.09076392650604248,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I just keep thinking about all the times I could have called or visited but didn't. It's like a loop in my head, and I feel so guilty for not being there more often. I know he said he was fine, but I can't help wondering if things would have been different if I had been there more.",
-    "therapist": "It sounds like those thoughts are really weighing on you and causing a lot of distress. It's normal to have these “what if” thoughts, but they can be really tough to manage. Have you noticed any times when these thoughts are a bit less intense, or any moments when you feel a bit more at peace?",
+    "client": "Thanks for understanding, Luna. Honestly, it feels like there's this constant weight on my chest. I find myself thinking about what I could have done differently, and it's hard to focus on anything else. The guilt makes it tough to enjoy the good moments, and I feel like I'm letting him down even now, you know?",
+    "therapist": "It sounds incredibly heavy, and I can only imagine how much you're carrying. It's natural to reflect on what might have been, but I wonder if we could explore some of the moments you did share with him and how those might still be meaningful to you. What are some of the things you cherish about your relationship with your grandfather?",
     "condition": "baseline",
-    "val_t": -0.2556530237197876,
-    "aro_t": 0.035704612731933594,
-    "text_emotion": "Sad"
+    "val_t": -0.19680321216583252,
+    "aro_t": 0.10207414627075195,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, you're right. It's like these thoughts just won't let me go. I do notice that they ease up a bit when I'm really busy or distracted, but as soon as I have a quiet moment, they come flooding back. It's hard to find a consistent way to feel more at peace.",
-    "therapist": "It makes sense that distraction can provide some temporary relief, but it’s tough when those thoughts return in quiet moments. One thing we can explore is finding a way to gently challenge these thoughts when they arise. What do you think about setting aside a specific time each day to reflect on these thoughts and feelings? This might help contain them and make them feel more manageable. How does that sound to you?",
+    "client": "I appreciate you suggesting that, Luna. There are definitely moments I cherish, like the times we used to go fishing together and the stories he would tell me about his youth. But it's hard to hold onto those memories without feeling like I should have done more. It's like the good times just highlight what I feel I missed.",
+    "therapist": "It's beautiful that you have those cherished memories, and it's completely understandable that they can be both a source of comfort and a reminder of what you wish you could have done. It's okay to feel this way, and it's a sign of how much you cared for him. Can we take a moment to reflect on what your grandfather might have wanted for you now? What do you think he would want you to focus on or how he would want you to remember him?",
     "condition": "baseline",
-    "val_t": -0.08785402774810791,
-    "aro_t": -0.015714168548583984,
-    "text_emotion": "Neutral"
+    "val_t": 0.19600725173950195,
+    "aro_t": 0.13695740699768066,
+    "text_emotion": "Excited"
   },
   {
     "turn": 4,
-    "client": "I can see the logic in setting aside time to reflect, but I worry it might just make the thoughts more intense when they do come up. It's hard enough dealing with them when they sneak up on me unexpectedly. I'm not sure if scheduling it will help or just make me more anxious about it.",
-    "therapist": "I understand your concern; it’s completely valid to worry that setting aside time might intensify those thoughts. We can try a different approach if that feels better. How about we start with some gentle mindfulness or grounding exercises during those quiet moments when the thoughts arise? This can help you stay present and might make the thoughts feel less overwhelming. What do you think about trying that?",
+    "client": "I think he would want me to focus on living my life to the fullest and not dwelling too much on what could have been. He was always so positive and encouraging. But it's hard to let go of the guilt, and I worry that if I move on, I'll forget the lessons he taught me or the times we shared.",
+    "therapist": "It's clear that your grandfather had a profound impact on your life, and it's natural to want to honor his memory and the lessons he taught you. Holding onto his teachings and the special moments you shared is a beautiful way to keep him close. At the same time, it's okay to allow yourself to move forward and live your life fully, as he would have wanted. How do you think you can balance honoring his memory while also taking steps to let go of the guilt and find joy in your current life?",
     "condition": "baseline",
-    "val_t": -0.1947084665298462,
-    "aro_t": 0.07600653171539307,
-    "text_emotion": "Sad"
+    "val_t": -0.07768571376800537,
+    "aro_t": 0.02807319164276123,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, but I'm still a bit skeptical. Mindfulness and grounding exercises sound good in theory, but I worry they might not be enough to really shift how I feel. It's hard because those quiet moments are when my anxiety and guilt really spike, and I'm not sure if just staying present will make a difference.",
-    "therapist": "I completely understand your skepticism, and it's okay to have doubts about what might help. Mindfulness and grounding exercises are just one tool, and we can tailor them to better fit your needs. How about we start with a simple exercise together, like focusing on your breath or a grounding object, and see how it feels for you? We can also discuss other strategies that might complement this, such as journaling or talking to a supportive friend. What do you think about trying a gentle approach like that?",
+    "client": "I think you're right, Luna. It's a tough balance, but maybe I can start by sharing stories about him with others or even writing down some of the lessons he taught me. That way, I can keep his memory alive while also moving forward. It's just hard because the guilt feels so heavy, and I worry that if I let it go, I'll be forgetting him in some way.",
+    "therapist": "That's a really thoughtful approach, and I think it could be very meaningful for you. Writing down the lessons and sharing stories are wonderful ways to keep his memory alive and to honor the bond you shared. It's okay to feel the weight of the guilt; it shows how much you care. At the same time, it might be helpful to remind yourself that holding onto these memories and lessons is a way of carrying him with you. What small step could you take today to start this process of honoring him and moving forward?",
     "condition": "baseline",
-    "val_t": -0.20258963108062744,
-    "aro_t": 0.07731735706329346,
-    "text_emotion": "Sad"
+    "val_t": -0.1658262014389038,
+    "aro_t": 0.0941927433013916,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate you understanding my doubts, Luna. I do feel a bit skeptical about mindfulness, but I'm willing to try it. It's just that I often feel so overwhelmed, and I'm not sure if something as simple as focusing on my breath will really make a difference. Maybe we can start with that and see how it goes?",
-    "therapist": "I’m glad you’re willing to give it a try, and I completely understand your concerns. Let’s start with a simple breathing exercise together, and we can take it one step at a time. When you feel ready, try focusing on your breath for a few moments. Notice the air coming in and out, and if your mind wanders, gently bring it back to your breath. How does that feel? We can also explore other techniques if this doesn’t feel like the right fit for you.",
+    "client": "I like the idea of writing down the lessons and sharing stories, but it feels a bit daunting to start. Maybe I could just write down one or two things today and see how it goes. It's hard to know where to begin, but I think it could be a good first step.",
+    "therapist": "That's a great place to start, and taking it one step at a time is perfectly okay. Writing down just one or two things can be a gentle way to begin and can help you ease into the process. What are the first one or two lessons or memories that come to mind when you think about your grandfather?",
     "condition": "baseline",
-    "val_t": 0.09405219554901123,
-    "aro_t": 0.13281095027923584,
+    "val_t": 0.13787972927093506,
+    "aro_t": 0.09684932231903076,
     "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate you taking it step by step. I'll try the breathing exercise, but I'm a bit skeptical about how much it will help with my anxiety. It's hard to quiet my mind, and I often end up feeling even more frustrated when I can't focus.",
-    "therapist": "I understand that it can be frustrating when you try to quiet your mind and it doesn’t work as you hope. Let’s start with a very gentle approach. When you focus on your breath, try not to force anything. Just notice the sensation of the breath as it comes in and goes out, and if your mind wanders, that’s okay—just gently acknowledge it and bring your focus back. How does it feel to take it this gently, without any pressure? We can also explore other techniques that might help you manage those moments of frustration. What do you think about that?",
+    "client": "When I think about my grandfather, one of the first things that comes to mind is his unwavering optimism. He always found the good in every situation, even when things were tough. Another memory is the way he would sit with me and teach me about gardening, showing me how to plant seeds and care for the plants. It feels like a small but meaningful way to start.",
+    "therapist": "Those are such beautiful and meaningful memories. His optimism and the time he spent teaching you about gardening really highlight the positive impact he had on your life. Starting with these memories is a wonderful way to honor him and to carry forward the lessons he taught you. How do you think you can incorporate these lessons into your daily life, perhaps by finding small moments of optimism or by continuing to nurture plants?",
     "condition": "baseline",
-    "val_t": -0.07908499240875244,
-    "aro_t": 0.1629164218902588,
-    "text_emotion": "Angry"
+    "val_t": 0.1891695261001587,
+    "aro_t": 0.017243504524230957,
+    "text_emotion": "Happy"
   },
   {
     "turn": 8,
-    "client": "I appreciate the gentle approach, but I still find it hard to just let my thoughts wander without getting frustrated. It feels like I’m failing every time I can’t keep my mind still. I’ll try it, but I’m not sure it will make a difference for me.",
-    "therapist": "I hear you, and it’s completely normal to feel frustrated when your mind wanders. The key is to be kind to yourself and recognize that it’s part of the process. Each time you bring your focus back to your breath, you’re practicing self-compassion and building resilience. How about we also try a different approach, like focusing on a specific object or sound in your environment, to see if that feels less frustrating? What do you think about giving that a try?",
+    "client": "I really like the idea of finding small moments of optimism. Maybe I can start by noticing one good thing each day and writing it down. As for gardening, I do have a small plant at home, and I can take better care of it. It feels like a manageable way to start, but I still worry that it won't be enough to ease the guilt.",
+    "therapist": "That's a really thoughtful and manageable plan, and I think it's a great way to start. Noticing one good thing each day and taking care of your plant can be powerful ways to cultivate optimism and connection. It's okay to have worries about whether it will be enough to ease the guilt; change often takes time, and it's a process. How do you think you can be kind to yourself as you embark on this journey, and what might be some small ways to acknowledge your efforts each day?",
     "condition": "baseline",
-    "val_t": -0.07390129566192627,
-    "aro_t": 0.09337902069091797,
+    "val_t": 0.04784274101257324,
+    "aro_t": 0.06942343711853027,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It does feel less frustrating when I think about it that way. But I'm not sure if focusing on an object or sound will be any different. I tend to get distracted really easily, and I worry it might just make me feel even more frustrated if I can't stick with it.",
-    "therapist": "I understand your concerns, and it’s okay to feel uncertain. Focusing on an object or sound can be a gentle way to anchor your attention without putting too much pressure on yourself. If you find it still feels too challenging, we can try a different technique, like progressive muscle relaxation or a short guided meditation. What do you think about trying one of these alternatives, or is there another way you’d like to explore managing those moments of distraction?",
+    "client": "I think being kind to myself might mean giving myself permission to feel the sadness and guilt without judging myself for it. Acknowledging my efforts each day could be as simple as writing a note to myself about what I did, even if it's just taking care of the plant or noticing something good. It feels doable, but I still worry about slipping back into those negative thoughts.",
+    "therapist": "That's a really compassionate and realistic approach, and giving yourself permission to feel your emotions without judgment is a powerful step. Writing notes to yourself can be a great way to acknowledge your efforts and build a sense of accomplishment. It's normal to have worries about slipping back into negative thoughts, and it's okay to have those moments. What do you think might help you stay mindful of your progress and keep those positive steps going, even when you face challenges?",
     "condition": "baseline",
-    "val_t": -0.1397005319595337,
-    "aro_t": 0.1166754961013794,
-    "text_emotion": "Angry"
+    "val_t": -0.15063297748565674,
+    "aro_t": 0.014360904693603516,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate your understanding, Luna. I think the idea of trying progressive muscle relaxation sounds doable, but I'm still a bit skeptical about whether it will really help me stay focused and calm. It's hard because I often feel like my mind just won't settle down, no matter what I try.",
-    "therapist": "I completely understand your skepticism, and it’s okay to feel uncertain about new techniques. Progressive muscle relaxation can be a gentle way to help your body and mind relax, even if your mind feels unsettled. Let’s try a short session together, and we can go at your own pace. You can start by finding a comfortable position, and we’ll focus on tensing and relaxing different muscle groups. How does that sound to you? If it doesn’t feel right, we can always explore other options.",
+    "client": "I think having a routine for reflecting on my progress, maybe setting aside a few minutes each evening to write down my thoughts and what I've accomplished, could help. It's still a bit daunting to think about staying consistent, but I feel like it could make a difference. I just need to be patient with myself and not expect perfection.",
+    "therapist": "That's a wonderful plan, and setting aside time each evening to reflect on your thoughts and accomplishments is a great way to build consistency and mindfulness. It's completely normal to find it daunting, and being patient with yourself is key. What might help you stay motivated and gentle with yourself as you start this new routine?",
     "condition": "baseline",
-    "val_t": -0.023695826530456543,
-    "aro_t": 0.08310806751251221,
-    "text_emotion": "Neutral"
+    "val_t": 0.12423932552337646,
+    "aro_t": 0.11988043785095215,
+    "text_emotion": "Excited"
   }
 ]

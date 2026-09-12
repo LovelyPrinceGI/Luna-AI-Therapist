@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately, I've been really struggling to enjoy social gatherings with my friends since my brother passed away in that car accident. It feels like there's this heavy weight on me, and I just can’t shake off the sadness, no matter how much I try to be present. Sometimes, I even question whether therapy can really help me deal with this loss and the loneliness that follows.",
-    "therapist": "I’m really sorry to hear about your brother’s passing; that’s an incredibly heavy burden to carry. It’s completely understandable to feel overwhelmed and question your ability to enjoy social gatherings while you're grieving. How have you been coping with those feelings when you're with your friends?",
+    "client": "I've been really struggling since I lost my brother in that accident six months ago. Social gatherings feel so empty now, and I just can't seem to find any joy in being around friends. I'm honestly not sure if talking about it in therapy will help, but I feel like I need to try something.",
+    "therapist": "I'm truly sorry to hear about your loss; that must be incredibly heavy to carry. It's understandable to feel disconnected from social gatherings when you're grieving, and it’s brave of you to consider exploring this in therapy. What do you think might help you find a bit of connection or comfort in those moments, even if it's just a small step?",
     "condition": "baseline",
-    "val_t": -0.4750882387161255,
-    "aro_t": 0.07365942001342773,
-    "text_emotion": "Sad"
+    "val_t": -0.2705526351928711,
+    "aro_t": 0.16674113273620605,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I’ve been struggling a lot with this. When I’m around my friends, I feel this heavy weight on my chest, and it's hard to engage or truly enjoy myself. I often feel guilty for laughing or having fun when my brother’s not here anymore, like I’m betraying his memory or something.",
-    "therapist": "It’s very understandable to feel that weight and guilt; those are common feelings when we lose someone we love. Remember, it’s okay to experience joy and laughter, even while grieving—those moments don’t diminish your brother's memory. What are some small ways you might allow yourself to feel both the sadness and the joy in those social situations?",
+    "client": "I honestly don't know what could help right now. I feel so overwhelmed by sadness that even the thought of trying to connect with someone feels exhausting. It makes me feel guilty, like I shouldn't be enjoying anything at all when my brother's not here.",
+    "therapist": "It’s completely natural to feel overwhelmed and guilty in your grief; these emotions can be incredibly powerful and confusing. It’s okay to allow yourself to feel sadness without the expectation of enjoying things right away. What if we explored ways to honor your brother’s memory while also considering small moments of connection or joy that feel manageable for you?",
     "condition": "baseline",
-    "val_t": -0.31600868701934814,
-    "aro_t": 0.12902295589447021,
-    "text_emotion": "Sad"
+    "val_t": -0.4332602024078369,
+    "aro_t": 0.20695805549621582,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying that it’s okay to feel joy while grieving, but it feels really complicated for me. I often worry that if I start laughing or having fun, it means I'm forgetting my brother or not honoring his memory properly. I guess I'm just not sure how to balance those feelings when I'm out with friends.",
-    "therapist": "It makes sense that you feel conflicted about balancing joy and grief; that complexity is a natural part of the healing process. Honoring your brother’s memory can take many forms, and allowing yourself to experience happiness doesn’t diminish the love you hold for him. What might it look like for you to create a personal way to honor him while still engaging in moments of joy with your friends?",
+    "client": "I appreciate that perspective, but it feels daunting to even think about small moments of joy right now. Honoring my brother feels like a heavy task, like I have to get it just right. What if I try to do something in his memory and it only makes me feel worse?",
+    "therapist": "It's understandable to feel that pressure to get it \"just right,\" especially when it comes to honoring someone you loved so deeply. Remember, there’s no right or wrong way to grieve, and it's okay if the process feels heavy. What if you allowed yourself to consider honoring your brother in a way that feels simple and gentle, without the expectation of it being perfect? How does that feel to think about?",
     "condition": "baseline",
-    "val_t": 0.02039194107055664,
-    "aro_t": 0.13804841041564941,
-    "text_emotion": "Neutral"
+    "val_t": -0.16741788387298584,
+    "aro_t": 0.20602166652679443,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I feel a mix of sadness and frustration right now. It's hard to think about honoring my brother while also trying to enjoy life with my friends. I worry that if I let myself be happy, it somehow means I’m forgetting him or that I’m not grieving enough. It just feels like a constant tug-of-war in my heart.",
-    "therapist": "It’s completely valid to feel that tug-of-war in your heart; navigating grief is often filled with conflicting emotions. It’s important to recognize that feeling happy doesn’t mean you’re forgetting your brother; rather, it can be a way of honoring the love and joy he brought into your life. How might you allow yourself to hold both the sadness and the happiness together, perhaps even reflecting on a memory of your brother while enjoying time with friends?",
+    "client": "Thinking about it that way does take a bit of the pressure off, but I still feel hesitant. What does a \"simple and gentle\" way even look like? It feels like I have to come up with something meaningful, but I worry that whatever I choose won’t really capture who he was or how much I miss him.",
+    "therapist": "It’s completely normal to feel hesitant and uncertain about how to express your feelings for your brother; grief can make even small tasks feel monumental. A \"simple and gentle\" way could be as straightforward as lighting a candle for him, sharing a favorite memory with someone who knew him, or even writing a letter to express your feelings. What do you think about trying one of those ideas, or perhaps something else that feels right to you, without the pressure of it having to be perfect?",
     "condition": "baseline",
-    "val_t": -0.3588688373565674,
-    "aro_t": 0.14732730388641357,
-    "text_emotion": "Sad"
+    "val_t": -0.10350751876831055,
+    "aro_t": 0.09118497371673584,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about holding both sadness and happiness, but it feels really hard to do that. When I'm with friends and trying to enjoy myself, I often feel this guilt creeping in, like I'm betraying my brother's memory. I worry that if I let myself feel happy, it means I'm moving on too quickly or forgetting him, and that just feels wrong.",
-    "therapist": "It’s understandable to feel that guilt when you're trying to enjoy yourself; it shows how deeply you care about your brother's memory. Grief can often make it hard to see that embracing joy doesn’t mean you’re forgetting him—it’s a way to celebrate the life he lived. What if you considered creating a small ritual or remembrance during your time with friends that honors him, allowing you to feel connected while still being present in the moment?",
+    "client": "I appreciate the suggestions, but I still feel a lot of resistance. Lighting a candle or writing a letter feels really intimate, and I'm not sure I can handle that right now. What if I open up those feelings and it just makes everything feel worse instead of helping?",
+    "therapist": "It’s completely valid to feel resistance, especially when considering intimate acts of remembrance during such a difficult time. It’s important to honor where you are right now, and it’s okay to take a step back if those suggestions feel too overwhelming. What if we explored other ways to acknowledge your brother's memory that feel less intimate, perhaps something more public or casual, like sharing a funny story about him with a friend? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.2825586795806885,
-    "aro_t": 0.088539719581604,
-    "text_emotion": "Sad"
+    "val_t": -0.1126633882522583,
+    "aro_t": 0.14248430728912354,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate your perspective, but I still feel really conflicted about the idea of creating a ritual. It feels like it would just remind me of my brother and make it harder to enjoy my time with friends. I worry that if I focus on remembering him, it might overshadow the moments that I'm trying to have fun in.",
-    "therapist": "It’s completely understandable to feel conflicted about creating a ritual, especially if it feels like it could overshadow your time with friends. It’s okay to prioritize your enjoyment and let those moments unfold naturally without pressure. What if you approached it in a more flexible way, perhaps allowing yourself to remember your brother in your thoughts without it being a structured ritual? How might that feel for you?",
+    "client": "Sharing a funny story feels a bit easier to consider, but I still feel nervous about it. What if the memory makes me too emotional, or what if my friends don’t react the way I hope they will? I guess part of me worries that bringing him up might just remind everyone of the loss instead of celebrating his life.",
+    "therapist": "It's understandable to feel nervous about sharing a memory, especially when you're concerned about how it might affect both you and your friends. Remember that sharing a story can be a way to celebrate his life, and it's natural for emotions to come up—those feelings are a part of the love you have for him. What if you approached it as a casual sharing, allowing yourself to be open to whatever responses come, knowing that your friends likely want to support you? How would that feel for you?",
     "condition": "baseline",
-    "val_t": -0.08499288558959961,
-    "aro_t": 0.13682019710540771,
+    "val_t": -0.15518522262573242,
+    "aro_t": 0.17929255962371826,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying about keeping it flexible, but I worry that if I don’t have some sort of ritual, I might forget him or not honor his memory properly. It feels like a lot of pressure to just let it be spontaneous. I guess I just feel anxious that I might not do it “right” or that I’ll miss the chance to truly remember him when I'm with friends.",
-    "therapist": "It’s completely normal to feel anxious about honoring your brother's memory, and that pressure can make it challenging to find a way that feels right for you. It’s important to remember that there’s no single “correct” way to remember someone; it’s about what feels meaningful to you. How might you explore some gentle, informal ways to honor him that don’t feel overwhelming, allowing space for spontaneity and joy?",
+    "client": "I get that sharing can be a way to celebrate him, but I still feel a bit stuck. What if I end up getting too emotional, or what if my friends don’t know how to respond? It’s hard to imagine it being a casual thing when my feelings are so intense right now.",
+    "therapist": "It makes perfect sense to feel stuck when emotions run so deep; it’s a lot to navigate. Remember, it’s okay to express that you're feeling vulnerable or unsure; your friends may appreciate your honesty and want to support you in that moment. What if you allowed yourself to share just a little bit, while letting them know you might get emotional? How does that feel as a potential approach?",
     "condition": "baseline",
-    "val_t": -0.15385591983795166,
-    "aro_t": 0.12543392181396484,
+    "val_t": -0.17861080169677734,
+    "aro_t": 0.17338871955871582,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate what you’re saying, but I just don’t know where to start. It feels like there’s so much pressure to get it right, and I worry that whatever I come up with won't honor him the way he deserves. Plus, it feels overwhelming to even think about doing something that could bring back those memories.",
-    "therapist": "It’s completely understandable to feel overwhelmed by the pressure to get it right; honoring someone’s memory can feel like a heavy responsibility. It might help to remember that even small, simple gestures can be meaningful, and there’s no need for it to be perfect. What if you started with just one small idea that feels manageable, perhaps something you can do quietly or in your own time, without the pressure of a grand gesture? How does that sound to you?",
+    "client": "I see what you're saying, and that kind of approach does sound a little less daunting. I like the idea of being honest about my feelings, but I'm still worried that I might not be able to keep it together if I start talking about him. What if I end up breaking down and it becomes an awkward moment for everyone?",
+    "therapist": "It's completely understandable to worry about losing your composure when discussing such a significant loss; those feelings are powerful and real. It’s okay to feel emotional, and sometimes those moments can lead to deeper connections with others. What if you thought about having a few grounding techniques ready, like taking a deep breath or pausing for a moment, to help you stay present? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.1478952169418335,
-    "aro_t": 0.28205859661102295,
+    "val_t": -0.13923656940460205,
+    "aro_t": 0.13915061950683594,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that perspective, but I still feel like anything I do won't really honor their memory properly. It feels like there's so much pressure to get it right, and I'm not sure a small gesture would be enough. I worry that if I don't do something big, it might come off as insincere or forgetful.",
-    "therapist": "I hear you; it’s understandable to feel that anything less than a grand gesture won’t be enough to honor your brother's memory. It’s important to remember that what matters most is the love and intention behind your actions, not the scale of them. What if you allowed yourself to explore the idea that honoring him can be a personal, evolving process rather than a single moment or act? How might that shift in perspective feel for you?",
+    "client": "I appreciate that suggestion; having some grounding techniques sounds helpful in theory. But I'm still worried that in the moment, I might forget to use them, or they just won’t work for me. It feels like there’s so much pressure to handle my emotions the right way, and I’m not sure I can do that.",
+    "therapist": "It’s completely natural to feel that pressure, especially when emotions are running high; it can make it feel even more daunting to manage them. Remember, it's okay not to have everything figured out, and sometimes just acknowledging your feelings in the moment is enough. What if you allowed yourself to focus on being present rather than trying to control how you feel? How does that resonate with you?",
     "condition": "baseline",
-    "val_t": -0.19354355335235596,
-    "aro_t": 0.07344293594360352,
-    "text_emotion": "Sad"
+    "val_t": -0.10445296764373779,
+    "aro_t": 0.19640862941741943,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I see what you're saying, but it just feels so overwhelming to think about it that way. I want to do something really special to honor my brother, but I worry that if it's not big enough, it won't mean anything. The idea of it being a personal process feels a bit like an excuse to not do anything significant, and that makes me feel guilty.",
-    "therapist": "It’s completely valid to feel overwhelmed and to want to create something special to honor your brother; that desire shows how much he meant to you. It’s understandable to worry about the significance of your gestures, but sometimes, the most heartfelt honors can come from the simplest acts. What if you considered starting with a small, meaningful action that feels authentic to you, allowing it to grow naturally over time? How might that help ease some of the pressure you’re feeling?",
+    "client": "Focusing on being present instead of trying to control my feelings does sound a bit freeing, but it also feels a little scary. What if I can't handle the feelings when they come up, or what if it just turns into a big emotional moment that I can't manage? I guess I just want to avoid making things uncomfortable for myself or my friends.",
+    "therapist": "It’s completely understandable to feel scared about being present with your emotions, especially when you’re concerned about how they might impact you and those around you. It’s important to remember that it’s okay to have moments of vulnerability; those can often lead to genuine connection and understanding. What if you considered giving yourself permission to feel those emotions without judgment, knowing that it’s a normal part of the grieving process? How does that idea sit with you?",
     "condition": "baseline",
-    "val_t": -0.2259136438369751,
-    "aro_t": 0.11661791801452637,
+    "val_t": -0.12064385414123535,
+    "aro_t": 0.1774451732635498,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I lost my job unexpectedly last month, and now I can't stop worrying about how we're going to pay our bills. My wife keeps telling me we'll figure it out, but I feel like a failure for not being able to provide for my family right now. To be honest, I'm not sure how just talking about this will help when what we really need is money coming in.",
-    "therapist": "I hear how deeply this job loss is affecting you, and how much pressure you're feeling to provide for your family. It makes sense that you'd have these worries—this is a really tough situation. What thoughts go through your mind when your wife reassures you that you'll figure it out?",
+    "client": "I just keep waking up every morning with this tightness in my chest thinking about bills piling up. My wife tries to be supportive, but I see the worry in her eyes when we talk about money, and that just makes me feel like more of a failure. Sometimes I wonder if talking about it will actually change anything when the bank account is still empty.",
+    "therapist": "It sounds like this financial stress is weighing heavily on you, especially when you see the impact it has on your wife and your sense of responsibility. Have you noticed any thoughts that come up when you wake up with that tightness in your chest—maybe ones that reinforce the feeling of being stuck?",
     "condition": "emotion_text_only",
-    "val_t": -0.2694898843765259,
-    "aro_t": 0.1876528263092041,
+    "val_t": -0.32073771953582764,
+    "aro_t": 0.16520440578460693,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When my wife says we'll figure it out, part of me feels guilty because I should be the one solving this. The other part gets frustrated because her optimism feels unrealistic—we have bills due next month and no backup plan. I know she means well, but it just makes me feel more alone in this.",
-    "therapist": "It sounds like you're caught between appreciating your wife's support and feeling the heavy weight of responsibility alone. That frustration and isolation must feel overwhelming when the financial pressures feel so immediate. What would it look like if you allowed yourself to share some of this burden with your wife, even just the emotional part?",
+    "client": "Yeah, the first thing that usually pops into my head is, \"I’ll never get ahead,\" or \"I’m not doing enough.\" It’s like a loop that keeps playing, and it makes me feel hopeless. I try to push those thoughts away, but they just come back stronger, especially when I see the bills on the counter. I don’t know how to break out of it.",
+    "therapist": "That loop of \"I’ll never get ahead\" sounds exhausting, and I can hear how those thoughts amplify the hopelessness—especially when they feel inescapable. What do you think would happen if, instead of pushing those thoughts away, you paused and asked yourself, *\"Is this really true, or is it just how I feel right now?\"*",
     "condition": "emotion_text_only",
-    "val_t": -0.2753143310546875,
-    "aro_t": 0.09184765815734863,
-    "text_emotion": "Sad"
+    "val_t": -0.2715609073638916,
+    "aro_t": 0.1394127607345581,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I know I should open up to her more, but I keep thinking she'll just worry or feel like I'm failing as a provider. Last time I mentioned being stressed about bills, she immediately offered to get a second job, and that just made me feel worse - like I'm not handling my responsibilities. It's easier to just say everything's fine than to admit how much this is crushing me.",
-    "therapist": "It sounds like you're carrying this pain silently to protect both yourself and your wife, which must feel incredibly lonely. That fear of being seen as \"failing\" is so heavy—yet by shutting her out, you might be denying yourself the very support that could lighten this burden. What do you imagine might happen if you shared just one small piece of this struggle with her, without trying to solve it immediately?",
+    "client": "I guess I could try that, but it’s hard to even pause when I’m already so overwhelmed. It feels like those thoughts are facts, not just feelings—like, the bills *are* piling up, so isn’t it true that I’m not getting ahead? I don’t know how to separate the two. It just feels like reality is confirming my worst fears.",
+    "therapist": "It makes complete sense that these thoughts feel like undeniable facts when the financial strain is so visible and real. But let me ask you this: When you say you’re not getting ahead, what small signs of effort or progress might you be overlooking because the worry feels so loud?",
     "condition": "emotion_text_only",
-    "val_t": -0.3866528272628784,
-    "aro_t": 0.16950106620788574,
+    "val_t": -0.269384503364563,
+    "aro_t": 0.17632818222045898,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know... Every time I think about opening up, I get this tightness in my chest. What if she looks at me differently afterwards? I've worked so hard to be the stable one in our marriage. \n\nIt just feels safer to keep handling things myself, even if it's lonely. At least then I'm in control of how much she worries.",
-    "therapist": "That tightness in your chest tells me how scary it feels to risk being vulnerable after being the stable rock for so long. You've built this identity as the strong one, and the thought of changing that seems to shake something fundamental. \n\nWhat would it mean about you if you *did* let her see you struggle—would that necessarily make you less stable, or could it show a different kind of strength?",
+    "client": "Hmm, I guess I haven’t really thought about it like that. I mean, I’ve been cutting back on expenses and looking for side gigs, but it feels like it’s not enough to make a real difference. It’s hard to see those as progress when the bigger picture still feels so overwhelming. I don’t know if focusing on small efforts will actually help me feel less stuck.",
+    "therapist": "It sounds like you’re making practical efforts, but the weight of the bigger picture is making it hard to recognize their value—which is completely understandable when things feel so heavy. What would it feel like to acknowledge those small steps, even if just for a moment, as a way of shifting focus from what’s not working to what you *are* doing?",
     "condition": "emotion_text_only",
-    "val_t": -0.1727198362350464,
-    "aro_t": 0.13694429397583008,
-    "text_emotion": "Angry"
+    "val_t": -0.1762751340866089,
+    "aro_t": 0.04232299327850342,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I've always been the person everyone leans on—my family, my friends. The idea of showing weakness makes me feel like I'm letting them down somehow. But at the same time, I'm so tired of carrying everything alone. \n\nI guess part of me worries that if I start opening up, people will stop seeing me as reliable. Like the moment I show any cracks, the whole image will shatter. But I don't know if that's true or just my anxiety talking.",
-    "therapist": "You're describing such a painful dilemma—the exhaustion of always being strong for others while fearing that showing any vulnerability might change how they see you. That \"image\" you've built feels both protective and heavy at the same time. \n\nWhen you imagine those cracks appearing, what's the worst part your anxiety tells you would happen if someone saw them?",
+    "client": "I don't know... when I try to focus on small steps, part of me just thinks \"What's the point?\" It's like my brain immediately jumps to \"But we're still behind on rent.\" Maybe that's the anxiety talking, but it's hard to feel good about cutting back on coffee when the electric bill is overdue.",
+    "therapist": "It sounds like that \"what's the point?\" thought is really loud right now, making it hard to hold onto any sense of progress when the bigger pressures feel so urgent. When that thought comes up, could we try something simple—like noticing it as just one possible perspective, rather than the whole truth? What happens if you say to yourself, *\"I’m having the thought that this isn’t enough,\"* instead of *\"This isn’t enough\"*?",
     "condition": "emotion_text_only",
-    "val_t": -0.27903568744659424,
-    "aro_t": 0.1371520757675171,
+    "val_t": -0.1975764036178589,
+    "aro_t": 0.1085439920425415,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "The worst part is that they'd realize I'm not as put together as I seem, and then they'd stop respecting me. I've seen how people treat others who show weakness—they either pity them or walk away. I can't stand the thought of either reaction. \n\nIt's like this image is all I have to keep people from seeing how messed up I really am inside. If that cracks, what's left?",
-    "therapist": "That fear of being truly seen—and rejected—cuts so deep, doesn't it? You've built this protective shell of strength, yet it sounds like part of you longs to be known fully, even in your struggles. \n\nWhat if people's respect could coexist with your humanity? Have you ever noticed moments when someone else's vulnerability actually made you respect them more?",
+    "client": "That actually makes sense... but it feels kind of artificial to talk to myself that way. Like I'd just be pretending the problem isn't as bad as it is. I get what you're saying about separating the thought from reality, but when the overdue bills are right there in front of me, doesn't that make it more than just a thought?",
+    "therapist": "I hear how real the struggle feels—those bills *are* right there, and no amount of reframing changes that immediate pressure. What if we think of this not as pretending the problem away, but as creating a tiny bit of space so you can face it without being completely overwhelmed by the thoughts? How does that idea land for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.348361611366272,
-    "aro_t": 0.16180145740509033,
-    "text_emotion": "Angry"
+    "val_t": -0.05648505687713623,
+    "aro_t": 0.10204613208770752,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but it's different when it's me. When other people are vulnerable, they seem to handle it better - like they don't completely fall apart. But if I show my weaknesses, I'm afraid people will realize I'm not as strong as I pretend to be. \n\nThere was this one time at work when I almost cried during a stressful meeting, and I still feel sick thinking about it. I barely held it together, and now I'm terrified it might happen again.",
-    "therapist": "That moment in the meeting sounds like it really shook you—like it confirmed your deepest fear about losing control. But I wonder if what you're remembering as \"barely holding it together\" might have actually been incredible strength in that moment? \n\nWhat makes you so certain others would judge you for that vulnerability the way you're judging yourself?",
+    "client": "I guess I can see how creating some space might help... but it’s hard to imagine how that would actually work when the pressure feels so constant. Like, even if I try to separate the thought from the reality, the reality is still there, staring me in the face. I don’t know if I can really detach from it enough to feel any relief.",
+    "therapist": "It sounds like you're in that painful middle ground where you understand the idea of creating space intellectually, but the emotional weight of the situation makes it feel almost impossible to put into practice right now. What if we tried something concrete—like setting aside just 5 minutes to notice and name the thoughts without arguing with them, before tackling the bills? How does that small step feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.39252936840057373,
-    "aro_t": 0.22026574611663818,
-    "text_emotion": "Angry"
+    "val_t": -0.04820740222930908,
+    "aro_t": 0.054631590843200684,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I don't know...it's hard to see it as strength when all I remember is my hands shaking and my voice cracking. And people definitely noticed—I saw a few coworkers exchange looks. \n\nThe thing is, I've seen how people talk about others who show weakness at work. I don't want to be that person everyone pities or thinks can't handle pressure.",
-    "therapist": "It sounds like that experience left you feeling exposed and judged—like your colleagues saw something you never wanted them to see. That fear of being \"that person\" at work must add so much pressure to keep everything tightly controlled. \n\nI'm curious—when you've seen others show vulnerability at work, what made the difference between those who were pitied and those who were still respected?",
+    "client": "Five minutes seems manageable, but I'm worried I'll just spend that time feeling even more anxious about wasting time I could be using to deal with the actual bills. It's like my brain keeps telling me \"This is pointless when there are real problems to solve.\" Maybe I'm just not good at this kind of thing.",
+    "therapist": "It makes sense that even a small pause feels counterintuitive when every fiber of you is screaming to \"solve the problem now.\" That urgency itself is part of what’s keeping you stuck in the cycle. What if we framed those 5 minutes not as *avoiding* the bills, but as strengthening yourself to face them with a clearer head? Could there be even a tiny curiosity about how that might feel different?",
     "condition": "emotion_text_only",
-    "val_t": -0.2925952672958374,
-    "aro_t": 0.17844831943511963,
-    "text_emotion": "Angry"
+    "val_t": -0.3382068872451782,
+    "aro_t": 0.0980520248413086,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "Hmm, I never really thought about it that way before. When I've seen coworkers struggle, I guess the ones who still seemed professional and pulled themselves together quickly got more respect. But I don't know if I could do that—when I feel exposed, I just want to disappear completely. \n\nThe idea of trying to show vulnerability \"the right way\" just makes me more anxious. What if I can't control it perfectly like those other people?",
-    "therapist": "You're noticing how much pressure exists in just \"doing vulnerability right\"—like there's a perfect performance even for being human. That need to control every reaction must feel exhausting when emotions naturally want to spill out sometimes. \n\nWhat would it be like to consider that those coworkers you respect might also have moments where they feel just as exposed as you did, even if it's not visible?",
+    "client": "I guess I can see how taking a moment might help me approach things more calmly... but it still feels like I’m just delaying the inevitable. Like, the bills aren’t going to disappear because I took 5 minutes to breathe. It’s hard to trust that it’ll make any real difference when the pressure feels so immediate.",
+    "therapist": "It sounds like part of you recognizes the potential value in pausing, while another part is understandably skeptical—because you’re right, the bills won’t vanish in those 5 minutes. But I wonder if we could test this together: What’s one small, practical task related to the bills that might feel slightly more manageable if you approached it *after* giving yourself that brief pause?",
     "condition": "emotion_text_only",
-    "val_t": -0.30265533924102783,
-    "aro_t": 0.23175597190856934,
+    "val_t": -0.1681053638458252,
+    "aro_t": 0.1691805124282837,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it's hard to imagine my coworkers feeling that way. They all seem so put together and confident in meetings. When I stumble over my words or get nervous, I can literally see some of them exchanging glances - that's what makes me feel so exposed. \n\nThe idea that they might feel vulnerable too... I guess it's possible, but it doesn't change how judged I feel in those moments. I still walk away replaying every awkward pause in my head for days.",
-    "therapist": "It sounds like those judgmental glances cut deep, making it hard to believe others might struggle too—even when you intellectually know they might. That replaying of every awkward moment shows how much these interactions stick with you. \n\nWhen you notice yourself dwelling on those pauses later, what's the story you tell yourself about what those coworkers must be thinking?",
+    "client": "I guess I could try opening the mail after taking a pause—I usually avoid it because it just makes me feel worse. But I’m not sure if taking a moment will really make it easier to face. It feels like the anxiety will just be waiting for me, no matter what I do beforehand.",
+    "therapist": "It sounds like you're bracing yourself for that wave of anxiety to hit no matter what, which makes it hard to believe a brief pause could help. But what if we thought of this as an experiment—not to make the anxiety disappear, but to notice if even a small shift in how you approach the task changes how it feels to open that first envelope? Would you be willing to observe what happens, without expecting it to \"fix\" everything?",
     "condition": "emotion_text_only",
-    "val_t": -0.1639857292175293,
-    "aro_t": 0.14390230178833008,
+    "val_t": -0.24154388904571533,
+    "aro_t": 0.14299547672271729,
     "text_emotion": "Angry"
   }
 ]

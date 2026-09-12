@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I started this new job at the marketing agency about six weeks ago. Everyone else on my team seems to know exactly what they're doing, and I'm the only one without any real prior experience in marketing, so I constantly feel like I'm falling behind. Honestly, I'm not even sure talking about it is going to change anything, but I figured I had to try something because the stress is getting pretty unbearable.",
-    "therapist": "It takes real courage to reach out even when you're not sure it will help, and I'm really glad you did. What you're describing — feeling like everyone else has it together while you're the only one struggling — is such a common and painful experience, especially when you're new to a field and still finding your footing. I'm curious: when you look at your colleagues and feel like they \"know exactly what they're doing,\" what specific things are you noticing that lead you to that conclusion?",
+    "client": "I've been really struggling since starting this new job at the marketing agency about two months ago. Everyone else on my team seems to know exactly what they're doing, and I'm the only one without any real experience in marketing, so I constantly feel like I'm one mistake away from being exposed as completely out of my depth. I'm not even sure talking about it is going to change anything, because the problem feels pretty concrete — I either know the stuff or I don't.",
+    "therapist": "It makes a lot of sense that you'd feel that way, especially when you're new and surrounded by people who seem confident and experienced — that kind of pressure is genuinely hard to sit with. I'm also noticing something interesting in what you said: you're describing this as a concrete, fixed reality (\"I either know it or I don't\"), but I wonder if that framing might actually be making the anxiety feel heavier than it needs to. Can you tell me about a specific moment at work where you felt most like you were \"out of your depth\" — what was happening, and what thoughts were running through your mind in that moment?",
     "condition": "baseline",
-    "val_t": -0.3007155656814575,
-    "aro_t": 0.10027956962585449,
-    "text_emotion": "Sad"
+    "val_t": -0.33451783657073975,
+    "aro_t": 0.17998278141021729,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, it's little things — like when someone asks a question in a meeting and my colleagues just answer confidently without hesitating, or they seem to already know the technical terms and processes without having to look anything up. I sit there and I have to think really hard before I say anything, and half the time I just stay quiet because I'm scared of saying something wrong. It makes me feel like there's some manual everyone else got that I somehow missed.",
-    "therapist": "That image of a \"missing manual\" really captures how isolated and behind you feel, and it makes complete sense that you'd feel that way in those moments. Here's something worth gently exploring though — your colleagues have likely been in this field for months or years, so their confidence in meetings may reflect experience rather than some innate ability you lack, and it's possible they had their own \"missing manual\" feeling when they were six weeks in. When you imagine a brand new colleague joining your team tomorrow with no marketing experience, would you expect them to already know all the technical terms and answer questions without hesitation?",
+    "client": "There was this team meeting last week where my manager asked everyone to weigh in on a campaign strategy, and when it got to me I basically just echoed what the person before me said because I had no idea what I actually thought. Afterwards I couldn't stop replaying it, thinking everyone must have noticed I was just parroting someone else and that it confirmed I don't belong there. I guess I hear what you're saying about the framing, but it's hard to see it as just a frame when that moment felt so real and embarrassing.",
+    "therapist": "That moment sounds genuinely uncomfortable, and it's completely understandable that it stuck with you — nobody likes feeling caught off guard in front of their team. I want to gently explore one thing though: you're quite certain that everyone noticed and drew the conclusion that you don't belong, but I'm curious what actual evidence you have for that interpretation versus it being a story your anxious mind constructed after the fact. What do you think someone on your team who *wasn't* feeling self-conscious in that moment might have noticed, if anything?",
     "condition": "baseline",
-    "val_t": -0.2212918996810913,
-    "aro_t": 0.13701283931732178,
+    "val_t": -0.1798245906829834,
+    "aro_t": 0.1607227325439453,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean... no, I wouldn't expect a brand new person to know everything right away, that's fair. But it still feels different when it's me sitting in that meeting, because everyone already knows I've been there six weeks and I feel like they're watching and judging whether I'm keeping up. It's like I can logically see what you're saying, but in the moment my brain just goes straight to \"you should know this by now.\"",
-    "therapist": "You've just identified something really important — there's a gap between what you *know* logically and what your brain automatically tells you in the moment, and that automatic thought \"you should know this by now\" is worth paying closer attention to. That kind of thought often feels like a fact, but it's worth asking: where did that \"six weeks = should know everything\" rule actually come from, and is there any real evidence your colleagues are actually watching and judging you, or might that be your anxious mind filling in the blanks? What do you think would happen if you did speak up in a meeting and got something slightly wrong?",
+    "client": "Honestly, I guess if I try to think about it from someone else's perspective, they probably just heard a comment that agreed with the previous one and moved on — it's not like anyone said anything to me afterwards or gave me a weird look. But that almost makes it worse in a way, because I can't tell if they genuinely didn't notice or if they're just being polite and the judgment is happening silently. I know that sounds paranoid, but the uncertainty feels harder to sit with than if someone had just called me out directly.",
+    "therapist": "That insight you just had — shifting perspectives and recognizing that people likely just moved on — is actually a really meaningful step, even if it doesn't feel like relief yet. What you're describing, where uncertainty feels more threatening than a clear negative outcome, is really common in anxiety; your mind is essentially working overtime to resolve a threat that may not even exist, which is exhausting. I'm wondering — if you genuinely *can't* know what others are silently thinking, what would it look like to make a decision about how to treat yourself in that uncertainty?",
     "condition": "baseline",
-    "val_t": -0.047885775566101074,
-    "aro_t": 0.16191935539245605,
-    "text_emotion": "Tense"
+    "val_t": -0.288641095161438,
+    "aro_t": 0.11988270282745361,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Honestly, that question about where the \"six weeks = should know everything\" rule came from kind of stopped me in my tracks, because I don't actually know where it comes from. It just feels like this unspoken standard I absorbed somewhere, maybe from watching other people seem so confident so quickly, or maybe just from always putting pressure on myself to be ahead. But if I imagine actually getting something wrong in a meeting, my stomach drops, because I picture everyone exchanging glances like \"why did they even hire her,\" and even if that's my anxious brain filling in blanks, it feels completely real in the moment.",
-    "therapist": "That gut-drop feeling is so real and valid, even as you're already showing real insight by recognizing it might be your anxious mind writing a story about those exchanged glances rather than what's actually happening. It's worth noticing that you've carried this pressure to \"be ahead\" for a long time — this job may have just given that old pattern a new stage to play out on. I'm wondering: in your six weeks there, has there been even one small moment where you contributed something, learned something, or got something right that you might be overlooking when your brain jumps straight to the worst-case picture?",
+    "client": "I think I understand what you're getting at — like, choosing to give myself the benefit of the doubt instead of assuming the worst. But it feels almost dishonest to do that, like I'd be lying to myself, because the doubt is still there and just deciding to be kinder to myself doesn't make the uncertainty go away. I'm not sure I know how to actually do that without it feeling forced or hollow.",
+    "therapist": "You're touching on something really important here — choosing a kinder interpretation isn't about pretending the doubt doesn't exist, it's more about recognizing that your mind has been automatically defaulting to the *worst* interpretation without much evidence, and gently asking whether that default is actually serving you. It's less like lying to yourself and more like refusing to let one unverified story have all the power. What might it feel like to hold both things at once — \"I'm uncertain how people saw that moment, *and* I don't have evidence it went as badly as I fear\"?",
     "condition": "baseline",
-    "val_t": -0.1578810214996338,
-    "aro_t": 0.21292924880981445,
+    "val_t": -0.19246768951416016,
+    "aro_t": 0.10875165462493896,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... yeah, last week my manager did ask me to explain a process to a new hire, which I guess means she trusted me to know it well enough to teach it. But honestly, my brain immediately went to \"she probably just couldn't be bothered to do it herself\" rather than taking it as a compliment. It's like even when something good happens, I find a way to make it not count.",
-    "therapist": "What you just noticed about yourself — that even positive evidence gets reinterpreted to keep the negative story intact — is actually a really significant insight, and it's a pattern CBT calls \"discounting the positives.\" Your manager had options; she chose *you* to teach that new hire, and that's a data point worth sitting with rather than explaining away. What do you think it would feel like, even just as an experiment, to let that moment count as genuine evidence that you *do* belong there?",
+    "client": "When you put it that way, holding both things at once, it does feel slightly less like I'm forcing something fake. But I think the hard part is that in the actual moment, when I'm sitting at my desk or in another meeting, I don't have the mental space to step back and reason through it like this — the anxious thought just hits and it feels completely true before I've even had a chance to question it. So I guess I'm wondering how you're supposed to actually apply this when everything happens so fast.",
+    "therapist": "What you're describing is one of the most common and frustrating things about anxiety — the thought arrives fast and feels like fact, long before your reasoning mind has a chance to catch up, and that's actually just how our brains are wired rather than a personal failing. One thing that can help is developing a kind of \"interrupt phrase\" you practice in calm moments like this one, something short like \"I notice I'm assuming the worst again,\" so that over time it becomes a quicker, more automatic response to the anxious thought rather than a lengthy reasoning process. Would you be open to experimenting with something small like that before your next meeting, just to see what it's like to have even a tiny pause between the thought and believing it completely?",
     "condition": "baseline",
-    "val_t": 0.03331303596496582,
-    "aro_t": 0.09376728534698486,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 6,
-    "client": "Honestly, when you put it that way, I can feel something shift a little — like, okay, maybe that does mean something. But then almost immediately there's this other voice that jumps in and says \"she probably just didn't have anyone else available,\" and I can't tell if that's realistic thinking or if that's exactly the pattern you're describing. It's uncomfortable to sit with the idea that I might actually belong there, because if I let myself believe that and then something goes wrong, I think it would hurt so much more than if I'd just kept my expectations low.",
-    "therapist": "You've just uncovered something really important underneath all of this — it's not just about doubting your competence, it's that keeping your expectations low feels like *protection* from getting hurt, which makes complete sense as a strategy even though it comes at a real cost. That voice finding alternative explanations isn't realistic thinking, it's your mind working hard to keep you safe from disappointment — but it's also keeping you from fully experiencing the moments where you're actually doing well. I'm curious: has protecting yourself with low expectations actually prevented the pain in the past, or has it just meant you carried the anxiety either way?",
-    "condition": "baseline",
-    "val_t": -0.24389231204986572,
-    "aro_t": 0.08686792850494385,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 7,
-    "client": "That question actually hit harder than I expected, because when I really think about it... no, it hasn't actually stopped the pain. I still felt awful when things went wrong at work, maybe even worse because I'd spent so much energy bracing for it beforehand. So I've basically been anxious the whole time AND still got hurt when it happened, which feels kind of pointless when you say it out loud like that.",
-    "therapist": "You just made a really powerful connection on your own — that the \"protection\" strategy has actually been costing you twice, once in all the anticipatory anxiety and again when difficult moments still land hard anyway. That kind of honest self-observation is genuinely hard to do, and it's exactly the kind of insight that can start to loosen the grip of these patterns over time. I'm wondering: now that you can see that the low-expectations strategy hasn't been keeping you safe, what might it feel like to experiment — just gently, just a little — with letting some of the good evidence in, like your manager choosing you last week?",
-    "condition": "baseline",
-    "val_t": -0.35032200813293457,
-    "aro_t": 0.2807220220565796,
+    "val_t": -0.1287384033203125,
+    "aro_t": 0.1683182716369629,
     "text_emotion": "Angry"
   },
   {
-    "turn": 8,
-    "client": "Honestly, when you put it that way, I can see the logic of it, but letting that good evidence in feels almost dangerous, like I'm setting myself up for a bigger fall if things go wrong later. When my manager chose me last week, my first instinct was to think there must have been no one better available, not that I actually deserved it. I guess I'm scared that if I start believing the good stuff, I'll just be more crushed when the bad stuff inevitably happens.",
-    "therapist": "That word \"inevitably\" is really worth pausing on — it suggests your mind has already decided that bad things *will* happen, which means you're essentially living under a threat that hasn't occurred yet, and that's an exhausting way to exist. What's interesting is that believing good evidence doesn't actually make you more fragile when hard things happen — in fact, a more balanced view of yourself might give you more resilience to weather those moments, not less. I'm curious: if a close friend came to you and said they were too scared to believe anything good about themselves in case it hurt more later, what would you want them to know?",
+    "turn": 6,
+    "client": "I'm willing to try it, but I'm a little skeptical that a phrase is going to feel like anything other than a hollow mantra in the middle of a stressful meeting — like, I can already imagine myself thinking it and then immediately going back to the anxious spiral anyway. I guess my worry is that it becomes just another thing I'm doing wrong if it doesn't work the way it's supposed to. Can it actually make a real difference, or is it more like a first small step toward something bigger?",
+    "therapist": "Your skepticism is actually really healthy here, and I want to be honest with you — it probably *will* feel hollow at first, and you might slide back into the spiral anyway, and that's completely okay because the goal isn't to stop the anxiety instantly but to gradually build a tiny gap between the thought and your reaction to it. It's also worth noticing what just happened in this conversation: you came in feeling like the problem was completely concrete and unchangeable, and you've already shifted your perspective several times in ways that felt at least a little real to you. So I'd gently reframe the experiment — instead of it being something you can do \"wrong,\" what if you just treated it as information-gathering, noticing what happens without judging whether you did it right?",
     "condition": "baseline",
-    "val_t": -0.31215929985046387,
-    "aro_t": 0.15196073055267334,
+    "val_t": -0.11123096942901611,
+    "aro_t": 0.148401141166687,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "That reframe actually helps a little — taking the pressure off doing it \"right\" makes it feel slightly more approachable, because my biggest fear was just adding another way to fail to the list. I think I can try treating it as an experiment rather than a test, even if part of me is still bracing for it not to work. It's a bit strange to notice that I have shifted a little during this conversation, because I came in pretty convinced nothing would move.",
+    "therapist": "That moment of self-awareness — noticing that something *did* shift even when you were convinced it wouldn't — is actually really valuable data about you, because it suggests that the stuck, unchangeable feeling isn't quite as fixed as it seems in your worst moments. It's okay that part of you is still bracing for it not to work; you don't have to be fully convinced for the experiment to be worth trying. What do you think it would mean about you if the experiment *did* help, even just a little?",
+    "condition": "baseline",
+    "val_t": -0.043805480003356934,
+    "aro_t": 0.09780323505401611,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think if it helped even a little, it would mean that maybe I'm not as stuck as I feel — that there's some part of me that can actually learn to handle this job even without having all the experience everyone else seems to have. But honestly, that's a slightly scary thought too, because if I'm capable of more than I think, then I lose the excuse of just being the inexperienced one who can't help feeling this way. I hadn't really thought about how part of me might be holding onto that story as a kind of protection.",
+    "therapist": "What you just noticed is genuinely profound — that the \"inexperienced one\" story, while painful, also offers a kind of shelter from the scarier possibility that you have more agency here than you've been allowing yourself to believe. That's not a flaw or something to judge yourself for; it's actually a very human way of managing uncertainty and self-protection. I'm curious — if you didn't have that story to hide behind, what do you think you'd have to face about yourself or your situation that feels so daunting?",
+    "condition": "baseline",
+    "val_t": -0.09762966632843018,
+    "aro_t": 0.12095856666564941,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and honestly, if a friend said that to me, I'd probably tell them they deserve to feel good about themselves without always waiting for the other shoe to drop. But it feels different when it's me, like the rules just don't apply the same way. I guess I don't fully trust that I'd actually be more resilient if I let myself believe good things, because what if believing them is exactly what makes the fall harder?",
-    "therapist": "The fact that you'd so readily offer your friend compassion and permission to feel good, but can't quite extend that same grace to yourself, tells us something important — somewhere along the way you learned that *you* specifically need to be held to a harsher standard, and that's worth exploring gently over time. On your fear that believing good things makes the fall harder — there's actually no evidence that's true, and in fact people who can acknowledge their strengths tend to have more solid ground to stand on when things get tough, not less. I'm wondering: where do you think you first learned that the kinder rules you'd apply to everyone else just didn't apply to you?",
+    "client": "I think what I'd have to face is the possibility that I might try my best and still not be good enough — that the inexperience isn't the only obstacle, and that even if I learn the skills, there might be something more fundamental about me that just isn't cut out for this. That feels a lot scarier than blaming it on being new, because being new is temporary but feeling fundamentally not enough is something I've carried around for a long time before this job. I didn't expect this conversation to go somewhere that deep, honestly.",
+    "therapist": "Thank you for trusting this conversation enough to go somewhere that deep, because what you've just named — that fear of being fundamentally not enough — sounds like it's been quietly underneath a lot of things for a long time, and it makes complete sense that a new, challenging job would bring it right to the surface. That core belief is something worth exploring carefully and gently, because it's likely shaping a lot of what you're experiencing at work in ways that go beyond just needing more marketing knowledge. I want to ask with real care — when you think back, where does that feeling of being \"fundamentally not enough\" feel like it started for you?",
     "condition": "baseline",
-    "val_t": -0.0641089677810669,
-    "aro_t": 0.14048707485198975,
+    "val_t": -0.17791736125946045,
+    "aro_t": 0.11472153663635254,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "That question kind of stops me in my tracks, honestly. I think... maybe it started with my mom, like she had really high expectations and whenever I did something well she'd immediately point out what could have been better, so I just internalized that voice. I never really thought about it as a \"rule\" I learned, it just feels like the truth about me, you know?",
-    "therapist": "What you just shared takes real courage, and it's such an important piece of the puzzle — that relentless inner critic isn't actually *the truth about you*, it's your mother's voice that you've carried so long it started to feel like your own. It makes complete sense that a child who was met with \"what could be better\" instead of \"I'm proud of you\" would grow up scanning for their own flaws before anyone else could find them, because that felt safer. I'm wondering: when you hear that inner critic telling you that you don't belong at your job or that the good things don't count, can you notice it now as that inherited voice rather than an objective truth about who you are?",
+    "client": "That's a question I wasn't prepared for, and I notice I want to deflect a little because it feels like opening something I've kept pretty tightly closed. If I'm honest, I think it goes back to being a kid and always feeling like my achievements were never quite enough to land solidly — like there was always a next bar to clear before I could feel okay about myself. I'm not sure I'm ready to dig all the way into that today, but I can feel that it's connected to what's happening at work in a way I haven't let myself see before.",
+    "therapist": "It takes real courage to even peek at something you've kept that tightly closed, and I want you to know there's no pressure to open it all at once — the fact that you can feel the connection between that old experience and what's happening now is itself a significant and meaningful thing to notice. That pattern you're describing, where there's always another bar to clear before you're allowed to feel okay, sounds like it's been a very lonely way to move through the world. Whenever you do feel ready to explore that more, I'll be here — but for today, how are you feeling right now, having named it even this much?",
     "condition": "baseline",
-    "val_t": -0.049851059913635254,
-    "aro_t": 0.14868605136871338,
-    "text_emotion": "Tense"
+    "val_t": 0.001809239387512207,
+    "aro_t": 0.09133517742156982,
+    "text_emotion": "Neutral"
   }
 ]

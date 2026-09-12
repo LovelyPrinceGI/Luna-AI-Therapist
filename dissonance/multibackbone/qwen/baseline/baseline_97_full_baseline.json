@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really anxious lately about my academic future. After failing that crucial exam last semester, I can't stop worrying about whether I'll be able to keep my scholarship. It feels like everything is riding on this, and I’m not sure if I can handle the pressure.",
-    "therapist": "Hi there, it sounds like you're carrying a lot of weight on your shoulders right now, and that must be really tough. It’s completely understandable to feel anxious after such a significant setback. How have you been coping with these worries day to day?",
+    "client": "Hey Luna, I've been really anxious lately about my academic future. I failed a crucial exam last semester, and now I’m worried I won’t be able to keep my scholarship. It’s been weighing heavily on my mind, and I can’t shake off the feeling that I might not be good enough. I know you’re here to help, but sometimes I wonder if therapy can really make a difference.",
+    "therapist": "I can really understand how overwhelming and distressing this must be for you, especially with the added pressure of your scholarship. It’s completely natural to question the effectiveness of therapy, but I’m here to support you and help you explore these thoughts and feelings. Can you tell me more about what it feels like when these worries come up?",
     "condition": "baseline",
-    "val_t": -0.24323821067810059,
-    "aro_t": 0.30767107009887695,
+    "val_t": -0.2384709119796753,
+    "aro_t": 0.20788609981536865,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, yeah, it's been really tough. I find myself constantly worrying about what might go wrong next, and it's hard to shake off that feeling of impending doom. I've been trying to distract myself with work and hobbies, but it only helps for a little while.",
-    "therapist": "It sounds like you’re doing your best to manage your anxiety, but those worries keep coming back, which can be really challenging. It’s natural to feel this way when you’re facing uncertainty. Can you tell me more about what specific thoughts come up when you feel this sense of impending doom?",
+    "client": "When these worries come up, I feel this knot in my stomach, and my mind starts racing with all the worst-case scenarios. It’s like I can’t focus on anything else, and the more I think about it, the more I convince myself that I’m not going to make it. It’s hard to see a way out of this cycle of anxiety.",
+    "therapist": "It sounds like those worries can really take over and make it hard to focus on other things. The physical sensations and the racing thoughts can be so intense and distressing. When you find yourself in that cycle, are there any specific thoughts that keep coming up, or any particular scenarios that stand out?",
     "condition": "baseline",
-    "val_t": -0.0653524398803711,
-    "aro_t": 0.13499200344085693,
-    "text_emotion": "Neutral"
+    "val_t": -0.341589093208313,
+    "aro_t": 0.23876845836639404,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Well, it's like a never-ending loop. I keep thinking that something terrible is going to happen, even if there's no real reason for it. It's hard to shake off the feeling that I’m not safe or that I’m going to fail at something important. It’s exhausting, and I don’t always know how to break that cycle.",
-    "therapist": "It sounds like you’re trapped in a cycle of negative thoughts, and that’s really draining. It’s understandable to feel this way, especially when you’ve had a setback. Have you noticed any specific triggers that seem to set off these thoughts, or any times when the anxiety is a bit more manageable?",
+    "client": "Yeah, the thought that keeps coming up is that I’m going to lose my scholarship and won’t be able to afford school anymore. I also worry that I’m not smart enough to succeed, and that everyone else is doing better than me. It’s hard to shake these thoughts because they feel so real and overwhelming.",
+    "therapist": "Those are very powerful and distressing thoughts, and it’s understandable that they feel so real and overwhelming. It’s common to compare ourselves to others and feel like we’re falling behind, but it’s important to recognize that everyone’s journey is unique. Can you think of any evidence or experiences that might challenge the idea that you’re not smart enough or that you can’t succeed?",
     "condition": "baseline",
-    "val_t": -0.31638777256011963,
-    "aro_t": 0.16247117519378662,
+    "val_t": -0.2863060235977173,
+    "aro_t": 0.22761988639831543,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Yeah, I've noticed that when I'm by myself, especially at night, the anxiety really ramps up. I guess being alone gives me too much time to overthink things. It’s hard to pinpoint exactly what triggers it, though. It feels like it could be anything.",
-    "therapist": "It makes sense that being alone, especially at night, can amplify those anxious thoughts. It’s really common to feel that way, as the quiet can often bring up a lot of reflections and worries. Have you tried any strategies to help manage the anxiety when you’re alone, or are there any activities that you find somewhat comforting during those times?",
+    "client": "I appreciate that, but it’s hard to find evidence that challenges those thoughts. I’ve always been a good student, but this one failure feels like it’s undoing everything. It’s tough to remember my past successes when I’m so focused on this one setback.",
+    "therapist": "It’s completely understandable that this setback feels significant and is overshadowing your past successes. It’s natural for one failure to feel more prominent, especially when it’s recent and carries a lot of weight. Can you think of any small successes or moments of pride, even outside of academics, that you’ve experienced recently? Sometimes these can help provide a more balanced perspective.",
     "condition": "baseline",
-    "val_t": -0.12291133403778076,
-    "aro_t": 0.1567286252975464,
+    "val_t": -0.18708574771881104,
+    "aro_t": 0.19915485382080078,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "Yeah, I’ve tried a few things, but nothing seems to stick. I listen to music sometimes, but it doesn’t really help with the anxiety. It’s hard because the quiet just makes me focus more on my worries, and I end up feeling even more alone and scared. I don’t know what else to try.",
-    "therapist": "It sounds like you’ve been trying different things to manage your anxiety, and it can be really frustrating when they don’t seem to make a big difference. Listening to music is a good start, but it’s understandable that it might not be enough when the quiet amplifies your worries. Have you considered trying some relaxation techniques, like deep breathing or mindfulness, to help ground you in the moment? What do you think might help you feel a bit more connected or supported during those times?",
+    "client": "I guess I’ve been helping my little sister with her homework, and she’s been doing really well lately. It feels good to see her progress, and it reminds me that I can still contribute positively. But it’s still hard to shake the feeling that I’m not measuring up in my own life.",
+    "therapist": "It’s wonderful to hear about your support for your sister and how it’s bringing you a sense of fulfillment. That’s a great example of your capabilities and the positive impact you can have. Even though it’s tough to shake those feelings of not measuring up, recognizing your strengths and contributions can be a step toward balancing those thoughts. How do you think you can build on these positive experiences to help you feel more confident in your own academic journey?",
     "condition": "baseline",
-    "val_t": -0.3753739595413208,
-    "aro_t": 0.21851658821105957,
-    "text_emotion": "Angry"
+    "val_t": 9.989738464355469e-05,
+    "aro_t": 0.06307446956634521,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the suggestion, but I find it hard to believe that deep breathing or mindfulness will really make a difference. It feels like I've tried so many things, and nothing seems to stick. Plus, it can be really tough to find the time and space to do those things when I'm already feeling overwhelmed.",
-    "therapist": "I completely understand how you feel, and it’s totally valid to be skeptical when you’ve tried so many things without much relief. It can be really discouraging to feel like you’re not making progress. At the same time, small, consistent steps can sometimes make a difference over time. What do you think might be a small, manageable step you could take to start feeling a bit more in control, even if it’s just for a moment?",
+    "client": "I appreciate your encouragement, Luna. It’s hard to see how helping my sister can translate into academic confidence, though. I guess I could try to focus more on my strengths and the things I’ve accomplished in the past, but it feels like a big leap from there to believing I can overcome this setback.",
+    "therapist": "I understand that it can feel like a big leap, and it’s okay to acknowledge that it’s a challenging process. Recognizing and focusing on your strengths and past successes is a powerful first step. It might help to break it down into smaller, more manageable actions, like setting small, achievable goals for your studies or reflecting on a specific past success each day. What do you think might be a small step you could take today that feels doable?",
     "condition": "baseline",
-    "val_t": -0.14171254634857178,
-    "aro_t": 0.14498889446258545,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate you understanding where I'm coming from. It's just hard to see how small steps will make a difference when everything feels so overwhelming. I mean, I've tried so many things, and it seems like nothing really changes. What kind of small step do you think might actually help?",
-    "therapist": "I hear you, and it’s completely understandable to feel that way when you’ve been struggling for a while. It’s important to acknowledge that you’ve been trying and that’s a sign of your resilience. Sometimes, even small steps can feel significant when they’re consistent. For example, setting aside just a few minutes each day to do something you enjoy or find calming, like reading a few pages of a book or taking a short walk, can gradually build a sense of control and normalcy. What do you think about trying something like that, even if it feels small?",
-    "condition": "baseline",
-    "val_t": 0.13906633853912354,
-    "aro_t": 0.1457909345626831,
+    "val_t": 0.1698448657989502,
+    "aro_t": 0.21238458156585693,
     "text_emotion": "Excited"
   },
   {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I've tried these small steps before, and they don't seem to make much of a difference. It's like I'm putting in the effort, but the anxiety and loneliness are still there, and it's frustrating.",
-    "therapist": "I understand how frustrating it can be to put in the effort and still feel like you’re not seeing the results you hoped for. It’s important to recognize that change can be slow, and it’s okay to feel that way. Sometimes, it can be helpful to explore the thoughts that come up when you try these small steps. For example, what goes through your mind when you take those few minutes for yourself? Are there any particular thoughts or feelings that stand out?",
+    "turn": 7,
+    "client": "I like the idea of setting small goals, but it’s hard to know where to start. Maybe I could review my notes from the failed exam and try to understand where I went wrong. It feels manageable, but I’m still a bit overwhelmed by the idea of revisiting that failure.",
+    "therapist": "Starting with reviewing your notes is a great and manageable step. It can provide clarity and help you understand where you might have encountered difficulties, which is valuable for moving forward. It’s normal to feel a bit overwhelmed when revisiting a setback, but remember that each small step you take is a step toward growth. How do you think you can support yourself emotionally while you go through this process? Maybe there’s a friend, a specific self-care activity, or a positive affirmation that could help?",
     "condition": "baseline",
-    "val_t": -0.1596900224685669,
-    "aro_t": 0.1811760663986206,
+    "val_t": -0.08391368389129639,
+    "aro_t": 0.16331350803375244,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "I think talking to my best friend about this might help. She’s always been a good listener, and she’s been through similar struggles. Maybe just having someone to vent to and get some perspective will make it a bit easier to tackle this. But I’m still nervous about how it will go.",
+    "therapist": "Reaching out to your best friend is a really good idea. Having someone who understands and can offer support can make a big difference. It’s natural to feel nervous about sharing, but it’s a brave step to take. What do you think might help you feel more comfortable or prepared when you talk to her? Maybe there’s something specific you’d like to say or a way you’d like her to support you?",
+    "condition": "baseline",
+    "val_t": -0.14220654964447021,
+    "aro_t": 0.14548814296722412,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get that change is slow, but it's hard not to feel discouraged. When I try to take those few minutes for myself, I often end up thinking, \"What’s the point? It’s not going to make a difference anyway.\" It’s like I can’t shake off the feeling that I’m just spinning my wheels.",
-    "therapist": "It’s completely understandable to feel discouraged when those thoughts of “What’s the point?” come up. It’s a tough cycle to break, especially when you’ve been putting in effort and not seeing immediate results. Have you ever noticed any small moments, even brief ones, where you felt a tiny bit better or more grounded, despite the overall discouragement? It can be helpful to build on those moments, no matter how small they might seem.",
+    "client": "I think it would help if I could just be honest with her about how I’m feeling and what I’m going through. I’d like her to listen and maybe offer some encouragement or practical advice. But I’m still a bit worried about how she’ll react or if she’ll really understand what I’m going through.",
+    "therapist": "Being honest with your friend about your feelings and what you’re going through is a powerful step. It’s natural to worry about how she’ll react, but it sounds like you trust her and value her support. It might help to think about what you’d like to say and how you can express your needs. For example, you could let her know how much her encouragement and practical advice would mean to you. How do you think you’ll feel after you’ve had this conversation, regardless of the outcome?",
     "condition": "baseline",
-    "val_t": -0.19477307796478271,
-    "aro_t": 0.124275803565979,
+    "val_t": -0.1688460111618042,
+    "aro_t": 0.12597715854644775,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Yeah, I do remember a few times when I felt a bit better, like when I went for a walk and the fresh air helped, or when I talked to a friend who really listened. But those moments feel so fleeting, and I often find myself slipping back into the same anxious thoughts. It’s hard to see how those small moments can really make a difference when the anxiety feels so overwhelming.",
-    "therapist": "It’s really important that you noticed those moments, even if they felt fleeting. Recognizing those times when you felt a bit better can be a valuable starting point. It’s natural to feel like those moments are too short-lived, but they can still provide some insight into what helps you feel more grounded. What do you think might help you hold onto those moments a bit longer, or perhaps find ways to bring them back more often, even in small ways?",
+    "client": "I think I’ll feel a mix of relief and maybe some vulnerability after talking to her. It’s a bit scary to open up, but I also feel like it could be really helpful to get it off my chest and hear her perspective. I just hope it goes well and that I can find some comfort in our conversation.",
+    "therapist": "It’s completely understandable to feel a mix of relief and vulnerability. Opening up can be both freeing and challenging, but it’s a brave and important step. It’s great that you’re hoping to find comfort and gain some perspective from your conversation. What do you think might be a way to comfort yourself or practice self-compassion after the talk, regardless of how it goes?",
     "condition": "baseline",
-    "val_t": -0.13573098182678223,
-    "aro_t": 0.15910744667053223,
-    "text_emotion": "Angry"
+    "val_t": 0.09365713596343994,
+    "aro_t": 0.06944561004638672,
+    "text_emotion": "Neutral"
   }
 ]

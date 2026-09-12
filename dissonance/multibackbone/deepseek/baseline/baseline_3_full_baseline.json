@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just don't feel like doing anything anymore since my dog passed away last month. We used to go on walks every morning, and now when I see other people walking their dogs, I just feel this heavy sadness. Part of me thinks talking about it won't bring him back, so what's the point?",
-    "therapist": "It sounds like your dog was such an important part of your daily life and routine, and this loss has left a big void. While talking about it won't bring him back, it might help you process the grief and find new ways to honor his memory. What's one small thing you could do today that might help you feel connected to him?",
+    "client": "Lately, I’ve been really struggling since my dog passed away last month. I used to love going for walks and spending time outdoors, but now those activities just feel empty without her. I’m not sure if therapy can really help with this—it’s not like talking about it will bring her back.",
+    "therapist": "\"I hear how deeply you’re feeling the loss of your dog and how her absence has changed something that once brought you joy. It’s okay to grieve her and to feel that void—she was clearly a meaningful part of your life. What comes up for you when you think about honoring her memory in a way that feels right for you?\"",
     "condition": "baseline",
-    "val_t": -0.31343936920166016,
-    "aro_t": 0.005403876304626465,
+    "val_t": -0.2717808485031128,
+    "aro_t": 0.06363570690155029,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I don't know... everything just feels empty now. Even small things like taking his favorite walk route just makes me cry. Part of me thinks I should just try to forget and move on, but then I feel guilty for even thinking that way. \n\nI did keep his collar though. It's sitting on my dresser but I can't bring myself to touch it. Looking at it makes my chest hurt so bad. Maybe that's stupid.",
-    "therapist": "Your feelings aren't stupid at all - they show how deeply you loved your companion. Keeping his collar is a beautiful way to honor that bond, even if it's painful right now. What do you think your dog would want for you during this difficult time?",
+    "client": "Honoring her memory sounds nice, but I’m not sure what that would look like. Sometimes I think about planting a tree or something, but it feels like it won’t really make a difference—it’s not her, you know? I guess I’m worried it’ll just make me feel worse, like I’m trying to replace her.",
+    "therapist": "\"It sounds like you’re torn between wanting to do something meaningful to honor her and fearing that it might not feel enough or could even bring up more pain. That’s a really understandable conflict to have when grieving someone so special. What do you think your dog would want you to feel or do in this situation, if she could tell you?\"",
     "condition": "baseline",
-    "val_t": -0.45421135425567627,
-    "aro_t": 0.16027700901031494,
+    "val_t": -0.27007853984832764,
+    "aro_t": 0.047171950340270996,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I know he'd want me to be happy, but that just makes me feel worse because I can't seem to move on. Every time I see his collar, I start crying all over again - it's been months and I still feel this overwhelming sadness. Part of me thinks maybe I should just pack his things away so I don't have to face the pain every day.",
-    "therapist": "Grief doesn't follow a timeline, and it's okay that you're still feeling this deep sadness - it shows how meaningful your bond was. While packing things away might bring temporary relief, I wonder if there might be a middle ground where you could keep just one special item visible? What feels most true to your heart right now?",
+    "client": "I think she'd want me to be happy and still enjoy our walks... but that's the hard part. Whenever I try to go outside now, I just keep looking down expecting to see her beside me, and then the sadness hits all over again. Maybe I should try, but it feels like I'm just pretending everything's fine when it's not.",
+    "therapist": "\"It’s clear how much your dog meant to you, and it’s okay to feel that sadness when you think about her—it’s a reflection of the love you shared. You’re not pretending everything’s fine; you’re honoring her by taking small steps to care for yourself, even when it’s hard. What might it feel like to take one of those walks while allowing yourself to both feel the sadness and notice something beautiful around you, even if it’s just for a moment?\"",
     "condition": "baseline",
-    "val_t": -0.4826391935348511,
-    "aro_t": 0.17370259761810303,
-    "text_emotion": "Sad"
+    "val_t": -0.15204787254333496,
+    "aro_t": 0.0782386064529419,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I know you're right about grief not having a timeline, but it's been two years since my mom passed and I still can't even look at her things without breaking down. Keeping something out sounds nice in theory, but every time I see her favorite coffee mug on the shelf, I just feel this crushing guilt that I wasn't there enough at the end. Maybe I'm not ready for any of her things to be out yet.",
-    "therapist": "It sounds like your grief is still carrying some heavy guilt along with the sadness, and that makes seeing her belongings especially painful. These feelings of \"not being there enough\" must be so difficult to sit with—what do you think your mom would say about that guilt you're holding?",
+    "client": "I guess I could try, but it’s hard to imagine focusing on anything beautiful when I’m just overwhelmed with missing her. I don’t know—maybe I’d feel like I’m forcing it or not doing it “right.” What if I just end up feeling worse? It’s easier to avoid it altogether, even if that’s not healthy.",
+    "therapist": "\"It sounds like you’re worried that trying to engage with those walks might feel forced or even deepen your pain, and that avoidance feels safer right now. That’s a natural response when something we love is tied to so much emotion. What if there’s no “right” way to grieve or honor her, and it’s okay to take small, imperfect steps that feel manageable for you? How might it feel to try just one thing, even if it’s brief, and see how it lands?\"",
     "condition": "baseline",
-    "val_t": -0.34165525436401367,
-    "aro_t": 0.12739837169647217,
+    "val_t": -0.2568470239639282,
+    "aro_t": 0.08968508243560791,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I don't know what she'd say...that's the worst part. I keep replaying all the times I canceled plans with her because I was \"too busy\" with work. Now I'll never get to tell her how sorry I am. The guilt just eats at me every time I see her favorite coffee mug still sitting in my cupboard. \n\nIt's hard to imagine her perspective when I'm stuck in all these regrets. Part of me thinks she'd say it's okay, but another part worries she died feeling like I didn't care enough. That thought keeps me up at night.",
-    "therapist": "It's clear how much you wish you could have those moments back, and that longing speaks to how deeply you did care about her. The fact that this pain persists shows how much your relationship mattered—what might it feel like to write her that apology you wish you could say?",
+    "client": "I guess I could try a short walk and see how it goes, but I’m worried I’ll just end up feeling guilty—like I’m moving on too fast or forgetting her. It’s hard to shake that feeling that I’m supposed to be sad for a long time, like that’s the only way to really honor her. I don’t know if I’m ready to feel okay with enjoying anything yet.",
+    "therapist": "\"It makes sense that you’d worry about guilt—it’s as if your love for her feels tied to the depth of your sadness, and letting any joy in might seem like a betrayal. But grief isn’t linear, and honoring her doesn’t mean you have to stay in pain forever. What if, just for this walk, you let yourself notice one thing that feels gentle—whether it’s the air, a sound, or even a memory—without judging whether it’s ‘right’ or ‘enough’?\"",
     "condition": "baseline",
-    "val_t": -0.5054672956466675,
-    "aro_t": 0.1528691053390503,
-    "text_emotion": "Sad"
+    "val_t": -0.21441411972045898,
+    "aro_t": 0.11804401874542236,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I don't know if writing an apology would help—she's gone now, and it just feels too late. Sometimes I think maybe I'm punishing myself by dwelling on this because part of me believes I don't deserve to feel better about it. The guilt keeps coming back no matter what I try.",
-    "therapist": "It sounds like this guilt has become a way to stay connected to your mom, even though it's painful. What would it feel like to consider that holding onto this pain might actually be keeping you from fully honoring the love you did share?",
+    "client": "I guess I could try to notice one thing—maybe the sound of the wind or something—but I’m still worried it’ll feel forced or shallow. It’s like I’m afraid if I let myself feel anything good, it’ll mean I’m not grieving her properly. I don’t know how to balance missing her with trying to move forward, even a little.",
+    "therapist": "\"It sounds like you’re carrying a lot of pressure to grieve in a certain way, and that fear of feeling something good might overshadow your love for her is weighing on you. Grief isn’t about choosing between sadness and joy—it’s about making space for both, even when it feels messy. What if, for now, you simply allowed yourself to notice one small thing during your walk, without needing to label it as ‘good’ or ‘bad,’ just as it is?\"",
     "condition": "baseline",
-    "val_t": -0.41050243377685547,
-    "aro_t": 0.10400819778442383,
+    "val_t": -0.23707258701324463,
+    "aro_t": 0.09611248970031738,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "That's a really hard thought to sit with. Part of me feels like if I let go of the guilt, it would mean I didn't care enough about her. But another part wonders if you're right - maybe this pain is just keeping me stuck. \n\nIt's just... the guilt feels like the last thing connecting me to her. What if I lose that and then there's nothing left? That thought terrifies me more than the guilt does.",
-    "therapist": "You're describing such an important tension - between wanting to honor your mom's memory and fearing that releasing the guilt might somehow diminish your connection to her. What if there were ways to stay connected to her that didn't require holding onto this pain?",
+    "client": "I guess I could try noticing one small thing without labeling it, but it still feels like I’m not doing enough to honor her. What if I end up feeling like I’m just moving on too quickly? I don’t want to forget her, and I’m scared that even a tiny step forward might feel like letting her go.",
+    "therapist": "\"I hear how much you want to hold onto her memory, and how any step forward feels tangled up with fear—like moving at all might mean losing her all over again. That love and attachment is still so present, and it makes sense that this feels scary. What if honoring her could also mean gently making space for both your grief *and* the possibility of carrying her with you in new ways?\"",
     "condition": "baseline",
-    "val_t": -0.3576778173446655,
-    "aro_t": 0.1729046106338501,
+    "val_t": -0.26471662521362305,
+    "aro_t": 0.1734558343887329,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I don't know... the guilt is the only thing that makes me feel close to her now. If I let that go, it's like I'm letting her go all over again. The pain is awful, but at least it's something real we still share. \n\nWhat if I stop feeling guilty and then realize I can't remember her voice anymore? That terrifies me more than the sadness.",
-    "therapist": "It sounds like this guilt has become a sacred space where you keep your mom close, even though it hurts. I wonder if we could explore other ways to honor your connection—ones that might feel more like love than punishment? What's one happy memory of her that still makes you smile when you think of it?",
+    "client": "I guess making space for both grief and new ways to carry her sounds kind of comforting, but it’s still hard to imagine how that would work. I’m worried that if I start finding joy in things again, it’ll feel like I’m leaving her behind, even if that’s not what’s happening. It’s like I’m stuck between missing her and feeling guilty for wanting to feel okay.",
+    "therapist": "\"It sounds like you’re holding two truths at once: the deep love that makes this grief so hard, and the very human need to find moments of relief without guilt. That tension is so understandable—it’s not about leaving her behind, but about learning how she stays with you even as your grief changes shape. What would it feel like to think of joy not as replacing her, but as something that could exist alongside your love for her?\"",
     "condition": "baseline",
-    "val_t": -0.351385235786438,
-    "aro_t": 0.1819523572921753,
+    "val_t": -0.18625164031982422,
+    "aro_t": 0.11740982532501221,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I don't know... it feels wrong to focus on happy memories when I should be remembering all the times I let her down. The guilt is what keeps me honest about how I failed her. But... I do remember how she used to make my favorite pancakes every Sunday morning. That memory just makes me feel worse though, because I took those moments for granted.",
-    "therapist": "It's understandable that happy memories might feel bittersweet right now, but noticing how you \"took those moments for granted\" shows how much you've grown—would your mom want you to only remember the regrets, or also the love in those Sunday mornings?",
+    "client": "Thinking of joy existing alongside my love for her is a bit comforting, but it’s still hard to wrap my head around. I’m worried that if I start feeling joy, it’ll take away from the intensity of missing her, and it’ll feel like I’m not honoring her enough. It’s like I’m scared to let go of the sadness because it’s the only thing that feels connected to her right now.",
+    "therapist": "\"That fear makes so much sense—it’s as if the sadness has become a way to keep her close, and the idea of softening it might feel like losing that connection. But your love for her isn’t measured by how much you hurt; it lives in the memories, the walks you shared, and even in the way you’re caring so deeply about honoring her now. What if you experimented with one small moment of lightness—not to replace the grief, but to see how it feels to let both coexist?\"",
     "condition": "baseline",
-    "val_t": -0.1860642433166504,
-    "aro_t": 0.11353909969329834,
-    "text_emotion": "Angry"
+    "val_t": -0.008241534233093262,
+    "aro_t": 0.28275418281555176,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I know she wouldn't want me to only focus on the regrets, but that's what keeps coming up automatically. The love is there too, but it almost hurts more to remember the good times because they're gone now. I feel guilty that I can't just focus on the positive like everyone seems to expect me to.",
-    "therapist": "It makes complete sense that the happy memories feel painful too—grief isn't about choosing between love and regret, but learning to hold both. What if we gently explored how those Sunday pancakes might become a way to honor her, rather than just a reminder of loss?",
+    "client": "Maybe I could try letting myself smile at a happy memory of her instead of just feeling sad. But I'm afraid if I start doing that too much, the painful memories of losing her will fade and I'll forget how much she meant to me. It's like I need the pain to keep our bond real, if that makes sense.",
+    "therapist": "\"That makes complete sense—it’s as if the pain has become a guardian of your bond, and easing it might feel like risking something precious. But the love you shared doesn’t depend on the hurt to stay real; it’s already woven into who you are. What if, just for today, you allowed yourself one smile at a happy memory—not to erase the pain, but to see how it feels to hold both in your heart at once?\"",
     "condition": "baseline",
-    "val_t": -0.20703470706939697,
-    "aro_t": 0.10405981540679932,
+    "val_t": -0.18262481689453125,
+    "aro_t": 0.1208341121673584,
     "text_emotion": "Angry"
   }
 ]

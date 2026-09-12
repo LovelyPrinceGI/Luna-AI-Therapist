@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been feeling really overwhelmed lately. Since my mom's Alzheimer's diagnosis, she has become so reliant on me, and it's just a lot to handle. I sometimes wonder if I can really manage everything, and if this is something therapy can even help with.",
-    "therapist": "It sounds like you’re carrying a heavy emotional burden right now, and it’s completely understandable to feel overwhelmed in such a challenging situation. Your feelings of doubt about managing everything show how much you care, but it’s important to recognize that support can make a difference. What specific aspects of this situation feel the most overwhelming for you?",
+    "client": "Luna, I've been feeling really overwhelmed lately. My mom's Alzheimer's has made her increasingly reliant on me, and I feel like I'm constantly juggling her needs with everything else in my life. I sometimes wonder if therapy can really help me manage this stress and the guilt I feel for not being able to do more.",
+    "therapist": "It sounds like you're carrying a heavy emotional load, and it’s completely understandable to feel overwhelmed in such a challenging situation. Your feelings of guilt are valid, but it's important to remember that you're doing your best under difficult circumstances. What are some small steps you could take to create a bit of space for yourself amidst all this responsibility?",
     "condition": "baseline",
-    "val_t": -0.21480154991149902,
-    "aro_t": 0.1837935447692871,
+    "val_t": -0.33448874950408936,
+    "aro_t": 0.1939924955368042,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess the most overwhelming part for me is feeling like I have to handle everything on my own. It’s hard to reach out for support because I worry that I’ll burden others or that they won’t understand what I’m going through. I often feel like I should be able to manage it all by myself, but that just adds to the pressure.",
-    "therapist": "It’s really important to acknowledge that feeling like you have to handle everything alone can be incredibly isolating and stressful. It’s okay to seek support; it doesn’t make you weak or burdensome. What do you think might happen if you allowed yourself to reach out to someone for help or shared what you’re going through?",
+    "client": "I appreciate you saying that, but honestly, I struggle to think of any small steps. It feels like there’s always something urgent that needs my attention, and I don’t want to add more guilt by taking time for myself. I keep thinking that if I take a break, I might miss something important or let my mom down even more.",
+    "therapist": "It’s completely understandable to feel torn between your own needs and your mom's care, especially when so much feels urgent. Remember, taking time for yourself doesn’t mean you’re letting her down; it can actually help you show up more fully when you are with her. What might it look like to carve out just a few moments for yourself, even if it's just a quick walk or a deep breath?",
     "condition": "baseline",
-    "val_t": -0.23498046398162842,
-    "aro_t": 0.16853547096252441,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I get what you're saying, but reaching out feels really daunting for me. I often worry that people won't understand what I'm going through or that I'll just burden them with my problems. It makes me feel even more isolated when I think about it, like I'm stuck in this cycle of feeling alone.",
-    "therapist": "It’s completely understandable to feel daunted by the idea of reaching out, especially when you're worried about being a burden. That sense of isolation can intensify those feelings, making it harder to break the cycle. What if we explored some small steps you could take to share your feelings, perhaps starting with someone you trust? How does that idea resonate with you?",
-    "condition": "baseline",
-    "val_t": -0.24708616733551025,
-    "aro_t": 0.07367336750030518,
+    "val_t": -0.24224472045898438,
+    "aro_t": 0.06707191467285156,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "I appreciate that you understand how overwhelming it can feel to reach out, but honestly, the thought of sharing my feelings still makes me anxious. I keep thinking about how people might not really care or understand what I'm going through. Plus, I don’t want to burden anyone with my problems—it just feels selfish.",
-    "therapist": "It’s completely valid to feel anxious about sharing your feelings, especially when you worry about how others might react. It’s important to remember that seeking support is not selfish; it’s a way to ensure you’re taking care of yourself, too. What if we explored the idea of sharing your feelings in a way that feels comfortable for you, perhaps starting with a simple message or a conversation about your experience? How would that feel for you?",
+    "turn": 3,
+    "client": "I get what you're saying, but carving out time for myself just feels impossible right now. Even if I wanted to take a quick walk, I'd probably end up thinking about everything I should be doing instead of enjoying it. I feel guilty just considering taking that time; it feels like I’m being selfish when my mom really needs me.",
+    "therapist": "It sounds like taking time for yourself feels like an impossible task right now, and that guilt is really weighing on you. It's important to recognize that self-care isn’t selfish—it’s a necessary part of being able to care for others effectively. Could we explore some ways to shift your focus during those moments, perhaps by setting an intention to simply be present, even if just for a minute?",
     "condition": "baseline",
-    "val_t": -0.24059045314788818,
-    "aro_t": 0.1554011106491089,
+    "val_t": -0.26594316959381104,
+    "aro_t": 0.13593614101409912,
     "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I see what you're saying about self-care being necessary, but it just feels so far from where I am right now. Setting an intention sounds nice in theory, but when I'm in the thick of things with my mom, it's hard to even remember to take a minute for myself. I worry that if I focus on being present, I'll just end up feeling guilty for not actively helping her.",
+    "therapist": "It sounds like you're caught in a difficult cycle where the pressure to help your mom makes it hard to prioritize your own well-being, and I can see how that would feel overwhelming. It’s okay to acknowledge that being present for yourself might seem out of reach right now, especially with everything on your plate. What if we brainstormed some simple reminders or cues that could gently nudge you towards taking those moments, without adding to your guilt?",
+    "condition": "baseline",
+    "val_t": -0.29223835468292236,
+    "aro_t": 0.07514655590057373,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you understand where I'm coming from, but sharing my feelings still feels really daunting. I worry that my words won't come out right, or that the person I'm talking to will just brush it off or not understand me at all. It feels like a risk, and I’m not sure I’m ready to take that leap, even if it’s just a simple message.",
-    "therapist": "It makes sense that you would feel hesitant, especially when opening up feels risky and uncertain. It’s okay to take your time and acknowledge those feelings. What if you approached it as an experiment—perhaps writing down your thoughts first or sharing just a small part of what you’re feeling? How might that help you feel more prepared?",
+    "client": "I appreciate the idea of simple reminders, but I worry that I might forget about them in the chaos of my day-to-day life. It feels like there’s so much going on that a cue might just get lost in the shuffle. Plus, I’m not sure if it would actually help me shake off the guilt when I try to take those moments.",
+    "therapist": "It's completely understandable to feel like reminders could get lost in the chaos, especially when your day is so demanding. The guilt you’re experiencing is a common response for caregivers, but it's important to remember that seeking small moments for yourself can have a positive impact on your ability to care for your mom. Can we discuss how you might integrate these reminders into your routine in a way that feels manageable, or perhaps explore some gentle self-compassion exercises to help ease that guilt?",
     "condition": "baseline",
-    "val_t": -0.06046652793884277,
-    "aro_t": 0.14322936534881592,
-    "text_emotion": "Angry"
+    "val_t": -0.16324400901794434,
+    "aro_t": 0.037912845611572266,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate you saying that it's okay to take my time, but I still feel really uncertain about sharing my thoughts. Writing them down seems like it could help, but I'm worried that even just sharing a small part might make me feel more exposed. What if I write something down and it doesn't come out the way I want it to? I guess I'm just not sure how to start.",
-    "therapist": "It's completely natural to feel uncertain about how to start, especially when it feels vulnerable to share your thoughts. Remember, there’s no right or wrong way to express yourself; it’s about finding a way that feels safe for you. What if you began by jotting down your thoughts without worrying about how they sound, just allowing yourself to express whatever comes to mind? How might that approach feel for you?",
+    "client": "I understand where you’re coming from, but I'm still feeling pretty skeptical about how reminders or self-compassion exercises could fit into my routine. It just feels like I’m so caught up in my responsibilities that taking time to actively remind myself to care for myself feels like one more thing to manage. I really don’t know if I can make that work without feeling guilty or overwhelmed by the thought of not doing enough for my mom.",
+    "therapist": "It's completely valid to feel skeptical about adding anything new to your already packed routine; it sounds like you're juggling a lot right now. The thought of self-care can feel like another responsibility, which is the last thing you need. What if we focused on very small, almost imperceptible shifts that naturally fit into your existing routine, like taking a deep breath while you’re helping your mom, rather than a formal reminder? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.15363645553588867,
-    "aro_t": 0.09513235092163086,
+    "val_t": -0.25013434886932373,
+    "aro_t": 0.2035888433456421,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that suggestion, but I’m not sure it would work for me. Writing feels really daunting, and I worry that whatever I write won’t make any sense or will just sound stupid. It’s hard to let myself be that vulnerable when I’m already feeling so anxious about sharing my thoughts.",
-    "therapist": "It’s completely understandable to feel anxious about being vulnerable, especially when writing feels daunting. It’s important to honor those feelings and recognize that it’s okay to take things at your own pace. What if you tried a different approach, like speaking your thoughts out loud to yourself or even recording them? How does that idea resonate with you?",
+    "client": "I guess the idea of small shifts is a bit more manageable since it doesn’t feel like I’m adding something extra. Taking a deep breath while I’m helping my mom sounds simple enough, but I still worry that I might forget in the moment or not really feel like it. I just don’t know if those little breaths will actually make a difference when I’m so focused on her needs.",
+    "therapist": "It's great to hear that the idea of small shifts feels more manageable for you. It’s completely natural to have doubts about whether those little breaths can make a difference, especially when your attention is so focused on your mom’s needs. Perhaps we can explore the idea that even brief moments of connection with yourself, like those deep breaths, can create a ripple effect, helping you feel a bit more centered. What do you think might happen if you gave it a try, even just once, and noticed how you feel afterward?",
     "condition": "baseline",
-    "val_t": -0.21840214729309082,
-    "aro_t": 0.13784265518188477,
-    "text_emotion": "Angry"
+    "val_t": -0.038533687591552734,
+    "aro_t": 0.0681765079498291,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you understand my anxiety about being vulnerable, but I still feel uneasy about speaking my thoughts out loud. It seems so unnatural to me, and I worry that it won't really help. What if I just end up feeling even more anxious or self-conscious?",
-    "therapist": "It’s completely valid to feel uneasy about speaking your thoughts out loud, especially when it feels unnatural and raises concerns about increasing anxiety. It’s important to prioritize your comfort while exploring what works for you. What if you tried to focus on just expressing your thoughts in a low-pressure environment, like when you're alone, without any expectation of sharing them later? How does that feel as a potential step forward?",
+    "client": "I suppose trying it just once could be a way to test it out without too much pressure. But I still feel hesitant because I worry it won’t really change anything for me. What if I take that breath and still feel overwhelmed? It seems like a small thing compared to everything else I’m facing.",
+    "therapist": "It’s completely understandable to feel hesitant, especially when facing such significant challenges; your feelings are valid. Remember, even small actions can be a step towards creating a little bit of relief, even if it doesn't feel transformative right away. How might it feel to approach this as an experiment, where there’s no pressure for it to solve everything, but simply a chance to notice how it impacts you in that moment?",
     "condition": "baseline",
-    "val_t": -0.3059021234512329,
-    "aro_t": 0.1604834794998169,
+    "val_t": -0.13166093826293945,
+    "aro_t": 0.18803906440734863,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you understand my hesitation, but it still feels really uncomfortable to even think about expressing my thoughts alone. What if I say something that makes me feel worse or brings up anxiety? I guess I'm just worried that it won't help, and I’ll end up feeling even more isolated.",
-    "therapist": "It’s completely understandable to feel uncomfortable and anxious about expressing your thoughts, especially with the fear that it might lead to feeling worse. It’s important to prioritize your emotional safety, and it’s okay to take a step back if that feels necessary. What if we explored some other ways to process those feelings, like engaging in a calming activity or practicing self-compassion first? How does that sound to you?",
+    "client": "Thinking of it as an experiment takes a bit of pressure off, but I still feel a mix of skepticism and hope. I wonder if just focusing on a breath will really help me feel any different, especially when my mind is racing with all the responsibilities I have. It feels like I’m constantly on edge, and I’m not sure if a moment of breathing can really change that.",
+    "therapist": "It's completely natural to feel both skeptical and hopeful at the same time; that mix of emotions is part of navigating tough situations. While a single breath may not eliminate all the stress, it can serve as a gentle pause, allowing you to reset for just a moment, which might help ease that edge. Would it be helpful to think of this breath as a tiny act of kindness towards yourself amidst your responsibilities, and perhaps try to notice any subtle shifts in how you feel afterward?",
     "condition": "baseline",
-    "val_t": -0.2976440191268921,
-    "aro_t": 0.051846861839294434,
-    "text_emotion": "Sad"
+    "val_t": -0.03780078887939453,
+    "aro_t": 0.117728590965271,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I guess that makes sense, but I’m not sure how effective a calming activity would be for me. When I feel overwhelmed, it’s hard to even think about doing something soothing. I worry that it’ll just feel like a distraction, and I won’t really be addressing what’s bothering me.",
-    "therapist": "It’s completely valid to feel that calming activities might seem like distractions rather than solutions. Sometimes, it can feel difficult to engage in soothing practices when emotions are running high. What if we explored the idea of integrating small moments of awareness, like taking a few deep breaths or noticing your surroundings, to help ground you in the present without feeling like you’re avoiding what’s bothering you? How does that approach resonate with you?",
+    "client": "I see what you're saying about thinking of it as a tiny act of kindness, and that does resonate with me a bit. But I still feel apprehensive about whether it will actually help in the moment. What if I take that breath and it just feels like a drop in the ocean compared to the weight of everything I’m dealing with? I guess I'm just not sure if it’s enough to make a real difference.",
+    "therapist": "It’s completely understandable to feel apprehensive about whether a single breath can make a real difference, especially with the weight of everything you're facing. It’s important to acknowledge that every small act of kindness towards yourself can contribute to a greater sense of balance over time, even if it feels minor in the moment. What if you allowed yourself to consider that every little step counts, and that you can build on those moments gradually? How does that possibility feel for you?",
     "condition": "baseline",
-    "val_t": -0.13244295120239258,
-    "aro_t": 0.06644880771636963,
-    "text_emotion": "Neutral"
+    "val_t": -0.14925944805145264,
+    "aro_t": 0.13219881057739258,
+    "text_emotion": "Angry"
   }
 ]

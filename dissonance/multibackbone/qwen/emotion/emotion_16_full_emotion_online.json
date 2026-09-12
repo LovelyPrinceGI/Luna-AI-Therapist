@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. My boss just assigned me two new projects with tight deadlines, and I'm struggling to keep up with everything. I know I should be able to handle it, but I can't shake this feeling of anxiety and guilt for not being on top of things. I’m not sure if therapy can really help with this, but I’m here to try.",
-    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and those feelings of anxiety and guilt can be really tough to manage. I’m here to support you, and together we can explore ways to handle these challenges. Can you tell me more about what specifically feels overwhelming or where you think the anxiety is coming from?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. My boss just assigned me two new projects with really tight deadlines, and I'm struggling to keep up with everything. I know I should be able to handle it, but I just feel like I'm drowning. I'm not even sure if therapy can really help with this kind of work pressure.",
+    "therapist": "Hi there, it sounds like you're really struggling with a lot on your plate right now. Feeling overwhelmed and like you're drowning is completely understandable given the pressure you're under. How have you been coping with these feelings so far, and do you feel like there are any specific parts of your workload that are particularly challenging?",
     "condition": "emotion_text_only",
-    "val_t": -0.15717625617980957,
-    "aro_t": 0.2398695945739746,
+    "val_t": -0.2958190441131592,
+    "aro_t": 0.2466721534729004,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for being here. I feel like my anxiety is just everywhere these days. It's hard to pinpoint exactly what's causing it, but I think a lot of it comes from feeling guilty about not meeting my own expectations and letting people down. It's like I can never do enough, and that just makes me feel more and more anxious.",
-    "therapist": "I can hear how much you're struggling with these feelings of guilt and anxiety. It’s really common to feel this way when you have high standards for yourself and worry about letting others down. Let’s try to break this down a bit. Can you think of a specific situation recently where these feelings were particularly strong?",
+    "client": "Yeah, it's been tough. I've been trying to stay late at work and even bringing some tasks home, but it's not really helping. I think the biggest challenge is the new project that involves coordinating with multiple departments. It feels like there are so many moving parts, and I'm afraid I'll miss something important. I don't know if there's a better way to manage this, to be honest.",
+    "therapist": "It sounds like you're putting in a lot of extra effort, but the stress and complexity of coordinating with multiple departments are really taking a toll. It's completely understandable to feel overwhelmed with so many moving parts. Have you thought about breaking down the project into smaller, more manageable tasks or reaching out for additional support from your team or boss?",
     "condition": "emotion_text_only",
-    "val_t": -0.20797526836395264,
-    "aro_t": 0.2674274444580078,
-    "text_emotion": "Angry"
+    "val_t": -0.03658926486968994,
+    "aro_t": 0.112213134765625,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "Yeah, I've been feeling really guilty and anxious lately about a project at work. I'm in charge of it, and I keep worrying that I’m not doing a good enough job and that I might let my team down. It's been weighing on me a lot, and I can't seem to shake it off.",
-    "therapist": "It sounds like this project is really taking a toll on you, and the fear of letting your team down is adding to your anxiety. It’s understandable to feel this way, especially when you’re in a leadership role. Can you tell me more about what evidence you have that you’re not doing a good enough job, or what specific aspects of the project are making you feel this way?",
+    "client": "I've thought about breaking it down, but it still feels overwhelming. I worry that if I ask for help, it might make me look incompetent or like I can't handle my responsibilities. It's hard because I want to do a good job, but I'm feeling so stretched thin.",
+    "therapist": "It's really tough when you feel like you're doing your best but still feel overwhelmed. The fear of looking incompetent can add a lot of extra pressure. Have you considered sharing your concerns with a trusted colleague or perhaps setting up a brief check-in with your boss to discuss your workload and see if there's a way to get some support without it feeling like a burden?",
     "condition": "emotion_text_only",
-    "val_t": -0.36338019371032715,
-    "aro_t": 0.2398005723953247,
+    "val_t": -0.29699957370758057,
+    "aro_t": 0.14245641231536865,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I feel like I'm constantly second-guessing myself. The project is really complex, and I keep thinking about all the ways it could go wrong. I worry that my team will lose faith in me if I make a mistake, and that just adds to my anxiety. It's hard to pinpoint exactly what's going wrong, but it feels like everything is a potential failure.",
-    "therapist": "It sounds like you’re really struggling with self-doubt and the fear of making mistakes, which is adding to your anxiety. It’s completely normal to feel this way, especially with a complex project. Let’s try to break it down a bit. Can you think of any specific instances where things have gone well, or any strengths you’ve brought to the project that you might be overlooking?",
+    "client": "I appreciate the suggestion, but I'm really hesitant to do that. I feel like everyone else is managing their workload, so it would be hard to explain why I'm struggling. Plus, I don't want to seem like I can't handle the pressure, especially since I'm relatively new to the team. It's a tough spot to be in.",
+    "therapist": "I can really understand your hesitation and the pressure you feel to fit in and prove yourself as a new team member. It's tough to be in a position where you feel like you need to manage everything on your own. Have you thought about any small steps you could take to ease the burden, like delegating a minor task or asking for a quick brainstorming session to get some input? Sometimes even a small step can make a big difference.",
     "condition": "emotion_text_only",
-    "val_t": -0.3556727170944214,
-    "aro_t": 0.21601200103759766,
-    "text_emotion": "Angry"
+    "val_t": -0.17332375049591064,
+    "aro_t": 0.041491150856018066,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It’s just hard because I feel like every time I think I’m making progress, something goes wrong. I guess I can think of a few times where I’ve managed to solve some smaller issues, but those moments feel so few and far between. It’s tough to focus on those when the bigger picture feels so overwhelming.",
-    "therapist": "I can understand how frustrating and demoralizing it feels when you feel like progress is constantly being undermined. It’s important to acknowledge those smaller victories, as they can provide a foundation of confidence and resilience. Can you share more about what you’ve learned from those smaller successes, and how they might help you tackle the bigger challenges?",
+    "client": "I see what you mean about taking small steps, but it's hard to find the right balance. I worry that if I delegate something, it might not be done the way I need it to be, and that could reflect poorly on me. And a brainstorming session sounds good in theory, but I'm not sure how to bring it up without it sounding like I'm struggling. It's a bit of a catch-22.",
+    "therapist": "It sounds like you're in a tricky spot, trying to find that balance between managing your workload and maintaining high standards. It's completely understandable to worry about how delegating or seeking help might be perceived. Have you thought about starting with a small, low-risk task to delegate, or perhaps framing the brainstorming session as a way to ensure the project's success and not just about your struggles? This might help you feel more in control while still getting the support you need.",
     "condition": "emotion_text_only",
-    "val_t": -0.015560150146484375,
-    "aro_t": 0.11729013919830322,
-    "text_emotion": "Neutral"
+    "val_t": -0.1490112543106079,
+    "aro_t": 0.10520017147064209,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it's hard to see those small wins when everything else feels like it's falling apart. I mean, I know I should be grateful for the little things, but sometimes it just doesn’t feel like it’s enough to make a real difference. It’s like I’m trying to build a house with a handful of bricks.",
-    "therapist": "I can see how challenging it is to stay positive when you feel like you’re facing so many obstacles. It’s completely understandable to feel that way. Sometimes, focusing on the small wins can help shift your perspective, even if it doesn’t feel like enough right now. What do you think might help you feel a bit more in control or less overwhelmed by the bigger picture?",
+    "client": "I can see the logic in that, but it still feels risky. I guess I could try delegating something small, but I'm worried it might not go as smoothly as I hope. And framing a brainstorming session as a way to ensure success sounds good, but I'm not sure how to bring it up without it feeling forced or like I'm admitting I can't handle it. It's a tough call.",
+    "therapist": "It's completely understandable to feel that way, and it's a valid concern to want everything to go smoothly. Taking that small step can still feel risky, but it might help to start with a task that has a bit of flexibility in how it's completed. For the brainstorming session, you could frame it as a proactive measure to ensure the project's success and gather different perspectives. How do you think you could phrase it to your team to make it feel more natural and less like an admission of struggle?",
     "condition": "emotion_text_only",
-    "val_t": -0.126578688621521,
-    "aro_t": 0.13804399967193604,
+    "val_t": -0.18625152111053467,
+    "aro_t": 0.1052931547164917,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, but it’s hard to see the small wins when everything feels so overwhelming. It’s like I’m drowning in a sea of problems, and the little things just feel insignificant. I don’t know how to make them feel more meaningful or how to even start focusing on them.",
-    "therapist": "I can really understand how overwhelming it must feel to be drowning in a sea of problems. It’s tough to find the motivation to focus on the small wins when everything else feels so heavy. Let’s try to break it down a bit. Can you think of any small steps or actions you could take that might help you feel a bit more in control, even if just for a short while?",
+    "client": "I think I could say something like, \"I want to make sure we're all on the same page and that we're leveraging everyone's strengths to make this project a success. Any ideas or input would be really valuable.\" But I'm still nervous about how it will be received. It's hard to shake the feeling that I should be able to handle everything on my own.",
+    "therapist": "That's a great way to frame it, and it shows your commitment to the team's success. It's natural to feel nervous about how it will be received, especially when you're under pressure. Recognizing that you don't have to handle everything alone is a sign of strength, not weakness. How do you think you could prepare yourself mentally for the meeting to help ease your nerves?",
     "condition": "emotion_text_only",
-    "val_t": -0.06045174598693848,
-    "aro_t": 0.09887826442718506,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 8,
-    "client": "I know it sounds good in theory, but it feels like even the smallest steps are just too big right now. It’s hard to see how anything I do will make a difference when everything feels so overwhelming. I guess I just feel stuck and don’t know where to start.",
-    "therapist": "I can hear how deeply stuck and overwhelmed you’re feeling right now, and it’s completely understandable that even the smallest steps can feel insurmountable. It’s okay to feel this way, and we can take things really slowly. What if we just start by identifying one tiny, manageable action you could take today, just to give yourself a sense of movement? It doesn’t have to solve everything, just something that feels doable. What do you think that might be?",
-    "condition": "emotion_text_only",
-    "val_t": -0.18307888507843018,
-    "aro_t": 0.17908644676208496,
+    "val_t": -0.09431862831115723,
+    "aro_t": 0.17160773277282715,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I appreciate you saying that, Luna. It does feel overwhelming, and I’m not sure if even a tiny step will make a difference. I guess I could try to reach out to a friend or something, but it’s hard because I feel like I’m just going to be a burden or that they won’t really understand what I’m going through.",
-    "therapist": "I understand how hard it can be to reach out for support when you feel like a burden or worry that others won’t fully understand. It’s a very common concern, and it’s okay to feel that way. Sometimes, though, just the act of sharing a little bit of what you’re going through can provide some relief and help you feel less alone. What do you think might make it easier for you to reach out, even if just to share a small part of what you’re feeling?",
+    "turn": 8,
+    "client": "I appreciate that, Luna. I think I could prepare by writing down some key points I want to discuss and practicing what I'm going to say. But I'm still worried about how it will come across. It's hard to shake the feeling that I should be able to manage everything myself, and I don't want to seem like I'm not pulling my weight.",
+    "therapist": "I can see that you're putting a lot of thought into how to approach this, and that's a great step. Writing down key points and practicing what you'll say can definitely help you feel more prepared and confident. It's completely normal to have some lingering worries, but remember that seeking support is a sign of strength and can lead to better outcomes for everyone involved. How do you think you can remind yourself of the value you bring to the team, even when you're feeling unsure?",
     "condition": "emotion_text_only",
-    "val_t": -0.035337209701538086,
-    "aro_t": 0.18601596355438232,
+    "val_t": -0.05350184440612793,
+    "aro_t": 0.12112808227539062,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I guess I could remind myself of the positive feedback I've received in the past and the projects I've successfully completed. But it's hard to hold onto that confidence when I'm in the middle of feeling so overwhelmed. I'll try to focus on those successes, but it's still a challenge to not let the anxiety take over.",
+    "therapist": "It's really helpful that you're acknowledging your past successes and the positive feedback you've received. Holding onto that confidence can be a challenge, especially when you're feeling overwhelmed. It's okay to take a moment to acknowledge your anxiety and then gently shift your focus back to your strengths and past achievements. What are some specific things you can do to help ground yourself and stay focused on your capabilities when the anxiety starts to creep in?",
+    "condition": "emotion_text_only",
+    "val_t": 0.004343628883361816,
+    "aro_t": 0.2508465051651001,
     "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I'm constantly letting people down, and I worry that they'll think I'm overreacting or making a big deal out of nothing. I guess what might help is knowing that they really do care and won't judge me, but how can I be sure of that?",
-    "therapist": "I can hear the weight of those worries, and it’s completely understandable to feel hesitant about reaching out. It’s important to remember that the people who care about you likely want to support you and would be there for you, even if they might not fully understand every detail. What might help you feel more confident in reaching out? Maybe there’s a specific friend or family member you trust who has shown support in the past?",
+    "client": "I can try some deep breathing exercises to help calm my anxiety when it starts to feel overwhelming. I can also keep a list of my past successes and read through it when I'm feeling doubtful. But it's hard to shake the feeling that I should be able to handle everything perfectly, and that pressure is really getting to me.",
+    "therapist": "It's great to hear that you're considering deep breathing exercises and keeping a list of your past successes to help manage your anxiety. Those are excellent strategies. It's completely understandable to feel the pressure of wanting to handle everything perfectly, but it's important to remember that everyone has limits, and it's okay to seek support. How do you think you can balance the need to excel with the reality that it's okay to not have everything perfectly under control?",
     "condition": "emotion_text_only",
-    "val_t": -0.1419140100479126,
-    "aro_t": 0.11970698833465576,
-    "text_emotion": "Angry"
+    "val_t": -0.07349610328674316,
+    "aro_t": 0.20118796825408936,
+    "text_emotion": "Tense"
   }
 ]

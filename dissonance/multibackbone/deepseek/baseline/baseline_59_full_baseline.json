@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just feel so empty since my brother died. Everyone keeps telling me to \"move on\" or \"find happiness again,\" but how am I supposed to do that? Even simple things like watching TV or meeting friends just make me feel worse because he's not here to share them with me.",
-    "therapist": "I hear how deeply you're missing your brother, and how painful it is when people suggest moving on before you're ready. It makes sense that everyday activities feel hollow when you're grieving such an important person in your life. What does \"moving on\" mean to you, and how does that idea make you feel?",
+    "client": "I've been having a really hard time since my brother passed away last year. Some days I just go through the motions at work and come home to stare at the wall. My friends keep inviting me out, but I feel like they don't understand what I'm going through and I just can't bring myself to pretend to be happy around them.",
+    "therapist": "I hear how deeply you're grieving your brother's loss, and how exhausting it feels to put on a brave face for others. It makes sense that you'd want to withdraw when your friends' invitations feel like they require pretending. What comes up for you when you imagine spending time with them without feeling pressured to act happy?",
     "condition": "baseline",
-    "val_t": -0.3118501901626587,
-    "aro_t": 0.10151541233062744,
+    "val_t": -0.3033229112625122,
+    "aro_t": 0.07323813438415527,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "The idea of \"moving on\" makes me feel sick to my stomach. It's like people expect me to just forget about him or stop loving him, and that's never going to happen. Even small things like seeing his favorite snacks at the store make me freeze up because it feels wrong that the world keeps going when he's not here anymore.",
-    "therapist": "Your love for your brother is so strong, and it's completely understandable that the thought of moving on feels impossible when your bond remains so present in your heart. The world continuing without him must feel like such a painful contrast to the stillness inside you. Would it feel more comforting if we thought about ways to honor your brother rather than \"moving on\"?",
+    "client": "I guess I worry they'll pity me or treat me differently if I'm not my usual cheerful self. And honestly, sometimes their normal chatter about daily life just feels so trivial compared to what I'm feeling. It's like we're living in completely different worlds now.",
+    "therapist": "It sounds like you're feeling isolated in your grief, and there's a disconnect between your internal experience and what you perceive as their everyday concerns. Those worries about being pitied or treated differently are valid - grief can change our relationships in ways that feel uncomfortable. I'm curious, have there been any moments when sharing your feelings with someone felt helpful or connecting, even if just a little?",
     "condition": "baseline",
-    "val_t": -0.2892138957977295,
-    "aro_t": 0.26333069801330566,
+    "val_t": -0.20709776878356934,
+    "aro_t": 0.0901036262512207,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Honoring my brother sounds nice in theory, but it also feels overwhelming. I don’t even know where to start, and part of me worries that trying to do something special for him might just make the pain feel sharper. It’s like, how do you honor someone when their absence is still so raw and heavy?",
-    "therapist": "It's completely understandable that the idea of honoring him feels overwhelming right now - grief makes even simple things feel impossibly hard. The pain is still so fresh that any act of remembrance might indeed amplify the ache of missing him. What if we started by simply noticing when small moments remind you of him, without any pressure to \"do\" anything about those feelings yet?",
+    "client": "Actually, my coworker Sarah lost her dad a few years ago. When I mentioned missing my brother last month, she just listened quietly and said \"I get it.\" That was... nice, I guess. But most people just change the subject or give me useless advice like \"he's in a better place\" that just makes me angrier.",
+    "therapist": "It sounds like Sarah's quiet understanding created a rare moment where you felt truly heard in your grief, unlike the well-meaning but painful responses from others. That difference between simple presence versus trying to \"fix\" your pain must feel so significant. What do you think made Sarah's response feel more supportive to you compared to the other reactions?",
     "condition": "baseline",
-    "val_t": -0.2380080223083496,
-    "aro_t": 0.23895561695098877,
+    "val_t": -0.2668670415878296,
+    "aro_t": 0.1373661756515503,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that - it does feel impossible to even think about honoring him right now without breaking down. But the idea of just noticing small moments...I don't know, sometimes those little reminders hurt the most, like when I pass his favorite coffee shop or hear a song he loved. It's like a fresh stab every time.",
-    "therapist": "Those \"fresh stabs\" show how alive your connection to him still is - the pain exists because your love does too. Right now, the reminders might feel like wounds, but I wonder if there's any tiny comfort in recognizing that these moments are evidence of how deeply he's woven into the fabric of your world? The coffee shop, the songs - they're threads that still connect you to him, even though it hurts to pull on them right now. Would it feel possible to simply acknowledge those threads when they appear, even if all you can say is \"This hurts because I love you\"?",
+    "client": "She didn't try to make it better or tell me how to feel. The others act so uncomfortable, like they need to say something profound to make my grief go away. But grief doesn't work like that - it just needs space to exist sometimes. I wish more people understood that.",
+    "therapist": "You've articulated something so important - how simply allowing grief to exist without trying to change it can feel like the most genuine form of support. It sounds like you're recognizing what you truly need from others during this painful time. How might you communicate these needs to friends who care about you but don't yet understand how to show up for you?",
     "condition": "baseline",
-    "val_t": 0.004130125045776367,
-    "aro_t": 0.2241511344909668,
-    "text_emotion": "Tense"
+    "val_t": -0.1292649507522583,
+    "aro_t": 0.08350038528442383,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "It’s hard to think of those threads as anything but painful right now. Every time I hear “our” song or walk past that coffee shop, it feels like I’m reliving the loss all over again. I get what you’re saying about acknowledging the love behind the pain, but it doesn’t really make it easier to carry. It just feels like I’m stuck in this loop of hurt.",
-    "therapist": "It sounds like those reminders are reopening the wound every time, and the love you feel for your brother is currently inseparable from the pain of his absence. Right now, the grief feels like a cycle that keeps pulling you back into that raw place of loss. Would it feel helpful to explore together how we might honor both the love and the pain, perhaps finding ways to let those moments exist without them overwhelming you completely?",
+    "client": "I don't know how to tell them without sounding angry or ungrateful. Part of me thinks they should just know better, but that's probably unfair. The idea of having to teach people how to comfort me just feels exhausting on top of everything else.",
+    "therapist": "It sounds like you're caught between wanting your friends to understand and feeling overwhelmed by the thought of explaining your needs to them. That exhaustion makes complete sense - grief already takes so much energy without having to educate others. What if we explore some gentle ways you might express your needs that feel authentic to you, without carrying the weight of teaching them everything?",
     "condition": "baseline",
-    "val_t": -0.33398735523223877,
-    "aro_t": 0.14208722114562988,
+    "val_t": -0.2884620428085327,
+    "aro_t": 0.25708067417144775,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I want to believe that's possible, but it just feels like the pain swallows up everything else whenever I think about him. Even happy memories just make me miss him more. I'm not sure how to separate the love from the hurt when they feel so tangled together.",
-    "therapist": "It makes complete sense that the love and pain feel inseparable right now - grief has a way of braiding them together so tightly. The happy memories might be bittersweet now, but they show how much light he brought to your life. What would it feel like to let those memories exist just as they are - both joyful and painful - without trying to untangle them yet?",
+    "client": "I guess I could try saying something, but I'm scared they'll take it the wrong way or get defensive. What if they think I'm being ungrateful for their efforts? I don't want to push people away, but I also can't keep pretending everything's fine when it's not.",
+    "therapist": "It sounds like you're walking such a careful line - wanting to be honest about your needs while also protecting these important relationships. That fear of being misunderstood is completely understandable when you're already feeling so vulnerable. What would it feel like to start with just one trusted person, maybe sharing something like \"I appreciate you, and sometimes what helps most is just sitting together quietly\"?",
     "condition": "baseline",
-    "val_t": -0.15232717990875244,
-    "aro_t": 0.20910990238189697,
+    "val_t": -0.2832317352294922,
+    "aro_t": 0.16901469230651855,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but it's just so hard to hold both those feelings at once. When I think about the happy times, the pain of losing him crashes over me like a wave. It makes me want to push all the memories away because they hurt too much. \n\nSometimes I wonder if it would be easier to just... not remember at all. But then I feel guilty for even thinking that, because it's like I'm trying to erase him. I don't know how to find a middle ground.",
-    "therapist": "I hear how torn you feel - wanting to keep your brother close through memories, yet needing relief from the overwhelming pain they bring. That guilt makes so much sense because it comes from the same place as your love - you don't actually want to forget him, you just want the hurt to ease. What if we thought about these waves of grief not as something to push away or drown in, but as something you could gradually learn to float with?",
+    "client": "That feels... scary, but maybe doable with Sarah. She seems to understand better than most. But what if even she doesn't get it? What if I try to open up and she responds with some cliché about time healing all wounds? I think that might hurt worse than keeping everything inside.",
+    "therapist": "It sounds like there's a part of you that wants to reach out to Sarah, but also a protective part that's scared of being hurt by a response that doesn't feel genuine. That internal conflict makes complete sense when you're already feeling so raw. What if we explore both possibilities - how you might prepare yourself for different responses, and what you'd need to feel safe in that conversation?",
     "condition": "baseline",
-    "val_t": -0.3219078779220581,
-    "aro_t": 0.0985492467880249,
-    "text_emotion": "Sad"
+    "val_t": -0.24008047580718994,
+    "aro_t": 0.14243900775909424,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about learning to float with the grief, but it just feels impossible right now. Every time I try to think about him without breaking down, the guilt creeps in that I'm not honoring his memory enough. And the idea of the pain easing almost scares me—like if it hurts less, I'm forgetting him or moving on too fast.",
-    "therapist": "I hear how deeply conflicted you feel - wanting the pain to ease while fearing that any relief might mean you're letting go of your connection to him. That guilt about \"not honoring him enough\" shows just how much your love for your brother continues to shape your experience of grief. What if we explored what \"enough\" looks like to you - might there be ways to honor him that feel authentic to your relationship, rather than measuring up to some impossible standard?",
+    "client": "I guess I could try preparing for different responses, but honestly, I'm not sure how much it would help. If Sarah responds in a way that feels dismissive, I think I'll just feel even more alone and misunderstood. It's hard to trust anyone with this pain when it feels so big and overwhelming.",
+    "therapist": "It sounds like that fear of being misunderstood is casting a shadow over the possibility of reaching out, making the pain feel even more isolating. Your hesitation to trust others with this grief is completely understandable when it feels so immense and raw. I wonder, what would it feel like to start by acknowledging that fear while also gently reminding yourself that Sarah has already shown she can sit with your pain without trying to fix it?",
     "condition": "baseline",
-    "val_t": -0.3621046543121338,
-    "aro_t": 0.20593059062957764,
+    "val_t": -0.3089078664779663,
+    "aro_t": 0.15314733982086182,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I don't know what \"enough\" would look like. Every time I try to think about moving forward, it feels like I'm betraying him. Like if I'm not constantly grieving, it means I didn't love him enough when he was here. \n\nThe idea of finding \"authentic\" ways to honor him makes me anxious - what if I choose wrong? What if the ways I remember him aren't good enough? He deserved so much better than how things ended.",
-    "therapist": "I hear how much pressure you're putting on yourself to grieve \"correctly\" - it's clear your brother meant the world to you, and that love makes you want to honor him perfectly. The fear of choosing wrong comes from such a caring place, because you want to reflect how special he was. What if we considered that there's no \"wrong\" way to remember someone you loved so deeply - that the very worry about doing it \"right\" already shows how much he matters to you?",
+    "client": "I guess Sarah has been different from the others, but it still feels risky. What if that one moment of understanding was just a fluke? I don't know if I can handle being let down again when I'm already feeling so fragile. The idea of trying to open up makes me feel vulnerable in a way that's hard to describe.",
+    "therapist": "It sounds like you're carrying this fear that Sarah's understanding might have been a one-time thing, and that opening up again could leave you feeling even more exposed and disappointed. That vulnerability feels especially difficult when you're already feeling so fragile. I wonder if we could explore what it might look like to take a very small step toward connection - perhaps just acknowledging to Sarah that you're still grieving, without needing to share more unless it feels safe?",
     "condition": "baseline",
-    "val_t": -0.18065917491912842,
-    "aro_t": 0.21363961696624756,
-    "text_emotion": "Angry"
+    "val_t": -0.2715097665786743,
+    "aro_t": 0.10239589214324951,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I know logically there's no \"right\" way to grieve, but it feels like if I don't do certain things—like visiting his grave every week or keeping all his belongings—I'm somehow failing him. The guilt creeps in whenever I have a good day or think about moving forward. \n\nPart of me wants to believe you, but another part keeps insisting that if I really loved him, I'd be stuck in this pain forever. Does that make sense?",
-    "therapist": "Your struggle makes so much sense - the logical part of you knows there's no \"right\" way to grieve, but the emotional part feels like moving forward would mean leaving him behind. That guilt about having good days shows just how deeply you care - it's not that you want to be stuck in pain forever, it's that you don't want to lose your connection to him. What if we explored how you might carry him with you into the future, rather than feeling like moving forward means leaving him in the past?",
+    "client": "Acknowledging that I'm still grieving feels like it could be a safer first step, but I worry Sarah might feel obligated to say something profound or helpful. What if she responds with some platitude that makes me feel worse? It's hard to imagine her just simply acknowledging my pain without trying to fix it, even though she did that before.",
+    "therapist": "It sounds like you're noticing a pattern where even well-meaning responses can end up feeling dismissive, which makes it hard to trust that Sarah might simply acknowledge your pain without trying to fix it. That uncertainty makes complete sense when you've experienced so many unhelpful reactions. I wonder, what might it feel like to gently let Sarah know that simply acknowledging your pain would be most helpful, rather than trying to offer solutions?",
     "condition": "baseline",
-    "val_t": -0.3310995101928711,
-    "aro_t": 0.16867351531982422,
-    "text_emotion": "Angry"
+    "val_t": -0.2636619806289673,
+    "aro_t": 0.056555867195129395,
+    "text_emotion": "Sad"
   }
 ]

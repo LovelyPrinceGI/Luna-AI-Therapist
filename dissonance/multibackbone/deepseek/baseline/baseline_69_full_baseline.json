@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just feel so empty since my dad passed away. Everyone keeps telling me I should be getting back to normal by now, but I can't even enjoy the things I used to love. My friends try to invite me out, but I just feel like they don't understand what I'm going through.",
-    "therapist": "I hear how painful this loss has been for you, and how frustrating it feels when others expect you to \"move on\" before you're ready. Grief doesn't follow a set timeline, and it's completely understandable that activities you once enjoyed might feel different right now. What does \"normal\" look like to you in this moment?",
+    "client": "Lately, I’ve just been feeling so empty and disconnected. Ever since my dad passed away two months ago, it’s like nothing brings me joy anymore. I try to spend time with friends, but I feel like they don’t really understand what I’m going through, and it just makes me feel even more alone. I’m not sure if therapy can really help with this—it feels like something I just have to get through on my own.",
+    "therapist": "I hear how deeply this loss has affected you, and how alone you feel in your grief—it makes complete sense that you'd feel this way after such a significant loss. I wonder if we could explore together what thoughts come up when you notice that feeling of disconnection from your friends?",
     "condition": "baseline",
-    "val_t": -0.3420053720474243,
-    "aro_t": 0.13506758213043213,
+    "val_t": -0.37515318393707275,
+    "aro_t": 0.06176340579986572,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I don't even know what \"normal\" is supposed to look like anymore. Everything feels empty since my mom passed away, even the things I used to love doing. People keep telling me I should get back to my hobbies, but they just remind me of how she used to cheer me on.",
-    "therapist": "It sounds like these hobbies are tied to precious memories of your mom's support, which makes engaging with them feel especially painful right now. That connection between your joy and her encouragement is something beautiful, even though it hurts so much in her absence. Would it feel right to explore what new ways of remembering her might feel comforting to you?",
+    "client": "I just keep thinking they don't really care. Like when they say \"let me know if you need anything\" but then quickly change the subject to normal life stuff, it feels like they're just waiting for me to \"get over it\" already. Maybe they don't want to deal with my sadness.",
+    "therapist": "Those automatic thoughts about your friends not caring must feel really painful, especially when you're already carrying so much grief. I'm curious—has there ever been a time when someone surprised you by showing up in a way that felt meaningful, even if it was small?",
     "condition": "baseline",
-    "val_t": 0.02034175395965576,
-    "aro_t": 0.20843112468719482,
-    "text_emotion": "Tense"
+    "val_t": -0.20377540588378906,
+    "aro_t": 0.05003190040588379,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I don't know... every time I try to think about her differently, it just makes me feel guilty, like I'm trying to replace those special moments we had. The hobbies were our thing, and now doing them alone just reminds me how empty everything feels without her. Maybe I'm not ready to find new ways to remember her yet.",
-    "therapist": "I hear how deeply important it is for you to honor those special shared moments exactly as they were, and how changing anything about how you remember her feels like a betrayal. This pain shows how meaningful your connection was. Would it feel okay to simply acknowledge that right now, the grief is still too fresh to consider new ways of remembering?",
+    "client": "Actually, now that you mention it...my coworker Sarah brought me homemade soup last week. She didn't say much, just left it on my desk with a note saying she was thinking of me. It meant a lot, but then I immediately felt guilty for thinking all my friends don't care. Now I just feel confused about what to believe.",
+    "therapist": "It sounds like Sarah's gesture touched you deeply, and that moment of care got overshadowed by feelings of guilt afterwards—that's such an important observation. What do you think it would feel like to hold space for both feelings: appreciating the kindness you receive while also acknowledging how much you're hurting?",
     "condition": "baseline",
-    "val_t": -0.2528141736984253,
-    "aro_t": 0.11728167533874512,
+    "val_t": -0.27433323860168457,
+    "aro_t": 0.184378981590271,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Yeah, I guess it is still too fresh. But that's the problem—it's been two years since she passed, and I still can't even think about her without feeling like I'm drowning. Shouldn't I be handling this better by now? Everyone else seems to have moved on except me. \n\nI keep thinking if I let go of the pain, it'll mean I didn't love her enough. Like the grief is the only proof I have left of what we had.",
-    "therapist": "I hear two really important things—your deep fear that letting go of the pain might mean letting go of your love for her, and the pressure you're putting on yourself to grieve differently because of how much time has passed. Grief isn't a measure of love, and there's no \"should\" about how long it takes. What would it feel like to consider that your love for her lives in so many places beyond just the pain?",
+    "client": "That actually makes me tear up thinking about it. I want to believe people care, but it's so hard when the grief feels so heavy. I guess I've been seeing everything in black and white—either people completely understand or they don't care at all. That probably isn't fair, but it's how I've been feeling.",
+    "therapist": "You're showing such important self-awareness in noticing that black-and-white thinking pattern—that's real progress in understanding how grief is shaping your perspective. What would it feel like to gently remind yourself that people can care deeply even if they don't fully understand your pain?",
     "condition": "baseline",
-    "val_t": -0.3687835931777954,
-    "aro_t": 0.20895540714263916,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 5,
-    "client": "I get what you're saying logically, but it's hard to really believe it in my heart. The pain feels like the only thing keeping her memory alive sometimes. If I stop hurting, does that mean I'm forgetting her? That thought terrifies me. \n\nPeople keep telling me I should be \"moving on\" by now, but when I try, I just feel guilty, like I'm betraying her.",
-    "therapist": "I hear how terrifying the idea of \"moving on\" feels when it seems to threaten that sacred connection with your mom. The pain has become intertwined with keeping her memory alive, making the thought of easing that hurt feel dangerous. Could we explore how your love for her might continue existing in ways that don't require suffering to prove its depth?",
-    "condition": "baseline",
-    "val_t": -0.4196150302886963,
-    "aro_t": 0.14939439296722412,
+    "val_t": -0.2857867479324341,
+    "aro_t": 0.09115862846374512,
     "text_emotion": "Sad"
   },
   {
-    "turn": 6,
-    "client": "It’s just... if I stop hurting, does that mean I’m forgetting her? The pain feels like the only proof I still care. When the grief gets a little lighter, I panic—like I’m betraying her somehow.  \n\nI don’t know how to hold onto her without the sadness. Everything else feels hollow, like pretending.",
-    "therapist": "I hear how deeply important it is for you to honor your mom, and how the grief has become a way to keep her close—almost like the pain itself has become a form of love. That makes so much sense, and it's clear how much you treasure what you shared. Could we gently explore what it might feel like to imagine your love for her as something that grows and changes with you, rather than staying frozen in the pain?",
+    "turn": 5,
+    "client": "I guess it would feel less lonely to think that way, but part of me still resists it. It's like my brain keeps saying \"if they really cared, they'd know exactly what to say or do.\" I know logically that's not fair, but the feeling is so strong it's hard to ignore.",
+    "therapist": "It sounds like there's a real tug-of-war happening between your logical understanding and those intense emotional thoughts—that's a common struggle when we're grieving. What would it feel like to imagine that your friends might also be feeling unsure of how to help, rather than uncaring?",
     "condition": "baseline",
-    "val_t": -0.33615434169769287,
-    "aro_t": 0.16689813137054443,
+    "val_t": -0.14384996891021729,
+    "aro_t": 0.08987927436828613,
     "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "That actually makes me think differently about my best friend. She keeps inviting me out for coffee but never mentions my dad, and I took that to mean she didn't care. But now I wonder if she's just scared of saying the wrong thing. It still hurts, but maybe it's not about me being a burden like I thought.",
+    "therapist": "You're making such an important shift in perspective here—recognizing that your friend's actions might come from a place of care rather than avoidance. How does it feel to consider that her coffee invitations could be her way of staying present with you through this pain?",
+    "condition": "baseline",
+    "val_t": -0.2576674222946167,
+    "aro_t": 0.10577309131622314,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, but it feels like letting go of the pain would mean letting go of her. The grief feels like the only thing connecting me to her now, and without it, I worry I’ll lose her completely. It’s hard to imagine how love could grow when everything feels so heavy and stuck.",
-    "therapist": "I hear how deeply intertwined the grief feels with your connection to her, and how the thought of letting go of that pain feels like losing her all over again. It makes sense that this heaviness has become a way to keep her close. What would it feel like to consider that your love for her could still grow and evolve, even as the pain begins to shift?",
+    "client": "It makes me feel a little less alone, but also kind of guilty for misjudging her. Part of me still wishes she'd bring up my dad though—like if she really cared, wouldn't she ask how I'm doing with the grief specifically? Maybe I'm expecting too much.",
+    "therapist": "These mixed feelings make so much sense—both the warmth of feeling less alone and the discomfort of questioning your initial judgment. I wonder if we could explore what it would be like to gently share with your friend that talking about your dad might help you feel more supported?",
     "condition": "baseline",
-    "val_t": -0.21756839752197266,
-    "aro_t": 0.18815898895263672,
-    "text_emotion": "Angry"
+    "val_t": -0.32426679134368896,
+    "aro_t": 0.08468735218048096,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I understand what you're saying about love evolving, but the idea of the pain changing scares me. It feels like if I'm not hurting this much, I'm somehow loving her less. \n\nI try to imagine feeling differently, but then guilt crashes over me immediately. Like I'd be dishonoring her memory by not carrying this weight anymore.",
-    "therapist": "It sounds like that guilt arrives like a protective reflex—as if it's standing guard to make sure your love for her stays sacred and untouchable. That devotion is so understandable, and it shows how deeply you care. Could we sit with this idea together: what if the weight isn't what keeps your love alive, but simply one way it's been expressing itself?",
+    "client": "I'm scared to bring him up first—what if it makes her uncomfortable and she pulls away? At the same time, I'm tired of pretending I'm fine just to make others comfortable. Maybe something small, like sharing a memory when it feels right, instead of expecting her to initiate it? But even that feels risky.",
+    "therapist": "You've beautifully captured the dilemma between protecting others' comfort and honoring your own needs—that's such an important tension to notice. What would it feel like to experiment with sharing just one small memory when you're together, while reminding yourself that her reaction (whatever it may be) says more about her capacity than your worth?",
     "condition": "baseline",
-    "val_t": -0.3137638568878174,
-    "aro_t": 0.2295520305633545,
+    "val_t": -0.18831515312194824,
+    "aro_t": 0.14429771900177002,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That's a really beautiful way to put it, but I'm not sure I can separate the guilt from the love. It feels like if I let go of the weight, I'm letting go of her somehow. The pain is the only thing that still feels real sometimes. \n\nWhen you suggest sitting with that idea, part of me wants to, but another part panics. What if the love fades if I stop punishing myself? I don't know how to hold onto her without the ache.",
-    "therapist": "That panic makes so much sense—when pain has been the anchor keeping you connected, loosening its grip can feel like free-falling. Notice how even in this fear, your devotion shines through? The love isn't in the punishment; it's in how fiercely you're trying to protect what you shared. Could we experiment with something small—what if, just for a moment today, you let the love exist without the ache and see what remains?",
+    "client": "I think I could try that, but I'm afraid I'll just start crying and make things awkward. And what if she doesn't know how to respond? The idea that her reaction reflects her capacity and not my worth is comforting, but I'm not sure I'll remember that in the moment when I'm feeling vulnerable.",
+    "therapist": "It's completely understandable to worry about becoming emotional—grief has a way of surfacing when we least expect it. What if we practiced a simple grounding technique together that you could use in those vulnerable moments to help steady yourself?",
     "condition": "baseline",
-    "val_t": -0.21335721015930176,
-    "aro_t": 0.21854889392852783,
-    "text_emotion": "Angry"
+    "val_t": -0.25281429290771484,
+    "aro_t": 0.06652843952178955,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it's not that simple. The ache is what makes the love feel real—if I let go of the pain, it's like I'm betraying the connection we had. I'm scared that without the hurt, the love will just... disappear. \n\nAnd honestly, the idea of trying to separate them even for a moment makes me feel panicky. What if I can't get the pain back if I need it?",
-    "therapist": "I hear how terrifying that separation feels—like removing the pain might unravel the very fabric of your bond with her. That fear shows how deeply you’ve tied your love to this suffering to keep her close. What if we just noticed that panic together, without pushing it away? Could you describe where you feel it most in your body right now?",
+    "client": "I’m willing to try a grounding technique, but I’m not sure it’ll help when the grief feels so overwhelming. Part of me also feels like crying isn’t something I should need to control—it’s just part of the process. But I guess it’s worth a try if it helps me feel more comfortable sharing.",
+    "therapist": "You're absolutely right that tears are a natural and important part of grief—this would be less about stopping them and more about helping you feel safe enough to share while knowing you can return to center. How would it feel to view grounding as a tool for choice rather than control—something to use if you want to, not something you owe anyone?",
     "condition": "baseline",
-    "val_t": -0.17516565322875977,
-    "aro_t": 0.24852490425109863,
-    "text_emotion": "Angry"
+    "val_t": 0.038738131523132324,
+    "aro_t": 0.029787778854370117,
+    "text_emotion": "Neutral"
   }
 ]

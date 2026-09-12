@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really anxious lately about the family reunion coming up next month. My heart starts racing whenever I think about it, especially after the fallout with my cousin last year. I know I should go, but I can't shake this feeling of dread. I'm not sure if therapy can really help with this.",
-    "therapist": "Hi there, it’s really understandable to feel anxious about the family reunion, especially given what happened last year. It’s natural for those past experiences to affect how you feel about future events. How do you think the anxiety around the reunion is impacting your daily life right now?",
+    "client": "Hey Luna, I've been really anxious about the family reunion coming up next month. My heart races every time I think about it, especially after what happened with my cousin last year. I know I should probably try to work through this, but I just can't shake the feeling that it's going to be a disaster. I'm not even sure if therapy can really help with something like this.",
+    "therapist": "I can really understand how overwhelming and distressing this must be for you, especially with the past experience you had with your cousin. It’s completely normal to feel anxious about the reunion, and it’s okay to be unsure about how helpful therapy can be. How do you think the anxiety around the reunion is affecting your daily life right now?",
     "condition": "baseline",
-    "val_t": -0.2818753719329834,
-    "aro_t": 0.30939364433288574,
+    "val_t": -0.28098630905151367,
+    "aro_t": 0.3392432928085327,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. The anxiety is really weighing on me. I find myself constantly worrying about what might go wrong, and it’s hard to focus on work or even enjoy my free time. I keep thinking about all the things that could go wrong, like someone saying something that triggers me or me saying something I’ll regret.",
-    "therapist": "It sounds like your anxiety is really affecting your ability to enjoy the present. It’s common to get caught up in these worry cycles, imagining all the things that could go wrong. Can you think of a time when you’ve managed to handle a difficult situation better than you expected?",
+    "client": "It’s been pretty tough. I find myself avoiding social situations and even small gatherings, which has made me feel really isolated. I’m also having trouble concentrating at work, and I keep replaying the worst-case scenarios in my head, which just makes me more anxious. I don’t know how to break this cycle.",
+    "therapist": "It sounds like the anxiety is really taking a toll on you, both socially and professionally, and it’s completely understandable that you’re feeling isolated and having trouble concentrating. It’s a tough cycle to be in. Have you noticed any specific thoughts or images that come up when you start to feel anxious about the reunion?",
     "condition": "baseline",
-    "val_t": -0.23623478412628174,
-    "aro_t": 0.21623742580413818,
-    "text_emotion": "Angry"
+    "val_t": -0.35279107093811035,
+    "aro_t": 0.13424921035766602,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess there was that time when I had to give a presentation at work, and I was so nervous, but it ended up going better than I thought. But it feels different now, like I can't shake this constant worry. I don't know if I can handle it the same way every time.",
-    "therapist": "That’s a great example of your resilience, and it’s totally normal to feel like each situation is different and challenging in its own way. It’s important to recognize that you do have the ability to handle difficult situations, even when you feel anxious. What do you think might be different about this situation that makes it feel harder to handle?",
+    "client": "Yeah, I keep imagining arguments breaking out, or my cousin making a scene like last time. I also worry that I’ll say something wrong and everyone will judge me. It’s like my mind just won’t let me shake these thoughts, no matter how much I try.",
+    "therapist": "Those thoughts can be really powerful and distressing, and it’s natural to worry about past experiences repeating themselves. It sounds like your mind is trying to protect you by anticipating potential problems, but it’s also making you feel more anxious. How do you usually try to cope with these thoughts when they come up, and do you feel like any of those strategies help at all?",
     "condition": "baseline",
-    "val_t": -0.18153071403503418,
-    "aro_t": 0.19726073741912842,
+    "val_t": -0.26650571823120117,
+    "aro_t": 0.20951128005981445,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess it feels harder because this time it's more personal. It's not just about a deadline or a task; it's about connecting with people and feeling like I belong. I worry that I'll say the wrong thing or that people won't understand me, and that makes me feel really anxious and isolated.",
-    "therapist": "It makes a lot of sense that this feels more personal and intense, especially when it involves family and the desire to connect and belong. Those worries about saying the wrong thing or feeling misunderstood can be really tough. How do you usually cope with these feelings of anxiety and isolation when they come up?",
+    "client": "I usually try to distract myself by watching TV or scrolling through my phone, but it’s only a temporary fix. The thoughts always come back, and sometimes they’re even stronger. I don’t think these strategies are really helping in the long run, and that just makes me feel more frustrated and hopeless.",
+    "therapist": "It’s really common to use distractions like TV or your phone to cope with anxiety, and it’s understandable that you’re feeling frustrated and hopeless when those strategies don’t provide lasting relief. It can be really tough when the thoughts keep coming back stronger. Have you ever tried any other approaches, like talking to someone about your worries or writing down your thoughts, to see if they might offer some different kinds of relief?",
     "condition": "baseline",
-    "val_t": -0.25136590003967285,
-    "aro_t": 0.09713196754455566,
+    "val_t": -0.3484543561935425,
+    "aro_t": 0.11536180973052979,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I usually try to distract myself by keeping busy with work or hobbies, but that only helps for a little while. Eventually, the anxiety and loneliness creep back in, and I end up feeling even more isolated. It's hard because I feel like I can't really shake these feelings, no matter what I do.",
-    "therapist": "It’s really common to use distractions like work or hobbies to manage anxiety, and it’s great that you have those coping strategies. However, it sounds like they might not be enough to fully address the underlying feelings of anxiety and isolation. Have you ever tried talking to someone you trust about these feelings, or perhaps exploring some mindfulness or relaxation techniques to see if they might help?",
+    "client": "I’ve tried talking to my friend about it a few times, but it doesn’t seem to make a big difference. I feel like they don’t fully understand what I’m going through. Writing down my thoughts sounds like a good idea, but I worry that it might just make me dwell on the negative stuff even more. It’s hard to know what will actually help.",
+    "therapist": "It’s really brave of you to reach out to your friend, even if it didn’t feel like it made a big difference. Sometimes, it can be tough when the people around us don’t fully understand what we’re going through. Writing down your thoughts can be a mixed bag, but it can also help you gain some clarity and distance from the anxiety. What do you think about starting with a small experiment, like writing down just one or two thoughts each day, to see if it helps you process your feelings without getting too caught up in them?",
     "condition": "baseline",
-    "val_t": -0.2877233028411865,
-    "aro_t": 0.09881174564361572,
+    "val_t": -0.2687567472457886,
+    "aro_t": 0.018596768379211426,
     "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I do use work and hobbies to keep my mind occupied, but I can see how they might not be enough. I'm just not sure if talking to someone else would really help—I feel like they wouldn't understand, and it can be hard to open up. As for mindfulness, I've tried it a few times, but I find it hard to stay focused and it feels a bit forced.",
-    "therapist": "It’s completely understandable to feel hesitant about opening up, especially when you’re worried that others might not understand. Building that trust can take time, and it’s a valid concern. As for mindfulness, it can definitely feel forced at first, but it often gets easier with practice. Have you considered trying shorter, guided mindfulness exercises or perhaps incorporating mindfulness into activities you already enjoy, like walking or listening to music?",
+    "client": "I appreciate the suggestion, Luna. It does sound like a manageable place to start. I guess I’m just a bit skeptical about whether it will actually make a difference, but I’m willing to give it a try. It’s hard to know what will really help, but I’m open to experimenting with this.",
+    "therapist": "I completely understand your skepticism—it’s totally normal to feel that way when trying something new. It’s great that you’re willing to give it a try, though. Starting small can often make a big difference, and even if it doesn’t solve everything, it can provide some insights. How about we set a goal to try this for a week and then check in to see how it’s going for you? What do you think about that?",
     "condition": "baseline",
-    "val_t": -0.1627483367919922,
-    "aro_t": 0.08575618267059326,
-    "text_emotion": "Angry"
+    "val_t": 0.2354593276977539,
+    "aro_t": 0.11082327365875244,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, and I do want to trust people more, but it's just so hard when I feel like I'm constantly being misunderstood. As for the mindfulness thing, I've tried it a few times, but it just feels like another thing to add to my list of things I'm supposed to do. It's hard to find the motivation when I already feel so overwhelmed.",
-    "therapist": "I completely understand how overwhelming it can feel to add another thing to your plate, especially when you’re already feeling misunderstood and overwhelmed. It’s important to go at your own pace and not pressure yourself. What do you think might help you feel more supported or less alone in these moments of overwhelm?",
+    "client": "I think a week is a reasonable amount of time to give it a try. I’m still a bit unsure if it will help, but I’m willing to put in the effort. I’ll let you know how it goes, and maybe we can figure out some other strategies if this doesn’t work out.",
+    "therapist": "That sounds like a great plan, and I appreciate your openness to trying this out. It’s completely normal to have some doubts, and that’s okay. Checking in after a week will give us a good sense of whether it’s helping and what adjustments we might need to make. How does that feel for you, and is there anything specific you’d like to focus on during this week?",
     "condition": "baseline",
-    "val_t": -0.21314597129821777,
-    "aro_t": 0.17297422885894775,
-    "text_emotion": "Angry"
+    "val_t": 0.03331756591796875,
+    "aro_t": 0.06361782550811768,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It does feel overwhelming to try to manage everything. I think having someone to talk to regularly, like you, really helps, but I also feel like I need to find a way to handle things on my own more. It’s just hard to know where to start.",
-    "therapist": "I’m glad to hear that talking to me has been helpful. It’s a great step to recognize the need for both support and developing your own coping strategies. Starting small can often be the key—maybe picking one thing that feels manageable, like setting aside a few minutes each day to reflect on your feelings or practicing a simple relaxation technique. What small step might feel doable for you right now?",
+    "client": "It feels a bit daunting, but I’m willing to give it a shot. I think focusing on the specific thoughts that trigger my anxiety might be helpful, so I’ll try to write those down and see if I can identify any patterns. It’s hard, but I’m hoping it might give me some insights.",
+    "therapist": "It’s really brave of you to take on this challenge, and focusing on those specific thoughts is a great place to start. Identifying patterns can be incredibly insightful and can help you understand what’s driving your anxiety. It’s totally okay for it to feel daunting, and taking it one step at a time is key. How do you think you’ll approach writing down these thoughts, and is there a particular time of day that might work best for you?",
     "condition": "baseline",
-    "val_t": 0.03284919261932373,
-    "aro_t": 0.1597750186920166,
-    "text_emotion": "Tense"
+    "val_t": 0.03258955478668213,
+    "aro_t": 0.05335736274719238,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate the suggestion, but I'm not sure if setting aside time to reflect on my feelings will actually help. It feels like it might just make me more anxious and dwell on negative thoughts. I do want to try something, but I'm just worried it might backfire and make things worse.",
-    "therapist": "I understand your concern about reflecting on your feelings and the worry that it might increase your anxiety. It’s important to approach this gently and find a method that feels supportive rather than overwhelming. What if we tried a different approach, like focusing on something you find calming or enjoyable, and gradually incorporating a bit of reflection into that activity? How does that sound?",
+    "client": "I think I’ll try to write down my thoughts in the evening, when things are a bit quieter and I have some time to reflect. It might be easier to catch those anxious thoughts at the end of the day. I’m a bit nervous about it, but I’m also curious to see what comes up.",
+    "therapist": "That sounds like a good plan—writing in the evening when things are quieter can provide a good opportunity to reflect and catch those anxious thoughts. It’s totally normal to feel a mix of nervousness and curiosity. Taking the time to explore your thoughts can be really valuable. How do you think you’ll handle it if you start to feel overwhelmed while writing? It might be helpful to have a plan for taking care of yourself in those moments.",
     "condition": "baseline",
-    "val_t": -0.245527982711792,
-    "aro_t": 0.07969415187835693,
-    "text_emotion": "Sad"
+    "val_t": -0.06204521656036377,
+    "aro_t": 0.04439425468444824,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It does sound a bit less daunting. But I'm still a bit skeptical because I often find that even calming activities can end up triggering my anxiety if I start thinking too much about them. How do we make sure it doesn’t spiral out of control?",
-    "therapist": "I understand your skepticism, and it’s important to approach this with care to avoid triggering more anxiety. One way to manage this is to set a specific, short time limit for your calming activity, and maybe use a gentle distraction within it, like listening to calming music or focusing on your breath. This can help keep your mind from spiraling. How does that sound, and is there a specific calming activity you’d be willing to try?",
+    "client": "That’s a good point, Luna. If I start to feel overwhelmed, I think I’ll take a break and do something that usually calms me down, like listening to some music or taking a short walk. I just hope that I can actually stick to this plan and not get too discouraged if it feels tough.",
+    "therapist": "Those are excellent strategies for taking care of yourself, and it’s great that you’ve thought about how to handle feeling overwhelmed. Having a plan in place can make a big difference. It’s natural to feel some discouragement, but remember that every step you take is a step toward understanding and managing your anxiety. How do you feel about giving this a try, and what’s one thing you’re looking forward to or curious about as you start this process?",
     "condition": "baseline",
-    "val_t": -0.09862399101257324,
-    "aro_t": 0.16319406032562256,
-    "text_emotion": "Angry"
+    "val_t": -0.009860038757324219,
+    "aro_t": 0.13594329357147217,
+    "text_emotion": "Neutral"
   }
 ]

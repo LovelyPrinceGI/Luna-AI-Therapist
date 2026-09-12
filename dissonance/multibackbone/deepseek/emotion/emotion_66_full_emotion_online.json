@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately I just can't focus at all at work. Every time I try to do something, I either start thinking about my dad and get sad, or I remember all the unresolved issues between us and get this angry tightness in my chest. I'm not even sure talking about it will help - it's not like it can bring him back or change anything.",
-    "therapist": "It sounds like you're carrying a heavy mix of grief and unresolved feelings that are understandably making focus difficult. When those painful thoughts about your dad come up at work, do you notice any particular patterns in what triggers them or how long they last?",
+    "client": "I've been really struggling at work since my dad passed away a few months ago. I keep zoning out during meetings or staring at my computer without getting anything done. What makes it worse is that I feel angry at him for things left unsaid, and then guilty for feeling that way when he's gone. I'm not sure talking about it will help - the pain just feels too big sometimes.",
+    "therapist": "It sounds like you're carrying a lot of heavy emotions—grief, anger, guilt—and they’re understandably making it hard to focus at work. When feelings like this feel overwhelming, it’s common to wonder if talking about them will help at all. Can you tell me more about what goes through your mind when those moments of anger or guilt arise?",
     "condition": "emotion_text_only",
-    "val_t": -0.4104804992675781,
-    "aro_t": 0.14023840427398682,
+    "val_t": -0.5029041767120361,
+    "aro_t": 0.10309505462646484,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Honestly, I don’t even know if it’s about specific triggers. It’s more like a constant ache that just flares up randomly—like I’ll be typing an email and suddenly remember how he’d always ask me to proofread his work. It’s exhausting trying to predict it or track it. Sometimes I wonder if focusing on the triggers even helps, because the pain’s just there no matter what.",
-    "therapist": "The grief does sound like it's woven deeply into your daily life in ways that feel unpredictable and draining. When those memories surface unexpectedly, what's it like for you in that moment—do you tend to push them away, or let yourself sit with the feeling for a bit?",
+    "client": "When the anger comes up, I keep thinking about how he never really acknowledged how much I achieved in my career. He was always so focused on my brother’s accomplishments. And then I feel guilty because I know he loved me in his own way, and now he’s gone—it’s too late to fix any of it. I don’t know if talking about it will change anything because I can’t go back and fix our relationship.",
+    "therapist": "It sounds like you're caught between two very real but conflicting feelings—the hurt from what wasn't said and the love you know was there. That tension must feel so painful, especially when there's no chance now to resolve it directly. \n\nWhat would it be like to explore how you might find some resolution *within yourself*, even if the past can't be changed?",
     "condition": "emotion_text_only",
-    "val_t": -0.29595959186553955,
-    "aro_t": 0.1499089002609253,
+    "val_t": -0.2942460775375366,
+    "aro_t": 0.17213952541351318,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "It's like the grief just crashes over me out of nowhere, and I can't decide whether to fight it or just let it drown me. Sometimes I try to push it away because it's too painful, but then I feel guilty like I'm betraying their memory. Other times I let it in, but then I get stuck in it for hours and can't function.",
-    "therapist": "It sounds like you're caught between two painful extremes—feeling guilty when you try to protect yourself, and overwhelmed when you let the grief in. Have you noticed if there are moments when the waves feel slightly more manageable, where you might find a middle ground between pushing away and drowning in it?",
+    "client": "I guess I don't really know what resolution within myself would look like. It feels like I’m stuck in this loop of anger and guilt, and I don’t know how to break out of it. Part of me thinks it’s unfair to just let go of those feelings because they feel like they’re part of who I am now. How do you even begin to resolve something like that?",
+    "therapist": "It makes sense that these feelings feel so tied to who you are now—they’ve been part of your grief, and letting go might almost feel like losing a connection to your dad. That’s a really understandable fear. \n\nWhen you imagine holding onto the anger less tightly, what worries come up for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.45505452156066895,
-    "aro_t": 0.17966270446777344,
-    "text_emotion": "Sad"
+    "val_t": -0.33152782917022705,
+    "aro_t": 0.18698906898498535,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know if there's really a middle ground. When I try to let some of the grief in, it just floods me completely. And when I push it away, I feel guilty for not properly honoring the loss. It's like I can't win either way. Maybe the waves are smaller sometimes, but they still knock me over just the same.",
-    "therapist": "It sounds like you're feeling stuck between two painful options, with grief either overwhelming you or leaving you with guilt—neither feeling truly manageable right now. What do you imagine \"honoring the loss\" would look like if it didn't have to mean being consumed by the pain?",
+    "client": "I guess I’m worried that if I let go of the anger, I’ll just be left with the guilt—and that feels even worse. The anger sort of protects me from feeling like I failed him or disappointed him. If I let it go, I’m afraid I’ll just drown in the guilt instead. It’s like I’m stuck between two painful feelings, and I don’t know how to move forward.",
+    "therapist": "It sounds like the anger has been serving as a kind of shield—almost like it’s holding back an even more painful wave of guilt. That’s such a human way to cope with grief, even if it leaves you feeling stuck right now.  \n\nI wonder if we could explore what it would feel like to gently challenge the idea that you *failed* him? What evidence do you have that your dad saw you as a disappointment?",
     "condition": "emotion_text_only",
-    "val_t": -0.2856423854827881,
-    "aro_t": 0.08630228042602539,
+    "val_t": -0.45356082916259766,
+    "aro_t": 0.1511744260787964,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "Honoring the loss... I don't know, that just makes me think of all the things I should have done differently before they were gone. Maybe lighting a candle or something, but then I just sit there staring at it feeling worse because it's too little too late. The guilt is always there no matter what I try.",
-    "therapist": "It sounds like even the idea of honoring your dad gets tangled up with painful \"should haves\" that leave you feeling stuck in guilt. When those thoughts about what you could have done differently come up, do they tend to focus on specific moments, or is it more of a general sense of regret?",
+    "client": "I don’t think he ever outright said I was a disappointment, but he never seemed as proud of me as he was of my brother. It’s hard to challenge that because it’s not like he ever said, “Good job,” or anything like that. Maybe I’m just reading into it too much, but it feels like the lack of acknowledgment says it all. I’m not sure if I can separate what I feel from what I think he felt.",
+    "therapist": "It sounds like you're sitting with this deep uncertainty—not having clear words from him but still carrying the weight of what *felt* unspoken. That’s such a painful space to be in, especially when the absence of words leaves so much room for interpretation.  \n\nWhen you think about your dad’s way of showing love, what *did* he do or say that makes you feel he cared, even if it wasn’t the praise you hoped for?",
     "condition": "emotion_text_only",
-    "val_t": -0.3919564485549927,
-    "aro_t": 0.05692243576049805,
-    "text_emotion": "Sad"
+    "val_t": -0.10350191593170166,
+    "aro_t": 0.062273502349853516,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "It's both, I think. There are these specific moments that replay in my head - like the last time I saw him before he passed, I was rushing out the door and barely said goodbye. But then there's also just this heavy blanket of \"I wasn't a good enough daughter\" that covers everything. The specifics and the general feeling feed each other, if that makes sense. \n\nPart of me knows he wouldn't want me to feel this guilty, but the other part keeps arguing \"but you should feel guilty.\" It's exhausting.",
-    "therapist": "It sounds like you're carrying both the weight of specific regrets and a broader sense of not being \"enough,\" which keeps pulling you into this cycle of guilt and exhaustion. When you think about your dad's perspective—that he wouldn't want you to feel this way—does that thought bring any sense of relief, or does it feel overshadowed by the guilt?",
+    "client": "He'd always make sure I had lunch packed for work, even when I was in my 30s. And he'd ask about my projects, not with praise, but with this gruff \"So how's that thing going?\" I guess that was his way. But it still feels like it wasn't enough, and now I'm mad at myself for needing more from him when he's gone. Why couldn't I just accept what he could give?",
+    "therapist": "It sounds like you’re holding two truths at once: that your dad *did* show love in his own way, *and* that it’s okay to have wished for more. That tension—between gratitude and longing—is so human, but it must feel exhausting to carry.  \n\nWhat would it be like to offer yourself the same gentleness you might offer a friend who was grieving this way?",
     "condition": "emotion_text_only",
-    "val_t": -0.28617751598358154,
-    "aro_t": 0.148218035697937,
+    "val_t": -0.20592713356018066,
+    "aro_t": 0.21449029445648193,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "Honestly, when I think about my dad not wanting me to feel this way, it just makes me feel worse. Like I'm failing him all over again by not being able to let go of the guilt. The thought brings up more \"shoulds\" - I should be stronger, I should move on, but I just can't seem to.",
-    "therapist": "It sounds like even the idea of honoring your dad’s wishes adds another layer of guilt, as if you’re letting him down by struggling with these feelings. When those thoughts about \"shoulds\" come up—like needing to be stronger—do you notice if they feel like your own voice, or more like expectations you think others might have?",
+    "client": "I’ve never thought about it like that—offering myself gentleness. I guess I’d tell a friend it’s okay to feel both things at once, but it’s hard to give myself that same permission. I feel like I’m supposed to just move on or be grateful, but it’s not that simple. I’m not sure how to even start being gentler with myself—it feels like I’d just be letting myself off the hook too easily.",
+    "therapist": "It sounds like you’re wrestling with this idea of gentleness—almost as if being kind to yourself feels like you’re avoiding responsibility. That’s such a common struggle, especially when grief and guilt are tangled together.  \n\nWhat would it look like to take one small step toward self-compassion—maybe just acknowledging that it’s okay to feel conflicted without rushing to “fix” it? How might that feel different from “letting yourself off the hook”?",
     "condition": "emotion_text_only",
-    "val_t": -0.36184048652648926,
-    "aro_t": 0.15676343441009521,
-    "text_emotion": "Angry"
+    "val_t": -0.10461568832397461,
+    "aro_t": 0.05277836322784424,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "It's hard to tell whose voice it is sometimes. Part of me feels like it's my dad's expectations that got stuck in my head, but now they just feel like my own thoughts. When I try to push back against them, it almost makes the guilt worse because then I feel like I'm betraying his memory.",
-    "therapist": "It sounds like these \"shoulds\" have become so deeply ingrained that it's hard to separate where they came from—and pushing back against them feels like you're dishonoring your dad, which deepens the guilt. What do you think it would feel like to gently question those expectations, without necessarily rejecting them entirely?",
+    "client": "I guess acknowledging the conflict without trying to fix it might feel less like avoidance and more like accepting reality. But it’s still hard because I’m so used to pushing myself to “get over it” or “be stronger.” Letting myself just feel it feels... vulnerable, I guess. I’m not sure if I’m ready for that.",
+    "therapist": "It makes so much sense that sitting with these feelings feels vulnerable—it *is* brave to lean into that discomfort when you’re used to pushing through. That’s a really important awareness.  \n\nWhat would it be like to try this just for small moments—maybe even five minutes at a time—and see how it feels? You don’t have to be \"ready\" all at once.",
     "condition": "emotion_text_only",
-    "val_t": -0.45473015308380127,
-    "aro_t": 0.11191034317016602,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 9,
-    "client": "I guess questioning those expectations feels... uncomfortable, like I'm betraying him in some way. He always said I needed to be strong and dependable, and if I start questioning that, it’s like I’m saying he was wrong. But at the same time, I’m so tired of feeling like I’m never enough. It’s exhausting trying to live up to these standards all the time.",
-    "therapist": "It sounds like you're caught between honoring your dad's expectations and feeling worn down by the pressure to meet them—a conflict that leaves you feeling both emotionally drained and conflicted. What do you think your dad might say if he could see how much weight you're carrying trying to uphold those standards?",
-    "condition": "emotion_text_only",
-    "val_t": -0.26064562797546387,
-    "aro_t": 0.23499858379364014,
+    "val_t": -0.17360389232635498,
+    "aro_t": 0.10878050327301025,
     "text_emotion": "Angry"
   },
   {
-    "turn": 10,
-    "client": "I don't think he'd even realize how heavy it feels. He'd probably just say something like \"That's what family does\" or \"You'll thank me later.\" But I'm not thanking him now—I just feel exhausted and guilty all the time because I can't live up to it. \n\nSometimes I wonder if he knows how much I lie awake at night stressing about this stuff. Probably not, because he never seems to question whether his expectations are fair.",
-    "therapist": "It sounds like there’s a disconnect between the weight you’re carrying and what you imagine your dad might understand about it—almost like his expectations don’t leave room for how much it’s affecting you. When you think about your own needs in this situation, what would it feel like to prioritize them, even if it meant stepping away from those expectations for a moment?",
+    "turn": 9,
+    "client": "Five minutes at a time sounds manageable, but I’m worried that if I let myself feel it, I’ll just spiral into more guilt or sadness. It’s like I’m afraid of opening the floodgates—what if I can’t stop crying or thinking about it? I’m not sure if I’m ready to face that.",
+    "therapist": "It’s completely understandable to feel that fear—like once you start, you might not be able to stop. That worry about losing control can make it feel safer to keep everything locked away.  \n\nWhat if we approached this gently, with a plan? For example, setting a timer for those five minutes and having something comforting planned afterward—like a warm drink or a walk. How might that feel different from “opening the floodgates”?",
     "condition": "emotion_text_only",
-    "val_t": -0.2524299621582031,
-    "aro_t": 0.14388787746429443,
+    "val_t": -0.3614768981933594,
+    "aro_t": 0.11546993255615234,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 10,
+    "client": "Setting a timer and having something planned afterward does make it feel a little less scary—like I’m not just diving into the deep end without a lifeline. But I’m still worried that even five minutes might be too much. What if I start crying and can’t stop, even after the timer goes off? I’ve been avoiding these feelings for so long that I’m scared of what might come up.",
+    "therapist": "It sounds like you're holding a lot of fear about what might surface—that even a small opening could feel overwhelming. That’s such a valid concern when you’ve been keeping these feelings at arm’s length.  \n\nWhat if we started even smaller—maybe two minutes, with something grounding nearby (like a favorite photo or a comforting scent)? Would that feel more manageable while still letting you dip a toe in?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3545677661895752,
+    "aro_t": 0.2086416482925415,
     "text_emotion": "Angry"
   }
 ]

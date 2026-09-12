@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling so drained lately taking care of my mom. Her Alzheimer's has gotten worse over the past few months, and I'm constantly worried I'm not doing enough for her while also trying to keep up with my own life. Sometimes I wonder if talking about it will actually help - the situation isn't going to change, so what's the point?",
-    "therapist": "It sounds like you're carrying an incredibly heavy emotional and physical load right now, and it's completely understandable to feel drained when caring for someone with Alzheimer's. While the situation may not change, talking can help change how you experience and cope with these challenges - what thoughts come up for you when you consider whether you're \"doing enough\"?",
+    "client": "Lately, I’ve been feeling completely drained taking care of my mom. Since her Alzheimer’s diagnosis, she’s become so dependent on me, and it feels like I’m constantly juggling her needs with my own life. I’m not sure therapy can really help—it feels like this is just how things are now, and I have to deal with it.",
+    "therapist": "It sounds like you're carrying a heavy load of responsibility and feeling overwhelmed by the constant demands—your exhaustion is completely valid given the circumstances. While therapy can't change your situation, it can help you explore ways to manage the emotional weight and find moments of balance—what do you think might help create some space for yourself amidst all this?",
     "condition": "baseline",
-    "val_t": -0.32064902782440186,
-    "aro_t": 0.03418135643005371,
+    "val_t": -0.29155397415161133,
+    "aro_t": 0.11182332038879395,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I just keep thinking I should be doing more, even though I'm exhausted. My mom doesn't recognize me half the time, and I feel guilty when I get frustrated with her. Part of me knows I'm doing my best, but another part keeps saying I'm failing her.",
-    "therapist": "That inner conflict between knowing you're doing your best and feeling like you're failing must be so painful to carry every day. It might help to explore where those \"should\" thoughts come from - what would you say to a friend who was in your exact situation?",
+    "client": "I know I should take breaks, but every time I try to step away even for an hour, I feel so guilty. Like what if she needs me and I'm not there? My sister says I need to hire help, but that just makes me feel like I'm failing her by not doing it all myself.",
+    "therapist": "It sounds like guilt is making it hard for you to prioritize your own needs, and the idea of relying on others feels like a personal failure—that’s such a heavy burden to carry. Could we explore where those beliefs about needing to “do it all” come from and whether they’re serving you right now?",
     "condition": "baseline",
-    "val_t": -0.3654893636703491,
-    "aro_t": 0.13423967361450195,
+    "val_t": -0.39182746410369873,
+    "aro_t": 0.13544034957885742,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "That's a good question... I guess I'd tell a friend they're being too hard on themselves. But when it comes to me, it feels different. Like I *should* be able to handle everything perfectly, even though I know that's impossible. \n\nIt's frustrating because logically I understand this, but emotionally I still feel like a failure when I can't meet all my own expectations. The \"should\" thoughts just keep coming no matter how much I try to reason with them.",
-    "therapist": "It's interesting how we can offer compassion to others that we struggle to give ourselves. That gap between what we know logically and what we feel emotionally is so common with caregiver guilt. What do you think might happen if you tried treating yourself with the same kindness you'd show a friend in your situation?",
+    "client": "I guess I’ve always felt like I need to be the strong one in the family, especially after my dad passed away. But I don’t know if that’s even helping anymore—I’m just so tired all the time. The idea of hiring help feels like admitting I can’t handle it, and I don’t know how to let go of that.",
+    "therapist": "It sounds like you’ve been carrying this role of being the “strong one” for a long time, and it’s understandable that it feels challenging to step back or ask for help—especially when it’s tied to such a deep sense of responsibility. What might it feel like to consider that asking for help could actually be an act of strength, rather than a sign of failure?",
     "condition": "baseline",
-    "val_t": -0.21478736400604248,
-    "aro_t": 0.1492534875869751,
+    "val_t": -0.2503790855407715,
+    "aro_t": 0.14591503143310547,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I know logically that I should be kinder to myself, but it just feels... wrong somehow. Like if I go easy on myself, I'm making excuses for not being a better caregiver. My mom needed so much from me, and I keep thinking about all the ways I fell short.",
-    "therapist": "It sounds like there's a deep sense of responsibility and love behind these feelings, where being hard on yourself almost feels like honoring your mom's needs. I wonder if we could explore how self-compassion might actually help you be a more present caregiver, rather than taking anything away from your mom?",
+    "client": "I’ve never thought of it that way—that asking for help could be a strength. It’s just hard to shift my mindset because I’ve always believed I have to be the one to fix everything. Even considering hiring someone makes me feel like I’m abandoning her or taking the easy way out.",
+    "therapist": "It sounds like your belief that you have to fix everything has been a guiding principle for a long time, and shifting that mindset feels like a betrayal of your values—that’s such a deeply rooted perspective. What do you think it would mean for both you and your mom if you allowed yourself to share some of this responsibility with others?",
     "condition": "baseline",
-    "val_t": -0.24380815029144287,
-    "aro_t": 0.09863221645355225,
-    "text_emotion": "Sad"
+    "val_t": -0.09752106666564941,
+    "aro_t": 0.08592617511749268,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about self-compassion, but it's hard to imagine being kind to myself when my mom needs so much. I feel like if I let up even a little, I'm failing her. The guilt is overwhelming sometimes - like taking care of myself would mean neglecting her.",
-    "therapist": "That guilt speaks volumes about how much you love your mom - it's coming from care, not neglect. I wonder if we could gently examine whether taking care of yourself might actually give you more capacity to care for her, rather than taking anything away? What small act of self-care feels the least conflicting to you right now?",
+    "client": "I guess it might take some pressure off me, but I’m worried she won’t be comfortable with someone else caring for her. What if they don’t treat her the way I would? I know I can’t keep going like this, but trusting someone else feels so risky.",
+    "therapist": "It’s understandable to feel concerned about how someone else might care for her—your love and dedication to her well-being are so evident in your worry. Trusting someone else does feel risky, but it might also open up space for you to care for yourself, which ultimately benefits both of you—how might you approach finding someone who aligns with your values and her needs?",
     "condition": "baseline",
-    "val_t": -0.36538612842559814,
-    "aro_t": 0.09958434104919434,
-    "text_emotion": "Sad"
+    "val_t": -0.24566948413848877,
+    "aro_t": 0.16017687320709229,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but when I try to do something for myself, I just hear this voice saying \"You should be spending this time with your mom instead.\" Even taking a long shower feels selfish when she's sitting alone in the living room. I know logically that I need breaks, but the guilt is so overwhelming in the moment.",
-    "therapist": "That critical inner voice must feel so loud in those moments, making even basic self-care feel like a betrayal. It might help to notice that this guilt appears precisely because you're such a caring person - what would it feel like to acknowledge that voice with compassion while still choosing to care for yourself too?",
+    "client": "I guess I could start by researching caregivers or agencies with good reviews, but it’s still hard to imagine someone else stepping into this role. What if I hire someone and they don’t understand her needs the way I do? I feel like I’d have to micromanage everything, which kind of defeats the purpose of getting help.",
+    "therapist": "It sounds like you're caught between wanting relief and fearing that no one can meet your high standards of care—that tension is so real and valid. What would it look like to start small, maybe with just a few hours of help, so you can gradually build trust while still being closely involved?",
     "condition": "baseline",
-    "val_t": -0.35263192653656006,
-    "aro_t": 0.17510294914245605,
-    "text_emotion": "Angry"
+    "val_t": -0.11946666240692139,
+    "aro_t": 0.06246185302734375,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about the guilt coming from caring too much, but it's hard to believe I deserve that same compassion. When I try to be kind to myself, it just feels selfish - like I'm making excuses instead of pushing through like I should. The voice keeps saying \"real caring people don't need breaks.\"",
-    "therapist": "It sounds like that inner voice has set impossibly high standards where care and exhaustion can't coexist - but in reality, even the most loving caregivers need rest. What might it mean that your ability to feel this guilt actually proves how deeply you care, rather than showing any lack of care?",
+    "client": "Starting small makes sense in theory, but even a few hours feels like a huge leap. What if I’m not ready to let go, even for that short amount of time? I keep thinking about all the things that could go wrong, like her getting upset or confused with someone new. It’s hard to imagine feeling okay about it.",
+    "therapist": "It sounds like the fear of things going wrong is keeping you stuck, and the idea of letting go, even briefly, feels overwhelming—that’s completely understandable given how deeply you care for her. What might it look like to prepare for those first few hours in a way that feels safe for both of you, like being there initially to ease the transition?",
     "condition": "baseline",
-    "val_t": -0.19241869449615479,
-    "aro_t": 0.10254478454589844,
-    "text_emotion": "Angry"
+    "val_t": -0.10743129253387451,
+    "aro_t": 0.08639788627624512,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying logically, but it's hard to accept that in my gut. When I take time for myself, all I can think is \"I should be doing more\" - like if I truly cared enough, I wouldn't need breaks. The guilt feels like proof I'm not doing enough, not the opposite. \n\nIt's frustrating because part of me knows you're right, but the louder part keeps insisting I'm just making excuses. Have you worked with other people who struggle with this? How do they get past that mental block?",
-    "therapist": "It's completely understandable to feel stuck between knowing something intellectually and feeling it emotionally - that gap can be so frustrating. Many caregivers share this exact struggle, and what often helps is starting with tiny acts of self-care while acknowledging the guilt, rather than trying to make it disappear completely. What would happen if you experimented with taking a 5-minute break while consciously noticing that the guilt you feel is actually evidence of your deep love?",
+    "client": "I guess I could try being there the first time to see how it goes, but what if it doesn’t work out? I’m worried I’ll just end up feeling more stressed trying to manage someone else’s caregiving. It feels like I’m adding another thing to my plate instead of easing it.",
+    "therapist": "It makes sense that introducing a new caregiver feels like adding another responsibility rather than relieving one—that’s such a valid concern when you’re already stretched so thin. What would need to happen for you to feel like this was truly helping rather than creating more work for you?",
     "condition": "baseline",
-    "val_t": -0.24461281299591064,
-    "aro_t": 0.0936664342880249,
+    "val_t": -0.24618959426879883,
+    "aro_t": 0.06599009037017822,
     "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about small steps, but even 5 minutes feels selfish when there's so much to do. The guilt just floods in immediately, like if I take that break, I'm failing the people who depend on me. I know logically that breaks are important, but it feels like I'm abandoning my responsibilities.",
-    "therapist": "That flood of guilt shows just how deeply committed you are to your responsibilities - it's coming from care, not carelessness. What if we reframed those 5 minutes not as \"taking away\" from your responsibilities, but as \"fueling\" your ability to meet them? How might your caregiving actually benefit from you being slightly more rested?",
+    "client": "I think I'd need to see that they could handle things without me having to constantly check in or correct them. But that feels impossible—even my sister doesn't do things exactly how I would. Maybe I'm holding onto control too tightly, but I just don't know how to trust that she'll be okay without my direct involvement.",
+    "therapist": "It sounds like you’re recognizing that your need for things to be done \"just right\" might be making it harder to let go—that self-awareness is really powerful. What would it feel like to explore what \"okay enough\" care might look like, even if it’s not perfect?",
     "condition": "baseline",
-    "val_t": -0.36193883419036865,
-    "aro_t": 0.1062307357788086,
-    "text_emotion": "Sad"
+    "val_t": -0.1797630786895752,
+    "aro_t": 0.12681031227111816,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about rest being fuel, but it's hard to believe when I see how much still needs to be done. Even those 5 minutes feel selfish when my mom's medication schedule is so tight and my kids have homework piling up. The guilt doesn't feel like care - it feels like I'm failing to meet all their needs.",
-    "therapist": "It sounds like the weight of all these responsibilities makes any pause feel like you're letting people down, when in reality you're carrying an impossible load. I wonder if we could explore what \"good enough\" care might look like in this situation, rather than holding yourself to perfect standards?",
+    "client": "\"Okay enough\" sounds terrifying, to be honest. What if \"okay enough\" means she's uncomfortable or scared when I'm not there? I know logically she might adjust, but the thought of her feeling abandoned even for a little while makes my chest tighten. How do I know where to draw that line between reasonable standards and just being controlling?",
+    "therapist": "It sounds like the fear of her feeling uncomfortable or scared is deeply tied to your love for her—that’s such a natural and caring response. Drawing the line between reasonable standards and control can be so tricky—what might it look like to start with small, manageable steps while reminding yourself that her discomfort doesn’t necessarily mean abandonment?",
     "condition": "baseline",
-    "val_t": -0.3739018440246582,
-    "aro_t": 0.14153790473937988,
-    "text_emotion": "Sad"
+    "val_t": -0.3544600009918213,
+    "aro_t": 0.3409222364425659,
+    "text_emotion": "Angry"
   }
 ]

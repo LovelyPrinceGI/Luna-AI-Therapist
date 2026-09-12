@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I’ve been really struggling lately. After getting laid off from my job last month, I feel overwhelmed by the uncertainty of my financial future and the pressure to find something new. It’s hard to stay positive, and I’m not even sure if therapy can really help with this.",
-    "therapist": "Hi there, I’m really sorry to hear that you’re feeling this way. It sounds like the uncertainty and pressure are taking a significant toll on you. It’s completely understandable to feel overwhelmed in such a challenging situation. How have you been coping with these feelings so far?",
+    "client": "Hey Luna, I've been really struggling since I got laid off last month. The uncertainty about my financial future and the pressure to find a new job are just overwhelming. I know I should be more proactive, but I keep feeling stuck and anxious. To be honest, I'm not even sure if therapy can really help with this.",
+    "therapist": "Hey there, I can really hear how overwhelming and challenging this time must be for you. It’s completely understandable to feel stuck and anxious, especially with the uncertainty and pressure you're facing. How have you been coping with these feelings so far, and is there anything that has brought you even a small sense of relief or control?",
     "condition": "emotion_text_only",
-    "val_t": -0.3113889694213867,
-    "aro_t": 0.237329363822937,
+    "val_t": -0.33918511867523193,
+    "aro_t": 0.22732067108154297,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks for understanding, Luna. I've been trying to manage my anxiety by staying busy and keeping a routine, but it only helps a little. Sometimes I feel like I'm just pushing the worry aside and it keeps coming back.",
-    "therapist": "I can see that you’ve been putting in a lot of effort to manage your anxiety, and it’s tough when those strategies only provide a bit of relief. It’s natural for worries to keep coming back, especially during such uncertain times. Have there been any moments or activities that have brought you a sense of calm or distraction, even if just for a short while?",
+    "client": "I've been trying to stay busy by networking and updating my resume, but it feels like I'm just going through the motions. Sometimes I just end up scrolling through social media for hours, which doesn't help at all. Honestly, I feel like I'm just delaying the inevitable and that makes me feel even more guilty and anxious. I'm not sure if there's anything that really brings me relief right now.",
+    "therapist": "It sounds like you’re really pushing yourself to stay active, but the sense of going through the motions and the guilt from procrastination can be really tough. It’s important to recognize that these feelings are valid and part of a challenging situation. Have you tried breaking down your tasks into smaller, more manageable steps to see if that helps you feel a bit more in control and less overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": 0.23277819156646729,
-    "aro_t": 0.10611879825592041,
-    "text_emotion": "Excited"
+    "val_t": -0.3148975372314453,
+    "aro_t": 0.15484440326690674,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, sometimes I find that going for a walk or listening to music helps a bit, but it feels so temporary. The anxiety always seems to come back, and it’s hard to find things that really make a lasting difference. I guess I’m just frustrated because I feel like I’m trying everything, but nothing seems to stick.",
-    "therapist": "It sounds like you’re doing your best to find moments of relief, and that’s really commendable. It’s completely understandable to feel frustrated when those moments feel temporary and the anxiety keeps coming back. It can be disheartening to feel like your efforts aren’t making a lasting difference. Have you tried exploring any new coping strategies or techniques that might help you manage the anxiety in a different way?",
+    "client": "I appreciate the suggestion, but I don't think breaking things down into smaller steps will work for me. It feels like no matter how small I make the tasks, I still end up feeling overwhelmed and paralyzed. Plus, I worry that if I don't find a job quickly, I'll fall behind even more. It's hard to see how smaller steps will make a difference when the end goal feels so far away.",
+    "therapist": "I hear you, and it’s completely understandable to feel that way when the end goal seems so distant and the pressure is high. It’s important to acknowledge that these feelings of overwhelm and paralysis are valid. Sometimes, it can be helpful to focus on what you can control in the present moment, even if it’s just a small step. For example, setting a specific time each day to work on your job search and taking breaks to do something that brings you a bit of peace or joy. How do you think that might feel, or is there another way you can see yourself approaching this challenge?",
     "condition": "emotion_text_only",
-    "val_t": -0.247589111328125,
-    "aro_t": 0.17767620086669922,
+    "val_t": -0.13620257377624512,
+    "aro_t": 0.10488152503967285,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It’s just hard because I feel like I’ve tried so many things already, and nothing seems to stick. I don’t know if there’s anything new out there that could really make a difference. It feels like a never-ending cycle, and that’s what’s so frustrating.",
-    "therapist": "I can really understand how frustrating it must be to feel like you’ve tried so many things and still not find lasting relief. It’s natural to wonder if there’s anything else that can help break the cycle. Sometimes, exploring different angles, like challenging some of the thoughts that come with the anxiety, can offer new insights. What are some of the thoughts or beliefs you find yourself returning to during these anxious moments?",
+    "client": "I understand what you're saying, but it's hard to focus on the present when the future feels so uncertain. Setting specific times for job searching sounds good in theory, but I worry it will just make me feel more anxious if I don't see immediate results. I guess I'm just not sure how to find that balance between being proactive and not burning myself out.",
+    "therapist": "I can understand how challenging it is to find that balance, especially when the future feels uncertain. It’s a valid concern to worry about feeling more anxious if you don’t see immediate results. One approach could be to set very small, achievable goals for each day, and celebrate those small victories to help build momentum. For example, maybe just reaching out to one contact or spending 30 minutes updating your resume. How do you think that might feel, and do you think it could help you feel a bit more in control without adding too much pressure?",
     "condition": "emotion_text_only",
-    "val_t": -0.09927976131439209,
-    "aro_t": 0.22644150257110596,
+    "val_t": -0.15863120555877686,
+    "aro_t": 0.08720386028289795,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I often find myself thinking that I’m not good enough, that I’m failing at everything I do. It’s like a constant loop in my head, and it just makes me feel more isolated and anxious. I’ve tried to challenge these thoughts before, but they feel so deeply rooted that it’s hard to believe anything different.",
-    "therapist": "It’s really tough when those negative thoughts feel so persistent and deeply rooted. It’s understandable that they can make you feel isolated and anxious, especially when you’ve tried to challenge them before. It can be helpful to start by gently questioning the evidence for and against these thoughts. For example, what are some instances where you have succeeded or shown your capabilities, even if they seem small?",
+    "client": "I see what you mean about setting small goals, but I still worry that even those small steps won't feel like enough. It's hard to celebrate something that seems so minor when the overall situation feels so dire. I guess I just need to find a way to feel more confident that these small steps will actually lead to something meaningful. Do you have any suggestions for how I can build that confidence?",
+    "therapist": "It’s totally understandable to feel that way, and it’s important to acknowledge how significant those concerns are. Building confidence in small steps can be a gradual process. One approach is to reflect on past experiences where small actions eventually led to bigger outcomes. Can you think of any times in your life where taking small, consistent steps helped you achieve something meaningful? Also, consider tracking your progress, no matter how small, to see the tangible evidence of your efforts. How do you think that might help you feel more confident in the process?",
     "condition": "emotion_text_only",
-    "val_t": -0.2955288887023926,
-    "aro_t": 0.1282339096069336,
-    "text_emotion": "Angry"
+    "val_t": 0.08369231224060059,
+    "aro_t": 0.12332093715667725,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I understand what you're saying, but it's hard for me to recall those moments of success when I feel so overwhelmed by my failures. It's like every small win gets overshadowed by the bigger picture of my struggles. I don't know if focusing on those small successes will really make a difference when the negative thoughts feel so overwhelming.",
-    "therapist": "I completely understand how challenging it can be to focus on those small successes when the bigger picture of your struggles feels so overwhelming. It’s natural for negative thoughts to overshadow the positive ones, especially when you’re feeling down. It might help to start with even the smallest of wins and build from there. Can you think of any tiny moments, no matter how small, where you felt a sense of accomplishment or progress recently?",
+    "client": "I appreciate the idea of reflecting on past successes, but it's hard for me to think of examples right now. Most of my past achievements feel like they happened in different circumstances, and the current situation just feels so unique and challenging. I do think tracking my progress might help, but I'm not sure how to do that without feeling like I'm just documenting my failures. It's a good idea, but I'm still skeptical about how it will work for me.",
+    "therapist": "I understand that it can be really tough to find those past examples, especially when the current situation feels so different and challenging. It’s completely normal to feel skeptical about tracking your progress, but it can be a powerful tool when done in a supportive and non-judgmental way. One approach could be to focus on the effort and actions you take, rather than just the outcomes. For example, you could note down each time you send out a resume, reach out to a contact, or spend time on your job search. This way, you’re recognizing the steps you’re taking, even if they don’t immediately lead to a job offer. How does that sound to you, and do you think it might help you feel more positive about the process?",
     "condition": "emotion_text_only",
-    "val_t": -0.2361515760421753,
-    "aro_t": 0.17224013805389404,
+    "val_t": -0.08607470989227295,
+    "aro_t": 0.1424480676651001,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but it's just really hard to find those small wins when everything feels so heavy. I mean, I did manage to get out of bed and do some chores yesterday, but it felt more like a chore than an accomplishment. It’s tough to see the good when the bad is so loud in my head.",
-    "therapist": "I hear you, and it’s completely understandable that it feels really hard to find those small wins when everything seems so heavy. It’s a testament to your resilience that you were able to get out of bed and do chores, even if it felt more like a chore than an accomplishment. Sometimes, just doing the basics can be a significant achievement in itself. How about we try to write down a few of these small moments each day, no matter how minor they might seem? It can help to build a more balanced view over time.",
+    "client": "I see your point about focusing on the effort rather than just the outcomes, and I think that could be helpful. I'll give it a try, but I still worry that it might not be enough to shift my mindset. It's hard to feel positive when the stakes feel so high, but I'm willing to give it a shot and see if it helps.",
+    "therapist": "I’m glad you’re willing to give it a try, and it’s totally understandable to still have some concerns. Shifting your mindset can take time, and it’s okay to take it one step at a time. Recognizing and celebrating your efforts, no matter how small, can be a powerful way to build momentum and gradually feel more positive. How do you think you can support yourself during this process, or is there someone in your life who could offer encouragement and accountability?",
     "condition": "emotion_text_only",
-    "val_t": -0.03136622905731201,
-    "aro_t": 0.10357987880706787,
+    "val_t": 0.05705404281616211,
+    "aro_t": 0.07069063186645508,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It does feel like a small victory to just get through the day sometimes. But I'm not sure if writing down these moments will really make a difference. It feels a bit forced, and I'm worried it might just end up feeling like another thing on my to-do list.",
-    "therapist": "I understand that it can feel forced or like just another task, and I really appreciate your honesty about that. It’s important to find strategies that feel genuine and helpful to you. Maybe we can start with a lighter approach, like just noticing and acknowledging those small moments in the moment, without the pressure to write them down. How does that feel? Could there be other ways to celebrate these small victories that feel more natural to you?",
+    "client": "I think having someone to check in with might help. I have a friend who is also job hunting, and we could maybe support each other. But I'm a bit worried that it might just add more pressure if we both feel stuck. How can we make sure it’s a positive and supportive dynamic?",
+    "therapist": "It’s a great idea to have a support system, especially someone who understands what you’re going through. Having a friend to check in with can be incredibly helpful, but it’s important to set up a supportive dynamic that feels positive and pressure-free. You might consider setting some ground rules, like focusing on the efforts and small wins each of you make, rather than just the outcomes. You could also take turns being the listener and the one sharing your progress, which can help create a balanced and supportive environment. How do you think that might work for you and your friend?",
     "condition": "emotion_text_only",
-    "val_t": -0.06486093997955322,
-    "aro_t": 0.15041697025299072,
-    "text_emotion": "Angry"
+    "val_t": -0.017180681228637695,
+    "aro_t": 0.10613071918487549,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate you understanding that, Luna. It does feel like less pressure to just notice those moments without writing them down. But I'm still a bit skeptical—how do I make sure I actually notice those moments, and what if I still feel like I’m not doing it right?",
-    "therapist": "I’m glad that acknowledging those moments without the pressure to write them down feels a bit more manageable. It’s totally normal to be a bit skeptical, and it’s important to find a way that feels right for you. One way to help yourself notice those moments could be to set gentle reminders for yourself, like a small alarm or a note, to pause and reflect on what you’ve accomplished or noticed during the day. What do you think about that? How can we make it feel more natural and less like another task?",
+    "client": "I like the idea of setting ground rules and focusing on the efforts and small wins. It could really help us stay positive and avoid adding more pressure. I think taking turns being the listener and the one sharing progress could work well, as long as we both stay committed to being supportive and non-judgmental. I'll talk to my friend about it and see if she's on board.",
+    "therapist": "That sounds like a really thoughtful and positive approach, and I’m glad you’re feeling more hopeful about it. Setting those ground rules and focusing on mutual support can make a big difference. When you talk to your friend, you might also consider setting a specific time to check in with each other, so it becomes a regular and reliable part of your routine. How do you think that might help, and is there anything else you’d like to discuss or prepare for before you have that conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.05248212814331055,
-    "aro_t": 0.1631314754486084,
-    "text_emotion": "Tense"
+    "val_t": 0.16162419319152832,
+    "aro_t": 0.08823895454406738,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea of using reminders, but I worry it might end up feeling like another chore on my to-do list. It’s hard because I already feel overwhelmed with everything else I have to manage. How can we make sure it doesn’t add to my stress?",
-    "therapist": "I understand your concern about adding another task to your already full plate, and it’s really important to find something that doesn’t add to your stress. Instead of setting reminders, we could try a more spontaneous approach. For example, whenever you notice a small victory or a moment of progress, even if it’s just getting through a tough moment, you could take a deep breath and silently acknowledge it to yourself. How does that feel? Could this be a way to recognize your efforts without it feeling like another to-do item?",
+    "client": "I think setting a specific time to check in will help us stay accountable and make it a priority. It’s a good idea to treat it like a regular part of our routine. I just want to make sure we both feel comfortable and supported, so I’ll make sure to express that when I talk to her. I appreciate your suggestions; they’ve really helped me think through this more clearly.",
+    "therapist": "I’m really glad to hear that you’re feeling more positive about setting up this support system with your friend. It’s great that you’re thinking about how to make it comfortable and supportive for both of you. Setting a specific time to check in can definitely help make it a priority and keep you both accountable. When you talk to her, you might also consider sharing how much you value her support and how it’s helping you stay motivated. How do you think that might strengthen your connection and make the process even more effective?",
     "condition": "emotion_text_only",
-    "val_t": -0.1678389310836792,
-    "aro_t": 0.17759358882904053,
-    "text_emotion": "Angry"
+    "val_t": 0.2581498622894287,
+    "aro_t": 0.11275386810302734,
+    "text_emotion": "Excited"
   }
 ]

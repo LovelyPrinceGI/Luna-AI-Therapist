@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed by my new job lately. After my colleague pointed out my mistakes during the team meeting last week, it's like my confidence just took a nosedive. I keep replaying that moment in my head, and I'm not sure if therapy can really help me manage this anxiety and self-doubt.",
-    "therapist": "It sounds like that moment in the meeting has really impacted your confidence and is causing you a lot of distress. It’s completely understandable to feel overwhelmed and anxious in a new job, especially after receiving feedback that feels negative. What do you think might help you begin to shift your perspective on that situation?",
+    "client": "I've been feeling really overwhelmed by my new job lately. Last week, during a team meeting, a colleague pointed out some mistakes I made, and it just made everything feel so much worse. I can't shake the feeling that I'm not good enough for this position, and it's causing a lot of anxiety for me.",
+    "therapist": "It's completely understandable to feel overwhelmed, especially when receiving feedback that feels critical. It's important to remember that everyone makes mistakes, and they don't define your worth or abilities. What specific thoughts come to mind when you reflect on that meeting and your feelings of inadequacy?",
     "condition": "baseline",
-    "val_t": -0.2518247365951538,
-    "aro_t": 0.25385868549346924,
+    "val_t": -0.4359562397003174,
+    "aro_t": 0.28886890411376953,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I really appreciate you saying that, but honestly, I feel like my confidence is shot right now. I keep replaying that moment in the meeting, and it just makes me feel like I don’t belong there. Shifting my perspective feels really hard because I’m afraid that if I try to think positively, it’ll just come off as fake or that I’m ignoring the reality of the situation.",
-    "therapist": "It’s completely valid to feel that your confidence has taken a hit, and it's understandable to worry that positive thinking might seem disingenuous. Acknowledging your feelings and the reality of the situation is important, and it doesn’t mean you can’t also explore other perspectives. What if we took a moment to identify any strengths or accomplishments you’ve had in your new role that could help balance those feelings of self-doubt?",
+    "client": "I keep thinking about how my colleague pointed out my mistakes in front of everyone, and it feels like I'm just going to keep messing up. I worry that they're all judging me and that I don't belong there. It’s hard to shake off that feeling of inadequacy, especially when I feel like I should be performing better.",
+    "therapist": "It sounds like you're carrying a lot of pressure to perform perfectly, and it's natural to feel vulnerable when mistakes are highlighted publicly. It’s worth exploring the idea that your colleagues likely experience their own challenges and may not be judging you as harshly as you feel. What evidence do you have that suggests you don’t belong, and how might you view this situation from a more compassionate perspective?",
     "condition": "baseline",
-    "val_t": -0.2553950548171997,
-    "aro_t": 0.22544574737548828,
+    "val_t": -0.36287248134613037,
+    "aro_t": 0.15638983249664307,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you acknowledging how I feel, but it’s hard to see any strengths or accomplishments right now. I just feel like I've been struggling to keep up, and I can’t shake the feeling that I'm not good enough for this role. It seems overwhelming to think about what I might have done well when I’m focused on all the mistakes I've made.",
-    "therapist": "It sounds like you’re really caught in a cycle of focusing on your struggles and mistakes, which can understandably cloud your view of any successes. It’s okay to feel this way, and recognizing that you're struggling is a step in itself. What if we took a small step together to identify even one positive experience or moment from your job, no matter how minor it may seem?",
+    "client": "I guess I don’t really have solid evidence that I don’t belong; it’s more of a feeling I have. I’ve just been comparing myself to my colleagues and thinking they are all so much more capable than I am. It feels hard to be compassionate with myself when I’m stuck in that mindset, and I’m not sure how to change it.",
+    "therapist": "It's really insightful that you've recognized those feelings are more about perception than evidence. Comparing ourselves to others can create a distorted view of our own abilities, but it’s important to acknowledge your unique strengths and experiences. What small steps could you take to challenge those comparisons and start recognizing your own achievements?",
     "condition": "baseline",
-    "val_t": -0.17911267280578613,
-    "aro_t": 0.18314099311828613,
-    "text_emotion": "Angry"
+    "val_t": -0.22854578495025635,
+    "aro_t": 0.07531297206878662,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, but it feels really hard to pinpoint any positive experiences right now. When I think about my job, all I can remember are the mistakes I've made or the times I felt overwhelmed. It’s frustrating because it seems like no matter how small the positive might be, it just gets overshadowed by everything else.",
-    "therapist": "It’s completely understandable that the weight of your mistakes feels so heavy right now, making it hard to recall any positives. It’s frustrating when our minds focus on the negatives, and it’s a common experience. What if we try to gently challenge that by reflecting on any feedback you’ve received from your colleagues or even moments when you felt competent, even if they seem small? Would exploring those together feel manageable?",
+    "client": "I appreciate that perspective, but it feels tough to even know where to start. I often get stuck in my head, and I just don’t know how to focus on my own achievements when I feel so overshadowed by others. It’s like I can’t see the good in what I do; I just fixate on what went wrong.",
+    "therapist": "It’s completely normal to feel overwhelmed and to focus on what went wrong, especially when you’re in a new environment. It might help to start by setting aside a few moments each day to reflect on at least one positive thing you accomplished, no matter how small. What might be one achievement or moment from your day that you could acknowledge, and how would it feel to give yourself credit for that?",
     "condition": "baseline",
-    "val_t": -0.17771410942077637,
-    "aro_t": 0.14998328685760498,
+    "val_t": -0.09092628955841064,
+    "aro_t": 0.11992192268371582,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, but it feels tough to think about any positives right now. All I can focus on are the mistakes I’ve made, and the feedback I’ve received just seems like a polite way of saying I’m not good enough. I’m not sure how reflecting on those moments will help when it feels like I'm stuck in this negative loop.",
-    "therapist": "It makes sense that you’re feeling stuck in that negative loop, especially when the feedback feels more discouraging than constructive. It’s important to honor where you are right now, and it can be tough to break free from that cycle. What do you think could be a small step to help you begin to notice things from a different angle, even if it feels challenging?",
+    "client": "I can see how that could be helpful, but honestly, I’m not sure if I can find anything positive in my day right now. Most of the time, it feels like I'm just getting through each task without really accomplishing anything meaningful. It feels pretty discouraging to think about trying to celebrate small wins when I’m just trying to survive the daily anxiety.",
+    "therapist": "It sounds like you're feeling really weighed down by the anxiety and pressure of your daily tasks, which can make it hard to recognize any sense of accomplishment. It’s okay to feel that way, and it’s a sign of how much you’re managing right now. What if we explored together some aspects of your day that, even in small ways, bring you a sense of relief or comfort, regardless of how you might label them?",
     "condition": "baseline",
-    "val_t": -0.15882956981658936,
-    "aro_t": 0.07586884498596191,
-    "text_emotion": "Angry"
+    "val_t": 0.002750992774963379,
+    "aro_t": 0.16240930557250977,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you recognize how stuck I feel, but honestly, it’s hard for me to see a way out. It just feels like every time I try to shift my perspective, I get hit with the same discouraging thoughts. I keep thinking, “What if I try to reframe things and it doesn’t work?” It feels like more pressure to put on myself.",
-    "therapist": "I can see how that pressure to reframe your thoughts might feel overwhelming, especially when you’re already navigating so much. It’s completely normal to worry about trying something new and fearing it won’t help. What if we considered taking the pressure off and viewed reframing as an experiment rather than a requirement? How might that change your feelings about trying it out?",
+    "client": "I guess there are little things that help me feel better, like when I take a short walk during my lunch break or when I listen to my favorite music. But I still struggle to see those as accomplishments; they feel more like distractions. It’s hard for me to connect those moments to my overall worth or ability at work.",
+    "therapist": "It's great that you've identified those little moments that bring you some comfort, even if they feel like distractions right now. Those activities can actually be vital in helping you recharge and manage your stress, and they reflect your ability to care for yourself during tough times. How might you start to view these moments not just as distractions, but as essential parts of your routine that support your overall well-being and productivity at work?",
     "condition": "baseline",
-    "val_t": -0.15881109237670898,
-    "aro_t": 0.1482546329498291,
-    "text_emotion": "Angry"
+    "val_t": -0.05852186679840088,
+    "aro_t": 0.04909491539001465,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate you trying to take some pressure off, but it still feels like a lot to manage. Experimenting sounds less intimidating, but I worry that even if I try reframing, it might not change anything for me. I just have this nagging feeling that my thoughts are too entrenched, and I’m not sure I can shift them.",
-    "therapist": "I hear you—feeling that your thoughts are entrenched can be really discouraging, and it’s understandable to worry that trying to shift them might not lead to change. It’s important to acknowledge that change takes time and patience, and it’s okay to feel uncertain about the process. What if we explored one very small thought or belief together that you feel is particularly entrenched, just to see how it resonates with you?",
+    "client": "I see your point about those moments being important, but it’s still hard for me to shift my mindset. I often feel guilty for taking breaks, like I should be working instead. It’s like I’m stuck in this cycle where I think I have to constantly push through, and I worry that if I start seeing those moments as essential, I’ll get too comfortable and not keep up with my responsibilities.",
+    "therapist": "It’s understandable to feel guilty about taking breaks, especially when there’s pressure to constantly perform. However, those moments of self-care can help you regain focus and energy, ultimately enhancing your productivity. What if we explored the idea that taking breaks could actually support your responsibilities rather than detract from them? How might you experiment with allowing yourself guilt-free time to recharge, and what would that look like for you?",
     "condition": "baseline",
-    "val_t": -0.16399753093719482,
-    "aro_t": 0.08101177215576172,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I guess I can try to think of a specific belief, but honestly, it feels overwhelming. One thought that keeps coming up is that I'm not good enough, especially when I compare myself to others. It's hard to even start unpacking that because it feels so ingrained, and I worry that even if we talk about it, nothing will really change.",
-    "therapist": "It’s completely understandable to feel overwhelmed when facing such a deeply ingrained belief, and your concern about change is valid. Recognizing that thought of not being good enough is a significant first step. What if we took a moment to explore where that belief comes from and whether there might be any evidence that challenges it? This could help us unpack it together without the pressure of needing to change it right away. How does that sound to you?",
-    "condition": "baseline",
-    "val_t": -0.26818180084228516,
-    "aro_t": 0.10542702674865723,
+    "val_t": -0.16542291641235352,
+    "aro_t": -0.0146559476852417,
     "text_emotion": "Sad"
   },
   {
-    "turn": 9,
-    "client": "I get what you're saying, and I appreciate that you're trying to help me unpack this belief. But honestly, it feels daunting to dig into where it came from; I have this nagging feeling that I might just end up feeling worse about myself. Plus, I’m not sure I can find any evidence that challenges it because it feels so ingrained in me.",
-    "therapist": "I completely understand your hesitation to dig deeper into that belief, especially when it feels daunting and you’re concerned about feeling worse. It’s okay to take your time with this process, and we don’t have to rush into exploring it if that feels uncomfortable. What if we focused on just acknowledging that belief for now, without the pressure of unpacking it? How does that feel to you?",
+    "turn": 8,
+    "client": "I see what you’re saying about breaks potentially helping my productivity, but it still feels like a risk. I worry that if I allow myself to take those breaks without feeling guilty, I might end up procrastinating or not getting my work done. It feels daunting to think about changing my routine when I’m already struggling so much with anxiety about my performance.",
+    "therapist": "It's completely valid to feel apprehensive about changing your routine, especially when you're already managing anxiety about performance. It might be helpful to view this as an experiment rather than a commitment—allowing yourself to take short breaks and observing how it affects your focus and productivity. What if you tried scheduling brief breaks into your day, treating them as a part of your work routine, and then reflecting on how you felt afterward?",
     "condition": "baseline",
-    "val_t": -0.20347273349761963,
-    "aro_t": 0.151444673538208,
+    "val_t": -0.22915387153625488,
+    "aro_t": 0.1524728536605835,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I see what you're saying about treating it like an experiment, but I still feel really hesitant. What if I take those breaks and it ends up making me feel even more anxious about not getting my work done? It’s hard for me to trust that this will actually help instead of making things worse, and I’m not sure how to balance it all.",
+    "therapist": "It's completely understandable to feel hesitant about trying something new, especially when anxiety is involved. Trust takes time, and it's okay to be cautious as you explore these changes. What if you started with very short breaks, perhaps just a few minutes, and monitored how they feel for you? That way, you can gradually build confidence in the process while staying connected to your work. How does that approach sound to you?",
+    "condition": "baseline",
+    "val_t": -0.1891704797744751,
+    "aro_t": 0.0918198823928833,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're being gentle with this process, but honestly, just acknowledging the belief feels like a slippery slope. I'm worried that if I start to acknowledge it, I might spiral into a deeper sense of guilt or anxiety about it. It’s hard for me to separate the acknowledgment from the emotions that come with it.",
-    "therapist": "It’s completely valid to feel concerned about acknowledging that belief, especially when it’s tied to feelings of guilt and anxiety. It’s important to approach this at a pace that feels safe for you. What if we focused on just observing the belief, without diving into the emotions it brings up? We could practice noticing it without judgment, as if we’re watching clouds pass by. How does that idea resonate with you?",
+    "client": "I appreciate the suggestion of starting with very short breaks, but I still feel worried about even trying that. What if I get too distracted during those few minutes and struggle to refocus afterward? It feels like a lot to ask of myself when I’m already dealing with so much anxiety about my performance.",
+    "therapist": "It's completely valid to feel anxious about the possibility of getting distracted, especially when you're already feeling overwhelmed. Starting with just a minute or two might make it feel more manageable, and you could even use that time for a specific activity, like deep breathing or stretching, which can help ground you. How would it feel to try just one minute of a mindful break and see how it impacts your focus afterward, without any pressure to make it perfect?",
     "condition": "baseline",
-    "val_t": -0.17079484462738037,
-    "aro_t": 0.11328661441802979,
+    "val_t": -0.2289581298828125,
+    "aro_t": 0.14760005474090576,
     "text_emotion": "Angry"
   }
 ]

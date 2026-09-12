@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just can't stop thinking about my grandma since she passed away last month. Everything reminds me of her, and it makes me wonder what's even the point of anything if we all just end up gone anyway. I know therapy is supposed to help, but I'm not sure talking can really fix this kind of pain.",
-    "therapist": "It sounds like you're carrying a deep sadness about your grandma's passing, and those thoughts about mortality feel especially heavy right now. When these waves of grief come up, what kinds of memories or moments tend to bring you both pain and maybe some comfort too?",
+    "client": "Ever since my grandmother passed away last month, I’ve been feeling this heavy sadness that just won’t go away. I keep thinking about her and how much she meant to me, and it makes me question my own life—like, what’s the point of anything if everything ends so abruptly? I’m not sure if talking about it will really help me feel better.",
+    "therapist": "It sounds like this loss has left you with a deep sense of sorrow and uncertainty, and it’s understandable to feel this way when someone so important to you is no longer here. When you think about your grandmother, what memories or qualities of hers feel most meaningful to you right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.2166057825088501,
-    "aro_t": 0.12339389324188232,
-    "text_emotion": "Angry"
+    "val_t": -0.3382718563079834,
+    "aro_t": 0.1327838897705078,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I keep remembering how she used to make my favorite soup whenever I was sick, and now I'll never taste that again. It's comforting to think about those moments, but then I just feel guilty for not visiting her more often before she passed. The memories make me smile for a second before the sadness crashes back in even harder.",
-    "therapist": "It sounds like these bittersweet memories bring both warmth and pain, like waves that lift you up before pulling you under again. That guilt you're feeling—would it be okay to explore what thoughts come up when you focus on those \"should have\" moments?",
+    "client": "I remember how she always made me feel so cared for—she’d bake my favorite cookies and sit with me for hours, just listening to me talk about anything. But now that she’s gone, it feels like that warmth is missing from my life, and I don’t know how to fill that void. It’s hard to focus on the good memories when the grief feels so overwhelming.",
+    "therapist": "It sounds like her warmth and presence were such a big part of your life, and losing that has left a significant void. Grief can feel overwhelming, especially when it’s so fresh—but focusing on those cherished memories, like her cookies and the way she listened, might help you reconnect with the love she gave you. What do you think she’d want for you during this difficult time?",
     "condition": "emotion_text_only",
-    "val_t": -0.12243127822875977,
-    "aro_t": 0.1014024019241333,
+    "val_t": -0.12767767906188965,
+    "aro_t": 0.17756307125091553,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, I guess I can try to focus on those \"should have\" moments. It's just...when I think about how I wasn't there for my mom more before she passed, my chest gets tight and I immediately want to push the thoughts away. Part of me knows I did my best, but the louder voice keeps saying I should have visited more, should have called more. \n\nIt's hard because when I try to explore it, I just spiral into beating myself up. Like, what's the point of digging it up if I can't change anything now?",
-    "therapist": "I hear how painful this self-reflection feels—like touching a bruise that hasn't healed yet. When that critical voice gets loud about what you \"should have\" done, could we gently examine what evidence exists for the quieter voice that says you did your best?",
+    "client": "I think she’d want me to be happy and keep moving forward, but it’s hard to do that when I feel so empty without her. I try to think about the good times, but then I just end up crying because I miss her so much. Focusing on the memories feels bittersweet—it’s comforting in a way, but it also makes the loss feel even more real.",
+    "therapist": "It sounds like your love for her is still very much alive, even though her absence is deeply felt. That bittersweetness you describe—where comfort and pain overlap—is a natural part of grieving someone so important to you. How might it feel to honor her by carrying forward some of the things she taught or gave you, even in small ways?",
     "condition": "emotion_text_only",
-    "val_t": -0.1880878210067749,
-    "aro_t": 0.1846616268157959,
+    "val_t": -0.17075538635253906,
+    "aro_t": 0.0889807939529419,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know... when I try to think about evidence that I did my best, it just makes me feel worse because I can see all the ways I messed up. That critical voice feels more convincing because it has so many examples of my failures to point to. The quieter voice just sounds naive, like I'm making excuses for myself.",
-    "therapist": "It sounds like that critical voice has been keeping a detailed record of every perceived shortcoming, while dismissing any kindness toward yourself as naive. When you think about someone else in your position—say, a close friend who lost their grandma—would you hold them to the same unforgiving standard you're applying to yourself?",
+    "client": "I’ve thought about trying to bake her cookies or do something she loved, but it feels so hard to even start. Every time I think about it, I just get stuck in this loop of sadness and guilt—like I didn’t appreciate her enough when she was here. It’s hard to feel like I can honor her when I’m still drowning in regret.",
+    "therapist": "It sounds like the sadness and regret are making it feel almost impossible to take those first steps, and that’s completely understandable when grief is so fresh. It might help to remember that your love for her is what’s driving these feelings—not a lack of appreciation. What’s one small, manageable way you could start honoring her, even if it feels hard at first?",
     "condition": "emotion_text_only",
-    "val_t": -0.3001549243927002,
-    "aro_t": 0.10974574089050293,
+    "val_t": -0.38229167461395264,
+    "aro_t": 0.13696348667144775,
     "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I know I wouldn't judge a friend that harshly...but with myself it feels different. Like I should have handled my grandma's passing better, been more present for my family. When I think about being kinder to myself, it almost feels like I'm making excuses for my failures. \n\nThat critical voice keeps saying \"You don't deserve compassion when you messed up so badly.\" It's hard to argue with that.",
-    "therapist": "It sounds like you're caught between knowing intellectually that self-compassion is reasonable, but feeling emotionally that you don't deserve it—like there's a rule that kindness must be earned. What do you think that critical voice fears might happen if you truly allowed yourself some grace in this grieving process?",
+    "client": "Maybe I could try baking her cookies, even if it feels hard. But I’m worried it’ll just make me cry the whole time, and I’ll end up feeling worse. I don’t know if I’m ready for that kind of emotional experience—it feels like opening a wound I’ve been trying to avoid.",
+    "therapist": "It sounds like baking her cookies feels like a meaningful step, but the idea of facing those emotions head-on is also really daunting right now. It’s okay to take this slowly—grief doesn’t have to be rushed. What if you started with something smaller, like writing down her cookie recipe or just gathering the ingredients, to ease into it gently?",
     "condition": "emotion_text_only",
-    "val_t": -0.23867225646972656,
-    "aro_t": 0.10017263889312744,
+    "val_t": -0.3732430934906006,
+    "aro_t": 0.25134456157684326,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess that critical voice worries if I go easy on myself, I'll just become lazy or selfish. Like if I stop beating myself up over my mom's death, it means I didn't really love her enough. The guilt almost feels like proof that I cared.",
-    "therapist": "It sounds like that guilt has become tangled up with love in a way that makes self-compassion feel dangerous—like easing up would dishonor her memory. Could we explore how holding onto this pain might actually be keeping you from fully honoring what your grandma meant to you?",
+    "client": "Writing down her recipe or gathering ingredients does feel a little less overwhelming than baking right away. But even that feels like it’ll bring up so many memories—like how she’d always let me lick the spoon or how she’d hum while she baked. I guess I’m afraid that even small steps will make me feel worse instead of better.",
+    "therapist": "It sounds like those small steps still feel like they’ll bring up a lot of emotion, and that’s okay—grief often comes in waves, and it’s natural to feel hesitant about opening those memories. What if you gave yourself permission to feel whatever comes up, even if it’s painful, and reminded yourself that those feelings are a reflection of how much she meant to you? How does that idea sit with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.3863745927810669,
-    "aro_t": 0.13597404956817627,
-    "text_emotion": "Sad"
+    "val_t": -0.15523898601531982,
+    "aro_t": 0.08930492401123047,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That... actually makes me pause. I've never thought about it that way before. But it's hard to imagine letting go of the guilt because it feels like the only thing keeping me connected to her now. What if I stop feeling bad and just... forget her? \n\nI know that probably sounds irrational, but the pain is the last thing we shared, you know? If I heal from that, what's left?",
-    "therapist": "It makes so much sense that you'd worry about losing that connection—the pain has become a bridge to her memory. What if we gently explored other ways to honor her that don't require suffering, like celebrating what she loved or continuing traditions she cherished?",
+    "client": "It’s hard to think about giving myself permission to feel the pain—it feels like I’ve been trying to keep it at bay because it’s so overwhelming. But I guess avoiding it hasn’t really helped either—it just feels like the grief is waiting for me no matter what I do. I’m just not sure if I’m strong enough to handle those emotions right now.",
+    "therapist": "It sounds like you’ve been carrying this grief while trying to protect yourself from its intensity, which is completely understandable when it feels so overwhelming. Avoiding the pain might feel safer in the moment, but you’re right—it often just delays the inevitable. What would it feel like to take one small step toward acknowledging those emotions, even if it’s just for a few moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.25185680389404297,
-    "aro_t": 0.09081721305847168,
-    "text_emotion": "Sad"
+    "val_t": -0.4024028778076172,
+    "aro_t": 0.25159716606140137,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about finding other ways to remember her, but it feels wrong to just stop feeling the pain. Like if I'm not hurting, it means I didn't really love her enough. The traditions idea sounds nice in theory, but everything we used to do together just makes me miss her more now.",
-    "therapist": "I hear how deeply intertwined your love and pain feel right now—like the grief has become proof of your bond. When you notice that pull between honoring her and needing to heal, what would your grandma have wanted for you in this process of remembering her?",
+    "client": "Acknowledging the emotions feels scary—like I’ll get overwhelmed and won’t be able to stop crying. But I guess I’ve already been carrying this weight, so maybe letting myself feel it for a few moments wouldn’t be worse. I just don’t know if I’ll be able to handle it, or if it’ll make me feel even more stuck.",
+    "therapist": "It sounds like you’re caught between wanting to face these emotions and fearing they’ll be too much to handle—which is a really difficult place to be. Grief can feel overwhelming, but it’s also a natural part of healing, and you’re not alone in this. What would it feel like to try acknowledging those feelings for just a few moments, knowing you can pause whenever you need to?",
     "condition": "emotion_text_only",
-    "val_t": -0.16553819179534912,
-    "aro_t": 0.13578402996063232,
+    "val_t": -0.35748326778411865,
+    "aro_t": 0.1993170976638794,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That's a hard question. I know she'd want me to be happy, but it feels wrong to move on too quickly. Like if I stop hurting, it means I didn't love her enough. \n\nSometimes I think she'd tell me to stop crying and go live my life, but then I feel guilty for even imagining that. The pain is the only thing that still connects me to her.",
-    "therapist": "It sounds like you're carrying both your grief and your grandma's imagined voice—that tension between what you know she'd want for you and what your heart can accept right now. When that guilt surfaces at the thought of healing, what happens if you gently remind yourself that love isn't measured by pain, but by all the ways she shaped who you are?",
+    "client": "Trying to acknowledge the feelings for just a few moments feels like dipping my toe into a deep ocean—like I’m scared I’ll get pulled in and won’t be able to stop. I want to believe it could help, but it’s hard to trust that I’ll be okay afterward. What if I can’t handle it and it just makes things worse?",
+    "therapist": "It sounds like the idea of facing these emotions feels both necessary and terrifying, like standing at the edge of something vast and unknown. That fear of being overwhelmed is completely valid, especially when grief feels so deep. What if you started with something small, like journaling for just a minute or two, to test the waters gently? You’re not alone in this—what support might help you feel safer as you take these steps?",
     "condition": "emotion_text_only",
-    "val_t": -0.35044896602630615,
-    "aro_t": 0.10740482807159424,
-    "text_emotion": "Sad"
+    "val_t": -0.3019063472747803,
+    "aro_t": 0.2039409875869751,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I know you're right logically, but it still feels like if I stop hurting so much, I'm letting her go forever. The pain almost feels like proof that I still love her, you know? When I try to think about the good memories instead, I just get this tightness in my chest like I'm not honoring her properly.",
-    "therapist": "I hear how deeply important it feels to hold onto this pain as a way of keeping your love alive—like letting it fade would mean losing her all over again. That tightness in your chest when recalling happy memories—could we sit with that sensation together and explore what it might be trying to protect you from?",
+    "client": "Journaling for just a minute or two feels a little less scary than diving into everything at once. But even that feels like it’ll bring up so much—what if I start crying and can’t stop? It’s hard to imagine feeling safe doing something that feels so vulnerable, even if it’s just for a short time.",
+    "therapist": "It sounds like the idea of journaling feels manageable in theory, but the fear of being overwhelmed by emotions is still holding you back—which is completely understandable when grief feels so raw. Vulnerability can feel unsafe, especially when you’re used to protecting yourself from the intensity. What if you tried journaling with the understanding that it’s okay to cry or stop whenever you need to—would that feel a little more doable?",
     "condition": "emotion_text_only",
-    "val_t": -0.15730977058410645,
-    "aro_t": 0.24695587158203125,
+    "val_t": -0.2555694580078125,
+    "aro_t": 0.1411823034286499,
     "text_emotion": "Angry"
   }
 ]

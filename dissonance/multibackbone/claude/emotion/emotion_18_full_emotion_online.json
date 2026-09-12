@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately because my thesis deadline is creeping up and I honestly don't know how I'm going to get everything done in time. On top of that, I'm still working my part-time job and trying to keep up with friends, and it all just feels like too much at once. I'm not even sure talking about it is going to change anything, because at the end of the day the deadlines are still going to be there no matter what.",
-    "therapist": "It sounds like you're carrying a really heavy load right now — juggling your thesis, work, and friendships all at once — and that sense of \"it's all too much\" makes complete sense given everything on your plate. You're right that talking won't erase the deadlines, but what it *can* do is help us untangle some of the thoughts that might be making the weight feel even heavier than it needs to be. I'm curious — when you imagine not getting everything done in time, what's the story your mind tells you about what that would mean?",
+    "client": "I've been really struggling lately with my thesis deadlines creeping up on me, and I honestly don't know how I'm going to get everything done in time. On top of that, I still have my part-time job and people expecting things from me socially, and it all just feels like too much at once. I'm not even sure talking about it is going to change anything, because the deadlines are still going to be there no matter what we discuss.",
+    "therapist": "It sounds like you're carrying a lot right now — the thesis, work, social expectations all pressing in at once — and that kind of cumulative weight can make everything feel genuinely unmanageable. I hear your skepticism about talking too, and that's actually a really honest and important thing to name; you're right that the deadlines won't disappear, but what we *can* work on is how your mind is relating to all of this, which often changes what feels possible. What do you think is the loudest, most draining thought that keeps showing up when you think about everything on your plate?",
     "condition": "emotion_text_only",
-    "val_t": -0.2221240997314453,
-    "aro_t": 0.23573756217956543,
+    "val_t": -0.21359622478485107,
+    "aro_t": 0.1843019723892212,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, when I imagine not finishing my thesis on time, my mind goes straight to this place of \"you're a failure and everyone will finally see it.\" Like, my advisor, my parents, even my friends — I picture them all kind of stepping back and realizing they were wrong to believe in me. It's not just about the deadline, it feels like the whole thing would prove something I've been scared is true about me for a long time.",
-    "therapist": "That takes real courage to name — this fear that missing a deadline would somehow expose a deeper truth about you that you've been quietly carrying for a long time. What I want to gently point out is that your mind has taken one possible outcome and turned it into *proof* of something about your whole worth as a person, which is a really painful place to be. I'd love to explore that belief a little — what actual evidence do you have, from your life so far, that the people around you are just waiting to find a reason to withdraw their belief in you?",
+    "client": "The loudest thought is probably something like \"I'm going to fail and let everyone down,\" and it just loops over and over whenever I try to sit down and actually work on the thesis. It's like the thought itself is so heavy that it actually stops me from doing anything, and then I feel even worse because time keeps passing and I haven't made progress. And then I feel guilty on top of that, which makes it even harder to start.",
+    "therapist": "That thought — \"I'm going to fail and let everyone down\" — sounds exhausting to carry, especially when it becomes a wall between you and the very work you need to do, creating this painful cycle of guilt and paralysis. In CBT we'd call this a kind of cognitive trap, where the thought itself becomes the obstacle more than the actual thesis does. I'm curious — when that thought shows up, whose voices or faces come to mind when you imagine \"letting everyone down\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.291805624961853,
-    "aro_t": 0.27603936195373535,
-    "text_emotion": "Angry"
+    "val_t": -0.3866652250289917,
+    "aro_t": 0.08892560005187988,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, and part of me wants to believe it... but honestly, when I try to think of evidence, my mind just goes straight to all the times people *have* pulled back when I've struggled. Like my old manager who stopped including me in meetings after I asked for an extension once, or friends who seem to drift away whenever I'm not at my best. I know you might say those are just coincidences or there were other reasons, but it's hard not to see a pattern there.",
-    "therapist": "It makes sense that those experiences feel like evidence — they're real and they hurt, and it's completely natural for our minds to connect them into a pattern, especially when we're already worried about being \"found out.\" What I'd gently invite you to consider is whether there might be another explanation for those moments — your manager and those friends — that has nothing to do with your worth, even if it doesn't feel as convincing right now. Can you think of anyone in your life who has *stayed* or even leaned in closer during a time when you were struggling?",
+    "client": "Honestly, the first face that comes to mind is my supervisor's — I imagine that look of disappointment when I have to admit I haven't made enough progress. But then it's also my parents, because they've sacrificed a lot to support me through this degree and I feel like I owe them something. It's weird because even my friends show up in that image, even though they haven't actually put any pressure on me at all.",
+    "therapist": "It's really meaningful that you can see so clearly who's in that image — and it's especially interesting that your friends appear there even though they haven't actually asked anything of you, which suggests part of this pressure might be coming from inside rather than from the people around you. That's not a criticism at all — it actually points to something important: your mind may be generating expectations on behalf of others that they haven't even expressed. If you were to check in with your supervisor or your parents about what they actually expect from you right now, how do you think that might differ from what you're imagining?",
     "condition": "emotion_text_only",
-    "val_t": -0.16991376876831055,
-    "aro_t": 0.05542552471160889,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "I mean... my sister, maybe. She kind of showed up more when I was going through that really bad patch last year, kept texting me even when I wasn't responding much. But honestly, part of me wonders if that's just because she's family and she has to, you know? Like it doesn't really count the same way.",
-    "therapist": "It's really meaningful that your sister showed up for you like that — and I notice how quickly your mind moved to discount it, as if there's a rule that love or loyalty \"doesn't count\" unless it comes without any obligation. That discounting is worth paying attention to, because it means your mind might be filtering out evidence that challenges the belief that people leave when you struggle. What do you think it would mean for that core fear if you allowed her showing up to count as real?",
-    "condition": "emotion_text_only",
-    "val_t": -0.0905219316482544,
-    "aro_t": 0.10773932933807373,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I hear what you're saying, and part of me wants to accept it, but there's this other part that keeps whispering \"she only came because she felt like she had to.\" If I let her showing up actually count, then I'd have to admit that maybe I've been wrong about people leaving, and honestly that's almost scarier than just staying with the belief I already have. It's like the loneliness is familiar, and letting it crack open feels more dangerous than just keeping it intact.",
-    "therapist": "What you just said is incredibly insightful — recognizing that the familiar pain of loneliness can feel *safer* than the vulnerability of letting someone's love in is a really profound thing to notice about yourself. That protective belief has probably kept you from getting hurt in certain ways, but it sounds like it's also been quietly keeping you from feeling truly seen and supported, even when that support is right there. What do you think that younger part of you was trying to protect you from when it first learned that keeping people at a distance was the safer choice?",
-    "condition": "emotion_text_only",
-    "val_t": -0.3086172342300415,
-    "aro_t": 0.19228649139404297,
+    "val_t": -0.18236124515533447,
+    "aro_t": 0.1455146074295044,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I think that younger part of me was trying to protect me from the feeling of needing someone and then having them just... not show up. Like, if I never really let people in, I couldn't be disappointed or abandoned. But saying that out loud feels kind of raw, because it also means I've been doing that to people who actually do care about me now, and that makes me feel guilty on top of everything else.",
-    "therapist": "What you just shared is really tender and brave — that younger version of you made a completely understandable choice to stay safe, and it worked in the way it needed to at the time. The guilt you're feeling now actually speaks to something important: it means you *do* want real connection, and you're aware enough to see where the wall has been. Rather than adding guilt to everything else you're carrying, I wonder if you could hold this as a moment of clarity rather than a verdict — what might it look like to let one person, maybe your sister, in just a little more than you have been?",
+    "turn": 4,
+    "client": "Rationally, I know my supervisor has probably seen students struggle before and my parents just want me to be okay, but actually having those conversations feels terrifying to me. Like, what if checking in with my supervisor just makes it more real, or she starts questioning whether I'm capable of finishing at all? I think part of me would rather keep assuming the worst privately than risk confirming it out loud.",
+    "therapist": "There's something really understandable about that — keeping the fear private feels safer than risking having it confirmed, but it also means you're essentially living inside the worst-case scenario already, without any of the actual information that might contradict it. Your rational mind already knows your supervisor and parents are likely more supportive than the story you're telling yourself, and that gap between what you *know* and what you *feel* is really worth exploring. What do you think it would mean about you as a person if your supervisor did express some concern — would that actually confirm you're incapable, or might it mean something else entirely?",
     "condition": "emotion_text_only",
-    "val_t": -0.37917089462280273,
-    "aro_t": 0.12334465980529785,
+    "val_t": -0.2770437002182007,
+    "aro_t": 0.26576173305511475,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I guess logically it wouldn't mean I'm incapable, it would just mean I'm struggling with something hard, which is probably true for most PhD students. But in the moment, my brain doesn't really make that distinction — it just hears \"concern\" and translates it directly into \"you're not good enough.\" I can see what you're trying to do with this reframe, but I'm not sure I can just think my way out of a feeling that's been with me for so long.",
+    "therapist": "You're making a really sharp observation — and you're absolutely right that reframing alone rarely dissolves a feeling that's been woven into your sense of self for a long time, so I don't want to oversell it as a quick fix. What CBT actually aims for isn't forcing yourself to *think* differently in the moment, but gradually building enough small experiences that contradict the old belief until the feeling starts to shift on its own. I'm wondering — can you think of even one moment, maybe from earlier in your degree, where you struggled but ultimately showed you *were* capable enough?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17985844612121582,
+    "aro_t": 0.059845805168151855,
     "text_emotion": "Sad"
   },
   {
-    "turn": 7,
-    "client": "I hear what you're saying, and part of me actually wants to believe that framing — that it's clarity, not a verdict. But when I think about letting my sister in more, there's this immediate tightening in my chest, like... what if I do that and she still doesn't really get me, or she says something that makes me feel worse? I've tried before and it didn't go the way I hoped, so it's hard to trust that this time would be different.",
-    "therapist": "That tightening in your chest is worth honoring — it's your nervous system remembering a real hurt, and it makes complete sense that past disappointments would make your body want to protect you from trying again. What I'd gently offer is that \"letting her in\" doesn't have to mean one big vulnerable conversation where everything is on the line — it could be something much smaller, like responding to one of her texts a little more honestly than you normally would. What would feel like the tiniest, most manageable step toward connection that still feels safe enough to actually try?",
+    "turn": 6,
+    "client": "There was this one seminar paper in my second year where I was completely convinced I was going to fail it, and I ended up getting really positive feedback from the professor. But when I try to hold onto that memory right now, it feels distant and almost irrelevant, like my brain is saying \"that was then, this is bigger and different.\" I can acknowledge it happened, but I don't know how to make it actually feel like evidence of anything useful right now.",
+    "therapist": "It's actually really significant that you found that memory, even if it feels muted right now — your brain's tendency to dismiss it as \"different\" is itself a pattern worth noticing, because it will likely do the same thing with *this* thesis once you get through it too. That discounting move — \"yes, but this time is different\" — is one of the ways the \"not good enough\" belief protects itself from being challenged, so the fact that you can see it happening is genuinely useful. I'm curious, if a close friend came to you with that same seminar paper memory and said it felt irrelevant, what would you say to them about whether it counted as real evidence?",
     "condition": "emotion_text_only",
-    "val_t": -0.20541775226593018,
-    "aro_t": 0.14808034896850586,
+    "val_t": -0.10112893581390381,
+    "aro_t": 0.06611621379852295,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "If a friend said that to me, I'd probably tell them that of course it counts, that it shows they've handled pressure before and came through it. But it's so much easier to be generous and logical with someone else than it is with myself, and I'm not sure why that gap exists or how to close it. It almost makes me feel worse in a way, because now I can see I'm being unfair to myself but I still can't seem to stop doing it.",
+    "therapist": "That moment of recognition — seeing the double standard clearly but feeling unable to bridge it — can actually feel like a new kind of frustration on top of everything else, and I want to acknowledge that's a really hard place to sit. But I'd gently offer that noticing the gap *is* the first step to closing it; you can't change a pattern you can't see, and you're seeing it now with real clarity. I'm wondering — what do you think gets in the way of extending that same generosity to yourself, is there something that feels unsafe or even wrong about treating yourself the way you'd treat a friend?",
+    "condition": "emotion_text_only",
+    "val_t": -0.28553640842437744,
+    "aro_t": 0.15531647205352783,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and part of me wants to believe that a small step could actually work. But the thing is, even texting her back more honestly feels risky, because what if she takes that as an opening and then I get pulled into something I'm not ready for? I guess I'm scared that any crack in the door means she'll push it wide open, and I won't know how to handle that.",
-    "therapist": "That fear makes a lot of sense — like opening up even a little means losing control of how much comes in, and after working so hard to manage that door, the idea of it swinging open feels overwhelming. What's worth noticing here is that *you* get to decide how wide the door opens — one honest text doesn't hand her the handle, and you can set the pace of this. What would it feel like to know that you're allowed to be in control of how much you share, even as you let a little more in?",
+    "client": "Honestly, I think part of me believes that being hard on myself is what keeps me working, like if I let up on the self-criticism then I'll just stop trying altogether. There's almost a superstitious quality to it, like the self-punishment is the thing holding everything together, and being kind to myself feels dangerously close to giving up or making excuses. I know that probably sounds irrational when I say it out loud, but it's a really deeply held feeling.",
+    "therapist": "What you just described doesn't sound irrational at all — it actually makes a lot of sense as a strategy your mind developed at some point, probably because self-criticism *did* feel like it was keeping you safe or moving forward. But there's a really important thing to gently test here: the evidence from your own life, like that seminar paper, suggests you pushed through difficulty and succeeded *despite* the self-criticism, not necessarily because of it. What if the drive to finish your thesis is actually coming from something more like genuine care about your work or your future, rather than the self-punishment — do you think there's any part of you that wants to finish this for reasons beyond just avoiding failure?",
     "condition": "emotion_text_only",
-    "val_t": -0.21539843082427979,
-    "aro_t": 0.2420433759689331,
-    "text_emotion": "Angry"
+    "val_t": -0.17989897727966309,
+    "aro_t": 0.06147599220275879,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe that's true — that I can control the pace. But honestly, in my experience, once you give someone a little, they start expecting more, and then you're either pulling back and hurting them or you're in deeper than you meant to be. It's like the \"control\" thing sounds good in theory but I'm not sure it actually works that way with real people.",
-    "therapist": "Your experience has genuinely taught you that boundaries don't always hold the way you hope, and that's a real and valid thing to have learned — not just a distortion. What I'm curious about though is whether the pattern you're describing might also be connected to how hard it is for you to *say* \"that's enough for now\" out loud to someone, rather than just quietly withdrawing. What do you think gets in the way of you being able to tell someone directly, even your sister, \"I want to connect but I need to go slowly\"?",
+    "client": "Yeah, I think there is a part of me that actually cares about the research itself, like there are moments when I'm deep in the work and I genuinely find it interesting and meaningful. But it's hard to access that feeling when the anxiety is loud, and I worry that if I start focusing on \"I care about this\" instead of \"I have to do this or else,\" I'll somehow lose the urgency I need to meet the deadline. It feels risky to swap out the thing that's been driving me, even if that thing is also hurting me.",
+    "therapist": "That genuine curiosity and care you just described — those moments of being absorbed in the work itself — is actually a much more sustainable fuel than fear, and research on motivation backs this up pretty strongly. The anxiety feels urgent, but it's also the very thing that's been freezing you at your desk, so it may be less reliable as a driver than it seems. I'm wondering if we could think of this not as swapping one thing for another, but as experimenting — what might it feel like to try connecting to that genuine interest for even a small, contained work session, and see whether the urgency you need actually disappears or perhaps just changes shape?",
     "condition": "emotion_text_only",
-    "val_t": 0.009637236595153809,
-    "aro_t": 0.12732815742492676,
-    "text_emotion": "Neutral"
+    "val_t": -0.23985743522644043,
+    "aro_t": 0.1539996862411499,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Honestly, even just imagining saying that to my sister out loud makes my stomach tighten up. I think part of me is afraid that if I tell her I need to go slowly, she'll take it as rejection and pull away completely, and then I'll have made things worse by trying to protect myself. It's like I'm stuck between two bad options — get overwhelmed by too much closeness too fast, or lose the connection entirely by being honest about what I need.",
-    "therapist": "That feeling of being trapped between two painful options is really exhausting, and it makes sense that your body is reacting to even the thought of it. But I want to gently reflect something back to you — the belief that honesty about your needs will push people away is itself worth examining, because right now it's the thing standing between you and any possibility of real connection. What do you actually know about your sister that might tell you how she'd *really* respond if you told her you wanted to be close but needed to take it slowly?",
+    "client": "I like the idea of framing it as an experiment rather than a permanent switch, that feels a bit less threatening. But I'm worried that in practice, the moment I sit down to work, the anxiety is just going to flood in anyway and drown out any sense of curiosity before I even get started. How do I actually access that genuine interest when the first thing that shows up is panic?",
+    "therapist": "That's such a practical and important question, and it shows you're already thinking about implementation rather than just insight, which is a real shift. One CBT-informed approach is to create a tiny \"on-ramp\" before you sit down to write — something like spending just two or three minutes reading a part of your research that you've previously found genuinely interesting, not to produce anything, but just to let curiosity show up before the pressure does. What do you think — is there a specific part of your thesis topic, even a single idea or question, that still has a little spark of interest attached to it when you imagine it right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.30112600326538086,
-    "aro_t": 0.2651827335357666,
+    "val_t": -0.1661090850830078,
+    "aro_t": 0.16315197944641113,
     "text_emotion": "Angry"
   }
 ]

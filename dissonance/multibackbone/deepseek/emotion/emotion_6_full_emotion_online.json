@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling with my job lately. Last week we missed a major project deadline, and now I just feel constantly on edge, like I'm failing at everything. I don't even know if talking about it will help - the work isn't going to magically get easier, you know?",
-    "therapist": "It sounds like you're carrying a heavy weight of pressure and self-doubt from this work situation. That \"on edge\" feeling often comes when our minds start generalizing one setback into \"failing at everything\"—could we explore what thoughts go through your head when that feeling arises?",
+    "client": "Lately, I’ve been feeling completely overwhelmed at work. Last week, my team missed a major deadline, and I can’t stop blaming myself for it. I’m starting to doubt whether therapy can even help with something like this—it feels like I’m just bad at my job, and no amount of talking will change that.",
+    "therapist": "It sounds like you're carrying a heavy burden of self-blame after this setback at work, and that's understandably making you feel overwhelmed. When you say \"I'm just bad at my job,\" I wonder what evidence makes you believe that—have there been times when you've succeeded at work despite challenges?  \n\n(Note: The response acknowledges the moderate negative valence with gentle validation, while the low-moderate arousal suggests space for a cognitive exploration question rather than immediate emotion regulation. The focus stays on examining the thought \"I'm bad at my job\" through a CBT lens while leaving it open-ended.)",
     "condition": "emotion_text_only",
-    "val_t": -0.3590354919433594,
-    "aro_t": 0.1500462293624878,
+    "val_t": -0.3751128911972046,
+    "aro_t": 0.19112324714660645,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I know you're right about generalizing, but when I mess up at work it really does feel like proof I'm failing at everything. My mind just floods with thoughts like \"they're all realizing I'm not cut out for this\" and \"I'll never get promoted now.\" It's like one mistake erases all the good work I've done before.",
-    "therapist": "That flood of self-critical thoughts sounds really painful—it's like your mind becomes a courtroom where one mistake outweighs all your past successes. When those thoughts about being \"not cut out for this\" come up, have you noticed any patterns in when they hit hardest, like right after feedback or during quiet moments?",
+    "client": "I guess there have been times when I’ve done well, but those feel like flukes to me. Every time something goes wrong, it’s like proof that I’m not cut out for this job. I know it’s not totally rational, but it’s hard to shake that feeling. I’m worried that if I don’t figure this out soon, I’ll keep failing and make things worse.",
+    "therapist": "It sounds like you're stuck in a pattern where successes feel like luck, but setbacks feel like proof of failure—that must be exhausting. When you think \"I'm not cut out for this job,\" what would a compassionate coworker say about that belief?  \n\n(Note: The mild negative valence and near-neutral arousal suggest they're in a reflective space—good momentum for a gentle Socratic question to challenge the self-critical narrative while keeping the tone supportive.)",
     "condition": "emotion_text_only",
-    "val_t": -0.2861248254776001,
-    "aro_t": 0.19025933742523193,
-    "text_emotion": "Angry"
+    "val_t": -0.32665395736694336,
+    "aro_t": 0.09059786796569824,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "It's usually worst right after meetings with my manager. Even if the feedback is mostly positive, I'll fixate on one tiny critique and replay it over and over. I know logically that one comment shouldn't erase my two years at the company, but my brain keeps tallying up failures like they're the only things that count. \n\nYesterday my manager said my report was \"thorough but could use more visuals\" and I spent the whole night convinced I'm terrible at my job.",
-    "therapist": "It sounds like these meetings trigger a very specific kind of mental accounting where critiques carry much more weight than praise—almost like your mind has a magnifying glass for criticism while appreciation gets filtered out. When you notice yourself replaying that one critique about visuals, could we try pausing to ask: \"What would I tell a colleague who received this same feedback?\"",
+    "client": "Hmm, I guess a compassionate coworker might say that everyone makes mistakes and missing a deadline doesn’t define my entire ability. But it’s hard to believe that because I feel like I *should* be able to handle everything perfectly. If I can’t, doesn’t that mean I’m not good enough? It’s like I’m holding myself to an impossible standard.",
+    "therapist": "It sounds like you recognize the \"impossible standard\" intellectually, but emotionally it still feels true that you *should* be perfect—that gap between knowing and believing must be frustrating. What do you think keeps that \"I must handle everything perfectly\" belief so powerful, even when you can see it’s unrealistic?  \n\n(Note: The slightly negative valence and low arousal suggest they're thoughtfully engaging with the cognitive dissonance—a good moment to explore the roots of the perfectionism while maintaining gentle curiosity.)",
     "condition": "emotion_text_only",
-    "val_t": -0.22586274147033691,
-    "aro_t": 0.13054406642913818,
+    "val_t": -0.17961549758911133,
+    "aro_t": 0.12236940860748291,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "That's an interesting way to put it, but I don't know if it would help. When it's me getting the feedback, it just feels personal and true in a way that it wouldn't if it were someone else. My brain immediately jumps to \"they're right, I'm not good enough\" and that feeling sticks.",
-    "therapist": "That immediate \"they're right, I'm not good enough\" reaction sounds like it carries such a deep sense of conviction—almost like your brain has installed these thought patterns on autopilot. When that feeling sticks so stubbornly, do you notice any physical sensations that come with it, like tension or heaviness?",
+    "client": "I think it's because my old boss used to criticize every little mistake, and now that voice is stuck in my head. Even though I know logically that perfection isn't realistic, part of me still feels like I'll get \"caught\" being inadequate if I slip up. Maybe I'm scared that accepting my limits will make me complacent or lazy.",
+    "therapist": "Ah, so that critical voice from your past boss still feels very present—like you're carrying their expectations even when they're not there anymore. That makes me wonder: if you *did* accept your human limits, what might be a small sign that it's leading to growth rather than complacency?  \n\n(Note: The slightly negative valence but low arousal suggests they're in a reflective, slightly discouraged space—ideal for gently challenging the fear around self-compassion while keeping the question concrete and future-focused. The response validates the origin of their belief while creating space to envision a healthier alternative.)",
     "condition": "emotion_text_only",
-    "val_t": -0.013252973556518555,
-    "aro_t": 0.13224077224731445,
-    "text_emotion": "Neutral"
+    "val_t": -0.3329775333404541,
+    "aro_t": 0.14852237701416016,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "Yeah, I definitely feel it physically—my chest gets tight, and my shoulders tense up like I'm bracing for something. But what's the point of noticing that? It's not like knowing where the tension is makes the thoughts any less true. I mean, when people criticize me, they're usually not wrong—I do mess up a lot.",
-    "therapist": "Your body's tension makes complete sense—it's like you're physically bracing against both the criticism and those harsh self-judgments. But what if we viewed these physical signals not as proof the thoughts are true, but as signs of how deeply you're feeling them? When your shoulders tense next, could you try noticing it as your body's way of saying \"this hurts\" rather than \"this is fact\"?",
+    "client": "Hmm, I guess if I accepted my limits, I might actually focus better and make fewer mistakes because I wouldn’t be so anxious all the time. But it’s hard to believe that letting go of perfectionism would help—it feels like I’d just be giving myself an excuse to be lazy or mediocre. I’m scared that if I stop pushing myself so hard, I’ll just fall apart.",
+    "therapist": "It sounds like there’s a real fear underneath this—that if you loosen your grip on perfectionism, everything might unravel. But what you just described about potentially focusing *better* without anxiety is interesting—almost like the pushing and the fear might actually be *getting in the way* of the competence you value so much. Could we sit with that idea for a moment—how might “good enough” look different from “lazy” to you?  \n\n(Note: The mildly negative valence and low arousal suggest they’re still in a reflective but slightly discouraged space—the response validates their fear while gently guiding them to examine the false binary of “perfect or lazy.” The question invites them to redefine their standards without triggering defensiveness.)",
     "condition": "emotion_text_only",
-    "val_t": -0.23063719272613525,
-    "aro_t": 0.15618836879730225,
+    "val_t": -0.2823745012283325,
+    "aro_t": 0.19445598125457764,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about separating the physical reaction from the truth of the thoughts, but when my body tenses up like that, it just feels like confirmation that I really messed up. Like my muscles know the truth even if I try to convince myself otherwise. It's hard to see it any other way when the feeling is so strong and immediate.",
-    "therapist": "That immediate physical confirmation feels so compelling—it's like your body and mind team up to say \"this is definitely true.\" When those sensations and thoughts reinforce each other so strongly, what happens if we pause just to notice that pattern, without trying to change it yet? Like observing \"Ah, there's that familiar tightening—my system is reacting strongly again\"?",
+    "client": "That's a tough question... I guess \"good enough\" would mean I still care deeply about my work and put in effort, but allow myself to recover from mistakes instead of obsessing over them. But honestly, even picturing that makes me uncomfortable—it feels like I'm lowering the bar too much. What if \"good enough\" turns into me not trying hard at all?",
+    "therapist": "It sounds like there’s a real tension here—part of you can logically see the value in \"good enough,\" but another part panics at the idea, as if self-compassion might erase your motivation altogether. That discomfort makes sense if you’ve always believed pushing yourself *hard* is what keeps you from failing. I wonder: what would it look like to test this belief in a small way—like intentionally allowing one \"good enough\" task this week, just as an experiment?  \n\n(Note: The slight negative valence and very low arousal suggest they're in a contemplative but wary space—the response validates their fear while making the cognitive shift feel safer by framing it as a small, reversible experiment. This matches their emotional capacity in the moment without overwhelming them.)",
     "condition": "emotion_text_only",
-    "val_t": -0.2221153974533081,
-    "aro_t": 0.22799694538116455,
-    "text_emotion": "Angry"
+    "val_t": -0.19041681289672852,
+    "aro_t": 0.07064807415008545,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about noticing the pattern, but sometimes just observing it makes me feel worse. Like now I'm hyper-aware of my chest tightening and my thoughts racing, and it just confirms how broken I feel. It's hard to just watch that happen without panicking about it.",
-    "therapist": "This makes so much sense—when we notice the pain more clearly, it can feel like we're just amplifying the distress rather than helping. That fear of being \"broken\" sounds especially heavy right now. Could we try shifting focus for a moment to what usually helps these sensations ease, even just a tiny bit, when they feel overwhelming?",
+    "client": "I could try that, but I'm already cringing at the thought—what if I pick the wrong task to be \"good enough\" on and it backfires? Maybe something small like not triple-checking a routine email... but even that makes me nervous. What if my \"good enough\" turns out to actually *not* be good enough?",
+    "therapist": "It’s telling that even the idea of not triple-checking a routine email brings up this much worry—it shows how deeply that “what if?” fear is wired in. Let me ask: if a trusted colleague did that same “good enough” experiment, what would you think if *they* made a tiny mistake? Would you judge them as harshly as you’re judging yourself right now?  \n\n(Note: The mild negative valence and slight arousal suggest they're apprehensive but still engaged—the response validates their fear while using a perspective-shift question to highlight their double standard. This keeps the cognitive work gentle and relational, matching their current emotional tolerance.)",
     "condition": "emotion_text_only",
-    "val_t": -0.308111310005188,
-    "aro_t": 0.26359808444976807,
+    "val_t": -0.31290245056152344,
+    "aro_t": 0.21984100341796875,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about focusing on what helps, but honestly, even when I try small things like breathing exercises, part of me thinks \"this isn't fixing the root problem.\" It's like putting a bandaid on something that needs stitches. The loneliness still creeps back in the second I stop distracting myself.",
-    "therapist": "It sounds like those small coping strategies feel insufficient against the deeper sense of loneliness you're experiencing—like they're surface-level fixes when what you really need is something more substantial. When that loneliness creeps back in, what kind of connection or support do you imagine would feel more like \"stitches\" rather than a bandaid?",
+    "client": "That’s a good point—I’d probably tell a colleague not to stress over such a small mistake. But it’s different for me—I feel like I *have* to hold myself to a higher standard because I’m responsible for my team. If I mess up, it’s not just about me—it’s about everyone who depends on me. That’s why I can’t afford to be “good enough.”",
+    "therapist": "It sounds like you're carrying an enormous sense of responsibility—almost as if being \"good enough\" for yourself feels like letting *others* down. That pressure must feel so heavy. I wonder: how might your team actually benefit if their leader modeled that mistakes *can* be recovered from, rather than avoided at all costs?  \n\n(Note: The slightly negative valence and low arousal suggest they're in a reflective but self-critical space—the response validates their perceived responsibility while gently introducing the idea that their perfectionism might not serve their team as well as they believe. The question keeps it forward-focused and relational to match their current emotional engagement.)",
     "condition": "emotion_text_only",
-    "val_t": -0.16100800037384033,
-    "aro_t": 0.05597710609436035,
-    "text_emotion": "Sad"
+    "val_t": -0.1684858798980713,
+    "aro_t": 0.13673722743988037,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess I imagine having someone who really *gets* me—someone I don’t have to explain myself to all the time. But it feels impossible to find that kind of connection. Even when I’m with people, I feel like I’m on the outside looking in, like I’m just pretending to fit in. I don’t know if I even know how to let someone in that deeply.",
-    "therapist": "That longing for someone who truly *gets* you feels so deep—it's like you're yearning for a connection where you don't have to wear a mask or pretend to fit in. When you think about letting someone in that deeply, what feels like the biggest barrier—is it fear of rejection, or maybe not knowing where to start?",
+    "client": "I never thought about it that way—that my perfectionism might actually be sending the wrong message to my team. But it's hard to imagine them respecting me if I show any weakness. What if they think I'm not capable anymore? I've worked so hard to prove my competence that the idea of being vulnerable terrifies me.",
+    "therapist": "It sounds like you’ve tied competence so tightly to appearing flawless that showing any vulnerability feels like risking everything you’ve built—that’s genuinely scary. What do you think it would take for you to test whether your team might actually respect you *more* for being human, not less? Maybe noticing how you view *other* leaders when they’re transparent about their missteps?  \n\n(Note: The mild negative valence and low arousal suggest they’re thoughtfully engaging with this new perspective—the response validates their fear while introducing a manageable way to challenge it. The question keeps the focus on observable behaviors and others’ reactions, which feels safer than starting with self-disclosure.)",
     "condition": "emotion_text_only",
-    "val_t": -0.1510157585144043,
-    "aro_t": 0.08678138256072998,
+    "val_t": -0.23972725868225098,
+    "aro_t": 0.15718472003936768,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "It's both, I think. The fear of rejection is huge—what if I open up and they just don't care? But also...I don't even know how to start being vulnerable like that. Every time I try, I just freeze up and pretend everything's fine. It's like my brain won't let me take that risk.",
-    "therapist": "That freeze response sounds so familiar—it's like your protective instincts kick in just when you want to take a step toward connection, leaving you stuck in that \"everything's fine\" mask. When you think about times you've tried to be vulnerable before, what do you notice about what happens right before you freeze—any particular thoughts or physical sensations that show up?",
+    "client": "I've seen other managers admit small mistakes in team meetings, and honestly... people did seem to respect them more for it. But when I imagine doing the same, my stomach knots up. What if my team thinks my past successes were just luck if I start showing imperfections now? It feels like I'd be erasing all the effort I've put into proving myself.",
+    "therapist": "It’s powerful that you’ve noticed others being respected for their honesty—yet there’s this fear that your own story might unravel if you show even a crack in the armor. That makes me wonder: could the effort you’ve put into \"proving yourself\" actually be the very thing that makes imperfections feel so dangerous now? Like the stakes keep getting higher the more perfect you seem?  \n\n(Note: The slightly negative valence and very low arousal suggest they're in a reflective but discouraged space—the response acknowledges their insight about others while gently highlighting how their own avoidance may be intensifying their fear. The question invites them to examine the self-perpetuating cycle without feeling confronted.)",
     "condition": "emotion_text_only",
-    "val_t": -0.2958338260650635,
-    "aro_t": 0.19255602359771729,
+    "val_t": -0.1795409917831421,
+    "aro_t": 0.08939576148986816,
     "text_emotion": "Angry"
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "directed_utterances": [
+    {
+      "utterance_text": "It's not that big of a deal. I'm okay, I just need to keep moving forward.",
+      "is_new_utterance_rule": true,
+      "utterance_level_direction": "test",
+      "new_utterance_rule_definition": {
+        "primary_zonos_vector_value": {
+          "Happiness": 0.9,
+          "Sadness": 0.0,
+          "Disgust": 0.0,
+          "Fear": 0.0,
+          "Surprise": 0.2,
+          "Anger": 0.0,
+          "Other": 0.0,
+          "Neutral": 0.0
+        },
+        "speaking_rate": 18.0,
+        "pitch_std": 90.0
+      },
+      "frame_level_directions": []
+    }
+  ]
+}

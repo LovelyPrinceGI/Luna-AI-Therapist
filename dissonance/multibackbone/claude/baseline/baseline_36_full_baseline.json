@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed out lately because of my business finances — I got hit with this unexpected tax bill last week and it completely threw me off. I thought I had things somewhat under control, but now I'm not so sure, and the anxiety is just constant. Honestly, I'm not even sure talking about it is going to help, because what I really need is the money to pay these bills, not someone to chat with about my feelings.",
-    "therapist": "That makes complete sense — you're facing a very real, concrete problem, and it can feel like talking is just a detour from solving it. I hear your skepticism, and I want to acknowledge that the stress you're carrying right now is genuinely heavy, not just a perception to be reframed away. That said, I'm curious — when you say the anxiety is *constant*, what does that feel like in your day-to-day, and is it getting in the way of the clear-headed thinking you'd need to actually tackle this situation?",
+    "client": "I've been really stressed out lately because my business is not doing as well as I hoped, and then out of nowhere I got hit with these unexpected tax bills last week that I honestly didn't see coming. The financial pressure feels like it's crushing me — I keep waking up at 3 AM just running numbers in my head and panicking. I'm not even sure talking about it is going to change anything, because the bills are still going to be there when I walk out of here.",
+    "therapist": "It makes complete sense that you're feeling crushed right now — juggling a struggling business *and* a surprise tax bill is a genuinely heavy load, and that 3 AM mental spiral sounds exhausting and isolating. You're right that talking won't make the bills disappear, but I wonder if some of that 3 AM panic is being amplified by thoughts beyond just the numbers themselves — things like \"this will never get better\" or \"I've failed.\" What kinds of thoughts are actually running through your mind in those sleepless moments?",
     "condition": "baseline",
-    "val_t": -0.3150690793991089,
-    "aro_t": 0.30311763286590576,
+    "val_t": -0.35431885719299316,
+    "aro_t": 0.32406437397003174,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, it really is constant — like, I wake up at 3am running through worst-case scenarios about money, and then I spend the whole day distracted and exhausted because I barely slept. I'll sit down to actually look at my budget or research options, and my mind just goes blank or I start spiraling into \"what's the point, it's already too late.\" So yeah, I guess you're right that it's getting in the way, but knowing that doesn't really make it easier to just... stop doing it.",
-    "therapist": "You've just identified something really important — the anxiety isn't just an uncomfortable feeling running alongside the problem, it's actually *blocking* you from the very actions that could help you solve it. That thought \"what's the point, it's already too late\" is worth paying attention to, because it sounds like it shows up right at the moment you're trying to take action, almost like a circuit breaker shutting things down. I'm wondering — when that thought appears, does it feel like an undeniable fact, or is there a part of you that recognizes it might not be the whole truth?",
+    "client": "Honestly, yeah, it's a lot of \"what if I lose everything\" and \"I should have seen this coming, what kind of business owner doesn't plan for this.\" There's this voice that just keeps telling me I'm not cut out for this, that maybe I was fooling myself thinking I could run my own business. And then I feel guilty on top of it, like I've let down my family who believed in me when I started this whole thing.",
+    "therapist": "Those thoughts — \"I'm not cut out for this,\" \"I've let everyone down\" — are incredibly painful, and I want you to know that having a tax bill blindside you doesn't define your worth as a business owner or a person, even though that inner voice is arguing otherwise right now. I'm curious about that voice though — if a close friend came to you in the exact same situation, a surprise bill, a rough patch, the same fear, would you tell *them* they were fooling themselves and didn't belong? What do you notice when you consider that question?",
     "condition": "baseline",
-    "val_t": -0.23236799240112305,
-    "aro_t": 0.10830128192901611,
+    "val_t": -0.3878542184829712,
+    "aro_t": 0.1802506446838379,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Honestly, in the moment it feels completely like a fact — like, my brain just accepts it as truth and shuts everything down before I even have a chance to think otherwise. But sitting here now, talking about it, I can kind of see that maybe it's not totally true, like there's a small part of me that knows I'm probably exaggerating how hopeless the situation is. It's just that that small part feels really far away when the anxiety kicks in, like I can hear it but I can't actually reach it.",
-    "therapist": "What you just described is actually a really significant insight — that wiser part of you *exists*, even if anxiety keeps it at arm's length in those hard moments. In CBT we'd call that \"what's the point, it's already too late\" an automatic thought, and the fact that you can already see some distance between it and reality, even just right now, means you have more agency here than it feels like at 3am. I'm curious — if that calmer, wiser part of you *could* speak up in one of those moments, what do you think it might say about your situation?",
+    "client": "No, I'd never say that to a friend — I'd probably tell them it's just a rough patch and that one setback doesn't mean they should give up. But when I try to apply that same logic to myself it just feels... hollow, like I'm making excuses for myself or letting myself off the hook too easily. I don't know, maybe I hold myself to a different standard because it's my responsibility, my decisions that got me here.",
+    "therapist": "That gap you just noticed — where compassion feels natural for others but like \"making excuses\" when turned inward — is such an important thing to name, and it tells me your inner critic has set up a double standard that's working against you. Holding yourself responsible is actually a sign you *care* deeply about this, but there's a difference between healthy accountability and punishing yourself in a way that drains the very energy you need to problem-solve. I'm wondering — what do you think that harsher standard is actually protecting you from, or what does it feel like it would mean to let yourself off the hook just a little?",
     "condition": "baseline",
-    "val_t": -0.2737574577331543,
-    "aro_t": 0.23908936977386475,
+    "val_t": -0.142478346824646,
+    "aro_t": 0.08728814125061035,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I mean... I think that wiser part of me would probably say something like, \"you're not actually as alone as you feel right now, and the fact that you're still here, still trying, still showing up to therapy, that counts for something.\" But honestly, Luna, it feels almost embarrassing to even say that out loud, like I'm just telling myself what I want to hear. And at 3am when my chest is tight and I'm lying there replaying everything I did wrong that day, that voice feels so far away it might as well not exist.",
-    "therapist": "What you just said doesn't sound like wishful thinking to me — it sounds like genuine self-knowledge, and the fact that it feels embarrassing to claim it says a lot about how hard you've been on yourself through all of this. That 3am version of you is exhausted, flooded with stress hormones, and replaying mistakes — it's not a fair fight between anxiety and wisdom in that state, which is why we'd want to build some kind of bridge to that wiser voice *before* you're in the thick of it. I'm wondering — would you be open to trying something small, like writing down that exact thing you just said, so it's somewhere concrete you can reach for when that chest tightness wakes you up at night?",
+    "client": "I think maybe the harsh standard keeps me from getting complacent, like if I go easy on myself I'll stop trying as hard and things will just fall apart completely. But honestly, even saying that out loud, I can hear how exhausting that sounds — like I've built this whole system where I'm only allowed to rest once everything is perfect, which never actually happens. Letting myself off the hook even a little feels dangerous, like the floor might just disappear from under me.",
+    "therapist": "You just made a really profound observation — that you've built a system where rest is only permitted after perfection, which essentially means rest is never permitted, and that's not discipline, that's a trap that keeps you perpetually running on empty. The fear that self-compassion equals collapse is worth gently examining, because right now the harsh standard isn't actually preventing things from falling apart — it's just making the hard moments feel unbearable and alone. I'm curious — can you think of even one small moment in your life where you gave yourself a little grace and things *didn't* fall apart?",
     "condition": "baseline",
-    "val_t": -0.24679899215698242,
-    "aro_t": 0.22608721256256104,
+    "val_t": -0.3019813299179077,
+    "aro_t": 0.19802212715148926,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... maybe. I guess I'm just not sure I'd actually reach for it in that moment — like, when I'm already spiraling at 3am, the last thing I want to do is turn on a light and find a piece of paper. It also feels a little weird to write something nice about myself, like I'd be setting myself up to feel even more pathetic if it doesn't work.",
-    "therapist": "That's really honest, and it's worth taking seriously — there's no point in a plan that doesn't fit how you actually function at 3am. And I notice that thought too: \"if it doesn't work, I'll feel even more pathetic\" — that's anxiety protecting itself, making sure you don't even try anything that might loosen its grip. What if we thought of it less as writing something nice about yourself, and more as just leaving a note from *right now you* — the one who can see a little more clearly — to *3am you*, the way you might leave a note for a friend who's struggling?",
+    "client": "I'm sitting here trying to think of an example and... maybe when I took that long weekend last year before the business really started struggling, I told myself it was okay to step away for a few days and nothing catastrophic happened. But my brain is already jumping in to say that was different, that was before things got this bad, like it won't let me use that as real evidence. I guess I can see what you're pointing at, but it's hard to trust that the same logic applies now when the stakes feel so much higher.",
+    "therapist": "You actually found the evidence — and then watched your mind immediately move the goalposts to disqualify it, which is such a classic move of that inner critic, and noticing that pattern in real time is genuinely significant. The stakes *are* higher now, that's real, but higher stakes might actually mean you need that capacity to pause and recharge *more*, not less, because a depleted mind running on panic is not your best problem-solver at 3 AM. If you couldn't trust the big version of self-compassion right now, what might a tiny, low-stakes version of it look like this week — something small enough that your inner critic might not even notice?",
     "condition": "baseline",
-    "val_t": -0.14887785911560059,
-    "aro_t": 0.15878140926361084,
+    "val_t": -0.15511703491210938,
+    "aro_t": 0.1291567087173462,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I kind of like the idea of framing it as a note to a friend, because when I think about it that way it doesn't feel as loaded. But honestly, I'm not sure what \"right now me\" even has to offer, because right now I still feel pretty lost too, just... less acutely. What if I sit down to write it and nothing comes out, or what comes out sounds hollow even to me?",
-    "therapist": "\"Less acutely lost\" is actually more than you're giving yourself credit for — that's a real difference, and it's exactly the kind of clarity that evaporates at 3am, which makes it worth capturing even imperfectly. And if what comes out feels hollow, that's okay — you're not writing a motivational poster, you're just leaving a small breadcrumb for yourself, and even a sentence like \"this feels unbearable right now, but earlier today I could see it wasn't the whole truth\" is enough. What do you think would feel like a low-enough bar that the writing itself wouldn't become another thing to fail at?",
+    "client": "Maybe something like... letting myself take a real lunch break instead of eating at my desk while staring at spreadsheets, just like 20 or 30 minutes where I'm not actively trying to solve the financial stuff. But even as I say that I'm already thinking I can't afford to waste that time, that every minute I'm not working on fixing this is a minute I'm falling further behind. I guess that's exactly the pattern you're talking about, but knowing that doesn't make it feel any less true in the moment.",
+    "therapist": "A real lunch break is a perfect small experiment — and the fact that you caught the \"I can't afford to waste time\" thought arriving almost instantly shows how automatic and powerful that pattern is, which actually takes real self-awareness to notice. Here's something worth sitting with: the mind that's been waking up at 3 AM in panic mode, eating at a desk, running on guilt — is that mind actually solving the financial problem more effectively, or is it just *suffering* more? What do you think a clearer, slightly less depleted version of you might be able to see about your situation that the exhausted 3 AM version can't?",
     "condition": "baseline",
-    "val_t": -0.19552886486053467,
-    "aro_t": 0.0927048921585083,
-    "text_emotion": "Angry"
+    "val_t": -0.1303333044052124,
+    "aro_t": 0.016680598258972168,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I like how you framed that, the breadcrumb thing. It takes some of the pressure off, like I don't have to solve anything or even feel better, just... leave a note for the version of me who's drowning at 3am. I think the bar would have to be something like, just open the notes app and type one sentence, even if it's just \"today wasn't completely terrible\" — anything more and I'll probably talk myself out of starting.",
-    "therapist": "That's a perfect bar — genuinely, one sentence in a notes app is something exhausted, anxious 3am you can actually reach for without turning on a light or doing anything that feels like \"trying too hard.\" And \"today wasn't completely terrible\" might sound small, but it's actually a direct counter to that automatic thought that says it's already too late — it's evidence, collected by you, for you. I'm curious — is there a moment in the next day or two that feels realistic to try this, even just once, so it doesn't stay as an idea but becomes something you've actually done?",
+    "client": "Honestly, when I think about it that way, the 3 AM version of me isn't solving anything — it's just replaying worst-case scenarios on a loop and making me feel more hopeless by morning. A clearer version of me might actually be able to look at the tax situation and think about concrete steps, like calling an accountant or looking into a payment plan, instead of just catastrophizing. But I'll be real with you, part of me worries that if I slow down even a little, I'm just going to feel all that guilt and fear more intensely without the busyness to drown it out.",
+    "therapist": "You just identified something really courageous there — that the busyness might not just be about productivity, but also about keeping those harder feelings at arm's own length, and that's such an honest and important thing to recognize about yourself. The fear that slowing down means being flooded by guilt and fear is real, but those feelings are already there, waking you up at 3 AM — the busyness isn't actually keeping them away, it's just making sure you meet them exhausted and alone rather than with some capacity to handle them. I'm wondering, if you did take that lunch break this week and some of that guilt or fear did surface, what do you think you might need in that moment to feel even slightly less alone with it?",
     "condition": "baseline",
-    "val_t": -0.005211234092712402,
-    "aro_t": 0.1167072057723999,
-    "text_emotion": "Neutral"
+    "val_t": -0.3050297498703003,
+    "aro_t": 0.12815463542938232,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I mean... maybe tonight, actually. I've been lying awake the last few nights anyway, so it's not like I'd be doing something out of the ordinary. I guess my worry is that I'll do it once and then forget about it, or it'll feel pointless after a few days and I'll just stop, which kind of feels like failing all over again.",
-    "therapist": "It says a lot that you're willing to try it tonight, and I want to gently point out that you just anticipated failing at something that hasn't even started yet — which is that same protective anxiety trying to talk you out of trying before you begin. What if we reframed it so that doing it *once* is already a complete success, not a trial run that has to become a habit to count, because one breadcrumb left for 3am you is genuinely worth something regardless of what happens after? And if it does fade after a few days, that's not failure — that's just information about what you need next, and we can work with that together.",
+    "client": "I think I'd probably want to call my wife, just to hear her voice and maybe tell her I'm struggling more than I've been letting on — I've been keeping a lot of this inside because I don't want her to worry or think I can't handle it. But that actually scares me too, because if I say it out loud to her it becomes more real, and I don't want to see the look on her face if she realizes how bad things might actually be. I guess I've been carrying this alone partly to protect her, but also maybe to protect myself from having to fully admit how scared I am.",
+    "therapist": "What you just shared takes real courage — you've been carrying this alone to protect her, but also to protect yourself from the full weight of your own fear, and that's such a human and understandable thing to do, even as it's been quietly isolating you. It's worth gently noticing that the story you're telling yourself — that she can't handle it, or that her seeing your fear would be unbearable — is another prediction your mind is making, not necessarily the reality of who your wife actually is to you. What do you think she would want — to be protected from this, or to be the person who gets to stand next to you in it?",
     "condition": "baseline",
-    "val_t": -0.3309222459793091,
-    "aro_t": 0.07499146461486816,
-    "text_emotion": "Sad"
+    "val_t": -0.38938212394714355,
+    "aro_t": 0.2274155616760254,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe that one time could actually count for something. But there's this voice in my head that's already saying \"yeah, but you'll probably forget to do it, or you'll do it and it won't help, and then what?\" It's like even before I've tried, I'm already writing the story of how it falls apart.",
-    "therapist": "You just described that pattern so clearly and precisely — you're not just anxious about the tax bill anymore, you're anxious about the anxiety not going away, which is exhausting in its own right. That voice writing the failure story in advance is trying to protect you from disappointment, but it's also stealing the experience before you've even had it. What would it feel like to just let tonight be an experiment with no predetermined ending — not a test you can pass or fail, just something you're trying once to see what happens?",
+    "client": "If I'm being honest, I know she'd want to be there with me — she's always said we're a team and I've seen her handle hard things before, she's actually pretty strong. But there's this fear that once I say the words out loud to her, I can't take them back, and something about keeping it inside has felt like I still have some control over the situation even if that's probably an illusion. I think I'm more scared of my own vulnerability than I am of her reaction, which is kind of a strange thing to realize sitting here right now.",
+    "therapist": "That realization — that the fear is really about your own vulnerability, not her reaction — is genuinely one of the most important things a person can discover, and the fact that you arrived there yourself in this conversation says a lot about your capacity for honest self-reflection. The illusion of control through silence makes so much sense, but it sounds like it's actually been costing you the one thing that might help most — feeling like you're not facing this alone. I'm wondering, what would it feel like to let her in, not to hand her the problem to fix, but just to stop carrying the weight of hiding it?",
     "condition": "baseline",
-    "val_t": -0.05646860599517822,
-    "aro_t": 0.136102557182312,
-    "text_emotion": "Neutral"
+    "val_t": -0.2153416872024536,
+    "aro_t": 0.24232733249664307,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe I could just treat tonight like a neutral experiment, but honestly it feels kind of impossible. Like, how do I just switch off the part of my brain that's already decided it's going to be awkward and that I'll come home feeling worse than before? I want to try, I really do, but I don't trust that I can actually pull it off in the moment when the anxiety hits.",
-    "therapist": "You don't have to switch that part off — it's going to be there, and that's okay, because the goal tonight isn't to feel confident or calm, it's just to open your notes app and type one sentence while that voice is still running in the background. The fact that you're saying \"I want to try, I really do\" matters more than you might realize — that's not nothing, that's the wiser part of you showing up even now, even through all the doubt. What would it mean to you, just sitting here in this moment, if you did it tonight and that critical voice turned out to be wrong?",
+    "client": "I think it would feel like a huge relief, but also terrifying in a way I can't quite explain — like taking off armor I've been wearing so long I forgot it was armor. I keep picturing that conversation and I don't even know how I'd start it, like do I just sit down at dinner and say \"hey, things are worse than I've been telling you\"? I want to do it, I think I actually need to do it, but I'm genuinely not sure I'll be able to make myself when the moment comes.",
+    "therapist": "That image of armor you've forgotten you're wearing is so powerful, and it tells me this conversation with your wife isn't just about the finances — it's about letting yourself be fully known by someone who loves you, which is both the scariest and most relieving thing a person can do. The \"how do I start\" question is real and practical, and sometimes the most honest opening is exactly what you said just now — \"I've been carrying more than I've let on and I need you to know\" — because it's true, it's vulnerable, and it invites her in without requiring you to have everything figured out first. Before our next conversation, would you be willing to treat that talk with your wife the same way you treated the lunch break — not as something you have to do perfectly, but just as a small, brave experiment in letting the armor come off a little?",
     "condition": "baseline",
-    "val_t": -0.2186260223388672,
-    "aro_t": 0.2666209936141968,
-    "text_emotion": "Angry"
+    "val_t": -0.1090468168258667,
+    "aro_t": 0.30516517162323,
+    "text_emotion": "Tense"
   }
 ]

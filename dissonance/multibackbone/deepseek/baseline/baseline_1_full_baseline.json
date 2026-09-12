@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling with my new job at this startup. The deadlines feel impossible to meet, and I constantly feel like I'm letting my team down. Part of me wonders if talking about it will actually help - I mean, the workload isn't going to change, right?",
-    "therapist": "I hear how overwhelmed you're feeling with these demanding deadlines and the pressure to not disappoint your team. While the workload may not change immediately, exploring how you're thinking about these challenges could help reduce some of that stress. What thoughts come up for you when you start feeling like you're letting the team down?",
+    "client": "I've been really struggling with my new job at the startup. No matter how many hours I put in, I always feel like I'm falling behind on my projects, and the deadlines just keep piling up. I'm starting to question if I'm even cut out for this role, but therapy seems like just another thing to add to my to-do list that I'll never get done.",
+    "therapist": "It sounds like you're putting tremendous pressure on yourself to meet these expectations, and that overwhelming feeling is completely understandable. When you say \"I'm not cut out for this role,\" what evidence do you have for and against that thought?",
     "condition": "baseline",
-    "val_t": -0.2809182405471802,
-    "aro_t": 0.09116196632385254,
+    "val_t": -0.2275153398513794,
+    "aro_t": 0.07813370227813721,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I keep thinking \"If I don't get this perfect, everyone will see me as incompetent.\" It's like my brain jumps straight to worst-case scenarios where my coworkers lose all respect for me. But at the same time, part of me knows that's probably exaggerated - it just feels so real in the moment.",
-    "therapist": "It sounds like you're noticing how quickly your mind goes to those \"worst-case scenario\" thoughts, while also recognizing they might not reflect reality. That awareness is actually an important first step in challenging these automatic thoughts. What evidence do you have about how your coworkers actually perceive your work?",
+    "client": "Well, I guess the evidence against it is that I did get hired, so they must have seen something in me. But the evidence for it is that I’m constantly missing deadlines, and I feel like I’m drowning in work. It’s hard to focus on the positive when I’m so overwhelmed all the time. Therapy feels like it might just add more pressure, honestly.",
+    "therapist": "It's encouraging that you can recognize the fact that you were hired suggests they believe in your capabilities, even if it's hard to see right now. Could we explore how therapy might actually help reduce some of that pressure rather than add to it?",
     "condition": "baseline",
-    "val_t": -0.16819536685943604,
-    "aro_t": 0.21027910709381104,
+    "val_t": -0.16332745552062988,
+    "aro_t": 0.16526579856872559,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I know my boss has given me positive feedback a few times, but I still can't shake the feeling that my coworkers secretly think I'm incompetent. Like maybe they're just being polite to my face. It's hard to trust the evidence when my anxiety keeps telling me there's more going on behind the scenes.",
-    "therapist": "It's understandable to feel that disconnect between the positive feedback you've received and those lingering doubts - anxiety can make it hard to trust surface-level interactions. I wonder if we could explore what it would feel like to take those compliments at face value, even just temporarily? How might that shift your experience at work?",
+    "client": "I guess I see your point, but it’s hard to imagine therapy helping when I barely have time to breathe. Even scheduling these sessions feels like another task I have to juggle. I’m worried it’ll just make me feel more guilty for taking time away from work.",
+    "therapist": "It makes sense that carving out time for therapy feels like another burden when you're already stretched so thin. What if we framed this time as an investment in your ability to manage the overwhelm, rather than just another task to complete?",
     "condition": "baseline",
-    "val_t": -0.2402350902557373,
-    "aro_t": 0.20567739009857178,
-    "text_emotion": "Angry"
+    "val_t": -0.2888387441635132,
+    "aro_t": 0.025128722190856934,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I don't know... when people compliment my work, part of me thinks they're just being polite or don't really mean it. Even if I tried to take them at face value, I'd probably just start analyzing why they said it and find reasons it wasn't genuine. It feels safer to assume they're just being nice rather than get my hopes up.",
-    "therapist": "I hear how deeply ingrained this pattern of doubting compliments has become for you - it's almost like your mind has developed this protective reflex against potential disappointment. That \"safety\" you describe in assuming the worst is interesting - what do you imagine might happen if you let yourself fully believe just one positive comment?",
+    "client": "That’s an interesting way to look at it, but I’m not sure how therapy can actually help me manage the overwhelm. It feels like the problem is the workload itself, not how I’m reacting to it. I’m not sure talking about it will make the deadlines go away.",
+    "therapist": "You're absolutely right that therapy won't change the deadlines themselves, but it might help you approach them differently. What if we explored how your thoughts about the workload are contributing to the stress you're feeling?",
     "condition": "baseline",
-    "val_t": -0.08187305927276611,
-    "aro_t": 0.03560829162597656,
+    "val_t": -0.09143519401550293,
+    "aro_t": 0.020184040069580078,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I don't know... if I actually believed a compliment, I think I'd just be setting myself up for disappointment later. Like what if they were just being nice and didn't really mean it? Then I'd feel stupid for believing them. It's safer to assume people are just being polite. \n\nBut I guess part of me does wonder what it would be like to actually accept a compliment without overanalyzing it. It just feels really uncomfortable and vulnerable.",
-    "therapist": "You're describing such an important tension between wanting to protect yourself from potential disappointment and that quiet curiosity about what it might feel like to receive kindness without questioning it. That discomfort you mention with vulnerability makes complete sense - it's scary to let our guard down when we're used to being so cautious. What would need to change for you to feel just a little bit safer experimenting with accepting one small compliment?",
+    "client": "I can see how my thoughts might be adding to the stress, but it’s hard to separate them from the reality of the situation. Even if I think differently about it, the deadlines are still there, and I’m still falling behind. It feels like no matter how I approach it, I’m just going to keep failing.",
+    "therapist": "It sounds like you're carrying a lot of weight from those deadlines and the fear of falling behind, which is completely valid. What if we explored small, manageable steps to approach one project at a time, rather than focusing on everything all at once?",
     "condition": "baseline",
-    "val_t": -0.29904675483703613,
-    "aro_t": 0.057720065116882324,
+    "val_t": -0.32369160652160645,
+    "aro_t": 0.0486302375793457,
     "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I don't know...even small compliments make me feel weirdly exposed. Like if I accept it, I'm somehow agreeing that I'm worthy of it, and what if that turns out not to be true? It's easier to deflect or make a joke than to actually let it in. \n\nThe idea of trying to accept one feels like standing at the edge of a diving board - logically I know the water's probably fine, but my body just freezes up.",
-    "therapist": "It sounds like accepting kindness feels like such a profound act of trust - both in others and in yourself - and that's understandably daunting when you're used to staying guarded. That diving board metaphor really captures that mix of logic and visceral fear perfectly. Could we explore what might make that first small step off the board feel just a tiny bit more manageable?",
+    "client": "That sounds reasonable in theory, but I don't get to choose which projects come at me or when. My boss just keeps piling things on with \"ASAP\" deadlines. Even when I try to focus on one thing, I'm constantly anxious about all the other tasks waiting for me. It feels like prioritizing is a luxury I don't have.",
+    "therapist": "It sounds like you're caught in a cycle where the constant demands make it feel impossible to catch your breath, and that anxiety keeps pulling your focus in all directions. What might it look like to have an honest conversation with your boss about realistic expectations?",
     "condition": "baseline",
-    "val_t": -0.14217829704284668,
-    "aro_t": 0.1318960189819336,
+    "val_t": -0.14525246620178223,
+    "aro_t": 0.10104036331176758,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I don't know... even small steps feel risky. What if I try to accept someone's kindness and they end up using it against me later? I've had that happen before where people seemed nice at first but then threw it back in my face. The fear isn't completely irrational.",
-    "therapist": "I hear how past experiences have understandably made it hard to trust positive interactions now - that fear makes complete sense given what you've been through. While not all compliments may be genuine, I wonder if we could explore how to tell the difference between authentic appreciation and the kind that might have strings attached? What signs might help you feel safer in discerning that difference?",
+    "client": "I’ve thought about talking to my boss, but I’m worried it’ll make me look weak or incapable. They hired me to handle this workload, and I feel like admitting I’m struggling would just confirm that I’m not good enough for this job. Plus, I’m not even sure how to bring it up without sounding like I’m complaining.",
+    "therapist": "It sounds like you're carrying a lot of fear about how this conversation might be perceived, which is completely understandable. What if we explored framing it as a proactive discussion about optimizing your workflow, rather than admitting defeat?",
     "condition": "baseline",
-    "val_t": -0.2760326862335205,
-    "aro_t": 0.20654916763305664,
+    "val_t": -0.3256559371948242,
+    "aro_t": 0.16004884243011475,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I don't know, sometimes even when people seem genuine I still get this knot in my stomach waiting for the other shoe to drop. Like my coworker complimented my presentation yesterday and I spent the whole afternoon analyzing if she was just being nice because she wants me to cover her shift. It's exhausting. \n\nThe idea of trying to tell the difference makes me anxious because what if I get it wrong again? Last time I trusted someone's kindness they ended up using me, and I still feel stupid about that.",
-    "therapist": "It sounds like that past betrayal has left you with this constant vigilance, where every kind word gets filtered through that painful experience - no wonder it feels so exhausting. That knot in your stomach is trying to protect you, but I wonder if we could gently explore how this hyper-awareness might actually be keeping you stuck in that old hurt? What might it feel like to acknowledge both the validity of your caution and the possibility that not every compliment comes with hidden expectations?",
+    "client": "I like the idea of framing it as optimization, but I worry my boss will see right through that. When other coworkers seem to be handling their workloads fine, won't I just stand out as the weak link? It feels like asking for help would be admitting I can't keep up like everyone else can.",
+    "therapist": "It sounds like you're comparing yourself to coworkers and assuming they're handling everything perfectly, which is adding to your self-doubt. What if we explored whether that assumption is truly accurate, or if others might also be quietly struggling?",
     "condition": "baseline",
-    "val_t": -0.23249292373657227,
-    "aro_t": 0.18653929233551025,
-    "text_emotion": "Angry"
+    "val_t": -0.09681880474090576,
+    "aro_t": 0.053911566734313965,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about the hyper-awareness keeping me stuck, but it's hard to imagine letting my guard down. Every time I've tried to believe someone's being genuine, that old betrayal comes rushing back like proof that I was naive. The idea that not every compliment has strings attached feels... dangerous, like I'd be setting myself up to get hurt again.",
-    "therapist": "I hear how deeply that past hurt has shaped your ability to trust, and how protective that guard feels - it makes complete sense that lowering it would feel dangerous right now. That old betrayal still carries so much weight, like a warning sign flashing in your mind. What would it feel like to acknowledge both that real pain from the past while also creating just a small space to consider that present-day interactions might be different?",
+    "client": "I guess I don’t really know how they’re handling things—I just see them meeting deadlines while I’m falling behind. But even if they’re struggling too, it doesn’t change the fact that I’m not keeping up. It feels like I’m the only one who’s visibly failing, and that makes it even harder to ask for help without feeling like I’m admitting I’m not good enough.",
+    "therapist": "It makes sense that feeling like the only one \"visibly failing\" would make it incredibly difficult to reach out for support. What if we explored how your definition of \"good enough\" might be unrealistic given the circumstances you're working under?",
     "condition": "baseline",
-    "val_t": -0.3517031669616699,
-    "aro_t": 0.20341968536376953,
-    "text_emotion": "Angry"
+    "val_t": -0.36566662788391113,
+    "aro_t": 0.11805784702301025,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I understand what you're saying, but it's hard to separate the past from the present. Every time I start to let my guard down, I feel that same fear creeping in, like I'm setting myself up to be hurt again. It's not just about trusting others—it's about trusting my own judgment, and I keep feeling like I failed myself back then.",
-    "therapist": "I hear how intertwined these feelings are - the fear of being hurt again and the painful self-doubt about your own judgment from that past experience. It's like you're carrying both the original wound and the frustration of not being able to fully trust yourself since then. What would it feel like to offer yourself some compassion for how hard you've worked to protect yourself since that betrayal?",
+    "client": "I think my definition of \"good enough\" is probably unrealistic, but it’s hard to separate that from what I think my boss expects of me. Even if I’m being too hard on myself, it feels like I’m still letting everyone down by not meeting deadlines. It’s hard to adjust my standards when I feel like I’m constantly failing.",
+    "therapist": "It sounds like you're holding yourself to a standard that feels impossible to meet, and that fear of letting everyone down is weighing heavily on you. What if we explored how you might balance meeting deadlines with self-compassion, rather than seeing it as an all-or-nothing situation?",
     "condition": "baseline",
-    "val_t": -0.40324199199676514,
-    "aro_t": 0.14616382122039795,
+    "val_t": -0.25709307193756104,
+    "aro_t": 0.055527567863464355,
     "text_emotion": "Sad"
   }
 ]

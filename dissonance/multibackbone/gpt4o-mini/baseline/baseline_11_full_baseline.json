@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately trying to juggle my full-time job at the marketing firm and taking care of my two young kids while my partner is away on a work trip. It feels like there just aren't enough hours in the day, and I'm constantly worried that I'm falling short in both areas. I’m starting to wonder if therapy can really help me manage this stress, or if it’s just something I have to push through on my own.",
-    "therapist": "It sounds like you're carrying a heavy load right now, and it's completely understandable to feel overwhelmed in such a challenging situation. Your concerns about not being able to meet expectations in both your job and as a parent are valid, and seeking support through therapy can certainly be a helpful step. What are some specific thoughts or situations that trigger your feelings of being overwhelmed?",
+    "client": "I've been feeling really overwhelmed lately trying to juggle my full-time job at the marketing firm while also taking care of my two young kids. With my partner away on a work trip, it feels like there's so much on my plate, and I’m constantly anxious about whether I'm doing enough at work or for my kids. Honestly, I'm starting to wonder if therapy can really help me manage this stress and find some balance.",
+    "therapist": "It sounds like you're carrying a heavy load right now, and it's completely understandable to feel overwhelmed with so many responsibilities. It's great that you’re reaching out for support; therapy can be a valuable space to explore these feelings and find ways to manage your stress. What are some specific thoughts you have about your responsibilities that contribute to your anxiety?",
     "condition": "baseline",
-    "val_t": -0.3146930932998657,
-    "aro_t": 0.17697381973266602,
+    "val_t": -0.26487433910369873,
+    "aro_t": 0.20554375648498535,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I feel like I'm constantly juggling everything, and it’s just too much sometimes. The thought of not being able to meet my kids' needs while also trying to excel at work makes my chest tighten. I worry that I'm going to let everyone down, and that makes me feel guilty, which adds to the overwhelming pressure.",
-    "therapist": "It’s clear that you’re feeling a lot of pressure from wanting to meet the needs of both your kids and your job, and it’s completely natural to feel guilt when you think you might fall short. Those tight feelings in your chest are signals that you’re under a lot of stress. Can you identify any specific moments or tasks that feel particularly overwhelming, and how might we explore ways to manage those more effectively?",
+    "client": "I often find myself thinking that if I don’t do everything perfectly, I’m going to let everyone down. At work, I worry that my performance will slip, and my boss will think I’m not dedicated. With my kids, I feel guilty if I can’t give them my full attention, which just adds to the pressure. I guess I’m just not sure how to shift these thoughts, especially when they feel so real.",
+    "therapist": "It’s clear that you’re holding yourself to very high standards, which can create a lot of pressure and guilt. It’s important to acknowledge that wanting to do well is natural, but perfection isn't realistic, and it’s okay to have limitations. What if we explored some evidence for these beliefs about letting others down? How might it feel to consider that doing your best doesn’t have to mean doing everything perfectly?",
     "condition": "baseline",
-    "val_t": -0.4183739423751831,
-    "aro_t": 0.21196162700653076,
-    "text_emotion": "Angry"
+    "val_t": -0.3248927593231201,
+    "aro_t": 0.10219287872314453,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess I feel overwhelmed just thinking about everything I need to juggle. There are days when I feel like I'm failing at both work and being a good parent, especially when deadlines clash with my kids' needs. It’s hard to pinpoint a specific moment because it all feels like a constant pressure, like I’m just trying to keep my head above water.",
-    "therapist": "It sounds like the constant pressure of managing both work and parenting is weighing heavily on you, and it's understandable to feel like you're in a struggle just to stay afloat. You're facing a lot of demands, and it's okay to acknowledge that it feels difficult. What small changes or adjustments do you think could help you feel more balanced or supported in these moments?",
+    "client": "I can see how holding onto these high standards is weighing me down, but it’s hard to let go of that fear of disappointing people. I mean, I’ve always believed that if I don’t give it my all, it reflects on my character. How can I convince myself that doing my best is enough when I feel like I’m constantly comparing myself to others?",
+    "therapist": "It’s understandable to feel that way, especially when we tie our self-worth to our performance and comparisons with others. It might be helpful to explore where those beliefs about your character originated and whether they truly reflect who you are at your core. What would it look like for you to define success on your own terms, rather than through the lens of comparison?",
     "condition": "baseline",
-    "val_t": -0.2576049566268921,
-    "aro_t": 0.2557985782623291,
+    "val_t": -0.25101137161254883,
+    "aro_t": 0.1838996410369873,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that it’s okay to feel overwhelmed. Honestly, it’s hard for me to see how even small changes could make much of a difference. I feel like I’m already stretched too thin, and adding anything else, even if it's supposed to help, just feels like more pressure.",
-    "therapist": "I completely understand how it can feel daunting to consider adding anything new when you're already feeling stretched thin. It's important to approach any changes in a way that feels manageable, so even the smallest steps can be taken without adding pressure. What if we explored some ways to simplify your current routine or find brief moments for yourself, rather than adding new tasks?",
+    "client": "I guess defining success on my own terms sounds nice in theory, but I really struggle to imagine what that would look like. I feel like I’ve been conditioned to measure success by external achievements and validation from others, so it’s hard to separate that from my identity. What if I create this new definition, and it ends up feeling inadequate or not good enough?",
+    "therapist": "It's completely natural to feel uncertain about redefining success, especially when you’ve been influenced by external expectations for so long. It might be helpful to start small by identifying what truly brings you joy or satisfaction, separate from others' opinions. What if you considered one aspect of your life where you feel fulfilled and think about how you could celebrate that as a measure of success?",
     "condition": "baseline",
-    "val_t": 0.03874528408050537,
-    "aro_t": 0.23290371894836426,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate your understanding, but honestly, I feel overwhelmed just thinking about simplifying my routine. It’s hard for me to see where I could find those moments for myself when I already feel like I’m constantly juggling everything. I worry that even small changes might feel like too much right now.",
-    "therapist": "It's completely valid to feel overwhelmed at the thought of making changes, especially when you're already managing so much. The idea of finding moments for yourself can feel far-off when you're in the thick of it. What if we took a step back and focused on just one small, manageable thing you currently do each day—could there be a brief moment, even just a few minutes, where you could catch your breath or do something you enjoy?",
-    "condition": "baseline",
-    "val_t": -0.09346544742584229,
-    "aro_t": 0.1920013427734375,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate that you're trying to help me find some moments for myself, but it honestly feels like there’s just no time at all. My days are packed, and even when I do have a few minutes, I often feel too guilty to take that time for myself. It’s hard to imagine doing something enjoyable when there’s always so much on my plate that needs my attention.",
-    "therapist": "It sounds like the guilt you feel about taking time for yourself is making it even harder to find those moments of enjoyment, which is completely understandable given your responsibilities. It’s important to remember that caring for yourself is not only okay but essential for being able to care for others effectively. Can we explore together what it might look like to gradually shift that guilt into a recognition that taking a moment for yourself could actually benefit both you and your family?",
-    "condition": "baseline",
-    "val_t": 0.016976475715637207,
-    "aro_t": 0.11825382709503174,
+    "val_t": -0.08965182304382324,
+    "aro_t": 0.11437106132507324,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 7,
-    "client": "I get what you’re saying about self-care being important, but it just feels so selfish to even think about taking time for myself. I worry that if I step away, everything will fall apart or that I’m letting my family down. It’s hard to shake off that guilt, and I’m not sure how I can really shift my mindset like that.",
-    "therapist": "It’s completely understandable to feel that taking time for yourself might come across as selfish, especially when you’re so dedicated to your family and work. Those feelings of guilt can be really tough to navigate. What if we looked at it from a different angle—considering that by taking care of yourself, you may actually be strengthening your ability to support your family and manage your responsibilities? How does that perspective resonate with you?",
+    "turn": 5,
+    "client": "I appreciate the idea of starting small, but I’m struggling to pinpoint what truly brings me joy outside of work and parenting. It often feels like I’m just going through the motions, and I can’t remember the last time I celebrated something for myself. What if I can’t find that fulfillment? It feels daunting to even think about it.",
+    "therapist": "It’s understandable to feel daunted by the idea of finding joy, especially when life feels so busy and overwhelming. It can be tough to connect with your own needs and desires when you’re so focused on others. What if you took a moment to reflect on small moments in your day, even simple ones, that might have brought a smile or a sense of peace? Sometimes, joy can be found in the little things.",
     "condition": "baseline",
-    "val_t": -0.2865133285522461,
-    "aro_t": 0.06578326225280762,
-    "text_emotion": "Sad"
+    "val_t": 0.0027277469635009766,
+    "aro_t": 0.2063131332397461,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I can see how reflecting on small moments could help me connect with joy, but it feels like such a challenge. My mind tends to race with all the things I need to do, and I often forget to pause and appreciate anything. What if I try to focus on those moments and still struggle to find any? It feels like I’m just setting myself up for disappointment.",
+    "therapist": "It’s completely valid to feel apprehensive about pausing and reflecting when your mind is so busy with tasks and responsibilities. Remember, this is a process, and it’s okay to take it one step at a time; even a brief moment of awareness can be meaningful. What if you tried setting aside just a minute each day to notice something you appreciate, without judgment about whether it feels fulfilling or not? How might that small practice feel for you?",
+    "condition": "baseline",
+    "val_t": -0.19316065311431885,
+    "aro_t": 0.12327373027801514,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I can see the value in taking just a minute to appreciate something, but I'm still feeling skeptical about whether it will actually help. It feels like such a small gesture compared to everything else I’m dealing with. What if I forget to do it, or it just feels forced? I’m worried it won’t make a difference in the grand scheme of things.",
+    "therapist": "It's understandable to feel skeptical about making small changes when you're facing so many bigger challenges. The key is to remember that even tiny gestures can have a cumulative effect over time, and they don’t need to be perfect or feel significant at first. What if you approached this practice with curiosity rather than pressure, allowing it to be a gentle experiment? How do you think you might feel if you gave yourself permission to just try it, without any expectations?",
+    "condition": "baseline",
+    "val_t": -0.17947924137115479,
+    "aro_t": 0.09969377517700195,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I see what you’re saying, but it’s hard for me to really accept that taking time for myself could actually help my family. I keep thinking about all the things that need to get done, and I feel like I should be there for them all the time. If I step back, what if they struggle or feel neglected? It just makes me feel even more guilty.",
-    "therapist": "It’s understandable to feel a strong sense of responsibility for your family and to worry about them struggling if you take a step back. It’s clear how much you care for them, and that’s a wonderful quality. What if we explored the idea that, just as you nurture your family, nurturing yourself could also provide them with a stronger, healthier version of you? How might that shift in perspective feel for you?",
+    "client": "I see what you're saying about approaching it with curiosity instead of pressure, and that does make it feel a bit lighter. But I still worry that if I don’t see immediate results or feel different, I’ll just end up feeling disappointed. It’s hard to shake the feeling that I should be doing something more impactful or meaningful instead of focusing on these small moments.",
+    "therapist": "It’s completely natural to want immediate results, especially when you’re feeling overwhelmed and seeking meaningful change. It’s important to remember that transformation often happens gradually, and small moments can serve as building blocks for larger shifts over time. What if you allowed yourself to view this as an exploration rather than a task to complete? How might it feel to give yourself permission to engage with those small moments without the pressure of needing to see significant results right away?",
     "condition": "baseline",
-    "val_t": -0.36680006980895996,
-    "aro_t": 0.0960550308227539,
-    "text_emotion": "Sad"
+    "val_t": -0.18991923332214355,
+    "aro_t": 0.08287322521209717,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about nurturing myself, but it feels really hard to even consider that right now. I always think if I take time for myself, I might be letting my family down or they might struggle without me. It's like this constant battle in my head where I feel guilty for even thinking about my own needs.",
-    "therapist": "It sounds like you're caught in a difficult internal struggle, where your desire to care for your family conflicts with your own needs. It’s really tough to feel that guilt when you’re so dedicated to others. What if we took some time to explore what specific needs you feel are being neglected and how those might be addressed in a gentle way that doesn’t feel overwhelming?",
+    "client": "I can see how viewing it as an exploration might take some of the pressure off, and that does sound a bit more manageable. But I still find it hard to believe that small moments will really change anything in my life. What if I just end up feeling like I’ve wasted time when I could have been tackling my bigger issues instead?",
+    "therapist": "It's understandable to feel hesitant about investing time in what seems small, especially when you’re facing bigger challenges. However, sometimes carving out brief moments for yourself can actually provide clarity and energy for tackling those larger issues, rather than detracting from them. What if you viewed these small moments as a way to recharge or gain perspective, rather than a distraction? How might that shift in thinking impact how you approach both the small and larger challenges you’re facing?",
     "condition": "baseline",
-    "val_t": -0.32997846603393555,
-    "aro_t": 0.09945428371429443,
-    "text_emotion": "Sad"
+    "val_t": -0.13203155994415283,
+    "aro_t": 0.08612024784088135,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate your understanding of my struggle, but I’m not even sure where to start identifying my own needs. It feels selfish to focus on myself when there’s so much going on with my family. I worry that if I take time for my needs, I might let them down or make things worse for them.",
-    "therapist": "It’s completely understandable to feel that focusing on your own needs might come across as selfish, especially when you have so much on your plate. Your concern for your family shows how deeply you care for them. What if we began by identifying just one small need of yours, perhaps something that feels manageable, and explore how addressing that could fit within your daily routine without feeling like a burden?",
+    "client": "I see what you’re saying about recharging and gaining perspective, and that does make a bit of sense. I guess if I think of those moments as a way to refresh myself instead of just wasting time, it might help me feel a bit more motivated. But it’s still hard to let go of the thought that I should be focusing on solving my bigger problems instead of taking a step back. What if I try this and still feel like I’m not making progress?",
+    "therapist": "It’s great to hear that the idea of recharging resonates with you, and it’s completely normal to feel conflicted about stepping back when there are pressing issues at hand. Remember, taking a moment to refresh can actually create space for more effective problem-solving later on. What if you allowed yourself to view this time as an investment in your well-being, which could ultimately empower you to tackle those bigger challenges with a clearer mind? How might that perspective change how you approach both the small moments and your larger concerns?",
     "condition": "baseline",
-    "val_t": -0.3072909116744995,
-    "aro_t": 0.10634875297546387,
-    "text_emotion": "Sad"
+    "val_t": -0.0753098726272583,
+    "aro_t": 0.08982861042022705,
+    "text_emotion": "Neutral"
   }
 ]

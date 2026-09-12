@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. After losing my grandmother last month, I find it hard to focus on work. Memories of her keep coming up, and I feel overwhelmed with sadness. I know we're here to work through this, but sometimes I wonder if it will actually help.",
-    "therapist": "Hello, I'm so glad you shared that with me. It's completely understandable to feel overwhelmed with sadness after losing someone so important to you, and it's natural to wonder if things will get better. How have you been coping with these feelings, and are there any specific moments or thoughts that stand out when you feel particularly overwhelmed?",
+    "client": "Hi Luna, I've been really struggling at work lately. Every time I think about my grandmother, who passed away last month, I get overwhelmed with sadness and can't seem to focus on anything. I know it's been hard, but I'm not sure if talking about it will actually make me feel better.",
+    "therapist": "Hi there, I'm so glad you reached out. It's completely understandable to feel overwhelmed with sadness, especially when thinking about your grandmother. It's a profound loss, and it's okay to take time to grieve. How have you been coping with these feelings so far, and is there anything specific that comes to mind when you think about her that makes it particularly difficult to focus?",
     "condition": "baseline",
-    "val_t": -0.2605358362197876,
-    "aro_t": 0.15393662452697754,
+    "val_t": -0.2870982885360718,
+    "aro_t": 0.1375046968460083,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It's been really tough, and sometimes I just feel so alone with these feelings. I've been trying to distract myself with work and hobbies, but it's hard because the sadness just keeps coming back, especially when I'm by myself or when something reminds me of them.",
-    "therapist": "I can imagine how isolating and challenging this must be for you, especially when the sadness returns despite your efforts to cope. It's important to acknowledge that it's okay to feel this way, and it's a normal part of grieving. What are some ways you think might help you feel less alone with these feelings, or are there people or activities that have provided some comfort, even in small moments?",
+    "client": "Thanks for understanding, Luna. Honestly, I've been trying to push the thoughts away, but that just makes me feel guilty because I know she was such an important part of my life. When I think about her, I remember all the times she supported me and how much I miss her guidance. It's hard to focus because those memories are so vivid and emotional.",
+    "therapist": "I can really hear the depth of your feelings and the importance of your relationship with your grandmother. It's natural to feel guilty when you try to push away thoughts of someone so significant, and it's okay to take time to process these emotions. Have you found any moments or activities where you feel a bit more connected to her memory in a positive way, or is there anything you might want to try to honor her memory that could help you feel a bit more at peace?",
     "condition": "baseline",
-    "val_t": -0.17303895950317383,
-    "aro_t": 0.11720585823059082,
-    "text_emotion": "Angry"
+    "val_t": -0.03569912910461426,
+    "aro_t": 0.11547219753265381,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "It's hard to feel less alone when the sadness is so overwhelming. I do try to reach out to a few friends, but it feels like they don't really understand what I'm going through. I know it's important to talk about it, but sometimes it just feels like a burden to put on others.",
-    "therapist": "I completely understand how isolating that can feel, and it's okay to have those thoughts. It's tough when it feels like others might not fully understand what you're going through. Have you considered finding a support group or a space where you can connect with others who are experiencing similar losses? Sometimes, sharing with people who have had similar experiences can help you feel less alone. What do you think about that idea?",
+    "client": "That's a good question. Sometimes when I look at old photos or listen to music she loved, I feel a bit more connected to her, but it's bittersweet. I don't know if doing more of that would help or just make me feel more sad. It's hard because I want to remember her, but the sadness can be overwhelming.",
+    "therapist": "It's completely understandable to feel both a sense of connection and overwhelming sadness when you engage with those memories. It's a bittersweet experience, but it shows how much you value and miss her. Have you considered setting aside a specific time to look at photos or listen to her favorite music, where you can give yourself permission to feel all the emotions that come up, without judgment? This might help you feel more in control and allow you to honor her in a way that feels meaningful to you. What do you think about that?",
     "condition": "baseline",
-    "val_t": -0.3314610719680786,
-    "aro_t": 0.01988685131072998,
+    "val_t": -0.32107508182525635,
+    "aro_t": 0.08147954940795898,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I see what you're saying, and I know it could be helpful to connect with others who understand. But it's hard for me to open up to strangers, and I worry that I won't find the right group or that it will just make me feel more vulnerable. I appreciate the suggestion, though.",
-    "therapist": "I totally understand your concerns about opening up to strangers and feeling vulnerable. It's a big step, and it's important to go at your own pace. Maybe we could start by exploring some smaller, more manageable steps, like writing down your thoughts and feelings or gradually sharing a bit more with a close friend. What do you think about trying one of these smaller steps to see how it feels?",
+    "client": "I appreciate the idea, Luna. Setting aside time to remember her sounds like it could be helpful, but I worry that it might make it harder to focus on work afterward. I don't want to open up those emotions and then have to try to close them off again. It's a bit of a double-edged sword, you know?",
+    "therapist": "I completely understand your concern; it's a delicate balance to strike. It's natural to worry about how those emotions might affect your work. One thing you might try is setting a specific, manageable time limit for reflecting on your grandmother, and then using a gentle transition activity afterward to help shift your focus back to work. This could be something like a short walk, a few deep breaths, or a quick mindfulness exercise. What do you think about trying that, and how might it feel to have a structured way to honor her while also managing your work responsibilities?",
     "condition": "baseline",
-    "val_t": 0.10452413558959961,
-    "aro_t": 0.057628631591796875,
+    "val_t": -0.06703412532806396,
+    "aro_t": 0.05224192142486572,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, Luna. Writing down my thoughts sounds manageable, but I worry it might just make me more anxious and introspective. I guess I can try it, but I'm not sure how much it will help.",
-    "therapist": "I understand your concerns, and it's completely normal to worry about how writing might affect you. Starting small and gently can be a good approach. You could try writing for just a few minutes a day, focusing on what feels comfortable and manageable. How about starting with just one thing you're grateful for or one memory of your grandmother that brings you a sense of warmth? What do you think about giving that a try?",
+    "client": "That makes sense, Luna. I think having a structured way to honor her could be helpful, but I'm still a bit skeptical about whether it will actually work for me. It's hard to imagine being able to switch off those emotions so quickly, and I worry that I might still struggle to get back into my work.",
+    "therapist": "I understand your skepticism, and it's okay to have doubts. Transitioning from such deep emotions to work can be challenging, and it's important to be gentle with yourself. One approach could be to start with a shorter time for reflection, maybe just 5-10 minutes, and then use a simple grounding technique, like focusing on your senses or a brief meditation, to help you ease back into your tasks. What do you think about starting small and seeing how it feels?",
     "condition": "baseline",
-    "val_t": 0.002488255500793457,
-    "aro_t": 0.021275639533996582,
-    "text_emotion": "Neutral"
+    "val_t": -0.13993406295776367,
+    "aro_t": 0.08319330215454102,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate your suggestion, Luna, but I still feel a bit hesitant. Writing down my thoughts and memories feels like it could stir up a lot of emotions, and I'm not sure if I'm ready to handle that just yet. It's hard because I know it might be helpful, but the idea of opening that door is scary.",
-    "therapist": "I completely understand your hesitation, and it's okay to take things at your own pace. It's natural to feel scared about stirring up emotions, and honoring your feelings is important. Maybe we can explore other ways to gently approach your emotions, like finding a quiet moment to listen to a song or look at a photo that reminds you of your grandmother. What do you think about trying something like that to start?",
+    "client": "Starting small sounds more manageable, and I can see the logic in it. I'll try setting aside 5-10 minutes to reflect and then use a grounding technique. It might help to have a structured way to process my feelings without feeling overwhelmed at work. I'll give it a shot and see how it goes.",
+    "therapist": "That's a great plan, and I'm glad you're willing to give it a try. Starting small and having a structured approach can make a big difference. Remember to be kind to yourself as you navigate these emotions, and it's okay if it takes some time to find what works best for you. How do you feel about trying this out, and is there anything else you think might support you during this process?",
     "condition": "baseline",
-    "val_t": -0.11082088947296143,
-    "aro_t": 0.20451009273529053,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate you understanding, Luna. It's just that... I don't think a song or a photo will make a big difference. It feels like a small step when I need something more substantial to help with the guilt and loneliness.",
-    "therapist": "I understand that you're looking for something more substantial to help with the guilt and loneliness. It's important to find what truly resonates with you and provides the support you need. Have you thought about talking to a close friend or family member about the guilt you're feeling? Sometimes, sharing these deeper emotions with someone who cares can provide a sense of relief and understanding. What do you think about that?",
-    "condition": "baseline",
-    "val_t": 0.006474852561950684,
-    "aro_t": 0.07443571090698242,
+    "val_t": 0.0956723690032959,
+    "aro_t": 0.03939032554626465,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 8,
-    "client": "I appreciate the suggestion, but it's hard for me to open up to people about these feelings. I worry they won't understand or that I'll burden them with my problems. It's something I've struggled with for a long time.",
-    "therapist": "I completely understand how challenging it can be to open up to others, especially when you worry about being understood or feeling like a burden. It's a valid concern, and it's something many people struggle with. Have you ever tried expressing your feelings in a different way, like through art or journaling, where you can explore your thoughts without the immediate pressure of a conversation? What do you think about trying that as a way to start processing your feelings?",
+    "turn": 7,
+    "client": "I feel a bit more hopeful about trying this out, Luna. It could really help me manage my emotions better at work. Maybe having a journal nearby to jot down my thoughts after reflecting could also be a good way to process everything and keep it from building up inside me.",
+    "therapist": "That's a wonderful idea, and I'm glad you feel more hopeful about it. Writing in a journal can be a powerful way to process your thoughts and emotions, and it can help you feel more in control. It's a great tool for reflecting on what you've experienced and for tracking your progress over time. How do you envision using your journal, and is there a specific time or place where you think it would be most helpful?",
     "condition": "baseline",
-    "val_t": -0.1890575885772705,
-    "aro_t": 0.06122243404388428,
-    "text_emotion": "Sad"
+    "val_t": 0.1633528470993042,
+    "aro_t": 0.12247729301452637,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I think I'll use the journal right after my reflection time, maybe during a short break at work. It could help me sort through my feelings and maybe even give me some clarity on how to move forward. It feels like a good way to honor her memory while also taking care of myself.",
+    "therapist": "That sounds like a thoughtful and well-considered plan. Using the journal right after your reflection time could indeed help you sort through your feelings and bring some clarity. It's a beautiful way to honor your grandmother's memory while also taking care of your own emotional well-being. How do you think this might impact your overall sense of balance and well-being as you move through your day?",
+    "condition": "baseline",
+    "val_t": 0.16682898998260498,
+    "aro_t": -0.00394892692565918,
+    "text_emotion": "Happy"
   },
   {
     "turn": 9,
-    "client": "I've thought about journaling before, but it always feels like I'm just writing down the same worries over and over. It's hard because I don't feel like it really changes anything or helps me move forward. I worry that it might just make me more focused on my negative thoughts.",
-    "therapist": "I understand your concerns about journaling and feeling like it might just reinforce negative thoughts. It's important to find a method that feels helpful and not just repetitive. One approach could be to try a different form of journaling, like focusing on writing down three things each day that you are grateful for or that brought you a moment of peace. This can help shift your focus to more positive aspects of your life, even in small ways. What do you think about giving that a try, or is there another way you might want to explore your feelings?",
+    "client": "I think it could really help me feel more balanced and less overwhelmed. Having a structured way to process my emotions might make it easier to manage them throughout the day, and writing in the journal could provide a sense of closure and relief. It's a step in the right direction, even if it's a small one.",
+    "therapist": "I'm so glad to hear that you're feeling more balanced and less overwhelmed. It's a positive step to have a structured way to process your emotions, and writing in the journal can definitely provide a sense of closure and relief. Even small steps can make a big difference over time. How do you feel about taking this step, and is there anything else you might want to explore or prepare for as you start this new routine?",
     "condition": "baseline",
-    "val_t": -0.28110945224761963,
-    "aro_t": 0.017900586128234863,
-    "text_emotion": "Sad"
+    "val_t": 0.2041083574295044,
+    "aro_t": 0.02692389488220215,
+    "text_emotion": "Happy"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, Luna. I can see how focusing on positive things might help, but I worry that it might feel forced or insincere, especially on days when I’m really struggling. It’s hard to find things to be grateful for when I’m feeling so anxious and alone.",
-    "therapist": "I understand that focusing on positive things can feel forced or insincere when you're really struggling, and that's completely valid. It's important to be gentle with yourself and not force anything that doesn't feel right. Maybe we could try a more balanced approach, where you acknowledge both the difficult feelings and any small moments of peace or gratitude you might notice. This way, you're not ignoring your struggles, but you're also not completely dismissing the positive. How does that sound to you?",
+    "client": "I feel more hopeful about trying this new routine, Luna. It's a bit daunting, but I think it's worth it. I might also want to talk to a close friend about this, just to have some support as I start this process. It could help to have someone to share my experiences with.",
+    "therapist": "That's a really positive and hopeful approach, and reaching out to a close friend for support is a great idea. Having someone to share your experiences with can provide additional comfort and encouragement. It's completely normal to feel a bit daunting, but you're taking important steps to take care of yourself. How do you think talking to your friend might help you, and is there anything specific you'd like to discuss with them?",
     "condition": "baseline",
-    "val_t": -0.1838291883468628,
-    "aro_t": 0.10615229606628418,
-    "text_emotion": "Angry"
+    "val_t": 0.1788637638092041,
+    "aro_t": 0.09401297569274902,
+    "text_emotion": "Excited"
   }
 ]

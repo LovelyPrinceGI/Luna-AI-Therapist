@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really down lately. It's been a month since my grandmother passed away, and I can't shake this overwhelming sadness. I keep wondering about my own future and what it all means, and it's really hard to see a way forward. I'm not sure if therapy can even help with this, but I thought I'd give it a try.",
-    "therapist": "Hi there, I'm so glad you reached out. Losing someone we love can bring up such deep and complex emotions, and it's completely understandable to feel overwhelmed and question the future. It sounds like you're carrying a heavy burden, and I'm here to support you through this. How have you been coping with these feelings so far?",
+    "client": "Hi Luna, I've been feeling really down lately, especially after losing my grandmother last month. I keep thinking about her and it’s hard not to feel overwhelmed and wonder what the future holds for me. I know you’re here to help, but I’m not sure if anything can really change how I feel.",
+    "therapist": "Hi there, I'm so sorry to hear about your loss and the overwhelming feelings you're experiencing. It's completely normal to feel this way after such a significant loss. Can you tell me more about what specific thoughts or moments feel the most challenging for you right now?",
     "condition": "baseline",
-    "val_t": -0.12458193302154541,
-    "aro_t": 0.10478401184082031,
+    "val_t": -0.1515963077545166,
+    "aro_t": 0.21131360530853271,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It's been really tough. I've been trying to stay busy with work and small tasks around the house, but it feels like a Band-Aid on a deep wound. I just can't shake this overwhelming sense of loss and guilt. It's like I'm constantly questioning if I did enough for them, if I could have done more.",
-    "therapist": "I can hear how much you're struggling with this loss, and it's completely normal to feel that way. It's understandable to question if you did enough; those feelings of guilt can be so powerful and distressing. Have you had a chance to talk about these feelings with anyone close to you, or is there a particular memory or moment that keeps coming up for you?",
+    "client": "Thank you for understanding, Luna. The hardest moments are when I'm alone at home and I start thinking about all the things we didn't get to say to each other. I feel this deep sense of regret and guilt, wondering if I could have done more for her. It's just so hard to shake off.",
+    "therapist": "I can imagine how profoundly difficult those moments must be, especially when you're alone and the silence amplifies those thoughts. It's natural to feel regret and guilt, but it's important to remember that you did your best with the time you had. Can you think of any positive memories or moments you shared with your grandmother that might help balance out those feelings of regret?",
     "condition": "baseline",
-    "val_t": -0.2551349401473999,
-    "aro_t": 0.14143311977386475,
+    "val_t": -0.2181776762008667,
+    "aro_t": 0.09923183917999268,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I haven't really talked about it much with anyone. It's hard because I feel like I should have done more for them, you know? I keep thinking about the last time I saw them, and I just can't shake the feeling that I should have said or done something different.",
-    "therapist": "It takes a lot of courage to open up about these feelings, especially when they're so raw. It's natural to have those \"what if\" thoughts, but they can be really painful. Sometimes, just sharing these feelings with someone can help ease the burden a little. Can you tell me more about what you wish you had said or done differently during your last visit?",
+    "client": "That's a good point, Luna. I do have some really special memories, like when she taught me how to bake her famous apple pie. But even when I think about those moments, I can't help feeling like I should have spent more time with her. It's hard to find a balance between cherishing those memories and feeling guilty about what I perceive as missed opportunities.",
+    "therapist": "It's wonderful that you have such cherished memories, like learning to bake her apple pie. Those moments are a beautiful legacy she left with you. It's understandable to feel like you could have done more, but it's also important to acknowledge the love and effort you did show. Could we explore some ways to honor her memory that might help you feel more connected to her and less burdened by guilt?",
     "condition": "baseline",
-    "val_t": -0.23878586292266846,
-    "aro_t": 0.06621801853179932,
-    "text_emotion": "Sad"
+    "val_t": -0.19487035274505615,
+    "aro_t": 0.09792673587799072,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. During my last visit, I just felt so overwhelmed by my anxiety. I wish I had been able to articulate my fears more clearly, but I just kept thinking that no one would really understand or that I'd sound crazy. It's hard to open up when it feels like no one else has these kinds of thoughts.",
-    "therapist": "I can understand how overwhelming and isolating those feelings can be. It's really tough to open up when you feel like your thoughts might not be understood. It's important to remember that your feelings are valid, and it's okay to have those anxieties. How do you think it might feel to share these thoughts with someone who you trust, even if it's just a small step?",
+    "client": "I really like the idea of honoring her memory, Luna. Maybe I could make her apple pie more often and share it with others. But I'm still worried that these feelings of guilt will linger, no matter what I do. It's hard to shake the thought that I should have been there more for her.",
+    "therapist": "That's a beautiful way to keep her memory alive, and sharing the pie with others can be a lovely way to connect with her spirit. It's natural for feelings of guilt to linger, but remember that no one can be present all the time, and you did your best with the time and resources you had. What do you think might help you feel more at peace with the time you did spend together?",
     "condition": "baseline",
-    "val_t": -0.1484689712524414,
-    "aro_t": 0.18646419048309326,
-    "text_emotion": "Angry"
+    "val_t": -0.10870540142059326,
+    "aro_t": 0.0635155439376831,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard because I often feel like people don't really get what I'm going through. I worry that they'll judge me or not understand, and that just makes me retreat further into myself. Sharing my thoughts feels risky, even with someone I trust.",
-    "therapist": "I completely understand how that feels. It's natural to worry about being judged or misunderstood, and those fears can make it really hard to open up. It's a vulnerable place to be. Is there anyone in your life, even a friend or family member, who you think might be able to offer a safe and non-judgmental space for you to share these feelings, even if it's just a little bit?",
+    "client": "I appreciate your support, Luna. I think writing down the things I wish I had said to her might help me feel more at peace. But I'm worried that it might just bring up more emotions and make me feel worse. It's hard to know if it will actually help.",
+    "therapist": "Writing down your thoughts can be a powerful way to process and find closure. It's completely understandable to worry about it bringing up more emotions, but often, expressing those feelings can be healing in the long run. What do you think might be a small, manageable step you could take to start this process, maybe just jotting down a few thoughts to see how it feels?",
     "condition": "baseline",
-    "val_t": -0.1851801872253418,
-    "aro_t": 0.13056325912475586,
-    "text_emotion": "Angry"
+    "val_t": -0.04603910446166992,
+    "aro_t": 0.06262052059173584,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, Luna. It's just hard because I feel like everyone in my life has their own stuff going on, and I don't want to burden them with my problems. Plus, it feels like they might not really get what I'm going through.",
-    "therapist": "I understand that feeling of not wanting to burden others, especially when they have their own challenges. It's a thoughtful and caring perspective, but it's also important to remember that reaching out for support is a sign of strength, not a burden. Have you considered finding a way to express your feelings without directly asking for help, like writing a letter or sharing a small part of what you're going through with someone you trust?",
+    "client": "I think starting small makes sense. Maybe I could just write down one or two things I remember about her and how they made me feel. It feels a bit daunting, but I'm willing to try it and see if it helps me process some of these emotions.",
+    "therapist": "That's a great approach, taking it one step at a time. Writing down just one or two memories can be a gentle way to start and see how it feels. How about you try that and we can talk about your experience next time? What do you think might be the first memory you'd like to write about?",
     "condition": "baseline",
-    "val_t": -0.03170204162597656,
-    "aro_t": 0.1431337594985962,
+    "val_t": 0.06264400482177734,
+    "aro_t": 0.09289753437042236,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying, and I do appreciate it. Writing a letter sounds like a good idea, but I'm not sure I can find the right words. It feels like no matter what I say, it might still come off as a burden or a complaint. How do I make sure I don't overstep?",
-    "therapist": "I understand that finding the right words can feel daunting, and it's natural to worry about overstepping. Writing can be a powerful way to process your thoughts and feelings, even if you don't end up sharing the letter. You might start by just writing down what you're feeling and what you need, without worrying about how it sounds. Once you have it on paper, you can decide whether to share it or keep it as a personal reflection. How does that feel to you?",
+    "client": "I think the first memory I'd like to write about is the time we made apple pie together. It was such a simple moment, but it felt so special. I'll give it a try and see how it goes. It might be tough, but I'm willing to give it a shot.",
+    "therapist": "That's a beautiful choice to start with, and I can tell how meaningful that memory is to you. The simplicity and connection in that moment are truly special. Taking it one step at a time is a great way to approach this. How do you feel about setting aside a quiet moment to write about that memory, perhaps today or tomorrow? And remember, it's okay to take breaks if it gets too overwhelming. How do you think you'll know when you're ready to start?",
     "condition": "baseline",
-    "val_t": -0.14278936386108398,
-    "aro_t": 0.1591956615447998,
-    "text_emotion": "Angry"
+    "val_t": 0.20847558975219727,
+    "aro_t": 0.18458247184753418,
+    "text_emotion": "Excited"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea, but I'm still not sure if writing a letter will actually help. It feels like I might just end up overthinking everything I write and get stuck in my head even more. Plus, I'm worried about what the other person might think if I do end up sharing it.",
-    "therapist": "I understand your concerns, and it's completely normal to worry about overthinking or how others might react. Writing can be a way to sort through your thoughts and emotions, even if you don't plan to share it. Sometimes, just the act of putting your feelings into words can provide some clarity and relief. What do you think might be a small step you could take to start expressing these feelings, whether through writing or another form of self-expression?",
+    "client": "I think I'll feel ready to start when I have a quiet moment to myself, maybe after dinner tonight. It might be tough, but I'll try to take it slow and not push myself too hard. I appreciate your support, Luna, it helps to know I'm not alone in this.",
+    "therapist": "That sounds like a thoughtful plan, and taking it slow is really important. After dinner might be a peaceful time to reflect and write. Remember, you can always pause and take breaks if you need to. I'm here for you, and you're not alone in this. How do you feel about reaching out if you need more support or just someone to talk to after you've written?",
     "condition": "baseline",
-    "val_t": -0.18905425071716309,
-    "aro_t": 0.1712639331817627,
-    "text_emotion": "Angry"
+    "val_t": 0.09956574440002441,
+    "aro_t": 0.09872877597808838,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I can see how writing might help, but I'm still not sure. It feels like a lot to start with, especially when I'm already feeling overwhelmed. Maybe I could just try jotting down a few thoughts at the end of the day, but I'm worried it might just make me dwell on things more.",
-    "therapist": "I understand that starting with a full letter might feel like a big step, especially when you're already feeling overwhelmed. Jotting down a few thoughts at the end of the day is a great, more manageable way to begin. It can help you process your feelings without feeling like you have to tackle everything at once. How do you think you might approach this, and what might be a helpful way to frame it for yourself?",
+    "client": "I really appreciate that, Luna. Knowing I can reach out if I need to definitely makes me feel more at ease. I think I'll try to write tonight and see how it goes, and I'll keep your offer in mind if I need extra support.",
+    "therapist": "I'm glad to hear that knowing you can reach out brings you some comfort. Writing tonight can be a meaningful start, and I'm here whenever you need to talk or share your experience. Take your time, and be kind to yourself as you go through this process. How do you feel about setting aside some time to reflect on what you write, perhaps after you've finished?",
     "condition": "baseline",
-    "val_t": -0.14043962955474854,
-    "aro_t": 0.07802355289459229,
-    "text_emotion": "Angry"
+    "val_t": 0.1840522289276123,
+    "aro_t": 0.051369309425354004,
+    "text_emotion": "Happy"
   },
   {
     "turn": 10,
-    "client": "I see what you mean about it being a smaller step, but I still feel a bit resistant. It's hard to even know what to write down at the end of the day, and sometimes I just feel too drained to think about it. I worry that if I start, I'll just end up feeling more overwhelmed or guilty for not doing it perfectly.",
-    "therapist": "I completely understand your feelings of resistance and the worry about feeling more overwhelmed. It's okay to take things at your own pace, and it's important to be gentle with yourself. Maybe you could start with something really simple, like noting one thing that stood out to you during the day, whether it was a small moment of peace, a challenge, or a thought that came up. How does that feel to you?",
+    "client": "I think setting aside time to reflect on what I write is a good idea. It might help me process my feelings more deeply, but I'm a bit nervous about facing those emotions all at once. I'll try to take it one step at a time and see how it goes.",
+    "therapist": "Taking it one step at a time is a wise approach, and it's completely normal to feel nervous about facing those emotions. Reflecting on what you write can be a powerful way to gain deeper insights and process your feelings. If it helps, you can start with a short reflection, maybe just a few minutes, and see how it feels. What do you think might be a comforting or grounding activity you can do after you write and reflect, to help you feel more at ease?",
     "condition": "baseline",
-    "val_t": -0.31327927112579346,
-    "aro_t": 0.0876075029373169,
-    "text_emotion": "Sad"
+    "val_t": -0.023009777069091797,
+    "aro_t": 0.21098697185516357,
+    "text_emotion": "Tense"
   }
 ]

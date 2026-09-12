@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately with this new job I started at a tech startup about a month ago. The hours are just brutal — I'm staying late almost every night, and by the time I get home I'm completely drained but somehow still can't sleep because my mind keeps racing about everything I didn't finish. Honestly, I'm not even sure talking about it is going to change anything, because the workload is just... real, you know? It's not like therapy can make my boss assign me fewer tasks.",
-    "therapist": "It sounds like you're carrying a real, heavy load right now — the exhaustion, the sleeplessness, the sense that your mind won't let you rest even when your body desperately needs it. You're absolutely right that I can't reduce your workload, and I want to honor that this situation is genuinely demanding, not just a matter of perception. What I *can* help with is how your thoughts about the unfinished work might be amplifying the stress beyond the work itself — so I'm curious, when your mind is racing at night, what kinds of thoughts tend to show up most?",
+    "client": "I've been really struggling lately with this new job I started at a tech startup about a month ago. The hours are just brutal — I'm staying late almost every night, and by the time I get home I'm completely drained but somehow still can't shut my brain off. Honestly, I'm not even sure talking about it is going to change anything, because the work is still going to be there tomorrow no matter what.",
+    "therapist": "It sounds like you're carrying a real heaviness right now — exhausted physically but still mentally racing, which is such a draining combination. I also notice a part of you that's a bit skeptical about whether this conversation can help, and I think that's worth honoring rather than brushing aside. What would feel like a meaningful shift for you, even a small one — is it more about finding ways to unwind after work, or is there something deeper about the job itself that's weighing on you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2693697214126587,
-    "aro_t": 0.110817551612854,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "Honestly, the thoughts that keep coming up are things like \"if I don't finish this by tomorrow, everything will fall apart\" or \"I'm already behind and it's only going to get worse.\" There's this constant loop of going through everything I haven't done yet, almost like my brain is making a list over and over just to torture me. And underneath all of that, there's this feeling that I'm somehow failing, like I should be able to handle this better than I am.",
-    "therapist": "That loop your brain is running sounds genuinely exhausting — like a mental alarm that keeps going off even when there's nothing more you can do at midnight. I want to gently point to something: that thought \"I *should* be able to handle this better\" is doing a lot of quiet damage, because it adds a layer of self-judgment on top of an already hard situation. When you imagine someone you care about starting a demanding new job and struggling with the hours — would you tell *them* they should be handling it better, or would you see their struggle as a pretty understandable response to a tough circumstance?",
-    "condition": "emotion_text_only",
-    "val_t": -0.40159571170806885,
-    "aro_t": 0.17182481288909912,
+    "val_t": -0.2094438076019287,
+    "aro_t": 0.1332094669342041,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I mean... no, I wouldn't say that to a friend. I'd probably tell them it makes total sense that they're struggling. But it feels different when it's me — like I'm supposed to be tougher than that, or I've had enough time to adjust by now and I'm just not.",
-    "therapist": "There's something really important in what you just noticed — you'd offer a friend genuine compassion, but you're holding yourself to a completely different, harsher standard. That belief that you should be \"tougher\" or adjusted by now is worth examining, because one month into a brutal startup schedule isn't really enough time to adapt — that's not a personal failing, that's just reality. Where do you think that expectation of toughness comes from — is it something this job brought out, or does it feel more familiar than that?",
+    "turn": 2,
+    "client": "Honestly, I think it's both, but if I had to pick what's really eating at me, it's more the job itself. I keep second-guessing whether I'm actually cut out for this role — like everyone else seems to just know what they're doing, and I'm constantly playing catch-up and waiting for someone to notice. And then I feel guilty going home at a normal hour because I think it'll confirm that I don't belong there.",
+    "therapist": "What you're describing — feeling like everyone else has it figured out while you're barely keeping up — sounds really quietly exhausting, like a constant low hum of self-doubt that's hard to escape. There's actually a name for this experience: it's called impostor syndrome, and it's remarkably common in high-pressure environments like startups, where people are often very good at appearing confident even when they're not. I'm curious — when you picture the colleagues who \"seem to know what they're doing,\" what evidence are you actually basing that on, and is it possible you're seeing their highlight reel while judging yourself by your behind-the-scenes?",
     "condition": "emotion_text_only",
-    "val_t": -0.16900944709777832,
-    "aro_t": 0.07612121105194092,
+    "val_t": -0.3074610233306885,
+    "aro_t": 0.0826178789138794,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I've heard of impostor syndrome before, and yeah, I get that it's common, but knowing there's a name for it doesn't really make it feel less real, you know? And when I think about my colleagues, I guess I'm basing it on things like how quickly they speak up in meetings or how they don't seem to hesitate when they're asked questions. But I also realize I don't actually know what's going on in their heads, which is a weird thing to sit with.",
+    "therapist": "You're so right that naming something doesn't automatically dissolve it, and I appreciate you pushing back on that — what matters is what we do with the insight. It's actually a really significant moment that you caught yourself making that distinction: you're reading their *behavior* (speaking up quickly, not hesitating) and translating it into a conclusion about their inner confidence, while having full access to your own doubts and none of theirs. If a colleague of yours was secretly struggling just as much but appeared composed in meetings, would that change how you see them — and what might that mean for how you're measuring yourself?",
+    "condition": "emotion_text_only",
+    "val_t": -0.19473040103912354,
+    "aro_t": 0.09333240985870361,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Honestly, it feels really familiar — like it's been there my whole life, not just this job. I grew up in a house where showing struggle was kind of seen as weakness, so you just pushed through and didn't make a big deal out of things. I guess I internalized that pretty deeply, because even now I feel almost embarrassed admitting that the schedule is getting to me.",
-    "therapist": "What you're sharing takes real courage, and the fact that you feel embarrassed admitting struggle is itself a sign of how deeply that early message got woven into who you are — it wasn't a choice you made, it was something you absorbed to survive your environment. That little kid who learned to push through was being smart and adaptive, but that same rule is now costing you a lot as an adult, because it's blocking you from giving yourself the care you'd so readily offer someone else. I'm wondering — when you imagine slowly loosening that old rule, even just a little, what feels scary about letting yourself acknowledge that this is genuinely hard?",
+    "client": "I mean, yeah, if I found out a colleague was struggling just as much, I definitely wouldn't think less of them — I'd probably feel relieved, honestly, and more connected to them. But I think the hard part is that this feels like a one-way exercise, like I can intellectually tell myself \"they might be struggling too,\" but in the moment when I'm sitting in a meeting and freezing up, that thought just doesn't show up. It's like there's a gap between knowing something and actually feeling it when it counts.",
+    "therapist": "You've just identified something really important — the gap between intellectual understanding and felt experience in the moment is one of the most real challenges in this kind of work, and it makes complete sense that it feels frustrating. That gap actually exists because in high-pressure moments our brain shifts into a more reactive mode, and the calm, rational voice gets drowned out — it's not a failure of willpower or insight. So rather than trying to think your way through those moments, I'm wondering: what do you notice happening in your body or your thoughts right at the point when you start to freeze in a meeting — is there a particular trigger, like a certain type of question, or a specific person in the room?",
     "condition": "emotion_text_only",
-    "val_t": -0.24185645580291748,
-    "aro_t": 0.20760154724121094,
+    "val_t": -0.10583817958831787,
+    "aro_t": 0.13472318649291992,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I think what scares me is that if I actually admit it's hard, I won't be able to stop... like I'll just fall apart completely and never pull myself back together. There's this fear that acknowledging the struggle makes it more real, more permanent somehow, like I'm giving it permission to take over. And honestly, part of me worries that if I let myself feel it, I'll just become someone who's constantly overwhelmed and needy, and then I'll really end up alone.",
-    "therapist": "That fear — that feeling it fully means being consumed by it forever — is one of the most common and painful traps our minds set for us, and it makes so much sense given where you learned to cope. But I want to offer a gentle challenge to that belief: in your experience, when you've allowed yourself to briefly acknowledge something hard, did you actually fall apart and stay there, or did the feeling move through and eventually shift? And that fear of becoming \"needy\" and ending up alone — that tells me there's a really deep loneliness already underneath all this pushing through, and I wonder if the armor that was meant to protect you from that might actually be keeping connection at a distance.",
+    "client": "Yeah, there's definitely a pattern — it tends to happen most when my manager asks me something directly in front of the whole team, like he's testing whether I actually know what I'm doing. I notice my mind just goes kind of blank and my chest gets tight, and then I start thinking everyone is watching me fail in real time. The worst part is that afterward I'll replay it for hours and pick apart everything I said or didn't say.",
+    "therapist": "That pattern — the blank mind, the tight chest, the sense of being watched and judged, and then the hours of replaying it afterward — sounds really painful, like the moment itself is hard enough but then you don't even get to leave it behind. What you're describing is almost like two separate battles: the one happening in real time in the meeting, and then the one you fight alone afterward in your head. I'm curious about that replay process — when you're going over what you said or didn't say, what does that inner voice tend to sound like, and is it ever as fair to you as you said you'd be to a struggling colleague?",
     "condition": "emotion_text_only",
-    "val_t": -0.3996260166168213,
-    "aro_t": 0.27875030040740967,
+    "val_t": -0.2148829698562622,
+    "aro_t": 0.13336074352264404,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I hate that what you're saying actually makes sense, because part of me really wants to push back on it. When I think about the times I've let something slip through... yeah, I didn't completely fall apart, but it still felt awful and I spent days worrying I'd said too much or shown too much to someone. And the loneliness thing — you're right that it's already there, I feel it constantly, but somehow the idea of letting people see that and then still ending up alone feels so much worse than just staying numb and lonely on my own terms.",
-    "therapist": "There's something really profound in what you just said — that staying numb and lonely \"on your own terms\" feels safer than risking being seen and still ending up alone, because at least then you're in control of the pain. That's not weakness, that's actually a very logical strategy your mind developed to protect you from what might feel like the worst possible outcome. But I want to sit with this gently — when you imagine someone truly seeing your struggle and *not* leaving, even if that feels hard to believe right now, what comes up for you?",
+    "client": "No, it's really not fair at all — the voice is pretty harsh, like it's keeping score of every stumble and using it as proof that I was right to doubt myself in the first place. I would never talk to a colleague the way I talk to myself during those replays. But I guess I've just always assumed that being hard on myself is what keeps me from getting complacent, so it's strange to think of it as something that might actually be working against me.",
+    "therapist": "There's something really honest and courageous in that realization — you've held onto self-criticism as a kind of protective tool, almost like a coach pushing you to do better, but it sounds like you're starting to sense that this particular coach might be doing more harm than good. Research in CBT actually backs that up: harsh self-criticism tends to increase anxiety and avoidance, while self-compassion — which isn't the same as letting yourself off the hook — tends to build the kind of psychological safety that actually improves performance. What do you think it would feel like to experiment with responding to a stumble the way you'd respond to that struggling colleague — not to be easier on yourself, but just to be *fairer*?",
     "condition": "emotion_text_only",
-    "val_t": -0.42183470726013184,
-    "aro_t": 0.19496524333953857,
-    "text_emotion": "Angry"
+    "val_t": -0.24120807647705078,
+    "aro_t": 0.051163554191589355,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I mean... when I try to imagine that, there's this weird mix of things that comes up. Part of me feels something almost like relief, like a tiny flicker of it, but then it gets immediately drowned out by this voice that says \"that's not real, that doesn't actually happen for people like you.\" It's like I can't even let myself stay in that image for more than a second before my brain starts poking holes in it.",
-    "therapist": "That tiny flicker of relief is actually really significant — it means some part of you *does* want to be seen and held, even if it gets quickly shouted down. I want to gently name that voice — \"that doesn't happen for people like me\" — because that's not a fact your brain discovered, it's a conclusion a younger version of you drew from painful experiences, and it's been running quietly in the background ever since. What do you think \"people like you\" means in that moment — what is your brain actually saying you are?",
+    "client": "I think it would feel really uncomfortable at first, honestly, because being fair to myself almost feels like I'm making excuses or lowering my standards. There's this worry that if I ease up even a little, I'll stop pushing myself and then I really will fall behind. I want to try it, but I don't know how to do it in the moment when the harsh voice is already so loud and automatic.",
+    "therapist": "That worry makes a lot of sense — you've built your whole drive around that harsh voice, so softening it can feel genuinely risky, like removing something load-bearing. But I'd gently offer this reframe: fairness isn't lowering the bar, it's actually removing the static that gets in the way of clear thinking and real growth — the tight chest, the blank mind, the hours of replaying, those are the things slowing you down, not your high standards. In terms of the \"how\" in the moment, one small entry point can be to notice the harsh voice like a signal rather than a truth — just a brief pause to ask \"is this the fair version, or the harsh version?\" — would you be open to trying that as a tiny experiment this week and seeing what you notice?",
     "condition": "emotion_text_only",
-    "val_t": -0.19354164600372314,
-    "aro_t": 0.165749192237854,
+    "val_t": -0.2778552770614624,
+    "aro_t": 0.18619966506958008,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That question kind of stops me in my tracks, honestly. When I try to actually look at what my brain is saying... it's something like \"too much, too needy, the kind of person who drives people away if they get too close.\" I've never really put words to it like that before and it feels uncomfortably accurate, which is kind of unsettling.",
-    "therapist": "The fact that putting words to it feels unsettling is actually a sign that something real and important just surfaced — you've been carrying that belief quietly for so long that naming it out loud makes it suddenly visible in a new way. I want to be careful here, because \"too much, too needy, drives people away\" — that's not a truth about who you are, it's a story that was likely written for you by early experiences where your needs *weren't* met, and your young mind made it mean something was wrong with *you* rather than with the situation. I'm curious — can you think of even one relationship in your life, past or present, where someone got close to you and *didn't* leave or pull away?",
+    "client": "I think I can try that, but I'm a little skeptical about whether I'll actually remember to do it in the middle of one of those moments — like when my manager puts me on the spot, my brain is already in panic mode and I'm not sure I'll have the presence of mind to stop and ask myself that question. It feels like trying to remember a breathing technique while you're drowning. But I guess the replays afterward might be an easier place to start, since I have more space to actually think then — would it still count if I tried it there first?",
+    "therapist": "Absolutely it counts — in fact, starting with the replays is genuinely smart, not a consolation prize, because that's where you have the mental space to actually practice the skill and build the neural groove before trying it in the heat of the moment. Think of it like rehearsing a fire drill when there's no fire — the more you practice the fair voice in the calmer moments, the more likely it is to show up automatically when things get intense. So this week, when you notice a replay starting, could you try catching one specific harsh thought and writing down what the \"fair version\" of it would sound like — just to see what that voice actually has to say?",
     "condition": "emotion_text_only",
-    "val_t": -0.23631525039672852,
-    "aro_t": 0.20435893535614014,
+    "val_t": -0.08768856525421143,
+    "aro_t": 0.14326155185699463,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I have to think about that for a second, because my first instinct is to say no, everyone eventually pulls back. But there's my friend Dara, she's been around for like six years and she hasn't gone anywhere, even when I've been a mess. I don't know though, sometimes I wonder if she just hasn't gotten tired of me yet, like maybe I'm on borrowed time with her too.",
-    "therapist": "Dara is really important evidence here — six years, seen you at your worst, still there, and your brain's response is to reframe that as borrowed time rather than let it count. That's how deep this belief runs: it doesn't just ignore contradictions, it *explains them away* to protect itself from being wrong. I wonder what it would mean for you — about yourself, about your life — if you allowed Dara's six years of showing up to actually be real and count as proof?",
+    "client": "Writing it down feels a bit more manageable than trying to catch it in the moment, so I'm willing to try that. I guess my hesitation is that I've never really been a journaling type of person — it feels a little forced, like I'm doing homework for a class I'm not sure I believe in yet. But maybe just one thought, not a whole page, is something I can actually commit to without it feeling like another thing I'm failing at.",
+    "therapist": "I love that reframe — one thought, not a journal, and definitely not homework, just a single moment of catching yourself and asking \"what would fair sound like here?\" That's it. And the fact that you're already anticipating the risk of it becoming another thing to feel bad about tells me you know yourself well — so let's make the rule explicit: if you miss a day or forget entirely, that's not data about whether you belong in this role, it's just a Tuesday. What feels like a realistic, low-pressure way to capture that one thought — a notes app, a scrap of paper, something else — so it fits your life rather than adding to it?",
     "condition": "emotion_text_only",
-    "val_t": -0.15048396587371826,
-    "aro_t": 0.15174758434295654,
-    "text_emotion": "Angry"
+    "val_t": -0.026580095291137695,
+    "aro_t": 0.07815420627593994,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe it... but when I actually try to let it count, like really sit with it, there's this almost physical resistance, like my chest tightens up. If Dara's six years are real proof, then that means I've been wrong about myself this whole time, and I don't know if that's comforting or just... terrifying. It's like, who even am I if the story I've been telling myself about being fundamentally alone and unlovable isn't true?",
-    "therapist": "What you're sitting with right now is one of the most disorienting and courageous moments a person can have — because our stories about ourselves, even the painful ones, become a kind of home, and questioning them can feel like the ground shifting beneath you. That tightness in your chest is real, and it makes complete sense, because you're not just updating a small belief — you're touching something that has organized your whole way of moving through the world and protecting yourself. And I want to offer this gently: the question \"who am I if I'm not fundamentally unlovable\" isn't a crisis — it's actually the most important and alive question you've ever let yourself ask.",
+    "client": "A notes app probably makes the most sense since my phone is always with me, and it feels less precious than actual paper somehow — like it's okay if it's messy or incomplete. I think what actually helped just now was you saying \"it's just a Tuesday,\" because my brain immediately turns any missed task into more evidence against myself, so having that built-in permission feels different. I'm still not fully convinced this is going to quiet that voice in the meetings, but I guess I'm willing to find out if practicing it in the replays actually does anything over time.",
+    "therapist": "There's something really meaningful in where you've landed today — you came in skeptical that talking would change anything, and you're leaving with a small, specific, genuinely yours experiment to try, which is actually how real change tends to start. The fact that you're not fully convinced is completely fine — you don't need to believe in it for it to work, you just need to be willing to look at the evidence, which is very much a CBT move in itself. As you try this over the coming days, I'm curious what you'd want to pay attention to — not just whether the voice gets quieter, but whether anything shifts in how you feel going into those moments, even slightly?",
     "condition": "emotion_text_only",
-    "val_t": -0.21304988861083984,
-    "aro_t": 0.238747239112854,
-    "text_emotion": "Angry"
+    "val_t": 0.007501959800720215,
+    "aro_t": 0.05023610591888428,
+    "text_emotion": "Neutral"
   }
 ]

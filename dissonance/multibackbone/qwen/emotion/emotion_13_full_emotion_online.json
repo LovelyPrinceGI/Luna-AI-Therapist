@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really down lately. Last week, I got a rejection letter from my dream university, and it's been hard to shake off this feeling of inadequacy. I keep thinking that maybe I'm not good enough, and it’s been tough to stay positive.",
-    "therapist": "Hey there, I’m really sorry to hear about your rejection and how you’ve been feeling. It’s completely understandable to feel down after something like that, and those thoughts of inadequacy can be really tough to shake. Can you tell me a bit more about what’s been going through your mind when you think about not being good enough?",
+    "client": "Hey Luna, I've been really down lately. Last week, I got a rejection letter from my dream university, and I can't shake off this feeling of inadequacy. I know I should be focusing on other options, but it's hard not to feel like I'm just not good enough. I'm not sure if talking about it will really help, but I'm trying to be open to it.",
+    "therapist": "Hey there, I'm really glad you reached out. It sounds like you're going through a tough time, and it's completely understandable to feel down after such a significant setback. Rejection can really shake our confidence, but it doesn't define your worth or your potential. How have you been coping with these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.28315699100494385,
-    "aro_t": 0.10640490055084229,
-    "text_emotion": "Sad"
+    "val_t": -0.028983592987060547,
+    "aro_t": 0.13531720638275146,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 2,
-    "client": "Yeah, it’s been really tough. I keep thinking that maybe I’m just not as capable or talented as others, and that’s why I got rejected. It makes me doubt everything I’ve been working on, and I feel like I’m stuck in this cycle of self-doubt.",
-    "therapist": "It sounds really challenging to be in that place of self-doubt, especially after a setback like this. It’s natural to compare yourself to others and wonder if you’re measuring up, but it’s important to remember that one rejection doesn’t define your capabilities or worth. What are some things that you’ve accomplished or strengths you have that you can focus on to help balance out these negative thoughts?",
+    "client": "Thanks for listening, Luna. I've mostly been trying to distract myself with other activities, like spending time with friends and family, but it feels like a temporary fix. I keep thinking about what I could have done differently or if I'm just not good enough. It's hard to shake those thoughts.",
+    "therapist": "I can see that you're putting a lot of effort into coping, and it's great that you're spending time with loved ones. It's natural to have those self-doubts creeping in, especially after a significant disappointment. Have you tried exploring some of the evidence that supports your abilities and strengths? What are some things you're proud of, or that others have recognized in you?",
     "condition": "emotion_text_only",
-    "val_t": -0.3402419090270996,
-    "aro_t": 0.16447198390960693,
-    "text_emotion": "Angry"
+    "val_t": 0.013631343841552734,
+    "aro_t": 0.07001137733459473,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it’s hard to shake off the feeling of failure. I know I’ve done well in the past, but this rejection feels like a big setback. It’s tough to see my strengths right now when all I can think about is what I did wrong.",
-    "therapist": "I completely understand how tough it can be to see your strengths when you’re feeling down after a setback. It’s natural for the negative thoughts to seem more prominent right now. Can we try to break down some of those thoughts? For example, what evidence do you have that supports the idea that you did something wrong, and what evidence might there be that challenges that thought?",
+    "client": "I appreciate the suggestion, but it's hard to focus on my strengths right now. I feel like every time I think about my achievements, they seem small and insignificant compared to this rejection. Plus, it feels like I'm just trying to convince myself, and it doesn't really stick. I know I should be more positive, but it's tough.",
+    "therapist": "I understand that it's really challenging to see your strengths right now, especially when this rejection feels so significant. It's okay to acknowledge that your achievements might seem smaller in comparison, but it doesn't mean they're insignificant. Sometimes, it helps to look at the bigger picture and remember that one setback doesn't erase all your hard work and accomplishments. What are some small steps you think might help you start to rebuild your confidence?",
     "condition": "emotion_text_only",
-    "val_t": -0.26000547409057617,
-    "aro_t": 0.14314055442810059,
+    "val_t": -0.140761137008667,
+    "aro_t": 0.09591686725616455,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I know it sounds simple, but it feels like everything I did was wrong. I keep replaying the conversation in my head and all I can see are the ways I messed up. It’s hard to find any evidence that I did anything right.",
-    "therapist": "It sounds like you’re really caught up in those critical thoughts, and it’s understandable that it’s hard to see things differently right now. When we’re feeling down, it’s common to focus more on the negatives and overlook the positives. Can you try to think of any moments during your application process where you felt confident or proud, even if just for a moment? Sometimes, even small accomplishments can provide a different perspective.",
+    "client": "I know you're right, but it's hard to see that right now. I guess one small step could be to write down some of my past successes and the positive feedback I've received. But it feels so forced, and I'm not sure if it will make a difference. It's just hard to believe in myself when I feel like I've failed.",
+    "therapist": "I hear you, and it's completely valid to feel that way. Taking small steps, like writing down your successes and positive feedback, can feel forced at first, but it can gradually help shift your perspective. It's okay to start small and be gentle with yourself. What do you think might make this exercise feel a bit more meaningful or less forced? Maybe there's a specific success or piece of feedback that stands out to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.33403050899505615,
-    "aro_t": 0.10897302627563477,
-    "text_emotion": "Sad"
+    "val_t": -0.23766660690307617,
+    "aro_t": 0.15182721614837646,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, but it’s hard for me to think of those moments right now. Every time I tried to feel confident, something would just knock me down again. It's like I can't catch a break, and it's hard to find those positive moments when everything feels so negative.",
-    "therapist": "I can see how hard it is for you to find those positive moments when you’re feeling so down. It’s like every step forward feels countered by a step back, and that can be incredibly frustrating. It’s okay to acknowledge how tough this is, but let’s try to find a small, recent moment where you felt even a tiny bit of pride or accomplishment. Sometimes, focusing on the small things can help shift the balance a little. What’s one small thing that you’ve done recently that you might be able to feel good about, even if just a little?",
+    "client": "I think what might make it more meaningful is if I focus on the times when I felt genuinely proud of myself, rather than just listing everything. Maybe I can start with the times when I overcame a significant challenge or when someone I respect told me how much they believed in me. It still feels a bit daunting, but it might help me see that I'm not as inadequate as I feel right now.",
+    "therapist": "That's a great approach, focusing on the times when you felt genuinely proud can be much more impactful and meaningful. It sounds like you're starting to find a way to connect with your strengths and resilience. Taking it one step at a time, and reflecting on those moments when you overcame challenges or received genuine support, can really help build that sense of self-worth. How about setting aside a few minutes each day to reflect on one of these moments? What do you think might be the first memory you'd like to focus on?",
     "condition": "emotion_text_only",
-    "val_t": -0.16050994396209717,
-    "aro_t": 0.11532461643218994,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate that you're trying to help me find some positivity, but it's really hard to think of anything right now. I feel like everything I do is overshadowed by my anxiety and guilt. I don't think I've done anything recently that I can feel proud of, and even if I did, it feels like those moments are so small and fleeting.",
-    "therapist": "I can really hear how overwhelming and challenging this is for you right now. It’s completely understandable to feel like your anxiety and guilt are overshadowing everything else. Even finding those small moments of pride can feel like a huge task when you’re in this state. Let’s take a step back for a moment. Can you think of a time in the past, even if it’s not recent, where you felt a sense of accomplishment or pride? Sometimes reflecting on past successes can help us connect with our strengths and resilience.",
-    "condition": "emotion_text_only",
-    "val_t": -0.17886006832122803,
-    "aro_t": 0.15199828147888184,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate that, Luna. It’s just hard to find those moments right now. When I think back, I remember finishing a big project at work last year, but it feels so distant and doesn’t really help me feel better today. It’s like those successes are from a different person, and I’m just stuck with this overwhelming sense of anxiety and guilt. How do I even start to connect with those feelings of pride when everything feels so heavy?",
-    "therapist": "I completely understand how distant those past successes can feel when you’re in the midst of such heavy emotions. It’s like you’re a different person, and connecting with those feelings of pride can feel really challenging right now. It’s okay to acknowledge that it’s tough, but let’s try to bridge the gap a little. What are some small steps or activities you could do today that might help you feel a bit more in control or proud of yourself, even if they seem small? Sometimes, even the tiniest actions can start to shift how we feel.",
-    "condition": "emotion_text_only",
-    "val_t": -0.1846456527709961,
-    "aro_t": 0.2427762746810913,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It’s just really hard to find those small steps when everything feels so overwhelming. I don’t think anything I do today will make a difference, but I guess I could try to do something simple, like organizing my desk or making my bed. It’s hard because even those small tasks feel like a mountain to climb right now.",
-    "therapist": "I completely understand how overwhelming even the smallest tasks can feel right now. It’s totally valid to feel that way, and it’s great that you’re still considering taking on something simple like organizing your desk or making your bed. These small actions can actually make a bigger difference than you might expect, even if it doesn’t feel like it right away. How do you think you might feel after completing one of these tasks, even if it’s just a little bit better?",
-    "condition": "emotion_text_only",
-    "val_t": -0.013617157936096191,
-    "aro_t": 0.1260136365890503,
+    "val_t": 0.019921064376831055,
+    "aro_t": 0.0729910135269165,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 9,
-    "client": "I get what you're saying, and I do want to feel better, but it's hard to see how making my bed will really make a difference when I feel so overwhelmed. It feels like such a small thing compared to everything else that's going on. Plus, I worry that I'll just end up feeling guilty for not doing more.",
-    "therapist": "I understand how it feels like making your bed might seem insignificant compared to everything else you’re dealing with. It’s natural to worry that it won’t make a big enough difference, and to feel guilty for not doing more. What if we approached it as a small act of self-care, something to acknowledge that you’re doing your best in a challenging time? How do you think you might feel if you completed one small task, even if it’s just to give yourself a tiny sense of accomplishment?",
+    "turn": 6,
+    "client": "I like the idea of reflecting on one memory each day. The first one that comes to mind is when I helped organize a charity event last year. It was a lot of work, but seeing the positive impact it had on the community made me feel really proud and capable. I think focusing on that might help me see that I can make a difference, even if things don't always go as planned. It's still a bit hard to believe, but I'm willing to try.",
+    "therapist": "That's a wonderful memory to start with. Organizing that charity event and seeing the positive impact it had is a powerful reminder of your capabilities and the good you can do. It's completely normal to still have some doubts, but focusing on these moments can help you build a more balanced view of yourself. How do you think you can carry that sense of pride and capability into your current situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.2169814109802246,
-    "aro_t": 0.2570124864578247,
-    "text_emotion": "Angry"
+    "val_t": 0.23477721214294434,
+    "aro_t": 0.13583087921142578,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "I think I can try to apply the same determination and effort I put into that charity event to my current situation. It might help me see that I can handle challenges and make a difference, even if things don't always go as planned. But it's still hard to shake the feeling of inadequacy, and I worry that I might just be setting myself up for more disappointment.",
+    "therapist": "It's really admirable that you're willing to apply that same determination and effort to your current situation. Recognizing that you have the capacity to handle challenges and make a difference is a powerful step. It's completely normal to still feel some inadequacy and worry about future disappointment. These feelings are part of the process, and it's okay to acknowledge them. How can you support yourself as you take on this new challenge, and what might help you manage those feelings of inadequacy?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2778669595718384,
+    "aro_t": 0.06669938564300537,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "Thanks, Luna. I think having a support system in place will be really important. Talking to friends and family who believe in me can help, and maybe setting smaller, achievable goals to build my confidence. But it's still a struggle to not let those feelings of inadequacy take over. I guess I need to be patient with myself and keep reminding myself of the good things I've done.",
+    "therapist": "You're doing a great job recognizing the importance of a support system and setting smaller goals to build your confidence. It's completely normal for feelings of inadequacy to still be there, and being patient with yourself is key. Celebrating even the small achievements can help shift your focus and build a more positive outlook over time. What are some specific small goals you'd like to set for yourself, and how can you make them feel achievable and rewarding?",
+    "condition": "emotion_text_only",
+    "val_t": 0.1230154037475586,
+    "aro_t": 0.10126733779907227,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I think a small goal could be to apply to a few more universities that I'm interested in, but that feel a bit more attainable. I could also start working on my application essays a little each day. It feels manageable, but I'm still worried about the time and effort it will take, and whether it will all be worth it in the end. I guess I just need to take it one step at a time and try to stay positive.",
+    "therapist": "It sounds like you're taking a thoughtful and practical approach by setting these smaller, manageable goals. Applying to more attainable universities and working on your application essays bit by bit can really help build your confidence and reduce the feeling of being overwhelmed. It's natural to have some worries about the time and effort, but taking it one step at a time is a great way to stay focused and positive. How do you think you can reward yourself for making progress on these goals, even in small ways?",
+    "condition": "emotion_text_only",
+    "val_t": 0.07224154472351074,
+    "aro_t": 0.08797156810760498,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, and I do want to feel a sense of accomplishment, but it's hard to see how making my bed will really make a difference when I have so much else on my plate. It feels like a drop in the ocean, you know? I worry that it might just make me feel worse if I can't do more.",
-    "therapist": "I completely understand how it feels like making your bed is just a drop in the ocean compared to everything else you’re dealing with. It’s tough to see how such a small task can make a difference when you have so much on your plate. What if we think of it as a small but meaningful act of self-care, a way to show yourself that you’re taking care of yourself, even in small ways? How do you think you might feel after completing that small task, even if it’s just a tiny sense of accomplishment or a moment of calm?",
+    "client": "I like the idea of rewarding myself for making progress. Maybe I can treat myself to a favorite snack or some downtime after I work on my applications for a while. It feels a bit indulgent, but I think it could help motivate me to keep going, even when it gets tough.",
+    "therapist": "That's a fantastic idea! Treating yourself to a favorite snack or some downtime can be a great way to stay motivated and make the process feel more manageable. It's not indulgent at all; it's about acknowledging your hard work and taking care of yourself. How do you think you can build these rewards into your routine to keep yourself motivated, especially during the tougher moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.12291181087493896,
-    "aro_t": 0.2072988748550415,
-    "text_emotion": "Angry"
+    "val_t": 0.17661678791046143,
+    "aro_t": 0.09925961494445801,
+    "text_emotion": "Excited"
   }
 ]

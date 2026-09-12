@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just got my exam grade back and it was way lower than I expected. I feel like I'm failing at everything because I can't keep up this perfect GPA anymore, and the pressure is making me so anxious. Part of me wonders if talking about it will even help since the grade is already set in stone.",
-    "therapist": "It sounds like this grade has left you feeling overwhelmed and questioning your abilities, especially with the pressure to maintain that perfect GPA. While the grade itself can't be changed, exploring how you're interpreting this situation might help ease some of that anxiety. What thoughts come up when you think about not meeting your own expectations?",
+    "client": "I just got my midterm results back, and I completely bombed the exam I thought I was prepared for. Now I'm panicking because this could ruin my perfect 4.0, and I feel like I've let everyone down - my parents, my professors, even myself. I don't know if talking about it will help because the damage is already done, and now I have to live with this failure.",
+    "therapist": "I hear how deeply disappointing this feels for you, especially when you worked hard and had high expectations. It’s natural to feel overwhelmed right now, but let’s explore what this result means to you—could there be other ways to look at this situation besides seeing it as a failure?",
     "condition": "baseline",
-    "val_t": -0.22894811630249023,
-    "aro_t": 0.21618950366973877,
+    "val_t": -0.4440704584121704,
+    "aro_t": 0.3502514362335205,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I just keep thinking that if I can't get perfect grades, then I'm not good enough. It feels like all my hard work is pointless if I don't meet these high standards. I know it’s irrational, but I can’t shake the fear that falling short means I’ll never succeed in the future. \n\nWhen you suggest exploring my interpretations, it makes sense in theory, but it’s hard to see how that will actually help me feel better. It’s not like reframing things will change the fact that I didn’t meet my own expectations.",
-    "therapist": "It sounds like there’s a lot of fear tied to not meeting these high standards, as if your worth and future success depend entirely on perfection. While reframing won’t change the grade itself, it might help reduce the intensity of these distressing thoughts and the pressure you’re putting on yourself. Can you think of a time when something didn’t go perfectly, but things still turned out okay in the end?",
+    "client": "I don't know... when you say \"other ways to look at it,\" all I can think is that I've ruined my perfect record forever. Maybe I wasn't as smart as everyone thought. My parents always say one B is the first step to becoming average, and now that's me. I worked so hard on those flashcards and practice problems too - what was the point?",
+    "therapist": "I can hear how much pressure you're feeling, both from yourself and from your parents' expectations. Let's pause for a moment—what would you say to a close friend who was beating themselves up this way over one exam result?",
     "condition": "baseline",
-    "val_t": -0.2915767431259155,
-    "aro_t": 0.11092579364776611,
-    "text_emotion": "Sad"
+    "val_t": -0.1672595739364624,
+    "aro_t": 0.13353419303894043,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess there was that time I got a B on a history paper last semester. I was devastated at first, but I still passed the class. But that feels different because it wasn't as important as this upcoming exam - if I don't get an A this time, it could ruin my chances at grad school. \n\nThe pressure feels so much higher now, and I don't know how to convince myself that \"just okay\" would be acceptable. Even thinking about settling for less than perfect makes me feel like I'm already failing.",
-    "therapist": "It sounds like the stakes feel much higher this time, and the fear of not meeting your goal feels overwhelming. It might be helpful to explore whether this belief—that anything less than perfect could ruin your chances—is based on facts or assumptions. What evidence do you have that one exam grade alone would determine your future?",
+    "client": "I guess I'd tell my friend that one test doesn't define them... but that feels so much easier to say to someone else than to believe for myself. The difference is my friend wouldn't have had a 4.0 to lose in the first place - I worked years for this, and now it's gone because of one stupid exam. I don't know how to stop feeling like I've lost something I can never get back.",
+    "therapist": "It makes sense that this loss feels especially painful after years of working so hard to maintain that standard. While the 4.0 may be gone, could we explore what other meaningful things you've gained during those years of hard work that this one result can't take away?",
     "condition": "baseline",
-    "val_t": -0.2723780870437622,
-    "aro_t": 0.133231520652771,
+    "val_t": -0.3093215227127075,
+    "aro_t": 0.17540967464447021,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it's hard not to feel like this exam really will make or break my future. All the top grad programs look at GPA so closely, and I've heard horror stories about people missing their dream school by 0.1 points. The pressure makes my chest feel tight just thinking about it. \n\nI know logically one test shouldn't define me, but when I imagine getting even a B+, I can already feel the shame and panic rising. It's like my brain won't let me consider any other outcome besides perfection.",
-    "therapist": "It sounds like this exam feels like a pivotal moment for you, and the fear of not meeting your goal is creating a lot of physical and emotional distress. While it’s true that GPA is a factor in grad school admissions, it’s rarely the only one—what other strengths or achievements do you think you bring to the table that might balance out this exam?",
+    "client": "I guess I have learned how to study really effectively over the years... and I did make some good connections with professors during office hours. But it's hard to focus on that when all I can think about is how my transcript will have this ugly blemish now. Like none of those other things matter to grad school applications or my parents' approval.",
+    "therapist": "It sounds like you've gained valuable skills and relationships that will serve you well beyond this one grade—things that grad schools and even your parents might value deeply. When you think about what truly matters in the long run, how much do you believe this single grade will impact your overall potential and self-worth?",
     "condition": "baseline",
-    "val_t": -0.29333245754241943,
-    "aro_t": 0.25942516326904297,
+    "val_t": -0.19724595546722412,
+    "aro_t": 0.1594294309616089,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I know logically that grad schools look at more than just grades, but it's hard to believe that when I'm in the middle of this stress. I keep thinking about how everyone else in my program seems so much more put together, and I can't even imagine what I'd say in an application that would make up for a bad grade in this core class. The physical symptoms are the worst part - I actually threw up from nerves this morning before class.",
-    "therapist": "It sounds like the comparison to others and the physical toll of this anxiety are making it even harder to see your own strengths clearly. When you think about what you’d write in an application, what’s something you’re proud of that has nothing to do with grades?",
+    "client": "I know logically that one grade shouldn't define me, but it's hard to feel that way when I've always tied my self-worth to being perfect academically. The thought of telling my parents makes me physically sick - what if they look at me differently now? I wish I could just brush this off, but it feels life-changing even though my rational brain says that's dramatic.",
+    "therapist": "You're recognizing this important disconnect between what you know logically and what you feel emotionally—that's actually a great first step. What would it feel like to experiment with sharing this news with your parents while also sharing these vulnerable feelings about your self-worth?",
     "condition": "baseline",
-    "val_t": -0.3825528621673584,
-    "aro_t": 0.17714309692382812,
+    "val_t": -0.26946914196014404,
+    "aro_t": 0.27929794788360596,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess I'm proud of how I've kept volunteering at the animal shelter even when I'm stressed about school. But it's hard to feel like that matters when everyone else seems to have these impressive internships and research projects. I worry that my application will just look weak in comparison.",
-    "therapist": "It sounds like you're dismissing your own meaningful contributions—like your commitment to volunteering—because they don’t fit a narrow idea of what \"counts\" as impressive. That comparison trap can make it hard to recognize the unique qualities you bring. What do you think an admissions committee might appreciate about someone who sticks with their values, even under pressure?",
+    "client": "I can't even imagine having that conversation. They'd probably say I'm being dramatic about self-worth and tell me to just work harder next time. The thought of showing them how much this has shaken me makes me feel even more vulnerable and weak. I'd rather just pretend it doesn't bother me than risk seeing disappointment in their eyes.",
+    "therapist": "It sounds like you're anticipating their reaction might leave you feeling dismissed or even more exposed. That fear of disappointment is so understandable—what would it feel like to consider that your parents' potential reactions say more about their own perspectives than your actual worth?",
     "condition": "baseline",
-    "val_t": -0.0725780725479126,
-    "aro_t": 0.1081705093383789,
-    "text_emotion": "Neutral"
+    "val_t": -0.41507160663604736,
+    "aro_t": 0.22189843654632568,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I guess I never really thought about it that way. But even if I stick to my values, doesn't that just make me naive? Everyone else seems to be playing the game and getting ahead while I'm stuck doing what feels right but gets me nowhere. \n\nIt's hard to believe admissions committees would care about my volunteering when other applicants have research papers and internships at big companies. I feel like I'm falling behind by trying to do the \"right\" thing.",
-    "therapist": "It sounds like you’re caught between honoring what feels meaningful to you and fearing that it won't \"measure up\" in a competitive system. But authenticity and consistency—like your dedication to the shelter—often reveal qualities like resilience and compassion that can’t be faked. What would it feel like to trust that those things matter just as much as the metrics you’re comparing yourself to?",
+    "client": "That's a hard thought to sit with... because part of me knows my parents push me so hard because they want what's best for me. But you're right that their reaction would be about their own ideas of success, not my actual value as a person. It still feels terrifying though - like if I accept that, I'm accepting that I might never meet their expectations, and I don't know who I am without trying to be perfect for them.",
+    "therapist": "You're touching on something profound here—the fear of discovering who you might be without the weight of others' expectations. As we sit with this discomfort together, what small step could you take toward defining success on your own terms?",
     "condition": "baseline",
-    "val_t": -0.20815718173980713,
-    "aro_t": 0.06206989288330078,
-    "text_emotion": "Sad"
+    "val_t": -0.23776781558990479,
+    "aro_t": 0.25264453887939453,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I know logically that compassion matters, but it's hard to really believe that when I see others getting ahead just by playing the game. Like at work, my coworker got promoted over me even though I know I put in more heart. It makes me wonder if being genuine actually holds me back. \n\nI want to trust that my values matter, but the system keeps rewarding the opposite—so how do I hold onto that belief when the evidence feels stacked against me? It makes me feel naive for caring about authenticity in the first place.",
-    "therapist": "It sounds like your experiences—like the promotion at work—are making it hard to trust that authenticity and compassion are truly valued. It’s understandable to feel disheartened when the system seems to reward something different. What would it look like to balance staying true to your values while also advocating for yourself in ways that align with them?",
+    "client": "Maybe I could start by making a list of what I actually care about in my education besides grades? But that feels impossible when everything feels connected to achievement. What if I make this list and realize I don't even know what I truly want for myself? That thought is almost scarier than the bad grade itself.",
+    "therapist": "I hear how unsettling this feels—like you're standing at the edge of unfamiliar territory. What if we reframed this uncertainty not as something scary, but as an opportunity to discover new parts of yourself you haven't let emerge yet?",
     "condition": "baseline",
-    "val_t": -0.17180752754211426,
-    "aro_t": 0.11416316032409668,
+    "val_t": -0.2556670904159546,
+    "aro_t": 0.16357421875,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "Honestly, the idea of balancing my values with self-advocacy just makes me feel exhausted. Every time I try to \"play the game\" at work, it feels like I'm betraying myself—but when I don't, I get passed over. I don't even know what \"aligned\" self-advocacy would look like when the whole system feels rigged.",
-    "therapist": "It sounds like you're caught in a painful either/or: feeling like you have to choose between betraying yourself or being overlooked. That exhaustion makes complete sense when the system feels so at odds with your values. What would it feel like to explore small ways of advocating for yourself that don't require compromising what matters most to you?",
+    "client": "That sounds nice in theory, but I don't even know where to start with \"discovering new parts\" of myself. All my energy has gone into being the perfect student for so long. The idea of stepping away from that identity makes me feel... lost, like I'm floating without anything to hold onto. What if I don't like what I find when I stop defining myself by my grades?",
+    "therapist": "That floating, lost feeling makes perfect sense when you're letting go of something that's anchored you for so long. Could we approach this as an experiment—maybe trying just one small activity this week that has nothing to do with achievement, simply to notice how it feels in your body and mind?",
     "condition": "baseline",
-    "val_t": -0.1932276487350464,
-    "aro_t": 0.17330360412597656,
+    "val_t": -0.12167704105377197,
+    "aro_t": 0.19891810417175293,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about small steps, but honestly it just feels like putting a bandaid on a much bigger issue. Every time I try to speak up even a little at work, I either get ignored or people act like I'm being difficult. It makes me feel like maybe I'm the problem after all. \n\nThe idea of advocating for myself sounds exhausting when I don't even believe it'll make a difference. Like why bother if the system is just going to steamroll me anyway?",
-    "therapist": "It sounds like you’re feeling defeated and questioning whether your efforts matter, especially when it feels like the system dismisses or minimizes your voice. That sense of being \"the problem\" can be so isolating, but it’s worth exploring whether that belief is based on facts or the weight of these experiences. What would it feel like to focus first on reclaiming your sense of worth, separate from whether the system changes?",
+    "client": "I could try going for a walk without my phone or study materials, just being outside... but part of me thinks that's a waste of time I should be using to study for my next exam. The idea of intentionally doing something unproductive makes me anxious - like I'm falling further behind. What if I can't enjoy it because I'll just be thinking about all the work I should be doing?",
+    "therapist": "It's completely normal to feel anxious about \"wasting time\" when productivity has been such a central part of your identity. What if we reframe this walk as a mindful experiment—not to force enjoyment, but simply to observe what thoughts and feelings arise when you step away from your usual patterns?",
     "condition": "baseline",
-    "val_t": -0.22059977054595947,
-    "aro_t": 0.1839386224746704,
+    "val_t": -0.2294543981552124,
+    "aro_t": 0.13550066947937012,
     "text_emotion": "Angry"
   }
 ]

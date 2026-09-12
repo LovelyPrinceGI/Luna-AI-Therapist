@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really down lately, especially when it comes to family gatherings. Since my grandmother passed away last month, I can't help but feel her absence everywhere, and it's like a shadow over everything. I keep wondering if therapy can really help me cope with this loss and the loneliness it brings.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; it's completely understandable that her absence feels so profound, especially during family gatherings. It sounds like you're experiencing a lot of grief and loneliness right now, which is a heavy burden to carry. What specific thoughts or feelings come up for you when you're at those gatherings?",
+    "client": "I've been really struggling since my grandmother passed away last month. Family gatherings feel so empty without her, and I can't shake this overwhelming sense of loss. It's hard to enjoy the moments when all I can think about is how much I miss her and how different everything feels now.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it’s completely understandable to feel such a profound sense of loss during family gatherings. It’s okay to miss her deeply and recognize how different things feel now—those feelings are a testament to the love you shared. What do you think might help you honor her memory during these gatherings?",
     "condition": "baseline",
-    "val_t": -0.4059107303619385,
-    "aro_t": 0.050354838371276855,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "When I'm at family gatherings, I often feel this deep emptiness. It's like everyone's laughing and sharing stories, but I can't shake the sadness of knowing my grandmother isn't there. I feel guilty for not being able to fully enjoy the moment because I miss her so much and I worry that others might think I'm overreacting or being a downer.",
-    "therapist": "It's completely natural to feel that emptiness and sadness during moments that remind you of your grandmother; it shows how much she meant to you. Your feelings of guilt are also valid, but it's important to remember that grief is a personal journey, and it's okay to honor your emotions in those settings. How might it feel to share your memories of her with your family, or to express what you're experiencing, even just a little?",
-    "condition": "baseline",
-    "val_t": -0.2770475149154663,
-    "aro_t": 0.13152503967285156,
+    "val_t": -0.3532745838165283,
+    "aro_t": 0.14864814281463623,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I appreciate what you're saying, but sharing my memories feels really hard. I worry that my family might not understand the depth of my feelings or that it might bring up their own sadness. Sometimes, it feels easier to keep those thoughts bottled up rather than risk making things uncomfortable for everyone.",
-    "therapist": "It's understandable to feel hesitant about sharing your memories, especially when you're concerned about how others might react. Keeping those feelings bottled up can feel safer, but it can also add to your sense of isolation. What if you considered starting with a small, simple memory or feeling that feels manageable to share?",
+    "turn": 2,
+    "client": "Thank you for your kind words; it does help to feel validated. I’ve thought about sharing stories about her or maybe even lighting a candle in her memory, but I worry it might make everyone sadder. I don’t want to bring down the mood even more, especially since family gatherings are already tough without her.",
+    "therapist": "It's really thoughtful of you to consider how your family might feel during these tough gatherings. Sharing stories or lighting a candle can actually create a warm space for remembering her together, which might help everyone feel connected rather than alone in their sadness. What do you think might happen if you share a fond memory? How could that change the atmosphere for you and your family?",
     "condition": "baseline",
-    "val_t": -0.13600456714630127,
-    "aro_t": 0.08129477500915527,
+    "val_t": -0.08968281745910645,
+    "aro_t": 0.05102241039276123,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you're saying about creating a warm space, but I still feel hesitant. What if people react differently? Some family members might just want to avoid the topic altogether, and I don’t want to make anyone uncomfortable. I guess I’m afraid that it could turn into a really emotional moment that I’m not sure we’re all ready for.",
+    "therapist": "It's completely natural to feel hesitant about bringing up such a sensitive topic, especially when you're concerned about how it might affect others. Emotions can be unpredictable, and it’s okay to prioritize the comfort of your family as well as your own. What if you approached it gently—perhaps by asking if anyone would like to share a memory first, or mentioning that you’d like to honor her in a way that feels right for everyone? How does that idea resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.2104785442352295,
+    "aro_t": 0.1517733335494995,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about keeping things bottled up, but sharing even a small memory feels really daunting to me. I worry that it won't be received well or that it won’t be understood, which just makes me feel even more isolated. I guess I'm just not sure how to even start with something that feels so personal.",
-    "therapist": "It's completely normal to feel daunted by the idea of sharing something so personal, especially when you're grappling with your own emotions. It sounds like you're in a tough spot, wanting connection but fearing it might not be understood. What if you took a moment to reflect on what memory or feeling feels the least heavy for you, and considered writing it down first? Sometimes, expressing it on paper can help clarify your thoughts and make it feel less intimidating to share later. What do you think?",
+    "client": "I see your point about approaching it gently, and that does sound like a less intimidating way to start. But I still worry that even if I ask, nobody will want to share or it might just turn awkward. I guess there's a part of me that fears it could open up a floodgate of emotions that we’re all trying to keep in check, and I’m not sure I want to be the one to initiate that.",
+    "therapist": "It's understandable to feel apprehensive about potentially stirring up strong emotions, especially when everyone is already navigating their own grief. It’s okay to have those fears, and it shows how much you care about your family's well-being. Would it help to think about how you might handle a situation where emotions do arise, or perhaps consider having a backup plan for shifting the conversation if it feels too intense?",
     "condition": "baseline",
-    "val_t": -0.1537914276123047,
-    "aro_t": 0.08832752704620361,
+    "val_t": -0.16811621189117432,
+    "aro_t": 0.14466631412506104,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, but I'm not sure writing it down will help. I feel like even the lighter memories come with a weight of their own, and I worry that sharing any of it will just lead to more misunderstanding. What if I just end up feeling even more vulnerable and exposed?",
-    "therapist": "It's completely understandable to feel that way; vulnerability can be really uncomfortable, especially when you're worried about being misunderstood. It's clear that your memories carry a lot of emotion, and it's okay to take your time with them. What might it look like to explore those feelings more deeply for yourself first, perhaps without the pressure of sharing them, just to see how they evolve over time?",
+    "client": "I guess having a backup plan could make me feel a bit more prepared, but it still feels overwhelming to think about. What if I try to shift the conversation and it just doesn't work? I can't help but feel like I might end up making things worse instead of better, and that really scares me.",
+    "therapist": "It makes sense to feel overwhelmed at the thought of managing such an emotional situation, and your concern shows how much you care about your family. Remember, it’s okay to acknowledge your own feelings of fear about this as well. What if you thought of the gathering as an opportunity to simply be present with your family, allowing conversations to flow naturally, rather than feeling pressure to make it perfect? How does that perspective feel for you?",
     "condition": "baseline",
-    "val_t": -0.2710050344467163,
-    "aro_t": 0.08836603164672852,
-    "text_emotion": "Sad"
+    "val_t": -0.3608677387237549,
+    "aro_t": 0.3210831880569458,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess I understand what you’re saying about vulnerability, but it feels really daunting to dive deeper into those feelings. I worry that if I explore them alone, I might just get stuck in my head and spiral even more. Plus, what if I uncover something that makes me feel worse instead of better?",
-    "therapist": "It's completely valid to feel apprehensive about diving deeper into those feelings, especially if you're concerned about getting stuck in your thoughts. Exploring emotions can sometimes feel overwhelming, but it can also lead to greater understanding and healing when approached gently. What if you considered setting aside a few moments for reflection, while also having a comforting activity or support nearby to help ground you? How might that balance feel for you?",
+    "client": "I like the idea of just being present and allowing things to flow, but it feels daunting to let go of that pressure to make it meaningful. I guess part of me still wants to control how things go because I'm afraid of how everyone will react. It’s hard to shake the feeling that if I don't say something significant, it might feel like I'm not honoring her memory properly.",
+    "therapist": "It's completely understandable to want to honor your grandmother's memory in a meaningful way, and that desire can create a lot of pressure. Allowing yourself to simply be present might feel daunting, but it can also open up space for genuine connection and sharing, which is a beautiful way to honor her. What if you considered that honoring her memory doesn't have to be about grand gestures, but rather about the love and connection you share with your family in that moment? How does that shift in perspective resonate with you?",
     "condition": "baseline",
-    "val_t": -0.24577414989471436,
-    "aro_t": 0.1412590742111206,
-    "text_emotion": "Angry"
+    "val_t": -0.08554685115814209,
+    "aro_t": 0.08845376968383789,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate you acknowledging my apprehension, but honestly, the idea of reflecting on my feelings while trying to stay grounded sounds a bit tricky. I often feel like if I start thinking about what's bothering me, I might spiral into that overwhelming space I’m trying to avoid. It feels like I’m juggling too many things at once, and I’m not sure how to balance it all without feeling lost.",
-    "therapist": "It makes sense that you feel overwhelmed by the idea of reflecting on your feelings while trying to stay grounded; juggling those emotions can feel like a lot to handle. It’s okay to take things one step at a time, and finding that balance is a process. What if you focused on just one feeling or thought at a time, even for a brief moment, and allowed yourself to simply acknowledge it without needing to dive deeper right away? How does that approach resonate with you?",
+    "client": "That does make me feel a bit lighter, thinking that honoring her can be more about connection than a big gesture. But I still struggle with letting go of that pressure to do something special. What if I’m just there, and it feels like nobody is acknowledging her at all? I guess I worry that if I don't do something significant, it will feel like I'm not honoring her properly.",
+    "therapist": "It's wonderful to hear that you're feeling a bit lighter, and it's completely normal to struggle with letting go of that pressure. It shows how much you care about your grandmother and your family's experience. Remember, honoring her can happen in many small ways, even through simply sharing smiles, laughter, or quiet moments together. What if you allowed yourself to focus on being present and open to whatever unfolds, trusting that your love for her will shine through, regardless of any specific actions? How does that idea feel to you?",
     "condition": "baseline",
-    "val_t": -0.14651107788085938,
-    "aro_t": 0.16560471057891846,
-    "text_emotion": "Angry"
+    "val_t": -0.05492222309112549,
+    "aro_t": 0.03427469730377197,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "That approach makes sense in theory, but I still feel a bit skeptical. Focusing on just one feeling seems like it could help, but I worry that if I let myself acknowledge it, I might get overwhelmed by it. What if that one feeling spirals into something bigger and I lose control?",
-    "therapist": "It's completely understandable to feel skeptical about that approach; acknowledging feelings can feel risky, especially when you're worried about losing control. It's important to remember that you have the power to set boundaries around those feelings, and you can choose how deeply you want to explore them. What if you tried setting a time limit for yourself—just a few minutes to check in with that feeling and then shift your focus to something comforting or grounding afterward? How does that idea feel to you?",
+    "client": "I appreciate that perspective, and it does help to think about it as being present rather than feeling like I have to achieve something specific. But I still feel a bit anxious about it. What if I just end up feeling lost or disconnected from everyone? I want to honor her memory, but I also fear that I won’t know how to do that in the moment.",
+    "therapist": "It's perfectly okay to feel anxious about this; you're navigating a complex emotional landscape, and it's natural to have those concerns. Remember, being present doesn’t mean you have to have all the answers or know exactly what to say—sometimes just being there, with your feelings, can be enough to honor her memory. What if you allowed yourself to embrace the uncertainty, focusing instead on the moments of connection that arise naturally? How might that approach shift the way you feel about the gathering?",
     "condition": "baseline",
-    "val_t": -0.163038969039917,
-    "aro_t": 0.1113661527633667,
+    "val_t": -0.09125757217407227,
+    "aro_t": 0.1675410270690918,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that suggestion, but I still feel a bit hesitant about it. Setting a time limit sounds okay in theory, but I'm worried that just a few minutes won't be enough to really understand what I'm feeling. Plus, I struggle with shifting my focus afterward; it’s like once I start thinking about something uncomfortable, it’s hard to just let it go and move on.",
-    "therapist": "It's completely valid to feel hesitant about a time limit, especially when you're trying to navigate complex emotions. It sounds like you really want to give yourself the space to understand what you’re feeling, and that’s important. What if you allowed yourself to explore that feeling without a strict time limit, but also created a gentle plan for afterwards—like having a comforting activity ready, or reaching out to someone you trust? How would that kind of approach feel for you?",
+    "client": "I see what you’re saying about embracing uncertainty, and it does sound a bit freeing to focus on connection rather than perfection. But I still feel a knot in my stomach thinking about it. What if I can’t shake off my own sadness, or what if I feel too overwhelmed and just shut down? I fear that might make it even harder for me to connect with everyone.",
+    "therapist": "It's completely understandable to feel that knot in your stomach, especially when you're anticipating a mix of emotions. It’s okay to acknowledge your sadness and the possibility of feeling overwhelmed; those feelings are valid and part of the healing process. What if you gave yourself permission to take breaks during the gathering if you start to feel overwhelmed, allowing space for your emotions while still being with your family? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.11591470241546631,
-    "aro_t": -0.0013397932052612305,
-    "text_emotion": "Neutral"
+    "val_t": -0.1910243034362793,
+    "aro_t": 0.1735759973526001,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you understand my hesitance about time limits, but I'm still not sure how I would even start to explore those feelings. Creating a gentle plan sounds nice in theory, but I often find it hard to reach out to someone when I'm feeling this way. It feels daunting, like I’d just be burdening them with my thoughts.",
-    "therapist": "I hear you; reaching out can feel daunting, especially when you're worried about burdening others with your feelings. It's important to remember that sharing your thoughts can actually strengthen connections, as many people appreciate the opportunity to support one another. What if you considered starting with a simple message or note—just expressing that you're feeling a bit off, without going into detail? This way, you can gauge their response while keeping it light. How does that sound to you?",
+    "client": "I think giving myself permission to take breaks is a good idea, but I still worry about how that might look to my family. I don’t want them to think I'm avoiding them or that I'm not handling things well. It feels like a tough balance between taking care of my own emotions and being there for everyone else, and I'm not sure how to manage that without feeling guilty.",
+    "therapist": "It's understandable to worry about how your family might perceive your need for breaks, especially during such an emotional time. Balancing your own needs with those of others can be challenging, but it's important to remember that taking care of yourself doesn't mean you love them any less or are avoiding them. What if you considered framing your breaks as a way to recharge so you can be more present with them when you return? How does that perspective resonate with you?",
     "condition": "baseline",
-    "val_t": -0.10505759716033936,
-    "aro_t": 0.09220731258392334,
-    "text_emotion": "Neutral"
+    "val_t": -0.35056519508361816,
+    "aro_t": 0.09422719478607178,
+    "text_emotion": "Sad"
   }
 ]

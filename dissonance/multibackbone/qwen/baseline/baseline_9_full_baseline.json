@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. After losing my grandmother last month, I find it hard to focus at work and keep getting overwhelmed by sadness. I know it's normal to feel this way, but it's affecting everything I do, and I'm not sure how to cope.",
-    "therapist": "Hi there, I'm so sorry to hear about your loss and how you're feeling. It's completely understandable that you're experiencing such deep sadness and that it's impacting your daily life. Can you tell me more about what it's like for you when you feel overwhelmed at work?",
+    "client": "Hey Luna, it's been a tough month since my grandmother passed away. I find myself struggling to focus at work and feeling overwhelmed by sadness a lot. I know we've talked about grief before, but I just can't seem to shake these feelings. I'm not sure if therapy can really help me with this.",
+    "therapist": "I'm really sorry to hear that you're going through this, and it's completely understandable to feel overwhelmed and to struggle with focus after such a significant loss. Grief can be very powerful and it often comes in waves. How have you been coping with these feelings so far, and is there anything that has brought you some comfort or support?",
     "condition": "baseline",
-    "val_t": -0.3310861587524414,
-    "aro_t": 0.17515933513641357,
+    "val_t": -0.3173701763153076,
+    "aro_t": 0.15607869625091553,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, it's just been really tough lately. When I feel overwhelmed at work, it's like a wave of grief hits me all over again. I find it hard to focus, and I keep thinking about what I could have done differently, which just makes me feel even more guilty and alone.",
-    "therapist": "I can imagine how challenging that must be for you, especially with the added guilt and feelings of isolation. It sounds like these thoughts are really weighing on you. How do you think these thoughts about what you could have done differently affect your ability to cope with your grief?",
+    "client": "Thanks for understanding, Luna. I've been trying to stay busy, which helps a bit, but it's hard to keep up. I've also been talking to my sister, who has been a great support. But sometimes, even with her, I feel like I can't fully express how much I miss my grandmother. It just feels like a hole I can't fill.",
+    "therapist": "It sounds like you've been doing your best to cope, and having your sister there is really important. It's completely normal to feel like there's a void that can't be filled, especially when you're missing someone so deeply. Have you found any moments or activities where you feel a bit closer to your grandmother, or any ways you might honor her memory that bring you some peace?",
     "condition": "baseline",
-    "val_t": -0.43643319606781006,
-    "aro_t": 0.18201160430908203,
-    "text_emotion": "Angry"
+    "val_t": -0.08731532096862793,
+    "aro_t": 0.0901869535446167,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "It feels like I'm stuck in this loop of self-blame, and it just makes everything harder. I know I need to move on, but every time I try, these thoughts come back and remind me of what I think I should have done differently. It's hard to see a way out of it.",
-    "therapist": "It sounds like you're in a really difficult cycle, and it's understandable that these thoughts of self-blame are making things harder. Moving on can feel like an overwhelming task when these thoughts keep resurfacing. Have you noticed any specific triggers that bring these thoughts back, or are there times when they seem to be a bit less intense?",
+    "client": "That's a good question, Luna. I did light a candle for her the other day, and it felt nice, but it didn't really make the sadness go away. I guess I'm just worried that no matter what I do, the pain will always be there. It's hard to see a way forward sometimes.",
+    "therapist": "It's completely understandable to feel that way, and lighting a candle is a beautiful way to honor her memory. While the sadness may not fully go away, finding moments of connection and peace can be very meaningful. What are some other small things you might do to feel closer to her, or to find some comfort, even if just for a short while? How do you imagine your grandmother would want you to take care of yourself during this time?",
     "condition": "baseline",
-    "val_t": -0.35756969451904297,
-    "aro_t": 0.09019172191619873,
+    "val_t": -0.19320690631866455,
+    "aro_t": 0.07281708717346191,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "Yeah, I've noticed that these thoughts of self-blame tend to come up more when I'm alone or when I'm under a lot of stress. It's like I can't escape them. There are times when I'm out with friends or busy with work that they seem to lessen, but they always seem to come back. It's hard to find a consistent way to keep them at bay.",
-    "therapist": "Thank you for sharing that. It makes sense that these thoughts would be more prevalent during times of solitude or high stress. It's good to know that being with friends or staying busy can provide some relief, even if it's temporary. What do you think about setting aside a specific time each day to reflect on these thoughts in a structured way, so they don't overwhelm you at other times? How does that sound to you?",
+    "client": "I appreciate that, Luna. I think my grandmother would want me to keep going and to find joy in the little things, but it's hard to see where to start. Maybe I could look through some old photos or cook one of her recipes. But it feels overwhelming to even think about it right now.",
+    "therapist": "It's really touching to hear how much you're thinking about what your grandmother would want for you. Starting with something small, like looking through photos or cooking one of her recipes, can be a gentle way to reconnect and find some comfort. It's okay if it feels overwhelming right now; you can start with just a few minutes at a time. How does it feel to consider doing one of these things, even if it's just a tiny step?",
     "condition": "baseline",
-    "val_t": -0.2418663501739502,
-    "aro_t": 0.0020837783813476562,
-    "text_emotion": "Sad"
+    "val_t": 0.11489462852478027,
+    "aro_t": 0.2918713092803955,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I appreciate the idea, but I'm not sure it will work for me. It feels like setting aside a specific time might just make me more anxious about it, and I worry that I'll end up dwelling on these thoughts even more. It's hard to find a balance, you know?",
-    "therapist": "I completely understand your concern about setting aside a specific time; it's natural to worry that it might amplify your anxiety. Finding a balance is definitely a challenge. Instead of setting aside a specific time, what about trying a different approach, like gently redirecting your thoughts when you notice them starting to spiral? For example, you could try engaging in an activity you enjoy or find calming. How do you think that might feel for you?",
+    "client": "It feels both comforting and a bit scary to think about doing those things. I worry that it might bring up more sadness, but at the same time, I know it could also bring back some happy memories. I guess I'm just not sure how to balance those feelings.",
+    "therapist": "It's completely normal to feel both comfort and fear when thinking about these activities. It's okay to acknowledge that they might bring up a mix of emotions, including sadness, but also joy and connection. Maybe you could start with a small, manageable step, like looking at one photo or preparing a simple dish, and see how it feels. What do you think might help you feel more supported as you take these steps?",
     "condition": "baseline",
-    "val_t": -0.18249380588531494,
-    "aro_t": 0.020074009895324707,
-    "text_emotion": "Sad"
+    "val_t": -0.009724259376525879,
+    "aro_t": 0.09481704235076904,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying, and I do like the idea of redirecting my thoughts. But it's hard because when my anxiety starts to spiral, it feels so overwhelming that it's tough to just switch gears. I worry that I won't be able to find something calming in the moment, or that it won't be enough to stop the anxiety from building.",
-    "therapist": "I understand that shifting gears can feel incredibly challenging when anxiety is at its peak. It's completely valid to worry that you might not find something calming in the moment. One strategy could be to have a few go-to activities or techniques that you find calming and practice them regularly, so they become more accessible when you need them. What are some activities or techniques that you've found helpful in the past, even if just a little bit?",
+    "client": "I think having a specific time set aside to do this might help, like a few minutes in the evening when I'm less busy. It would feel more intentional. But I'm still a bit hesitant because I'm afraid it might be too much to handle all at once.",
+    "therapist": "Setting aside a specific time can be a really good way to create a safe and intentional space for yourself. It's okay to feel hesitant, and it's important to go at your own pace. Maybe you could start with a short, manageable time, like five or ten minutes, and see how it goes. How does that feel to you, and what might help you feel more comfortable as you try this out?",
     "condition": "baseline",
-    "val_t": -0.14510512351989746,
-    "aro_t": 0.23008215427398682,
-    "text_emotion": "Angry"
+    "val_t": -0.07329165935516357,
+    "aro_t": 0.0858011245727539,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying, but it's hard for me to think about what might be calming when I'm already feeling so anxious. I've tried deep breathing and listening to music, but they don't always work, especially when my anxiety feels overwhelming. It's like I can't even remember to do those things when I need them the most.",
-    "therapist": "I completely understand how difficult it can be to remember and engage in calming techniques when you're in the midst of overwhelming anxiety. It's really tough to think clearly in those moments. One idea could be to create a simple reminder or a small routine that you can easily follow, even when you're feeling distressed. For example, you could have a note on your phone or a physical reminder somewhere visible. What do you think about having a short list of go-to strategies that you can refer to when you start feeling overwhelmed?",
+    "client": "It feels a bit more doable to start with just five or ten minutes. I think having a specific time and maybe having my sister join me for a bit could help make it feel less overwhelming. I'll give it a try and see how it goes.",
+    "therapist": "That sounds like a great plan, and having your sister there can definitely provide additional support and make the experience more meaningful. Starting with a short, manageable time can help you ease into it and see what works best for you. How do you feel about giving it a try, and is there anything else you think might be helpful as you start this process?",
     "condition": "baseline",
-    "val_t": -0.25648581981658936,
-    "aro_t": 0.21249568462371826,
-    "text_emotion": "Angry"
+    "val_t": 0.08508217334747314,
+    "aro_t": 0.08608412742614746,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea, but I'm not sure if it will work for me. It's hard because when I'm really anxious, my mind just goes blank, and I can't focus on anything, even a note. I worry that I might just end up ignoring it or feeling even more overwhelmed.",
-    "therapist": "I understand that when your mind goes blank and you're feeling overwhelmed, even a note might not be enough. It's totally valid to worry about that. Sometimes, having a supportive person to reach out to in those moments can be really helpful. Is there someone in your life, like a friend or family member, who you can call or text when you're feeling really anxious, just to help you ground yourself? How does that sound?",
+    "client": "I feel a bit more hopeful about trying it out, especially with my sister's support. I think having a journal to write down my thoughts and feelings afterward might also help me process everything. It's a small step, but I'm willing to give it a try.",
+    "therapist": "That's wonderful to hear, and having a journal can be a great way to process your thoughts and feelings. It's a small but meaningful step, and you're showing a lot of courage by being willing to try. How do you imagine this process might help you over time, and what are you looking forward to as you begin this journey?",
     "condition": "baseline",
-    "val_t": -0.2723790407180786,
-    "aro_t": 0.13078820705413818,
-    "text_emotion": "Angry"
+    "val_t": 0.20421350002288818,
+    "aro_t": 0.0720745325088501,
+    "text_emotion": "Happy"
   },
   {
     "turn": 9,
-    "client": "I appreciate the suggestion, but it's hard because I often feel like I'm a burden to others. I worry about disturbing them or taking up too much of their time, especially when I'm feeling anxious and can't seem to calm down. It's something I struggle with a lot.",
-    "therapist": "I can understand how you might feel like a burden, and those worries can really hold you back. It's a common concern, and it shows how much you care about the people in your life. Have you ever talked to any of your friends or family about these feelings, to see how they might feel about being there for you during tough times? What do you think might happen if you shared these concerns with someone you trust?",
+    "client": "I imagine that over time, this process might help me feel more connected to my grandmother and maybe ease some of the sadness. I'm looking forward to finding small moments of peace and maybe even some joy in remembering her. It's still a bit daunting, but I'm hopeful it will help.",
+    "therapist": "That's a beautiful perspective, and it's completely understandable that it feels daunting. Finding those moments of connection and peace can be incredibly healing. It's okay to take it one step at a time, and feeling hopeful is a great sign. What do you think might be the first small step you want to take, and when might you try it?",
     "condition": "baseline",
-    "val_t": -0.23490309715270996,
-    "aro_t": 0.03594481945037842,
-    "text_emotion": "Sad"
+    "val_t": 0.19907939434051514,
+    "aro_t": 0.17874133586883545,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're trying to help, Luna, but I don't think they would understand. I feel like I'm always the one who needs support, and I don't want to be a constant burden. It's hard to imagine they wouldn't get tired of it eventually.",
-    "therapist": "I can hear how much you care about not burdening others, and it's completely understandable to worry about that. It's a sign of your thoughtfulness and empathy. At the same time, it's important to remember that friends and family often want to support you and might be more understanding than you think. Have you ever had a conversation with someone close to you about how you feel after losing your grandmother, and how much support means to you? What do you think might happen if you shared a bit more about what you're going through?",
+    "client": "I think the first step could be looking through a photo album with my sister this weekend. It feels manageable, and I'm hoping it will help me feel closer to my grandmother. I'm still a bit nervous, but I'm willing to give it a try.",
+    "therapist": "That sounds like a thoughtful and manageable first step, and doing it with your sister can make it even more meaningful. It's completely normal to feel a bit nervous, but your willingness to try is really admirable. How do you think you might prepare for this time with your sister, and what do you hope to gain from this experience?",
     "condition": "baseline",
-    "val_t": -0.14854252338409424,
-    "aro_t": 0.06027209758758545,
-    "text_emotion": "Sad"
+    "val_t": 0.12705004215240479,
+    "aro_t": 0.11130285263061523,
+    "text_emotion": "Excited"
   }
 ]

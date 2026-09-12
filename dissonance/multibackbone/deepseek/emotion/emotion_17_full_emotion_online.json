@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling completely overwhelmed lately trying to juggle everything. Between studying for finals, my part-time job at the cafe, and my student organization commitments, I feel like I'm constantly failing at something. I'm skeptical if talking about this will actually help because the workload isn't going to change.",
-    "therapist": "It sounds like you're carrying a heavy load right now, and that sense of constant pressure must be exhausting. When you say you feel like you're failing, what specific thoughts come up about what \"failing\" means in these situations?  \n\nI hear your skepticism about whether talking can help—that makes complete sense when the demands feel so fixed. What would it look like to approach these commitments in a way that feels slightly more manageable, even if the workload stays the same?",
+    "client": "I've been really struggling to keep up with everything lately. Between studying for my finals, working my part-time job, and trying to maintain my position on the debate team, I feel like I'm constantly drowning. I'm not sure talking about it will help - it's not like you can add more hours to my day.",
+    "therapist": "It sounds like you're carrying a heavy load right now and feeling overwhelmed by all your responsibilities. When you say you're \"constantly drowning,\" I wonder if you've noticed any specific thoughts that come up when you're feeling this pressure?",
     "condition": "emotion_text_only",
-    "val_t": -0.2391948699951172,
-    "aro_t": 0.18600213527679443,
-    "text_emotion": "Angry"
+    "val_t": -0.32271111011505127,
+    "aro_t": 0.13346242904663086,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Failing means I'm not meeting expectations—my boss's, my family's, even my own. I keep thinking I should be handling everything perfectly, but I'm always behind and exhausted. The idea of making it more manageable sounds nice, but I don't see how when there's literally no time to breathe between work deadlines and family obligations. \n\nI guess part of me feels like if I just tried harder, I wouldn't be struggling this much. But I'm already pushing myself to the limit.",
-    "therapist": "It sounds like you're holding yourself to incredibly high standards while carrying so much responsibility—that pressure to be perfect must feel crushing. When you say you're already pushing yourself to the limit, what do you think would happen if you *didn't* try quite so hard?  \n\nI notice you mentioned others' expectations too—how much of this \"should\" comes from what you truly want, versus what you believe others demand of you?",
+    "client": "I keep thinking that I should be able to handle all of this better. Everyone else seems to juggle their responsibilities just fine, but I'm always behind. I guess I feel like if I can't keep up, I'm failing somehow. But I don't know how to change that feeling.",
+    "therapist": "It sounds like you're being quite hard on yourself, comparing your situation to others while feeling stuck in this cycle of self-criticism. What kind of evidence do you have that \"everyone else\" is handling everything perfectly?",
     "condition": "emotion_text_only",
-    "val_t": -0.1863642930984497,
-    "aro_t": 0.20825505256652832,
-    "text_emotion": "Angry"
+    "val_t": -0.24398326873779297,
+    "aro_t": 0.05841696262359619,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "That question makes me really uncomfortable. If I didn't try so hard, I'm afraid everything would fall apart—my work would suffer, people would be disappointed in me, and I'd feel like a failure. But you're right that a lot of these \"shoulds\" do feel like they're coming from other people...I just don't know how to separate what I actually want from what I think is expected of me. \n\nIt's scary to even consider lowering my standards because then who would I be? My whole identity is wrapped up in being the reliable, high-achieving one.",
-    "therapist": "It makes sense that this feels scary—when achievement has been such a big part of how you see yourself, questioning it can feel like losing solid ground. Let’s slow down for a moment: if you *could* gently adjust one small expectation without the world falling apart, what might that look like?  \n\nI hear how deeply you value being reliable, and that’s a strength—but I wonder what it would be like to redirect some of that care toward yourself, too. How do you imagine your life might feel different if \"enough\" didn’t have to mean \"perfect\"?",
+    "client": "Well, I don't know for sure if everyone else is handling things perfectly, but they seem to be. My debate team partner always has their speeches ready, and my coworker at the part-time job never seems stressed. I guess I just assume they're managing better than me because they don't look overwhelmed like I feel.",
+    "therapist": "It sounds like you're making assumptions about others based on how they appear, while being very aware of your own internal struggles. I notice you're describing this with a sense of thoughtful reflection rather than intense distress right now. What do you think might be different if you approached your situation with the same compassion you're showing as you analyze this?",
     "condition": "emotion_text_only",
-    "val_t": -0.2588231563568115,
-    "aro_t": 0.17578434944152832,
-    "text_emotion": "Angry"
+    "val_t": 0.03499472141265869,
+    "aro_t": 0.0781412124633789,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I don't know... the idea of lowering any expectations makes me feel panicky. If I'm not pushing myself to be perfect, I'm scared I'll just become lazy or mediocre. \n\nBut at the same time, I'm so exhausted from constantly trying to meet these impossible standards. Part of me wishes I could relax, but it feels dangerous to even consider. What if I lose all my motivation?",
-    "therapist": "That tension between fearing complacency and craving relief sounds so painful—like you're trapped between two extremes, with no safe middle ground. What if we explored what \"lazy\" or \"mediocre\" really mean to you? Sometimes those words carry old stories that might not fit who you are now.  \n\nIt takes real courage to even acknowledge this exhaustion. If motivation *didn't* have to come from pushing yourself to the brink, where else might it come from?",
+    "client": "That's an interesting point - I hadn't considered that. I guess if I treated myself with more compassion, maybe I wouldn't feel so panicked all the time. But it's hard because I still feel like there's just too much to do, and being kinder to myself doesn't actually make the workload go away.",
+    "therapist": "It sounds like you're recognizing the value of self-compassion while still feeling weighed down by practical concerns. Since the workload itself can't change right now, what small adjustments could you make to how you approach these tasks that might help you feel less overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.28348398208618164,
-    "aro_t": 0.20601916313171387,
-    "text_emotion": "Angry"
+    "val_t": -0.09520983695983887,
+    "aro_t": 0.09526300430297852,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I don't know... when I hear \"lazy\" I just think of all the times I've let people down by not being productive enough. My dad always said if you're not moving forward, you're falling behind. But you're right that I'm exhausted—I just don't know how to find motivation without that fear pushing me.  \n\nThe idea of motivation coming from somewhere else feels foreign. Like if I'm not punishing myself into action, won't I just collapse into nothingness? That's what scares me.",
-    "therapist": "It sounds like your father's voice has become so intertwined with your own that it's hard to imagine motivation without fear driving it. That fear of \"collapsing into nothingness\" speaks to how deeply this belief is wired—but I wonder if we could gently test that assumption together.  \n\nWhen you think of times you've felt genuinely engaged or energized (even briefly), what was happening differently in those moments? Let's look for clues about what motivation *not* rooted in fear might feel like for you.",
+    "client": "I guess I could try breaking things down into smaller steps instead of looking at everything as one huge mountain. But honestly, even thinking about organizing it all feels exhausting. What if I try to make changes and still feel just as overwhelmed? That would just be another failure.",
+    "therapist": "It sounds like you're caught between wanting to try a new approach and fearing that it might not work out, which is completely understandable. Since you're feeling this mix of tiredness and uncertainty, maybe we could start by focusing on just one area - perhaps your studies - and see what small, manageable steps might look like there?",
     "condition": "emotion_text_only",
-    "val_t": -0.3361407518386841,
-    "aro_t": 0.25157904624938965,
+    "val_t": -0.1893613338470459,
+    "aro_t": 0.14663326740264893,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess there were a few times I felt okay—like when I was helping my niece with her art project last week. But even then, part of me was waiting for the other shoe to drop, like I didn't deserve to enjoy that moment. It's hard to imagine motivation coming from anything but fear... what if I try to change that and just end up drifting without any purpose at all?",
-    "therapist": "That moment with your niece sounds meaningful—it’s telling that even in that warmth, the fear of \"not deserving\" crept in. What do you think it would take to let yourself linger in those lighter moments just a little longer, even if the old fears whisper in the background?  \n\nYou’re describing purpose as something that *has* to come from struggle, but I wonder: could purpose also grow from things that feel genuinely fulfilling, like that connection with your niece? What might shift if you allowed that possibility?",
+    "client": "I suppose I could try focusing just on my history exam first - that's the one stressing me the most. But even that feels overwhelming because the material is so dense. I'm worried that if I break it into small pieces, I'll lose sight of the big picture and still fail.",
+    "therapist": "It sounds like you're caught between two worries - either the material feels too big to tackle all at once, or breaking it down might make you lose track of what's important. Since you're feeling this thoughtful but somewhat stuck right now, what would a helpful balance look like between focusing on smaller pieces while still keeping the overall picture in mind?",
     "condition": "emotion_text_only",
-    "val_t": -0.24462854862213135,
-    "aro_t": 0.08991289138793945,
-    "text_emotion": "Sad"
+    "val_t": -0.23666644096374512,
+    "aro_t": 0.11733686923980713,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I want to believe that, but it feels like those good moments are just temporary distractions from my real problems. When I'm with my niece, I keep thinking \"this is nice, but it doesn't change the fact that I'm still failing in other areas of my life.\" It's like I can't fully enjoy anything without feeling guilty for not being productive enough. \n\nThe idea that purpose could come from something easy and joyful feels... wrong somehow? Like I'd be cheating or taking the easy way out. I've always believed you have to earn happiness through hard work.",
-    "therapist": "It sounds like you're carrying a deep belief that joy must be *earned*—that it's almost dangerous to let happiness exist without struggle. That guilt you feel during lighter moments shows how powerfully this rule operates in your life. What do you think might happen if you experimented with letting one small, joyful thing *just be* without linking it to productivity?  \n\nThis idea of \"cheating\" suggests happiness feels like a limited resource you don’t deserve unless you’ve suffered first. Where do you think that belief came from—and how has it served you (or not) over time?",
+    "client": "I guess I could try creating chapter summaries first to keep the big picture in mind, then focus on smaller sections. But I'm worried this will take even more time than my current approach. I always end up feeling like I should be studying every moment I'm not working or at debate practice, which makes any new system seem too slow.",
+    "therapist": "It sounds like you're caught between wanting to try a new approach and feeling trapped by the pressure to use every possible moment for studying. That tension between wanting to change and fearing it might backfire feels very real for you right now. What would help you give yourself permission to experiment with this new approach, even if it feels slower at first?",
     "condition": "emotion_text_only",
-    "val_t": 0.008405327796936035,
-    "aro_t": 0.14281189441680908,
+    "val_t": -0.1071615219116211,
+    "aro_t": 0.04184257984161377,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I never really thought about it that way, but yeah, I do feel like I don't deserve to be happy unless I've worked hard first. It's like if I enjoy something without \"paying\" for it with stress or effort, I'm being lazy or irresponsible. \n\nI think it comes from growing up with parents who were always working themselves to exhaustion. They never took breaks, so now when I do, it feels wrong. But at the same time, this mindset is exhausting me too.",
-    "therapist": "It’s powerful that you can trace this belief back to your family’s patterns—that makes so much sense, and yet you’re recognizing how it’s costing you now. That tension between what you learned and what you *need* must feel so conflicting.  \n\nIf we could honor both parts—the part that fears laziness *and* the part that longs for rest—what might a small, sustainable compromise look like for you? Something that feels responsible but also gently challenges this idea that joy must be earned?",
+    "client": "I guess if I could remind myself that my current approach isn't working well either, that might help. But part of me feels like I should just push through the exhaustion because that's what \"successful\" people do. It's hard to believe that going slower could actually help me get more done in the end.",
+    "therapist": "It sounds like you're recognizing that your current approach isn't serving you well, yet there's still this powerful belief that pushing through exhaustion is somehow the \"right\" way. That belief seems to be creating quite a tug-of-war for you. What evidence have you seen, either in your own experience or others', about whether pushing through exhaustion actually leads to better results?",
     "condition": "emotion_text_only",
-    "val_t": -0.36242687702178955,
-    "aro_t": 0.21712708473205566,
-    "text_emotion": "Angry"
+    "val_t": -0.05539512634277344,
+    "aro_t": 0.11645352840423584,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about finding a compromise, but it's hard to even imagine resting without feeling guilty. Like if I try to take a break, my brain immediately starts listing all the things I *should* be doing instead. Even thinking about resting makes me anxious—what if I lose my edge or fall behind? \n\nI guess a small compromise could be setting a timer for 10 minutes of doing nothing, but I'm already thinking that's probably too much. What if I can't stop at 10 minutes? Or what if I get used to it and start slacking off more?",
-    "therapist": "I hear how even the idea of a 10-minute break brings up so much fear—it’s like your mind treats rest as a slippery slope, as if allowing any pause might unravel all your discipline. That’s exhausting to live with. What if we framed this experiment differently: not as \"doing nothing,\" but as *actively caring for your capacity*?  \n\nThe anxiety about losing your edge tells me how much you value your competence—but what if brief pauses could actually *protect* that part of you, rather than threaten it? How might it feel to test that possibility, just once, like a scientist collecting data?",
+    "client": "Honestly, when I push through exhaustion, I make more careless mistakes and end up having to redo work. I've seen my debate partner take breaks when they're stuck, and they always come back with better arguments. But I still feel guilty when I'm not working - like I'm being lazy even though I know rationally that's not true.",
+    "therapist": "It sounds like you're starting to recognize that pushing through exhaustion might actually be counterproductive, even though there's still that lingering guilt when you take breaks. You described this with thoughtful awareness rather than intense distress, which suggests you might be ready to gently challenge these beliefs. What do you think might help you start giving yourself permission to take breaks without feeling guilty?",
     "condition": "emotion_text_only",
-    "val_t": -0.18987858295440674,
-    "aro_t": 0.08387577533721924,
-    "text_emotion": "Angry"
+    "val_t": -0.3586786985397339,
+    "aro_t": 0.09296619892120361,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about reframing breaks as self-care, but it still feels risky. My brain keeps shouting that if I stop even for 10 minutes, I'll fall behind and never catch up again. The scientist approach sounds less scary though—I could maybe try it if I think of it as just gathering information rather than committing to a new habit.",
-    "therapist": "It sounds like your brain is reacting to this idea like an alarm system—that \"shouting\" feeling shows how protective (and exhausted) that part of you must be. The scientist approach seems to create just enough distance to make the experiment feel safer.  \n\nWhat specific \"data\" would help you assess whether those 10 minutes were truly risky—what would you need to notice to challenge the fear that stopping means falling behind forever?",
+    "client": "Maybe setting a timer could help - like telling myself I'll work for 45 minutes and then take a 15-minute break. But I'm worried I'll just spend the whole break time stressing about what I should be doing instead of actually resting. It feels like my brain won't let me relax even when I try.",
+    "therapist": "It sounds like you're recognizing the value of structured breaks but still struggling with the guilt that creeps in during those rest periods. Since you're feeling this mix of thoughtful consideration and mild worry, what small experiment could you try to make those breaks feel more genuinely restorative? Perhaps something simple like stepping outside for fresh air during that time?",
     "condition": "emotion_text_only",
-    "val_t": -0.056464195251464844,
-    "aro_t": 0.11557745933532715,
-    "text_emotion": "Neutral"
+    "val_t": -0.19733643531799316,
+    "aro_t": 0.0649024248123169,
+    "text_emotion": "Sad"
   }
 ]

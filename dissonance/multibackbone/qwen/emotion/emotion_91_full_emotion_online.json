@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. Every time I visit the coffee shop my grandmother used to love, I get overwhelmed with sadness. I know it's a normal part of grieving, but it’s just so hard to handle, and I’m not sure if therapy can really make a difference.",
-    "therapist": "Hi there, I’m so glad you reached out. It sounds like visiting that coffee shop brings up a lot of emotions, and it’s completely understandable to feel overwhelmed. Grief can be incredibly intense, and it’s okay to struggle with it. How have you been coping with these feelings when they arise?",
+    "client": "Hey Luna, I've been really struggling lately. Every time I visit my grandmother's favorite coffee shop, I get overwhelmed with sadness. I know it's normal to feel this way, but it's been really hard to handle, and I'm not sure if therapy can even help with this.",
+    "therapist": "Hi there, I'm really glad you reached out. It sounds like visiting your grandmother's favorite coffee shop is bringing up a lot of sadness, and that can be really tough to manage. It's completely normal to feel this way, especially when places hold such meaningful memories. How have you been coping with these feelings when they come up?",
     "condition": "emotion_text_only",
-    "val_t": -0.31917476654052734,
-    "aro_t": 0.12353873252868652,
-    "text_emotion": "Sad"
+    "val_t": -0.3378854990005493,
+    "aro_t": 0.15411651134490967,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. When I visit that coffee shop, it just feels like a punch in the gut. I’ve been trying to distract myself with work or scrolling through my phone, but it doesn’t really help. I just end up feeling guilty for not honoring his memory.",
-    "therapist": "I can really hear how deeply those visits affect you, and it’s understandable that you’re feeling a mix of emotions. It’s natural to seek distractions, but it sounds like they’re not providing the relief you’re looking for. Have you thought about any other ways you might be able to honor your grandmother’s memory while still taking care of yourself?",
+    "client": "Thanks for understanding, Luna. Honestly, I've been trying to avoid the coffee shop altogether, but that feels like I'm running away from my feelings. I've also been trying to distract myself with other activities, but it doesn't really help in the long run. I just feel so stuck.",
+    "therapist": "I can see how avoiding the coffee shop might feel like you're running away from your feelings, and that can be really frustrating. It's understandable to try distractions, but it sounds like they haven't been providing the relief you're looking for. Have you considered trying to sit with those feelings for a bit, maybe by allowing yourself to feel them without judgment? What do you think might happen if you gave yourself permission to experience those emotions in a safe space?",
     "condition": "emotion_text_only",
-    "val_t": -0.19085288047790527,
-    "aro_t": 0.13967955112457275,
+    "val_t": -0.15362894535064697,
+    "aro_t": 0.13503563404083252,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you're trying to help me find a balance, Luna. It's just hard because I feel like I owe it to her to keep going, even if it's tough. I worry that if I start doing things differently, it might feel like I'm forgetting her or not honoring her properly.",
-    "therapist": "I understand how important it is to you to honor your grandmother’s memory, and it’s completely normal to feel a sense of obligation and worry about forgetting her. It’s a delicate balance, but finding ways to remember her that feel right for you can be a meaningful way to keep her legacy alive. What are some ways you might be able to honor her that feel both meaningful and manageable for you?",
+    "client": "I appreciate your suggestion, Luna, but I'm not sure if I can handle just sitting with those feelings. They feel so overwhelming, and I worry that if I let them in, I won't be able to control them. It's hard to imagine a safe space when the sadness feels so all-consuming.",
+    "therapist": "I completely understand how overwhelming those feelings can be, and it's natural to worry about losing control. It's important to find a balance that feels manageable for you. Maybe we can start by exploring some grounding techniques that can help you feel more in control while you allow yourself to experience those emotions. Have you tried any grounding techniques before, or would you be open to learning some?",
     "condition": "emotion_text_only",
-    "val_t": 0.04042971134185791,
-    "aro_t": 0.1153649091720581,
-    "text_emotion": "Neutral"
+    "val_t": -0.2240159511566162,
+    "aro_t": 0.2360473871231079,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I really appreciate that you understand, Luna. It's just that sometimes I feel overwhelmed by the idea of keeping her memory alive. I mean, I want to do something meaningful, but I also worry that whatever I do won't be enough or will just make me feel more sad and guilty.",
-    "therapist": "I can hear how much you care about honoring her memory, and it’s completely understandable to feel overwhelmed by that responsibility. It’s a lot to carry, and it’s okay to feel unsure about what feels right. Sometimes, even small actions can be incredibly meaningful. What are some small things you might do that could feel like a tribute to her, without adding too much pressure?",
+    "client": "I haven't really tried grounding techniques before, but I'm open to learning. I just hope they can actually help me feel more in control. It's hard to imagine anything making the sadness less overwhelming, but I'm willing to try if it might help me cope better.",
+    "therapist": "It's great to hear that you're open to trying grounding techniques. They can be really helpful in providing a sense of control and can make those overwhelming feelings a bit more manageable. One simple technique is the 5-4-3-2-1 method, where you identify five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. This can help bring your focus back to the present moment. Would you be willing to try this the next time you feel overwhelmed, or is there another technique you'd like to explore first?",
     "condition": "emotion_text_only",
-    "val_t": -0.23864054679870605,
-    "aro_t": 0.15484392642974854,
-    "text_emotion": "Angry"
+    "val_t": 0.09945333003997803,
+    "aro_t": 0.09897255897521973,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It’s just hard because I feel like anything I do has to be perfect, you know? I don’t want to do something that feels insignificant or not meaningful enough. It’s a lot of pressure, and I’m not sure where to start.",
-    "therapist": "I completely understand the pressure you’re feeling to make everything perfect in her memory. It’s a natural response, but it can definitely add a lot of stress. It’s okay to start small and let the significance grow over time. What are some simple things you might do to start that feel like they honor her, even if they don’t feel perfect right away?",
+    "client": "I like the idea of the 5-4-3-2-1 method, Luna. It seems like it could help me stay grounded, but I'm a bit nervous about whether I'll remember to use it when I'm feeling really overwhelmed. I'll give it a try, though, and see how it goes. Maybe we can talk about some other techniques too, just to have a few options?",
+    "therapist": "I'm glad you're open to trying the 5-4-3-2-1 method, and it's totally understandable to feel a bit nervous about remembering to use it in the moment. It's a good idea to have a few techniques in your toolkit, so you can choose what feels right for you at the time. Another technique you might find helpful is diaphragmatic breathing, which involves deep, slow breaths from your diaphragm. This can help calm your nervous system and bring a sense of peace. How does that sound to you? Would you like to practice a few deep breaths together now?",
     "condition": "emotion_text_only",
-    "val_t": -0.030692219734191895,
-    "aro_t": 0.17280495166778564,
-    "text_emotion": "Tense"
+    "val_t": 0.10125589370727539,
+    "aro_t": 0.1042104959487915,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it's hard to shake the feeling that anything less than perfect won't do. I worry that if I don't do something big, it won't feel like I'm doing enough to honor her memory. Starting small sounds good in theory, but it feels like it might just add to my guilt.",
-    "therapist": "I hear you, and it’s completely understandable to feel that way. The pressure to do something big can be overwhelming, and it’s natural to worry about not doing enough. Starting small doesn’t mean it’s insignificant; it’s about taking steps that feel manageable and meaningful to you. What are some small, personal ways you might honor her memory that feel right for you, even if they seem small at first?",
+    "client": "That sounds like a good idea, Luna. Deep breathing might be something I can do more easily in the moment. I'm a bit skeptical about how much it will help, but I'm willing to give it a try. Let's practice a few deep breaths together now.",
+    "therapist": "That's a great attitude, and I appreciate your willingness to try something new. Let's take a few deep breaths together. Find a comfortable position, and let's start by breathing in slowly through your nose, counting to four, and then exhaling slowly through your mouth, counting to six. Ready when you are. Inhale... 2, 3, 4... and exhale... 2, 3, 4, 5, 6. How does that feel?",
     "condition": "emotion_text_only",
-    "val_t": -0.23964917659759521,
-    "aro_t": 0.06696367263793945,
-    "text_emotion": "Sad"
+    "val_t": 0.14223039150238037,
+    "aro_t": 0.08664917945861816,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, but it's hard to shake the feeling that anything I do won't be enough. I worry that if I start with something small, it won't feel like I'm doing justice to her memory. It's like there's this enormous weight on my shoulders, and I don't know how to make it lighter.",
-    "therapist": "I can really hear the weight of this responsibility you feel, and it’s completely understandable to worry that nothing will feel like enough. It’s a heavy burden to carry, and it’s okay to feel that way. Sometimes, just acknowledging that weight and giving yourself permission to start small can help. What are some small, personal gestures you could make that might feel meaningful, even if they don’t seem like they’re doing full justice to her memory right away?",
+    "client": "It feels a bit strange at first, but the deep breaths are actually helping me feel a little more relaxed. I can feel my body starting to unwind a bit. I'll keep practicing this, and maybe it will become more natural over time.",
+    "therapist": "I'm glad to hear that the deep breathing is starting to help you feel more relaxed. It's completely normal for new techniques to feel a bit strange at first, but the more you practice, the more natural it will become. It's great that you're noticing your body unwinding a bit. How do you think you might incorporate this technique into your daily routine, or what other situations might you find it helpful to use deep breathing?",
     "condition": "emotion_text_only",
-    "val_t": -0.09978365898132324,
-    "aro_t": 0.13857591152191162,
-    "text_emotion": "Angry"
+    "val_t": 0.19521653652191162,
+    "aro_t": 0.04291403293609619,
+    "text_emotion": "Happy"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you understand how heavy this feels, Luna. It’s just hard for me to see how small gestures could make a difference when I feel like I need to do something monumental to honor her memory. I worry that anything less will feel like a failure.",
-    "therapist": "I understand how deeply you feel the need to honor her memory in a way that feels monumental, and it’s completely natural to worry about feeling like a failure if you start small. It’s a challenging balance, but sometimes, the most meaningful gestures are the ones that come from the heart, even if they seem small. What are some personal, heartfelt ways you could remember her that feel true to your relationship, even if they don’t seem grand at first?",
+    "client": "I think I could try to incorporate deep breathing into my daily routine, maybe first thing in the morning or right before bed. It might also help when I start feeling anxious or overwhelmed during the day. I'll give it a shot, but it might take some time to get used to it.",
+    "therapist": "That's a really good plan, and I'm glad you're considering ways to integrate deep breathing into your routine. Starting your day or winding down at night with deep breathing can set a calming tone, and using it during moments of anxiety can be really beneficial. It might take some time to get used to, but the more you practice, the more it will become a helpful tool. How do you think you might remind yourself to practice deep breathing throughout the day? Maybe setting a gentle reminder on your phone or finding a specific cue could help.",
     "condition": "emotion_text_only",
-    "val_t": -0.053153038024902344,
-    "aro_t": 0.14794909954071045,
-    "text_emotion": "Tense"
+    "val_t": 0.010556459426879883,
+    "aro_t": 0.11888504028320312,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I really do want to honor her memory in a way that feels genuine. But it's hard because I feel like anything less than something big and public won't be enough. I worry that people will think I didn't care enough if I don't do something grand.",
-    "therapist": "I can really understand how much you want to honor her memory in a way that feels genuine and meaningful. It’s natural to worry about what others might think, but it’s important to remember that the most heartfelt tributes often come from personal, genuine actions. What are some personal ways you could honor her that feel true to your relationship and your feelings, even if they’re not big or public?",
+    "client": "I like the idea of setting a reminder on my phone, Luna. It might help me remember to take those deep breaths when I'm feeling stressed. But I'm a bit worried about it feeling like one more thing to do in my day. I'll give it a try, though, and see how it goes.",
+    "therapist": "It's great that you're open to trying the reminder on your phone. I understand that adding one more thing to your day can feel overwhelming, and it's important to find a balance that works for you. Starting with a gentle reminder might help you gradually build the habit without it feeling like a burden. How do you think you might adjust the reminder to make it feel more supportive and less like an obligation? Maybe you could set it to a time when you usually have a natural break in your day?",
     "condition": "emotion_text_only",
-    "val_t": -0.1551661491394043,
-    "aro_t": 0.15218615531921387,
-    "text_emotion": "Angry"
+    "val_t": 0.012150883674621582,
+    "aro_t": 0.12211203575134277,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I really appreciate that you're validating my feelings. It's just hard because I feel like anything I do won't be enough, and I'm scared it might not live up to what others expect. I want it to be special, but I also don't want to put too much pressure on myself.",
-    "therapist": "I can really see how much you care about getting this right and how much pressure you’re putting on yourself. It’s understandable to want to meet others’ expectations and make it special, but it’s also important to be kind to yourself. What are some ways you can honor her memory that feel special to you, without feeling like you have to meet everyone else’s expectations?",
+    "client": "I think setting the reminder during a natural break in my day, like during my lunch hour, could work. That way, it won't feel like an added task. I'll give it a try and see how it goes. It might help me take a moment to pause and breathe, which could be really beneficial.",
+    "therapist": "That's a really thoughtful approach, and setting the reminder during your lunch hour sounds like a great way to integrate it naturally into your day. Taking a moment to pause and breathe can be incredibly beneficial, and it might help you feel more centered and calm. How do you think this might impact your overall sense of well-being as you start to incorporate these pauses into your routine?",
     "condition": "emotion_text_only",
-    "val_t": 0.09642946720123291,
-    "aro_t": 0.16814100742340088,
-    "text_emotion": "Excited"
+    "val_t": 0.15968787670135498,
+    "aro_t": 0.030246376991271973,
+    "text_emotion": "Happy"
   }
 ]

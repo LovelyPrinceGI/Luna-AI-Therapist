@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandma passed away last month. Family dinners just feel empty now without her there, and I can't seem to enjoy them like I used to. I'm not sure talking about it will help - the pain just feels too deep.",
-    "therapist": "I hear how deeply you're missing your grandma, and how her absence has left such a noticeable void in these family moments. It makes sense that this pain feels too big to talk about right now.  \n\nWould you be willing to share what your grandma brought to those dinners that made them so special?",
+    "client": "Lately, family gatherings have been really hard for me since my grandma passed away last month. I keep expecting to see her there, and when she’s not, it feels like this huge emptiness that I can’t shake. I’m not sure if therapy can help with something like this—it just feels like this loss is always going to hurt.",
+    "therapist": "It sounds like the absence of your grandma is deeply felt, especially in those familiar family moments—that sense of emptiness can be so heavy. It’s okay for grief to linger, but let’s explore how those expectations of seeing her might be shaping your experience. What thoughts come up for you when you notice she’s not there?",
     "condition": "emotion_text_only",
-    "val_t": -0.4272652864456177,
-    "aro_t": 0.08525192737579346,
+    "val_t": -0.38127458095550537,
+    "aro_t": 0.08656227588653564,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "She just made everything feel... complete, you know? Like we weren't just eating together, we were really connecting. Her laugh, the way she'd remember little things about each of us - now dinners just feel empty and quiet.  \n\nSometimes I think maybe I should try to bring that warmth she had, but then I just feel guilty, like I'm trying to replace her or something.",
-    "therapist": "It sounds like you're holding both this beautiful memory of her warmth and this painful sense of loss—and that tension between wanting to honor her and feeling guilty is so understandable.  \n\nWhat do you think your grandma would say about you carrying forward that spirit of connection she created?",
+    "client": "When I notice she’s not there, I just think, \"This isn’t right, she should be here.\" It feels like the family isn’t complete anymore, and it’s hard to enjoy anything because it’s overshadowed by her absence. I don’t know how to move past that feeling—it’s like I’m stuck in this loop of missing her.",
+    "therapist": "That sense of things not being right without her must feel so jarring, especially when the family dynamic feels incomplete. It’s natural to feel stuck in that loop of missing her, but I wonder if we could gently explore how her absence also coexists with the love and memories she left behind. What’s one memory of her that brings you comfort, even if it’s bittersweet?",
     "condition": "emotion_text_only",
-    "val_t": -0.13962697982788086,
-    "aro_t": 0.19915103912353516,
+    "val_t": -0.253684401512146,
+    "aro_t": 0.13698768615722656,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I think she'd tell me to stop beating myself up, but that's the hard part. I know she was always so loving, but I can't shake this guilt that I didn't visit her enough those last few months. \n\nThe idea of honoring her feels nice in theory, but when I try to do things she'd like—like baking her recipes—I just end up crying over the mixing bowl. It makes me feel worse instead of better.",
-    "therapist": "It's clear how much love you had for her, and how that love is now tangled up with these painful \"what ifs.\" The grief seems to well up especially when you try to connect with her through those familiar rituals.  \n\nWould it feel possible to start smaller—maybe just lighting a candle in her memory during dinner, without pressure to \"do\" anything more?",
+    "client": "I remember how she used to bake these special cookies for holidays—she had this way of making everyone feel so loved and included. It’s bittersweet because it makes me smile, but then I feel this ache knowing she won’t do it again. I don’t know if focusing on memories helps, though—it just reminds me of what I’ve lost.",
+    "therapist": "It sounds like those memories of her baking bring warmth but also a deep ache—those mixed feelings can be so tender and painful all at once. It’s okay to feel both the joy and the loss, but I wonder if we could explore how those memories might still hold space for her in a way that feels meaningful, even if it’s hard. How does it feel when you think about carrying forward her tradition of making others feel loved and included?",
     "condition": "emotion_text_only",
-    "val_t": -0.24926519393920898,
-    "aro_t": 0.15755212306976318,
-    "text_emotion": "Angry"
+    "val_t": -0.0508350133895874,
+    "aro_t": 0.17270803451538086,
+    "text_emotion": "Tense"
   },
   {
     "turn": 4,
-    "client": "I don't know... lighting a candle feels too simple, like it's not enough to honor her properly. Part of me worries that if I don't keep doing all our usual rituals exactly the same way, I'll lose my connection to her completely. But at the same time, the bigger traditions have been leaving me completely drained afterward.",
-    "therapist": "It sounds like you're caught between two fears—that changing anything would mean losing her, but that keeping everything the same is exhausting you. Grief can make us feel like we have to choose between honoring and surviving, when really, both matter deeply.  \n\nWhat if honoring her could also mean listening to what your heart can handle right now, even if it's different from before?",
+    "client": "I guess the idea of carrying forward her tradition feels nice in theory, but it also feels overwhelming. I’m not sure I can do it the way she did—she had this way of making everything feel so effortless and special. It’s hard to imagine stepping into that role without feeling like I’m just failing to live up to her memory.",
+    "therapist": "It sounds like the idea of continuing her tradition brings both warmth and a lot of pressure—like her way of doing things feels impossible to match. It’s okay to feel overwhelmed, and it doesn’t mean you have to do it exactly as she did. What if we explored how you could make this tradition your own, in a way that feels authentic to you? How might that look?",
     "condition": "emotion_text_only",
-    "val_t": -0.1823955774307251,
-    "aro_t": 0.10676681995391846,
-    "text_emotion": "Angry"
+    "val_t": 0.017934203147888184,
+    "aro_t": 0.2310258150100708,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I know you're right logically, but it just feels...wrong. Like if I let go of any of these rituals—keeping her favorite coffee mug exactly where she left it, watching her shows every night—it means I'm forgetting her. The thought of changing anything makes me panic, like I'm betraying her memory. \n\nBut you're also right that I'm exhausted. I haven't slept through the night in months because I stay up rewatching our old home videos. Part of me knows this isn't sustainable, but the guilt is so overwhelming when I try to cut back.",
-    "therapist": "I hear how fiercely you're holding onto these rituals as a way to keep her close—and how terrifying it feels to loosen that grip even slightly. That panic about forgetting or betraying her is so understandable when the loss still feels so fresh.  \n\nCould we explore what small adjustment might feel *just* bearable? Maybe moving the coffee mug to a special display shelf rather than its usual spot, so it becomes more of a tribute than a painful expectation?",
+    "client": "I never really thought about making it my own—I always saw it as her thing that I couldn’t live up to. But maybe I could try something simpler, like just writing little notes to family members the way she always remembered everyone’s favorite things. It still feels scary though—what if it just makes everyone miss her more?",
+    "therapist": "That sounds like a thoughtful and meaningful way to honor her memory, even if it feels a little scary. It’s natural to worry about how others might react, but those little notes could also bring warmth and connection in a way that feels true to her spirit. What do you think might help you feel more comfortable taking that first step?",
     "condition": "emotion_text_only",
-    "val_t": -0.35335516929626465,
-    "aro_t": 0.17437589168548584,
+    "val_t": -0.16341209411621094,
+    "aro_t": 0.12601935863494873,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I don't know... the mug belongs right where she always kept it on the kitchen counter. If I move it, it's like admitting she's really gone. The thought makes my chest feel tight. \n\nBut I also hate how my hands shake every morning when I see it there empty. Maybe a shelf would be better, but what if that makes the house feel even more hollow?",
-    "therapist": "It sounds like that mug holds so much meaning—both the comfort of her presence and the pain of her absence—and that tension is understandably making your mornings so hard. The thought of change brings up that physical tightness, while keeping things the same leaves you shaky.  \n\nWhat if we tried this: for one morning, you could place the mug on the shelf *temporarily*, just to notice what emotions come up, without committing to anything permanent yet?",
+    "client": "I think starting small might help—maybe just writing one note instead of trying to do something big. But I’m still worried it’ll feel forced or that I’ll be comparing myself to her the whole time. It’s hard to imagine doing this without feeling like I’m not measuring up to her legacy.",
+    "therapist": "Starting small is such a wise approach—it gives you space to ease into this without the pressure of perfection. It makes sense that comparison creeps in, but remember, this isn’t about replacing her; it’s about letting her kindness inspire yours in a way that feels genuine to you. What would it feel like to focus on the intention behind the note—the love you’re sharing—rather than measuring it against her legacy?",
     "condition": "emotion_text_only",
-    "val_t": -0.3806157112121582,
-    "aro_t": 0.1471083164215088,
-    "text_emotion": "Sad"
+    "val_t": -0.18931400775909424,
+    "aro_t": 0.12169754505157471,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I understand what you're suggesting, but just the thought of moving the mug makes me feel panicky. It’s like I’m letting go of her all over again, and I’m not ready for that. Even temporary feels too big—what if I can’t handle the emotions that come up?",
-    "therapist": "I hear how overwhelming this feels—like even a small temporary change taps into that deep fear of losing her all over again. It's okay to not be ready for this step right now; grief moves at its own pace.  \n\nCould we shift focus for a moment and explore what other ways, no matter how small, might help you feel connected to her without feeling so overwhelmed?",
+    "client": "Focusing on the intention feels like it takes some of the pressure off—it’s not about being perfect or living up to her, but just sharing love in my own way. Still, it’s hard to shake the fear that it won’t feel the same or that I’ll disappoint people who are missing her. What if it just reminds everyone of what’s gone?",
+    "therapist": "It sounds like you’re starting to find a gentler way to approach this, which is a big step—shifting the focus to intention can ease some of that pressure. It’s understandable to worry about how others might feel, but love shared in your own way can still be deeply meaningful, even if it’s different from hers. What do you think might help you let go of the fear of disappointing others and trust that your efforts will be enough?",
     "condition": "emotion_text_only",
-    "val_t": -0.23312675952911377,
-    "aro_t": 0.31489670276641846,
+    "val_t": -0.08285284042358398,
+    "aro_t": 0.17601549625396729,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I guess focusing on small ways to feel connected might be less overwhelming, but it still feels like a Band-Aid on something much bigger. Even little things, like looking at photos or listening to her favorite songs, make me feel like I’m just pretending she’s still here, and that hurts too. I don’t know if I’m ready to open that door yet—it feels like I’ll just fall apart again.",
-    "therapist": "It sounds like every attempt to connect with her memory right now—whether big or small—brings up that sharp pain of her absence. That feeling of \"pretending\" must be so difficult when what you really want is her presence.  \n\nWould it feel safer to simply acknowledge that right now, the grief is still too raw, and that's okay? There's no timeline for when these things should feel possible.",
+    "client": "I think reminding myself that it’s okay to do things differently might help—it doesn’t have to be perfect or just like her. But I still worry that my efforts won’t feel like enough, especially when everyone’s grieving too. It’s hard to trust that people will appreciate it, even if it’s not what they’re used to.",
+    "therapist": "It sounds like you’re starting to find a gentler, more forgiving approach—acknowledging that it’s okay to do things differently is such an important step. It’s natural to worry about how others will receive it, especially when everyone’s grieving, but your efforts don’t have to be perfect to be meaningful. What might it feel like to trust that your love and thoughtfulness are enough, even if it’s not exactly what they’re used to?",
     "condition": "emotion_text_only",
-    "val_t": -0.25864362716674805,
-    "aro_t": 0.1463385820388794,
+    "val_t": -0.15228986740112305,
+    "aro_t": 0.07614219188690186,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I know logically that grief doesn't have a timeline, but I keep feeling like I should be handling this better by now. It's been months, and I still can't even look at photos of her without breaking down. Part of me worries that if I stop trying to connect with her memory, it means I'm letting her go too soon.",
-    "therapist": "It sounds like you're carrying this heavy burden of \"shoulds\"—that you should be coping differently by now, that you should be able to look at photos, that stopping would mean letting go too soon. That pressure must feel exhausting on top of the grief itself.  \n\nWhat if, just for this week, you gave yourself permission to *not* look at photos or force any connections, and simply notice what that feels like? Not as letting go, but as creating space to breathe?",
+    "client": "Trusting that my love and thoughtfulness are enough feels really hard—I’m so used to comparing myself to her and feeling like I fall short. But maybe it’s worth trying, even if it doesn’t feel perfect, because at least it’s something to keep her spirit alive in my own way. I just don’t know how to quiet that voice in my head that says it’s not good enough.",
+    "therapist": "It sounds like that voice of comparison is really persistent, making it hard to trust your own efforts—that’s such a heavy feeling to carry. But it’s so powerful that you’re considering trying anyway, even if it doesn’t feel perfect, because keeping her spirit alive in your own way matters. What might it look like to gently challenge that voice when it says, “It’s not good enough”?",
     "condition": "emotion_text_only",
-    "val_t": -0.34978342056274414,
-    "aro_t": 0.15231561660766602,
+    "val_t": -0.1271657943725586,
+    "aro_t": 0.18827831745147705,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but I'm worried that if I stop looking at the photos even for a week, it'll feel like I'm forgetting them. The guilt creeps in when I think about not doing these little rituals. What if this space to breathe just turns into me avoiding my feelings?",
-    "therapist": "I hear how deeply you're wrestling with this—that taking space feels like risking forgetting her, while pushing through the rituals leaves you emotionally drained. That guilt makes it so hard to find any middle ground.  \n\nWhat if we framed this differently: could taking this week be an act of *care* for yourself—and by extension, an honoring of the love she had for you?",
+    "client": "Challenging that voice feels really hard—it’s been there for so long, and it feels like it’s rooted in truth sometimes. I guess I could try to remind myself that my grandma would probably want me to do things my way, not try to copy her, but it’s still hard to believe that my way is enough. What if I just end up feeling worse about it?",
+    "therapist": "It sounds like that voice feels deeply ingrained, and questioning it can feel shaky when it’s been such a constant presence. It’s such a powerful thought, though, that your grandma would likely want you to do things your way—not as a copy, but as an extension of her love through you. What might it feel like to take small steps, like writing a note, and then gently reflect on how it felt, rather than focusing on whether it was “enough”?",
     "condition": "emotion_text_only",
-    "val_t": -0.32862794399261475,
-    "aro_t": 0.09866058826446533,
+    "val_t": -0.35219311714172363,
+    "aro_t": 0.12092435359954834,
     "text_emotion": "Sad"
   }
 ]

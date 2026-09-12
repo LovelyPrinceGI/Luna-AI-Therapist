@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my dad passed away two months ago. Every time there's a family gathering, it just hits me all over again — I see his empty chair or someone mentions something he used to do, and I completely fall apart. I'm not even sure talking about it is going to change anything, because the grief is just... there, you know?",
-    "therapist": "What you're carrying sounds so heavy, and it makes complete sense that those moments at family gatherings bring the grief rushing back so vividly — grief has a way of living in the details, like an empty chair. You're right that talking won't make it disappear, but sometimes it can help us find a little more room to breathe alongside it, rather than being completely swept away. I'm wondering — when you \"fall apart\" in those moments, what kinds of thoughts tend to go through your mind?",
+    "client": "I've been really struggling since my dad passed away two months ago. Every time there's a family gathering, it just hits me all over again — like I walk in and expect to see him there, and then I remember he's not, and it's like losing him all over again. I'm not even sure talking about it is going to help, honestly, because nothing's going to bring him back.",
+    "therapist": "What you're carrying sounds deeply painful — that moment of walking in and expecting to see him, only to be met with his absence again, is such a heartbreaking kind of grief to live through. You're right that nothing will bring him back, and I want you to know I'm not here to pretend otherwise or offer easy fixes. I'm curious though — when you say you're not sure talking will help, what would \"help\" even look like for you right now, if you could imagine it?",
     "condition": "emotion_text_only",
-    "val_t": -0.39384233951568604,
-    "aro_t": 0.16763591766357422,
+    "val_t": -0.3675113916397095,
+    "aro_t": 0.21090173721313477,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I fall apart, the main thought that hits me is that I should have been there more before he died — like I wasted so much time on stupid arguments and being too busy, and now I can never fix that. And then I feel this crushing guilt on top of the grief, like I don't even deserve to be sad because some of it was my own fault. It's hard to even sit with those thoughts long enough to examine them, because they feel so true and so final.",
-    "therapist": "That guilt layered on top of grief sounds absolutely exhausting — like you're not even allowing yourself the comfort of mourning because part of you is using the pain as a punishment. I want to gently notice something: the fact that you *care* this much about the lost time actually speaks to how deeply you loved him, not to a failure on your part — complicated relationships are part of almost every close bond. Can you tell me a little about a moment, even a small one, where you *were* there for your dad in a way that mattered?",
+    "client": "Honestly, I don't even know what help would look like. I think part of me just wants to stop dreading those family gatherings, or at least not feel like I'm blindsided every single time by this wave of grief. But even saying that out loud feels kind of pointless, because I don't see how talking about it changes what happens when I walk through that door.",
+    "therapist": "It makes a lot of sense that you'd want some relief from that wave catching you off guard each time — that's not a small thing to wish for, and it's actually a really meaningful starting point. You're right that talking won't change what's behind that door, but sometimes it can gently shift what's happening *inside* you as you walk through it — the thoughts and expectations your mind is holding in that moment. I'm wondering, when you're approaching one of those gatherings, what does your mind tend to tell you in the moments before you arrive?",
     "condition": "emotion_text_only",
-    "val_t": -0.3151724338531494,
-    "aro_t": 0.11474406719207764,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I hear what you're saying, and I want to believe it, but my brain keeps pushing back on it. Like, yes, I can think of moments... there was this one time he was in the hospital a few years back and I drove three hours in the middle of the night to be there. But then my mind immediately goes to \"well, that was just one time, and what about all the times you didn't show up?\" It's like I can't let the good moments just be good moments without immediately countering them.",
-    "therapist": "That pattern you're describing — where your mind immediately discounts the good evidence and hunts for the negative — is actually a really well-known thinking trap called \"mental filtering,\" and noticing it so clearly is genuinely significant. That three-hour drive in the middle of the night isn't a small thing; it's the kind of act that reveals who you are to someone you love. I'm curious — if a close friend described their relationship with their father the exact same way you've described yours, would you tell them they didn't deserve to grieve?",
-    "condition": "emotion_text_only",
-    "val_t": -0.08810174465179443,
-    "aro_t": 0.13671112060546875,
+    "val_t": -0.36149466037750244,
+    "aro_t": 0.22543346881866455,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "I mean... no, I wouldn't say that to a friend. I'd probably tell them their feelings made complete sense. But it's different when it's me — I just keep thinking I should have done more, called more, visited more, and now there's no chance to fix any of it.",
-    "therapist": "You just noticed something really important — that you hold yourself to a completely different standard than you'd hold someone you love, and that gap is worth sitting with. The \"should haves\" feel so loud right now, but they're built on the assumption that you weren't doing your best with what you had at the time — the busyness, the arguments, all of it happened in a context. What do you think was going on in your life or in that relationship that made it hard to show up in the ways you're now wishing you had?",
+    "turn": 3,
+    "client": "Before I even get there, my mind kind of goes quiet in this weird way, like I'm bracing for impact. I think somewhere in the back of my head I'm still half-expecting to see him sitting in his usual chair, even though I know logically that's not going to happen. And then there's this guilt that creeps in too, like maybe if I just prepared myself better or thought about it differently, it wouldn't hit me so hard — like I'm failing at grieving somehow.",
+    "therapist": "That image of your mind going quiet and bracing for impact is so vivid, and it tells me how much weight you're carrying into those moments even before anything has happened. I want to gently push back on something though — the idea that you're \"failing at grieving\" is a really common thought, but grief doesn't actually come with a rulebook, and the fact that part of you still expects to see him in his chair isn't a failure, it's a testament to how real and present he was in your life. What do you think he would say if he heard you blaming yourself for not grieving \"well enough\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.1603602170944214,
-    "aro_t": 0.09016406536102295,
+    "val_t": -0.4083353281021118,
+    "aro_t": 0.12545204162597656,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "He would probably tell me to stop being so hard on myself — that was kind of his thing, actually, always telling me I expected too much from myself. But hearing that framing right now almost makes it worse in a way, because it reminds me of exactly the kind of thing he would say, and he's not here to say it anymore. I don't know, maybe that's useful somehow, but right now it just feels like another reminder of what I've lost.",
+    "therapist": "That's such a tender and bittersweet thing to notice — that even the comfort his words might offer carries its own ache right now, because it leads you straight back to missing him. I don't want to rush past that, because what you just described actually feels really important: his voice is still *with* you in some way, even if that's painful to sit with right now. I'm wondering, over time, do you think that same voice — the one that tells you to stop being so hard on yourself — could ever feel more like a connection to him rather than just a reminder of his absence?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18172943592071533,
+    "aro_t": 0.11941468715667725,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess... there was just so much going on at that time. I was stressed about work constantly, and every time we tried to talk it would spiral into this argument where we'd both just shut down. I think I kept telling myself I'd make more time when things settled down, but they never really did, and now that feels like such a stupid excuse.",
-    "therapist": "What you're describing doesn't sound like a stupid excuse — it sounds like a very human person caught between real pressures, hoping for a future window that never came, which is something so many people experience without ever expecting to face this kind of ending. There's a difference between a choice made out of not caring and a pattern that developed because life was genuinely hard and the relationship had its own painful dynamics that made connection difficult. I'm wondering — do you think your dad, knowing everything about your life and the struggles between you two, would have seen it as you simply not caring enough?",
+    "client": "Maybe, but that feels really far away right now, like something I can't even picture yet. I want to believe that his voice in my head could feel like a comfort someday instead of just a wound, but I honestly don't know how you get from here to there. It feels a little like you're asking me to imagine the end of a tunnel when I'm still standing in the dark.",
+    "therapist": "That image of standing in the dark in the tunnel is so honest, and I don't want to pull you toward a light you can't see yet — that's not where you are right now, and that's okay. What you're describing — just being in the dark, not knowing how to get through — is actually exactly where grief often lives in these early months, and there's no shortcut through it. I'm curious, is there anything, even something small, that has felt even slightly easier to carry in the two months since you lost him — any moment, however brief, where the weight lifted even a little?",
     "condition": "emotion_text_only",
-    "val_t": -0.3177187442779541,
-    "aro_t": 0.16813921928405762,
+    "val_t": -0.1294773817062378,
+    "aro_t": 0.11118364334106445,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I want to say no, that he would have understood... but honestly, I'm not sure. We had this distance between us for so long that I don't even know if he knew the full picture of what my life was like. And that's almost worse, you know? That he might have just thought I didn't care, because I never actually told him how overwhelmed I was.",
-    "therapist": "That particular ache — wondering if he truly knew you, and fearing he might have misread your absence as indifference — sounds like one of the most painful parts of this whole loss. It points to something really tender: not just grief for him, but grief for the version of the relationship where you both fully understood each other. I'm curious — is there anything you wish you could have told him about your life or yourself that he didn't get to hear?",
+    "client": "There was one evening a few weeks ago where my brother and I ended up just sitting around talking about my dad — like telling old stories, some of them funny ones — and for a little while it felt okay, almost good even. But then afterward I felt guilty about it, like I had somehow betrayed my grief by laughing, or like enjoying a memory meant I was forgetting how much I miss him. So even that moment that felt lighter came with its own kind of weight attached to it.",
+    "therapist": "That evening with your brother sounds genuinely precious — laughter and love and grief all tangled up together, which is actually such a human way to honor someone. The guilt that followed makes a lot of sense, but I want to offer a gentle reframe: what if enjoying that memory isn't a betrayal of your grief, but actually one of the truest expressions of how much he mattered to you — that his stories are still alive enough to make you laugh? I'm wondering, do you think your dad would have wanted you to feel guilty for that moment, or something else?",
     "condition": "emotion_text_only",
-    "val_t": -0.2794055938720703,
-    "aro_t": 0.222312331199646,
-    "text_emotion": "Angry"
+    "val_t": 0.004099488258361816,
+    "aro_t": 0.12264418601989746,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "Yeah, there's... there's actually a lot I wish he could have known. I think I wanted him to understand that I wasn't pulling away because I didn't care — I was just so caught up in my own struggles, my anxiety, always feeling like I wasn't handling things well enough to show up properly. I guess I kept waiting until I had it more together before reconnecting, and that moment never came.",
-    "therapist": "What you just shared feels really significant — you weren't withholding yourself out of indifference, you were waiting until you felt *worthy* of showing up, and that waiting came from a place of anxiety and self-doubt, not a lack of love. That's a very different story than the one your guilt has been telling you. I wonder if that same pattern — waiting until you feel \"together enough\" before allowing yourself connection or comfort — might also be part of what makes grieving feel so hard to sit with right now?",
+    "client": "No, he definitely wouldn't have wanted me to feel guilty — he would have loved knowing that my brother and I were sitting around laughing about him, that's exactly the kind of thing he lived for. But knowing that in my head and actually feeling it in my gut are two completely different things, and I think that's where I keep getting stuck. The reframe makes sense logically, but I don't know how to make my feelings catch up to what I know is true.",
+    "therapist": "You've just named something really central to how our minds work — that gap between what we *know* and what we *feel* is one of the most frustrating parts of being human, and it's not a flaw in you, it's just how emotions operate, they tend to change through experience and repetition rather than logic alone. What's actually hopeful here is that you already *have* an experience — that evening with your brother — where your feelings and your love for him briefly aligned in a way that felt okay, even good. I'm wondering if it might be worth thinking about how you could create more small moments like that one, not to force the feelings to catch up, but to gently give them more chances to?",
     "condition": "emotion_text_only",
-    "val_t": -0.21281111240386963,
-    "aro_t": 0.13928115367889404,
+    "val_t": -0.13315999507904053,
+    "aro_t": 0.11246633529663086,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "Yeah, I think you're onto something, but it also makes me feel kind of sick to hear it laid out like that. Like, if I've been keeping myself at a distance until I felt \"ready,\" then I missed so much time with him that I can never get back. And now I'm supposed to just... sit with that grief without running from it, but honestly I don't even know what that looks like.",
-    "therapist": "That realization landing so heavily makes complete sense — it's painful to see a pattern clearly, because clarity can briefly feel like a verdict before it starts to feel like freedom. Sitting with grief doesn't mean forcing yourself to feel everything all at once; it often starts with something much smaller, like letting yourself have one memory of him without immediately following it with a \"but.\" What do you think it would feel like to let that hospital drive — that three-hour midnight journey — just exist as a true expression of your love, without your mind adding a \"however\" after it?",
+    "client": "I like the idea in theory, but I'm also a little scared of it — like what if I try to recreate that kind of moment with my brother and it just doesn't land the same way, and then I feel worse instead of better. That evening happened kind of naturally, we weren't trying to do anything, we just fell into it, and I worry that if I make it intentional it'll feel forced or hollow. I don't want to turn something that felt real into some kind of therapy exercise.",
+    "therapist": "That fear makes complete sense, and I want to be clear — I'm not suggesting you manufacture something or follow a script, because you're right that the realness of that evening is exactly what made it meaningful. It's less about recreating it and more about simply being open to it happening again, maybe just by spending unhurried time with your brother without any agenda, and trusting that your shared love for your dad might find its own way into the conversation. I'm curious, is there anything that feels like a natural, low-pressure reason you and your brother might just *be* together sometime soon — not to do grief, just to be family?",
     "condition": "emotion_text_only",
-    "val_t": -0.37210631370544434,
-    "aro_t": 0.21953535079956055,
+    "val_t": -0.26503705978393555,
+    "aro_t": 0.1563493013381958,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I want to let that drive just be what it was, but my mind almost immediately goes to \"yeah, but he never acknowledged it, he never even said thank you.\" It's like I can hold the love for maybe two seconds before the resentment rushes in and takes over, and then I feel guilty for the resentment, which makes everything worse. I don't know if I'm capable of separating those two things right now.",
-    "therapist": "What you're describing — love and resentment tangled so tightly together that you can barely touch one without the other rushing in — is actually a sign of how real and complex this relationship was, not a sign that something is broken in you. The resentment doesn't cancel the love, and feeling it doesn't make you a bad son; it makes you someone who wanted more from a relationship that didn't always give back in the ways you needed. I'm wondering — do you think that unacknowledged drive, and maybe other moments like it, left you carrying a loneliness in that relationship that you've never really had space to grieve alongside the loss itself?",
+    "client": "Actually, we've been talking about going through some of my dad's old stuff together — there are boxes in my mom's garage that nobody's dealt with yet. That feels like a natural reason to be together, but honestly it also terrifies me because I don't know what we'll find in those boxes or how it'll feel. I guess it could go either way — it could be one of those moments where something real happens, or it could just be really, really hard.",
+    "therapist": "It sounds like you're holding both the fear and the possibility of that moment at the same time, which actually takes a quiet kind of courage — and the fact that you can see it could go either way tells me you're approaching it with real honesty rather than dread alone. Going through those boxes with your brother might be hard, and it might also be exactly the kind of unscripted, real moment where your dad shows up again in the best way — through an old photo, a handwritten note, something that makes you both laugh or cry or both. What do you think would help you feel even a little more ready to say yes to that, when the time comes?",
     "condition": "emotion_text_only",
-    "val_t": -0.24075794219970703,
-    "aro_t": 0.10836338996887207,
-    "text_emotion": "Angry"
+    "val_t": -0.10339891910552979,
+    "aro_t": 0.07848608493804932,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "Yeah... I think that's probably true, but it's hard to sit with because it feels like I'm admitting the relationship was broken, and I don't want it to be broken. There was this loneliness, yeah, like I was always just slightly out of reach of really being known by him, and I kept thinking if I just tried harder or did more, maybe that would change. I never really let myself grieve that part because it felt disloyal, like I was betraying him by admitting it wasn't enough.",
-    "therapist": "What you just named takes real courage — that quiet, aching loneliness of being almost known by someone you loved, and the exhausting hope that if you just did a little more, the gap might finally close. Grieving that doesn't betray him; it actually honors the truth of who you both were and what you genuinely longed for together. I want to gently offer that holding the relationship as both real and imperfect, both loving and painful, might actually be the only way to carry it without it crushing you — does any part of you sense that those two things, loving him and grieving what wasn't there, might be allowed to coexist?",
+    "client": "I think what would help is knowing that my brother and I don't have to finish everything in one go, that we can stop if it gets to be too much and that's okay. I guess I have this fear that once we start we'll feel obligated to push through even if it becomes overwhelming, and that pressure makes it feel harder to begin at all. Maybe if I talked to him beforehand and we agreed it was okay to take breaks or even just walk away for the day, that might make it feel less like something I have to survive and more like something we're doing together at our own pace.",
+    "therapist": "You've just figured something really important out on your own — that what makes this feel survivable isn't pushing through, but having permission to be human about it, to go at your own pace with someone you trust beside you. That conversation with your brother beforehand isn't just practical, it's actually a way of honoring your dad together before you even open a single box. I'm wondering, does it feel like something you could reach out to your brother about soon — not to set a date necessarily, but just to have that conversation and see how it feels?",
     "condition": "emotion_text_only",
-    "val_t": -0.3518599271774292,
-    "aro_t": 0.17210042476654053,
+    "val_t": -0.17353558540344238,
+    "aro_t": 0.13153553009033203,
     "text_emotion": "Angry"
   }
 ]

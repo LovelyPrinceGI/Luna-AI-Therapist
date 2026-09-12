@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just don't see the point in doing normal things anymore since my brother died. Everything feels empty, and I've stopped reaching out to friends because they don't really understand what I'm going through. I'm not sure talking about it will help - it won't bring him back.",
-    "therapist": "I hear how deeply painful this loss is for you, and how it's made everyday activities feel meaningless right now. It makes sense that you'd withdraw when others can't fully understand this profound grief.  \n\nWhat comes up for you when you think about the things that used to feel meaningful before your brother passed?",
+    "client": "It's been over a year since my brother died, and I still feel like I'm just going through the motions every day. Everything that used to make me happy just feels empty now, like I'm watching life happen from behind glass. My friends keep inviting me out, but I just can't connect with them anymore - it's like they're living in a different world where everything is normal.",
+    "therapist": "I hear how deeply you're still grieving your brother's loss, and how disconnected everything feels even after this time. That sense of watching life happen from behind glass makes me wonder - what thoughts come up when you see others going about their \"normal\" lives while you're feeling this way?",
     "condition": "emotion_text_only",
-    "val_t": -0.2852431535720825,
-    "aro_t": 0.060832977294921875,
+    "val_t": -0.14693760871887207,
+    "aro_t": 0.060582876205444336,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "It's just...everything feels empty now. We used to go hiking together every weekend, and now when I see the trails we loved, I just feel this crushing weight in my chest. Even simple things like watching our favorite shows - I can't do it without breaking down.  \n\nI don't know how to find meaning in anything when he's not here to share it with me. It all feels pointless.",
-    "therapist": "The connection you shared with your brother was so special that his absence now makes even joyful memories feel unbearably painful. That heaviness in your chest tells me how much love is wrapped up in this grief.  \n\nWhen the sadness feels overwhelming, have you noticed any moments—even small ones—where the weight lifts just a little?",
+    "client": "I just keep thinking how unfair it is that their lives just keep moving forward like nothing happened. Sometimes I get angry watching people laugh and make plans like everything's fine, when my world stopped making sense over a year ago. And then I feel guilty for being angry, because it's not their fault they didn't lose someone like I did.",
+    "therapist": "It sounds like you're caught between anger, guilt, and that deep sense of loss - these conflicting emotions must feel exhausting. I wonder if we could explore how you're interpreting others' happiness - what meaning does it hold for you when you see people laughing and making plans?",
     "condition": "emotion_text_only",
-    "val_t": -0.26984095573425293,
-    "aro_t": 0.21707212924957275,
+    "val_t": -0.3611515760421753,
+    "aro_t": 0.17201757431030273,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Sometimes I do feel a little lighter when I'm looking through old photos of us, but then I immediately feel guilty for not being sad anymore in that moment. It's like if I'm not constantly grieving, I'm betraying his memory somehow. \n\nI tried going to a support group last week like you suggested, but everyone else's stories just made me feel worse. Hearing about their losses made me spiral into thinking about how permanent this all is.",
-    "therapist": "It sounds like you're caught between two painful places—feeling guilty when the grief eases even briefly, and overwhelmed when you're reminded of its permanence. That tension itself is exhausting.  \n\nI wonder if we could explore what your brother might say about that guilt? Do you think he'd want you to suffer endlessly, or might he have wanted something different for you?",
+    "client": "I guess it makes me feel like they've forgotten about him, or that they don't understand how much this still hurts. When I see people happy, it's like a reminder that the world moved on without him, and that makes me feel even more alone. I know that's probably not what they're thinking, but that's how it feels to me.",
+    "therapist": "It sounds like seeing others' happiness brings up painful thoughts about your brother being forgotten and your grief being overlooked. When you notice these thoughts coming up, how do you typically respond to yourself? Do you find yourself challenging these thoughts, or do they feel very true in those moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.42532896995544434,
-    "aro_t": 0.09396970272064209,
-    "text_emotion": "Sad"
+    "val_t": -0.14781808853149414,
+    "aro_t": 0.12473773956298828,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I know my brother wouldn't want me to suffer like this...but that almost makes me feel worse, like I'm betraying him by even considering feeling better. The guilt comes rushing back whenever I have a moment of peace. \n\nIt's hard to imagine what he'd say because he was always the optimistic one, always telling me not to be so hard on myself. But that feels like a different lifetime now.",
-    "therapist": "It sounds like you're holding onto this grief as a way to stay connected to him, even though you know he'd gently challenge that idea. That conflict between what your head knows and what your heart feels must be so draining.  \n\nWhen those moments of peace come, could we try naming them differently—not as betrayal, but as honoring how he cared for you? What might that feel like?",
+    "client": "They feel completely true in the moment - like absolute facts. Later I might realize I'm probably being unfair, but when I'm in those situations, the pain just takes over and all I can think is \"They don't care anymore.\" It's like my brain won't let me consider any other possibility when the grief hits.",
+    "therapist": "I hear how overwhelming and convincing these thoughts feel in those painful moments - grief can make our minds latch onto certain perspectives with such intensity. Would you be willing to explore what might happen if you gently noted these thoughts as \"grief thoughts\" when they arise, before deciding whether they're completely true?",
     "condition": "emotion_text_only",
-    "val_t": -0.3201786279678345,
-    "aro_t": 0.10178816318511963,
-    "text_emotion": "Sad"
+    "val_t": -0.2832651138305664,
+    "aro_t": 0.1308807134628296,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about honoring him instead of feeling guilty, but it's just...when I have those peaceful moments, it almost feels like I'm forgetting him. Like if I stop hurting, it means I didn't love him enough. \n\nThe idea of reframing it sounds nice in theory, but my heart rebels against it. Isn't the pain proof that he mattered?",
-    "therapist": "You're describing something so human—this fear that easing pain might mean diminishing love, when in truth your grief is this deep precisely because your love is too. That rebellion in your heart? That's love protesting against the idea it could ever be measured by suffering.  \n\nWhat if we tried something small: next time a peaceful moment comes, could you whisper to yourself, \"This doesn't erase you\"—just to test how that lands?",
+    "client": "I don't know... labeling them as \"grief thoughts\" seems like it would just make me feel worse, like I'm crazy for having these reactions. But maybe it would help to not get so caught up in them? It's just hard to imagine anything making this pain easier to carry.",
+    "therapist": "I can hear the hesitation in your voice - it makes sense to worry that labeling these thoughts might amplify them rather than help. Let's go slowly with this; when the grief feels heaviest, what's one small way you could create just a bit of space between yourself and those painful thoughts?",
     "condition": "emotion_text_only",
-    "val_t": -0.06361925601959229,
-    "aro_t": 0.07198941707611084,
-    "text_emotion": "Neutral"
+    "val_t": -0.3085108995437622,
+    "aro_t": 0.08295762538909912,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it feels... wrong somehow to have peaceful moments when they're gone. Like if I'm not hurting, it means I didn't love them enough. That whisper feels like I'd be pretending everything's okay when it's not. \n\nI tried something like that before—when I caught myself laughing at a show—and immediately felt so guilty I had to turn it off. How is this different?",
-    "therapist": "I hear how deeply this belief is holding on—that pain equals love, and peace equals forgetting. That immediate guilt when you laughed shows how automatic this punishing pattern has become.  \n\nWhat if we think of it not as pretending things are okay, but as making space for *all* of it—the love, the grief, and even moments where life insists on breaking through? Would that feel more honest to your experience?",
+    "client": "I don't know... maybe I could try taking a few deep breaths when those thoughts come up? But honestly, it feels like trying to hold back an ocean with a teaspoon. The pain just feels too big to create any space from it. And sometimes it feels wrong to try to create distance, like I'm betraying my brother's memory.",
+    "therapist": "It sounds like you're holding two important truths here - the sense that the pain feels overwhelming, and also the deep care you have for honoring your brother's memory. That metaphor about the ocean shows how huge this grief feels. I wonder, what would it be like to think of those breaths not as holding back the ocean, but as creating a moment to remember him with love before the next wave comes?",
     "condition": "emotion_text_only",
-    "val_t": -0.11324763298034668,
-    "aro_t": 0.19176256656646729,
+    "val_t": -0.3145962953567505,
+    "aro_t": 0.13055312633514404,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about making space for all of it, but it still feels wrong when I have a good moment. Like if I'm not constantly carrying the grief, I'm betraying their memory or something. The guilt just rushes in so fast—it's exhausting trying to fight it every time. \n\nIt's hard to imagine holding both happiness and grief at the same time without feeling like I'm cheating one or the other.",
-    "therapist": "You're describing such a human struggle—feeling torn between honoring your loss and allowing yourself to experience life's natural ups and downs. That exhaustion tells me how much energy it takes to constantly fight against moments of lightness.  \n\nWhat if we tried thinking of grief not as something you need to carry every moment, but as something that flows—sometimes heavier, sometimes lighter—while your love remains steady? How does that idea land with you?",
+    "client": "That... actually feels different. Maybe the breaths wouldn't be pushing the pain away, just making room to miss him properly without drowning in it. But sometimes I worry that if the pain lessens even a little, it means I'm forgetting him.",
+    "therapist": "I hear that important distinction you're making - that creating space isn't about forgetting him, but about finding a way to hold your love for him without being overwhelmed. That worry about forgetting is so understandable - could we explore what remembering him lovingly looks like to you, separate from the pain?",
     "condition": "emotion_text_only",
-    "val_t": -0.3238781690597534,
-    "aro_t": 0.20954465866088867,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I like the idea of grief flowing instead of being constant, but it also makes me feel guilty. If I have moments where I don't feel the weight of it, it's like I'm forgetting or betraying them. The love stays, but shouldn't the pain stay too? \n\nIt's hard to imagine allowing myself those lighter moments without feeling like I'm doing something wrong. Like I'm supposed to keep carrying this heavy weight to prove how much I cared.",
-    "therapist": "I hear how deeply this belief is rooted—that enduring pain is the only way to honor your love. That \"should\" you're carrying feels like a heavy duty, one that insists grief must be constant to be valid.  \n\nWhat would it feel like to gently challenge that belief? If someone you loved were grieving, would you want them to suffer endlessly to prove their care?",
-    "condition": "emotion_text_only",
-    "val_t": -0.30328917503356934,
-    "aro_t": 0.06982970237731934,
+    "val_t": -0.1841139793395996,
+    "aro_t": 0.047843098640441895,
     "text_emotion": "Sad"
   },
   {
-    "turn": 9,
-    "client": "Honestly, the idea of not feeling constant grief makes me uneasy. It’s like if I stop hurting, I’m betraying them or forgetting them. I know logically that I wouldn’t want someone else to suffer endlessly, but when it comes to me, it feels different—like I owe it to them. I’m not sure how to let go of that without feeling like I’m letting them down.",
-    "therapist": "That sense of \"owing\" them your pain speaks to how deep your love runs—it's almost like you're keeping vigil through your grief. Yet I wonder if holding on so tightly to the hurt might actually be keeping you from honoring them in ways that feel more alive?  \n\nWhat small step could we take toward making room for both—the love that remains, and the possibility that joy doesn't diminish it? Maybe starting with just noticing when that \"owing\" feeling arises, without judgment?",
+    "turn": 8,
+    "client": "I try looking at old photos sometimes, but it just makes me cry. I want to remember him laughing and telling jokes, but all I can think about is how he's gone. Even happy memories hurt right now. I don't know how to separate the love from the pain when everything reminds me of what I've lost.",
+    "therapist": "It sounds like even the happy memories feel wrapped in pain right now - as if every reminder brings both love and loss at the same time. That tension between wanting to remember him and the hurt that comes with it must feel so difficult to navigate. What might it be like to approach one memory at a time, noticing both the love and the pain it holds, without trying to separate them just yet?",
     "condition": "emotion_text_only",
-    "val_t": -0.26951396465301514,
-    "aro_t": 0.12240457534790039,
+    "val_t": -0.26291418075561523,
+    "aro_t": 0.14875471591949463,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "Maybe I could try with one small memory - like how he used to make terrible pancakes every Sunday. I still smile thinking about how he'd burn them every time. But then my chest just aches because I'll never eat his burnt pancakes again. It's so hard to hold both feelings at once - the smile and the ache.",
+    "therapist": "That burnt pancake memory sounds so special - it's beautiful that you're able to smile remembering his Sunday rituals, even with the ache that follows. Holding both the warmth and the loss must feel bittersweet - how does it feel to share that memory now, allowing yourself to experience both the smile and the ache together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.11155307292938232,
+    "aro_t": 0.1732708215713501,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it feels like if I let go of the pain even a little, I'm betraying their memory. When I try to notice that \"owing\" feeling, it just makes me feel guilty for even considering moving on. \n\nThe idea of making room for joy sounds nice in theory, but it's like my brain keeps shouting that happiness would mean I didn't love them enough. Does that make sense? It's not that simple for me.",
-    "therapist": "That internal shout—\"If you're happy, you didn't love enough\"—must feel so loud and convincing in these moments. It makes complete sense that this isn't simple, because grief and love are tangled together in ways that defy logic.  \n\nWhat if we tried something different? Instead of pushing toward joy right now, could we simply notice when that critical voice arises, and name it for what it is: not truth, but *protection*—a misguided attempt to safeguard your love? How does that sit with you?",
+    "client": "It feels... complicated. The smile comes easier when I talk about it with you, but then I immediately feel guilty for not feeling worse. Like if I'm not in constant pain, I'm not loving him enough. I don't know how to make peace with that.",
+    "therapist": "I hear how complicated these feelings are - the moments of warmth mixed with guilt about not feeling enough pain. It sounds like you're carrying this belief that your love for him needs to hurt all the time. I wonder if we could explore what \"enough\" love looks like to you - does it need to be painful to be real?",
     "condition": "emotion_text_only",
-    "val_t": -0.07851076126098633,
-    "aro_t": 0.16798317432403564,
+    "val_t": -0.21953880786895752,
+    "aro_t": 0.14394235610961914,
     "text_emotion": "Angry"
   }
 ]

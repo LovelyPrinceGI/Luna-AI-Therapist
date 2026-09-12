@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my mom passed away. All my friends were supportive at first, but now they act like everything's back to normal while I still feel completely lost. I don't know how to talk to them about it anymore - they either change the subject or give me these pitying looks that just make me feel worse.",
-    "therapist": "I hear how painful this is for you—grieving while feeling like others have moved on when you're still hurting so deeply. It makes sense you'd feel lost when the people around you don't seem to understand your ongoing need for support. What do you wish your friends could understand about what you're going through right now?",
+    "client": "Lately I've been feeling really distant from my friends, even though I know they're trying to be supportive. It's been six months since my mom passed, but when they talk about getting together or going out, it just makes me angry - like they've already forgotten how much I'm hurting. I don't know if talking about this will help when the pain just feels so... permanent.",
+    "therapist": "I hear how deeply you're hurting, and it makes sense that you'd feel distant when others don't seem to fully grasp the weight of your grief. Have you noticed any particular thoughts that come up when friends suggest spending time together?",
     "condition": "baseline",
-    "val_t": -0.4249361753463745,
-    "aro_t": 0.1418076753616333,
+    "val_t": -0.4475926160812378,
+    "aro_t": 0.12457156181335449,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I wish they could understand that grief doesn't just disappear after the funeral. It's been six months since my mom died, but the pain still hits me out of nowhere sometimes. When they say things like \"shouldn't you be over this by now?\" it makes me feel like I'm grieving wrong.",
-    "therapist": "That must feel so isolating when people imply there's a \"right\" timeline for grief—your feelings are completely valid and natural. It might help to explore what \"grieving wrong\" means to you—where do you think that belief comes from?",
+    "client": "Yeah, I keep thinking \"they just don't get it\" when they invite me places. Like if they really understood, they wouldn't be acting so... normal? It's like my whole world stopped but theirs just kept going. That's what makes me so angry - how can they just move on like nothing happened?",
+    "therapist": "It sounds like there's a real disconnect between your experience and how you perceive theirs, which must feel incredibly isolating. I wonder if part of the anger comes from wishing they could better understand this profound shift in your life? What do you imagine it would feel like if they acknowledged that your world has changed in a way theirs hasn't?",
     "condition": "baseline",
-    "val_t": -0.40787410736083984,
-    "aro_t": 0.18088066577911377,
+    "val_t": -0.28036177158355713,
+    "aro_t": 0.2642543315887451,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I think that belief comes from seeing other people move on so quickly after losses while I'm still stuck. My sister went back to work two weeks after our mom died, but I can barely get out of bed some days. It makes me feel like I'm failing at grieving properly, even though logically I know everyone's different. \n\nThe idea of exploring what \"grieving wrong\" means sounds exhausting—like I'd just be beating myself up more about how I'm handling this. Why does everything have to be analyzed so much?",
-    "therapist": "I hear your frustration—it sounds like you're tired of feeling like your grief needs to be examined when you're already carrying so much pain. It might be more helpful to simply acknowledge that your experience is uniquely yours, without needing to compare or analyze it. What would feel supportive to you right now, rather than more self-reflection?",
+    "client": "I guess if they acknowledged it more openly, I wouldn't feel so alone in this. But part of me thinks even if they did, it wouldn't change how empty everything feels now. It's like... their words wouldn't bring her back, so what's the point of them trying?",
+    "therapist": "That deep sense of emptiness and longing is so valid—no words can fill the space your mom left, and that reality is incredibly painful to sit with. I hear you wrestling with two truths: wanting connection while also feeling like nothing can truly help right now—what's that tension like for you in this moment?",
     "condition": "baseline",
-    "val_t": -0.27667975425720215,
-    "aro_t": 0.208884596824646,
+    "val_t": -0.16272425651550293,
+    "aro_t": 0.07672274112701416,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess I just wish someone could sit with me in this pain instead of always trying to fix it or make me see it differently. When people suggest I \"process\" my grief, it makes me feel like there's something wrong with how I'm feeling it naturally. \n\nWhat would feel supportive? Maybe just not having to explain myself for once. Like if someone could just say \"this really sucks\" instead of handing me coping strategies.",
-    "therapist": "That's such an important insight—sometimes grief just needs to be witnessed, not \"fixed.\" You're describing a deep human need to have your pain acknowledged exactly as it is, without solutions or silver linings. Would it feel right if we practiced simply being present with these feelings together for a moment?",
+    "client": "It's exhausting, honestly. One minute I'm craving someone to just sit with me in this pain, and the next I'm pushing everyone away because their presence just reminds me that no one will ever understand like she did. It feels like I'm stuck between wanting comfort and rejecting it at the same time.",
+    "therapist": "That push-and-pull makes so much sense—you're yearning for the kind of understanding only your mom could provide, while also needing human connection in your grief. How does it feel when you notice yourself caught in that cycle between reaching out and withdrawing?",
     "condition": "baseline",
-    "val_t": -0.29153597354888916,
-    "aro_t": 0.09538626670837402,
-    "text_emotion": "Sad"
+    "val_t": -0.31633079051971436,
+    "aro_t": 0.28381264209747314,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you’re acknowledging my grief just as it is—it does feel validating. But honestly, sitting with these feelings feels really overwhelming right now. Part of me worries that if I let myself feel it fully, I might just drown in it or get stuck there. I don’t know if I’m ready for that.",
-    "therapist": "It makes complete sense that fully feeling your grief feels overwhelming—that protective part of you is trying to keep you from being swallowed by the pain. Would it feel safer if we explored small ways to be with these feelings, like dipping your toes in rather than diving in?",
+    "client": "It makes me feel even more alone, honestly. Like I'm failing at grief because I can't just pick one way to be - either fully open or fully closed off. And then I get mad at myself for being so inconsistent with people who are trying to care.",
+    "therapist": "It sounds like you're holding yourself to really high expectations about how grief \"should\" look, when in reality, it's often messy and inconsistent—and that's completely okay. What might it feel like to offer yourself the same compassion you'd give a friend going through this?",
     "condition": "baseline",
-    "val_t": -0.13807761669158936,
-    "aro_t": 0.2615327835083008,
-    "text_emotion": "Angry"
+    "val_t": -0.443243145942688,
+    "aro_t": 0.15436482429504395,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I guess that makes sense, but even small steps feel scary. What if I start crying and can't stop? I've been keeping it all locked away for so long because I'm afraid of completely falling apart. The idea of \"dipping my toes in\" still makes me feel like I'm losing control.",
-    "therapist": "That fear of losing control makes so much sense—you've been holding this pain at arm's length to protect yourself, and the idea of opening the door even slightly feels risky. What if we thought about this as creating a safe container for your grief, where you could decide exactly how much to let out and when?",
+    "client": "I don't know if I can be that gentle with myself. When I imagine a friend going through this, of course I'd tell them to take all the time they need. But for me? It feels weak to need that much time. Like I should be stronger by now.",
+    "therapist": "That difference in standards you're holding for yourself versus others is so telling—it sounds like you're carrying an extra layer of pain through self-judgment. Where do you think that belief comes from, that grief should have an expiration date when it comes to your own healing?",
     "condition": "baseline",
-    "val_t": -0.30944669246673584,
-    "aro_t": 0.2742784023284912,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I take a deep breath, feeling the weight of the therapist's words sink in. The idea of creating a safe space for my grief both comforts and terrifies me—comfort in the thought of not having to hold it all alone, but fear of losing control if I let any of it out.  \n\nIf the therapist suggests journaling as a way to start, I might say, \"The thought of writing about this pain makes my chest tighten—what if putting it on paper makes it too real, too permanent?\"  \n\nBut I stay with this same struggle, not shifting to a new one. The fear of opening up even a little still feels overwhelming.  \n\n*I keep the focus on this specific grief and control issue, not introducing a different major life problem.*",
-    "therapist": "I hear how conflicted you feel—the comfort of not holding this alone, but the fear of what might happen if you begin to let it out. That tightness in your chest shows how protective your body is being, trying to keep you safe from something that feels so big and overwhelming. What if we started even smaller than journaling—maybe just naming one feeling you're carrying right now, without needing to explore it further?",
-    "condition": "baseline",
-    "val_t": -0.2327709197998047,
-    "aro_t": 0.1287769079208374,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "The client takes a shaky breath, fingers twisting in the fabric of their shirt. The therapist's words make the tightness in their chest feel both seen and terrifying—like a fragile thread they're afraid to pull, in case everything unravels. They manage a small, uncertain nod, but the thought of naming even one feeling out loud makes their throat close up with the weight of it.  \n\n(2-3 sentences describing the client's thoughts/feelings in this moment)  \n\nThe therapist's suggestion to start smaller than journaling—maybe just naming a feeling without exploring it further—makes the client's stomach knot. They want to trust the therapist's guidance, but the idea of speaking any part of this aloud makes their body recoil, as if their very survival depends on keeping it locked away.  \n\n(If the therapist gives advice, the client can question it, express doubts, or explain why it feels difficult—while staying within the same assigned life problem scenario)  \n\nImportant:  \n- The dialogue must stay within the same assigned life problem (e.g., trauma, grief, etc.)  \n- Do not switch to a new major life problem mid-conversation",
-    "therapist": "I see how much courage it's taking just to sit with this moment—your body is reacting so strongly because it's trying to protect you from pain that feels too big to touch. That recoil makes complete sense when grief has felt like something that could overwhelm you entirely. Would it feel safer if we simply noticed that resistance together, without pushing you to name anything yet?",
-    "condition": "baseline",
-    "val_t": -0.03088510036468506,
-    "aro_t": 0.08950412273406982,
+    "val_t": -0.06410574913024902,
+    "aro_t": 0.11213850975036621,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 9,
-    "client": "I appreciate you saying that, but honestly it just makes me feel more frustrated with myself. My body reacts so strongly to small things, and I hate that I can't control it. It's like I'm broken because normal life feels so overwhelming.",
-    "therapist": "It sounds like you're feeling frustrated with these intense reactions—like your body is working against you when you just want to feel \"normal\" again. That self-judgment must add another layer of heaviness to what you're already carrying. Could we explore what \"normal\" would look like for you right now, even if it feels out of reach?",
+    "turn": 7,
+    "client": "I guess it comes from feeling like I'm supposed to be \"functional\" again—like I'm letting people down by not bouncing back. Everyone keeps asking when I'll feel normal again, and their questions make me feel like I'm taking too long... even though I know grief doesn't just stop on a schedule.",
+    "therapist": "It makes so much sense that others' expectations would make this even harder—you're already carrying the grief, and now there's this pressure to perform recovery too. I wonder what it might feel like to gently challenge the idea that being \"functional\" means needing less time to grieve?",
     "condition": "baseline",
-    "val_t": -0.2782444953918457,
-    "aro_t": 0.32704269886016846,
+    "val_t": -0.20338964462280273,
+    "aro_t": 0.08372724056243896,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "It feels impossible to untangle those two things. Like if I accept needing more time, I'm admitting I'll never really be okay again. I think part of me is afraid that if I stop performing \"better,\" people will stop checking in altogether, and then I'll be completely alone with this.",
+    "therapist": "That fear of being abandoned in your grief is so understandable—it sounds like you're caught between protecting yourself and risking deeper connection. What would it be like to share even a small piece of this worry with someone you trust?",
+    "condition": "baseline",
+    "val_t": -0.2673991918563843,
+    "aro_t": 0.14693903923034668,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 9,
+    "client": "I think about telling my best friend this sometimes, but then I chicken out because what if it makes things awkward? What if she doesn't know what to say and then just... stops calling? The risk feels too big when I'm barely holding it together as it is.",
+    "therapist": "It sounds like there's a lot at stake for you in sharing this—you're already feeling vulnerable, and the fear of losing that connection if she doesn't respond \"right\" is so real. I wonder if there might be a middle ground, like sharing just a small piece of this with her and seeing how she responds?",
+    "condition": "baseline",
+    "val_t": -0.26686620712280273,
+    "aro_t": 0.1334165334701538,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Yeah, I don't even know what \"normal\" would look like anymore. That's part of the problem - I keep comparing myself to how I used to be before all this anxiety started, and it just makes me feel worse. Like I'm failing at being my own self. \n\nThe more I try to force myself back to that old version of me, the more my body reacts with panic. It's like my mind and body are in this constant battle, and I'm exhausted from it.",
-    "therapist": "I hear how exhausting this battle feels—your mind longing for the \"old you\" while your body keeps sounding alarms that make that impossible to reach. That push-pull must be draining. What if we thought about this not as \"failing\" at being yourself, but as your body trying to communicate needs that your old coping strategies can't meet anymore?",
+    "client": "I guess I could try... but even the thought of bringing it up makes my stomach twist. What if I open up and she doesn't know what to say? Or worse, what if she tries to fix it with some platitude like \"time heals all wounds\"? That just makes me feel even more misunderstood.",
+    "therapist": "That fear of being met with clichés instead of real understanding is completely valid—it sounds like you're craving responses that truly honor the depth of your pain. I wonder if it might help to share what kind of support you're actually hoping for from her? For example, letting her know you don't need fixing—just someone to listen without solutions?",
     "condition": "baseline",
-    "val_t": -0.36055660247802734,
-    "aro_t": 0.29449260234832764,
+    "val_t": -0.29430246353149414,
+    "aro_t": 0.15820097923278809,
     "text_emotion": "Angry"
   }
 ]

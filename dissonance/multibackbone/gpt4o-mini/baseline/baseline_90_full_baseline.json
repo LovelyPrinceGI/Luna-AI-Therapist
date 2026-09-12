@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been really struggling since my mom passed away from cancer last year. It feels like I can't concentrate on anything at work, and I'm often overwhelmed by this deep sense of grief. I'm not sure if talking about it in therapy will actually help me find a way to cope.",
-    "therapist": "I'm so sorry to hear about your mom's passing; that kind of loss can feel incredibly heavy and isolating. It's completely understandable to struggle with concentration and to feel overwhelmed in the wake of such grief. What are some thoughts or feelings that come up for you when you think about sharing your experiences in therapy?",
+    "client": "I've been really struggling since my mom passed away last year. It feels like grief is just hanging over me all the time, making it hard to focus on work or anything else. I often feel overwhelmed, and sometimes I wonder if therapy can actually help me deal with all this.",
+    "therapist": "I’m really sorry to hear about your mom's passing; it's completely understandable that you're feeling overwhelmed by your grief. It's important to remember that healing takes time, and therapy can provide a supportive space to explore those feelings and find ways to cope. What do you think would be most helpful for you to focus on in our sessions?",
     "condition": "baseline",
-    "val_t": -0.3883579969406128,
-    "aro_t": 0.12708747386932373,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "Thank you for your understanding, Luna. When I think about sharing my experiences, I feel a mix of sadness and anxiety. I worry that my feelings might be too heavy for others to handle, and I'm not sure if talking about it will really help me. Sometimes, I just feel like I’m stuck in my grief, and I don’t know how to move forward.",
-    "therapist": "It's completely natural to feel sadness and anxiety when considering sharing such deep emotions, especially regarding something as significant as your mom’s passing. Your concern about burdening others is valid, but remember that your feelings are important and deserve to be heard. What small step could you take that might help you feel a bit more comfortable sharing your experiences?",
-    "condition": "baseline",
-    "val_t": -0.17968833446502686,
-    "aro_t": 0.14217472076416016,
+    "val_t": -0.4201219081878662,
+    "aro_t": 0.1781378984451294,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I appreciate you saying that my feelings are important, but it feels so overwhelming to even think about sharing them. I worry that if I open up, it might just make everything worse, not just for me but for the people I'm talking to. I'm not sure what kind of small step I could take; everything feels so heavy right now.",
-    "therapist": "It’s understandable to feel overwhelmed at the thought of opening up, especially when you’re carrying such a heavy emotional load. It’s okay to take your time; even small steps can be just about acknowledging your feelings to yourself or writing them down. Would it feel manageable to try jotting down some thoughts or emotions when they arise, just for yourself?",
+    "turn": 2,
+    "client": "I appreciate your kind words, but I still feel a bit skeptical about how talking can really help. Sometimes it just feels like I'm stuck in this fog, and I don't know where to even start. I guess I just want to feel normal again, but it seems so far away right now.",
+    "therapist": "It's completely natural to feel skeptical about the process, especially when you're in such a heavy emotional space. That fog can feel suffocating, and wanting to feel \"normal\" again is a valid desire. Perhaps we can start by exploring what “normal” means to you and what small steps might help you feel a little more grounded. What do you think might be a manageable way to begin that exploration?",
     "condition": "baseline",
-    "val_t": -0.1550281047821045,
-    "aro_t": 0.189550518989563,
+    "val_t": -0.08766937255859375,
+    "aro_t": 0.0640941858291626,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I guess exploring what \"normal\" means to me could be a good start, but honestly, I'm not sure if I even remember what that feels like anymore. It feels like everything has changed since my mom passed, and trying to think about small steps feels overwhelming. I worry that I might just end up feeling more frustrated if I can't figure it out.",
+    "therapist": "It makes sense that everything feels different since your mom's passing, and it's okay to feel uncertain about what “normal” looks like now. It's perfectly valid to worry about feeling frustrated, but we can take it one small step at a time, focusing on what feels manageable for you. Would it help to identify just one small aspect of your daily life that you used to enjoy or find comfort in, and see if there's a way to gently reintroduce it?",
+    "condition": "baseline",
+    "val_t": -0.25106942653656006,
+    "aro_t": 0.21872198581695557,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that you're suggesting small steps, but honestly, I feel a bit skeptical about writing things down. I worry that if I start writing my thoughts, it might just make me feel more overwhelmed or expose feelings I’m not ready to handle. Plus, I often forget to take the time for myself in the rush of daily life; it feels hard to carve out that space.",
-    "therapist": "It's completely understandable to feel skeptical about writing things down, especially if you're concerned it might intensify your emotions. Acknowledging that you sometimes forget to take time for yourself is an important insight; self-care can be challenging amidst daily responsibilities. What might it look like for you to carve out even a few moments in your day for yourself, perhaps in a way that feels safe and manageable?",
+    "client": "I see what you're saying, but honestly, I'm having a hard time thinking of something I used to enjoy. Everything feels so heavy, and I can't even remember the last time I felt happy doing something. It just feels like a lot of pressure to try to reintroduce something when I'm still grappling with this loss.",
+    "therapist": "It's completely understandable to feel that way, especially when you're navigating such deep grief. The pressure to feel happy or to engage in things you once enjoyed can be overwhelming, and it's okay to take a step back from that expectation for now. Perhaps we can focus on simply acknowledging your feelings and exploring what small moments of relief look like, even if they don't involve activities you used to enjoy. What are some small things you might do that could bring a bit of comfort, even if they seem minor?",
     "condition": "baseline",
-    "val_t": -0.09200263023376465,
-    "aro_t": 0.09530234336853027,
-    "text_emotion": "Neutral"
+    "val_t": -0.1860358715057373,
+    "aro_t": 0.1814495325088501,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you’re saying about self-care being important, but honestly, it feels so overwhelming to even think about carving out time for myself. My days are packed with work and obligations, and I struggle to find those moments without feeling guilty for not being productive. It just seems hard to prioritize myself when there’s always something else that needs to be done.",
-    "therapist": "It sounds like you’re feeling a lot of pressure to be productive, which can make it really challenging to prioritize your own well-being. It’s normal to feel guilt when considering taking time for yourself, especially in a busy life. What might be a small, gentle way to shift that perspective, perhaps by acknowledging that taking care of yourself can actually help you be more effective in other areas?",
+    "client": "I appreciate that you're trying to help me find comfort in small things, but I'm struggling to think of anything. Even simple things like going for a walk or reading a book feel unappealing right now. It’s like I’m just stuck in this heaviness, and I worry that even the smallest efforts might feel pointless.",
+    "therapist": "It’s completely valid to feel that heaviness, and it’s okay if even small efforts seem unappealing right now. Grief can make everything feel overwhelming, and it’s important to honor where you are in this moment. Instead of focusing on doing anything, how about we take a moment to simply sit with those feelings and explore what they’re telling you? What do you think might happen if we allowed ourselves to acknowledge that heaviness without the pressure to change it?",
     "condition": "baseline",
-    "val_t": -0.19270312786102295,
-    "aro_t": 0.0998917818069458,
+    "val_t": -0.20654404163360596,
+    "aro_t": 0.13245844841003418,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about the pressure to be productive, and I often feel like I need to justify taking time for myself. Honestly, I struggle with the idea that self-care could really make me more effective—I feel like it just adds to my guilt. If I take a break, I worry I'll fall behind or that I'll be seen as lazy, and that makes it hard to even think about shifting my perspective.",
-    "therapist": "It sounds like you’re grappling with a lot of conflicting feelings about self-care and productivity. It's understandable to fear that taking a break might lead to falling behind, especially when societal pressures can make us feel guilty for prioritizing ourselves. What if we explored some ways to redefine what productivity means for you, perhaps considering that taking care of your emotional well-being is actually an essential part of being effective in the long run?",
+    "client": "I think sitting with the heaviness could be a different approach, but I’m also worried that it might just make me feel worse. Sometimes I think about how I should be moving forward and not just dwelling in these feelings. It’s hard to let go of that pressure, and I’m afraid if I sit with it too long, I’ll get stuck even more.",
+    "therapist": "It's completely understandable to feel that tension between wanting to move forward and the fear of getting stuck in your feelings. Allowing yourself to sit with the heaviness doesn't mean you have to dwell in it indefinitely; it can actually be a way to honor your grief and understand it better. What if we approached this as a temporary practice, where you give yourself permission to feel these emotions for a short time, knowing that it’s a step toward healing rather than a place to get trapped? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.25743257999420166,
-    "aro_t": 0.04049253463745117,
+    "val_t": -0.29966866970062256,
+    "aro_t": 0.012563109397888184,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, but it feels really hard to shift my mindset on productivity. I always equate being productive with being busy and achieving things, and taking a break just feels like I'm not doing enough. It makes me anxious to think about redefining that because I worry it’ll lead to even more guilt if I don’t meet my own expectations.",
-    "therapist": "It's completely understandable to feel anxious about redefining productivity, especially when you’ve associated it with busyness and achievement for so long. It can feel risky to challenge those expectations, but recognizing that your well-being is also a priority is an important step. What if you allowed yourself to experiment with the idea that rest can be a part of being productive, even if it feels uncomfortable at first?",
+    "client": "I see what you're saying about it being a temporary practice, and I appreciate that perspective. It does feel a bit less daunting when I think of it that way. But I still worry about opening up those feelings too much; what if it just feels like I'm drowning in them? Letting myself feel this heaviness sounds risky, and I’m not sure I’m ready for that.",
+    "therapist": "It’s completely okay to feel cautious about opening up those feelings, especially when they seem so overwhelming. Acknowledging that risk shows a lot of insight, and it’s important to move at a pace that feels safe for you. Perhaps we can explore ways to gently dip into those feelings without feeling like you’re diving in headfirst—like setting a timer for just a few minutes to acknowledge the heaviness and then shifting focus to something comforting afterward. How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.2537233829498291,
-    "aro_t": 0.03283977508544922,
-    "text_emotion": "Sad"
+    "val_t": -0.12117767333984375,
+    "aro_t": 0.1789001226425171,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about redefining productivity, but it feels like such a big shift for me. I've always seen rest as something I earn after being busy, not something that’s part of being productive. I'm worried that if I start prioritizing rest, I might just end up feeling guilty for not doing enough.",
-    "therapist": "It’s completely valid to feel that shift is daunting, especially when you’ve always viewed rest as something to earn rather than a necessity. Acknowledging that guilt can arise when you start prioritizing rest is an important insight, and it’s okay to take small steps toward redefining that relationship. What if you tried to think of rest as a way to recharge, allowing you to engage more fully in what you care about, rather than seeing it as a reward?",
+    "client": "That approach does sound a bit more manageable, I suppose. I like the idea of having a time limit because it feels less overwhelming, but I still worry that even a few minutes might be too much. I guess I just don’t know how to handle those feelings if they start to feel too intense, and I’m afraid of what might come up.",
+    "therapist": "It’s completely valid to have concerns about how intense those feelings might become, and acknowledging that fear is an important step. It might help to create a little safety plan for those moments—like having a comforting object nearby, or a soothing activity you can turn to if the feelings do start to feel too much. Knowing you have a way to ground yourself can provide some reassurance as you explore this. What do you think would help you feel more secure as you try this new approach?",
     "condition": "baseline",
-    "val_t": -0.18409502506256104,
-    "aro_t": 0.025178074836730957,
-    "text_emotion": "Sad"
+    "val_t": -0.07941341400146484,
+    "aro_t": 0.083443284034729,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you’re saying about rest being a way to recharge, but honestly, it feels so foreign to me. I've always been taught to work hard first and then take breaks, so this idea of seeing rest as a necessity just feels off. It’s hard to shake off that guilt, and I worry that if I start prioritizing rest, I’ll fall into a pattern of not being productive at all.",
-    "therapist": "It makes sense that this idea of viewing rest as a necessity feels foreign, especially if you’ve been conditioned to see it as something that comes after hard work. The fear of falling into unproductivity is a common concern, and it’s okay to feel conflicted about this change. What if you allowed yourself to experiment with small, intentional moments of rest without fully committing to a larger shift just yet? How might that feel for you?",
+    "client": "I think having a safety plan could be helpful, but I’m still unsure about what that would look like for me. It feels almost strange to think about having a comforting object or activity when I’m in such a heavy emotional state. I worry that I might not be able to focus on anything else if the feelings become too intense, and I’m not sure how to prepare for that.",
+    "therapist": "It’s understandable to feel uncertain about how to create a safety plan when emotions are so intense. It’s okay to start small; perhaps we can think about what has brought you a sense of calm or comfort in the past, even if it feels distant right now. It doesn’t have to be a big or elaborate thing—maybe something as simple as a favorite blanket, a song, or even a specific breathing technique could help. What do you think might feel like a gentle anchor for you in those moments?",
     "condition": "baseline",
-    "val_t": -0.2186955213546753,
-    "aro_t": 0.0038661956787109375,
-    "text_emotion": "Sad"
+    "val_t": -0.1074059009552002,
+    "aro_t": 0.1227273941040039,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate what you're saying, but the idea of even small moments of rest feels really daunting to me. I worry that if I start taking breaks, I might not want to go back to being productive, and that scares me. It's like I'm constantly battling this voice that tells me I need to be busy to be valuable.",
-    "therapist": "It sounds like that inner voice is quite powerful, creating a real struggle between wanting to rest and feeling the need to be busy to prove your value. It’s completely understandable to feel scared about how taking breaks might affect your productivity. What if you considered that your worth isn’t solely tied to being busy, and that giving yourself permission to rest could actually enhance your value in the long run? What small, low-pressure way could you explore this idea?",
+    "client": "I can see how something simple could be helpful, but it’s hard for me to think of anything right now that feels calming. Maybe a favorite blanket could work, but I’m not sure it will really help when those feelings hit hard. I just get so engulfed by the sadness that I can’t imagine anything being enough to pull me out of it.",
+    "therapist": "It’s completely understandable to feel engulfed by sadness, and it can be hard to believe that something simple like a blanket could offer relief in those moments. It’s okay to start with doubt; sometimes, just having a small, familiar comfort nearby can serve as a gentle reminder that you’re not alone in your feelings. Perhaps we can also explore ways to gradually build a toolkit together, adding more comforting strategies over time. What do you think might be a small step toward creating that toolkit, even if it feels like it’s just a seed of an idea right now?",
     "condition": "baseline",
-    "val_t": -0.15877211093902588,
-    "aro_t": 0.2067807912826538,
+    "val_t": -0.29981207847595215,
+    "aro_t": 0.18681883811950684,
     "text_emotion": "Angry"
   }
 ]

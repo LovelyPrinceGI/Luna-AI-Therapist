@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really anxious lately. Ever since I was laid off from my job at the tech startup last month, I can't stop worrying about my finances and what the future holds for my career. It feels like everything is uncertain, and I’m not sure if I’ll ever find something as fulfilling again.",
-    "therapist": "Hi there, it sounds like you're going through a really tough time right now. It’s completely understandable to feel anxious and uncertain after such a significant change. What are some of the thoughts that come up most often when you worry about your finances and career?",
+    "client": "Hey Luna, I've been really struggling lately. Since I was laid off from my job at the tech startup last month, I can't stop worrying about money and what the future holds for my career. It feels like everything is uncertain, and I'm not sure if I'll ever find a stable job again.",
+    "therapist": "Hi there, I’m really sorry to hear about everything you’re going through. It’s completely understandable to feel worried and uncertain after such a significant change. What specific thoughts have been coming up for you lately that are contributing to these worries?",
     "condition": "emotion_text_only",
-    "val_t": -0.30031466484069824,
-    "aro_t": 0.21254289150238037,
+    "val_t": -0.32596659660339355,
+    "aro_t": 0.17227637767791748,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. When I think about my finances and career, I often feel overwhelmed. I keep worrying about whether I’ll be able to make ends meet and if I’m making the right career choices. It’s hard not to feel like I’m falling behind everyone else.",
-    "therapist": "I can hear how overwhelming and stressful this is for you. It’s natural to have these concerns, especially when facing uncertainty. Can you share more about what it feels like to worry about falling behind, and what thoughts come up when you compare yourself to others?",
+    "client": "Thanks for understanding, Luna. Lately, I keep thinking that I'm not good enough and that no company will ever hire me again. I also worry that I’ve lost my sense of purpose, and it’s hard to see a clear path forward.",
+    "therapist": "It sounds like you’re dealing with some really tough thoughts and feelings right now. It’s natural to doubt yourself and feel a loss of purpose after such a significant setback. Can you think of any evidence that might challenge the idea that you’re not good enough or that no company will hire you again?",
     "condition": "emotion_text_only",
-    "val_t": -0.04101061820983887,
-    "aro_t": 0.12882423400878906,
+    "val_t": -0.13571476936340332,
+    "aro_t": 0.050801753997802734,
     "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "It feels like there's this constant weight on my chest, you know? I can't help but think that everyone else is moving forward while I'm stuck or even going backward. It's hard not to feel like I'm failing, especially when I see others achieving their goals.",
-    "therapist": "It sounds like you’re carrying a heavy burden, and it’s completely understandable to feel that way. It’s tough to see others making progress while you’re facing these challenges. What are some of the specific things that you tell yourself when you feel like you’re falling behind?",
+    "client": "I appreciate you asking, Luna. It’s hard because I do have a lot of experience and skills, and I’ve gotten positive feedback in the past. But now, with so many people looking for jobs, it feels like the competition is just too tough. I don’t think my past successes will matter much right now.",
+    "therapist": "It’s completely understandable to feel that way, given the current job market. It’s important to acknowledge your past successes and the skills you bring to the table. How can we reframe your thoughts to focus on the strengths and experiences that make you a valuable candidate, despite the competition?",
     "condition": "emotion_text_only",
-    "val_t": -0.17477643489837646,
-    "aro_t": 0.17533278465270996,
-    "text_emotion": "Angry"
+    "val_t": 0.02063584327697754,
+    "aro_t": 0.11214840412139893,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I often tell myself that I’m not doing enough, that everyone else is moving forward while I’m stuck. It makes me feel like I’m failing, and that just adds to my anxiety and guilt. It’s hard to break that cycle of negative thinking.",
-    "therapist": "It’s really tough to feel like you’re not measuring up, and those thoughts can definitely fuel anxiety and guilt. It’s important to recognize that everyone’s journey is different, and it’s okay to take your own path, even if it feels slower or different from others. What are some small steps or achievements you’ve made recently that you might be overlooking?",
+    "client": "I see what you mean, Luna, but it’s hard to feel confident when I’m rejected from so many applications. I guess I can try to focus on my strengths, but it feels like a stretch when I’m constantly reminded of my failures. How do I keep from getting discouraged every time I don’t get a call back?",
+    "therapist": "I can really understand how discouraging it must be to face so many rejections. It’s natural to feel a bit shaken, but it’s important to remember that rejection doesn’t reflect your worth or your potential. What are some small steps you can take to help maintain your confidence and resilience, even when the job search feels tough?",
     "condition": "emotion_text_only",
-    "val_t": -0.3988856077194214,
-    "aro_t": 0.10625565052032471,
-    "text_emotion": "Sad"
+    "val_t": -0.19521832466125488,
+    "aro_t": 0.1771833896636963,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, but it's hard to see those small steps sometimes. I feel like I'm constantly falling behind, and it's tough to celebrate the little things when the big picture feels so overwhelming. I mean, I know I should feel proud of the little achievements, but it's just hard to feel that way when I'm so anxious about everything else.",
-    "therapist": "I understand how challenging it is to see the small victories when the bigger picture feels so daunting. It’s okay to acknowledge that it’s hard, and it’s a natural response to feel that way. Can we try to identify some of those small steps or achievements, even if they don’t feel as significant right now? Sometimes, recognizing them can help shift your perspective a bit.",
+    "client": "I appreciate your support, Luna. It’s just hard to find the motivation sometimes. Maybe I could start by setting small, achievable goals each day, like updating my resume or networking with one person. But it’s tough to stay positive when it feels like nothing is working.",
+    "therapist": "I completely understand how challenging it can be to stay motivated, especially when things feel tough. Setting small, achievable goals is a great strategy to help you regain a sense of control and progress. It’s okay to take it one step at a time. How do you think you can reward yourself for achieving these small goals, to help keep your spirits up?",
     "condition": "emotion_text_only",
-    "val_t": -0.04286015033721924,
-    "aro_t": 0.17538762092590332,
-    "text_emotion": "Tense"
+    "val_t": -0.023149728775024414,
+    "aro_t": 0.058608412742614746,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, and I do try to look for those small wins, but it’s really hard when everything feels so overwhelming. It’s like I can see the good things, but they just don’t feel real or significant enough to make a difference. I’m not sure if focusing on them will help me feel better.",
-    "therapist": "I can see how challenging it is to find comfort in small wins when the overall situation feels so overwhelming. It’s completely understandable to struggle with that. Sometimes, even acknowledging the small steps can be a start, even if they don’t feel as significant right now. What do you think might help you feel a bit more grounded or in control, even if just for a moment?",
+    "client": "That’s a good point, Luna. I could treat myself to something small, like a favorite snack or a short walk, after I hit a goal. But it’s hard to feel like these little things will make a big difference when the job search feels so daunting.",
+    "therapist": "It’s completely understandable to feel that way, especially when the job search is so daunting. Celebrating small wins can still make a difference, even if it doesn’t feel like it right away. It’s about building momentum and taking care of yourself along the way. How do you think you can balance acknowledging the difficulty of the situation with finding small moments of joy or accomplishment?",
     "condition": "emotion_text_only",
-    "val_t": -0.08512699604034424,
-    "aro_t": 0.14322245121002197,
-    "text_emotion": "Angry"
+    "val_t": 0.001189112663269043,
+    "aro_t": 0.06058526039123535,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, and I really do try to focus on the small wins, but it's hard when everything else feels so out of control. I guess I could try to find something that grounds me, like a short walk or a few deep breaths, but it’s hard to make myself do those things when I feel so overwhelmed. It’s like I’m stuck in this cycle of anxiety and guilt, and it’s tough to break out of it.",
-    "therapist": "It’s really tough to break out of that cycle of anxiety and guilt, especially when you feel so overwhelmed. I can see how challenging it is to find the motivation to do those grounding activities. Sometimes, even the smallest action can make a difference. What do you think might help you take that first step, even if it’s just a tiny one? Could it be setting a small, manageable goal for yourself, or perhaps reaching out to a friend for support?",
+    "client": "I think you’re right, Luna. It’s about finding a balance. I can try to acknowledge the tough parts of the job search while also looking for small victories. Maybe I can start a gratitude journal to help me focus on the positive things, even if they seem small. But it’s still hard to see the light at the end of the tunnel sometimes.",
+    "therapist": "I’m really glad to hear that you’re considering a gratitude journal—that can be a powerful tool to help shift your focus to the positive, even in small ways. It’s totally normal to still feel uncertain and to have moments where it’s hard to see the light. What are some other strategies or activities that you think might help you stay grounded and positive during this challenging time?",
     "condition": "emotion_text_only",
-    "val_t": -0.28546714782714844,
-    "aro_t": 0.2234259843826294,
-    "text_emotion": "Angry"
+    "val_t": 0.03314673900604248,
+    "aro_t": 0.07310914993286133,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It's just really hard to see the point sometimes, you know? Setting a small goal sounds good in theory, but when I'm feeling so stuck, it's like I can't even decide what that small step should be. And reaching out to a friend? I feel so guilty and like a burden, I worry they won't want to hear from me again.",
-    "therapist": "I can really understand how hard it is to see the point when you’re feeling so stuck and overwhelmed. It’s completely normal to struggle with setting small goals or reaching out to friends when you’re dealing with such heavy emotions. What if we explore some gentle, non-pressuring ways to start breaking that cycle? For example, what’s something you used to enjoy or find a little bit of peace in, even if it’s just a small activity?",
+    "client": "I think mindfulness practices like meditation or deep breathing could help me stay grounded. I’ve tried them before, but it’s hard to make them a regular habit, especially when I’m feeling so anxious and uncertain. I’ll give it a shot, though, and see if it helps me find some calm.",
+    "therapist": "That’s a great idea to try mindfulness practices again. It can be really challenging to make them a regular habit, especially when you’re feeling anxious and uncertain. Starting with just a few minutes a day can make a big difference. How do you think you can create a routine that feels manageable and helps you stay consistent with mindfulness?",
     "condition": "emotion_text_only",
-    "val_t": -0.33130180835723877,
-    "aro_t": 0.1067349910736084,
-    "text_emotion": "Sad"
+    "val_t": 0.011383652687072754,
+    "aro_t": 0.033226609230041504,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you’re trying to help, Luna, but it’s hard for me to think of anything I used to enjoy. Everything just feels so heavy and draining lately. I mean, I used to like reading, but even that feels like too much effort these days.",
-    "therapist": "I completely understand how heavy and draining everything can feel right now. It’s tough when even the things we used to enjoy lose their appeal. Sometimes, just acknowledging that you’re going through a tough time can be a step in the right direction. What do you think might help you feel a little bit lighter, even if just for a moment? It could be something as simple as taking a few deep breaths or finding a quiet spot to sit and reflect.",
+    "client": "I think setting a specific time each day for mindfulness, like right after I wake up or before bed, might help me be more consistent. But I’m a bit worried that I’ll get distracted or lose motivation. It’s hard to stick to new routines when I’m feeling so anxious and uncertain.",
+    "therapist": "It’s really smart to set a specific time for mindfulness, like right after waking up or before bed. That can help create a consistent routine. It’s totally normal to worry about getting distracted or losing motivation, especially when you’re feeling anxious. What do you think might help you stay motivated and on track with your mindfulness practice, even on tough days?",
     "condition": "emotion_text_only",
-    "val_t": -0.01725637912750244,
-    "aro_t": 0.1653122901916504,
-    "text_emotion": "Tense"
+    "val_t": -0.1705867052078247,
+    "aro_t": 0.04861724376678467,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It’s just hard to find those moments of lightness when everything feels so heavy. I’ve tried deep breathing before, but it doesn’t seem to make much of a difference. Maybe I’m just too stuck in my head.",
-    "therapist": "I can hear how challenging it is to find those moments of lightness when everything feels so heavy. It’s okay to feel stuck, and it’s natural for techniques like deep breathing to feel less effective when you’re in a tough emotional space. Sometimes, it can help to try a different approach or even a small change in your environment. What do you think about trying a short, gentle activity that doesn’t require much effort, like listening to a calming piece of music or looking at some nature photos? Sometimes, even a small shift can make a difference.",
+    "client": "I think having a mindfulness buddy or joining a virtual group could help keep me accountable and motivated. But I’m still a bit skeptical about how much it will actually help with my anxiety and job search worries. It’s hard to see how taking a few minutes to breathe will change the bigger picture.",
+    "therapist": "It’s totally understandable to feel skeptical, especially when you’re dealing with such significant worries. Having a mindfulness buddy or joining a virtual group can indeed provide accountability and support, which can make a big difference. Even small moments of calm can help build resilience over time. What do you think might be a small step you can take toward trying this, even if you’re not fully convinced yet?",
     "condition": "emotion_text_only",
-    "val_t": -0.0233687162399292,
-    "aro_t": 0.0764310359954834,
+    "val_t": -0.10359394550323486,
+    "aro_t": 0.10722661018371582,
     "text_emotion": "Neutral"
   }
 ]

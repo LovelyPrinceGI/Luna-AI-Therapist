@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling with family gatherings lately. Ever since my grandmother passed away last month, I just can't seem to enjoy them. All I can think about is how much I miss her, and it’s hard to be around everyone who’s trying to be cheerful.",
-    "therapist": "Hi there, I'm so sorry to hear that you've been struggling with family gatherings. It's completely understandable to feel this way after losing your grandmother; the memories and emotions can be really overwhelming. How have you been coping with these feelings during the gatherings?",
+    "client": "Hi Luna, I've been really struggling lately, especially with family gatherings. Ever since my grandmother passed away last month, I just can't seem to enjoy being around everyone. All I can think about is how much she's missing, and it makes everything feel hollow.",
+    "therapist": "Hi there, I'm so sorry to hear that you're going through this. It’s completely understandable to feel hollow and struggle with family gatherings after losing your grandmother. It sounds like her absence is really impacting your enjoyment of these moments. Can you tell me more about what it feels like when you’re at these gatherings and thinking about her?",
     "condition": "emotion_text_only",
-    "val_t": -0.1973174810409546,
-    "aro_t": 0.14372384548187256,
+    "val_t": -0.2993481159210205,
+    "aro_t": 0.17370164394378662,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, it's been really tough. I try to keep busy with small tasks or excuse myself to be alone, but it doesn't really help. The memories just hit me so hard, and I feel like everyone else is moving on while I'm still stuck.",
-    "therapist": "I can see how challenging this must be for you, especially when you feel like everyone else is moving on. It’s natural to want to keep busy or take a moment alone, but it sounds like those strategies aren’t providing the relief you need. What do you think might help you feel more supported during these gatherings?",
+    "client": "When I'm at these gatherings, I feel this overwhelming sense of loneliness and guilt. I can't help but think about all the times we shared and how she's not there to share in the laughter and stories anymore. It’s like a constant reminder of what I’ve lost, and it makes it hard to connect with everyone else.",
+    "therapist": "It sounds really tough to be in those moments, feeling both the loneliness and the guilt. It’s completely normal to be reminded of all the shared times and to feel a deep sense of loss. How do you usually cope with these feelings when they come up during family gatherings?",
     "condition": "emotion_text_only",
-    "val_t": -0.2344067096710205,
-    "aro_t": 0.14709842205047607,
+    "val_t": -0.3535888195037842,
+    "aro_t": 0.15358209609985352,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you understanding that, Luna. It’s just hard because I feel like I’m the only one struggling in these situations. I’ve tried talking to a few friends, but it doesn’t seem to make much of a difference. I don’t know if there’s something I can do differently or if it’s just the way things are.",
-    "therapist": "I understand how isolating that can feel, especially when you see others seeming to cope more easily. It’s important to remember that everyone processes grief differently and at their own pace. Have you considered expressing your feelings to your family members directly, perhaps sharing how much you miss your grandmother and how it affects you during these gatherings?",
+    "client": "I usually try to keep to myself and just sit quietly, but it doesn’t really help. Sometimes I’ll try to distract myself by looking at my phone or thinking about other things, but it just feels like I’m not really there. I know I should try to participate more, but it’s just so hard.",
+    "therapist": "It sounds like you’re doing the best you can to manage those difficult feelings, even if it feels isolating. Keeping to yourself or using distractions can be ways to cope, but it’s understandable that they might not fully address the emotional weight you’re carrying. What do you think might help you feel more present and connected during these gatherings, even if just a little bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.00783383846282959,
-    "aro_t": 0.08239126205444336,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate that, but I don't think they would understand. It feels like they're all moving on, and I'm the only one stuck. I worry that if I open up, it might just make things more awkward or uncomfortable for everyone.",
-    "therapist": "I can understand your concerns about feeling misunderstood and the fear of making things awkward. It’s natural to worry about how others will react. Have you thought about finding a way to honor your grandmother’s memory during these gatherings, perhaps by sharing a story or a special moment you shared with her? This might also help others understand your feelings and create a more supportive environment.",
-    "condition": "emotion_text_only",
-    "val_t": -0.2275179624557495,
-    "aro_t": 0.07520544528961182,
+    "val_t": -0.16675448417663574,
+    "aro_t": 0.05447065830230713,
     "text_emotion": "Sad"
   },
   {
-    "turn": 5,
-    "client": "I like the idea of honoring her memory, but I'm still worried it might come off as too emotional or make others uncomfortable. It's hard because I want to share, but I also don't want to be the one who always brings up heavy topics. How do I find that balance?",
-    "therapist": "It’s completely understandable to feel that way, and finding the right balance can be tricky. Honoring her memory in a way that feels meaningful to you but also respectful to the tone of the gathering is important. Maybe you could start small, with a light story or a brief mention of something she loved, and gauge the reaction. How do you think that might feel for you?",
+    "turn": 4,
+    "client": "I’ve thought about maybe sharing a story or memory about my grandmother, but I’m worried it might make things more emotional for everyone. I don’t want to bring down the mood or make others feel sad. It’s a delicate balance, and I’m not sure how to navigate it.",
+    "therapist": "It’s totally understandable to be concerned about how sharing a memory might affect the mood. It’s a delicate balance, and you’re showing a lot of consideration for others. At the same time, sharing a memory could also be a way to honor your grandmother and allow others to feel connected to her in a positive way. What do you think might be the benefits and potential downsides of sharing a memory?",
     "condition": "emotion_text_only",
-    "val_t": -0.09581136703491211,
-    "aro_t": 0.05105447769165039,
+    "val_t": -0.1367201805114746,
+    "aro_t": 0.013592362403869629,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I think the benefit could be that it might help me feel closer to my grandmother and maybe even bring a sense of comfort to others who are also missing her. But the downside is that it could make the gathering feel more somber and bring up a lot of painful emotions for everyone, including me. It’s a tough call.",
+    "therapist": "You’re weighing the potential benefits and downsides very thoughtfully. Sharing a memory could indeed bring a sense of closeness and comfort, but it’s also natural to worry about making the gathering more somber. It’s a tough decision, and it’s okay to take your time with it. How do you feel about maybe sharing a lighter, more joyful memory of your grandmother, one that might help uplift everyone while still honoring her?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10074234008789062,
+    "aro_t": 0.03072333335876465,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the suggestion, but I'm still worried it might come off as too somber or out of place. I don't want to make anyone uncomfortable, and I'm not sure I can gauge the reaction well enough to know if it's going in the right direction. It's hard because I want to share something meaningful, but I also don't want to ruin the mood.",
-    "therapist": "I understand your concerns, and it’s natural to worry about the impact of your words on the atmosphere. It’s a delicate balance to strike. Perhaps you could start with a lighter, more positive memory that celebrates her life rather than focusing on the sadness. This way, you can share something meaningful without it feeling too heavy. What kind of memory or story do you think might work well in this context?",
+    "client": "I like the idea of sharing a lighter memory, but I’m still a bit hesitant. I worry that even a joyful memory might bring up a lot of emotions, and I’m not sure if I’m ready to handle that in front of everyone. It’s a step I’m considering, but it feels really challenging.",
+    "therapist": "It’s completely understandable to feel hesitant, especially when you’re worried about how it might affect you and others. Taking that step can be challenging, and it’s okay to take it slowly. What do you think might help you feel more ready to share a lighter memory, even if it’s just a small step?",
     "condition": "emotion_text_only",
-    "val_t": -0.1674443483352661,
-    "aro_t": 0.05799210071563721,
-    "text_emotion": "Sad"
+    "val_t": 0.06554114818572998,
+    "aro_t": 0.20106327533721924,
+    "text_emotion": "Tense"
   },
   {
     "turn": 7,
-    "client": "I see what you mean, but I'm still worried. It's hard because every memory I think of feels so intertwined with the sadness of losing her. I'll try to think of something lighter, but I'm not sure I can find one that feels right.",
-    "therapist": "I can understand how challenging it is to find those lighter memories when the sadness feels so present. It’s okay to take your time and reflect on what feels right for you. Maybe you could start by thinking about a moment or a quality of your grandmother that brings a smile to your face, even if it’s a bittersweet one. How do you feel about trying to focus on those aspects?",
+    "client": "I think it might help if I had a supportive friend or family member there to talk to beforehand, someone who understands how much my grandmother meant to me. Maybe just having that little bit of support could make it easier to open up and share a memory. But it’s still a big step, and I’m not sure if I’m ready for it yet.",
+    "therapist": "It sounds like having a supportive friend or family member to talk to beforehand could provide you with the emotional support you need. That’s a thoughtful idea, and it can make a big difference to have someone who understands your feelings. What do you think about reaching out to someone you trust and see if they can be there for you in that way?",
     "condition": "emotion_text_only",
-    "val_t": -0.16265034675598145,
-    "aro_t": 0.10480141639709473,
-    "text_emotion": "Angry"
+    "val_t": 0.06636857986450195,
+    "aro_t": 0.12125170230865479,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate your understanding, Luna. It's just hard because every time I try to think of those lighter moments, the sadness and guilt about not spending enough time with her overwhelm me. I'm not sure if I can separate those feelings enough to focus on the good memories.",
-    "therapist": "I can hear how deeply you’re feeling this, and it’s completely understandable that the sadness and guilt are overwhelming. It’s natural to have these mixed emotions, especially when we reflect on our relationships with loved ones who are no longer with us. It might help to acknowledge those feelings of guilt and sadness, and then gently shift your focus to the positive moments, even if they’re bittersweet. What do you think might help you feel more at peace with those mixed emotions?",
+    "client": "I really appreciate that suggestion, Luna. It feels like a good idea, but I’m still a bit nervous about it. I don’t want to burden someone else with my feelings, especially when they might be dealing with their own grief. It’s a step I’m considering, but it’s hard to take that first move.",
+    "therapist": "I completely understand your hesitation and the concern about burdening others. It’s natural to worry about how your feelings might affect those around you, especially when they’re also grieving. Taking that first step can be tough, but reaching out for support is a sign of strength. What do you think might help you feel more comfortable about asking for that support?",
     "condition": "emotion_text_only",
-    "val_t": 0.08558762073516846,
-    "aro_t": 0.12366235256195068,
-    "text_emotion": "Excited"
+    "val_t": -0.14993178844451904,
+    "aro_t": 0.13580703735351562,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I understand what you're saying, and I do want to feel more at peace. But it's hard because the guilt feels so heavy, and every time I try to focus on the positive moments, it just reminds me of how much I miss them and how I wish I could have done more. It’s like a double-edged sword.",
-    "therapist": "I can see how deeply you’re struggling with these feelings of guilt and the intensity of missing her. It’s completely normal to feel this way, and it’s okay to acknowledge the heaviness of those emotions. At the same time, it might be helpful to remind yourself that your feelings of love and care for your grandmother are a testament to the strong bond you had. What do you think might help you honor that bond while also easing some of the guilt and sadness?",
+    "client": "I think it might help if I just start by having a casual conversation with someone I trust, maybe just to gauge how they’re feeling and see if they’re open to talking about my grandmother. That way, it doesn’t feel like I’m immediately asking for a lot. But it’s still a bit scary to open up, and I’m not sure how it will go.",
+    "therapist": "That’s a thoughtful and gentle approach to start the conversation. It can feel less overwhelming to ease into it and see how the other person responds. Taking small steps like this can help you feel more in control and supported. What do you think might be the first thing you’d like to say to start that conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.10616874694824219,
-    "aro_t": 0.13514578342437744,
+    "val_t": -0.15498268604278564,
+    "aro_t": 0.08745455741882324,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It’s hard to shake the feeling that I should have done more while she was here. I know honoring her memory is important, but I often feel like I’m just going through the motions. It’s hard to find a way to do that without feeling guilty or overwhelmed.",
-    "therapist": "I completely understand how tough it is to shake those feelings of guilt, and it’s natural to question whether you’re doing enough to honor her memory. It’s okay to feel this way, and it’s important to be gentle with yourself. Sometimes, finding small, meaningful ways to remember her can help, even if it feels like you’re just going through the motions at first. What are some small things you might do that feel genuine and meaningful to you?",
+    "client": "I think I might start by asking how they’re doing and if they’ve been thinking about my grandmother. Something like, \"Hey, I’ve been missing Grandma a lot lately. Have you been thinking about her too?\" It feels less direct and gives them a chance to share if they’re comfortable. But I’m still a bit nervous about how they’ll react.",
+    "therapist": "That’s a really thoughtful way to start the conversation. Asking how they’re doing and if they’ve been thinking about your grandmother can create a safe space for both of you to share. It’s natural to feel a bit nervous about how they’ll react, but your approach shows that you’re being considerate and giving them the chance to open up if they’re comfortable. What do you think might help you feel a bit more at ease as you prepare to have this conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.07878327369689941,
-    "aro_t": 0.11366128921508789,
-    "text_emotion": "Neutral"
+    "val_t": -0.14917194843292236,
+    "aro_t": 0.0968855619430542,
+    "text_emotion": "Angry"
   }
 ]

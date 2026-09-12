@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling completely stretched thin lately, like no matter how hard I try, I'm never doing enough at work or at home. I'm a nurse, so my shifts are already exhausting, and then I come home to two little kids who need everything from me while my partner is overseas. I honestly don't know if talking about it is going to change anything, because the situation is just... what it is, you know?",
-    "therapist": "What you're carrying right now is genuinely immense — long, demanding shifts caring for others, then coming home to be the sole present parent, all while missing your partner's support. It makes complete sense that you'd feel stretched thin, and I want you to know that feeling isn't a sign of weakness; it's a very human response to an extraordinary load. I also hear your hesitation about whether talking will help, and I think that's worth sitting with — what would feel like even a small relief to you right now, if anything comes to mind?",
+    "client": "I've been really struggling lately trying to keep everything together — long shifts at the hospital, then coming home to two little kids who need me for everything, and my partner is overseas so there's no one to share the load with. By the time I get the kids to bed, I'm so exhausted I can't even think straight, but then I just lie there feeling guilty that I wasn't more patient with them during the day. I honestly don't know if talking about it is going to change anything, because the situation is what it is — my partner can't come home early and the kids still need me — but I figured I had to try something.",
+    "therapist": "What you're carrying right now is genuinely immense — long shifts, solo parenting, and then your mind won't even let you rest when your body finally can — and it makes complete sense that you're exhausted and questioning whether anything can help. I'm really glad you decided to try, because while we can't change the external circumstances, we can often work on that late-night guilt spiral, which is something *you* have some influence over even when everything else feels fixed. I'm curious — when you're lying there feeling guilty, what kinds of thoughts tend to show up most loudly?",
     "condition": "baseline",
-    "val_t": -0.24609029293060303,
-    "aro_t": 0.1234138011932373,
-    "text_emotion": "Angry"
+    "val_t": -0.38754892349243164,
+    "aro_t": 0.14621591567993164,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Honestly, just... not feeling so alone in it, I think. Like, some nights I put the kids to bed and the house is so quiet and I just sit there feeling like I'm failing everyone — my patients, my kids, my partner who's far away. A small relief would be not having that voice in my head constantly telling me I'm not doing enough.",
-    "therapist": "That voice telling you you're failing everyone — I want to gently notice something: you just described finishing an exhausting nursing shift *and* getting your kids to bed, which means your patients were cared for and your children are safe and loved, all by you, alone. The fact that you're sitting in that quiet house *feeling* the weight of responsibility actually speaks to how deeply you care, not to how much you're falling short. What do you think that critical voice might be leaving out when it delivers its verdict on your day?",
+    "client": "The loudest one is probably something like \"you snapped at them and they're going to remember that, not the good stuff.\" Like I'll replay a specific moment — maybe I raised my voice when my son wouldn't put his shoes on — and my brain just loops it over and over, convincing me I'm damaging them. And underneath that there's this voice saying a better parent would somehow still have patience left after a twelve-hour shift, which I know logically sounds unfair, but at midnight it feels completely true.",
+    "therapist": "That thought — \"a better parent would still have patience after a twelve-hour shift\" — is such a revealing one, because it sets an almost impossible standard that I doubt you'd apply to any other exhausted, solo-parenting nurse you know. What your mind is doing at midnight is essentially presenting this thought as settled fact, when really it's worth gently asking: what's the actual evidence that one moment of raised voices is drowning out all the care you show them every single day? I wonder — if a close friend described their day exactly as you've described yours, what would you say to them about what kind of parent they are?",
     "condition": "baseline",
-    "val_t": -0.06575119495391846,
-    "aro_t": 0.09529507160186768,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 3,
-    "client": "I hear what you're saying, and part of me wants to accept it, but the critical voice is really loud and it kind of just... dismisses that framing immediately. Like, yes, my kids are in bed and my patients were cared for, but the voice says \"barely\" — it points to the moments I snapped at my daughter before bedtime, or the patient whose pain I felt like I didn't manage well enough. It's hard to trust the gentler interpretation when the other one feels so much more... real, I guess.",
-    "therapist": "That word \"barely\" is doing a lot of damage, isn't it — it's like the voice takes real moments and uses them as proof of a whole identity, rather than seeing them as hard moments within an incredibly hard day. In CBT we'd call this a thinking pattern where the difficult moments get a megaphone while the evidence on the other side gets quietly dismissed, and it's worth noticing that the voice isn't neutral — it's selective. I'm curious, if your closest friend described their day the exact same way you just described yours, would \"barely\" be the word that came to your mind about them?",
-    "condition": "baseline",
-    "val_t": -0.1300947666168213,
-    "aro_t": 0.08469271659851074,
+    "val_t": -0.12501907348632812,
+    "aro_t": 0.10090494155883789,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "Honestly, no, I wouldn't use \"barely\" about a friend. I'd probably say they did really well given everything they were dealing with. But it feels different when it's me — like I should somehow be above struggling, and when I'm not, it just confirms something I already believe about myself being fundamentally not enough.",
-    "therapist": "That phrase — \"fundamentally not enough\" — feels really important, because it suggests the critical voice isn't just commenting on your days, it's making a much bigger claim about *who you are*, and that's a belief worth examining rather than accepting as fact. The gap you noticed is so significant though: you instinctively offer your friend compassion and context, which means that gentler perspective *is* available to you — it's not naive, you just haven't felt permission to turn it toward yourself yet. I wonder, where do you think that belief that you should be \"above struggling\" first came from for you?",
+    "turn": 3,
+    "client": "I know what I'd say to a friend — I'd tell her she's doing something remarkable and one hard moment doesn't define her. But when I try to turn that around on myself it just feels hollow, like I'm letting myself off the hook too easily. I think part of me believes the guilt is actually useful, like if I stop feeling bad about it I'll just stop trying to be better.",
+    "therapist": "You've just uncovered something really important — the belief that guilt is what keeps you a good parent, which is actually a really common thought worth examining gently. But there's a difference between guilt, which tends to loop and exhaust without directing you anywhere, and genuine reflection, which notices a moment and asks \"what would I do differently?\" — one drains you, the other actually helps you grow. I'm curious: do you think you'd truly stop trying to be a good mother if you let go of the guilt, or is the care you have for your kids something that runs a little deeper than that feeling?",
     "condition": "baseline",
-    "val_t": -0.0663219690322876,
-    "aro_t": 0.13193392753601074,
-    "text_emotion": "Neutral"
+    "val_t": -0.2318652868270874,
+    "aro_t": 0.09088313579559326,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "Honestly, when you put it that way, I don't think I'd stop caring — the love for my kids isn't coming from guilt, I know that. But letting go of the guilt still feels risky somehow, like I'm not sure I trust myself to stay accountable without it. I guess I've never really separated those two things before, caring and guilt, so I don't know what it would even look like to have one without the other.",
+    "therapist": "That moment of clarity — recognizing that your love for your kids is its own separate, stable thing that doesn't need guilt to fuel it — is genuinely significant, and it makes sense that it feels unfamiliar territory when you've had them bundled together for so long. Accountability without guilt might look something like noticing the shoe moment, thinking \"I'd like to handle that more calmly tomorrow,\" and then actually *resting* — because a you who sleeps is more capable of that than a you who loops at midnight. What do you think a small, self-compassionate version of accountability could look like for you, something that keeps you growing without costing you the sleep you so desperately need?",
+    "condition": "baseline",
+    "val_t": -0.1742103099822998,
+    "aro_t": 0.14466440677642822,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I think it probably came from my family, honestly. Growing up, there was this unspoken rule that you just handled things, you didn't fall apart or complain, and my parents were always so capable and composed that struggling felt like a sign of weakness or immaturity. So somewhere along the way I think I decided that if I was really doing well, really becoming who I was supposed to be, I just wouldn't have these kinds of problems.",
-    "therapist": "That makes so much sense — you learned early that composure meant competence, and struggle meant falling short, so of course that became the lens you measure yourself through now. But I want to offer a gentle reframe: what you're describing isn't a person who can't handle things, it's a person who *has* been handling an extraordinary amount, while also being human enough to feel it — and those two things can both be true at once. I'm wondering, as you hear yourself trace that belief back to its roots, does it feel any different to you now — like something you consciously chose to believe, or more like something that was handed to you before you had a say?",
+    "client": "Maybe something like just allowing myself one quick thought — like \"that was hard, I'll try differently tomorrow\" — and then deliberately not letting it spiral further. But I'm worried that in the moment, at midnight when I'm already exhausted, I won't have the mental strength to stop it there, because right now the loop feels almost automatic and I don't know how to interrupt it. I guess I'm skeptical that something that simple could actually work when the guilt feels so loud.",
+    "therapist": "The phrase you just came up with — \"that was hard, I'll try differently tomorrow\" — is actually a really well-formed thought, and your skepticism about it is completely fair, because you're right that at midnight, willpower alone is a shaky tool against something that feels automatic. This is actually where we can get practical: interrupting a loop works better with a small physical or behavioral anchor — like placing your hand on your chest, taking one slow breath, and saying that phrase out loud — because it gives your exhausted brain a concrete \"off-ramp\" rather than asking it to think its way out. Would you be open to trying that just once this week, not as a cure but as a small experiment, and then we could look together at what actually happened?",
     "condition": "baseline",
-    "val_t": -0.05109381675720215,
-    "aro_t": 0.11076533794403076,
-    "text_emotion": "Neutral"
+    "val_t": -0.225854754447937,
+    "aro_t": 0.08583402633666992,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "That's... actually a really interesting way to put it, \"handed to me before I had a say.\" I think intellectually I can see that — like, I didn't sit down as a seven-year-old and decide that showing weakness was unacceptable, it was just the atmosphere in my house. But honestly, even knowing that doesn't make it feel any less true right now, like the belief still has the same grip on me even if I can see where it came from.",
-    "therapist": "That gap between *knowing* something intellectually and *feeling* it differently is one of the most honest and important things you can notice about yourself — understanding where a belief came from is the first step, but the grip loosens gradually, through experience, not just insight. What we're doing right now, you questioning that voice rather than just obeying it, is actually part of how that process begins, even if it doesn't feel dramatic yet. I'm curious — can you think of even one small moment from this past week that the seven-year-old version of you, raised in that atmosphere, might have been taught to dismiss, but that a wiser part of you now recognizes as genuinely enough?",
+    "client": "I think I can try it once, framing it as an experiment takes some pressure off because it's not like I'm committing to having it all figured out. My worry is that the physical part — hand on chest, slow breath — might feel a bit strange or even silly when I'm lying there alone in the dark, and I'm not sure I won't just feel self-conscious about it. But I suppose feeling slightly awkward is better than lying there for an hour replaying the shoe incident, so I'm willing to give it a shot.",
+    "therapist": "That trade-off you just made — \"slightly awkward is better than an hour of replaying the shoe incident\" — is actually really wise, and it shows you already have more perspective on this than your midnight brain gives you credit for. The self-consciousness often fades quickly when something is done in private and when it actually works, and many people find that the physical grounding is precisely what makes the difference when words alone don't cut through. After you try it this week, I'd love to hear not just whether it worked, but what it felt like to deliberately choose to be gentle with yourself — does that feel like something worth paying attention to?",
     "condition": "baseline",
-    "val_t": -0.044834256172180176,
-    "aro_t": 0.07128214836120605,
+    "val_t": -0.06619787216186523,
+    "aro_t": 0.11375153064727783,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I sat with that question for a moment, and honestly my first instinct was to say \"no, nothing comes to mind.\" But then I remembered that I actually helped a coworker figure out a problem on Thursday, and instead of brushing it off like I usually would, I noticed this tiny flicker of... I don't know, satisfaction maybe. I almost immediately told myself it wasn't a big deal and anyone could have done it, but I did catch myself doing that this time, which felt different somehow.",
-    "therapist": "That moment of catching yourself — that's actually really significant, because the voice did what it always does, but this time you *watched* it happen rather than just believing it, and that small distance is exactly how change begins. And I want to gently push back on \"anyone could have done it\" — your coworker came to *you*, which means something about your presence and knowledge felt trustworthy to them, and that flicker of satisfaction you felt was your deeper self recognizing something real before the critic rushed in to erase it. What do you think it would mean for you if you let yourself count moments like that one — not as proof that you're perfect, but just as evidence that the \"not enough\" story isn't the whole truth?",
+    "client": "That question actually catches me off guard a little, because I've been so focused on whether the technique will work that I haven't really thought about what it would mean to just... be kind to myself on purpose. It feels almost foreign, like I'd be doing something indulgent when there's so much still demanding from me. But maybe that's exactly why it's worth noticing — because if being gentle with myself feels that uncomfortable, that probably says something important.",
+    "therapist": "You just did something really significant there — you caught your own insight mid-sentence, and what you landed on is profound: that the discomfort around self-kindness isn't a reason to avoid it, it's actually a signal of how much you've needed it. It makes sense that gentleness feels indulgent when you've been running on empty in survival mode for so long, but I'd gently offer that self-compassion isn't the opposite of being responsible — it might actually be what makes everything else sustainable. I'm wondering, when you imagine a version of yourself who has slowly gotten more comfortable with being kind to herself, what do you think she might be like to be around — for her kids, and for herself?",
     "condition": "baseline",
-    "val_t": 0.09202635288238525,
-    "aro_t": 0.17124950885772705,
-    "text_emotion": "Excited"
+    "val_t": -0.06719505786895752,
+    "aro_t": 0.13353073596954346,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and part of me wants to believe it, but there's this immediate resistance that comes up — like if I start counting those moments, I'm somehow setting myself up to be exposed as someone who was just faking confidence the whole time. It's almost easier to stay in the \"not enough\" story because at least then no one, including me, expects too much. I guess I'm scared that if I let myself feel like I'm doing okay, something will happen to prove I was wrong to think that.",
-    "therapist": "What you just named is so honest and so important — the \"not enough\" story, as painful as it is, has been functioning as a kind of protection, keeping expectations low so disappointment can't blindside you. But I want to sit with something you said: you're already living with the pain of feeling like you're failing, so in a way, the story you're using to protect yourself is also the thing that's hurting you most. I'm wondering, what do you imagine would actually happen — in your life, in your relationships — if you let yourself believe, even tentatively, that you're doing okay?",
+    "client": "I think she'd probably be calmer, less on edge — like maybe her kids would get a mum who isn't always bracing for the next thing to go wrong. That image actually makes me feel something, a kind of ache almost, because I want to be that person but she feels very far away from where I am right now. I suppose I'm scared that wanting it too much will just become another thing I feel guilty about not achieving.",
+    "therapist": "That ache you're feeling is actually really important — it's not weakness or self-pity, it's you recognizing something true about what you want for yourself and your children, and that kind of clarity is where real change begins. I also want to gently name what you just did: you spotted a potential guilt trap before it even formed, which tells me your self-awareness is already working in your favour, even when it doesn't feel that way. What if that calmer version of you isn't someone you have to become all at once, but someone who shows up for a few seconds when you put your hand on your chest in the dark this week — could she start that small?",
     "condition": "baseline",
-    "val_t": -0.22326970100402832,
-    "aro_t": 0.14059996604919434,
-    "text_emotion": "Angry"
+    "val_t": -0.2439976930618286,
+    "aro_t": 0.08005654811859131,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I sat with that question for a second and honestly my first reaction was kind of a hollow laugh, like... if I let myself believe I'm doing okay, then what? I think I'm scared that if I lower my guard and actually start to feel like I'm enough, something will come along and prove me wrong in a way that's way more devastating than if I'd just stayed braced for it. It's like the story hurts, yeah, but at least it's a hurt I'm used to — I know how to carry it.",
-    "therapist": "There's real wisdom in what you just said — you've found a way to survive by staying braced, and that strategy has probably protected you through some genuinely hard things, including right now. But I want to reflect something back gently: you're already carrying enormous pain *and* staying guarded, which means the protection isn't actually sparing you from hurt, it's just making sure the hurt feels familiar. I wonder if the question isn't really \"what if I get it wrong and feel devastated\" but rather \"have I ever actually let myself find out what it feels like to be on my own side?\"",
+    "client": "When you put it like that — just a few seconds, just that small — something in me actually relaxes a little, because it stops feeling like another mountain to climb. I think I can hold onto that idea, that she doesn't have to arrive all at once. I'm still not sure I fully believe it's possible, but for the first time tonight I don't feel completely hopeless about it either.",
+    "therapist": "Moving from completely hopeless to \"not completely hopeless\" in one conversation is not a small thing — that's a real shift, and you did that through your own honesty and willingness to look at things differently, not just because of anything I said. Hold onto that feeling, because your midnight brain will try to tell you it wasn't real, and it was. I'm really glad you came tonight — and I'm curious, as you go into this week, what's one small thing you could do to remind yourself of that image of the calmer mum, something you might see or touch or say that keeps her feeling just a little more reachable?",
     "condition": "baseline",
-    "val_t": -0.23041725158691406,
-    "aro_t": 0.2688896656036377,
-    "text_emotion": "Angry"
+    "val_t": 0.023926258087158203,
+    "aro_t": 0.1309802532196045,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "That question kind of stopped me for a second, because honestly... no, I don't think I have. Being on my own side always felt like setting myself up for something, like if I started believing in myself and then failed, it would hurt so much worse than if I'd just expected nothing. I guess I've been so busy bracing for the worst that I never really asked whether I actually deserved better in the first place.",
-    "therapist": "That last sentence — \"whether I actually deserved better in the first place\" — feels like something really profound just surfaced, and I want you to know that the fact you could even ask that question tonight matters deeply. You came here feeling alone and stretched thin, and somewhere in this conversation a part of you started speaking up for yourself, which tells me that part exists and has been waiting for some room. I'm curious — what does it feel like right now, in this moment, to have asked that question out loud?",
+    "client": "There's a photo on my bedside table of me and the kids from last summer, before my partner left, and we're all laughing at something — I look relaxed in it in a way I barely recognize anymore. Maybe I could just look at that before I turn the light off, as a reminder that she exists somewhere in me already. It feels almost too simple, but I think that's actually the point you've been making all along, isn't it — that it doesn't have to be complicated to matter.",
+    "therapist": "You've understood something tonight that takes some people a long time to reach — that the person you're trying to get back to isn't a stranger you have to build from scratch, she's already in you, and that photo is proof. It's not too simple, it's exactly right: a moment of laughter with your kids, a breath, a gentle sentence — these are the building blocks of the change you're looking for. You came in tonight not sure talking could help, and you're leaving with a photo, a phrase, and a hand on your chest — I think that's a remarkable start, and I'd love to hear how the week unfolds for you.",
     "condition": "baseline",
-    "val_t": -0.2795525789260864,
-    "aro_t": 0.16527807712554932,
-    "text_emotion": "Angry"
+    "val_t": 0.14119172096252441,
+    "aro_t": 0.05792653560638428,
+    "text_emotion": "Happy"
   }
 ]

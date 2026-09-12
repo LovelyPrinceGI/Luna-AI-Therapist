@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been feeling really anxious lately, especially when I think about going to that café where my ex and I used to meet. Every time I even picture walking in there, my heart races and I feel overwhelmed. I'm not sure if talking about it in therapy will really help me deal with this anxiety.",
-    "therapist": "It sounds like you're feeling really overwhelmed and anxious about the thought of going to that café, which holds so many memories for you. It's completely understandable to feel this way, and talking about it can sometimes help us sort through those feelings. What do you think might help you feel more comfortable when thinking about that place?",
+    "client": "I've been feeling really anxious lately, especially when I think about going to that café where my ex and I used to meet. My heart starts racing just thinking about walking in there, and it makes me feel so overwhelmed. I know I need to face it eventually, but I'm not sure how to handle those feelings.",
+    "therapist": "It sounds like you're feeling really overwhelmed and anxious about the idea of returning to that café, especially with all the memories tied to it. It’s completely understandable to feel this way, and facing such situations can be quite challenging. Have you thought about any small steps you could take to gradually ease into it, or perhaps some strategies to manage those racing thoughts when they come up?",
     "condition": "emotion_text_only",
-    "val_t": -0.2475423812866211,
-    "aro_t": 0.3159137964248657,
+    "val_t": -0.24623620510101318,
+    "aro_t": 0.3359638452529907,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I'm really not sure what could help me feel more comfortable. Just the thought of going to that café brings up so many mixed emotions; I feel anxious and guilty about the memories tied to it. I don't know if talking about it more will actually ease those feelings or just make them more intense.",
-    "therapist": "It sounds like you're experiencing a lot of conflicting emotions tied to that café, and it's understandable to feel uncertain about whether discussing it will help. Sometimes, exploring those feelings can bring clarity, even if it feels intense at first. What specific memories or feelings come to mind when you think about your time there?",
+    "client": "I get what you're saying, but honestly, I can't even picture myself walking into that place right now. The thought of it makes me feel so anxious that I just want to avoid it altogether. I don't know if small steps would really help because it feels like the memories are too powerful, and I'm not sure I can handle them.",
+    "therapist": "It sounds like the thought of going back to that café is really triggering for you, and I can sense how strong those feelings of anxiety are. It’s completely natural to want to avoid a situation that feels overwhelming, especially when the memories attached to it are so intense. What if we explored some ways to gently acknowledge those memories without diving right into the café experience? How do you feel about that?",
     "condition": "emotion_text_only",
-    "val_t": -0.20389938354492188,
-    "aro_t": 0.19607794284820557,
+    "val_t": -0.23520755767822266,
+    "aro_t": 0.2931746244430542,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "When I think about the café, I feel this mix of nostalgia and sadness. It used to be a place where I felt connected to others, but now it just reminds me of how lonely I've become. I guess I’m worried that diving into those memories will only make me feel worse, rather than helping me find clarity.",
-    "therapist": "It sounds like the café holds a lot of bittersweet memories for you, bringing up feelings of both nostalgia and sadness. It's completely valid to worry that revisiting those memories might deepen your loneliness, but sometimes understanding those feelings can lead to healing. What if we explored ways to honor the positive connections you experienced there while also addressing the sadness?",
+    "client": "I guess that makes sense, but I'm still not sure how I would even start acknowledging those memories. It feels like opening a floodgate of emotions that I’m not ready to deal with. I worry that if I start thinking about those times, it will just make the anxiety worse and I’ll be back at square one.",
+    "therapist": "I can hear how much apprehension you have about facing those memories, and it's completely valid to feel that way. Opening up to those emotions can feel daunting, but it might help to know that you can take it at your own pace. What if you tried to write down just one memory that feels manageable, without diving too deep into the emotions? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2400202751159668,
-    "aro_t": 0.07919752597808838,
-    "text_emotion": "Sad"
+    "val_t": -0.2004460096359253,
+    "aro_t": 0.14844012260437012,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but I’m not sure how honoring those connections will help. It feels like every time I think about the café, I just get overwhelmed by the sadness. I worry that diving into those memories will only amplify my loneliness instead of helping me process it.",
-    "therapist": "I hear you, and it’s completely understandable to feel apprehensive about revisiting those memories, especially when they bring up such strong feelings of sadness and loneliness. It's okay to take your time with this process and approach it at your own pace. What if we start by identifying just one positive memory from that café, and see how it feels to reflect on that without diving too deep right away?",
+    "client": "I appreciate that suggestion, but writing it down feels like a big step. I worry that once I put those memories on paper, it will make them feel even more real and I’ll have to confront feelings I’m not ready to face. I don’t know if I can handle even one memory right now; it just feels too overwhelming.",
+    "therapist": "It sounds like the idea of writing down those memories feels like a really big step for you, and I can understand why that might feel overwhelming. It’s okay to take things slowly and prioritize your emotional safety. How about we explore some other ways to acknowledge those feelings without putting them on paper? Maybe we could talk about how those memories make you feel in a more general sense, rather than focusing on specific ones. What do you think?",
     "condition": "emotion_text_only",
-    "val_t": -0.24201834201812744,
-    "aro_t": 0.10520076751708984,
-    "text_emotion": "Angry"
+    "val_t": -0.04295611381530762,
+    "aro_t": 0.2101668119430542,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, but honestly, it feels tough to even think about positive memories from that café. Most of my memories there are wrapped up in feelings of loneliness and regret. I’m not sure if focusing on one positive memory is going to change how I feel about the others.",
-    "therapist": "I can sense that it feels really challenging for you to shift your focus to positive memories when the feelings of loneliness and regret are so strong. It’s completely valid to feel that way, and it’s okay to acknowledge the weight of those emotions. Perhaps instead of forcing a positive memory, we could explore the feelings of loneliness and regret more deeply—what do those feelings tell you about what you need right now?",
+    "client": "I appreciate that you're trying to find an alternative that feels safer for me. Talking about my feelings in a more general way might be easier, but I'm still hesitant. I feel like if I open up about those feelings, I might get overwhelmed and not be able to control my emotions. What if it just makes my anxiety worse?",
+    "therapist": "I can sense that there's a lot of concern about opening up and the fear that it might lead to feeling even more overwhelmed. It's completely understandable to worry about losing control when discussing difficult emotions. What if we approached this gently, perhaps starting with a feeling that feels less intense for you? We can take it one step at a time, and I’ll be here to support you through it. How does that sound?",
     "condition": "emotion_text_only",
-    "val_t": -0.11299502849578857,
-    "aro_t": 0.08303558826446533,
-    "text_emotion": "Neutral"
+    "val_t": -0.11417984962463379,
+    "aro_t": 0.14461243152618408,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate you acknowledging how heavy those feelings are. Loneliness and regret feel like a constant weight on my chest, and I often wonder if I’m just not cut out for connection with others. But I’m not sure what those feelings are really trying to tell me—it's hard to see beyond the pain.",
-    "therapist": "It sounds like you're carrying a heavy burden with those feelings of loneliness and regret, and it's understandable to question your ability to connect with others when it feels so painful. It’s important to honor those feelings without rushing to find answers. What if we took a moment to sit with those emotions and gently explore what they might reveal about your needs for connection and support?",
+    "client": "I appreciate your understanding, and starting with a less intense feeling sounds a bit more manageable. But even then, I'm still worried that any feelings I touch on will spiral into something bigger. It feels like once I start digging into those emotions, there's no stopping it, and I really don’t want to feel that way.",
+    "therapist": "I hear you, and it makes sense that you're feeling cautious about opening up, especially with the concern that it might lead to feeling overwhelmed. Recognizing that fear is a significant first step, and it’s okay to feel hesitant. How about we create a safe space for you to express just a small piece of what you’re feeling, and if it starts to feel too much, we can pause or shift the conversation? What do you think might feel like a safe starting point for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.15366828441619873,
-    "aro_t": 0.03579211235046387,
-    "text_emotion": "Sad"
+    "val_t": -0.1781984567642212,
+    "aro_t": 0.20111942291259766,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I feel a mix of sadness and apprehension when I think about sitting with my loneliness. It’s like I’m stuck in this cycle where I want to connect with others, but the fear of rejection keeps me isolated. Exploring those emotions sounds daunting, and I’m not really sure what I’ll find, or if it will even help me feel less lonely.",
-    "therapist": "It sounds like you're navigating a really tough mix of sadness and apprehension, and it's completely understandable to feel stuck between the desire for connection and the fear of rejection. That cycle can be incredibly isolating, and the thought of exploring those emotions feels daunting. What if we took small steps together, focusing on just one aspect of that fear? How does that sound to you?",
+    "client": "I appreciate you offering to create a safe space for me. I think starting with something small might work, but I'm still nervous about even the tiniest emotions. It's hard to pinpoint what feels safe because everything seems tied to that anxiety, and I'm worried that even a small step could lead me back to feeling overwhelmed.",
+    "therapist": "I can see that you're feeling really nervous about even the smallest emotions, and it’s understandable to want to protect yourself from feeling overwhelmed. It’s okay to take your time to find what feels safe for you. Perhaps we could focus on a neutral topic or a simple grounding exercise that helps you feel a bit more settled before we explore any emotions. Would you be open to trying that?",
     "condition": "emotion_text_only",
-    "val_t": -0.2406848669052124,
-    "aro_t": 0.15475451946258545,
-    "text_emotion": "Angry"
+    "val_t": -0.050411224365234375,
+    "aro_t": 0.25568175315856934,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I appreciate you understanding how lonely and anxious I feel about connecting with others. But the idea of taking small steps sounds easier said than done. I worry that even trying to face that fear might end up making me feel more vulnerable and exposed, which is the last thing I want right now.",
-    "therapist": "I hear you, and it’s completely understandable to feel that facing those fears might make you feel more vulnerable. It’s okay to be cautious about stepping outside your comfort zone, especially when you're already feeling anxious. What if we focused on finding a safe and manageable way to approach those feelings, rather than pushing too hard? What does a small, safe step look like for you?",
+    "client": "I appreciate the idea of focusing on something neutral or doing a grounding exercise. It feels a bit safer to think about, but I still worry that it won't really help. Sometimes, I feel like these exercises can be a distraction rather than a solution, and I'm not sure if they’ll actually ease my anxiety about the café.",
+    "therapist": "I can see that you're feeling uncertain about whether grounding exercises will truly help ease your anxiety, and that’s a valid concern. It’s natural to want something that feels more like a solution rather than just a distraction. What if we approached the exercise with the intention of simply noticing how it makes you feel in the moment, without the pressure of it needing to solve everything? Would you be willing to give that a try together?",
     "condition": "emotion_text_only",
-    "val_t": -0.17892193794250488,
-    "aro_t": 0.1565037965774536,
-    "text_emotion": "Angry"
+    "val_t": -0.07650387287139893,
+    "aro_t": 0.10629916191101074,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate what you’re saying, but honestly, the idea of taking even a small step feels overwhelming right now. When I think about facing my fears, I mostly just feel this knot in my stomach and a sense of dread. What if I try to take a step, and it doesn’t go well? It just makes me want to retreat even more.",
-    "therapist": "It sounds like the thought of even taking a small step feels really daunting, and that knot in your stomach reflects how intense those feelings of dread can be. It’s completely understandable to worry about what might happen if things don’t go well, and it makes sense that this fear could make you want to retreat. What if we explored what “retreating” looks like for you—what does that mean in terms of your feelings and your connections?",
+    "client": "I guess approaching the grounding exercise with a focus on just noticing how I feel does sound a bit less intimidating. But I still worry that even that might trigger my anxiety instead of helping. What if I start feeling overwhelmed again, and I can't pull myself back? It just feels like a risk I'm not sure I'm ready to take.",
+    "therapist": "It sounds like you’re feeling quite apprehensive about the possibility of being triggered during the grounding exercise, and that’s completely understandable. It’s important to listen to those feelings and honor where you are right now. How about we create a plan together, where you can set a time limit or have a specific signal to pause if things start to feel overwhelming? This way, you can feel more in control while exploring it at your own pace. What do you think?",
     "condition": "emotion_text_only",
-    "val_t": -0.2261291742324829,
-    "aro_t": 0.2882026433944702,
+    "val_t": -0.22361648082733154,
+    "aro_t": 0.18314290046691895,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "Retreating for me usually means isolating myself, avoiding social situations, and just staying at home where I feel safe. I feel guilty about it because I know I should reach out to friends or family, but the thought of facing any kind of social interaction just makes my anxiety skyrocket. It's hard to imagine how I could break that cycle, especially when I feel so overwhelmed by the idea of connecting with others.",
-    "therapist": "It sounds like retreating feels like a protective measure for you, giving you a sense of safety when social interactions seem overwhelming. It's completely understandable to feel guilty about that, especially when you know you want to connect with others. What if we explored what it would look like to create a balance between that need for safety and the desire to connect, perhaps by identifying very low-pressure situations that might feel a bit more manageable?",
+    "client": "I like the idea of having a plan in place, and it does make me feel a bit more in control. Setting a time limit or having a signal to pause sounds helpful, but I still worry that I might not recognize when I'm getting overwhelmed in the moment. What if I ignore the signal and push through anyway? That just feels like a risk I’m not sure I want to take.",
+    "therapist": "I can sense that you're feeling a mix of apprehension and concern about recognizing your own limits during the exercise, and it's completely valid to worry about pushing through when you're feeling overwhelmed. It’s great that you’re thinking about these factors. Perhaps we could discuss some ways to help you become more aware of your feelings, like checking in with yourself at different points during the exercise? Would that feel like a supportive approach for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.26999127864837646,
-    "aro_t": 0.2364417314529419,
-    "text_emotion": "Angry"
+    "val_t": -0.07202291488647461,
+    "aro_t": 0.12328314781188965,
+    "text_emotion": "Neutral"
   }
 ]

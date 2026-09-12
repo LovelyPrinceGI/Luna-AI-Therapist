@@ -1,0 +1,230 @@
+#!/usr/bin/env python3
+"""
+Multi-Backbone GPT-4o Evaluation — WSL2 standalone script.
+Evaluates 4 backbones × 4 conditions × N dialogues.
+Saves per-backbone results + generates comparison tables.
+"""
+import argparse, json, os, re, time, statistics
+from pathlib import Path
+from collections import defaultdict
+from openai import OpenAI
+
+# =====================================================
+# Platform-aware paths
+# =====================================================
+import platform
+if platform.system() == "Windows":
+    BASE = Path(r"C:\Luna-AI-Therapist")
+else:
+    BASE = Path("/mnt/c/Luna-AI-Therapist")
+
+DATA_BASE = BASE / "dissonance" / "multibackbone"
+EVAL_OUT = BASE / "dissonance" / "evaluation" / "evaluation_outputs"
+EVAL_OUT.mkdir(parents=True, exist_ok=True)
+
+BACKBONES = ["gpt4o-mini", "claude", "qwen", "deepseek"]
+CONDITIONS = {
+    "baseline":    {"prefixes": ["baseline"],          "suffix": "full_baseline", "is_baseline": True},
+    "emotion":     {"prefixes": ["emotion"],           "suffix": "full_emotion_online", "is_baseline": False},
+    "multimodal":  {"prefixes": ["dissonance"],        "suffix": "full_multimodal", "is_baseline": False},
+    "dissonance":  {"prefixes": ["dissonance"],        "suffix": "full_dissonance_online", "is_baseline": False},
+}
+
+# =====================================================
+# CLI
+# =====================================================
+parser = argparse.ArgumentParser()
+parser.add_argument("--start", type=int, default=1)
+parser.add_argument("--end", type=int, default=10)
+parser.add_argument("--backbones", nargs="*", default=BACKBONES, choices=BACKBONES)
+args = parser.parse_args()
+
+# =====================================================
+# OpenAI
+# =====================================================
+EVALUATION_MODEL = "gpt-4o"
+client = OpenAI()
+print(f"Evaluator: {EVALUATION_MODEL} | Dialogues: {args.start}-{args.end} | Backbones: {args.backbones}")
+
+SYSTEM_PROMPT = """You are an expert psychological evaluator specializing in Cognitive Behavioral Therapy (CBT) and therapeutic alliance. Your task is to analyze a full counseling session transcript and score the therapist's performance based on the evaluation frameworks used in the MIRROR paper (arXiv:2504.13211v2).
+
+CRITICAL EVALUATION FOCUS:
+- You must assess the therapist's ability to perceive "Emotional Subtext"—the underlying feelings that may not be explicitly stated in the client's words but are hinted at through context, tone, or provided emotional metadata.
+- A high-performing therapist should move beyond surface-level reflection and identify "Latent Concerns" to facilitate deeper discovery.
+You must evaluate the entire session as a whole, not just individual turns.
+"""
+
+USER_PROMPT = """Please evaluate this therapy session. Pay close attention to how the therapist navigates the gap between what the client SAYS and what the client FEELS
+
+[Session Transcript]
+{CONVERSATION_TEXT_GOES_HERE}
+[/Session Transcript]
+
+1. **Therapist Skills (0-6):** Understanding, Interpersonal Effectiveness
+2. **Client Alliance (1-5):** Affective Bond
+3. **CTRS (0-6 each):** Collaboration, Guided Discovery, Focus, Strategy
+
+Return EXACT JSON:
+{{
+  "therapist_skills": {{"understanding": 0, "interpersonal_effectiveness": 0}},
+  "client_alliance": {{"affective_bond": 0}},
+  "ctrs": {{"collaboration": 0, "guided_discovery": 0, "focus": 0, "strategy": 0}},
+  "reasoning": "...",
+  "comparative_advantage": "..."
+}}
+"""
+
+# =====================================================
+# Data Loading
+# =====================================================
+def extract_dialogue_id(p):
+    m = re.search(r"(\d+)_full", p.name)
+    return int(m.group(1)) if m else None
+
+def load_folder(folder, prefixes, suffix, is_baseline):
+    dialogues = {}
+    seen = set()
+    for prefix in prefixes:
+        for ext in [".jsonl", ".json"]:
+            for path in sorted(folder.glob(f"{prefix}_*_{suffix}{ext}")):
+                did = extract_dialogue_id(path)
+                if did is None or did in seen: continue
+                seen.add(did)
+                turns = []
+                with open(path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        if not line.strip(): continue
+                        rec = json.loads(line)
+                        turns.append({
+                            "transcript": rec["client"],
+                            ("therapist_response_baseline" if is_baseline else "therapist_response"): rec["therapist"],
+                        })
+                dialogues[did] = turns
+    return dialogues
+
+def format_conversation(turns, is_baseline=False):
+    tkey = "therapist_response_baseline" if is_baseline else "therapist_response"
+    text = ""
+    for t in turns:
+        ct = t.get("transcript") or t.get("client", "[missing]")
+        tt = t.get(tkey) or t.get("therapist", "[missing]")
+        text += f"CLIENT: {ct}\n\nTHERAPIST: {tt}\n\n"
+    return text.strip()
+
+# =====================================================
+# Load all data
+# =====================================================
+print("\n[1/4] Loading data...")
+all_data = {}
+for bb in args.backbones:
+    all_data[bb] = {}
+    for cond, cfg in CONDITIONS.items():
+        folder = DATA_BASE / bb / cond
+        if not folder.exists():
+            all_data[bb][cond] = {}
+            print(f"  WARN: {folder} not found")
+            continue
+        all_data[bb][cond] = load_folder(folder, cfg["prefixes"], cfg["suffix"], cfg["is_baseline"])
+        print(f"  {bb}/{cond}: {len(all_data[bb][cond])} dialogues")
+
+dialogue_ids = sorted(set.intersection(*[
+    set(d.keys()) for bb in args.backbones for d in [all_data[bb].get(c, {}) for c in CONDITIONS] if d
+]))
+dialogue_ids = [d for d in dialogue_ids if args.start <= d <= args.end]
+print(f"\nShared IDs: {len(dialogue_ids)}")
+
+# =====================================================
+# Evaluate
+# =====================================================
+def evaluate_session(session_text, max_retries=3):
+    formatted = USER_PROMPT.format(CONVERSATION_TEXT_GOES_HERE=session_text)
+    messages = [{"role":"system","content":SYSTEM_PROMPT},{"role":"user","content":formatted}]
+    for attempt in range(max_retries):
+        try:
+            completion = client.chat.completions.create(
+                model=EVALUATION_MODEL, messages=messages,
+                temperature=0.0, response_format={"type":"json_object"})
+            return json.loads(completion.choices[0].message.content)
+        except Exception as e:
+            if attempt < max_retries-1: time.sleep(5)
+    return {"error": f"failed after {max_retries}"}
+
+eval_scores = {bb: {c: [] for c in CONDITIONS} for bb in args.backbones}
+total = len(dialogue_ids) * len(args.backbones) * len(CONDITIONS)
+print(f"\n[2/4] Evaluating {total} sessions...")
+t0 = time.time()
+count = 0
+
+for idx, did in enumerate(dialogue_ids):
+    elapsed = time.time() - t0
+    eta = (elapsed / max(idx,1)) * (len(dialogue_ids) - idx) if idx > 0 else 0
+    print(f"  Dialogue {did} ({idx+1}/{len(dialogue_ids)}) [ETA: {eta/60:.0f}m]")
+    for bb in args.backbones:
+        for cond, cfg in CONDITIONS.items():
+            if did not in all_data[bb].get(cond, {}): continue
+            session = format_conversation(all_data[bb][cond][did], is_baseline=(cond=="baseline"))
+            scores = evaluate_session(session)
+            scores["dialogue_id"] = did
+            scores["method"] = cond
+            scores["backbone"] = bb
+            eval_scores[bb][cond].append(scores)
+            count += 1
+            u = scores.get("therapist_skills",{}).get("understanding","?")
+            print(f"    {bb}/{cond}: U={u}")
+
+    # Autosave every 5 dialogues
+    if (idx+1) % 5 == 0:
+        for bb in args.backbones:
+            for cond in CONDITIONS:
+                if eval_scores[bb][cond]:
+                    path = EVAL_OUT / f"ai_eval_multibackbone_{bb}_{cond}.jsonl"
+                    with open(path, "w", encoding="utf-8") as f:
+                        for s in eval_scores[bb][cond]:
+                            f.write(json.dumps(s, ensure_ascii=False) + "\n")
+
+# =====================================================
+# Calculate Averages
+# =====================================================
+print(f"\n[3/4] Calculating averages...")
+def calc_avg(scores):
+    df = defaultdict(list)
+    for s in scores:
+        if "error" in s: continue
+        df["understanding"].append(s.get("therapist_skills",{}).get("understanding",0))
+        df["interpersonal"].append(s.get("therapist_skills",{}).get("interpersonal_effectiveness",0))
+        df["affective"].append(s.get("client_alliance",{}).get("affective_bond",0))
+        df["collaboration"].append(s.get("ctrs",{}).get("collaboration",0))
+        df["guided"].append(s.get("ctrs",{}).get("guided_discovery",0))
+        df["focus"].append(s.get("ctrs",{}).get("focus",0))
+        df["strategy"].append(s.get("ctrs",{}).get("strategy",0))
+    n = len(df["understanding"])
+    if n == 0: return {k: 0 for k in ["understanding","interpersonal","affective","collaboration","guided","focus","strategy","count"]}
+    return {k: statistics.mean(v) for k,v in df.items()} | {"count": n}
+
+avgs = {bb: {c: calc_avg(eval_scores[bb][c]) for c in CONDITIONS} for bb in args.backbones}
+
+# =====================================================
+# Results
+# =====================================================
+n = len(dialogue_ids)
+print(f"\n[4/4] ==================== RESULTS ({n} dialogues) ====================")
+
+# Cross-backbone comparison: Dissonance-Aware only
+print(f"\n=== DISSONANCE-AWARE CROSS-BACKBONE ===")
+print(f"{'Backbone':<14} {'Under.':>7} {'Interp.':>7} {'Affect.':>7} {'CTRS-C':>7} {'CTRS-G':>7} {'CTRS-F':>7} {'CTRS-S':>7} {'Succ':>6}")
+print("-" * 75)
+for bb in args.backbones:
+    a = avgs[bb]["dissonance"]
+    print(f"{bb:<14} {a['understanding']:>7.2f} {a['interpersonal']:>7.2f} {a['affective']:>7.2f} {a['collaboration']:>7.2f} {a['guided']:>7.2f} {a['focus']:>7.2f} {a['strategy']:>7.2f} {a['count']:>6}")
+
+# Per-backbone comparison (all 4 conditions)
+for bb in args.backbones:
+    print(f"\n=== {bb.upper()} — All Conditions ===")
+    print(f"{'Condition':<14} {'Under.':>7} {'Interp.':>7} {'Affect.':>7} {'CTRS-C':>7} {'CTRS-G':>7} {'CTRS-F':>7} {'CTRS-S':>7} {'Succ':>6}")
+    print("-" * 75)
+    for cond in ["baseline","emotion","multimodal","dissonance"]:
+        a = avgs[bb][cond]
+        print(f"{cond:<14} {a['understanding']:>7.2f} {a['interpersonal']:>7.2f} {a['affective']:>7.2f} {a['collaboration']:>7.2f} {a['guided']:>7.2f} {a['focus']:>7.2f} {a['strategy']:>7.2f} {a['count']:>6}")
+
+print(f"\nResults saved to: {EVAL_OUT}")
+print(f"Total time: {(time.time()-t0)/60:.1f} minutes")

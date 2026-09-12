@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I failed that chemistry exam last semester — the one that counts toward my scholarship requirements. Ever since then, I can't stop thinking about whether I'm even cut out for this, and I wake up most nights just running through worst-case scenarios in my head. I'm not totally sure talking about it is going to change anything, but I figured I had to try something because I can't keep living like this.",
-    "therapist": "It takes real courage to reach out when you're carrying something this heavy, and I'm glad you decided to try — that step matters. The way your mind keeps pulling you toward worst-case scenarios at night sounds genuinely exhausting, like you can't get a break even when you're trying to rest. I'd love to understand more about what that inner voice is telling you — what does it say when it asks whether you're \"cut out for this\"?",
+    "client": "I've been really struggling ever since I failed that chemistry exam last semester. It's like this constant knot in my stomach that won't go away — I keep thinking about what happens if I lose my scholarship and have to drop out. I'm not even sure talking about it is going to change anything, because the problem is real, not just in my head.",
+    "therapist": "It sounds like you're carrying a heavy, persistent worry that's been weighing on you for a while — that knot in your stomach makes a lot of sense given how much is at stake for you. You're absolutely right that the situation is real, and I want you to know we're not here to pretend it away; what we *can* do is look at how your thoughts about it might be making the weight even heavier than it needs to be. When you imagine losing your scholarship and dropping out, how likely does that actually feel to you right now, and what evidence are you drawing on to reach that conclusion?",
     "condition": "emotion_text_only",
-    "val_t": -0.31053853034973145,
-    "aro_t": 0.1500331163406372,
+    "val_t": -0.424496054649353,
+    "aro_t": 0.17754292488098145,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's like this voice that just... picks apart everything I did during the day, you know? It'll replay a meeting where I stumbled over my words, or a moment where I didn't speak up when I should have, and it just keeps saying \"see, you don't belong here, everyone else has it figured out except you.\" And the worst part is that at 2am when I'm exhausted, I don't have the energy to argue back with it, so it just kind of wins.",
-    "therapist": "That image of the voice \"winning\" at 2am because you're too worn down to fight back really stands out to me — it's like it waits until your defenses are lowest, which is such a cruel and exhausting pattern to be caught in. In CBT we'd call this kind of thought a \"cognitive distortion,\" specifically this idea that everyone else has it figured out while you're the only one struggling — and it's worth gently noting that that belief feels very certain, but it's actually a story, not a fact. When you think about the people around you who seem to \"have it figured out,\" what do you actually *know* about what's going on for them beneath the surface?",
+    "client": "Honestly, it feels almost certain — like, maybe 80 or 90 percent likely that things are going to fall apart. The evidence I keep coming back to is that I failed the exam, my GPA dropped, and the scholarship requires me to maintain a certain average, so the math just seems to point in one direction. I know you're going to say I'm catastrophizing or something, but it genuinely doesn't feel like I'm exaggerating.",
+    "therapist": "It makes complete sense that it feels almost certain when you're looking at those concrete facts — a failed exam, a GPA drop, a scholarship requirement — they do form a real chain, and I'm not going to dismiss that. What I'm curious about, though, is whether there are any other links in that chain we haven't examined yet, like whether you've looked into exactly how much your GPA dropped relative to the requirement, or whether there are any options like grade appeals, academic support, or advisor conversations that might exist between where you are now and the worst outcome. What do you actually know so far about where your GPA stands compared to what the scholarship requires?",
     "condition": "emotion_text_only",
-    "val_t": -0.14816653728485107,
-    "aro_t": 0.16893398761749268,
+    "val_t": -0.15598368644714355,
+    "aro_t": 0.110725998878479,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean, honestly, I don't really know what's going on for them, I guess. My coworker Sarah always seems so put-together and confident in meetings, but I only see her for like an hour a day, so that's a pretty small window. It's just hard to actually believe that matters, because even if she's struggling too, it doesn't make me feel less alone at 2am when that voice is going.",
-    "therapist": "You just did something really important there — you caught yourself making a big assumption about Sarah based on a tiny slice of what you actually see, and that kind of honest self-observation is genuinely hard to do. And you're also right that knowing it intellectually doesn't automatically dissolve that loneliness at 2am, because the heart and the head don't always move at the same speed. I'm curious — when that voice shows up at night, is there any small part of you, even a quiet one, that sometimes pushes back or doubts what it's telling you?",
+    "client": "I actually haven't checked the exact numbers because every time I think about logging into the student portal, I just freeze up and close my laptop. I know the requirement is a 3.0 and I think I'm somewhere around a 2.8 now, but I haven't confirmed it because seeing it in black and white feels like it would make it more real and more terrifying. As for talking to an advisor, I've thought about it, but I keep worrying they'll just confirm my worst fears and there won't be anything they can do anyway.",
+    "therapist": "It takes real self-awareness to notice that freezing pattern — that the portal feels like a threat rather than just information, and that avoiding it actually keeps the fear in charge rather than reducing it. What's interesting is that right now your mind is essentially living in the worst-case version of reality *without* the actual numbers, so the uncertainty itself is fueling the dread more than the facts might. What do you imagine might shift for you — even slightly — if it turned out the number was 2.85 instead of 2.8, or if an advisor knew of an option you hadn't considered?",
     "condition": "emotion_text_only",
-    "val_t": -0.16655337810516357,
-    "aro_t": 0.10267496109008789,
+    "val_t": -0.27304232120513916,
+    "aro_t": 0.15328943729400635,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "Honestly, yeah, there is sometimes this tiny voice that goes \"you don't actually know that she hates you\" or \"maybe she's just busy.\" But it feels so small compared to the louder one, like it barely gets a word in before the anxious part just steamrolls it. I guess I never really thought of that quieter voice as something worth paying attention to.",
-    "therapist": "That quieter voice is actually really significant — it's showing up even under pressure, even when it's exhausted, and it's telling you something more grounded and fair than the loud one is. What you're describing is that you already have the capacity for more balanced thinking inside you; it's just been drowned out, not destroyed. What do you think it would mean for you if we started treating that quieter voice as worth listening to — even training it to speak up a little louder?",
+    "client": "I guess if the number was 2.85 it might feel slightly less hopeless, like maybe there's a tiny bit more room to work with. But I think the honest answer is that even hearing that wouldn't make me feel much better, because my brain would just immediately jump to \"okay but you still need to raise it, and what if you can't.\" I see what you're saying about the uncertainty keeping me stuck, but actually checking feels like the hardest possible thing to do right now.",
+    "therapist": "You're showing a lot of honest self-insight there — you can already see how your mind would move the goalposts even if the news was slightly better, which tells us something important: the anxiety isn't really living in the number, it's living in the \"what if you can't\" that follows. That pattern, where your mind keeps finding the next threat even when one fear is reduced, is actually something we can work with directly — it's not a sign things are hopeless, it's a sign your threat-detection system is working overtime. What do you think that part of your brain is ultimately most afraid of — is it really about the scholarship itself, or is there something even deeper underneath that, like what it would mean about you as a person?",
     "condition": "emotion_text_only",
-    "val_t": -0.12794363498687744,
-    "aro_t": 0.09657037258148193,
+    "val_t": -0.132415771484375,
+    "aro_t": 0.10986185073852539,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and part of me wants to believe that quieter voice is worth something. But honestly, I worry that if I start listening to it more, I'll just end up making excuses for myself or letting myself off the hook too easily. Like, what if the loud, critical voice is actually keeping me in check in some way, and without it I just... stop trying as hard?",
-    "therapist": "That's such a thoughtful and honest concern, and it actually comes up a lot — this fear that self-compassion is just a disguise for giving up. But there's an important distinction worth exploring: harsh self-criticism and healthy motivation are actually not the same thing, and research consistently shows that people who treat themselves with more kindness tend to *persist longer* after setbacks, not less. So I'm curious — when you think back on moments where you've actually done your best work, was it usually because that critical voice was loudest, or was something else driving you?",
+    "client": "That question kind of stopped me, because I think you're right that it goes deeper than the scholarship. If I lose it, it feels like proof that I'm not actually smart enough to be here, like I only got this far by luck and now the luck has run out. And I'm also scared of what my parents would think — they've sacrificed so much for me, and the idea of having to tell them I failed feels almost worse than the actual dropping out part.",
+    "therapist": "What you just shared feels really significant — that underneath all the GPA numbers and scholarship requirements, there's this painful belief that you're an impostor whose luck has finally run out, and a deep fear of disappointing the people who love you most. It's worth gently noticing that \"I failed an exam\" and \"I was never smart enough to be here\" are two very different statements, and one of them is a fact while the other is an interpretation your mind is treating as fact. When you think back to how you actually earned that scholarship in the first place, what do you remember about what it took to get there?",
     "condition": "emotion_text_only",
-    "val_t": -0.15729618072509766,
-    "aro_t": 0.1348198652267456,
+    "val_t": -0.40232717990875244,
+    "aro_t": 0.2156050205230713,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I mean... honestly, when I think about my best work, it usually came from genuinely caring about something, not from beating myself up. But I still feel like that critical voice is kind of what keeps me from getting too comfortable or sliding into mediocrity. I guess I'm just scared that if I let up on myself, I'll lose whatever edge I have left.",
-    "therapist": "You just answered your own question in a really meaningful way — your best work came from *caring*, not from punishment, and that's not a small thing to notice. The fear of losing your edge makes complete sense, but it sounds like the critical voice may have taken credit for something that actually belonged to your genuine passion all along. What would it look like to stay deeply committed to your goals while also being the kind of friend to yourself that you'd be to someone else who was struggling the way you are?",
+    "client": "I worked really hard for it — I studied constantly through high school, gave up a lot of social stuff, and my grades were genuinely strong across the board. But when I try to use that as evidence that I belong here, there's this voice that immediately says \"that was high school, this is different, you're out of your depth now.\" I can intellectually see the distinction you're making between a fact and an interpretation, but emotionally it doesn't quite land — the feeling of being an impostor just feels more true than the evidence that I earned my place.",
+    "therapist": "That gap you're describing — where you can see the logic but it doesn't *feel* true — is actually one of the most common and frustrating parts of this kind of thinking, and it doesn't mean you're failing at this process. The impostor feeling has had years of practice and feels like your gut instinct, while the evidence of your hard work feels more distant and abstract, so of course one feels more \"real\" than the other right now. I'm curious — if a close friend came to you with exactly your history, the years of hard work, the strong grades, one failed exam under pressure, would that voice in your head tell *them* they were a fraud who got lucky, or would you see their story differently?",
     "condition": "emotion_text_only",
-    "val_t": -0.18800139427185059,
-    "aro_t": 0.08880615234375,
-    "text_emotion": "Angry"
+    "val_t": -0.07008719444274902,
+    "aro_t": 0.09812605381011963,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and part of me actually wants to believe it — that the passion was the real engine, not the self-criticism. But honestly, it's hard to fully trust that, because the critical voice has been so loud for so long that I can't always tell where it ends and where I begin. And being a \"friend to myself\" sounds nice in theory, but when I'm in the middle of a deadline or I make a mistake at work, that gentleness just feels... irresponsible, like I'd be letting myself off the hook too easily.",
-    "therapist": "What you're describing — not being able to tell where the critical voice ends and where *you* begin — is one of the most important things you've said so far, and it makes sense that it feels disorienting, because that voice has been there so long it can feel like it *is* you rather than something happening *to* you. The idea that gentleness is irresponsible is actually worth examining closely, because there's a real difference between letting yourself off the hook and simply being accurate — a good friend wouldn't lie to you or excuse genuine mistakes, they'd just help you face them without cruelty. When you imagine responding to a deadline or a mistake with fairness rather than harshness, what specifically are you afraid would actually go wrong?",
+    "client": "No, I'd never say that to a friend — I'd probably tell them one exam doesn't define them and that they clearly have what it takes. But when I try to turn that same compassion toward myself, it feels almost dishonest, like I'd just be letting myself off the hook or making excuses for something I actually did wrong. I don't know why it's so much easier to be kind to someone else than to myself.",
+    "therapist": "What you just noticed is really profound — you can offer genuine, evidence-based compassion to a friend, but the moment you turn it inward, kindness feels like cheating rather than fairness. That tells us the standard you're holding yourself to isn't really about truth or accountability; it's a double standard where others deserve understanding but you somehow don't, which is worth questioning. What do you think you'd need to believe about yourself for self-compassion to feel honest rather than like an excuse?",
     "condition": "emotion_text_only",
-    "val_t": -0.16666996479034424,
-    "aro_t": 0.1264406442642212,
-    "text_emotion": "Angry"
+    "val_t": -0.20076370239257812,
+    "aro_t": 0.045729756355285645,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I think what I'm afraid of is that without the harshness, I'd just... stop caring, or stop trying as hard. Like the criticism is the only thing actually keeping me functional, and if I removed it I'd just fall apart or miss every deadline and disappoint everyone. It sounds ridiculous when I say it out loud, but it genuinely feels like the cruelty is load-bearing somehow.",
-    "therapist": "It doesn't sound ridiculous at all — it sounds like someone who has been relying on a coping strategy for so long that it genuinely feels like the foundation, even if it's actually been costing you a lot. That phrase \"load-bearing cruelty\" is striking though, because it suggests you've built something real — you *are* still here, still trying, still caring enough to be in this conversation — and the question worth sitting with is whether the harshness built that, or whether *you* built that despite it. What's one piece of evidence from your own life that suggests you're capable of caring and trying without needing to be cruel to yourself to make it happen?",
+    "client": "I think I'd need to believe that struggling or failing at something doesn't automatically mean I'm less deserving of being here — that mistakes are just part of the process and not evidence of some fundamental flaw in me. But honestly, even saying that out loud feels uncomfortable, like I'm trying to convince myself of something I don't really buy yet. I guess I'm not sure how you actually get from intellectually understanding that to genuinely feeling it, because right now it still just sounds like something you're supposed to say.",
+    "therapist": "The fact that you could articulate that belief so clearly — that struggle doesn't make you less deserving — even while it feels uncomfortable and unconvincing, is actually the first real step; you don't have to feel it fully yet for it to matter. The gap between understanding something and *feeling* it closes gradually through experience rather than through thinking harder, which is why small moments of action — like checking that portal, or talking to an advisor — can do more to shift the feeling than any amount of reasoning with yourself. What might it look like to take just one tiny step this week that your future self would be glad you took, even if it feels uncomfortable in the moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.3549305200576782,
-    "aro_t": 0.22515320777893066,
+    "val_t": -0.15044569969177246,
+    "aro_t": 0.11542701721191406,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That question kind of stops me in my tracks, honestly. I'm sitting here trying to think of an example and my brain keeps wanting to dismiss everything that comes up, like \"yeah but that doesn't count\" or \"you only did that because you had to.\" Maybe... there was this time a few months ago when a friend was going through something really hard and I showed up for them, stayed on the phone for hours, and I wasn't beating myself up the whole time — I was just present. I don't know if that counts, but it didn't feel like it came from self-punishment.",
-    "therapist": "That absolutely counts — and notice what your brain tried to do the moment you found a real example: it immediately moved to disqualify it, which is that critical voice doing exactly what we've been talking about. What you just described is genuinely significant — you showed up fully for someone you cared about, you were present and effective, and none of that came from self-punishment; it came from the same part of you that does your best work. I'm wondering, what does it feel like to just let that example stand for a moment, without the \"yeah but\" — to let it actually count?",
+    "client": "I think the most honest answer is that checking the portal is probably that step, but even just thinking about committing to it this week makes my stomach tighten. Part of me wants to say I'll do it, but I've told myself that before and then found a hundred reasons to avoid it, so I don't want to make a promise I won't keep. Maybe if I made it really small — like, just logging in without even having to look at the GPA page — that might feel less impossible?",
+    "therapist": "That instinct to make it smaller is really wise, not a cop-out — you're working *with* your nervous system rather than trying to bulldoze through it, and that's actually more likely to succeed. Just logging in, cursor on the screen, without any obligation to look further, is a real and meaningful act that starts to teach your brain the portal is survivable. Would it help to think through exactly when and where you might do that this week — even picking a specific moment can make the difference between something that happens and something that stays as a good intention?",
     "condition": "emotion_text_only",
-    "val_t": -0.11488544940948486,
-    "aro_t": 0.12711024284362793,
+    "val_t": -0.11410057544708252,
+    "aro_t": 0.14504480361938477,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "It feels... uncomfortable, honestly, like I'm waiting for something to go wrong if I let myself feel good about it. There's this weird guilt that creeps in, like I don't deserve to just sit with something positive without immediately balancing it out with all the ways I fall short. But I guess, if I try to just let it stand for a second, there is something there — like maybe I'm not completely useless to the people I care about.",
-    "therapist": "That moment of \"maybe I'm not completely useless to the people I care about\" — I want you to notice that you got there, even through the discomfort and the guilt, and that matters. What you're describing, that reflex to immediately balance out anything positive with criticism, is actually a pattern we can work with directly, because it's not humility or accuracy — it's the critical voice refusing to let evidence that contradicts it actually land. What do you think it would mean for your sense of self if that one example — just that one — were allowed to be true, fully and without conditions?",
+    "client": "Okay, I think if I had to pick a specific moment, it would be tomorrow morning before my roommate wakes up, when the apartment is quiet and I'm less likely to spiral in front of someone. But I'm already noticing that I'm building in this condition of \"when things are perfect\" which is probably another way of giving myself an escape route. I'll try to commit to tomorrow morning, but I honestly can't promise I won't just sit there with the laptop open and freeze again.",
+    "therapist": "You're catching your own patterns in real time now — noticing the \"perfect conditions\" escape hatch even as you're building it, which is genuinely impressive self-awareness and a sign this work is already having an effect. And if you do freeze with the laptop open, that's not failure — sitting with the discomfort without running from it entirely is still a step forward, and you can just close it and try again. How might you want to treat yourself in that moment if the freeze does happen, rather than letting it become more evidence for the impostor story?",
     "condition": "emotion_text_only",
-    "val_t": -0.2947477102279663,
-    "aro_t": 0.12542760372161865,
-    "text_emotion": "Angry"
+    "val_t": -0.008812785148620605,
+    "aro_t": 0.10528290271759033,
+    "text_emotion": "Neutral"
   }
 ]

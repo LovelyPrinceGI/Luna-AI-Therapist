@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really on edge lately, and honestly I wasn't sure if coming here was even worth it. My partner moved in with me about a month ago, and ever since then I've been feeling completely overwhelmed by how messy the apartment has gotten. I keep telling myself it's a small thing, but it's like this constant low-level anxiety that never goes away, and I'm scared that if I say something it'll turn into a huge fight.",
-    "therapist": "It's really good that you came, and I can hear how this has been quietly wearing on you — that kind of constant, low-grade tension can be just as exhausting as a big crisis. It sounds like part of what's keeping you stuck is a worry that speaking up will make things worse, which is actually a really common thought pattern worth exploring together. What do you imagine would happen, specifically, if you did bring it up with your partner?",
+    "client": "I've been feeling really on edge lately, and I'm not even sure how to explain it without sounding petty. My partner moved in with me about a month ago, and ever since then I've been feeling this constant low-level stress about the state of our apartment — there's just always stuff everywhere, and it makes me feel like I can't breathe in my own space. I guess I'm a little skeptical that talking about it is going to actually fix anything, but I figured I should try something before it turns into a real blowup between us.",
+    "therapist": "It makes complete sense that you're feeling unsettled — having your personal space suddenly change in a big way can stir up a real sense of losing control, even when you love the person you're sharing it with, and that's not petty at all. I also appreciate that you're being upfront about your skepticism, because that kind of honesty actually helps us work together more effectively. I'm curious — when you walk into the apartment and see the clutter, what's the first thought that tends to run through your mind?",
     "condition": "emotion_text_only",
-    "val_t": -0.3744584321975708,
-    "aro_t": 0.31216204166412354,
+    "val_t": -0.2642863988876343,
+    "aro_t": 0.18662238121032715,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess I imagine they'd get defensive, or maybe just shut down completely and give me the silent treatment for days. And then I'd feel even worse, like I caused this whole thing by opening my mouth in the first place. It's almost easier to just keep it to myself and hope the tension kind of... fades on its own, even though I know deep down it never really does.",
-    "therapist": "It sounds like you're caught in a really draining cycle — you stay quiet to avoid pain, but the silence creates its own kind of pain, and there's no real relief either way. That belief that speaking up automatically leads to disaster is worth gently examining together — I'm curious, has there been a time in this relationship, or even a past one, where you raised something difficult and it *didn't* go the way you feared? What evidence do you have, on either side, about how your partner actually tends to respond?",
+    "client": "Honestly, the first thing I think is something like \"this is never going to get better\" — like, it's not just annoyance in the moment, it's this sinking feeling that this is just what my life is now. And then almost immediately I feel guilty for even caring about it, because my partner is a good person and I don't want to be the kind of partner who makes someone feel unwelcome in their own home. It's like I'm stuck between being frustrated and being ashamed of the frustration.",
+    "therapist": "That double bind you're describing — frustration pulling one way and guilt pulling the other — sounds genuinely exhausting to carry, and it makes sense you feel stuck. What's really worth noticing here is that thought \"this is never going to get better,\" because that kind of all-or-nothing prediction tends to amplify the distress far beyond the clutter itself. What evidence do you have, even small things, that suggests some aspects of living together *have* shifted or could shift with time?",
     "condition": "emotion_text_only",
-    "val_t": -0.23909711837768555,
-    "aro_t": 0.07739865779876709,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I mean... yeah, there was this one time a few months ago where I told him I was feeling overwhelmed with everything on my plate, and he actually listened and even offered to help more around the house for a while. But my brain keeps kind of dismissing that, like it was a fluke or he was just in a good mood that day. It's hard to hold onto that as real evidence when the fear feels so much louder than the memory.",
-    "therapist": "That's such an important thing you just noticed — your brain is actively discounting real evidence that contradicts the fear, which is a classic pattern called \"mental filtering,\" and just naming it like you did is a meaningful first step. The fear feels vivid and loud because it's protecting you, but it's essentially drowning out a memory that actually shows your partner is capable of showing up for you. What do you think it would take for that positive memory to feel just as \"real\" and worth holding onto as the fearful prediction?",
-    "condition": "emotion_text_only",
-    "val_t": -0.21126925945281982,
-    "aro_t": 0.19356250762939453,
+    "val_t": -0.45596015453338623,
+    "aro_t": 0.21835827827453613,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "I hear what you're saying, and part of me gets it logically, but honestly the fearful thought just feels so much more... urgent, I guess. Like, the memory of them showing up feels almost fragile, like I could talk myself out of it being meaningful really easily. I'm not sure what it would take for it to feel as real, because my brain keeps finding reasons why that one time was an exception or a fluke.",
-    "therapist": "What you're describing makes a lot of sense — there's something about anxiety that makes the threatening story feel urgent and concrete, while the reassuring evidence feels slippery and easy to dismiss, almost like your mind is working harder to protect the fear than to protect you. This is something we can actually work with directly — one approach is to deliberately build a small \"evidence log\" of moments your partner shows up for you, so over time the positive data starts to have the same weight and texture as the fearful predictions. I'm wondering, if you were to look back over the past month, even with all the tension around the mess, are there any small moments — however minor — where your partner did something that felt caring or considerate?",
+    "turn": 3,
+    "client": "I mean, I guess there have been a couple of evenings where my partner tidied up without me saying anything, and that did feel like a relief. But honestly, when I try to use that as evidence that things will be okay, it feels kind of forced — like I'm just trying to talk myself out of a feeling that might actually be telling me something real. I'm not sure I trust the reframe yet, if that makes sense.",
+    "therapist": "That instinct you're naming is actually really important — reframes shouldn't feel like you're papering over something real, and good CBT isn't about forcing positivity. The goal is more to hold both things at once: the feeling might be signaling a genuine need around your space *and* \"this is never going to get better\" might still be an overstatement of what the evidence actually shows. So rather than using those evenings to dismiss the feeling, what do you think the feeling might actually be asking for?",
     "condition": "emotion_text_only",
-    "val_t": -0.11273050308227539,
-    "aro_t": 0.13839876651763916,
+    "val_t": -0.04017162322998047,
+    "aro_t": 0.10381782054901123,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I think it's asking for some kind of agreement or structure around the space — like, not just hoping my partner will tidy up sometimes, but actually having a conversation where we both acknowledge that this matters to me. But that's the part that scares me, because what if I bring it up and my partner feels criticized or unwelcome, and then I've made things worse instead of better? I don't really know how to have that conversation without it turning into something hurtful.",
+    "therapist": "You've actually done something really important here — you've moved from \"this is never going to get better\" to identifying a specific, concrete need, which is a meaningful shift. The fear that speaking up will hurt your partner makes a lot of sense, but it's worth gently examining whether staying silent is actually protecting the relationship, or whether it's quietly building the kind of resentment that leads to the blowup you were originally hoping to avoid. What would it look like to bring this up in a way that invites your partner *in* rather than putting them on the defensive?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3365597724914551,
+    "aro_t": 0.19519639015197754,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... yeah, I guess there are a few things if I really think about it. Like last week he brought me a cup of tea without me asking, and he did check in on me when I seemed quiet one evening. But honestly, my first instinct is to kind of dismiss those things, like they don't count as much because they're small, or I tell myself he was just doing them out of habit and not because he actually cares.",
-    "therapist": "It's really telling that even as you listed those moments, your mind immediately moved to minimize them — and yet you *did* find them, which means they're there, real and waiting to be noticed. That habit of explaining away care (\"it was just routine, it doesn't count\") is worth sitting with, because it essentially makes it impossible for your partner to ever fully \"prove\" he cares, no matter what he does. I'm curious — if a close friend described their partner bringing them tea unprompted and checking in when they seemed down, would you tell *them* those things don't count?",
+    "client": "I think I'd want to frame it as being about me and my anxiety rather than about what my partner is doing wrong — something like \"I need us to figure this out together because the clutter is really affecting my stress levels\" rather than \"you're messy and it's a problem.\" But even as I say that, I'm already imagining my partner getting defensive anyway, because they might hear it as me saying the apartment wasn't fine before they moved in, which isn't really what I mean. I guess I'm not confident I can find the right words in the moment when I'm already feeling anxious about the conversation itself.",
+    "therapist": "The framing you just came up with is genuinely thoughtful — leading with your own experience rather than your partner's behavior is exactly the kind of approach that tends to keep conversations from escalating. It's also really understandable that you're worried the anxiety in the moment will get in the way, because that's a very real thing that happens, and it's worth separating the work of *finding the words* from the work of *delivering them* — you don't have to figure it all out on the fly. Would it help to think through what you'd most want your partner to understand at the heart of this conversation, so you have something solid to come back to even if the words aren't perfect?",
     "condition": "emotion_text_only",
-    "val_t": -0.08460474014282227,
-    "aro_t": 0.07316374778747559,
-    "text_emotion": "Neutral"
+    "val_t": -0.22485458850860596,
+    "aro_t": 0.1363760232925415,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "That question kind of stops me in my tracks, honestly. No, I wouldn't tell a friend that — I'd probably say their partner sounds really thoughtful. But it feels different when it's my own life, like there's always this voice saying \"yeah, but you don't really know his intentions\" or \"that's just what people do, it's not special.\"",
-    "therapist": "That moment of pause is really significant — you just caught yourself applying a completely different, harsher standard to your own life than you would to someone you love, and that double standard is so worth exploring. That inner voice that questions intentions and strips the meaning from kind gestures is likely an old protective habit, not an accurate read of reality — it keeps you safe from disappointment, but it also keeps you from fully receiving care that might genuinely be there. I'm curious, where do you think that voice learned to be so skeptical — does it feel familiar from earlier in your life, maybe before this relationship?",
+    "client": "I think what I'd most want my partner to understand is that this isn't about them being a bad person or doing something wrong — it's that I have this deep need for my space to feel calm, and right now it doesn't, and that's making me feel like a stranger in my own home. That feels like the core of it. But I'm a little worried that even if I get clear on that in my head, the actual conversation is going to go sideways the moment I see any hurt on my partner's face, because then I'll just start backpedaling and apologizing and the whole point will get lost.",
+    "therapist": "What you just articulated — that this is about your need for calm, not a verdict on your partner — is genuinely clear and compassionate, and that's the thread worth holding onto. The pattern you're describing, where your partner's hurt face pulls you into apologizing and abandoning your own point, is really common and worth naming as its own thing to prepare for — almost like a reflex that kicks in before you've had a chance to think. What do you think it would mean for you, and for the relationship, if you were able to stay present with your partner's discomfort for a moment without immediately trying to make it go away?",
     "condition": "emotion_text_only",
-    "val_t": -0.09471607208251953,
-    "aro_t": 0.11537289619445801,
-    "text_emotion": "Neutral"
+    "val_t": -0.2687145471572876,
+    "aro_t": 0.155938982963562,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "Yeah, it does feel familiar, actually. I think growing up, showing that something mattered to me kind of made me a target — like if people knew what I cared about, they'd use it against me or just disappoint me anyway. So I learned pretty early to just... not let things land, I guess, to stay one step ahead of the hurt.",
-    "therapist": "What you just shared takes real courage to say out loud, and it makes so much sense — you learned to protect yourself by keeping good things at arm's length, because in your experience, letting something matter was a vulnerability that could be used against you. That was a genuinely smart adaptation for the environment you were in, but it sounds like it's now following you into a relationship where the rules might actually be different. I'm wondering, what does it feel like to consider the possibility that it might be safe, even just a little, to let those small moments — the tea, the check-in — actually land?",
+    "client": "I think it would probably mean that I actually respect my partner enough to have a real conversation instead of just managing their emotions the whole time — like, letting them have a reaction without immediately trying to fix it might actually be more honest than smoothing everything over. But sitting with someone else's discomfort, especially someone I love, feels almost physically uncomfortable to me, like there's this alarm going off that I have to do something. I'm not sure I know how to just stay there without it feeling like I'm being cruel by not apologizing.",
+    "therapist": "That insight — that staying present with your partner's reaction *is* the respectful thing, not the cruel thing — is really significant, and it sounds like part of you already knows that even if it doesn't feel that way in the moment. That alarm you're describing, the one that tells you to fix or apologize immediately, is worth getting curious about, because it's likely been a useful reflex at some point in your life even if it's getting in the way now. Where do you think that urge to smooth things over so quickly first came from for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.07808661460876465,
-    "aro_t": 0.13546371459960938,
+    "val_t": -0.2909432649612427,
+    "aro_t": 0.19153320789337158,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "Honestly, when you put it that way, something in me kind of... softens a little, but then immediately I feel this panic, like I'm being naive or setting myself up. It's like even entertaining the idea that it could be safe feels dangerous in itself, you know? And I guess part of me is waiting for the catch, because there's always been a catch.",
-    "therapist": "That softening you felt for even a moment is really precious — it tells you that some part of you *wants* to believe it could be safe, even as another part rushes in to shut it down and brace for the catch. That panic makes complete sense given everything you've carried, and it's not naivety to question it — it's actually brave, because you're starting to notice the difference between an old pattern protecting you from an old world, and what might actually be true right now. I'm curious, what would it mean for you — about yourself, your past, maybe even your worth — if it turned out there *wasn't* a catch this time?",
+    "client": "I think it probably comes from growing up in a house where conflict felt really unpredictable — like, when someone got upset, it could escalate fast, so I learned early that the safest thing was to just smooth it over as quickly as possible. It became automatic, I guess. But I'm a little hesitant to go too far down that road right now, because I came in wanting to figure out how to talk to my partner about the apartment, and I'm worried if we start unpacking my whole childhood I'll leave here feeling more overwhelmed than when I came in.",
+    "therapist": "That's a really wise and self-aware boundary to set, and I want to honor it — you came in with a practical goal and it makes complete sense to stay anchored to that. What's worth just briefly acknowledging is that the reflex you described makes total sense given what you grew up with, and it means the challenge in this conversation with your partner isn't a personal failing — it's just an old strategy meeting a new situation. So with that in mind, knowing this reflex might show up, what's one small thing you could do in that moment to give yourself a beat before the apology kicks in?",
     "condition": "emotion_text_only",
-    "val_t": -0.14350199699401855,
-    "aro_t": 0.2550917863845825,
+    "val_t": -0.2517353296279907,
+    "aro_t": 0.23082566261291504,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That question kind of stops me in my tracks, honestly. Because if there wasn't a catch... I think it would mean I've been wrong about myself for a really long time, like maybe I'm not actually someone who only gets the scraps of connection. But that's almost scarier than the catch itself, because then I'd have to figure out what to do with that, and I don't really know who I am without the waiting for things to fall apart.",
-    "therapist": "What you just said is one of the most profound and tender things a person can recognize about themselves — that the story of \"I only get scraps\" has become so woven into your identity that being loved well feels more disorienting than being let down. That's not a flaw in you; that's just how long you've had to live inside that story to stay safe. I want to sit with you in that question for a moment — not to rush past it — because who you are without the waiting and the bracing is something worth getting genuinely curious about, not afraid of. What's one small word or quality that comes to mind when you imagine a version of yourself who didn't have to stay one step ahead of the hurt?",
+    "client": "Maybe I could just take a breath and remind myself that a few seconds of silence isn't the same as things falling apart — like, giving myself permission to pause before reacting. But I'll be honest, that sounds almost too simple, and I'm not sure a breath is going to be enough when I'm already in the middle of feeling anxious and watching my partner's expression change. I guess I'm skeptical that something that small could actually interrupt a reflex that's been running on autopilot for most of my life.",
+    "therapist": "The skepticism is fair — a breath isn't magic, and it's not meant to erase the reflex entirely, especially not the first time. But what it can do is create just enough of a gap between the feeling and the action for the part of you that already knows the truth — that your partner's discomfort isn't an emergency — to have a voice. You've actually already been practicing something like this today, pausing to question thoughts rather than just reacting to them, so the capacity is more there than it might feel. What would it mean to treat this conversation with your partner as an experiment rather than a test you can pass or fail?",
     "condition": "emotion_text_only",
-    "val_t": -0.1741858720779419,
-    "aro_t": 0.1622527837753296,
-    "text_emotion": "Angry"
+    "val_t": -0.11003232002258301,
+    "aro_t": 0.08548760414123535,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I sit with that question for a second and the first word that comes up is \"open,\" but then immediately I feel this weird embarrassment about it, like that's too naive or too vulnerable to even say out loud. It's strange because I actually want that — to not be constantly scanning for the moment someone pulls away — but imagining it feels almost dangerous, like I'd be setting myself up. I guess I'm not sure if \"open\" is who I could actually be, or just who I wish I was before all of this.",
-    "therapist": "The fact that \"open\" came up first, before the embarrassment rushed in to second-guess it, tells me something important — that it's not just a wish, it's something alive in you that already knows its own name. That embarrassment about wanting openness is worth being gentle with, because it's essentially shame about having needs and hopes, which makes sense given what you learned early on about the cost of letting things matter. I wonder if we could reframe it just slightly — what if \"open\" isn't who you were before all of this, but actually who you're becoming *because* of the work you're doing right now, in moments exactly like this one?",
+    "client": "I think framing it as an experiment does take some of the pressure off, because a test implies there's a right answer I could get wrong, whereas an experiment is more like — whatever happens, I learn something. But I'm also aware that in the moment it's going to be hard to remember that framing when it feels like the relationship is on the line. I suppose what I'm taking away is that I have more to work with than I thought I did coming in here, even if I'm still not sure how it's all going to go.",
+    "therapist": "There's something really meaningful in what you just said — you came in skeptical that talking would help, and you're leaving with a sense that you actually have real tools and clarity to work with, even if the uncertainty hasn't disappeared. That shift matters, and it's worth trusting. As you move toward that conversation with your partner, what feels like the right moment to have it — not perfect conditions, but good enough?",
     "condition": "emotion_text_only",
-    "val_t": -0.20991933345794678,
-    "aro_t": 0.13797366619110107,
-    "text_emotion": "Angry"
+    "val_t": -0.055483102798461914,
+    "aro_t": 0.07382690906524658,
+    "text_emotion": "Neutral"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandmother passed away last month. Every time there's a family get-together, I just can't seem to enjoy it — it's like her absence is this heavy cloud hanging over everything, and I keep waiting for her to walk through the door or say something at the table. I'm not even sure talking about it is going to change how I feel, but I figured I'd give this a try.",
-    "therapist": "I'm really glad you gave this a try, and I want you to know that what you're feeling — that heavy cloud, that instinctive waiting for her — makes complete sense after losing someone so woven into your family's life. Grief doesn't follow a neat timeline, and those moments at the table where her absence feels almost louder than her presence ever was can be incredibly painful. I'm curious — when you find yourself waiting for her to walk through the door, what do you notice happening in your body or your thoughts in that moment?",
+    "client": "I've been really struggling since my grandmother passed away last month. Every time there's a family get-together, I just can't seem to enjoy it the way I used to — it's like her absence is this huge shadow hanging over everything. I'm not even sure talking about it is going to change how I feel, but I figured I'd give this a try.",
+    "therapist": "I'm really glad you decided to give this a try, and I want you to know that what you're feeling makes complete sense — losing your grandmother and then facing family gatherings without her presence is a profound kind of grief. That \"shadow\" you described is such a meaningful way to put it, and it tells me how central she was to those moments of connection for you. I'm curious — when you're at one of those gatherings and that feeling washes over you, what kinds of thoughts tend to run through your mind in those moments?",
     "condition": "baseline",
-    "val_t": -0.1865556240081787,
-    "aro_t": 0.11647117137908936,
+    "val_t": -0.15466606616973877,
+    "aro_t": 0.09565961360931396,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's like my chest gets really tight, almost like I'm holding my breath without realizing it, and then this wave of guilt hits me because part of me still expects to hear her collar jingling down the hallway. My thoughts kind of spiral into \"you should have done more\" or \"why didn't you take her to the vet sooner\" even though I know logically we did everything we could. It's embarrassing to feel this wrecked over a dog, honestly, like I wonder if that's even normal or if I'm just... too attached.",
-    "therapist": "Losing a pet who was so deeply woven into your daily life — those sounds, that presence — is a very real and profound grief, and there's nothing embarrassing about feeling wrecked by it. I also want to gently notice something: you said yourself that *logically* you know you did everything you could, yet your mind keeps generating \"you should have done more\" — that's a really important gap worth exploring. What do you think that critical inner voice is trying to do for you, even if it's causing you pain?",
+    "client": "It's mostly things like \"she should be here right now\" or \"nothing is ever going to feel the same again.\" And then I start feeling guilty, like I'm ruining the moment for everyone else by being sad, even though I'm trying to hold it together on the outside. It's this weird combination of grief and guilt that just makes me want to leave early and be alone.",
+    "therapist": "Those thoughts — \"she should be here\" and \"nothing will feel the same\" — are such a natural part of grief, and it makes sense they'd pull you away from the present moment, but I also notice that the guilt on top of the grief sounds like it's creating a second layer of pain that's almost harder to carry. It's worth gently questioning that guilt — is there any real evidence that your sadness is actually ruining the experience for others, or might that be your mind adding an extra burden during an already tender time? I wonder, if a close family member told you they were quietly grieving at a gathering, would you feel they were ruining it for you?",
     "condition": "baseline",
-    "val_t": -0.41161835193634033,
-    "aro_t": 0.18998360633850098,
-    "text_emotion": "Angry"
+    "val_t": -0.5004998445510864,
+    "aro_t": 0.1854705810546875,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess I never really thought about it that way — like the voice is trying to do something for me. My first instinct is to say it's just punishing me, but maybe... maybe it's trying to make me feel like I had more control than I did? Like if I could have done more, then her death wasn't just this random, unstoppable thing that happened no matter what I did. That's a really uncomfortable thought to sit with, honestly.",
-    "therapist": "That insight you just reached is genuinely profound, and I can understand why it feels uncomfortable — because sitting with the idea that we can't always protect the ones we love, no matter how much we do, is one of the hardest truths there is. Your mind was trying to shield you from that helplessness by handing you a problem to solve, even if the \"problem\" was blaming yourself. What feels more bearable to you right now — the guilt that suggests you had control, or the helplessness of knowing you didn't?",
+    "client": "No, I wouldn't feel that way at all — I'd actually want to comfort them. But it's harder to apply that same logic to myself, because it just feels different when it's me. Like I know intellectually what you're saying makes sense, but in the moment at those gatherings, the guilt still hits just as hard regardless of what I logically know.",
+    "therapist": "What you're describing — that gap between knowing something logically and actually *feeling* it in the moment — is one of the most human and frustrating parts of grief, and it doesn't mean you're doing anything wrong. That compassion you'd so naturally offer a family member is actually still available to you; it just needs some practice to turn inward, especially when emotions are running high. I'm wondering, in those moments at gatherings when the guilt starts to rise, is there anything — even something small — that has ever helped you feel even a tiny bit more gentle toward yourself?",
     "condition": "baseline",
-    "val_t": -0.3702564239501953,
-    "aro_t": 0.13846981525421143,
+    "val_t": -0.24948596954345703,
+    "aro_t": 0.09974801540374756,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "Honestly, neither one feels bearable right now, and I hate that those are the only two options. But if I'm being really honest... the guilt at least feels like it belongs to me, like it's something I can carry and maybe fix someday. The helplessness just feels like standing in the middle of the ocean with nothing to hold onto.",
-    "therapist": "What you just described — choosing guilt because it feels like something to *hold* — is one of the most human things I've ever heard, and it takes real courage to be that honest with yourself. The guilt gives you something solid in the middle of that ocean, even if it's heavy and it hurts. I wonder, though — what might it look like to find something else to hold onto, something that honors how much you loved her without costing you so much pain?",
+    "client": "Honestly, I'm struggling to think of anything that really helps in those moments. Sometimes stepping outside for a few minutes gives me a tiny bit of relief, but then I come back in and feel guilty about that too, like I abandoned everyone. It's like there's no escape from the guilt no matter what I do.",
+    "therapist": "It sounds like guilt has become almost like a trap where even the one thing that brings you a little relief — stepping outside — gets turned into another reason to feel bad, and that's exhausting. I want to gently offer a reframe: stepping outside for a few minutes isn't abandoning anyone, it's actually you taking care of yourself so you *can* be present, which takes real courage when you're grieving. What do you think your grandmother would say if she knew you were stepping outside for a moment to collect yourself in her memory?",
     "condition": "baseline",
-    "val_t": -0.27486300468444824,
-    "aro_t": 0.16848039627075195,
-    "text_emotion": "Angry"
+    "val_t": -0.3942255973815918,
+    "aro_t": 0.09433364868164062,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and part of me wants to believe that's possible, but I honestly don't know what that would even look like. The guilt has been there so long that it almost feels like it IS the love at this point, like if I let go of it, I'm letting go of her. I guess I'm scared that finding something \"lighter\" to hold onto would mean I'm just... moving on, and I don't want to move on.",
-    "therapist": "What you just said — that the guilt has become intertwined with the love itself — is such an important thing to name, and I want to gently offer a different way to look at it: moving *through* grief doesn't mean moving *away* from her, and honoring her memory doesn't require you to keep hurting yourself to prove she mattered. The love was real completely on its own, before any of this guilt existed. What do you think *she* would have wanted you to carry forward — the pain, or something else?",
+    "client": "She would probably tell me to stop being so hard on myself — she was always the one in the family who gave people permission to feel what they needed to feel. But even knowing that, it almost makes it worse in a way, because it reminds me that she's not there to actually say it to me anymore. I guess I never realized how much I relied on her for that kind of reassurance.",
+    "therapist": "What a beautiful and profound thing to recognize — that she was your source of permission to feel, and now you're discovering that you need to find a way to carry that gift she gave you *within yourself*. It makes complete sense that realizing her role brings a fresh wave of loss, and that's not a setback — it's actually a deeper layer of grief that deserves its own space. I'm wondering, are there small ways you might begin to act as that voice for yourself — almost like honoring her by treating yourself the way she would have treated you?",
     "condition": "baseline",
-    "val_t": -0.2307513952255249,
-    "aro_t": 0.15442848205566406,
+    "val_t": -0.1319417953491211,
+    "aro_t": 0.0807809829711914,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and part of me knows you're probably right — she wouldn't have wanted me to be like this. But it almost feels too easy to say \"she'd want you to be happy,\" like it lets me off the hook somehow, like I could just decide to stop feeling guilty and that would be okay. The guilt feels like the last thing I'm still doing *for* her, even if I know that sounds strange.",
-    "therapist": "It doesn't sound strange at all — it sounds like loyalty, like the guilt has become a kind of vigil you're keeping for her, and of course you don't want to just walk away from that. But I want to sit with something you said: that releasing the guilt feels like it \"lets you off the hook,\" which suggests some part of you believes you need to be punished — and I'm not sure that's the same thing as truly honoring her. What might it look like to keep *loving* her actively, in some way that feels like doing something *for* her, rather than *to* yourself?",
+    "client": "I like the idea of it, but I honestly don't know how to do that in practice — it sounds nice in theory but in the moment I'm just flooded with emotion and I can't think clearly enough to be my own reassuring voice. It feels a little like being told to be your own best friend when you're drowning. I guess I'm worried that trying to channel her will just make me miss her more instead of actually helping.",
+    "therapist": "That \"drowning\" image is really important — it tells me that in those flooded moments, we can't ask your mind to do complex emotional work, and trying to force it could feel like one more thing to fail at. So rather than channeling her in the thick of it, I wonder if we could think smaller — like a single word or a brief physical gesture that carries her presence, something you could access even when you're overwhelmed, almost like a tiny anchor she left behind. Is there a word she used, or something she did — a touch on the arm, a particular phrase — that instantly brings her warmth to mind?",
     "condition": "baseline",
-    "val_t": -0.20986604690551758,
-    "aro_t": 0.17341983318328857,
+    "val_t": -0.16120290756225586,
+    "aro_t": 0.14611971378326416,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That's... a really hard question to sit with. Because part of me wants to say something like planting a tree in her name or donating to a cause she cared about, but then another part of me immediately thinks, \"that's just something people do to make themselves feel better,\" and I'm right back to feeling like I'm trying to escape the guilt rather than actually honor her. I guess I don't fully trust that I deserve to feel better yet.",
-    "therapist": "That last line — \"I don't fully trust that I deserve to feel better yet\" — that's the heart of everything, and I'm really grateful you found those words, because that's not about her anymore, that's about what you believe you're worthy of. The idea of planting a tree or donating isn't an escape from honoring her — but I hear that your mind immediately disqualifies anything that might bring you relief, which tells me the guilt may have become less about her and more about punishing yourself. I'm wondering — what would you need to believe, or what would need to be true, for you to feel like you *did* deserve to feel better?",
+    "client": "She used to call me \"sweetheart\" in this very specific, unhurried way — not like how people throw the word around, but like she really meant it and had all the time in the world for you. Just thinking about it now actually does bring a little warmth, but I'm also scared that if I use it as some kind of technique, it'll start to feel mechanical and lose what makes it special. I don't want to turn something genuine into a coping strategy, if that makes sense.",
+    "therapist": "That fear makes complete sense, and it actually speaks to how deeply you want to protect what was real between you — that's love, not resistance. But I'd gently offer that carrying her \"sweetheart\" with you into hard moments isn't diminishing it; it might actually be the most alive way to keep that genuine connection breathing in your everyday life. I'm curious — do you think she would have wanted that word to stay locked away safely, or to be there for you exactly when you needed it most?",
     "condition": "baseline",
-    "val_t": -0.2443903684616089,
-    "aro_t": 0.14874660968780518,
+    "val_t": -0.13862669467926025,
+    "aro_t": 0.13961505889892578,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That question kind of stops me in my tracks, honestly. I think... I'd need to feel like I did enough while she was still here, like I said everything I needed to say, and I didn't. I keep coming back to that last visit where I cut it short because I had work stuff, and I don't know how you ever come back from something like that.",
-    "therapist": "That moment is carrying so much weight for you, and I want you to know that almost everyone who has loved and lost someone has a moment like that — a last visit, an unsaid thing — because we're human and we never know which goodbye is the final one. The fact that you *had* to leave for work that day doesn't erase the countless times you showed up, and I gently want to ask: if a close friend told you they'd cut a visit short for work and then lost someone they loved, would you tell them they didn't do enough, or would you see the whole picture of their love? What makes it so much harder to offer yourself that same view?",
+    "client": "When you put it that way, I think she would have wanted me to use it — she wasn't the type to hoard love, she gave it freely. But I still feel a little uncertain, like what if I try it at the next family gathering and it just makes me break down crying in front of everyone, which is exactly what I've been trying to avoid. I don't want to test it out for the first time in a room full of people.",
+    "therapist": "That's such wise self-awareness — recognizing that a crowded family gathering isn't the right place for a first experiment with something this tender. What if you tried it somewhere safe and private first, maybe just sitting quietly at home, letting yourself hear that word and whatever feelings come with it, so it's not completely uncharted territory when you're around others? That way you're not avoiding it, but you're also not throwing yourself into the deep end — you're giving yourself the same unhurried care she always gave you.",
     "condition": "baseline",
-    "val_t": -0.16336631774902344,
-    "aro_t": 0.19295227527618408,
+    "val_t": -0.2592695951461792,
+    "aro_t": 0.23914051055908203,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and honestly, if a friend told me that story, I'd probably tell them they were being too hard on themselves. But it just feels different when it's me — like I don't get to have that same compassion extended inward, you know? There's this voice in my head that says I should have known, that I should have stayed, and logic doesn't really seem to quiet it down.",
-    "therapist": "That gap you're describing — where you can offer grace so freely to others but the door feels bolted shut when it comes to yourself — is something really worth exploring, because it tells us this isn't really about logic at all, it's about a deeper belief you hold about what *you* deserve. That critical voice isn't telling you the truth, it's telling you a story, and the fact that logic can't quiet it suggests it might need something softer than an argument to loosen its grip. I'm curious — can you remember a time, even briefly, when you *did* manage to be kind to yourself, and what made that possible?",
+    "client": "That actually feels more manageable than what I was imagining — I think I was picturing having to use it perfectly in a high-pressure moment right away. But I'll be honest, I'm a little worried that sitting alone with it might just turn into a full crying session where I spiral, and then I'll feel worse instead of better. I guess I don't fully trust myself to handle what might come up when there's no one around to help me through it.",
+    "therapist": "That fear of spiraling alone is really valid, and it's worth knowing that crying — even a lot of it — isn't the same as spiraling; sometimes it's actually grief doing exactly what it needs to do. But we can build in a small safety net: you might try it for just a few minutes with a clear, gentle endpoint planned, like making yourself a cup of tea afterward, so there's a soft landing waiting for you rather than an open-ended unknown. What would help you feel just enough supported to try it — is there someone you could text afterward, or a small ritual that would help you feel held even when you're on your own?",
     "condition": "baseline",
-    "val_t": -0.17435777187347412,
-    "aro_t": 0.12288892269134521,
+    "val_t": -0.26147663593292236,
+    "aro_t": 0.18212366104125977,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I sat with that for a second, and honestly... I'm struggling to think of a time. Maybe once, when I was really sick and physically couldn't do anything, I let myself rest without too much guilt, but even then there was this background hum of \"you should be doing something.\" It's like the only way I can justify being kind to myself is if I have a really concrete, external excuse — like my body literally forcing me to stop.",
-    "therapist": "What you just described is really significant — that self-compassion only feels *permitted* when something outside of you forces it, as if you need a valid excuse just to be human. That tells me this isn't just about grief or your grandmother; there may be a much older, deeper pattern here around believing your own needs require justification before they're allowed. I'm wondering — do you have any sense of where that idea first came from, that you need to *earn* the right to be gentle with yourself?",
+    "client": "There's my cousin who was also really close to her — I think she'd understand if I reached out after. But I'm realizing as I say that, that I've been avoiding talking to her about all of this because I don't want to make her sad too, which I guess is that same guilt pattern showing up again. Maybe texting her afterward could actually be good for both of us, though I'm still not entirely sure I'm ready to open that door.",
+    "therapist": "It's really meaningful that you just caught that guilt pattern in real time — that's actually a significant moment of self-awareness, and it suggests you're starting to recognize how that voice operates before it fully takes hold. There's something quietly beautiful in the possibility that reaching out to your cousin isn't burdening her, but offering her the same connection your grandmother modeled — that generous, unhurried love that didn't hoard itself. I'm wondering, what would \"ready enough\" look like for you — not perfectly ready, but just enough to take that small step toward her?",
     "condition": "baseline",
-    "val_t": -0.2606170177459717,
-    "aro_t": 0.17989933490753174,
-    "text_emotion": "Angry"
+    "val_t": -0.1361534595489502,
+    "aro_t": 0.055612802505493164,
+    "text_emotion": "Neutral"
   }
 ]

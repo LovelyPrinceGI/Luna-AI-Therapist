@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just can't seem to get past losing my dog. Everything feels kind of empty now, even simple things like making coffee in the morning or watching TV - it's just not the same without him there. Part of me feels silly for being so upset over a pet, but he was really my best friend for 12 years.",
-    "therapist": "I hear how deeply you're feeling this loss, and it makes complete sense - 12 years of companionship creates such a meaningful bond. There's nothing silly about grieving a relationship that brought you so much comfort and joy. What are some of your favorite memories of your morning routines together?",
+    "client": "Lately, everything just feels...empty. Ever since I lost my dog last month, I can't seem to enjoy the things I used to love. I keep wondering if therapy can even help with something like this—it’s not like you can bring him back, and that’s all I really want.",
+    "therapist": "\"I hear how deeply you're feeling this loss and how it's affecting your enjoyment of life—it's completely valid to feel this way after losing such a cherished companion. While we can't bring your dog back, we can explore ways to honor his memory and gradually reconnect with the parts of life that might bring you comfort. What was one of your favorite things to do together with your dog?\"",
     "condition": "baseline",
-    "val_t": -0.23564577102661133,
-    "aro_t": 0.18130862712860107,
+    "val_t": -0.2356663942337036,
+    "aro_t": 0.15447258949279785,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I miss waking up to her greeting me with a wagging tail every morning. She would always nudge my hand for pets while I had my coffee, and it felt like such a peaceful way to start the day. Now, mornings feel so empty and quiet, and it’s hard to even want to get out of bed. I keep thinking about how much I took those moments for granted, and it makes me feel even worse.",
-    "therapist": "It sounds like those morning moments were such a special part of your connection, and it’s understandable that their absence feels so heavy now. Grief often brings up feelings of regret, but those moments you shared were filled with love, and she knew that. What would it feel like to honor her memory by incorporating something meaningful into your mornings, even in small ways?",
+    "client": "We used to go on these long walks in the park every evening. It was our special time—he'd get so excited when I picked up the leash. But now...I can't even bring myself to walk past the park. It just makes the emptiness feel worse, you know? Like I'm walking alone when I shouldn't be.",
+    "therapist": "\"It sounds like those walks were such meaningful moments of connection, and it's understandable that avoiding the park feels protective right now—like you're shielding yourself from that painful contrast between then and now. I wonder if there might be a way to gradually reintroduce those walks in a way that honors both your grief and your capacity to heal? What do you think might feel manageable—even if just for a few minutes at first?\"",
     "condition": "baseline",
-    "val_t": -0.2389603853225708,
-    "aro_t": 0.1414961814880371,
+    "val_t": -0.21286273002624512,
+    "aro_t": 0.13901424407958984,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I don’t know... the idea of trying to recreate something in the morning feels overwhelming right now. It’s like, how could anything I do now compare to what we had? It just makes me feel more alone, like I’m pretending things are okay when they’re not. I’m not sure I’m ready to try something like that yet.",
-    "therapist": "It’s completely okay to not feel ready to try something new right now—grief doesn’t follow a timeline, and it’s important to honor where you’re at. It sounds like the idea of replacing or recreating those moments feels painful, and that’s valid. How might it feel to simply acknowledge her presence in your mornings in a way that feels natural, like speaking to her memory or reflecting on a happy moment you shared?",
+    "client": "Maybe I could try walking a different path in the park—one we didn't use to take together. But I'm afraid I'll just end up crying the whole time. Part of me feels like I should be \"over it\" by now, but then I see his favorite toy by the door and... I don't know if I'm ready to face those feelings.",
+    "therapist": "\"It makes so much sense that you're worried about being overwhelmed by emotions—grief has its own timeline, and that 'should be over it' thought might be adding extra pressure on top of your sadness. What if we framed trying a new path as an experiment, where the goal isn't to avoid tears but simply to notice how you feel before, during, and after?\"",
     "condition": "baseline",
-    "val_t": -0.13229155540466309,
-    "aro_t": 0.22541892528533936,
+    "val_t": -0.28598475456237793,
+    "aro_t": 0.20767295360565186,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I don't know... speaking to her memory just makes me feel worse sometimes. Like I'm reminding myself she's really gone. The other morning I accidentally called out for her to bring me coffee like I used to, and when I remembered she wasn't there it hit me all over again. \n\nIt's not that I don't want to remember her, it's just that everything still feels too raw. Even happy memories make me sad now because they're in the past. Does that make sense?",
-    "therapist": "Yes, that makes complete sense—it’s so hard when even the happy memories bring pain because they remind you of what’s lost. Grief can feel like a tug-of-war between wanting to remember and fearing how much it hurts. Would it feel okay to take small steps, like noticing when a memory brings a smile before the sadness, even if it’s fleeting?",
+    "client": "I guess I could try that...but what's the point if I know I'll just feel terrible? It's not like noticing my feelings will bring him back. Sometimes it feels better to just stay home where I don't have to face how much everything has changed. Isn't that...healthier than forcing myself to hurt?",
+    "therapist": "\"You're absolutely right that noticing feelings won't bring him back—and it takes real courage to sit with how much everything has changed. I'm hearing two protective instincts here: one that wants to avoid fresh pain, and another that wonders if facing it could eventually create space for something besides the emptiness. What would it feel like to approach this as honoring your bond rather than forcing yourself to hurt?\"",
     "condition": "baseline",
-    "val_t": -0.366275429725647,
-    "aro_t": 0.1545257568359375,
-    "text_emotion": "Angry"
+    "val_t": -0.059992432594299316,
+    "aro_t": 0.126295804977417,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about trying to notice the good parts of memories first, but it's like... the sadness just crashes in too fast. Even when I start to smile about something, it immediately turns into this heavy feeling in my chest because I know I can't make new memories with them anymore. It makes me not even want to think about the past at all sometimes.",
-    "therapist": "It sounds like the sadness comes so quickly that it overshadows any warmth the memories might bring—that must feel exhausting to experience over and over. Grief can be overwhelming like that, where even the love underneath feels too painful to touch right now. Would it feel safer to let the memories come in their own time, without pressure to \"fix\" how they make you feel?",
+    "client": "I never thought about it as honoring our bond...that actually makes my chest feel less tight. But what if I go and it just feels awful? People might stare if I start crying on the walking path. I don't want it to turn into some public breakdown.",
+    "therapist": "\"I'm so glad that reframing it as honoring your bond feels a bit lighter—it sounds like that idea resonated with you. It's completely valid to worry about feeling overwhelmed in public, but remember, grief is a universal experience, and people often understand more than we think. What if we brainstormed ways to make the walk feel safer for you, like bringing a comforting item or choosing a quieter time of day?\"",
     "condition": "baseline",
-    "val_t": -0.14132249355316162,
-    "aro_t": 0.1064455509185791,
+    "val_t": -0.3841855525970459,
+    "aro_t": 0.18684852123260498,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "Yeah, it does feel exhausting. I want to remember the good times, but every time I try, it's like the sadness just swallows everything else whole. And then I feel guilty for not being able to focus on the happy parts—like I'm failing them somehow by only feeling the pain. \n\nThe idea of letting memories come naturally sounds nice in theory, but what if they never come? Or what if they only bring more pain when they do? It feels risky to just wait and see.",
-    "therapist": "You're carrying so much weight—not just the grief itself, but also this pressure to grieve \"the right way,\" which must feel like an impossible standard. It makes sense that this feels risky when the pain has been so overwhelming. What if, instead of waiting passively, you gave yourself permission to set small boundaries with memories—like allowing them in for just a moment, then gently shifting focus if it becomes too much?",
+    "client": "I could wear his bandana around my wrist—that way he'd still be with me. Early mornings might work, when there's fewer people around. But I'm still scared I'll just stand there frozen at the park entrance, unable to actually go in. What if I fail at even this small step?",
+    "therapist": "\"It takes real strength to anticipate these challenges while still considering the attempt—that's already progress. What if we thought of standing at the entrance as a successful first step, where simply showing up counts as honoring your bond, regardless of whether you walk further that day?\"",
     "condition": "baseline",
-    "val_t": -0.23836326599121094,
-    "aro_t": 0.1393986940383911,
+    "val_t": -0.16120398044586182,
+    "aro_t": 0.10081028938293457,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about setting boundaries with memories, but it feels like I'm betraying my loved one if I don't let the grief consume me completely. When I try to shift focus, I just end up feeling guilty for not thinking about them enough. It's like I'm stuck between drowning in the pain or feeling like a bad person for trying to cope.",
-    "therapist": "That tension between honoring your love and protecting yourself from the pain is so real—it speaks to how deep your care for them runs. Guilt often shows up in grief, whispering that moving forward means leaving them behind, when really, your love continues even as the pain changes. What would it feel like to remind yourself that caring for your own heart doesn't diminish what they meant to you?",
+    "client": "That actually...makes it feel more possible. I think I could handle standing at the entrance for a few minutes. But what if I do go in and then the memories hit too hard? Should I have some kind of exit plan ready? I don't want to get trapped in a wave of grief out there alone.",
+    "therapist": "\"Absolutely—having an exit plan is a thoughtful and empowering way to approach this. You could set a timer for a short walk, bring your phone for comfort, or even decide beforehand that leaving early is perfectly okay if it feels overwhelming. How does it feel to think about giving yourself permission to leave whenever you need to?\"",
     "condition": "baseline",
-    "val_t": -0.42867767810821533,
-    "aro_t": 0.14640271663665771,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 8,
-    "client": "I don’t know… part of me wants to believe that, but it just feels like if I start feeling better, it means I’m forgetting them or that my love wasn’t strong enough. The guilt is always there, like a weight in my chest. Even small moments of relief make me feel like I’m betraying their memory. \n\nIt’s exhausting, but I don’t know how to let go of that pain without feeling like I’m letting go of them too. Does that make sense? It’s like the sadness is the only thing keeping them close.",
-    "therapist": "What you're describing makes complete sense—it's as if the sadness has become a bridge to them, and letting it go feels like losing that connection all over again. Grief can trick us into believing pain equals love, when really, your love exists far beyond the hurt. What if, instead of \"letting go,\" you thought of it as making space—where joy and sorrow can coexist without canceling each other out?",
-    "condition": "baseline",
-    "val_t": -0.26224958896636963,
-    "aro_t": 0.13763368129730225,
+    "val_t": -0.14020276069641113,
+    "aro_t": 0.17071902751922607,
     "text_emotion": "Angry"
   },
   {
-    "turn": 9,
-    "client": "I understand what you're saying about joy and sorrow coexisting, but it feels impossible right now. When I try to feel anything positive, the guilt crashes over me immediately—like I'm betraying them by not being sad enough. \n\nThe idea of \"making space\" sounds nice in theory, but how do I actually do that without feeling like I'm pushing their memory aside? It still feels like a choice between holding on to the pain or losing them all over again.",
-    "therapist": "It sounds like that either/or feeling—pain or forgetting—has become such a familiar, painful trap. Maybe we could explore small ways to honor them that don’t rely on suffering, like lighting a candle or keeping their favorite toy nearby—not to replace grief, but to remind you that love doesn’t require punishment to be real. What’s one tiny thing that might feel like connection without demanding so much pain?",
+    "turn": 8,
+    "client": "That actually helps...knowing I can leave whenever makes it feel less scary. But part of me worries that if I let myself leave, I'll never push through the hard parts. Like I'll just keep avoiding the park forever because it's easier to quit when it hurts.",
+    "therapist": "\"I hear that tension between wanting to protect yourself from pain and not wanting avoidance to take over—that's such an important awareness to notice. What if we viewed this as building tolerance gradually, like muscles that grow stronger through gentle, repeated practice rather than one big push?\"",
     "condition": "baseline",
-    "val_t": -0.28274965286254883,
-    "aro_t": 0.16475772857666016,
+    "val_t": -0.09496879577636719,
+    "aro_t": 0.08127057552337646,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "That muscle analogy makes sense...but muscles heal after a workout. This grief just feels endless. I don't know if I believe that repeated exposure will actually make it better, or if I'll just keep reliving the pain over and over. What if the hurt doesn't get lighter with time?",
+    "therapist": "\"Grief is different from physical pain in that it doesn't 'heal' in a linear way—it transforms, and we grow around it rather than through it. You're absolutely right that this hurt may not disappear, but with time and gentle practice, you might notice moments where the weight feels different to carry. What would it be like to simply observe what happens with your grief during these small experiments, without expecting it to change?\"",
+    "condition": "baseline",
+    "val_t": -0.1487787961959839,
+    "aro_t": 0.09272193908691406,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about finding other ways to remember them, but lighting a candle just feels... I don't know, too simple? Like it wouldn't really mean anything. The pain is what makes it feel real to me. If I'm not hurting, doesn't that mean I'm forgetting them? \n\nI do keep their favorite coffee mug on my shelf, but sometimes looking at it just makes me feel worse. Like I should be doing more to deserve having it there.",
-    "therapist": "It sounds like you're holding yourself to such impossibly high standards—as if your grief must be monumental to match the depth of your love. But love isn't measured by suffering; their mug on your shelf is proof that they still have a place in your daily life, even without the pain. What would it feel like to let that small act of keeping it there be enough, without needing to \"earn\" it?",
+    "client": "Observing without expecting change feels...scary. What if I notice that the weight doesn't change at all? Or what if it gets heavier? I guess I'm worried that trying these small steps will just prove that nothing can make this better, and then I'll feel even more stuck than I do now.",
+    "therapist": "\"That fear of discovering the pain might stay exactly the same—or even grow—is completely understandable when facing such profound loss. What if we approached this as collecting information rather than proving anything, where whatever you feel (even if it's heavier) teaches you something important about how to care for yourself right now?\"",
     "condition": "baseline",
-    "val_t": -0.34321653842926025,
-    "aro_t": 0.0667872428894043,
-    "text_emotion": "Sad"
+    "val_t": -0.3030121326446533,
+    "aro_t": 0.15743207931518555,
+    "text_emotion": "Angry"
   }
 ]

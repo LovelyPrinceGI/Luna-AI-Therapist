@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really anxious about this networking event coming up next week. Every time I think about having to introduce myself to strangers in my industry, my heart starts pounding and I get this tight feeling in my chest. I'm not sure talking about it will help because I'll still have to face the situation either way.",
-    "therapist": "It sounds like this upcoming event is bringing up some intense physical reactions of anxiety for you. While talking won't change the situation itself, we can work together to understand and manage these reactions better. What thoughts typically go through your mind when you imagine yourself at this networking event?",
+    "client": "I've been really dreading this networking event for work next week. The thought of walking into a room full of strangers and having to introduce myself makes my heart pound like crazy. Part of me feels like I'm overreacting, but another part thinks maybe therapy can't really change how uncomfortable these situations make me feel.",
+    "therapist": "It sounds like this event is bringing up a lot of worry, especially with the thought of meeting new people. It’s understandable to feel this way, but let’s explore those thoughts—what’s the worst that could happen, and how likely is it? What’s a more balanced way to look at this situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.1796480417251587,
-    "aro_t": 0.30044257640838623,
+    "val_t": -0.32333576679229736,
+    "aro_t": 0.314874529838562,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep picturing myself standing alone in the corner while everyone else is chatting easily. My chest gets tight just thinking about it, and I'm convinced people will notice how awkward I am and judge me for it. I've skipped these events before because the dread feels unbearable.",
-    "therapist": "I hear how vivid and distressing these images of being alone and judged are for you - that tightness in your chest shows how real this fear feels. Let's examine whether the evidence fully supports this prediction that people will notice and judge you harshly. Have there been times when social interactions went better than you expected?",
+    "client": "The worst that could happen is I'll say something stupid and people will judge me silently. It happens pretty often actually - I'll get nervous and my mind goes blank when introducing myself. I know you're going to say people probably don't notice, but it feels so obvious to me when I'm stumbling over my words.",
+    "therapist": "It sounds like these moments feel really overwhelming, and it’s easy to focus on the times when things didn’t go smoothly. Let’s pause and think—what evidence do you have that people are judging you silently? Could there be other explanations for their reactions, like they’re feeling a bit nervous too?",
     "condition": "emotion_text_only",
-    "val_t": -0.25624585151672363,
-    "aro_t": 0.21836280822753906,
+    "val_t": -0.29541921615600586,
+    "aro_t": 0.21413195133209229,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess there have been a few times where things went okay, but I always feel like those are just flukes. Even when people seem friendly, I can’t shake the thought that they’re just being polite and secretly judging me. It’s like my mind always finds a way to twist it into something negative, even when there’s no clear evidence. I don’t know how to stop doing that.",
-    "therapist": "I notice how quickly your mind dismisses positive experiences as \"flukes\" while holding tightly to the fear of judgment - that pattern itself is worth exploring together. When you catch yourself thinking people are just being polite, what would it feel like to consider that maybe they genuinely enjoyed the interaction?",
+    "client": "I guess I don’t have solid evidence they’re judging me—it’s mostly just how I feel in the moment. But even if they’re not judging, I still feel embarrassed when I stumble over my words. It’s hard to believe they’re nervous too because they always seem so confident and put together. It feels like I’m the only one who struggles with this.",
+    "therapist": "It makes sense that you’d feel embarrassed in those moments, especially when it seems like others are so confident. But appearances can be deceiving—many people feel nervous in social situations, even if they hide it well. What would it feel like to approach this event with the mindset that others might be feeling similarly?",
     "condition": "emotion_text_only",
-    "val_t": -0.15873003005981445,
-    "aro_t": 0.1067817211151123,
+    "val_t": -0.18617069721221924,
+    "aro_t": 0.21722197532653809,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it's hard to believe people genuinely enjoy talking to me. Even if someone seems engaged in the moment, I always think they're just being nice and will forget about me afterward. It feels safer to assume the worst so I'm not disappointed later. \n\nWhen I try to consider that maybe they did enjoy it, I get this anxious feeling like I'm setting myself up to look foolish. Like I'm being naive about how people really see me.",
-    "therapist": "I hear how deeply this protective pattern of expecting the worst is ingrained for you - it makes sense that challenging it would feel risky and uncomfortable. That anxious feeling when considering positive possibilities shows how vulnerable this makes you feel. What do you think it would cost you emotionally to test out believing, just for one conversation, that someone might genuinely want to connect with you?",
+    "client": "I don't know, that feels like such a big mental shift to make. Even if others are nervous too, it doesn't change how awful I feel when my mind goes blank. And what if they're actually judging me? Isn't that a real possibility? I've seen people make subtle faces when someone's awkward at these events.",
+    "therapist": "I hear how stuck this feels—knowing others might be nervous doesn’t erase your own discomfort, and those subtle reactions from people do feel like evidence of judgment. Let’s slow down and examine this: when your mind goes blank, what’s the actual likelihood someone notices versus how intensely you feel it in the moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.2762727737426758,
-    "aro_t": 0.1675279140472412,
+    "val_t": -0.19017279148101807,
+    "aro_t": 0.17152726650238037,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I don't know... it feels like if I let myself believe someone actually wants to connect, I'll just get hurt worse when they eventually disappoint me. That hopeful feeling makes me more vulnerable somehow. I've been burned before when I let my guard down.",
-    "therapist": "It sounds like past experiences have taught you to protect yourself by keeping expectations low - that caution makes sense given what you've been through. At the same time, I wonder if always preparing for disappointment might be closing off opportunities for genuine connections. What would it be like to try a small experiment where you allow yourself to be just a little more open to positive possibilities in one interaction?",
+    "client": "I think people probably do notice, but maybe not as much as it feels like in the moment. The problem is even if they only notice a little, I still feel humiliated. It's like my brain amplifies every tiny mistake until it's all I can think about for days afterward.",
+    "therapist": "It sounds like the humiliation lingers far beyond the actual moment—your brain really latches onto these experiences. That amplification makes sense when we're anxious, but let’s challenge it: what would you say to a friend who stumbled over their words? Would you judge them as harshly as you judge yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.27908384799957275,
-    "aro_t": 0.052922964096069336,
-    "text_emotion": "Sad"
+    "val_t": -0.339479923248291,
+    "aro_t": 0.2500452995300293,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but every time I've tried being more open in the past, it's backfired. Just last week I shared something personal with a coworker and they completely dismissed it - now I have to see them every day and it's awkward. It feels safer to just keep to myself.",
-    "therapist": "I hear how fresh that painful experience with your coworker still feels - that kind of dismissal can understandably make anyone pull back. While keeping to yourself feels safer in the short term, I wonder if we could look at what happened not as proof that openness always backfires, but as information about how to choose who to share with. What qualities might help you identify someone who's more likely to respond supportively?",
+    "client": "That's...actually a really good point. If my coworker messed up their introduction, I probably wouldn't even remember it the next day. But for myself, I obsess over it for weeks. It's frustrating that I can have compassion for others but not myself - that just makes me feel even more defective.",
+    "therapist": "It sounds like you’re caught in a tough cycle—being kind to others but so hard on yourself, which then adds to the frustration. It’s not that you’re defective; it’s that self-compassion can feel harder to access when we’re anxious. What would it feel like to try extending that same kindness to yourself, even just a little, in those moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.08238017559051514,
-    "aro_t": 0.08494865894317627,
-    "text_emotion": "Neutral"
+    "val_t": -0.3573490381240845,
+    "aro_t": 0.13470757007598877,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about choosing who to share with, but it’s hard to trust my judgment anymore. Last time I thought my coworker was someone I could open up to, and it just made me feel worse. I keep replaying the conversation in my head, wondering if I said too much or if I misread the situation entirely. It’s exhausting to think about having to analyze everyone’s intentions before deciding if they’re safe to talk to.",
-    "therapist": "It sounds like that experience with your coworker has left you feeling hesitant and second-guessing your ability to judge who's trustworthy - that constant replaying and analyzing must be mentally draining. Let's slow down and look at this not as proof that your judgment is faulty, but as a learning experience about pacing and boundaries. What signals had you noticed about your coworker before sharing that might guide you differently next time?",
+    "client": "It sounds nice in theory but honestly, when I try to be kind to myself in those moments, it feels fake. Like I'm just making excuses for being awkward. The frustration comes back because I feel like I should be able to handle these situations better by now. Why is this still so hard for me?",
+    "therapist": "It sounds like you’re caught between wanting to be kinder to yourself and feeling like it’s not genuine—it’s frustrating when something that works for others doesn’t seem to fit for you. Let’s explore this: what would “handling these situations better” actually look like to you? Is there a specific outcome or feeling you’re hoping for?",
     "condition": "emotion_text_only",
-    "val_t": -0.25035834312438965,
-    "aro_t": 0.16782259941101074,
+    "val_t": -0.23267972469329834,
+    "aro_t": 0.17952311038970947,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I do keep replaying it in my head, trying to figure out where I went wrong, but honestly, I’m not sure I noticed any clear signals beforehand. It’s hard because I thought we were building a genuine connection—I’m usually pretty cautious, but this time I let my guard down. I’m worried that if I overanalyze every little thing in the future, I’ll just end up isolating myself even more.",
-    "therapist": "I hear the painful conflict you're feeling - wanting to protect yourself while also fearing that too much caution might lead to isolation. It sounds like this experience shook your confidence about reading social situations, which is understandably discouraging. Rather than swinging between complete openness and total withdrawal, what if we explored how to gradually rebuild trust in your judgment while still honoring your need for self-protection?",
+    "client": "Handling it better would mean not freezing up when introducing myself—just being able to say my name and what I do without my mind going blank. But honestly, even if I did that, I'd probably still feel anxious and overthink it afterward. It's like there's no winning with my brain.",
+    "therapist": "It sounds like you’re caught in a tough spot—even if you managed to introduce yourself smoothly, the anxiety and overthinking would still linger. It’s understandable to feel like there’s no winning when your brain keeps pulling you back into worry. What would it feel like to focus on small steps, like practicing introductions in a low-pressure way before the event?",
     "condition": "emotion_text_only",
-    "val_t": -0.25629520416259766,
-    "aro_t": 0.0956956148147583,
-    "text_emotion": "Sad"
+    "val_t": -0.13942742347717285,
+    "aro_t": 0.1751185655593872,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about finding a middle ground, but it's hard to trust my judgment after what happened. Every time I try to be more open with people now, I just keep replaying that situation in my head and second-guessing myself. \n\nThe idea of rebuilding trust gradually sounds exhausting - like I have to constantly analyze every interaction instead of just relaxing and being myself. Doesn't that just create more anxiety?",
-    "therapist": "I hear how weary you feel about this process - that constant analyzing and second-guessing does sound exhausting rather than helpful. Let's shift focus from \"getting it right\" to simply noticing what feels authentic in the moment, without pressure to perform or predict outcomes. What would it feel like to give yourself permission to have imperfect interactions, just as everyone does?",
+    "client": "Practicing beforehand sounds logical, but I've tried that before and it didn't help - when I get to the real situation, my mind still blanks out. Also, when I practice alone, I don't get that sinking feeling in my stomach like I do in real social settings, so it doesn't feel like real preparation.",
+    "therapist": "It sounds like practicing alone hasn’t given you the same emotional weight as real situations, which makes it feel less useful. That’s an important insight—maybe we need to approach this differently. What if we worked on acknowledging that anxious sinking feeling rather than trying to eliminate it? How might that change your experience in those moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.17088401317596436,
-    "aro_t": 0.192529559135437,
+    "val_t": -0.15969645977020264,
+    "aro_t": 0.12060773372650146,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I like the idea of not having to be perfect, but it's hard to believe others would accept that. When I mess up in conversations, I can't stop replaying it in my head for days. What if giving myself permission to be imperfect just makes me come across as careless or unlikeable?",
-    "therapist": "It sounds like there's a real fear that self-acceptance might lead to being judged even more harshly by others - that tension between wanting to be authentic and worrying about consequences is so understandable. Let's explore this: when you notice others being imperfect in conversations, do you typically judge them as harshly as you judge yourself?",
+    "client": "Acknowledging the feeling instead of fighting it sounds scary - like I'd just be surrendering to the anxiety. But I do see how spending all my energy trying to eliminate it hasn't worked either. It's just hard to imagine not reacting to that sinking feeling when it hits me in the moment.",
+    "therapist": "It makes sense that this idea feels scary—like you’re giving in rather than fighting back. But what if acknowledging the feeling isn’t surrender, but a way to create some space between you and the anxiety? How might it feel to notice that sinking sensation without letting it dictate your next move?",
     "condition": "emotion_text_only",
-    "val_t": -0.2628854513168335,
-    "aro_t": 0.10966503620147705,
+    "val_t": -0.26758480072021484,
+    "aro_t": 0.2035764455795288,
     "text_emotion": "Angry"
   }
 ]

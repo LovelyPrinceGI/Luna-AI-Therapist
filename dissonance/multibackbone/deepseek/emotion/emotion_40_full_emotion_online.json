@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having really bad anxiety about my final exams coming up next month. I barely scraped by last term, and now I keep imagining myself failing completely. I know I should be studying, but the more I think about it, the more paralyzed I feel.",
-    "therapist": "It sounds like you're feeling quite overwhelmed by these exam worries, and that fear of failing is making it hard to even start studying. When those thoughts about failing come up, what evidence do you have that you might actually do better than you're imagining right now?",
+    "client": "I’ve been feeling really overwhelmed about my final exams coming up next month. I did poorly on some of my coursework last term, and now I’m worried I’m not prepared enough to do well this time. I’m not sure if talking about it will actually help me feel less anxious—it feels like the pressure is just too much.",
+    "therapist": "It sounds like you're carrying a heavy weight of worry about these exams, especially after facing challenges last term. Let's explore what specifically makes you feel unprepared—what thoughts come up when you imagine taking these exams?",
     "condition": "emotion_text_only",
-    "val_t": -0.42498600482940674,
-    "aro_t": 0.22890782356262207,
+    "val_t": -0.3008885383605957,
+    "aro_t": 0.2920644283294678,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess I did okay on the last test, but that was different—it was just one chapter. Now there's so much material, and I keep thinking about how I blanked during the midterm. Even when I try to remember past successes, my brain just goes back to \"but what if this time is different?\" It's like the fear completely takes over.",
-    "therapist": "I hear how that past experience of blanking is making this feel especially scary right now, even though part of you knows you've succeeded before. What would it look like to take this one small step at a time, rather than getting overwhelmed by everything at once?",
+    "client": "When I think about the exams, I keep telling myself I’m going to fail because I didn’t do well last time. I also feel like I’m not smart enough to grasp the material, even though I’ve been studying. It’s hard to shake this feeling that no matter what I do, it’s not going to be enough.",
+    "therapist": "It sounds like past experiences are casting a shadow over your current efforts, making it hard to see your progress. Have you noticed any moments where you’ve felt more confident or understood the material better than before?",
     "condition": "emotion_text_only",
-    "val_t": -0.2637157440185547,
-    "aro_t": 0.14036226272583008,
+    "val_t": -0.3114156723022461,
+    "aro_t": 0.1342453956604004,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I know breaking it down should help, but when I try to think about taking small steps, my mind just jumps ahead to all the ways it could still go wrong. Like even if I prepare perfectly, what if I freeze up again when it actually matters? That fear makes it hard to even start. \n\nThe logical part of me knows I've handled presentations before, but that one bad experience just overshadows everything else now. It's like my brain won't let me forget how awful that felt.",
-    "therapist": "It sounds like that one difficult experience is casting a long shadow, making it hard to trust in your ability to handle things now even though you have other successes to draw from. What would it feel like to acknowledge that fear of freezing up while also making space for the possibility that this time could be different?",
+    "client": "Actually, there was one chapter last week where everything clicked, but then I immediately dismissed it as lucky. I guess I'm afraid to feel hopeful because what if that confidence disappears during the exam? It feels safer to expect the worst.",
+    "therapist": "It sounds like you're caught between that glimmer of hope and the fear of disappointment—like trusting your progress might make a potential setback hurt even more. What would it feel like to hold both truths: that some parts *are* clicking, *and* that exams are challenging?",
     "condition": "emotion_text_only",
-    "val_t": -0.32070887088775635,
-    "aro_t": 0.17595016956329346,
-    "text_emotion": "Angry"
+    "val_t": -0.11947107315063477,
+    "aro_t": 0.03507554531097412,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it's hard to believe this time could be different when that past failure keeps replaying in my head. Even when I try to think about my successes, the memory of freezing up just overshadows everything else. It makes me feel like I'm just waiting for it to happen again.",
-    "therapist": "I hear how vivid and persistent that memory feels, almost like your mind is trying to protect you by warning you about what could go wrong. What would happen if we gently explored how you might respond differently if that freezing feeling did start to come up this time?",
+    "client": "I don’t know. It feels uncomfortable to think about both at the same time—like I’m trying to balance two extremes. Part of me wants to believe I can do better, but the other part keeps reminding me of how badly I did before. It’s hard to trust that progress, especially when the stakes feel so high this time.",
+    "therapist": "It sounds like you're wrestling with two very different perspectives—one that sees your potential and another that feels weighed down by past struggles. That tension can feel uneasy, but it’s also a sign that you’re reflecting deeply on this. What would it take for the part of you that believes in progress to feel just a little stronger?",
     "condition": "emotion_text_only",
-    "val_t": -0.09183430671691895,
-    "aro_t": 0.12636995315551758,
-    "text_emotion": "Angry"
+    "val_t": -0.19902729988098145,
+    "aro_t": 0.04508626461029053,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I don't know...every time I try to imagine handling that situation differently, my chest gets tight just thinking about it. It's like my brain keeps replaying the worst possible outcome no matter how hard I try to picture something else. \n\nPart of me wants to believe I could respond differently, but another part keeps saying \"what if you freeze again and everything goes wrong?\" That voice feels so loud sometimes.",
-    "therapist": "It sounds like there's a real tug-of-war happening between that hopeful part of you that wants to believe in change, and the fearful part that keeps pulling you back to worst-case scenarios. When that \"what if\" voice gets loud, what small ways could you reassure yourself in the moment that you've gotten through tough situations before?",
+    "client": "I guess if I could actually see small improvements in practice tests or something concrete, it might help. But even then, I'd probably doubt myself—like what if the real exam is completely different? It's hard to trust any evidence when anxiety keeps telling me it's not enough.",
+    "therapist": "It sounds like anxiety is making it hard to fully trust even the small wins, like practice tests, which can leave you feeling stuck in doubt. What would it feel like to focus on one step at a time—perhaps starting with just acknowledging those small improvements, even if they don’t erase all the worry?",
     "condition": "emotion_text_only",
-    "val_t": -0.2784886360168457,
-    "aro_t": 0.1961216926574707,
+    "val_t": -0.16950809955596924,
+    "aro_t": 0.15425169467926025,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I know logically that I've gotten through tough times before, but in the moment it's like my brain just erases all that evidence. The fear feels so immediate and real that past successes don't seem to matter. Even when I try to remind myself, there's this voice saying \"but what if this time is different?\"",
-    "therapist": "It makes complete sense that the immediacy of that fear makes it hard to hold onto past successes—our brains are wired to prioritize present threats over past evidence. When that \"what if\" voice shows up, what would it feel like to acknowledge it without letting it completely dismiss all the times you've coped before?",
+    "client": "I can try acknowledging small wins, but it feels pointless when the big picture still feels overwhelming. Like even if I notice improvement in one area, the mountain of everything else I need to learn still looms over me. I don't see how focusing on tiny things will change that crushing feeling.",
+    "therapist": "It sounds like the weight of everything you need to do is overshadowing any small progress, making it hard to see how those steps could add up. When you think about that “mountain,” what’s one small, manageable piece you could focus on today, just to take a little pressure off?",
     "condition": "emotion_text_only",
-    "val_t": -0.15859031677246094,
-    "aro_t": 0.1272493600845337,
+    "val_t": -0.12845861911773682,
+    "aro_t": 0.09391343593597412,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about acknowledging the \"what if\" thoughts, but in the moment it feels impossible to remember past successes. The anxiety just takes over completely, like a wave crashing over me. And then I start doubting whether those past successes even count - like maybe I just got lucky those times.",
-    "therapist": "It sounds like when that wave of anxiety hits, it not only makes it hard to remember your strengths, but also makes you question whether they were ever truly yours to begin with. When those doubts about your past successes come up, what would it feel like to treat them as anxious thoughts to examine rather than absolute truths?",
+    "client": "I guess I could focus on just reviewing one chapter today instead of worrying about everything at once. But even that feels incomplete—like I should be doing more. It's frustrating because I know logically breaking it down helps, but emotionally it still feels like I'm falling behind.",
+    "therapist": "It sounds like you’re caught between knowing what’s helpful—breaking things down—and feeling like it’s not enough, which can be really frustrating. What would it feel like to remind yourself that tackling one chapter *is* progress, even if it doesn’t feel like it’s solving everything right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.12418997287750244,
-    "aro_t": 0.14810585975646973,
-    "text_emotion": "Angry"
+    "val_t": -0.2661229372024536,
+    "aro_t": 0.08456718921661377,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about examining the anxious thoughts, but when I'm in that state, it's like my brain just won't accept any other explanation. Even if I try to question the doubts, they feel so real and overwhelming in the moment. It's like my past successes suddenly seem like flukes or luck rather than something I actually earned.",
-    "therapist": "I hear how convincing those anxious thoughts feel in the moment—like they rewrite your whole history of successes to fit the current fear. When you're caught in that wave of doubt, what would it feel like to just observe those thoughts as temporary symptoms of anxiety, rather than truths about your capabilities?",
+    "client": "It feels like such a small step compared to everything else I need to do, and I’m not sure if reminding myself will really help. I keep thinking, “What if I spend all this time on one chapter and still fail?” It’s hard to trust that focusing on small things will make a difference when the stakes feel so high.",
+    "therapist": "It sounds like the fear of failure is making it hard to fully invest in these smaller steps—like part of you is already bracing for disappointment. What would it look like to give yourself permission to focus on just this one chapter today, without tying it to the bigger \"what ifs\" about the exam?",
     "condition": "emotion_text_only",
-    "val_t": -0.0398789644241333,
-    "aro_t": 0.14119184017181396,
+    "val_t": -0.10061776638031006,
+    "aro_t": 0.08822762966156006,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about observing the thoughts, but when I'm in that anxious spiral, it feels impossible to step back like that. The doubts feel so real and urgent—like if I don't solve whatever I'm worrying about right then, something terrible will happen. Logically I know that's probably not true, but in the moment the logic just doesn't reach me.",
-    "therapist": "It sounds like in those moments, the anxiety creates such an immediate sense of urgency that it overrides your ability to access that logical perspective—like being caught in a current that pulls you away from shore. When you notice that spiral starting, what would it feel like to pause and name what's happening (\"I'm having an anxious thought\") rather than trying to solve or disprove it right away?",
+    "client": "I could try focusing just on this one chapter today, but I'm afraid I'll feel guilty later for not doing more. It's like my brain keeps saying \"this isn't enough\" no matter what I do. The idea of letting go of the bigger worries, even temporarily, feels irresponsible somehow.",
+    "therapist": "It sounds like you're caught in a cycle where focusing on smaller tasks feels almost *wrong*, as if you’re letting yourself off the hook for the bigger picture. That guilt can be really heavy—where do you think that voice saying \"this isn’t enough\" comes from?",
     "condition": "emotion_text_only",
-    "val_t": -0.22521352767944336,
-    "aro_t": 0.1577697992324829,
-    "text_emotion": "Angry"
+    "val_t": -0.3537665605545044,
+    "aro_t": 0.1091005802154541,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but when I'm in that panicked state, even pausing to name it feels impossible. My thoughts are racing so fast that adding one more thing to do just makes me feel more overwhelmed. It's like trying to read a label while the room is spinning.",
-    "therapist": "I hear how overwhelming it feels when you're in that panicked state—like trying to do anything extra would just make the spinning worse. Could we explore what might help ground you just enough in those moments to create even a tiny bit of space from those racing thoughts?",
+    "client": "I think that voice comes from my parents always pushing me to be perfect growing up. Even when I did well, they'd say I could do better. But now I'm torn because logically I know that mindset isn't helpful, yet it still feels like the truth.",
+    "therapist": "It sounds like those old messages about perfection have taken root so deeply that they still feel true, even when you know they aren’t serving you now. That tug-of-war between logic and those ingrained beliefs must be exhausting—what would it feel like to gently challenge that voice today, just by noticing when it speaks up?",
     "condition": "emotion_text_only",
-    "val_t": -0.1326463222503662,
-    "aro_t": 0.35495054721832275,
-    "text_emotion": "Tense"
+    "val_t": -0.10051846504211426,
+    "aro_t": 0.1727527379989624,
+    "text_emotion": "Angry"
   }
 ]

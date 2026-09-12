@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really lost since my grandmother passed away recently. It's hard to concentrate at work, and I find myself overwhelmed by sadness throughout the day. I keep questioning whether therapy can actually help me through this overwhelming grief.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; that must feel incredibly heavy. It's completely understandable to feel lost and overwhelmed as you navigate your grief, and questioning the effectiveness of therapy is a common experience. What thoughts or beliefs do you have about therapy that make you feel uncertain about its potential to help you right now?",
+    "client": "I've been really struggling since my grandmother passed away. It's like this heavy sadness is following me everywhere, and I can't focus on my work at all. I feel overwhelmed and just unsure if talking about it will really help me feel any better.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds like this loss has had a profound impact on you. It's completely understandable to feel overwhelmed and uncertain during such a difficult time. What do you think might happen if you allowed yourself to talk about those feelings and memories?",
     "condition": "baseline",
-    "val_t": -0.44982290267944336,
-    "aro_t": 0.1318039894104004,
-    "text_emotion": "Sad"
+    "val_t": -0.2928197383880615,
+    "aro_t": 0.30411267280578613,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding about my grandmother. It's just that I feel like nothing can really help with this kind of pain, you know? Sometimes I think therapy might work for other people, but I just can’t see how talking about it will change anything for me.",
-    "therapist": "It's completely valid to feel that way; grief can feel so isolating and profound that it seems like nothing could truly ease that pain. Talking about our experiences can sometimes feel daunting, especially when we’re unsure of what it might change. What do you think might happen if you allowed yourself to explore those feelings in therapy, even just a little?",
+    "client": "I guess I feel like talking about it might just make me feel worse, like I'm reopening a wound that hasn't healed yet. Sometimes I worry that if I start crying or feeling too much, I won't be able to stop. It's hard enough to deal with the sadness; I don't know if I want to add to it by digging deeper.",
+    "therapist": "It's perfectly normal to feel hesitant about opening up, especially when you're already feeling so much sadness. It’s like you're trying to protect yourself from more pain, which makes sense. What if we approached this gently, perhaps discussing just one memory or feeling at a time? How does that idea sit with you?",
     "condition": "baseline",
-    "val_t": 0.06486654281616211,
-    "aro_t": 0.0958482027053833,
-    "text_emotion": "Neutral"
+    "val_t": -0.4127448797225952,
+    "aro_t": 0.1007080078125,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying it's valid to feel this way, but honestly, it feels overwhelming to even think about exploring those feelings. I keep worrying that if I start talking about my grief, I'll just spiral down into sadness and won't be able to pull myself out. Plus, I feel like no one really understands what I'm going through, so what's the point?",
-    "therapist": "I can see how the thought of diving into those feelings feels overwhelming, and it's natural to worry about getting lost in sadness. It's also understandable to feel isolated in your grief, as it can feel like others may not fully grasp your experience. What if we took a small step together, like simply identifying a specific memory of your grandmother that brings up feelings for you? How does that sound?",
+    "client": "I appreciate the suggestion to take it slow, but even just thinking about one memory feels daunting. What if that memory brings up even more feelings that I don't know how to handle? I feel like I could get stuck in a cycle of sadness, and I'm not sure if I can manage that right now.",
+    "therapist": "It's completely understandable to feel apprehensive about revisiting memories, especially when you're worried about getting stuck in sadness. Acknowledging that fear is important, and it shows how much you care about your emotional well-being. Would it help to think about ways to create a safe space for yourself, so that if those feelings do arise, you have some tools or strategies to manage them?",
     "condition": "baseline",
-    "val_t": -0.20870840549468994,
-    "aro_t": 0.20732104778289795,
+    "val_t": -0.15586769580841064,
+    "aro_t": 0.12314248085021973,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you acknowledging how overwhelming this feels. The idea of picking a specific memory is tough because I worry it might just open up a floodgate of emotions that I’m not ready to handle. I guess I feel like even if I identify a memory, it might not help me feel any less alone in this grief.",
-    "therapist": "It's completely understandable to be hesitant about opening up those floodgates; it shows how deeply you care about your emotional well-being. Feeling alone in your grief can be incredibly isolating, and acknowledging that is a significant step. What if we focused on just sharing a memory without the pressure of it needing to change how you feel? How might it feel to simply let that memory exist, without any expectations?",
+    "client": "Creating a safe space sounds nice in theory, but I struggle to even identify what that would look like for me. I'm not sure I have the tools or strategies to manage those feelings when they come up, especially when I'm already feeling so fragile. It feels like I would need to have everything figured out beforehand, and I just don’t know how to do that right now.",
+    "therapist": "It’s completely okay to feel unsure about what a safe space looks like for you, especially in such a fragile time. It’s a process, and you don’t have to have everything figured out right now. What if we took a few moments to explore small, comforting activities or environments that have helped you feel at ease in the past? What comes to mind when you think of those moments?",
     "condition": "baseline",
-    "val_t": -0.08735203742980957,
-    "aro_t": 0.16645169258117676,
+    "val_t": -0.1330505609512329,
+    "aro_t": 0.12637710571289062,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you saying that it's understandable to feel hesitant, but I still feel really overwhelmed at the thought of opening up about those memories. It's like I have this knot in my chest, and every time I try to think about them, I just feel anxious and exposed. Sharing a memory sounds simple, but it feels like I'm being asked to dig up something that's better left buried. What if it just makes things worse?",
-    "therapist": "I hear you, and it's completely valid to feel protective of those memories, especially when they come with such intense emotions. That knot in your chest is a natural response to feeling vulnerable, and it’s okay to take your time with this. What if we focused instead on identifying what you need right now to feel a bit more grounded, rather than diving into those memories? What small comfort or support could help you in this moment?",
+    "client": "I think about times when I've felt comfortable, like sitting by the window with a warm drink or listening to my favorite music. Those moments do bring me some peace, but they feel so fleeting. I wonder if they’re enough to really help me cope with the weight of everything I'm feeling right now. What if they don’t do anything to ease the sadness?",
+    "therapist": "It’s wonderful that you have those moments of comfort to draw on, even if they feel fleeting. It’s natural to question whether they’re enough, especially when the sadness feels so heavy. What if we viewed these moments as small anchors that can help ground you, rather than a complete solution? How might you incorporate those comforting activities into your routine, even in small ways, to see if they can offer some relief?",
     "condition": "baseline",
-    "val_t": -0.201452374458313,
-    "aro_t": 0.2497633695602417,
-    "text_emotion": "Angry"
+    "val_t": 0.06511545181274414,
+    "aro_t": 0.0020246505737304688,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate your understanding, but honestly, I’m not sure what would help me feel grounded right now. It’s like I’m stuck in this fog, and I can’t pinpoint what I really need. I feel overwhelmed, and even if I think about small comforts, it just seems so insignificant compared to the weight of everything I’m carrying.",
-    "therapist": "It's completely understandable to feel stuck in that fog, especially when the weight of your grief feels so heavy. Sometimes, even small comforts can seem insignificant in the face of such profound loss, but they can also provide a little bit of relief amid the overwhelming emotions. What if we took a moment to explore any small moment of peace or distraction you might find in your day, even if it feels minor? How do you usually cope in moments like this?",
+    "client": "I like the idea of thinking of those moments as anchors, but I'm not sure how to actually fit them into my routine. Life feels so chaotic right now, and I often forget to take a break for myself. Plus, what if I try to incorporate them and it still doesn’t help? I worry that I might just end up feeling more frustrated.",
+    "therapist": "It’s understandable to feel overwhelmed by the chaos of life and to worry about adding more to your plate, especially if you're unsure how effective those moments will be. Remember, even small, intentional breaks can be powerful, and it's okay to start with just a few minutes each day. What if we brainstormed a simple way to gently remind yourself to take those breaks, perhaps by setting a timer or pairing it with another daily activity? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.12915372848510742,
-    "aro_t": 0.20748138427734375,
-    "text_emotion": "Angry"
+    "val_t": -0.29507625102996826,
+    "aro_t": 0.11690151691436768,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I appreciate your understanding, but honestly, the idea of finding small moments of peace feels so daunting right now. I often feel consumed by my grief, and it’s hard to believe anything could bring me even a moment of relief. I usually just try to distract myself with TV or scrolling through my phone, but even that feels empty most of the time.",
-    "therapist": "It makes sense that finding moments of peace feels daunting when grief seems all-consuming; that heaviness can overshadow even the smallest joys. Using distractions like TV or your phone is a common way to cope, especially when things feel overwhelming, but it’s okay to acknowledge that they might not bring you the comfort you need right now. What if we explored some gentle, alternative ways to connect with yourself or your feelings, even if just for a few moments? Would you be open to that?",
+    "client": "I see the value in trying to set reminders for those breaks, but I can’t help but feel skeptical. What if I forget to set the timer or just ignore it when it goes off? It feels like I'm already juggling so much, and adding another task might just add to my stress rather than help me find a moment of peace.",
+    "therapist": "It's completely valid to feel skeptical about adding another task to your already full plate; it can feel like more pressure instead of relief. Rather than viewing it as an obligation, what if we framed these breaks as gentle invitations to check in with yourself? How might it feel to allow yourself the flexibility to take a break whenever you can, rather than strictly adhering to a timer?",
     "condition": "baseline",
-    "val_t": -0.10996437072753906,
-    "aro_t": 0.07852005958557129,
+    "val_t": -0.10329031944274902,
+    "aro_t": 0.07736623287200928,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I understand what you're saying, but honestly, the idea of connecting with my feelings feels really overwhelming right now. It’s like I’m afraid of what I might uncover, and it just feels easier to zone out with my distractions. I don’t know if I have the energy or capacity to handle anything deeper at the moment.",
-    "therapist": "I completely understand your hesitation; facing those deeper feelings can feel incredibly daunting, especially when you're already feeling depleted. It’s okay to prioritize what feels manageable for you right now, and sometimes zoning out can be a necessary way to cope. What if we focused on finding ways to gently acknowledge your feelings without diving deep—perhaps through simple activities, like going for a walk or listening to music? What do you think about that?",
+    "client": "I like the idea of framing those breaks as gentle invitations instead of obligations; it feels a little less intimidating. But I still worry that I might forget to check in with myself or get caught up in what I'm doing. It feels like a lot of pressure to be mindful when I'm already feeling so heavy with sadness. How can I really make that work?",
+    "therapist": "It’s great to hear that the idea of gentle invitations feels less intimidating for you. It’s normal to worry about forgetting or feeling pressured, especially when sadness is weighing you down. What if we explored the idea of creating simple cues in your environment—like a comforting item nearby or a reminder on your phone—that can gently prompt you to pause and check in with yourself without feeling like a task? How does that approach resonate with you?",
     "condition": "baseline",
-    "val_t": -0.09702157974243164,
-    "aro_t": 0.20392286777496338,
+    "val_t": -0.28095996379852295,
+    "aro_t": 0.1553868055343628,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you're trying to meet me where I am, but honestly, I'm not sure those activities will help me acknowledge my feelings. Going for a walk feels like a distraction, and listening to music might just drown out my thoughts instead of facing them. I guess I just feel stuck and uncertain about this whole process.",
-    "therapist": "It’s completely understandable to feel stuck and uncertain, especially when the usual activities don’t seem to resonate with how you're feeling. Acknowledging that you’re not ready to face certain feelings head-on is an important part of the process, and it's okay to take a step back. What if we focused on simply being present with your current feelings, without any pressure to change them or take action? How does that idea sit with you?",
+    "client": "I like the idea of having cues in my environment; it feels a bit more manageable. However, I still worry that I might not notice them or that they won’t actually lead me to take a break when I need it. I guess I’m just feeling unsure about whether these small changes will really make a difference in how heavy everything feels right now.",
+    "therapist": "It's completely understandable to feel uncertain about whether these small changes can truly impact your emotional weight, especially when everything feels so overwhelming. It’s important to recognize that even small shifts can take time to show their effects, and that's perfectly okay. What if we focused on trying one cue this week and simply observing how it feels, without any pressure to change everything all at once? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.15943992137908936,
-    "aro_t": 0.13976716995239258,
-    "text_emotion": "Angry"
+    "val_t": -0.07026517391204834,
+    "aro_t": 0.04314982891082764,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're saying it's okay to take a step back, but I still feel this weight in my chest, like I should be doing something. Just sitting with my feelings sounds simple, but I worry that if I don't address them, they'll just keep growing and overwhelm me. What if being present just makes things feel worse instead of helping?",
-    "therapist": "I hear you, and it’s completely valid to feel that tension between wanting to take action and the fear of being overwhelmed by your feelings. The weight in your chest is understandable when grief feels pressing, and it’s natural to worry about what might happen if you don’t address those feelings. What if we reframed being present not as an obligation to dive deep into your emotions, but as a way to gently acknowledge their existence, perhaps even for just a moment? How does that perspective resonate with you?",
+    "client": "I appreciate the idea of trying just one cue and observing how it feels without pressure. It sounds less overwhelming, but I still worry that I might not notice it or that it won't help me feel any better. I guess I’m just hesitant to put myself out there for fear of disappointment, especially since I’m already feeling so low.",
+    "therapist": "It's completely natural to feel hesitant about trying something new, especially when you're already navigating feelings of sadness. It shows that you care about your emotional well-being, which is important. What if we approached this as an experiment rather than a commitment? You could see it as a chance to learn more about what works for you, without the pressure of needing it to solve everything. How does that perspective feel to you?",
     "condition": "baseline",
-    "val_t": -0.22160017490386963,
-    "aro_t": 0.13999450206756592,
-    "text_emotion": "Angry"
+    "val_t": -0.12664008140563965,
+    "aro_t": 0.03970038890838623,
+    "text_emotion": "Neutral"
   }
 ]

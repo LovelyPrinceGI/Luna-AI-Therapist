@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really stuck lately. It's been six months since my younger sister passed away, and I just can't seem to find joy in anything anymore. I feel this overwhelming guilt whenever I try to move on or do something I used to enjoy.",
-    "therapist": "Hi there, I’m so sorry to hear that you’re feeling this way. It’s completely understandable to feel stuck and overwhelmed after such a profound loss. It sounds like the guilt you’re experiencing is making it particularly hard to find joy in things you once enjoyed. Can you tell me more about what it feels like to carry that guilt, and what thoughts come up when you try to engage in activities you used to love?",
+    "client": "Hi Luna, I've been struggling a lot lately. It's been six months since my younger sister passed away in a car accident, and I just can't seem to find joy in anything anymore. I feel this overwhelming guilt every time I think about moving on or trying to enjoy life, like I'm betraying her memory. I'm not sure if therapy can really help me with this.",
+    "therapist": "Hi there, I’m so sorry to hear about your loss and the immense pain you’re carrying. It’s completely understandable to feel a deep sense of guilt and struggle to find joy, especially when you’re worried about honoring your sister’s memory. Can you tell me more about what brings up these feelings of guilt, and what you think might help you feel more at peace?",
     "condition": "emotion_text_only",
-    "val_t": -0.341930627822876,
-    "aro_t": 0.18272435665130615,
+    "val_t": -0.3806267976760864,
+    "aro_t": 0.16888010501861572,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It feels like there's this constant weight on my chest, like I'm always carrying around this heavy burden. When I try to do things I used to enjoy, like going for a walk or reading a book, I just can't shake the feeling that I'm betraying their memory. It’s hard to even think about enjoying myself without feeling guilty.",
-    "therapist": "It sounds incredibly heavy and painful, carrying that burden and feeling like you’re betraying your sister’s memory. It’s natural to struggle with those feelings of guilt, especially when you’re trying to find moments of joy. Can you share more about what you think might help you feel less guilty when you do things you enjoy, or what you believe your sister would want for you in these moments?",
+    "client": "Thank you for understanding, Luna. The guilt hits me the hardest when I’m with friends or family, and they try to get me to join in on activities. I feel like I’m supposed to be sad and mournful all the time, and if I’m not, it’s like I’m forgetting her. I don’t know how to balance honoring her memory and still living my life. It’s just so hard.",
+    "therapist": "I can see how challenging it must be to navigate those moments with friends and family, feeling torn between honoring your sister and trying to participate in activities. It’s important to remember that finding joy doesn’t mean you’re forgetting her; it’s a part of continuing to live and honor her memory in your own way. How do you think you might begin to find a balance that feels right for you, even if it’s just a small step?",
     "condition": "emotion_text_only",
-    "val_t": -0.3193504810333252,
-    "aro_t": 0.11892116069793701,
-    "text_emotion": "Sad"
+    "val_t": -0.11844325065612793,
+    "aro_t": 0.09506058692932129,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I really appreciate you saying that, Luna. It does feel incredibly heavy. I think what makes it hard is that I keep imagining her disapproving face when I do something fun, and it just reinforces the guilt. I guess I worry that if I let myself be happy, it means I’m forgetting her or moving on too quickly. It’s tough to imagine what she’d want for me because it feels like I’m choosing between honoring her memory and living my own life.",
-    "therapist": "I can see how deeply you care about honoring your sister’s memory, and it’s completely understandable that imagining her disapproving face would reinforce those feelings of guilt. It’s a challenging balance to find between keeping her memory alive and moving forward with your own life. What do you think your sister would want for you in terms of your happiness and well-being? Sometimes reflecting on the love and support she gave you can offer some guidance.",
+    "client": "I appreciate that, Luna, but it’s hard to see it that way. I worry that if I start to enjoy things again, people will think I’m not grieving enough or that I’ve moved on too quickly. It feels like a tightrope, and I’m scared of falling off. How do I even start to find that balance without feeling like I’m betraying her?",
+    "therapist": "I understand how delicate and emotional this tightrope feels, and it’s completely valid to worry about how others might perceive your grief. It’s a natural concern, but it’s also important to remember that your grief is a deeply personal journey. You can honor your sister’s memory in many ways, and finding some joy in life doesn’t diminish your love for her. What are some small steps or activities that might feel right for you, even if they’re just a tiny bit comforting or enjoyable?",
     "condition": "emotion_text_only",
-    "val_t": -0.1244584321975708,
-    "aro_t": 0.1385117769241333,
+    "val_t": -0.24495422840118408,
+    "aro_t": 0.19966673851013184,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I really appreciate you saying that, Luna. It’s just hard because I feel like every decision I make, I’m second-guessing myself and wondering what she would think. I know she cared about my happiness, but I can’t shake this feeling that I’m letting her down in some way. It’s like I’m stuck in this loop of guilt and uncertainty.",
-    "therapist": "It’s really tough to be in that place of constant second-guessing and uncertainty, especially when you’re trying to honor her memory while also taking care of yourself. It’s clear that you deeply care about what she would think and that you’re struggling with this sense of letting her down. Can you explore what it might look like to find a balance where you can remember her and still make choices that support your own well-being? What small steps could you take that feel true to both your relationship with her and your own needs?",
+    "client": "I hear what you’re saying, Luna, but it’s still really hard to imagine doing anything that feels too enjoyable. Maybe I could try something small, like taking a short walk in a place she and I used to go together. It feels like a way to connect with her while also taking care of myself a little. But it’s still scary to even think about it.",
+    "therapist": "I can understand how even small steps can feel daunting, and it’s okay to take things at your own pace. Taking a walk in a place that holds special memories with your sister is a beautiful way to honor her while also taking care of yourself. It’s natural to feel a mix of emotions, but it’s a gentle way to start reconnecting with some aspects of your life. How do you think you might prepare yourself for that walk, or what might help make it feel a bit more manageable?",
     "condition": "emotion_text_only",
-    "val_t": -0.2290438413619995,
-    "aro_t": 0.1613144874572754,
-    "text_emotion": "Angry"
+    "val_t": -0.022208571434020996,
+    "aro_t": 0.1600942611694336,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I understand what you're saying, and I really do want to find that balance. It's just really hard because I feel like every decision I make, I’m second-guessing whether it’s what she would have wanted. I worry that if I prioritize my own needs, it might feel like I’m betraying her memory. How do I even start to find that middle ground?",
-    "therapist": "I can see how challenging it is to navigate those feelings of second-guessing and worry about betraying her memory. It’s a delicate balance, but finding that middle ground is possible. One step could be to gently challenge those thoughts by considering what evidence supports the idea that prioritizing your own needs is a betrayal. What might your sister say to you if she were here, knowing how much you care about honoring her memory? How can you start to integrate her support and encouragement into your decision-making process?",
+    "client": "I think I could bring a photo of her or something that reminds me of her to carry with me during the walk. It might help me feel more connected to her and less alone. But I’m still worried about the guilt and what others might think. It’s hard to shake that feeling.",
+    "therapist": "That’s a thoughtful idea, bringing a photo or something that reminds you of her can be a comforting way to feel her presence with you during the walk. It’s completely normal to still feel worried about the guilt and what others might think, but remember that your feelings and your way of grieving are unique to you. What might help you manage those feelings of guilt as you take this step? Maybe there’s a way to reassure yourself or a positive affirmation you could use?",
     "condition": "emotion_text_only",
-    "val_t": -0.18244719505310059,
-    "aro_t": 0.16202640533447266,
-    "text_emotion": "Angry"
+    "val_t": -0.19583094120025635,
+    "aro_t": 0.04446256160736084,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, Luna. It's just really hard to shake the feeling that taking care of myself means I'm forgetting her. I know she would want me to be happy, but those thoughts of betrayal are so strong. It's like I'm stuck in this loop, and I'm not sure how to break out of it. How do I start to challenge those thoughts without feeling guilty?",
-    "therapist": "It’s completely understandable to feel stuck in that loop of guilt and worry, and I’m glad you’re sharing this with me. Challenging those thoughts can be a gradual process. One approach is to start by gently questioning the evidence for and against the idea that taking care of yourself means you’re forgetting her. For example, you might ask yourself, “What are some ways I still remember and honor her, even when I take time for myself?” or “What might she say to encourage me to take care of myself?” How do you think you could start to build a more compassionate inner dialogue around this?",
+    "client": "I like the idea of a positive affirmation, but it’s hard to come up with one that feels genuine. Maybe something like, \"I can honor her memory in my own way, and it’s okay to find moments of peace.\" But I’m not sure if it will really help with the guilt. It feels so deep-seated.",
+    "therapist": "That affirmation sounds like a gentle and meaningful way to start, and it’s okay if it doesn’t feel fully genuine right away. Healing from deep-seated guilt takes time, and it’s a process. You might find that over time, as you repeat the affirmation and take small steps, it begins to feel more natural and supportive. What do you think might help you feel more connected to this affirmation, or is there another way you can start to shift those feelings of guilt, even just a little bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.24071693420410156,
-    "aro_t": 0.1900777816772461,
-    "text_emotion": "Angry"
+    "val_t": -0.2255709171295166,
+    "aro_t": 0.022032618522644043,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It's hard for me to see it that way, though. I feel like every moment I spend on myself is a moment I'm not thinking about her, and that makes me feel guilty. I don't know if I can change that, even if I try to ask myself those questions. It feels like a betrayal, you know?",
-    "therapist": "I completely understand how difficult it is to shift those feelings of guilt, especially when you’re so committed to keeping her memory alive. It’s a very natural part of the grieving process to feel that way. It might help to explore the idea that taking care of yourself isn’t about forgetting her, but rather about finding a way to live in a way that honors her memory while also nurturing your own well-being. What are some small, manageable steps you could take to start caring for yourself, even if just a little, without feeling like you’re betraying her?",
+    "client": "I think writing down the affirmation and keeping it with me might help. That way, I can look at it when I feel the guilt creeping in. But it’s still a struggle to believe it fully. I guess I just need to give it time and be patient with myself.",
+    "therapist": "That’s a great idea, writing down the affirmation and keeping it with you can be a powerful tool to remind yourself of your intentions and help manage those feelings of guilt when they arise. It’s completely normal to struggle with fully believing it at first, and giving yourself time and patience is so important. How do you think you can also be kind to yourself during this process, maybe through small acts of self-care or moments of reflection?",
     "condition": "emotion_text_only",
-    "val_t": -0.2502795457839966,
-    "aro_t": 0.12634694576263428,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It’s just hard because every time I try to do something for myself, I feel like I’m letting her down. I know it’s irrational, but the guilt is so strong. I’m not sure what small steps I could take that wouldn’t make me feel like I’m betraying her memory.",
-    "therapist": "I understand how deeply you feel this, and it’s completely normal to struggle with those feelings of guilt, even if you know they’re irrational. It’s a sign of how much you care about her. Starting with small steps can be a gentle way to begin. For example, you could try dedicating a few minutes each day to something you enjoy, while also doing something in her memory, like lighting a candle or sharing a story about her. How do you think you could balance these two actions to make it feel more manageable and less like a betrayal?",
-    "condition": "emotion_text_only",
-    "val_t": -0.24939382076263428,
-    "aro_t": 0.13883423805236816,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 9,
-    "client": "I appreciate the idea, but I’m not sure if it will help me feel less guilty. It feels like I’m trying to find a way to enjoy life while she’s gone, and that’s really hard. I worry that doing something for myself might make it seem like I’m moving on too quickly, even though I know logically that’s not true.",
-    "therapist": "I completely understand how challenging it is to navigate those feelings of guilt, especially when you’re trying to find a way to enjoy life while honoring her memory. It’s a delicate balance, and it’s okay to take it slowly. Perhaps we can explore what it means to you to move on at the right pace, and how you can incorporate small acts of self-care that feel meaningful and respectful. What are some ways you can honor her memory while also allowing yourself a bit of space to take care of yourself?",
-    "condition": "emotion_text_only",
-    "val_t": -0.1031419038772583,
-    "aro_t": 0.0901484489440918,
+    "val_t": -0.09420108795166016,
+    "aro_t": 0.05020713806152344,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 10,
-    "client": "I appreciate that, Luna. It’s just so hard to find that balance. I worry that if I start to enjoy things more, it might feel like I’m forgetting her or not taking her memory seriously enough. How do I make sure I’m not betraying her while still taking care of myself?",
-    "therapist": "I understand how challenging it is to find that balance, and it’s completely normal to have those worries. It’s important to remember that taking care of yourself doesn’t mean you’re forgetting her or not taking her memory seriously. One way to approach this might be to think of self-care as a way to honor her by living a full and meaningful life. What are some small, meaningful ways you can take care of yourself that feel like they’re in line with her memory and the love you shared? How can you ensure that these moments of self-care are also moments of remembrance?",
+    "turn": 8,
+    "client": "I think small acts of self-care, like taking those short walks or even just spending a few minutes each day doing something I enjoy, could help. It’s hard to be kind to myself right now, but I’m willing to try. I just need to be gentle with myself and not push too hard.",
+    "therapist": "It sounds like you’re taking some important steps toward being kind to yourself, and that’s a really positive direction. Recognizing the need to be gentle and not push too hard is a significant part of the healing process. What are some other small acts of self-care that you think might bring you comfort or a moment of peace? Maybe there’s something you’ve enjoyed in the past that you could try again, or something new you’d like to explore?",
     "condition": "emotion_text_only",
-    "val_t": -0.10841381549835205,
-    "aro_t": 0.19285798072814941,
+    "val_t": 0.041411757469177246,
+    "aro_t": 0.07477295398712158,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I think revisiting some of the books I used to love or trying out a new hobby like painting might help. It’s hard to imagine enjoying those things right now, but I’m willing to give them a try. I’m just scared that it won’t feel right or that I’ll feel guilty for not thinking about her every moment.",
+    "therapist": "It’s completely understandable to feel a bit hesitant and scared about trying new things or revisiting old hobbies. It’s a big step to take, and it’s okay to approach it gently. Revisiting books you used to love or trying out painting can be a way to find some comfort and distraction, and it doesn’t mean you’re forgetting your sister. It’s a way to honor your own well-being while still keeping her memory close in your heart. How do you think you might start with one of these activities, even if it’s just a small step?",
+    "condition": "emotion_text_only",
+    "val_t": -0.12351369857788086,
+    "aro_t": 0.13759613037109375,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 10,
+    "client": "I think I could start by picking up one of the books I used to love and just reading a few pages each night before bed. It feels like a manageable step, and it’s something I can do without feeling too guilty. But I’m still worried that it won’t feel right, or that I’ll feel like I’m betraying her.",
+    "therapist": "That’s a really thoughtful and manageable step, and it’s great that you’re considering something that feels right for you. Starting with just a few pages each night can be a gentle way to ease back into something you used to enjoy, and it’s perfectly okay to take it slow. It’s natural to still have those worries, but remember that finding moments of comfort doesn’t mean you’re betraying her memory. How do you think you might handle those feelings of guilt if they come up while you’re reading? Maybe there’s a specific affirmation or thought that could help you in those moments?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17901098728179932,
+    "aro_t": 0.15537774562835693,
     "text_emotion": "Angry"
   }
 ]

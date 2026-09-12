@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I’ve been really struggling lately. Since starting college last semester, I feel like I can’t keep up with all the coursework, and it’s been so overwhelming that I’ve started isolating myself from my friends. I know I should be reaching out, but it just feels like everything is piling up and I don’t know how to handle it.",
-    "therapist": "Hi there, it sounds like you’re going through a really tough time, and it’s completely understandable to feel overwhelmed with all the new challenges of college. It’s important to acknowledge how much you’re feeling right now. How are you coping with these feelings of isolation, and what do you think might help you feel more connected to your friends again?",
+    "client": "Hi Luna, I've been really struggling lately. Since starting college, I feel like I just can't keep up with all the coursework, and it's been so overwhelming that I've ended up isolating myself from my friends. I know I should be reaching out more, but it’s just hard to do. I’m not even sure if therapy can really help with this.",
+    "therapist": "Hi there, I'm so glad you reached out. It sounds like you're dealing with a lot right now, and it's completely understandable to feel overwhelmed and isolated. Starting college is a big transition, and it's okay to struggle with it. How have you been coping with these feelings, and do you think there might be small steps we can take together to make things a bit easier?",
     "condition": "baseline",
-    "val_t": -0.2952742576599121,
-    "aro_t": 0.22716104984283447,
+    "val_t": -0.28963208198547363,
+    "aro_t": 0.19813227653503418,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. It’s been really hard to feel like I belong here. I try to reach out to people, but it often feels like I’m the only one making the effort, and that just makes me feel more isolated. I don’t know, maybe I’m just not good at making friends in this new environment. How can I change that?",
-    "therapist": "It’s really tough when you feel like you’re the only one putting in effort, and it’s completely normal to doubt your ability to make friends in a new place. It sounds like you’re already showing a lot of resilience by reaching out, even when it feels challenging. What do you think might help you feel more supported and connected in this new environment? Maybe there are small steps you can take to find a community that resonates with you?",
+    "client": "Thanks for understanding, Luna. I’ve been trying to just push through it by staying up late and studying, but that just makes me more exhausted and stressed. I’ve thought about reaching out to friends, but I feel like I’m already so behind, and I don’t want to burden them with my problems. I’m not sure how to start making things easier.",
+    "therapist": "It's really tough when you feel like you're falling behind, and it's completely normal to want to avoid burdening others. Staying up late and pushing through can often make things feel even more overwhelming. Have you noticed any specific thoughts or feelings that come up when you think about reaching out to your friends? What do you think might happen if you did reach out?",
     "condition": "baseline",
-    "val_t": -0.0848311185836792,
-    "aro_t": 0.0995326042175293,
+    "val_t": -0.10214841365814209,
+    "aro_t": 0.09315037727355957,
     "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It does feel really tough, and sometimes I wonder if I’m just not good at making friends. I guess I could try joining some local groups or clubs, but it’s hard because I always worry about being judged or not fitting in.",
-    "therapist": "It’s completely understandable to have those worries about being judged or not fitting in; those are common concerns that many people face when trying to connect in new settings. Joining groups or clubs can be a great way to meet people with similar interests, and it might help to start with something that aligns with a hobby or passion you have. What do you think might make it a bit easier for you to take that step, even with the anxiety? Perhaps starting with a low-pressure activity or event?",
+    "client": "When I think about reaching out to my friends, I feel a mix of anxiety and guilt. I worry that they might think I’m not handling college well or that I’m just looking for sympathy. It’s hard to imagine they would understand or want to help when I feel like I’m such a mess.",
+    "therapist": "Those are really common feelings, and it's understandable to worry about how others might perceive you. Anxiety and guilt can be such powerful emotions, especially when you're already feeling vulnerable. Have you ever shared these feelings with anyone before, or do you think there might be a way to test out these worries in a small, manageable way?",
     "condition": "baseline",
-    "val_t": -0.06838822364807129,
-    "aro_t": 0.08515560626983643,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate the suggestion, but it still feels really daunting. I worry that even in a low-pressure setting, I'll end up feeling self-conscious and out of place. It's hard to imagine myself being able to relax and enjoy it.",
-    "therapist": "I can really understand how daunting that feels, and it’s totally normal to worry about feeling self-conscious or out of place. It’s okay to take small steps and go at your own pace. What do you think might help you feel a bit more comfortable or prepared if you did decide to try a low-pressure activity? Maybe there’s a particular activity you’re more drawn to, or a way to prepare yourself mentally beforehand?",
-    "condition": "baseline",
-    "val_t": -0.08240616321563721,
-    "aro_t": 0.09510290622711182,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I'm always overthinking things and getting stuck in my head. I guess maybe if I could find something really low-key, like a hobby group or something, it might help. But even then, I worry about what to say or do.",
-    "therapist": "It’s really common to get stuck in your head, especially in new social situations. Finding a low-key hobby group is a great idea, as it can take some of the pressure off and give you a shared activity to focus on. What do you think might help you feel more at ease when you’re in these situations? Maybe there are some simple strategies you can use to ground yourself or shift your focus away from overthinking?",
-    "condition": "baseline",
-    "val_t": -0.09874916076660156,
-    "aro_t": 0.08549559116363525,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 6,
-    "client": "I like the idea of a hobby group, but I still feel nervous about overthinking and getting anxious. It’s hard because I always worry about saying the wrong thing or coming off as awkward. I’m not sure how to stop my mind from racing in those moments.",
-    "therapist": "It’s completely understandable to feel nervous and worry about coming off as awkward. One thing that might help is to practice some grounding techniques to bring your focus back to the present moment when your mind starts racing. For example, you could try focusing on your breath or noticing the details of your surroundings. What do you think about trying these techniques the next time you feel your anxiety building? How might they help you in those moments?",
-    "condition": "baseline",
-    "val_t": -0.12458741664886475,
-    "aro_t": 0.16336464881896973,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate the suggestion, Luna. It's just hard because when my anxiety spikes, I often feel so overwhelmed that it's tough to focus on anything else. I worry that these techniques might not be enough to calm me down in the moment.",
-    "therapist": "I completely understand how overwhelming those moments can be, and it’s totally valid to feel concerned about whether the techniques will be enough. It’s okay to take it one step at a time. What do you think might help you feel more prepared to handle those moments of high anxiety? Maybe there’s a particular technique or a small, manageable action you can try when you start to feel overwhelmed? How about having a trusted friend or mentor you can reach out to for support?",
-    "condition": "baseline",
-    "val_t": -0.07161736488342285,
-    "aro_t": 0.18365657329559326,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate your understanding, Luna. It's just hard because when I feel that intense anxiety, my mind goes blank, and I can't think straight. Having a friend to reach out to sounds good in theory, but I often feel like I’m burdening them with my problems. It’s tough to know who to turn to without feeling guilty about it.",
-    "therapist": "It’s completely understandable to feel like you’re burdening others with your problems, and that can make it even harder to reach out. It’s a common worry, and it shows how much you care about the people in your life. It might help to remember that friends often want to support you, and they might not see it as a burden at all. What do you think might make it a bit easier for you to reach out for support, even with those feelings of guilt? Maybe there’s a way to frame it that feels less like a burden to you?",
-    "condition": "baseline",
-    "val_t": -0.2063809633255005,
-    "aro_t": 0.08511710166931152,
+    "val_t": -0.4724341630935669,
+    "aro_t": 0.14800894260406494,
     "text_emotion": "Sad"
   },
   {
-    "turn": 9,
-    "client": "I get what you're saying, but it's still really hard for me to see it that way. I feel like if I reach out, I’m just adding to their problems, even if they say they want to help. It’s like I’m constantly weighing whether my issues are worth bothering them with. How do I even start to change that?",
-    "therapist": "I can really understand how difficult it is to feel like you’re adding to someone else’s problems. It’s a very caring perspective, but it’s important to remember that reaching out for support is a healthy and necessary part of taking care of yourself. What do you think might help you see your need for support as just as valid as anyone else’s? Maybe there’s a way to start small, like sharing a lighter concern or simply checking in with a friend to see how they are?",
+    "turn": 4,
+    "client": "I haven’t really shared these feelings with anyone yet. It feels like a big step, and I’m not sure if I’m ready for that. I’m worried that if I do reach out, it might just make things worse or that I’ll regret it.",
+    "therapist": "It takes a lot of courage to even consider sharing these feelings, and it's completely okay to take your time with it. It's natural to worry about making things worse or regretting reaching out. One small step could be to just send a brief message to a friend, maybe saying something like, \"Hey, I’ve been feeling a bit overwhelmed lately and could use someone to talk to.\" What do you think about that? How does that feel?",
     "condition": "baseline",
-    "val_t": -0.16848230361938477,
-    "aro_t": 0.112540602684021,
+    "val_t": -0.25893449783325195,
+    "aro_t": 0.14686453342437744,
     "text_emotion": "Angry"
   },
   {
-    "turn": 10,
-    "client": "I appreciate that, but it’s hard for me to see my need for support as just as valid. I always feel like I’m imposing or being a burden, and that makes it really tough to open up, even about small things. It’s like I have this constant fear that I’m not important enough to deserve help.",
-    "therapist": "I can really hear how much this fear of being a burden is holding you back, and it’s completely understandable to feel that way. It’s a tough cycle to break, but it’s important to remember that everyone deserves support and that reaching out is a sign of strength, not weakness. What do you think might help you start to shift this belief, even a little bit? Maybe there’s a small step you can take to practice receiving support, like sharing a small, everyday challenge with someone you trust?",
+    "turn": 5,
+    "client": "I appreciate the suggestion, Luna, but I’m still really hesitant. I worry that if I reach out, my friend might not know how to respond or might feel uncomfortable. It’s hard to take that risk when I’m already feeling so vulnerable.",
+    "therapist": "I completely understand your hesitation; it's a valid concern, and it's okay to feel vulnerable. It's natural to worry about how others will respond, and it's a big step to take. Sometimes, though, even a small gesture can make a difference. What if you started by just checking in with a friend in a light, casual way, like asking how their day is going? How does that feel to you?",
     "condition": "baseline",
-    "val_t": -0.24066925048828125,
-    "aro_t": 0.10442352294921875,
-    "text_emotion": "Angry"
+    "val_t": -0.18131136894226074,
+    "aro_t": 0.07282626628875732,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "That does feel a bit more manageable, Luna. Asking how their day is going seems less risky and might help me feel more connected without putting too much pressure on myself. I think I could try that. But I’m still a bit nervous about how it will go.",
+    "therapist": "That's a great step forward, and it's completely normal to still feel a bit nervous. Starting small can be a gentle way to ease into things and build your confidence. How about we come up with a few different ways you can check in with a friend, so you have some options and feel more prepared? What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.07273590564727783,
+    "aro_t": 0.12867414951324463,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I like the idea of having some options, Luna. It feels like it could help me feel more in control and less anxious. But I’m still a bit skeptical about whether it will actually make a difference in how isolated I feel. How do I know if it’s really going to help?",
+    "therapist": "It's great that you're open to trying some new approaches, and it's totally okay to feel skeptical. Change can be gradual, and sometimes it takes a bit of time to see the impact. One way to gauge if it helps is to notice any small differences in how you feel after checking in with a friend, even if it's just a slight shift in your mood or a sense of connection. What do you think might be a small sign that it's making a positive difference?",
+    "condition": "baseline",
+    "val_t": -0.0248490571975708,
+    "aro_t": 0.13148236274719238,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think a small sign that it’s making a positive difference could be if I feel a bit more relaxed or less alone after the interaction. Even just a moment of relief or a smile could be a good sign. But I’m still worried that it might not be enough to really change how I feel overall.",
+    "therapist": "Those are great indicators to look out for, and even small moments of relief or connection can be really meaningful. It's important to recognize and appreciate those small wins. At the same time, it's okay to acknowledge that one interaction might not completely change how you feel overall. Therapy is a process, and each step, no matter how small, can contribute to bigger changes over time. How do you feel about giving it a try and seeing what happens?",
+    "condition": "baseline",
+    "val_t": 0.03530013561248779,
+    "aro_t": 0.07997584342956543,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 9,
+    "client": "I think I can give it a try, Luna. It feels like a manageable step, and I’m willing to see if it helps, even if it’s just a little bit. But I’m still a bit anxious about it, and I’m not sure if I’ll be able to keep it up consistently.",
+    "therapist": "That's a really positive step, and I’m proud of you for being willing to try. It's completely normal to still feel some anxiety, and it's okay to take things one step at a time. Consistency can be challenging, but even small, consistent efforts can make a big difference over time. What do you think might help you stay motivated or remind you why it's important to keep it up?",
+    "condition": "baseline",
+    "val_t": 0.015025496482849121,
+    "aro_t": 0.13660991191864014,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate your support, Luna. I think what might help me stay motivated is remembering that I don’t have to do this alone and that reaching out can help me feel less isolated. But it’s still hard to keep that in mind when I’m feeling so overwhelmed and anxious.",
+    "therapist": "I’m glad you found some motivation in that thought. Remembering that you don’t have to face things alone is a powerful reminder, and it’s okay to reach out for support. It’s completely normal to still feel overwhelmed and anxious, but each small step you take can help build your confidence and reduce that isolation. How about we set a small, achievable goal for the next week, like checking in with a friend once or twice? What do you think about that?",
+    "condition": "baseline",
+    "val_t": -0.052404046058654785,
+    "aro_t": 0.1917729377746582,
+    "text_emotion": "Tense"
   }
 ]

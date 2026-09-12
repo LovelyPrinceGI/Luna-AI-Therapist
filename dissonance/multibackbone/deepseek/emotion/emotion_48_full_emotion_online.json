@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I'm just so exhausted all the time lately. Between working late at the law firm and trying to finish my master's thesis, I feel like I'm constantly drowning. I'm not sure talking about it will help because honestly, it's not like my workload is going to change - these deadlines are real and can't be negotiated.",
-    "therapist": "It sounds like you're carrying an incredibly heavy load right now, and that exhaustion feels inescapable because the demands are fixed. While we can't change the deadlines, we might explore how you're thinking about this situation - when you say you're \"constantly drowning,\" what thoughts go through your mind in those moments?",
+    "client": "I’ve been feeling completely overwhelmed lately trying to juggle my job at the law firm and finishing my master’s degree. I’m constantly stressed about deadlines at work and the mountain of coursework I need to get through, and I barely have time to breathe. Honestly, I’m not sure how much therapy can help when the problem is just that there aren’t enough hours in the day.",
+    "therapist": "It sounds like you're feeling stretched incredibly thin between these demanding responsibilities, and that sense of time pressure must be exhausting. When we feel overwhelmed like this, our thoughts often magnify the pressure—what's running through your mind when you think about these deadlines?  \n\nThis might be a good moment to explore whether there are any small ways to adjust how you're viewing or approaching these commitments—would you be open to looking at that together?",
     "condition": "emotion_text_only",
-    "val_t": -0.24520552158355713,
-    "aro_t": 0.11077594757080078,
+    "val_t": -0.3015937805175781,
+    "aro_t": 0.2037050724029541,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I just keep thinking, \"I'll never catch up, and everyone will see I'm not good enough.\" It's like my brain is stuck on this loop where I imagine failing spectacularly at work. The worst part is I know it's irrational, but that doesn't make the panic any less real when it hits.",
-    "therapist": "That self-critical loop sounds really painful, especially when you intellectually know these fears may be exaggerated but your emotions still feel so intense. Let's look at this together - when you imagine \"failing spectacularly,\" what specific evidence do you have that contradicts this worst-case scenario?",
+    "client": "All I can think is \"I'm going to fail at both.\" My brain just keeps cycling through worst-case scenarios—messing up an important case at work, failing my classes, disappointing everyone. I know it's irrational but I can't seem to stop the thoughts even when I'm trying to sleep.  \n\nI guess I could try looking at things differently, but it's hard when the workload is objectively massive. No amount of reframing is going to make these deadlines disappear.",
+    "therapist": "I hear how those \"I'm going to fail\" thoughts have become relentless, especially when you're trying to rest—that mental loop sounds exhausting. Even though the workload is very real, I wonder what happens when you notice those thoughts? Do they *feel* true in the moment, or is there a part of you that recognizes they're worst-case predictions?  \n\nCould we explore one small example where you've managed a heavy workload before—even imperfectly—to see what that might tell us?",
     "condition": "emotion_text_only",
-    "val_t": -0.35259032249450684,
-    "aro_t": 0.2515302896499634,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I know logically that I haven't completely failed at things before, but my mind keeps going back to that one time I bombed a presentation at work last year. Even though my boss said it wasn't that bad, I still feel this intense shame when I think about it. It's like my brain focuses only on that moment and ignores all the times presentations went fine.",
-    "therapist": "It sounds like that one difficult experience has left a particularly strong emotional imprint, overshadowing your other successes. When you notice your brain focusing only on that memory, what would happen if you gently reminded yourself of three times your presentations actually went well?",
-    "condition": "emotion_text_only",
-    "val_t": -0.39595890045166016,
-    "aro_t": 0.16308534145355225,
+    "val_t": -0.2544213533401489,
+    "aro_t": 0.07671844959259033,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "I get what you're saying, but when I try to think about past successes, they just don't feel as real or important as that one bad experience. It's like my brain keeps going back to that failure no matter what - like it's trying to protect me from ever feeling that embarrassed again.",
-    "therapist": "It makes sense that protective part of you holds onto that memory so tightly - embarrassment can feel especially vulnerable. Let me ask: when you consider how much effort you're putting into avoiding that feeling again, what might it cost you to keep carrying this protective pattern?",
+    "turn": 3,
+    "client": "That's the thing—in the moment, the fear absolutely feels true. My chest gets tight and I can't breathe properly, which makes me think \"See? This is a crisis.\" But later, when I'm calmer, I do recognize it's exaggerated.  \n\nI did get through last semester's finals while handling a big case at work, but I was a wreck—hardly slept, snapped at everyone, and got sick afterward. I don't want to repeat that, so I'm not sure it's a great example of coping well.",
+    "therapist": "It sounds like you're caught between two realities—the intense fear that feels completely real in the moment, and the calmer perspective that comes later. That physical reaction (the tight chest, the breathlessness) must make it so hard to step back when the anxiety peaks.  \n\nYou're right that pushing through at all costs last time came with a heavy price—what would \"coping well\" look like to you this time, even if the workload stays demanding?",
     "condition": "emotion_text_only",
-    "val_t": -0.2585015296936035,
-    "aro_t": 0.1966712474822998,
+    "val_t": -0.3196587562561035,
+    "aro_t": 0.17754197120666504,
     "text_emotion": "Angry"
   },
   {
-    "turn": 5,
-    "client": "It feels like this memory is just stuck to me, you know? Like no matter how much I try to push it away, the embarrassment creeps back in whenever I'm in similar situations. I don't want to keep carrying it, but the thought of actually facing it head-on makes my stomach twist - what if I just end up feeling even worse?",
-    "therapist": "That hesitation makes complete sense - when emotions feel this sticky, the idea of facing them can understandably bring up physical discomfort. Could we try something gentler than pushing through or avoiding - perhaps simply noticing when the memory surfaces, and observing how it affects you in the moment?",
+    "turn": 4,
+    "client": "Coping well would mean not making myself physically sick from stress, I guess. But honestly? It feels impossible—either I push myself to breaking point to get everything done, or I fall behind and fail. There's no middle ground where I can be healthy *and* meet all these obligations.  \n\nI know you're going to suggest prioritizing or delegating, but in my field, that just isn't how things work. The work has to get done, and it has to be perfect.",
+    "therapist": "I hear how trapped you feel—like it's either self-destruction or failure, with no real alternatives. That \"all-or-nothing\" thinking is so common when we're overwhelmed, but I wonder if we could gently examine whether those are truly the *only* two options?  \n\nWhat’s one small obligation—even just one task—where \"good enough\" might actually be acceptable, if you experimented with it?",
     "condition": "emotion_text_only",
-    "val_t": -0.3747231960296631,
-    "aro_t": 0.26897871494293213,
+    "val_t": 0.009778022766113281,
+    "aro_t": 0.09955966472625732,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I guess maybe the smaller assignments for my degree could be \"good enough\"—like the weekly discussion posts or smaller papers. But even that feels risky because everything feels so high-stakes.  \n\nIt’s hard to accept \"good enough\" when I’ve always pushed myself to excel. Honestly, it feels like lowering my standards, and that makes me anxious too.",
+    "therapist": "That tension between wanting to protect your health and feeling like you're betraying your standards must be really painful—it sounds like \"good enough\" almost feels like giving up to you. When that anxiety rises about lowering expectations, what do you imagine might happen if you tried it just once with a smaller assignment?  \n\nWe're not talking about abandoning excellence altogether—just experimenting. What's the smallest step you could take to test this idea without it feeling too threatening?",
+    "condition": "emotion_text_only",
+    "val_t": -0.20286345481872559,
+    "aro_t": 0.21971070766448975,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess I could try noticing it, but I don't see how that's different from what I'm already doing. When the memory comes up, I definitely notice it - that's the problem. It makes my chest feel tight and my hands shake, and then I just want to distract myself from it.",
-    "therapist": "I hear how intensely this memory affects you physically when it surfaces - that tightness and shaking sounds really uncomfortable. What if we approached this noticing differently, not to push the feelings away or get caught in them, but to simply observe them with curiosity, like watching waves come and go? Would you be willing to try that together now?",
+    "client": "Maybe I could try spending 20% less time on one discussion post this week—not half-assing it, but just not obsessing over every word. But I can already feel my stomach clenching at the thought.  \n\nWhat if my professor notices and thinks I'm slacking? Or worse, what if I get a lower grade and it starts a downward spiral? I know it sounds dramatic, but that's where my mind goes.",
+    "therapist": "It's brave to even consider experimenting like this—and telling how quickly the \"what ifs\" rush in. That physical reaction (the clenching stomach) shows how deeply wired this fear of slipping up is for you.  \n\nLet me ask: if a friend told you they were trying this exact experiment, would you judge them as harshly as you're judging yourself right now? What might that double standard tell us?",
     "condition": "emotion_text_only",
-    "val_t": -0.20027410984039307,
-    "aro_t": 0.24820995330810547,
-    "text_emotion": "Angry"
+    "val_t": -0.19253945350646973,
+    "aro_t": 0.0768958330154419,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I don't know... when the anxiety hits that hard, it feels impossible to just observe it. It's like my whole body is screaming danger and I can't think straight. The wave metaphor sounds nice in theory, but in the moment it feels more like being caught in a tsunami than watching from shore. \n\nI've tried mindfulness stuff before and it just made me feel worse because I couldn't do it \"right.\" What if trying to observe the feelings just makes me focus on them more?",
-    "therapist": "I hear how overwhelming those physical sensations become - when your body's screaming danger, no wonder mindfulness approaches have felt impossible or even counterproductive before. Rather than forcing observation, what if we first worked on grounding techniques that help dial down the intensity, so you're not facing the tsunami directly? Would you be open to trying something more concrete together?",
+    "client": "If a friend told me they were doing this, I’d probably encourage them and say it’s smart to prioritize their health. But for some reason, I don’t extend that same kindness to myself.  \n\nI guess that double standard tells me I’m way harder on myself than I need to be. But letting go of that feels terrifying—like if I ease up even a little, everything will fall apart.",
+    "therapist": "It's powerful that you can recognize that kindness gap—how you'd support a friend in this situation, but struggle to offer yourself the same compassion. That fear of everything unraveling if you ease up even slightly must feel so heavy to carry.  \n\nWhat do you think it would take to start treating yourself at least a little more like you'd treat that friend—not with a huge leap, but with a tiny shift? The body's reactions (like that clenching) might still show up, but what if you could *notice* them without letting them veto the experiment entirely?",
     "condition": "emotion_text_only",
-    "val_t": -0.2636007070541382,
-    "aro_t": 0.20399653911590576,
+    "val_t": -0.24190902709960938,
+    "aro_t": 0.2025388479232788,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you acknowledging how intense the physical sensations are—most people just tell me to \"calm down\" like it's that simple. But I'm skeptical about grounding techniques too... last time I tried focusing on my senses, it just made me more aware of how fast my heart was racing and how shaky I felt. Doesn't that make things worse?",
-    "therapist": "It sounds like you've had some frustrating experiences where well-meaning suggestions ended up amplifying your distress rather than helping. Let's honor that skepticism - what if we approached this differently by finding just one small, concrete action that might create even a tiny bit of relief, without requiring you to focus inward when that feels too intense? Maybe we could brainstorm what's helped even momentarily in past moments of overwhelm?",
+    "client": "Maybe I could start by literally asking myself \"What would I say to a friend in this situation?\" when I feel the panic rising. But the physical symptoms still scare me—what if acknowledging them makes them worse?  \n\nI can intellectually see the logic here, but part of me is still screaming that this is how people start failing—by making excuses and lowering standards. It feels dangerous.",
+    "therapist": "That part of you that's screaming warnings is trying to protect you—it's just doing it in a way that leaves no room to breathe. It makes sense that this feels dangerous when perfectionism has likely *worked* for you in the past, even at a cost.  \n\nWhen those physical symptoms arise, could we frame them differently? Not as proof you're failing, but as signals from a body that's been running on overdrive—something to *notice* with curiosity rather than fear? How might that shift the experience?",
     "condition": "emotion_text_only",
-    "val_t": -0.17674636840820312,
-    "aro_t": 0.21509337425231934,
+    "val_t": -0.4138920307159424,
+    "aro_t": 0.3004889488220215,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That actually sounds a little more doable than the usual therapy suggestions. I remember sometimes just pacing around my apartment helps take the edge off when I'm really wound up. But then I feel stupid, like I'm just avoiding dealing with the real issue. It's hard to trust that small things like that actually matter when the anxiety always comes crashing back.",
-    "therapist": "It's completely understandable to doubt whether small actions make a difference when the anxiety feels so persistent - that self-judgment about \"just avoiding\" adds another layer of difficulty. What if we reframed pacing as giving your nervous system what it needs in that moment, rather than seeing it as avoidance? When you've paced in the past, did you notice any shift, however slight, in how the anxiety felt afterward?",
+    "client": "That's... actually a really different way to look at it. I've always treated the anxiety symptoms like alarm bells telling me to work harder, not like my body just begging for a break.  \n\nBut it's still hard to trust that approach—what if noticing them curiously just means I'm ignoring real problems I should be fixing? Like my therapist is suggesting I just sit with the panic instead of doing something about it.",
+    "therapist": "I hear that worry—like curiosity might mean passively accepting problems instead of solving them. But what if noticing your body's signals *is* doing something proactive? Not to stop the work entirely, but to ask: \"How can I meet these demands without breaking myself in the process?\"  \n\nThat shift from alarm to information takes practice. Would you be willing to try it just once this week—maybe with a small task—and we can unpack what happens together?",
     "condition": "emotion_text_only",
-    "val_t": -0.11763334274291992,
-    "aro_t": 0.0849066972732544,
-    "text_emotion": "Neutral"
+    "val_t": -0.12965035438537598,
+    "aro_t": 0.12944936752319336,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about reframing it as giving my nervous system what it needs, but honestly when I pace around my apartment, the anxiety just follows me. It feels like I'm just running away from my thoughts in circles. Sometimes it even makes me more aware of how restless and trapped I feel. \n\nI want to believe small actions help, but in the moment it's hard to notice any shift - maybe because I'm too focused on beating myself up for not being able to just sit still and handle it.",
-    "therapist": "I hear how that restlessness makes even movement-based coping feel frustrating when your critical thoughts follow you - that double layer of physical discomfort and self-judgment sounds exhausting. Rather than focusing on whether the pacing \"works,\" what if we simply noticed how you relate to your own attempts to cope? What happens if you try meeting that self-critical voice with some curiosity about where it's coming from?",
+    "client": "Okay... I could try it with that one discussion post. But I need you to tell me—what exactly do I *do* when I notice the physical symptoms? Just pause and say \"Huh, my chest is tight\" and then keep working? That feels too simplistic.  \n\nPart of me worries this is just a way to avoid admitting I can't handle my real workload. What if this experiment just proves I'm not cut out for this career path?",
+    "therapist": "This tension between wanting to try something new and fearing it might expose deeper inadequacies is so understandable—it’s like standing at the edge of a diving board, unsure if the water’s deep enough. When you notice physical symptoms, try this: Pause, take one slow breath, and silently name what’s happening (e.g., \"Tight chest. Fear that I’m not enough.\"). Then ask: \"Is this moment *actually* an emergency, or is my body reacting like it is?\"  \n\nThe goal isn’t to dismiss your very real workload, but to create tiny pockets of space where you’re not ruled by panic. What do you think might shift if you could separate \"this feels unbearable\" from \"I am failing\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.2096031904220581,
-    "aro_t": 0.27445363998413086,
+    "val_t": -0.15129053592681885,
+    "aro_t": 0.13275432586669922,
     "text_emotion": "Angry"
   }
 ]

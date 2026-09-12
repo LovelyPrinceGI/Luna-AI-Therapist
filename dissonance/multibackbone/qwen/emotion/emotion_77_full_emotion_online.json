@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately with my new role at work. Ever since I got the promotion, I feel like I'm drowning in responsibilities and constantly doubting whether I'm capable of handling it all. I know I should be grateful, but it's just so overwhelming.",
-    "therapist": "Hi there, it sounds like you're really going through a tough time with this new role. It’s completely understandable to feel overwhelmed and doubt yourself when there’s so much on your plate. Can you tell me more about what specifically makes you feel like you’re drowning in responsibilities?",
+    "client": "Hi Luna, I've been really struggling lately with my recent promotion. The added responsibilities are making me doubt my abilities, and I feel like I'm constantly overwhelmed. I'm not even sure if therapy can really help with something like this.",
+    "therapist": "Hi there, it sounds like you're going through a really tough time with your promotion. It's completely normal to feel overwhelmed and doubt your abilities when faced with new challenges. Therapy can definitely help you work through these feelings and build your confidence. How have you been coping with these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.12702977657318115,
-    "aro_t": 0.17375004291534424,
+    "val_t": -0.20464599132537842,
+    "aro_t": 0.1983325481414795,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, it's just that there's so much to do and I feel like I don't have enough time or resources to handle it all. Every day, I wake up with a list of tasks that seems to grow longer, and I can't help but feel like I'm failing at everything. It's hard to see a way out of this cycle.",
-    "therapist": "It sounds really challenging, and it’s completely understandable to feel that way when the demands seem to outpace your resources. It’s important to acknowledge that you’re doing the best you can, and it’s okay to feel overwhelmed. Have you had a chance to talk to anyone at work about these feelings, or perhaps break down some of those tasks into more manageable pieces?",
+    "client": "I've mostly been trying to keep up by working longer hours and relying on caffeine to get through the day. But it feels like no matter how much I do, I can't shake this constant worry that I'm not good enough for the job. It's really taking a toll on me.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself to keep up, and the long hours and caffeine are taking a toll. It's understandable to feel like you're not good enough, but it's important to recognize that these feelings are often part of the adjustment to new roles. What are some thoughts or evidence that come to mind when you doubt your abilities?",
     "condition": "emotion_text_only",
-    "val_t": -0.27810657024383545,
-    "aro_t": 0.13916254043579102,
+    "val_t": -0.354434609413147,
+    "aro_t": 0.15748202800750732,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, Luna. It's just hard because I feel like I'm supposed to handle everything on my own, and I don't want to come across as incompetent if I ask for help. Breaking down tasks sounds good in theory, but it feels like everything is interconnected and overwhelming. I don't think anyone at work really understands how much I'm struggling.",
-    "therapist": "I can really understand how tough it must be to feel like you’re on your own and worry about how others might perceive you. It’s a common fear, and it’s brave of you to be so open about it. Have you considered reaching out to a trusted colleague or mentor who might be able to offer some support or perspective? Sometimes just sharing your thoughts can help lighten the load and provide new insights.",
+    "client": "When I doubt my abilities, I keep thinking about all the times I've made mistakes or felt unsure. I compare myself to my colleagues who seem so confident and competent. It's hard to shake the feeling that I'm the only one who isn't handling this well.",
+    "therapist": "It's really tough to feel like you're not measuring up, especially when you see others seeming so confident. It's important to remember that everyone has their own struggles, even if they're not visible on the surface. Can you think of any times when you've handled challenges well or received positive feedback that might help balance these negative thoughts?",
     "condition": "emotion_text_only",
-    "val_t": -0.13443219661712646,
-    "aro_t": 0.2127145528793335,
+    "val_t": -0.1448354721069336,
+    "aro_t": 0.11828184127807617,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard because I feel like everyone is so busy with their own stuff, and I don't want to burden anyone. Plus, I'm not sure they would really understand what I'm going through.",
-    "therapist": "I completely understand how isolating and challenging that can feel. It’s natural to worry about burdening others, especially when everyone seems busy. It’s important to remember that reaching out doesn’t always have to be about solving everything at once; sometimes, just sharing your feelings can make a big difference. Have you thought about writing down your thoughts or feelings to help process them, or perhaps finding a safe space to vent, even if it’s just a journal or a trusted friend outside of work?",
+    "client": "I do remember a few times when my manager praised me for my work, especially on some recent projects. But those moments feel few and far between, and the negative thoughts tend to overshadow them. It's hard to hold onto those positive moments when the self-doubt is so strong.",
+    "therapist": "It's completely understandable that the negative thoughts can overshadow the positive ones, especially when you're feeling overwhelmed. It's great that you can recall those moments of praise and success, even if they feel few and far between. How do you think we could make those positive moments more visible to you, so they can start to balance out the self-doubt?",
     "condition": "emotion_text_only",
-    "val_t": -0.012499451637268066,
-    "aro_t": 0.10621511936187744,
+    "val_t": -0.09408438205718994,
+    "aro_t": 0.04248166084289551,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, Luna. Writing things down sounds like a good idea, but it's hard for me because I often feel like I don't even know what to say. It feels like my thoughts are all jumbled up, and I worry that putting them on paper won't make them any clearer.",
-    "therapist": "It’s completely understandable to feel that way, and it’s okay to struggle with putting your thoughts into words. Sometimes, just the act of writing can help untangle those jumbled thoughts, even if it feels messy at first. You could start by jotting down whatever comes to mind, even if it’s just a few words or phrases. How do you think it might feel to give that a try, even for just a few minutes a day?",
+    "client": "I don't think that will work for me, Luna. It's hard because the self-doubt is so persistent, and those positive moments feel so distant. I worry that even if I try to focus on them, the negative thoughts will just keep coming back. How do I stop the cycle of doubt?",
+    "therapist": "I understand that the self-doubt can feel very persistent and overwhelming. It's natural to worry that focusing on positive moments might not be enough to stop the cycle. One strategy that can help is to create a more structured way to balance out those negative thoughts. For example, you could keep a daily journal of three things you did well or received positive feedback on, no matter how small. This can help reinforce the positive and make it easier to recall them when self-doubt creeps in. What do you think about trying that approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.11683368682861328,
-    "aro_t": 0.09323632717132568,
-    "text_emotion": "Neutral"
+    "val_t": -0.19905614852905273,
+    "aro_t": 0.09608590602874756,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, and I know writing can be helpful, but it's hard for me to sit down and do it consistently. I often feel like I don't have anything valuable to write about, and it just ends up feeling like a chore. I'll try it, but I'm not sure how long I can keep it up.",
-    "therapist": "I completely understand how that can feel, and it’s totally normal to struggle with consistency and motivation. Writing doesn’t have to be a chore; it can be as simple as a few notes about your day or how you’re feeling. Maybe you could set a small, manageable goal, like writing for just five minutes a day, and see how it goes. What do you think might make it feel more manageable or less like a task to complete?",
+    "client": "I appreciate the suggestion, Luna, but it feels like another task on an already overwhelming to-do list. I worry that keeping a journal will just add more pressure and won't actually help me feel better. It's hard to see how writing things down will change the way I feel when the doubts are so ingrained.",
+    "therapist": "I completely understand that adding another task to your already overwhelming list can feel daunting. It's important to find a balance that doesn't add to your stress. Instead of journaling, we could try a different approach, like setting aside a few minutes each day to reflect on one positive thing that happened, without writing it down. This can help shift your focus without feeling like an additional burden. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.03967750072479248,
-    "aro_t": 0.09373283386230469,
+    "val_t": -0.09057652950286865,
+    "aro_t": 0.0723031759262085,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, but it still feels like a lot to ask of myself, even just five minutes. I guess I worry that I'll start small and then feel guilty if I don't do more. It's hard because I already struggle with feeling like I'm not doing enough in other areas of my life.",
-    "therapist": "I can really understand how that worry about feeling guilty can add to the pressure. It’s important to be kind to yourself and recognize that even a small step can be valuable. Maybe we can think of it as a way to check in with yourself, rather than a task to complete. How about starting with just a quick note or two when you feel like it, without setting a specific time limit? What do you think about that?",
+    "client": "That sounds a bit more manageable, Luna. I think I could try to take a few minutes to reflect on something positive each day. I'm still a bit skeptical about how much it will help, but I'm willing to give it a shot. Thanks for understanding and suggesting a lighter approach.",
+    "therapist": "I'm glad that the lighter approach feels more manageable for you. It's okay to be a bit skeptical; trying something new can be challenging. Taking a few minutes to reflect on something positive each day can be a gentle way to start shifting your perspective. How do you think you might fit this reflection time into your daily routine?",
     "condition": "emotion_text_only",
-    "val_t": -0.23067831993103027,
-    "aro_t": 0.10418081283569336,
-    "text_emotion": "Angry"
+    "val_t": 0.1693277359008789,
+    "aro_t": 0.05244016647338867,
+    "text_emotion": "Happy"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea of being kind to myself, but I still worry that even a quick note might feel like another thing on my to-do list. I guess I can try it, but I'm not sure how often I'll actually do it, you know? It's hard because I tend to feel guilty even when I do something for myself.",
-    "therapist": "I understand how challenging it can be to add even one more thing to your list, and it’s completely normal to feel that way. It’s important to recognize that taking care of yourself, even in small ways, is not a luxury but a necessity. Maybe we can think of this as a gentle reminder to pause and check in with yourself, rather than another task. How about starting with just a mental note or a quick thought to yourself whenever you have a moment? What do you think about that?",
+    "client": "I think I could try to fit this reflection time into my evening routine, maybe right before bed. It feels like a good way to end the day on a positive note, but I'm still a bit worried about whether I'll actually stick with it. I tend to struggle with consistency, especially when I'm feeling overwhelmed.",
+    "therapist": "That's a great idea to incorporate the reflection time into your evening routine. Ending the day on a positive note can be really helpful. It's totally normal to worry about consistency, especially when you're feeling overwhelmed. One way to make it easier might be to set a small, achievable goal, like reflecting on one positive thing for just a minute or two. How does that feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2324749231338501,
-    "aro_t": 0.05452406406402588,
-    "text_emotion": "Sad"
+    "val_t": -0.10089385509490967,
+    "aro_t": 0.05553245544433594,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I really do want to try, but it feels like even a mental note is one more thing to remember, and my mind is already so cluttered. It's hard to find the space to pause when every moment feels like it’s already filled with anxiety and responsibilities.",
-    "therapist": "I can see how overwhelming it must feel to have your mind so cluttered with anxiety and responsibilities. It’s completely understandable to feel like there’s no space to add even a small pause. Maybe we can think of this pause as a brief moment of breathing room, a chance to take a deep breath and reset, rather than another thing to remember. How does that feel to you? Could you imagine finding just one small moment in your day to take a deep breath and notice how you’re feeling?",
+    "client": "That feels more doable, Luna. Reflecting for just a minute or two seems like something I could manage. I'll give it a try and see how it goes. It's still a bit daunting, but I appreciate your support and the smaller goal.",
+    "therapist": "I'm glad that reflecting for just a minute or two feels more doable for you. It's great that you're willing to give it a try, even if it still feels a bit daunting. Taking small steps can make a big difference over time. How do you think you'll remind yourself to take that minute each evening?",
     "condition": "emotion_text_only",
-    "val_t": -0.2311626672744751,
-    "aro_t": 0.24964213371276855,
-    "text_emotion": "Angry"
+    "val_t": 0.22028052806854248,
+    "aro_t": 0.09792542457580566,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, but it feels like even a small pause is one more thing I have to remember to do. I worry that I’ll just end up feeling guilty if I can't manage it, and that adds to my anxiety. It’s hard to find that space when every moment feels like it’s already accounted for.",
-    "therapist": "I can really see how much you’re struggling with feeling like every moment is already filled, and adding even a small pause feels like one more thing to manage. It’s completely understandable to worry about feeling guilty or adding to your anxiety. How about if we focus on just noticing when you naturally take a break, like when you’re waiting for the kettle to boil or during a brief walk? Can you think of any moments like that in your day where you might be able to take a deep breath and check in with yourself?",
+    "client": "I think I could set a reminder on my phone to go off around the same time each evening. It's a good way to make sure I don't forget, and it feels like a gentle nudge rather than another task. I'll give it a try and see how it goes.",
+    "therapist": "Setting a reminder on your phone is a great idea! It can serve as a gentle nudge to help you stay consistent without feeling like an additional task. It's wonderful that you're taking this step, and I'm here to support you as you try it out. How do you feel about giving it a week and then reflecting on how it's going?",
     "condition": "emotion_text_only",
-    "val_t": -0.295894980430603,
-    "aro_t": 0.17942440509796143,
-    "text_emotion": "Angry"
+    "val_t": 0.10353338718414307,
+    "aro_t": 0.030037403106689453,
+    "text_emotion": "Neutral"
   }
 ]

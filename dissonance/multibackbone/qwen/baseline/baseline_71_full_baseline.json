@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really struggling lately. Ever since my grandmother passed away, I find it hard to concentrate at work and I feel overwhelmed by sadness during the day. I know therapy is supposed to help, but sometimes I just feel like nothing will make it better.",
-    "therapist": "I'm so sorry to hear about your grandmother and how you've been feeling. It's completely understandable to feel overwhelmed and like the sadness is a heavy burden to carry. Can you tell me more about what it's like for you when you feel that way, or what thoughts come up during those moments?",
+    "client": "Hi Luna, it's been really tough lately. Ever since my grandmother passed away, I can't seem to focus at work, and I feel this overwhelming sadness throughout the day. I keep wondering if therapy can really make a difference, but I'm just so stuck in this grief.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandmother and how you've been feeling. It's completely understandable to feel overwhelmed and stuck in your grief, and it's okay to wonder about the impact therapy can have. How have you been coping with these feelings so far?",
     "condition": "baseline",
-    "val_t": -0.3417229652404785,
-    "aro_t": 0.1301347017288208,
+    "val_t": -0.4389156103134155,
+    "aro_t": 0.17511403560638428,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "It feels like there's this constant weight on my chest, like I can't catch my breath. I keep thinking about all the times we could have spent together that we didn't, and I can't help but feel guilty. It's like I should have done more, said more, been there more.",
-    "therapist": "It sounds incredibly heavy and painful, and it’s natural to feel that way after losing someone so important to you. The guilt you're feeling is common, but it's also important to remember that you did the best you could with the time you had. Can you think of any moments you shared with your grandmother that feel meaningful or bring you some comfort, even in the sadness?",
+    "client": "Thanks for understanding, Luna. I've been trying to stay busy with work, but it's hard to keep my mind focused. I've also been avoiding social gatherings because I feel like people won't understand what I'm going through. It's just been really isolating.",
+    "therapist": "It sounds like you're doing the best you can to manage, but it's tough when the grief keeps pulling you back. Avoiding social gatherings is a common response when we feel misunderstood, but it can also lead to feeling more isolated. Have there been any moments, however small, where you felt a bit of connection or a sense of relief from the sadness?",
     "condition": "baseline",
-    "val_t": -0.3578908443450928,
-    "aro_t": 0.17279398441314697,
-    "text_emotion": "Angry"
+    "val_t": -0.09230732917785645,
+    "aro_t": 0.043015122413635254,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "It's hard to think about the good moments without feeling guilty. I know she loved me, but I can't help thinking about all the things I wish I had said or done differently. It feels like those moments of comfort are tainted by what I perceive as my shortcomings.",
-    "therapist": "I can see how those feelings of guilt can make it difficult to focus on the positive memories. It’s a very human response to reflect on what might have been, but it’s important to recognize the love and connection you shared, which can’t be diminished by any perceived shortcomings. How do you think your grandmother would want you to remember her, and what might she say to you about these feelings of guilt?",
+    "client": "I appreciate you asking, Luna. There was a moment when I talked to my cousin about our grandmother, and it felt good to share memories. But it's hard to keep that feeling going when I'm back to my routine and the sadness hits me again. It's like those moments of connection are just fleeting.",
+    "therapist": "It's wonderful that you had a moment of connection with your cousin; sharing memories can be a beautiful way to honor your grandmother. It's natural for those moments to feel fleeting, especially when you're back in your routine. How do you think you could create more opportunities to hold onto those feelings of connection, even when you're on your own?",
     "condition": "baseline",
-    "val_t": -0.2717297077178955,
-    "aro_t": 0.0863962173461914,
-    "text_emotion": "Sad"
+    "val_t": -0.0794609785079956,
+    "aro_t": 0.06432974338531494,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I think she would want me to remember the good times, the laughter, and the warmth we shared. But it's hard not to feel guilty about the times I wasn't there for her or when I didn't do enough. It feels like I'm letting her down even now, and I can't shake that feeling.",
-    "therapist": "It’s clear that you have a deep love and respect for your grandmother, and it’s understandable that you’re holding onto those feelings of guilt. However, it’s important to honor her memory by focusing on the love and warmth she brought into your life. What are some ways you can start to shift your focus to the positive memories, even if just for a few moments each day?",
+    "client": "I like the idea of holding onto those feelings, but it's hard to know where to start. Maybe I could try writing down some of the memories I shared with my cousin, but I worry that it might just bring up more sadness. It's a double-edged sword, you know?",
+    "therapist": "I understand that it can feel like a double-edged sword, and it's completely valid to worry about bringing up more sadness. Writing down memories can be a powerful way to process and hold onto those moments, even if it's initially challenging. What do you think might help you feel more supported as you start to write down these memories? Maybe there's a specific time of day or a particular place where you feel more at ease?",
     "condition": "baseline",
-    "val_t": -0.20527493953704834,
-    "aro_t": 0.13523590564727783,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 5,
-    "client": "I do want to focus on the good memories, but it's hard because the guilt feels so heavy sometimes. I worry that if I let go of the guilt, I might forget the lessons she taught me. It's like I'm trying to hold onto her in the only way I know how.",
-    "therapist": "It’s really important that you’re able to hold onto the lessons and the impact your grandmother had on your life. Guilt can sometimes feel like a way to stay connected, but it doesn’t have to be the only way. What are some ways you can honor her memory and the lessons she taught you without the weight of guilt? Maybe there are specific actions or traditions you can embrace that keep her spirit alive in your life.",
-    "condition": "baseline",
-    "val_t": -0.257246732711792,
-    "aro_t": 0.10091662406921387,
+    "val_t": -0.16660189628601074,
+    "aro_t": 0.010396480560302734,
     "text_emotion": "Sad"
   },
   {
-    "turn": 6,
-    "client": "I understand what you're saying, and I really do want to honor her memory in a positive way. But it feels hard sometimes because the guilt is so intertwined with how I remember her. I worry that if I let go of the guilt, I might forget some of the important things she taught me.",
-    "therapist": "I can see how intertwined those feelings are, and it’s completely understandable to worry about forgetting the important lessons she taught you. It might help to find a way to actively remember and celebrate those lessons, perhaps through a small daily practice or by sharing her wisdom with others. How do you think you could incorporate some of her teachings into your life in a way that feels meaningful and positive?",
+    "turn": 5,
+    "client": "That's a good point, Luna. I think I might feel more at ease in the evenings, when things are a bit quieter. Maybe I could set aside some time then to write, but I'm still a bit nervous about it. It feels like a big step, and I'm not sure I'm ready to face all those emotions again.",
+    "therapist": "It's completely understandable to feel nervous about it, and taking it one step at a time is important. Starting in the evenings when things are quieter sounds like a gentle way to ease into it. What might make this first step feel a bit more manageable for you? Perhaps you could start with just a few minutes, or focus on a lighter memory to begin with?",
     "condition": "baseline",
-    "val_t": -0.21242988109588623,
-    "aro_t": 0.09292018413543701,
+    "val_t": -0.11937069892883301,
+    "aro_t": 0.1440598964691162,
     "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think starting with a lighter memory is a good idea. It might help me ease into it without feeling overwhelmed. But I'm still worried that even a lighter memory might trigger more sadness. It's a tough balance to find.",
+    "therapist": "It's a thoughtful approach to start with a lighter memory, and it's okay to acknowledge that even those can bring up emotions. It's all about finding that balance and being gentle with yourself. How about taking a moment to reflect on a memory that brings a smile to your face, even if it's just a small one? And remember, you can always take breaks and do something that soothes you if the emotions feel too much. What might you do to comfort yourself if you start feeling overwhelmed?",
+    "condition": "baseline",
+    "val_t": -0.09442651271820068,
+    "aro_t": 0.04063272476196289,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I like the idea of keeping her teachings alive, but it feels a bit overwhelming. I worry that I won't do it justice or that I'll forget the specifics of what she taught. It's hard because I want to honor her memory, but I also feel like I might mess it up.",
-    "therapist": "It’s completely normal to feel that way, and it’s okay to take it one step at a time. Honoring her memory doesn’t have to be perfect; it’s more about the intention and effort you put into it. Maybe you could start with something small, like writing down a few key lessons she taught you or sharing a story about her with a friend. What do you think might be a manageable first step for you?",
+    "client": "I really appreciate your support, Luna. Reflecting on a lighter memory does sound more manageable. If I start feeling overwhelmed, I think I might take a short walk or listen to some music that I find calming. It's just hard to know if I'll be able to stop the sadness from taking over.",
+    "therapist": "I'm glad that reflecting on a lighter memory feels more manageable, and it's great that you have some soothing strategies in mind, like taking a walk or listening to calming music. It's normal to worry about the sadness taking over, but remember that you have the tools to take care of yourself. What do you think might help you feel more confident in your ability to manage those moments of sadness?",
     "condition": "baseline",
-    "val_t": -0.18893659114837646,
-    "aro_t": 0.16692161560058594,
-    "text_emotion": "Angry"
+    "val_t": 0.026167988777160645,
+    "aro_t": 0.11678135395050049,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It does feel overwhelming to think about doing something big to honor her memory. Writing down a few lessons or sharing a story sounds manageable, but I worry that it might feel too small or insignificant. What if it doesn’t capture how much she meant to me?",
-    "therapist": "I understand that worry, and it’s natural to feel that way. Starting small doesn’t diminish the depth of your feelings or the importance of your grandmother in your life. Each small step can be a way to keep her memory alive and to honor her in a way that feels authentic to you. What do you think might be a meaningful first step that feels both manageable and significant to you?",
+    "client": "I think having a clear plan in place might help me feel more confident. Knowing what to do when the sadness hits—like taking a walk or listening to music—gives me a sense of control. But I still worry that the sadness will be too strong, and I'll feel like I'm drowning in it. It's a tough balance to strike.",
+    "therapist": "Having a clear plan is a great way to build confidence and regain a sense of control. It's understandable to worry about the intensity of the sadness, and it's okay to acknowledge that it can feel overwhelming. What do you think might help you stay connected to the present moment when those intense feelings arise? Maybe there's a grounding technique or a specific activity that you find particularly helpful?",
     "condition": "baseline",
-    "val_t": 0.09624576568603516,
-    "aro_t": 0.15280580520629883,
-    "text_emotion": "Excited"
+    "val_t": -0.11026227474212646,
+    "aro_t": 0.10317015647888184,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just hard because I feel like any small step won't do justice to how much she meant to me. But maybe I could start by looking through some of her old photos or writing down some of the stories she used to tell me. It feels a bit daunting, though, because I don't want to open up old wounds.",
-    "therapist": "I completely understand how daunting it can feel to start, especially when you’re worried about reopening old wounds. Looking through photos and writing down stories can be a gentle and meaningful way to honor her memory. You might find that it brings both comfort and a sense of connection. How do you think you could approach this in a way that feels supportive and not overwhelming? Maybe setting aside a specific, manageable time to do this could help.",
+    "client": "I think practicing deep breathing or focusing on my senses might help me stay grounded. But sometimes, even those techniques feel like they're not enough when the sadness is really intense. It's hard to find the right balance between acknowledging my feelings and not letting them consume me.",
+    "therapist": "It's really insightful of you to recognize that deep breathing and focusing on your senses can help you stay grounded. It's totally normal for those techniques to sometimes feel insufficient when the sadness is very intense. What do you think might help you find a middle ground where you can acknowledge your feelings without them overwhelming you? Maybe there's a supportive person you can reach out to, or a specific activity that helps you find a sense of balance?",
     "condition": "baseline",
-    "val_t": -0.14559590816497803,
-    "aro_t": 0.09461987018585205,
+    "val_t": -0.22808706760406494,
+    "aro_t": 0.13989973068237305,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate your understanding, but it still feels like a big step. Setting aside time sounds good in theory, but I worry that it might stir up too many emotions all at once. I’m not sure I’m ready to face everything that might come up.",
-    "therapist": "I completely understand your concerns, and it’s okay to take things at your own pace. You don’t have to rush into anything that feels too overwhelming. Maybe you could start with a very small step, like looking at one photo or writing down one story, and see how you feel. What do you think might be a gentle way to begin that feels manageable for you right now?",
+    "client": "I really appreciate your suggestions, Luna. Reaching out to a supportive friend or family member might help, but I often feel like I'm burdening them with my sadness. It's hard to strike that balance between sharing and not wanting to bring them down. Maybe I could try reaching out just to share a positive memory instead, to see how that feels.",
+    "therapist": "That's a thoughtful approach to reaching out, and sharing a positive memory can be a gentle way to connect without feeling like you're burdening others. It's completely understandable to worry about bringing people down, but remember that your friends and family care about you and likely want to support you. How do you think you might feel after sharing a positive memory? And what might you say to a friend or family member to start that conversation?",
     "condition": "baseline",
-    "val_t": -0.042195916175842285,
-    "aro_t": 0.11705350875854492,
+    "val_t": 0.060967087745666504,
+    "aro_t": 0.05536961555480957,
     "text_emotion": "Neutral"
   }
 ]

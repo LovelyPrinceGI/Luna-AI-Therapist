@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. I'm preparing for my final exams next month, and I'm feeling overwhelmed, especially since I struggled a lot in my chemistry class last semester. I just can't shake the feeling that I'm not going to do well, and it's really getting to me.",
-    "therapist": "It sounds like you're under a lot of pressure and the fear of not doing well is really weighing on you. Can you tell me more about what specific thoughts or worries are coming up for you when you think about your exams?",
+    "client": "Hey Luna, I’ve been really stressed out lately. I’m preparing for my final exams next month, and I’m especially worried about chemistry because I really struggled with it last semester. I feel like I’m not making any progress, and it’s starting to overwhelm me. I’m not even sure if talking about it will help, but here I am.",
+    "therapist": "Hi there, I’m really glad you reached out and shared this with me. It sounds like you’re under a lot of pressure, especially with chemistry, and it’s completely understandable to feel overwhelmed. How are you coping with these feelings, and are there any small steps you think might help ease the stress, even a little bit?",
     "condition": "baseline",
-    "val_t": -0.3388066291809082,
-    "aro_t": 0.34185171127319336,
+    "val_t": -0.24969720840454102,
+    "aro_t": 0.19684326648712158,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, it's like I keep thinking that if I don't do well, it will reflect poorly on me as a person. I worry that my parents and teachers will be disappointed, and I'll feel like a failure. It's hard to shake off these thoughts, even when I try to focus on studying.",
-    "therapist": "It’s completely understandable to feel that way, and those thoughts can be really tough to manage. How about we explore some of the evidence that supports and challenges the idea that your exam results reflect your worth as a person? What are some things that you value about yourself, regardless of your exam performance?",
+    "client": "Thanks for listening, Luna. To be honest, I’ve been trying to study more, but it feels like no matter how much I do, it’s never enough. I’ve also been staying up late, which isn’t helping my anxiety. I’m not sure if there’s a way to make it easier—I feel like I’m just stuck in this cycle of stress and worry. It’s hard to see a way out.",
+    "therapist": "I can hear how exhausting and frustrating this feels for you, and it’s really brave of you to share this. It’s understandable that you feel stuck, but it’s important to remember that small changes can sometimes make a big difference. Have you noticed any moments, however brief, where you felt a little less overwhelmed or more in control? What was different during those times?",
     "condition": "baseline",
-    "val_t": -0.39235126972198486,
-    "aro_t": 0.05943882465362549,
-    "text_emotion": "Sad"
+    "val_t": -0.1543581485748291,
+    "aro_t": 0.14617109298706055,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it's hard to separate my worth from my grades. I feel like I've been putting so much effort into my studies, and it feels like a big part of who I am. It's tough to think about what I value about myself when my mind keeps going back to my performance.",
-    "therapist": "I can see how deeply you connect your efforts and grades to your identity, and that can make it really challenging to step back and see other aspects of yourself. It’s okay to feel this way, and it’s a common struggle. Can you think of any moments or aspects of your life where you felt proud or valued, even if they weren’t related to your academic performance?",
+    "client": "That’s a good question, Luna. I think there were a couple of times when I felt a bit better. One was when I studied with a friend, and another was when I took a break to go for a walk. I guess having some company or just a change of scenery helped, but it’s hard to make those things happen consistently when I’m so focused on studying. I don’t want to fall behind, but I also know I can’t keep pushing myself this hard.",
+    "therapist": "It’s really insightful of you to recognize those moments that helped, even if they were brief. It sounds like having support and taking breaks can make a positive difference. Maybe we can explore ways to incorporate these more regularly into your routine, even in small doses. What do you think about setting aside a short, regular time each day for a walk or a quick chat with a friend, just to give yourself a mental break? How might that feel for you?",
     "condition": "baseline",
-    "val_t": 0.004028201103210449,
-    "aro_t": 0.03745889663696289,
+    "val_t": 0.006548523902893066,
+    "aro_t": 0.06501734256744385,
     "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "It's hard for me to think of those moments right now. I feel like my grades are such a big part of who I am, and it's tough to see myself as anything else. I guess I do feel proud when I help my friends with their schoolwork, but it always feels like that's just an extension of my academic identity.",
-    "therapist": "It’s completely understandable that your academic achievements are a big part of your identity, and it’s great that you recognize your ability to help others as something you value. How do you think your friends feel when you help them with their schoolwork? Does that give you any insights into other strengths or qualities you might have?",
+    "client": "I appreciate the suggestion, Luna, but I’m worried that taking breaks might make me feel guilty or like I’m not doing enough. I know it’s important to rest, but it’s hard to find the balance when I feel like I’m already behind. I’m afraid that if I take too many breaks, I won’t be able to catch up, and that just adds to my anxiety.",
+    "therapist": "I completely understand where you’re coming from, and it’s totally normal to feel that way. It’s a tough balance to strike, but it’s important to remember that taking breaks can actually improve your focus and productivity in the long run. Maybe we can start with very short breaks, like a 5-10 minute walk or a quick chat, and see how that feels. What do you think about trying this for a few days and then reflecting on how it impacts your study sessions and overall stress levels?",
     "condition": "baseline",
-    "val_t": 0.013187050819396973,
-    "aro_t": 0.08219075202941895,
-    "text_emotion": "Neutral"
+    "val_t": -0.2698410749435425,
+    "aro_t": 0.1278897523880005,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I think my friends probably feel grateful when I help them, but sometimes I wonder if they see me as just a tutor or someone who's always there to help them get better grades. It's hard to see that as a strength when it feels like I'm just fulfilling a role they expect from me.",
-    "therapist": "It’s natural to wonder how others perceive you, and it sounds like you’re concerned about being seen solely through the lens of your academic abilities. Helping others is a significant strength, and it shows your kindness and dedication. Can you think of any times when you’ve connected with your friends on a different level, maybe through shared experiences or conversations that weren’t about school? How do those moments make you feel about yourself?",
+    "client": "I see your point, Luna, and I’m willing to give it a try. I guess I can start with those short breaks and see how it goes. It’s just hard to shake off that guilt, but I’ll do my best to remind myself that it might actually help me in the long run. Let’s see how it feels after a few days.",
+    "therapist": "That’s a great attitude to have, and I’m really proud of you for being open to trying something new. It’s completely normal to feel some guilt at first, but giving yourself permission to take those breaks can be a powerful step toward managing your stress. After a few days, we can check in and see how it’s going. How does that sound? And in the meantime, what’s one small thing you can tell yourself to help reinforce the idea that taking breaks is beneficial?",
     "condition": "baseline",
-    "val_t": 0.10615956783294678,
-    "aro_t": 0.05921494960784912,
+    "val_t": 0.07067418098449707,
+    "aro_t": 0.061881184577941895,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, Luna. It's true, I do feel like I'm only known for my academic stuff. I do remember a few times when I hung out with friends and we talked about our hobbies or just had fun without talking about school. It felt good, but those moments are few and far between. It’s hard to feel like those connections are enough when school is such a big part of our lives.",
-    "therapist": "It’s really important to acknowledge those moments where you connect with your friends outside of school, even if they feel few and far between. Those connections can be a source of joy and validation that isn’t tied to your academic performance. How might you make more space for these kinds of experiences in your life, even as you prepare for your exams?",
+    "client": "Thanks, Luna. It does feel good to have some support. I think I can tell myself something like, \"Taking a break will help me focus better and reduce my stress.\" It’s a simple reminder, but I hope it helps me feel less guilty. I’ll give it a try and let you know how it goes.",
+    "therapist": "That’s a wonderful reminder, and I’m sure it will make a difference. It’s great to have a simple, positive phrase to come back to when those guilty feelings arise. I’m here for you, and I’m looking forward to hearing how it goes. How about we also touch base on any other thoughts or feelings that come up as you try this new approach?",
     "condition": "baseline",
-    "val_t": 0.10193073749542236,
-    "aro_t": 0.0761803388595581,
-    "text_emotion": "Neutral"
+    "val_t": 0.21556460857391357,
+    "aro_t": 0.10218966007232666,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, and I do feel a bit of relief when I spend time with my friends, but it's hard to prioritize those moments right now. I feel like I need to be constantly studying to keep up, and taking time off feels like I'm falling behind. It's a tough balance to strike.",
-    "therapist": "It’s completely understandable to feel that way, especially when you’re under a lot of pressure to perform well. Finding that balance can be really challenging. What do you think might happen if you allowed yourself some short breaks to connect with friends or engage in activities you enjoy? How might that impact your overall well-being and your ability to study effectively?",
+    "client": "I really appreciate your support, Luna. I’ll keep an eye on my thoughts and feelings as I try this new approach. It’s a bit scary to step out of my comfort zone, but I’m willing to give it a shot and see if it makes a difference. I’ll let you know how it goes.",
+    "therapist": "I’m so glad to hear that you’re willing to give it a try, and I’m here to support you every step of the way. It’s completely normal to feel a bit scared when trying something new, but you’re already showing immense courage and resilience. I’m excited to hear about your progress and any insights you gain along the way. How about we also think about what might help you feel more comfortable and confident as you take these steps?",
     "condition": "baseline",
-    "val_t": -0.10115110874176025,
-    "aro_t": 0.0480198860168457,
-    "text_emotion": "Neutral"
+    "val_t": 0.22062408924102783,
+    "aro_t": 0.12857234477996826,
+    "text_emotion": "Excited"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna, but I feel like taking breaks might just add more stress. I worry that if I take time away from studying, I won't be able to catch up, and that could affect my grades. It's hard to see how taking breaks would help when I feel like I'm already barely keeping my head above water.",
-    "therapist": "I understand that the idea of taking breaks can feel counterintuitive when you’re already feeling overwhelmed. It’s a valid concern, and it’s important to acknowledge how much pressure you’re under. However, sometimes taking short, intentional breaks can actually help improve focus and reduce burnout. Have you ever noticed how you feel or perform after a short break, even if it’s just a few minutes? What do you think might be a manageable way to incorporate some brief breaks into your study schedule?",
+    "client": "Thanks, Luna. Thinking about what might help me feel more comfortable and confident is a good idea. Maybe if I can find a specific time each day for these breaks, it will feel more structured and less like I’m just avoiding my work. I’ll try to set a timer or something to remind me to take these breaks. It’s a small step, but I think it could help.",
+    "therapist": "That’s a fantastic plan, and setting a specific time with a timer is a great way to make it feel more structured and manageable. It can help take the pressure off and make the breaks feel like a natural part of your routine. How does it feel to have this plan in place, and is there anything else you think might support you as you start implementing these breaks?",
     "condition": "baseline",
-    "val_t": -0.15983080863952637,
-    "aro_t": 0.04928779602050781,
-    "text_emotion": "Sad"
+    "val_t": 0.21334445476531982,
+    "aro_t": 0.06731593608856201,
+    "text_emotion": "Happy"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it's hard to see how taking breaks will actually help when I have so much to do. I feel like every minute counts, and if I take a break, I might fall behind even more. I guess I could try a short break, but it feels risky.",
-    "therapist": "I completely understand how risky it can feel to take breaks when you’re already feeling behind. It’s a valid concern, and it’s important to approach this in a way that feels manageable for you. What if we started with very short breaks, maybe just 5-10 minutes, to see if they can help you feel a bit more refreshed without significantly impacting your study time? How does that sound?",
+    "client": "It feels a bit more manageable now, knowing I have a plan. I’m still a little nervous about sticking to it, but having a specific time and a timer should help. I think it would also be helpful to have a small reward after I complete my study sessions, maybe something simple like a favorite snack or a short episode of a show I enjoy. It might make it easier to stick to the breaks.",
+    "therapist": "That’s a wonderful idea, and adding a small reward can definitely make sticking to your plan more enjoyable and motivating. It’s great that you’re thinking about ways to make this process more positive for yourself. How do you think these rewards might impact your overall study routine and stress levels? And is there anything else you’d like to consider as you move forward with this plan?",
     "condition": "baseline",
-    "val_t": -0.11793577671051025,
-    "aro_t": 0.1203763484954834,
-    "text_emotion": "Angry"
+    "val_t": 0.1266920566558838,
+    "aro_t": 0.04357302188873291,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're trying to make it feel more manageable, but I still worry about losing momentum. It's hard because I feel like any time I take away from studying is time I won't get back, and that just adds to my anxiety. How can I be sure these breaks won't just make me more stressed?",
-    "therapist": "I understand that the idea of losing momentum is really concerning, and it’s completely normal to worry about adding more stress to an already stressful situation. One way to approach this might be to treat the breaks as a small experiment. You could try a 5-minute break after a focused 25-minute study session and see how you feel afterward. How do you think you might benefit from these short breaks, even if it’s just a brief moment to recharge?",
+    "client": "I think the rewards could really help me stay motivated and make the breaks feel more rewarding. It might reduce some of my anxiety because I’ll have something to look forward to. The only thing I’m still a bit worried about is finding the right balance—making sure the rewards don’t become a distraction. But I’ll give it a try and see how it goes.",
+    "therapist": "It’s great to hear that you’re feeling more motivated, and using rewards is a smart strategy to help reduce anxiety and make the breaks more enjoyable. Finding the right balance is definitely important, and it’s okay to adjust things as you go. Maybe you can start with small, quick rewards that you know won’t take too much time, and see how that feels. How do you think you’ll know if a reward is working well for you, and is there a specific sign you’ll look for to tell if it’s helping with your study routine?",
     "condition": "baseline",
-    "val_t": -0.23806405067443848,
-    "aro_t": 0.18509912490844727,
-    "text_emotion": "Angry"
+    "val_t": 0.08372461795806885,
+    "aro_t": 0.15336620807647705,
+    "text_emotion": "Excited"
   }
 ]

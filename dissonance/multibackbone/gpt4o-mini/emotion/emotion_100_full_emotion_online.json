@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. Family gatherings used to be a source of joy for me, but now they just feel heavy and empty without her. I struggle to enjoy the moments because her absence is always on my mind, and I can't shake this feeling of sadness.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds like you're carrying a lot of sadness right now. It's completely understandable to feel overwhelmed, especially when family gatherings, which once brought you joy, now feel heavy without her presence. Can you share more about what you miss most about those gatherings with her?",
+    "client": "I've been really struggling since my grandmother passed away last month. Family gatherings feel so different now; it's like her absence is a heavy weight on every moment, making it hard to enjoy anything. I often find myself feeling guilty for trying to have a good time when she's not there.",
+    "therapist": "I'm truly sorry to hear about your grandmother's passing. It sounds like her absence is creating a deep sense of loss that weighs heavily on you, especially during family gatherings. It's completely understandable to feel guilty about enjoying moments without her. How have you been coping with these feelings during family events?",
     "condition": "emotion_text_only",
-    "val_t": -0.21826636791229248,
-    "aro_t": 0.26504528522491455,
-    "text_emotion": "Angry"
+    "val_t": -0.3305983543395996,
+    "aro_t": 0.10965347290039062,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I really miss her laughter and the way she would tell stories that made everyone feel connected. It feels like those gatherings are just reminders of her absence now, and I struggle to enjoy them. I often feel guilty for feeling sad in front of others, like I should just put on a brave face and move on.",
-    "therapist": "It sounds like your grandmother brought so much warmth and connection to those family gatherings, and it’s completely natural to feel that void in her absence. It’s tough to balance your own feelings of sadness with the expectation to appear strong for others. What do you think would help you honor her memory during these gatherings while still allowing yourself to feel your emotions?",
+    "client": "Coping has been really hard. I try to put on a brave face for the family, but inside, I just feel this knot of sadness and guilt. When I see everyone laughing, it makes me feel even more isolated because I think, “How can I join in when she's not here?” It just feels wrong to enjoy myself without her.",
+    "therapist": "It sounds incredibly difficult to navigate your feelings of sadness and guilt while trying to support your family. It’s natural to feel isolated in moments of joy when you're mourning such a significant loss. Have you found any ways to honor your grandmother during these gatherings that might help you feel more connected to her while still allowing yourself to enjoy the moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.12121820449829102,
-    "aro_t": 0.173150897026062,
+    "val_t": -0.16517484188079834,
+    "aro_t": 0.18436658382415771,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I feel really lost when it comes to honoring her memory. It seems like everyone else has moved on, and I don’t want to bring the mood down by being emotional. I’m not sure how I can express my feelings without feeling like I’m burdening everyone else or ruining the gathering.",
-    "therapist": "It's understandable to feel lost when it comes to honoring your grandmother’s memory, especially when you perceive that others have moved on. It sounds like you're carrying a heavy weight, wanting to respect your feelings while also being mindful of those around you. What if you considered a small way to remember her during the gatherings, like sharing a favorite memory or story? That might allow you to express your emotions while still creating a sense of connection. How does that idea resonate with you?",
+    "client": "I haven't really thought about ways to honor her during gatherings. It feels like anything I could do would just highlight her absence rather than help me feel connected. I'm not sure how I could balance remembering her with allowing myself to have fun; it just seems like too much right now.",
+    "therapist": "I can see how challenging it must be to think about balancing your memories of your grandmother with the desire to enjoy time with your family. It’s understandable to worry that anything you do might emphasize her absence instead of bringing you comfort. Perhaps we could explore small ways to remember her that feel manageable, so you can honor her while still allowing space for joy. What are some of your favorite memories of her that might inspire a gentle way to keep her spirit present during gatherings?",
     "condition": "emotion_text_only",
-    "val_t": -0.33209407329559326,
-    "aro_t": 0.15008318424224854,
-    "text_emotion": "Angry"
+    "val_t": -0.053067684173583984,
+    "aro_t": 0.08052968978881836,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate the suggestion, but honestly, sharing a memory feels really daunting to me. I worry that people won't understand how deeply I feel about my grandmother, or that it might make the atmosphere awkward. It's hard to balance my desire to honor her with the fear of being judged or misunderstood by others.",
-    "therapist": "It sounds like you’re feeling a lot of pressure around sharing your feelings about your grandmother, and it's completely understandable to worry about how others might react. The fear of being judged or misunderstood can be really daunting, especially when you're trying to navigate your grief. What do you think would feel more comfortable for you in honoring her memory, perhaps something more private or subtle that still allows you to feel connected to her?",
+    "client": "I appreciate you suggesting ways to honor her, but I'm struggling to think of anything that feels right. Most of my memories are tied to specific moments that I don't think I could replicate or share without feeling overwhelmed. It feels like anything I might try would just remind me of how much I miss her instead of helping me feel connected.",
+    "therapist": "It’s completely understandable to feel overwhelmed when trying to find a way to honor your grandmother, especially when those memories are so deeply tied to your feelings of loss. It’s okay to not have an answer right now; allowing yourself to simply miss her is part of the grieving process. Perhaps we can explore what those specific moments mean to you and see if there’s a way to carry their essence with you in a smaller, more manageable gesture. What do you think?",
     "condition": "emotion_text_only",
-    "val_t": -0.03159737586975098,
-    "aro_t": 0.07436716556549072,
-    "text_emotion": "Neutral"
+    "val_t": -0.02939927577972412,
+    "aro_t": 0.1918497085571289,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I appreciate you bringing that up, Luna. I guess I do feel a lot of pressure to express my feelings about my grandmother, especially since everyone else seems to be moving on. The idea of doing something private sounds nice, but I worry it won't feel like enough or that it won't honor her memory in the way she deserves.",
-    "therapist": "It’s completely understandable to feel that pressure when you feel like others are moving on, and it's clear how much your grandmother meant to you. Honoring her memory can be really personal, and it doesn’t have to look a certain way to be meaningful. What if you took some time to reflect on what would feel right for you, even if it seems small? How do you think that could help you find peace in your memories of her?",
+    "client": "I guess exploring those moments could be helpful, but I still feel a bit hesitant. It’s hard to think about those memories without getting emotional and feeling the weight of loss all over again. I worry that bringing them up might just make things harder instead of offering any comfort.",
+    "therapist": "It’s completely normal to feel hesitant about revisiting those memories, especially when they come with such strong emotions. It sounds like you’re carrying a lot of weight right now, and it’s okay to take your time with this process. Perhaps we could approach it gently, focusing on just one memory at a time and seeing how it feels. What do you think about starting with a memory that brings a smile, even if it’s tinged with sadness?",
     "condition": "emotion_text_only",
-    "val_t": 0.004604458808898926,
-    "aro_t": 0.05338644981384277,
-    "text_emotion": "Neutral"
+    "val_t": -0.17263424396514893,
+    "aro_t": 0.03358602523803711,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate your understanding, but honestly, I feel a bit overwhelmed by the idea of reflecting on her memory right now. It almost feels like there's this pressure to come up with something profound or meaningful, and I’m not sure I can. What if I can’t think of anything that feels right, or if it just makes me more upset?",
-    "therapist": "It sounds like the pressure to come up with something profound is adding to your feelings of overwhelm, which is completely understandable given everything you’re going through. It’s okay to feel uncertain about how to honor her memory; you don’t have to force it to be meaningful. What if you took a step back and allowed yourself to just feel whatever comes up without the pressure of finding the perfect way to express it? How does that idea sit with you?",
+    "client": "I appreciate that suggestion, but I still feel worried about bringing up any memories at all. Even the happy ones feel bittersweet now, and I’m concerned that focusing on them might just open up a floodgate of emotions I’m not ready to deal with. I don’t want to end up feeling worse instead of finding some kind of comfort.",
+    "therapist": "It's completely understandable to feel worried about opening up those memories right now; they can bring a mix of emotions that feel overwhelming. It’s important to honor where you are in your grieving process and to prioritize your emotional safety. We can take a step back from that for now and focus on what feels comfortable for you. What other ways can we explore that might help you feel a little lighter during this time?",
     "condition": "emotion_text_only",
-    "val_t": -0.18057048320770264,
-    "aro_t": 0.23456120491027832,
-    "text_emotion": "Angry"
+    "val_t": -0.248632550239563,
+    "aro_t": 0.08535683155059814,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I appreciate your understanding, but honestly, the idea of just letting my feelings come up feels really daunting to me. I worry that if I don’t have a clear way to express my grief, it might just get messy or overwhelming. Plus, I feel like I owe it to her to do something meaningful, and I don’t want to let her memory down by just sitting with my feelings.",
-    "therapist": "It sounds like the thought of letting your feelings come up feels really daunting, and I can sense how much you want to honor your grandmother’s memory in a meaningful way. It's completely normal to worry that expressing grief might feel messy, especially when you're trying to do right by her. What if you considered that just being present with your feelings, even if it feels uncomfortable, is also a way to honor her? How do you think she would feel about you allowing yourself to process your grief, even if it doesn’t look perfect?",
+    "client": "I appreciate you understanding where I'm at and not pushing too hard. I guess I'm just feeling really lost in all of this. I'm not sure what would help me feel lighter because everything feels so heavy right now. It’s like I’m in a fog, and I don’t know how to clear it.",
+    "therapist": "It sounds like you're feeling quite lost and enveloped in a heavy fog right now, which can be such a tough place to be in. It's perfectly okay to not have all the answers about what might help lighten that burden. Sometimes, even small steps can make a difference. Have you considered simple activities that might provide a little distraction or comfort, like going for a walk or listening to music? What feels manageable for you at this moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.08621096611022949,
-    "aro_t": 0.14205992221832275,
-    "text_emotion": "Angry"
+    "val_t": -0.00527346134185791,
+    "aro_t": 0.1603480577468872,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, and I know in theory that expressing my feelings could be a form of honoring my grandmother. But the thought of actually doing it feels overwhelming. I worry that if I start to let those emotions out, I won't be able to control them, and it might just spiral into a mess that I can't handle. It’s hard to imagine her being okay with that.",
-    "therapist": "I hear you, and it’s completely understandable to feel overwhelmed by the idea of expressing your emotions, especially when you’re concerned about losing control. It shows how deeply you care about honoring your grandmother’s memory. What if you took a small step towards expressing your feelings, perhaps by writing them down or talking to someone you trust first, rather than doing it all at once? How might that approach feel for you?",
+    "client": "I see what you're saying about small steps, but even the thought of doing something like going for a walk feels daunting right now. I feel so drained that I worry it wouldn’t help, and I’d just end up feeling more exhausted. I guess I’m just not sure if any distraction would really lighten the fog; it feels like it’s just going to linger no matter what I do.",
+    "therapist": "It’s completely understandable to feel drained and overwhelmed, especially when everything feels heavy. It sounds like you're in a place where even the smallest actions feel like too much, and that’s a valid experience. Sometimes, simply acknowledging that fog without pushing for change can be a form of self-care. Would it feel okay to explore moments of rest or gentleness in your day instead, allowing yourself space to just be without the pressure to feel better right away?",
     "condition": "emotion_text_only",
-    "val_t": -0.2073577642440796,
-    "aro_t": 0.1843322515487671,
-    "text_emotion": "Angry"
+    "val_t": -0.21057534217834473,
+    "aro_t": 0.07415413856506348,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I see where you're coming from, but writing my feelings down feels like a lot of pressure. What if I can’t find the right words or if it just brings up too much pain? I think talking to someone I trust might be even harder, especially if they don’t really understand what I’m going through.",
-    "therapist": "It sounds like the thought of writing your feelings down or talking to someone feels really daunting, and I can sense how much pressure you’re feeling to get it right. It’s completely valid to worry about finding the right words or not feeling understood. What if you allowed yourself to just jot down a few thoughts, even if they’re incomplete, without the pressure of making them perfect? How might that feel as a way to start processing your emotions?",
+    "client": "I appreciate that perspective on acknowledging the fog without feeling pressured to change right away. It does make sense that just allowing myself to rest could be a form of self-care. But even that feels a bit difficult for me, as I’m worried that if I just sit with my feelings, I might get stuck in them and spiral deeper into sadness.",
+    "therapist": "It’s completely understandable to worry about getting stuck in your feelings, especially when they feel so heavy. It sounds like the idea of resting and sitting with your emotions brings up a lot of uncertainty for you. Perhaps we could think about ways to create a safe space for those feelings—like setting a timer for a short period to just sit with them, followed by a gentle activity that feels comforting. Would that approach feel more manageable for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.16594231128692627,
-    "aro_t": 0.10224735736846924,
-    "text_emotion": "Angry"
+    "val_t": -0.21017467975616455,
+    "aro_t": 0.021815776824951172,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate your suggestion, but honestly, the idea of writing down my feelings still feels overwhelming. I worry that anything I write won’t capture what I’m really going through, and then I’ll just end up feeling more frustrated. Plus, what if I can’t find the right words at all? It just feels like a lot of pressure.",
-    "therapist": "It sounds like you’re feeling a lot of pressure around the idea of writing down your feelings, and I can understand how that could feel frustrating, especially when you want to accurately capture what you’re going through. It’s okay to not have all the right words or to feel overwhelmed by the process; it’s a tough journey. What if you focused on just capturing a single thought or feeling in the moment, rather than trying to write everything down at once? How does that approach feel to you?",
+    "client": "I see how setting a timer could help create some structure around my feelings, but I still feel hesitant. What if I set the timer and end up feeling overwhelmed instead of comforted? It feels risky to invite those emotions in, and I’m not sure I can handle the intensity of it right now.",
+    "therapist": "It's completely understandable to feel hesitant about inviting those emotions in, especially when you're worried about being overwhelmed. Taking that step can feel risky, and it's important to honor your feelings and concerns. Perhaps we could explore other gentle ways to acknowledge your emotions without diving too deep right away. Would it feel more comfortable to try jotting down your thoughts or feelings in a journal instead, allowing you to express them without the pressure of facing them all at once?",
     "condition": "emotion_text_only",
-    "val_t": -0.16392922401428223,
-    "aro_t": 0.2420942783355713,
+    "val_t": -0.11787831783294678,
+    "aro_t": 0.19091796875,
     "text_emotion": "Angry"
   }
 ]

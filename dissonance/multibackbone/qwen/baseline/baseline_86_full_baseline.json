@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really overwhelmed lately. The pressure to keep a perfect GPA is just so intense, and it's hard to balance that with my part-time job at the cafe. I know I should be able to handle it, but it feels like everything is piling up and I can't catch a break. I'm not even sure if therapy can help with all this.",
-    "therapist": "Hi there, it sounds like you're under a lot of pressure and feeling overwhelmed, which is completely understandable given everything you're juggling. It's okay to feel this way, and it’s important to recognize that you don’t have to handle everything alone. How have you been coping with these feelings so far, and what do you think might help you feel a bit more in control?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. The pressure to maintain a perfect GPA is just so intense, and balancing that with my part-time job at the local cafe is really taking a toll on me. I know I should be able to handle it, but it feels like everything is just piling up and I don't know how to manage it all.",
+    "therapist": "It sounds like you're under a lot of pressure, and it’s completely understandable to feel overwhelmed with everything you're juggling. How have you been coping with these feelings so far, and are there any specific moments when you feel the pressure most intensely?",
     "condition": "baseline",
-    "val_t": -0.20183789730072021,
-    "aro_t": 0.24144768714904785,
+    "val_t": -0.22484636306762695,
+    "aro_t": 0.22947025299072266,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I’ve been trying to stay on top of things by making to-do lists and setting reminders, but it feels like no matter how much I plan, I still fall behind. I feel like I’m just treading water, and I’m not sure how to get ahead or even catch my breath. It’s really tough.",
-    "therapist": "It sounds like you’re putting in a lot of effort to manage everything, and it’s frustrating when it feels like it’s not enough. Making to-do lists and setting reminders are great strategies, but it’s also important to acknowledge that sometimes, the demands can just be too much. What do you think might help you feel a bit more grounded or give you a sense of accomplishment, even if it’s just a small thing?",
+    "client": "Yeah, it’s been really tough. I’ve been trying to stay on top of things by making to-do lists and setting strict schedules, but it feels like no matter how much I plan, I can never get everything done. The pressure hits me the hardest right before exams or when I have a big shift at the cafe. It’s like I’m constantly behind, and that just makes me feel more anxious and guilty.",
+    "therapist": "It sounds like you’re putting a lot of effort into managing your responsibilities, and it’s understandable that you’d feel anxious and guilty when things don’t seem to fall into place despite your best efforts. Have you noticed any thoughts that come up when you feel like you’re falling behind, or any specific worries that seem to fuel your anxiety?",
     "condition": "baseline",
-    "val_t": -0.0782543420791626,
-    "aro_t": 0.16720592975616455,
+    "val_t": -0.3658202886581421,
+    "aro_t": 0.17402982711791992,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it's hard to feel accomplished when there's so much on my plate. I try to do small things, like making the bed or taking a short walk, but they often feel insignificant compared to everything else I need to do. I don't know, maybe I just need to find a way to make these small wins feel more meaningful.",
-    "therapist": "It’s really important to acknowledge that those small wins, like making your bed or taking a walk, are still significant steps, even if they don’t feel that way in the moment. Sometimes, it helps to reframe these actions as acts of self-care and self-compassion, rather than just tasks. How might you be able to celebrate these small wins, even if just by giving yourself a moment of recognition or a little reward?",
+    "client": "Yeah, when I feel like I’m falling behind, I start thinking that I’m not good enough or that I’m letting everyone down. It’s like a spiral of negative thoughts where I worry that I won’t meet my own or others' expectations, and that just makes me feel more overwhelmed and hopeless. It’s hard to break out of that cycle, even though I know it’s not helping.",
+    "therapist": "It’s really tough to feel like you’re not meeting expectations, and those negative thoughts can definitely create a spiral that’s hard to break. It’s important to recognize that these thoughts, while very convincing, might not be entirely accurate. Can you think of any times when you’ve managed to meet your goals or received positive feedback, despite feeling this way?",
     "condition": "baseline",
-    "val_t": 0.11599671840667725,
-    "aro_t": 0.10354423522949219,
-    "text_emotion": "Excited"
+    "val_t": -0.3888441324234009,
+    "aro_t": 0.14929461479187012,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, and I know those small things are important, but it's hard to feel like they really make a difference sometimes. Celebrating them feels a bit forced, and I worry it might just highlight how little I'm actually doing. How can I make it feel more genuine?",
-    "therapist": "I understand that celebrating small wins can feel forced when you’re already feeling overwhelmed. It’s important to find a way that feels genuine to you. Maybe you could try focusing on how these small actions make you feel in the moment—like the sense of calm from making your bed or the boost of energy from a short walk. What do you think might help you connect more authentically with these moments, even if they’re small?",
+    "client": "I do remember a few times when I’ve managed to pull through, like when I aced a really tough exam or got a compliment from my boss at the cafe. But those moments feel few and far between, and it’s hard to hold onto them when I’m in the middle of a stressful period. It’s like the negative thoughts drown out the positive ones.",
+    "therapist": "It’s really important that you’re able to recognize those moments of success, even if they feel few and far between. It’s common for negative thoughts to be more prominent during stressful times, but those successes are still significant. How do you think you could remind yourself of those positive moments more often, especially when you’re feeling overwhelmed?",
     "condition": "baseline",
-    "val_t": -0.00693964958190918,
-    "aro_t": 0.11676418781280518,
+    "val_t": -0.10655677318572998,
+    "aro_t": 0.06023573875427246,
     "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and I do want to feel more connected to these small moments. It's just hard because when I'm feeling so anxious, even the smallest things can feel insignificant or like they’re not worth celebrating. I guess I’m worried that trying to focus on these moments might just make me feel more overwhelmed if I can’t get into it.",
-    "therapist": "I can really understand how hard it is to feel connected to those small moments when you’re already dealing with so much anxiety. It’s completely valid to worry that trying to focus on them might add to your stress. Maybe we could start by exploring a very gentle approach, like taking a minute to pause and breathe deeply when you do one of these small tasks. How does that sound? Could that help you feel a bit more present without adding more pressure?",
+    "client": "I guess I could try keeping a journal or a note on my phone to jot down those positive moments. But it’s hard because when I’m feeling really stressed, those positive thoughts just don’t seem real. It’s like my mind is stuck in this negative loop, and it’s hard to break out of it, even with reminders.",
+    "therapist": "It’s a great idea to have a tangible way to remind yourself of your successes, like a journal or notes on your phone. It’s completely normal for positive thoughts to feel less real when you’re in the midst of stress, but having those reminders can help challenge those negative thoughts over time. What do you think might help you stay connected to those positive moments, even when you’re feeling overwhelmed?",
     "condition": "baseline",
-    "val_t": -0.11497187614440918,
-    "aro_t": 0.23200523853302002,
-    "text_emotion": "Angry"
+    "val_t": -0.23171913623809814,
+    "aro_t": 0.04736590385437012,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you're suggesting something gentle, but even just pausing to breathe can feel like one more thing to add to my list. I worry that it might make me feel more overwhelmed rather than less. It’s hard to find that balance when I’m already struggling with so much anxiety.",
-    "therapist": "I completely understand how even the suggestion of pausing to breathe can feel like an additional burden when you’re already overwhelmed. It’s important to find a balance that doesn’t add to your stress. Maybe we can explore what might feel manageable for you right now, even if it’s just a tiny step. For example, is there a brief activity or a moment of rest that you can allow yourself to enjoy without feeling guilty or pressured? How do you think we could make that feel more doable for you?",
+    "client": "I think having a specific time each day to reflect on the positive things might help. Maybe I could set a reminder on my phone to take a few minutes to write down something good that happened, no matter how small. But it’s hard because when I’m really stressed, it feels like there’s nothing positive to write about, and that just makes me feel worse.",
+    "therapist": "Setting a specific time each day to reflect on positive moments is a great strategy. It’s completely normal to feel like there’s nothing positive to write about when you’re stressed, but even small things, like a kind word from a friend or a moment of quiet, can be meaningful. How do you think you could make it easier to find those small positives, even on tough days?",
     "condition": "baseline",
-    "val_t": -0.15387511253356934,
-    "aro_t": 0.19205152988433838,
-    "text_emotion": "Angry"
+    "val_t": -0.17913031578063965,
+    "aro_t": 0.0542832612991333,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you’re trying to find something manageable, but I often feel like any kind of break or rest just adds to my list of things I should be doing. It’s hard to allow myself that without feeling guilty. I’m not sure how to make it feel less like a burden and more like something I can actually enjoy.",
-    "therapist": "I can really understand how difficult it is to allow yourself a break without feeling guilty, especially when you’re already dealing with so much. It’s a common struggle, and it’s okay to feel that way. Maybe we can start by reframing rest as a necessary part of your routine, rather than an additional task. How do you think we could make rest a more natural and guilt-free part of your day, even if it’s just a few minutes?",
+    "client": "I think it might help if I start looking for those small positives throughout the day, rather than waiting until the end. Maybe I could take a moment to notice and appreciate them as they happen, like a compliment from a coworker or a good cup of coffee. But it’s still hard to shift my focus away from the stress and anxiety, even when I’m trying to be more mindful.",
+    "therapist": "That’s a really insightful approach—recognizing and appreciating small positives as they happen can make a big difference. It’s totally understandable that it’s still hard to shift your focus away from stress and anxiety, especially when they feel so overwhelming. How do you think you can support yourself in those moments when the stress feels particularly intense? Are there any strategies or activities that have helped you in the past, even a little bit?",
     "condition": "baseline",
-    "val_t": 0.04248535633087158,
-    "aro_t": 0.11719930171966553,
+    "val_t": -0.060817599296569824,
+    "aro_t": 0.0635673999786377,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It's just hard for me to see rest as something necessary. I often feel like if I'm not doing something productive, I'm falling behind or letting someone down. How do I even start to change that mindset? It feels so ingrained.",
-    "therapist": "I understand how deeply ingrained that feeling can be, and it’s completely valid to struggle with it. Changing that mindset can take time and practice, but it’s a worthy goal. One step could be to start by recognizing that taking care of yourself is just as important as being productive. Maybe you could try setting aside a very short period each day, even just a few minutes, to do something that genuinely brings you a sense of calm or joy, without any guilt. How do you think you could make that feel more possible for you?",
+    "client": "When the stress feels really intense, I sometimes try to take a short walk or do some deep breathing exercises. Those things help a little, but they don’t always feel like enough. I think it would be helpful to have more strategies to rely on, but it’s hard to know what else to do when the anxiety is so overwhelming.",
+    "therapist": "It’s great that you’ve found some strategies like taking a walk or doing deep breathing exercises to help manage your stress. It’s totally normal for these to feel like they’re not enough sometimes, especially when the anxiety is really intense. It can be helpful to have a variety of tools to choose from. Have you considered trying mindfulness exercises, guided meditations, or even talking to a supportive friend when you’re feeling overwhelmed? What do you think might be a good next step for you to explore?",
     "condition": "baseline",
-    "val_t": -0.13900542259216309,
-    "aro_t": 0.07315635681152344,
+    "val_t": -0.18214523792266846,
+    "aro_t": 0.14213597774505615,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate your suggestion, but it's hard because I always feel like I'm falling behind or not doing enough. Setting aside time for myself feels selfish, and I worry that it might make me less productive in the long run. How can I make that feel less guilty and more natural?",
-    "therapist": "I understand how challenging it can be to break that cycle of feeling guilty about taking time for yourself. It’s a common concern, especially when you’re used to prioritizing productivity. One way to shift this mindset is to view self-care as an investment in your overall well-being and productivity, rather than a luxury or a distraction. By taking care of yourself, you’re actually better equipped to handle your responsibilities and maintain your performance. How do you think you could start to see self-care as a supportive part of your routine, rather than a selfish act?",
+    "client": "I’ve thought about trying mindfulness and guided meditations, but I’m not sure if they’ll really make a difference for me. It’s hard to sit still and focus when my mind is racing, and I worry that it’ll just feel like another thing I’m not good at. But I’m willing to give it a try if you think it could help. Talking to a friend does sound like a good idea, though. I have a few close friends who understand what I’m going through, and it might be helpful to reach out to them more often.",
+    "therapist": "It’s completely understandable to have reservations about trying mindfulness and guided meditations, especially when your mind feels so busy. It’s important to approach these practices with a gentle and patient attitude, recognizing that it’s a skill that develops over time. Starting with short, guided sessions might make it easier to get into the practice without feeling overwhelmed. And reaching out to your friends is a great idea—they can provide a lot of support and understanding. How do you feel about setting a small goal, like trying a short mindfulness exercise once a day, and also making a point to connect with a friend regularly?",
     "condition": "baseline",
-    "val_t": -0.17940056324005127,
-    "aro_t": 0.10647761821746826,
-    "text_emotion": "Angry"
+    "val_t": 0.08494055271148682,
+    "aro_t": 0.05105471611022949,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I see what you mean, but it's hard for me to shift that mindset. I feel like if I take time for myself, I’m just being lazy or avoiding my responsibilities. It’s tough to convince myself that self-care isn’t a waste of time.",
-    "therapist": "I understand how tough it is to shift that mindset, and it’s completely normal to feel that way. The idea of self-care can often feel at odds with the pressure to be productive. One way to start is by reframing self-care as a necessary part of your routine, like recharging a battery. When you take time to recharge, you’re actually better equipped to handle your responsibilities and can be more effective in the long run. What do you think might help you see self-care as a valuable and necessary part of your day, even in small doses?",
+    "client": "I can see the value in trying a short mindfulness exercise and reaching out to friends more often, but it feels like adding one more thing to my to-do list. I’m worried that I might not have the energy or time to commit to it consistently. At the same time, I know it could be helpful, so I’m willing to give it a try, even if it feels a bit overwhelming.",
+    "therapist": "It’s totally understandable to feel like adding another thing to your to-do list can be overwhelming, especially when you’re already stretched thin. It’s important to be gentle with yourself and not add more pressure. How about starting with a very small, manageable step, like a one-minute mindfulness exercise or a quick check-in with a friend, just to see how it feels? This way, you can ease into it without feeling like it’s one more big task to handle. What do you think about that?",
     "condition": "baseline",
-    "val_t": -0.17377400398254395,
-    "aro_t": 0.03753256797790527,
-    "text_emotion": "Sad"
+    "val_t": 0.03868997097015381,
+    "aro_t": 0.1283717155456543,
+    "text_emotion": "Neutral"
   }
 ]

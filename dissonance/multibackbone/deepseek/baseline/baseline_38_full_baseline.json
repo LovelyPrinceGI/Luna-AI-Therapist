@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandma passed away last month. Everything just feels heavy, and I keep thinking about how short life is—it's making me question what I'm even doing with my own future. To be honest, I'm not sure talking about it will help because... she's still gone, you know?",
-    "therapist": "I hear how deeply you're grieving your grandma's passing, and how her absence has left you feeling weighed down with these big questions about life. It makes complete sense that you'd be reflecting on your own future when facing such a profound loss. What comes up for you when you notice yourself questioning what you're doing with your life?",
+    "client": "Lately, I’ve been feeling this heavy sadness that I can’t seem to shake. Ever since my grandmother passed away last month, I keep thinking about how much she meant to me and how empty life feels without her. I’ve also started questioning my own future—like, what’s the point of anything if everything just ends? I’m not sure if therapy can really help with something this deep.",
+    "therapist": "\"I hear how deeply you're grieving your grandmother’s loss and how her absence has left a profound void in your life. It’s natural for such a significant loss to raise existential questions about life’s meaning. What’s one memory of her that brings you comfort, even if it’s bittersweet?\"",
     "condition": "baseline",
-    "val_t": -0.29190540313720703,
-    "aro_t": 0.08635234832763672,
+    "val_t": -0.35820984840393066,
+    "aro_t": 0.08676004409790039,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I keep thinking about how my grandma always seemed so sure of her purpose—she was always helping others, always knew what to say. And here I am, just going through the motions at my job, not really feeling like I’m making a difference. It’s like her death made me realize how little I’ve accomplished, and now I’m stuck wondering if I’m even on the right path. It feels overwhelming, like I’m running out of time to figure it all out.",
-    "therapist": "It sounds like your grandma's passing has amplified this painful comparison between her sense of purpose and your current uncertainty—that must feel incredibly disorienting. When you say you're \"running out of time,\" I wonder what timeline you're holding yourself to?",
+    "client": "I remember how she used to make these little sandwiches for me after school, even when I was already too old for that. It makes me smile, but then I just feel worse because I'll never taste her sandwiches again. Sometimes I wonder if remembering just makes the pain sharper.",
+    "therapist": "\"It sounds like those memories hold so much love and warmth, but they also bring a sense of longing for what’s no longer here. Grief often carries this duality—moments of joy intertwined with deep sorrow. How might it feel to honor her memory in a way that feels meaningful to you, perhaps even creating a small ritual around those sandwiches?\"",
     "condition": "baseline",
-    "val_t": -0.1997750997543335,
-    "aro_t": 0.20145297050476074,
-    "text_emotion": "Angry"
+    "val_t": -0.1816955804824829,
+    "aro_t": 0.06555676460266113,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I don't know, I guess I always thought I'd have my life figured out by 30. Grandma had her teaching career and family by my age, and here I am still figuring out what I even want. It makes me feel like I'm failing somehow, even though I know comparing isn't helpful. \n\nThe timeline pressure feels so real even though I can't exactly explain where it's coming from. Maybe it's seeing friends settle down while I'm still stuck in this cycle of second-guessing every decision.",
-    "therapist": "It's understandable to feel that societal and personal expectations create this pressure, especially when comparing your journey to others'—even your beloved grandma's. I notice you're holding two truths at once: the painful comparison, and the awareness that it might not be serving you. What would it feel like to gently set aside those comparisons for a moment and explore what *you* truly want from this chapter of life?",
+    "client": "I don't know... trying to recreate her sandwiches feels like it would just highlight how much is missing. And honestly, the thought of doing some \"ritual\" seems kind of forced to me. Like I'm pretending some symbolic act could fill the actual hole she left in my life.",
+    "therapist": "\"I hear how recreating her sandwiches feels like it might emphasize her absence rather than bring comfort, and rituals can indeed feel artificial when they don’t align with your emotions. It’s okay to feel that way—grief doesn’t always follow a neat path. What do you think might help you feel connected to her in a way that feels authentic to you, even if it doesn’t “fix” the pain?\"",
     "condition": "baseline",
-    "val_t": -0.1375671625137329,
-    "aro_t": 0.1292170286178589,
+    "val_t": -0.14907598495483398,
+    "aro_t": 0.09900081157684326,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I know logically that comparing myself to others isn't helpful, but it's like my brain keeps doing it automatically. When you ask what I truly want, I just feel this blankness - like I've been so focused on measuring up to expectations that I don't even know my own desires anymore. \n\nIt's frustrating because part of me wants to figure this out, but another part keeps whispering that I'm being selfish or irresponsible if I don't follow the path my family expects.",
-    "therapist": "It sounds like there's a real tension between the expectations you've absorbed and this quieter voice longing to discover what genuinely matters to you—that blankness makes so much sense when you've been focusing outward for so long. I wonder what small step might help you reconnect with yourself, even if it feels unfamiliar or uncomfortable at first?",
+    "client": "Maybe... I could write down all those little things she used to do, like the sandwiches or how she'd hum while doing laundry. Not as some big ritual, but just when those memories pop up. Though part of me worries I'll forget the details over time, and that scares me more than anything. What if I lose those memories too?",
+    "therapist": "\"That sounds like a beautiful and personal way to honor her memory—capturing those small, precious details that made her so special to you. It’s understandable to feel scared about forgetting them, but writing them down can help preserve those moments in a way that feels meaningful. How might it feel to start writing those memories, even if it’s just one at a time?\"",
     "condition": "baseline",
-    "val_t": -0.33009397983551025,
-    "aro_t": 0.14013993740081787,
-    "text_emotion": "Angry"
+    "val_t": -0.09185826778411865,
+    "aro_t": 0.0879591703414917,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I know I *should* try reconnecting with myself, but the idea of doing something just for me makes me feel guilty. Like I'm being selfish when there are so many other people counting on me. Even small steps feel overwhelming because what if I pick the wrong thing and waste time?",
-    "therapist": "It's understandable that prioritizing yourself feels uncomfortable when you're used to putting others first—that guilt shows how deeply you care about being responsible. What if we reframed self-exploration not as selfishness, but as gathering information to show up more fully for those who count on you?",
+    "client": "I guess I could try writing just one memory, but it also makes me feel like I'm admitting she's really gone. And what if I write it wrong and mess up how I remember her? That thought makes my chest feel tight. Maybe this is why I've been avoiding thinking about her too much.",
+    "therapist": "\"It sounds like writing feels like it might make her absence more real, and the fear of not capturing her accurately adds to the heaviness you’re carrying. Your emotions are valid—grief often brings these conflicting feelings of wanting to remember and fearing the pain that comes with it. What would it feel like to give yourself permission to write imperfectly, knowing your love for her is what truly matters?\"",
     "condition": "baseline",
-    "val_t": -0.3653082847595215,
-    "aro_t": 0.20080983638763428,
+    "val_t": -0.25676071643829346,
+    "aro_t": 0.1424645185470581,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying about it being information gathering, but I still feel like I'm letting people down when I take time for myself. My family has always expected me to be available whenever they need help, and when I'm not, I can see the disappointment in their faces. That guilt just eats at me even if I know logically that I need some space sometimes.",
-    "therapist": "The disappointment you see in their faces seems to carry so much weight—it makes sense that this would trigger deep guilt when you try to set boundaries. I'm curious, what happens emotionally when you imagine someone in your family feeling disappointed, but knowing it's not actually your responsibility to fix?",
+    "client": "I guess I could try writing imperfectly, but it still feels like I’m not doing her justice. And honestly, part of me feels like I’m betraying her by trying to move forward at all. It’s like, if I start writing or doing anything to cope, it means I’m accepting she’s gone, and I’m not ready for that yet.",
+    "therapist": "\"It sounds like there’s a deep conflict between wanting to honor her memory and feeling like moving forward somehow diminishes her importance. Grief often carries this tension—holding onto love while also finding ways to live with the loss. What would it feel like to remind yourself that moving forward doesn’t mean forgetting her, but rather carrying her with you in a new way?\"",
     "condition": "baseline",
-    "val_t": -0.3498198986053467,
-    "aro_t": 0.059191346168518066,
-    "text_emotion": "Sad"
+    "val_t": -0.2129899263381958,
+    "aro_t": 0.11503636837005615,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I know logically that their disappointment isn't my fault, but it still feels like a physical weight in my chest when I imagine their faces. Even if I tell myself it's not my responsibility, part of me still believes I'm being selfish or letting them down. \n\nIt's hard because my whole life I've been the one who fixes things for everyone, so not doing that now makes me feel like I'm failing at my role in the family.",
-    "therapist": "That physical weight in your chest tells me how deeply ingrained this caretaking role is—it's been part of your identity for so long that stepping back understandably feels like losing part of yourself. I wonder what it might feel like to acknowledge that weight compassionately while also gently questioning whether \"failing your role\" could actually mean growing into a healthier version of yourself?",
+    "client": "I don't know if I buy the \"carrying her with me\" thing. It sounds nice, but the truth is I want *her*, not some abstract version I carry around. And it's not like I have a choice about moving forward anyway - time keeps passing whether I want it to or not, which just makes me feel more powerless.",
+    "therapist": "\"I hear how deeply you long for her presence, not just the idea of her, and how the inevitability of time feels like it’s forcing you forward in a way that leaves you feeling powerless. Grief doesn’t offer easy answers, and it’s okay to feel frustrated or stuck in the process. What does it feel like to acknowledge that it’s okay to want her back, even as time moves forward?\"",
     "condition": "baseline",
-    "val_t": -0.37721312046051025,
-    "aro_t": 0.14865529537200928,
-    "text_emotion": "Sad"
+    "val_t": -0.25118935108184814,
+    "aro_t": 0.1389085054397583,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I know logically that I need to set boundaries, but the guilt is overwhelming. Every time I try to step back, I hear this voice saying \"You're being selfish\" and it makes me feel like a terrible person. The idea of growing into a healthier version sounds nice in theory, but it just feels like I'd be abandoning people who need me.",
-    "therapist": "It sounds like that \"selfish\" voice has been such a constant companion that challenging it feels almost like betraying people you love—that must make growth feel so frightening. I wonder if we could get curious about what \"selfish\" really means in these moments—could protecting your energy actually allow you to show up more sustainably for others in the long run?",
+    "client": "It feels... I don't know, selfish maybe? Like I'm being childish for still wanting her here when I know she can't be. And that makes me angry too - at myself for feeling this way, at the world for taking her. Mostly I just feel like I'm failing at grief, like I'm doing it wrong by not being able to accept things.",
+    "therapist": "\"It sounds like you're carrying a lot of guilt and anger alongside your grief, and it’s understandable to feel overwhelmed when the emotions clash. There’s no 'right' way to grieve—it’s deeply personal and often messy. What would it feel like to offer yourself some compassion, recognizing that your feelings are valid and not a reflection of failure?\"",
     "condition": "baseline",
-    "val_t": -0.3929133415222168,
-    "aro_t": 0.1568068265914917,
-    "text_emotion": "Sad"
+    "val_t": -0.5740131735801697,
+    "aro_t": 0.2637706995010376,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about protecting my energy, but when I try to set boundaries, I immediately feel guilty. Like if I say no to helping my mom, I keep thinking about how exhausted she is and how much she's done for me. It feels like I'm being ungrateful.",
-    "therapist": "It makes so much sense that this guilt surfaces when you think about your mom's sacrifices—your care for her runs deep. I wonder if gratitude and self-care could coexist, where honoring your limits might actually model something important for her too?",
+    "client": "I get what you're saying about self-compassion, but it just feels like empty words right now. The more I try to be kind to myself about this, the more I feel like I'm just making excuses for not handling things better. People seem to move on from loss all the time - why can't I?",
+    "therapist": "\"It sounds like self-compassion feels hollow when you’re comparing yourself to others and feeling like you 'should' be handling this differently. Grief doesn’t follow a timeline, and everyone’s journey is unique—what feels like 'moving on' for one person might look entirely different for another. What would it feel like to let go of the expectation that you need to grieve a certain way or at a certain pace?\"",
     "condition": "baseline",
-    "val_t": -0.3629351854324341,
-    "aro_t": 0.1929715871810913,
+    "val_t": -0.16589903831481934,
+    "aro_t": 0.09391415119171143,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about balancing gratitude and self-care, but it feels impossible sometimes. When I try to set boundaries with my mom, I immediately feel like I'm being selfish after everything she's done for me. The guilt just overwhelms me before I can even try.",
-    "therapist": "It sounds like that guilt hits so quickly it almost feels like a reflex—a testament to how deeply you value your mom and all she's done. I wonder if we could explore what \"selfish\" might look like through a kinder lens—could prioritizing your well-being actually be an act of care for both of you?",
+    "client": "It's exhausting carrying this pressure to grieve \"right\" - but if I let go of that, then what? I'm just left with this raw pain that never really goes away. And honestly, part of me is afraid that if I stop judging myself for grieving too long or too hard, I'll just sink into it completely and never come back up.",
+    "therapist": "\"It sounds like there’s a fear that letting go of the pressure to grieve 'correctly' might leave you feeling overwhelmed by the pain, as though it could consume you. Grief often feels like walking a tightrope—balancing between honoring the pain and finding a way to live alongside it. What would it feel like to explore small, gentle ways to hold space for your grief while also nurturing parts of yourself that still want to move forward?\"",
     "condition": "baseline",
-    "val_t": -0.356347918510437,
-    "aro_t": 0.16219115257263184,
+    "val_t": -0.4356037378311157,
+    "aro_t": 0.2153078317642212,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I got laid off last month. The uncertainty is killing me - I keep worrying about how I'll pay my bills if I don't find something soon, and I'm scared my skills are becoming outdated in this fast-moving tech industry. Part of me wonders if talking about it will actually help, since it feels like my problems are so practical and financial.",
-    "therapist": "I hear how overwhelming this situation feels—both the immediate financial pressures and the deeper worries about your career path. It makes sense that these practical concerns would weigh heavily on you right now.  \n\nWhen those thoughts about your skills becoming outdated come up, what evidence do you have—either way—about how marketable you actually are in your field?",
+    "client": "Lately, I’ve been feeling really anxious since losing my job at the startup. I keep worrying about how I’m going to pay my bills and whether I’ll find something else in this competitive market. I’m not sure if therapy can really help with something as practical as this—it feels like my problems are more about external circumstances than my thoughts.",
+    "therapist": "It sounds like this job loss has left you feeling quite uncertain and concerned about the future—that’s completely understandable given the situation. While it’s true that external circumstances are playing a big role here, our thoughts about those circumstances can also shape how we feel and act. What kind of thoughts tend to come up most when you think about finding a new job?",
     "condition": "emotion_text_only",
-    "val_t": -0.38181304931640625,
-    "aro_t": 0.20113706588745117,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 2,
-    "client": "I guess the evidence is mixed. I see job postings that still list my skillset, but they all want younger candidates with more recent experience. It makes me feel like I'm stuck in this weird middle ground where I'm not obsolete yet, but I'm not exactly in demand either. \n\nThe financial stress just makes it worse because I can't afford to take time off for more training or education right now.",
-    "therapist": "It sounds like you're caught between hope and frustration—seeing opportunities but feeling blocked by very real constraints. That \"middle ground\" feeling must be especially tough when financial pressures leave little room to maneuver.  \n\nWhat would it look like to explore small, manageable steps that could build your confidence or skills without requiring major time or financial investment right now?",
-    "condition": "emotion_text_only",
-    "val_t": -0.22941040992736816,
-    "aro_t": 0.08789753913879395,
+    "val_t": -0.309340238571167,
+    "aro_t": 0.11994004249572754,
     "text_emotion": "Sad"
   },
   {
-    "turn": 3,
-    "client": "I get what you're saying about small steps, but honestly even that feels overwhelming right now. Every time I try to make progress, some unexpected expense pops up and I'm back to square one. It's hard to feel motivated when I'm constantly putting out financial fires. \n\nI do want to build skills and confidence, but I keep thinking \"what's the point\" when I can barely pay my bills this month. How do you stay focused on growth when survival feels like the only priority?",
-    "therapist": "I hear how exhausting this cycle feels—like you're constantly being pulled back just as you try to move forward. When survival takes all your energy, it's completely understandable that \"growth\" would feel almost impossible to prioritize right now.  \n\nCould we look for one tiny anchor—maybe just 10 minutes a day—where you could focus on something that reminds you of your strengths, even amid the financial stress? What might that look like for you?",
+    "turn": 2,
+    "client": "I keep thinking \"I'll never find something as good as that startup\" and \"No one will want to hire someone who got laid off.\" It makes me feel like there's no point in even applying anywhere. But then I know that's probably irrational—it's just hard to shake those thoughts when they feel so real.",
+    "therapist": "It sounds like those thoughts are creating a lot of doubt and discouragement, even though you’re aware they might not be entirely rational. When we’re in stressful situations, our minds can latch onto these kinds of negative predictions, which can make it harder to take action. What evidence do you have, either for or against, the idea that no one will want to hire you?",
     "condition": "emotion_text_only",
-    "val_t": -0.07373523712158203,
-    "aro_t": 0.20846569538116455,
-    "text_emotion": "Tense"
+    "val_t": -0.1721557378768921,
+    "aro_t": 0.12848341464996338,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I don’t really have evidence that no one would hire me, but it just feels that way because getting laid off made me feel like I wasn’t good enough. I know logically that layoffs happen for all kinds of reasons, like budget cuts, but it’s hard to separate that from feeling like it was personal. I’m not sure how to shift that mindset—it’s stuck in my head.",
+    "therapist": "It sounds like you’re carrying a lot of self-doubt tied to the layoff, even though you know logically that it wasn’t necessarily about your performance. That feeling of it being personal can be really hard to shake, especially when it’s tied to something as significant as your job. What would it feel like to remind yourself that layoffs often happen for reasons beyond individual worth—and how might that shift how you approach your job search?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2351440191268921,
+    "aro_t": 0.05467665195465088,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about finding small moments, but honestly even 10 minutes feels overwhelming right now. Between juggling bills and constantly worrying about money, any free time just makes me feel guilty that I should be working more or figuring things out. \n\nI do have this old sketchbook I used to love, but when I tried picking it up last week, all I could think was \"this won't pay the rent\" and I just put it away again. It's like my brain won't let me enjoy anything that isn't directly solving the money problem.",
-    "therapist": "It sounds like even brief moments of self-care are colliding with that intense guilt about \"not doing enough\"—which must make everything feel heavier right now. That sketchbook moment captures the struggle perfectly: part of you remembers what brings joy, while another part insists it's not practical enough.  \n\nWhen that voice says \"this won't pay the rent,\" could we gently explore whether dismissing *all* non-financial activities might actually be draining the very energy you need to problem-solve? What happens if you test that assumption, even for five minutes?",
+    "client": "I guess reminding myself that layoffs aren’t personal could help, but it still feels like I’m not good enough. Even if it wasn’t about me, I keep thinking that a better employee wouldn’t have been laid off. It’s hard to shake that feeling, and I worry it’s going to make me seem less confident in interviews or applications. I’m not sure how to stop thinking that way—it feels like it’s just stuck in my head.",
+    "therapist": "It sounds like you’re caught in a loop of self-doubt, and that feeling of not being good enough seems to be lingering even when you try to challenge it. That kind of thinking can definitely affect how you present yourself during interviews or applications, and I understand how frustrating it can feel when those thoughts feel so persistent. What would it feel like to imagine someone else in your situation—would you judge them as harshly as you’re judging yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.15087103843688965,
-    "aro_t": 0.1931917667388916,
+    "val_t": -0.2549222707748413,
+    "aro_t": 0.1309819221496582,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying, but it’s hard to shake the feeling that doing something like sketching is just avoiding my responsibilities. Even if it brings me joy, it feels like I’m wasting time I could be using to figure out how to get my life together. I keep thinking, “What if I spend those five minutes and nothing changes? What’s the point?” It’s like I’m stuck in this loop where everything feels pointless unless it’s directly solving my problems.",
-    "therapist": "It sounds like you're caught in a cycle where even small acts of self-care feel like they're competing with your very real need to solve these pressing problems. That \"what's the point?\" thought must make it hard to see how anything could help right now.  \n\nWhat if we reframe sketching not as avoiding responsibilities, but as giving your mind a brief reset so you can approach your challenges with a bit more clarity? How might that shift your perspective?",
+    "client": "If it were someone else, I wouldn’t judge them harshly at all—I’d probably tell them it’s not their fault and that layoffs happen all the time. But it’s so much harder to apply that same kindness to myself. I guess it’s because I feel like I should’ve done more to prevent it, even though I know logically that wasn’t in my control. It’s just hard to let go of that guilt and self-blame.",
+    "therapist": "It sounds like you’re holding onto a lot of guilt and self-blame, even though you’re able to show so much understanding and kindness toward others in the same situation. That disconnect between how you treat yourself and how you’d treat someone else can be really painful to sit with. What would it feel like to try extending that same compassion to yourself—even just a little—and how might that change how you view this situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.16037309169769287,
-    "aro_t": 0.15392255783081055,
-    "text_emotion": "Angry"
+    "val_t": -0.2990304231643677,
+    "aro_t": 0.046463847160339355,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about the sketching being a reset, but when I'm in that anxious state, it feels like I'm just distracting myself from things I should be dealing with. The guilt creeps in even if I only take 10 minutes to draw. \n\nPart of me knows breaks are important, but the other part keeps saying \"you don't deserve this when there's so much unfinished.\" It's exhausting going back and forth like this.",
-    "therapist": "That back-and-forth in your mind—between knowing breaks help and feeling you don't deserve them—sounds utterly draining. It makes sense that even small moments of relief get overshadowed by guilt when there's so much unresolved.  \n\nWhat would it feel like to name that critical voice explicitly? If you could hear it as separate from your wiser self that knows rest isn't a reward to be earned, but fuel for the work ahead?",
+    "client": "I guess trying to be kinder to myself sounds good in theory, but it feels unnatural—like I’m just making excuses for myself. I’m worried that if I let go of the guilt, I’ll stop pushing myself to improve and end up in the same situation again. It’s hard to trust that self-compassion won’t just make me complacent.",
+    "therapist": "It sounds like you’re worried that self-compassion might lead to complacency, which makes it feel unsafe to let go of the guilt and self-blame. That’s a really common concern, especially when we’re used to pushing ourselves hard. But self-compassion isn’t about making excuses—it’s about creating a healthier mindset that allows you to grow without being weighed down by harsh self-criticism. What would it feel like to experiment with small acts of self-kindness and see how they impact your motivation rather than assuming they’ll hold you back?",
     "condition": "emotion_text_only",
-    "val_t": -0.2450118064880371,
-    "aro_t": 0.2143028974533081,
-    "text_emotion": "Angry"
+    "val_t": -0.2721301317214966,
+    "aro_t": 0.07583737373352051,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "It’s hard to separate that critical voice from myself—it feels like it’s just me being realistic, not some outside thing. When I try to rest, it’s like I hear, “You’re being lazy, you’re falling behind, you don’t deserve this.” Even naming it feels weird because it’s so ingrained in how I think. I’m not sure if calling it something separate will actually help.",
-    "therapist": "I hear how deeply connected that critical voice feels to your sense of reality—like it's not just a thought, but a truth you've internalized over time. That \"ingrained\" quality makes it especially hard to question, even when it leaves you exhausted.  \n\nWhat happens if we experiment with just noticing when that voice shows up—not trying to change it yet, but simply observing how often it equates rest with laziness? Could we treat it like a habit you're studying, rather than a fact?",
+    "client": "I guess I could try small acts of self-kindness, but I’m still worried it won’t feel genuine or that I’ll just end up feeling even worse about myself. It’s hard to trust that being kind to myself will actually help—it feels like I’ll just be ignoring the problem instead of fixing it. I’m not sure where to even start with something like that.",
+    "therapist": "It sounds like you’re hesitant about self-kindness because it feels unfamiliar or even risky—like it might not lead to the change you’re hoping for. That uncertainty is completely valid, especially when you’re used to relying on self-criticism to motivate yourself. What would it feel like to start with something small, like acknowledging one thing you’ve done well today, and noticing how that lands with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.17779135704040527,
-    "aro_t": 0.09210312366485596,
-    "text_emotion": "Angry"
+    "val_t": -0.1623474359512329,
+    "aro_t": 0.0647655725479126,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you’re saying, but it feels like such a big part of me. When I try to notice it, it’s like I’m already judging myself for even thinking about it. It’s hard to just observe without feeling like I should be doing something about it right away. And honestly, I’m not sure I’ll even notice it when it happens—it feels automatic, like background noise.",
-    "therapist": "It makes sense that this feels automatic—like trying to notice air you've been breathing for years. That frustration about \"should be fixing it now\" is part of the pattern too, adding another layer of pressure.  \n\nWhat if we started with just one predictable moment today—maybe when you sit down to check job listings—and simply ask afterward: \"Did that critical voice show up?\" No judgment, just curiosity. Would that feel manageable?",
+    "client": "I guess I could try acknowledging one thing I’ve done well today, but it feels forced—like I’m just trying to convince myself of something that isn’t true. Even if I did something small, like updating my resume, I’d probably just focus on how I should’ve done it sooner or better. It’s hard to see anything I do as good enough when I’m feeling this way.",
+    "therapist": "It sounds like that critical voice is still very loud, making it hard to recognize even small accomplishments without dismissing them. That’s a painful place to be in, and it makes sense that self-kindness feels forced when the doubt feels so strong right now. What would it feel like to simply notice when that critical thought arises—not to change it yet, just to observe it—and see if that creates any small shift in how you relate to yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.09171903133392334,
-    "aro_t": 0.18277490139007568,
+    "val_t": -0.1533656120300293,
+    "aro_t": 0.1039743423461914,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess I could try that, but I'm already so exhausted by the job search. It feels like adding one more thing to think about will just make me more anxious. What if I notice the critical voice and then can't stop fixating on it? That happens to me sometimes.",
-    "therapist": "I hear how worn out you are—like even small adjustments to your routine feel like too much right now. That fear of fixating makes total sense when you're already stretched so thin.  \n\nWhat if we make this experiment as light as possible? Just a quick mental note—like spotting a familiar street sign—then letting it pass. Would that feel less risky than trying to \"analyze\" it in the moment?",
+    "client": "I guess I could try noticing the critical thoughts instead of trying to change them right away, but it still feels like I’m just avoiding the problem. I feel like if I don’t fight those thoughts, they’ll just take over even more. It’s hard to trust that simply observing them will actually help—it feels like I need to do something more proactive to fix this.",
+    "therapist": "It sounds like you’re worried that simply observing your critical thoughts might feel passive or like you’re not taking action to address the problem. That’s a very understandable concern, especially when those thoughts feel so overwhelming right now. Observing them isn’t about avoiding—it’s about creating a little space to understand them better before deciding how to respond. What would it feel like to try noticing those thoughts without judgment, even just for a moment, and see if that changes how they affect you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2627471685409546,
-    "aro_t": 0.14229810237884521,
-    "text_emotion": "Angry"
+    "val_t": -0.06023108959197998,
+    "aro_t": 0.16576826572418213,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I guess that sounds a little more manageable, but I still worry I'll get stuck on it anyway. Even just noticing things tends to spiral for me—like once I pay attention to an anxious thought, it grows bigger instead of fading. \n\nThe street sign comparison makes sense logically, but my brain doesn't really work that way in practice. It's like there's a disconnect between what should help and what actually happens.",
-    "therapist": "It sounds like you've had enough experiences where \"noticing\" backfires—where awareness accidentally amplifies the worry instead of creating distance. That disconnect between theory and practice must feel discouraging.  \n\nWhat if we try this together right now? Pick one neutral thing in the room to notice (like a lamp or a chair). When your mind wanders to self-criticism, we'll gently return to that object—not to suppress thoughts, but to practice shifting focus. Want to try?",
+    "client": "I guess I could try noticing those thoughts without judgment, but it still feels like I’m just letting them sit there instead of dealing with them. I’m worried that if I don’t actively challenge them, they’ll just get stronger and make me feel even worse. It’s hard to trust that simply observing them will make any difference—it feels like I need to do something more to fix this.",
+    "therapist": "It sounds like you’re feeling stuck between wanting to take action against those critical thoughts and being unsure if simply observing them will help—that’s a really challenging place to be in. It’s understandable to feel like you need to “do something more,” especially when those thoughts feel so persistent. What would it feel like to think of observing them as the first step toward understanding them better, rather than ignoring them or letting them take over?",
     "condition": "emotion_text_only",
-    "val_t": -0.11389946937561035,
-    "aro_t": 0.023053884506225586,
-    "text_emotion": "Neutral"
+    "val_t": -0.17022156715393066,
+    "aro_t": 0.17133700847625732,
+    "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed out lately. My new business is struggling, and I just got hit with some unexpected tax bills last week. It feels like everything is piling up, and I'm not sure how to manage it all. I know we’re working on this, but sometimes I wonder if therapy can really help with something as concrete as financial stress.",
-    "therapist": "I understand how overwhelming this must feel, and it’s completely normal to wonder if therapy can help with such concrete issues. While we can’t change the external stressors, we can work on how you manage and respond to them, which can make a big difference. How have you been coping with these stressors so far, and are there any small steps you feel might be manageable to try?",
+    "client": "Hey Luna, I've been really stressed lately about my new business. I just received some unexpected tax bills last week, and it's making me feel like I can't catch a break. I'm not sure how to manage everything, and I’m starting to wonder if all this is even worth it.",
+    "therapist": "It sounds like you’re facing a really tough time right now, and it’s completely understandable to feel overwhelmed with everything that’s happening. How have you been coping with these feelings, and what do you think might help you feel a bit more in control?",
     "condition": "baseline",
-    "val_t": -0.21296203136444092,
-    "aro_t": 0.13394379615783691,
+    "val_t": -0.3059988021850586,
+    "aro_t": 0.17991507053375244,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate that you're trying to help, but it feels like these stressors are just too big to manage. I've been trying to cope by avoiding them as much as I can, but that just makes me feel guilty and more isolated. I don't know if there are any small steps I can take that won't just end up overwhelming me even more.",
-    "therapist": "It makes sense that you feel overwhelmed and that avoiding the stressors might seem like the only way to cope right now. Avoidance can provide temporary relief, but it often leads to more stress and guilt in the long run. What if we explored some small, manageable steps that might help you feel a bit more in control, without overwhelming you? For example, setting aside just a few minutes each day to address one small task or worry. What do you think about that?",
+    "client": "I’ve been trying to stay on top of things by working longer hours, but it’s just making me more anxious and exhausted. I feel like I’m drowning in paperwork and responsibilities. I don’t know if taking a break would even help, because there’s always something urgent that needs my attention.",
+    "therapist": "It’s really tough when you feel like you’re constantly treading water, and it’s completely normal to feel anxious and exhausted. Taking a break might seem daunting, but sometimes stepping back, even for a short while, can help you regain some clarity and energy. What do you think might be a small step you could take to give yourself a bit of a breather, even if just for a short time?",
     "condition": "baseline",
-    "val_t": -0.28439128398895264,
-    "aro_t": 0.10964250564575195,
-    "text_emotion": "Sad"
+    "val_t": -0.18823599815368652,
+    "aro_t": 0.15536153316497803,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying, and I know you're trying to help, but it's hard for me to see how just doing a little bit each day will make a difference. It feels like no matter what I do, the anxiety and guilt just keep piling up. I worry that even those small steps will end up feeling too overwhelming.",
-    "therapist": "I completely understand how daunting even small steps can feel when you're already overwhelmed. It’s important to acknowledge that it’s okay to feel this way, and it’s not about making the anxiety and guilt disappear completely, but rather about finding a way to manage them so they feel a bit more bearable. Could we start by identifying one very small, specific task that feels doable for you today, and see how it goes? What’s the smallest step you could take that might give you a sense of progress without feeling too overwhelming?",
+    "client": "I hear what you’re saying, but it’s hard to see how a break would make things better. Every time I think about stepping back, I just see more work piling up. It feels like a vicious cycle, and I’m not sure how to break out of it.",
+    "therapist": "I can see how taking a break might feel counterintuitive when you’re already overwhelmed. It’s a tough spot to be in, and it’s understandable to worry about the work piling up. What if we explored some small, manageable ways to break the cycle, like setting aside just 15 minutes each day for something that helps you relax or recharge? How do you think that might feel, or is there another small step that could help you find a bit of balance?",
     "condition": "baseline",
-    "val_t": -0.21755313873291016,
-    "aro_t": 0.1985410451889038,
+    "val_t": -0.1937270164489746,
+    "aro_t": 0.12544429302215576,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's just hard because even the smallest tasks can feel like a mountain sometimes. I guess I could try to organize my desk, but I'm worried that I'll start and then get overwhelmed by all the other things I feel like I should be doing.",
-    "therapist": "I understand that even small tasks can feel like a lot, and it’s completely valid to feel that way. Starting with something like organizing your desk is a gentle way to begin, and it’s okay to set boundaries to prevent feeling overwhelmed. Maybe we could set a timer for 10 minutes and focus solely on organizing your desk during that time. That way, you’re giving yourself a clear, manageable limit. How does that sound to you?",
+    "client": "I appreciate the suggestion, but even 15 minutes feels like a luxury I can’t afford right now. Every minute feels crucial, and I’m worried that taking time for myself will just make things worse. It’s hard to see how I can justify that when there’s so much on my plate.",
+    "therapist": "I understand how every minute can feel crucial right now, and it’s completely valid to worry that taking time for yourself might add to your stress. It’s a tough balance to strike. Maybe we could think about how you might integrate a brief moment of self-care into your existing routine, something that doesn’t feel like a luxury but more like a necessity, like a quick walk or a few deep breaths. How do you think that might fit into your day, or is there another way you can see fitting in a tiny bit of self-care without it feeling like an extra burden?",
     "condition": "baseline",
-    "val_t": -0.028085827827453613,
-    "aro_t": 0.0953139066696167,
-    "text_emotion": "Neutral"
+    "val_t": -0.13852322101593018,
+    "aro_t": 0.14075899124145508,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate the suggestion, but I don't think setting a timer for 10 minutes will make it any easier for me. It’s hard because I feel like I’m just delaying the inevitable, and I end up feeling guilty for not doing more. How can I break this cycle of procrastination and guilt?",
-    "therapist": "I hear you, and it’s completely understandable to feel that way. The cycle of procrastination and guilt can be really tough to break. One approach we can try is to break tasks into even smaller, more specific steps, and focus on the process rather than the outcome. For example, instead of thinking about organizing your entire desk, you could focus on just clearing one small area or sorting one pile of papers. What do you think about trying to identify one tiny, specific action you can take, and then giving yourself credit for that effort, no matter how small?",
+    "client": "I see what you’re getting at, but even a quick walk or a few deep breaths feels like something I need to fit into an already packed schedule. I’m just so used to pushing through that I don’t know how to stop, even for a minute. It’s hard to see how that will help when there’s so much to do.",
+    "therapist": "I can really understand how difficult it is to see a way to fit even a small break into your day when you’re already so stretched. It’s a common challenge, and it’s okay to feel that way. What if we thought about it from a different angle, like how a quick moment of self-care might actually help you be more efficient or focused when you return to your tasks? How do you think that might impact your day, or is there another perspective that could help you see the value in taking those brief moments for yourself?",
     "condition": "baseline",
-    "val_t": -0.271079421043396,
-    "aro_t": 0.11147356033325195,
-    "text_emotion": "Sad"
+    "val_t": -0.08205759525299072,
+    "aro_t": 0.12214863300323486,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying, and it makes sense in theory, but it's hard for me to actually break things down like that. I tend to get overwhelmed by the bigger picture and lose motivation. I worry that even if I start small, I’ll still end up feeling like I haven’t done enough.",
-    "therapist": "I understand that it can be really challenging to break things down, especially when the bigger picture feels so overwhelming. It’s normal to worry about not doing enough, and that can sap your motivation. Let’s try a different approach for a moment. Instead of focusing on what you haven’t done, can we focus on what you have accomplished, no matter how small? What are some things you’ve managed to do recently, even if they felt insignificant at the time? This can help build a sense of progress and accomplishment.",
+    "client": "I understand the idea, but it’s still hard to believe that a short break will make a difference. I feel like I need to be constantly working to stay on top of everything. It’s tough to see how taking time for myself, even if it’s just a few minutes, won’t just add to my stress.",
+    "therapist": "I totally get how hard it is to believe that a short break can make a difference when you feel like you need to be constantly working. It’s a challenging mindset to shift, especially when you’re under so much pressure. What if we tried to look at it as an experiment? You could set aside just a couple of minutes a few times a day to do something that helps you relax, and then reflect on how it affects your energy and focus afterward. How does that sound, or is there another way you might be willing to test this idea out?",
     "condition": "baseline",
-    "val_t": -0.17364835739135742,
-    "aro_t": 0.0891953706741333,
-    "text_emotion": "Angry"
+    "val_t": -0.09189558029174805,
+    "aro_t": 0.06852900981903076,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate the idea, but it's hard to see the small things when the big stuff feels so overwhelming. I guess I did manage to do the dishes yesterday and even made my bed this morning. But it feels like such a tiny drop in the ocean of everything else I need to do. It’s hard to feel like those things really matter when I’m so weighed down by everything else.",
-    "therapist": "It’s completely understandable to feel that way, and it’s important to acknowledge how significant those small actions are, even if they feel like a tiny drop in the ocean. Making your bed and doing the dishes are tangible steps that can actually boost your sense of control and order in your environment. Maybe we can explore how these small actions can serve as a foundation to build on. How do you think you could celebrate or acknowledge these small victories, even if just to yourself, to help shift your focus from the overwhelming to the manageable?",
+    "client": "I appreciate you suggesting it as an experiment, but I’m still hesitant. I feel like I’m already barely keeping my head above water, and I’m worried that any time I take away from work will just sink me further. It’s hard to see how a couple of minutes will make a difference when there’s so much riding on my success right now.",
+    "therapist": "I completely understand your hesitation and the fear of falling behind. It’s a very real concern, especially when you’re already feeling like you’re barely keeping up. Let’s think about it this way: what if we started with a very small, almost imperceptible change, like taking three deep breaths when you feel overwhelmed? This might not feel like a significant break, but it can help calm your mind and might make the tasks ahead feel a bit more manageable. How does that feel, or is there another tiny step you might be willing to try?",
     "condition": "baseline",
-    "val_t": -0.08948338031768799,
-    "aro_t": 0.11866104602813721,
-    "text_emotion": "Neutral"
+    "val_t": -0.0636301040649414,
+    "aro_t": 0.14020824432373047,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I understand what you're saying, and I do see the value in those small actions. It's just that sometimes, even when I do those things, it feels like it doesn't make a dent in the bigger problems I'm facing. Celebrating them sounds nice, but it's hard to feel like it's enough when there's so much else going on. How can I make myself believe that these small steps are really making a difference?",
-    "therapist": "I understand how difficult it is to feel like those small steps are making a real difference when the bigger problems seem so overwhelming. It’s a valid concern, and it’s important to recognize that change is often gradual and not always immediately visible. One way to help yourself believe in the value of these small steps is to track your progress, even in a simple way, like writing down what you’ve accomplished each day. This can help you see the cumulative effect of your efforts over time. How do you think you might feel if you started to notice these small victories adding up?",
+    "client": "Taking three deep breaths does sound more manageable. I guess it’s hard to see how that will help, but it’s such a small thing that it might be worth a try. I’ll give it a shot and see how it goes.",
+    "therapist": "That’s a great start, and I’m glad you’re willing to give it a try. Taking those three deep breaths can be a powerful way to center yourself and reduce immediate stress, even if it feels small. How about we check in on how it goes after a few days? Maybe you can reflect on any changes, no matter how subtle, in how you feel or how you handle your tasks. How does that sound?",
     "condition": "baseline",
-    "val_t": 0.0721890926361084,
-    "aro_t": 0.18189787864685059,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 9,
-    "client": "I see what you mean about tracking my progress, but it feels like a lot of extra work on top of everything else I'm dealing with. It's hard to stay motivated when I don't see immediate results, and I worry that writing things down might just feel like another chore. I do want to believe that these small steps can make a difference, but it's tough to keep that faith sometimes.",
-    "therapist": "I understand that adding another task, even something like tracking progress, can feel like too much on top of everything else. It’s completely valid to worry that it might just feel like another chore. Instead of tracking every small step, what if we start with a simpler approach? Maybe we could focus on reflecting on one thing you’re proud of each day, no matter how small, and see how that feels. This could be as simple as a mental note or a quick message to yourself. How does that feel to you?",
-    "condition": "baseline",
-    "val_t": -0.1223679780960083,
-    "aro_t": 0.05242288112640381,
+    "val_t": 0.09173905849456787,
+    "aro_t": 0.06524884700775146,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 10,
-    "client": "I see what you're trying to do, and I appreciate the effort to make it simpler. But even just reflecting on one thing I'm proud of feels like it might be hard some days. I often struggle to find anything positive, and I worry that I'll just end up feeling worse if I can't come up with something.",
-    "therapist": "I understand how challenging it can be to find something positive, especially on tough days. It’s completely normal to struggle with this, and it’s okay to acknowledge that some days will be harder than others. Instead of focusing on finding something to be proud of, we could try a different approach, like identifying one neutral or less negative moment from your day. This could be something as simple as a moment of quiet or a small break you took. How does that sound to you?",
+    "turn": 9,
+    "client": "Checking in after a few days sounds good. I’ll try to be mindful of how those deep breaths affect me, even if the changes are small. It’s hard to imagine it making a big difference, but I’m open to seeing if it helps at all.",
+    "therapist": "I appreciate your openness to trying this out, and I’m here to support you through it. It’s okay if the changes feel small at first; sometimes the subtle shifts are the most impactful over time. Checking in after a few days will give us a chance to reflect on any differences you notice, and we can go from there. How does that feel, and is there anything else you’d like to focus on in the meantime?",
     "condition": "baseline",
-    "val_t": -0.13882744312286377,
-    "aro_t": 0.0959770679473877,
-    "text_emotion": "Angry"
+    "val_t": 0.14993953704833984,
+    "aro_t": 0.08496010303497314,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 10,
+    "client": "It feels a bit more manageable to start with something as small as deep breathing. I’ll keep an eye on how it affects me and try to stay open to any changes, even if they’re subtle. For now, I think focusing on this and seeing how it goes is the right step.",
+    "therapist": "That’s a really positive step, and I’m glad it feels more manageable for you. Focusing on something small like deep breathing can be a gentle way to start making a shift. I’m here to support you as you try this out and observe any changes. How do you feel about checking in after a few days to discuss your experience and see if there are any other small steps we can explore together?",
+    "condition": "baseline",
+    "val_t": 0.09041690826416016,
+    "aro_t": 0.06811845302581787,
+    "text_emotion": "Neutral"
   }
 ]

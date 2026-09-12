@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandfather passed away. With final exams coming up next week, it's like I can't focus on anything other than my grief. I feel overwhelmed and unsure about how to handle it all, and I’m starting to doubt whether talking about it in therapy can really help me right now.",
-    "therapist": "I'm so sorry to hear about your grandfather's passing; that kind of loss can be incredibly heavy, especially with the added pressure of exams. It’s understandable to feel overwhelmed and to question whether talking about it will help. Let’s take a moment to explore what you're feeling and how we might find a way to balance your grief with your studies. What thoughts come to mind when you think about your grandfather?",
+    "client": "I've been really struggling with my concentration lately, especially with my final exams coming up next week. Since losing my grandfather, I feel this heavy cloud of grief that just won't lift, and it's making it hard to focus on anything. I'm not sure if therapy can help me through this, but I feel lost and overwhelmed.",
+    "therapist": "It sounds like you’re carrying a lot right now with your grief and the pressure of your final exams, which must feel really overwhelming. It's completely understandable to struggle with concentration in such a heavy time. Can you tell me more about how your grandfather's passing has affected you and your daily life?",
     "condition": "emotion_text_only",
-    "val_t": -0.3115752935409546,
-    "aro_t": 0.2066894769668579,
+    "val_t": -0.42677128314971924,
+    "aro_t": 0.23862802982330322,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking about all the moments we shared, like when he taught me how to ride a bike. It feels really unfair that he’s gone, especially now when I need his support the most. Balancing my grief with studying feels impossible; I just can’t concentrate, and I’m scared I’ll fail my exams.",
-    "therapist": "It sounds like you’re carrying a lot of pain and longing for those cherished moments with your grandfather, especially during such a challenging time. It’s completely natural to feel that his absence is magnified now when you need his support. Can we explore some ways to honor those memories while also finding small steps to help you focus on your studies? What do you think your grandfather would want for you in this moment?",
+    "client": "Losing my grandfather has really shaken my world. He was my rock, always there to support me, and now I feel this void that I can't seem to get past. It feels like every time I try to study, my mind just drifts back to memories of him, and it's hard to pull myself away from those feelings to focus on my exams.",
+    "therapist": "It sounds like you're really feeling the impact of your grandfather's loss, and it's natural for those memories to resurface, especially when you're trying to concentrate. That void can be incredibly hard to navigate, particularly with the added pressure of exams. Have you found any moments or activities that help you connect with those memories in a way that feels comforting, or perhaps allow you to take a break from them?",
     "condition": "emotion_text_only",
-    "val_t": -0.2889394760131836,
-    "aro_t": 0.17336106300354004,
+    "val_t": -0.27864527702331543,
+    "aro_t": 0.18424773216247559,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate what you’re saying about my grandfather. It really does feel like I’m missing him a lot, especially now when I’m juggling everything with school. I just can’t help but feel overwhelmed by the pressure and guilt of not being able to focus properly. I’m not sure how I can honor those memories and still manage my studies at the same time.",
-    "therapist": "It's clear that you’re experiencing a deep sense of loss and pressure, and it’s completely understandable to feel overwhelmed when trying to balance your grief with your studies. Honoring your grandfather can be a comforting way to cope, but it can also feel challenging amidst everything else. Let’s think about some small, manageable ways you could honor his memory while also carving out time for your studies. What are some specific things that remind you of him that you might integrate into your routine?",
+    "client": "I haven't really found anything that feels comforting yet. I keep thinking about how he used to tell me stories while we worked on projects together, but it just makes me feel more sad. Taking a break feels impossible right now because I feel like I should be studying, but then I can't focus anyway. I don’t know if connecting with those memories will help or just make things harder.",
+    "therapist": "It sounds like you’re really caught in a difficult spot, feeling the pressure to study while also wrestling with your grief. It's understandable that connecting with those memories is bittersweet for you right now. What if you allowed yourself some gentle space to acknowledge your feelings without the pressure to study? Perhaps you could set a small amount of time for both studying and honoring your grandfather’s memory—how does that sound?",
     "condition": "emotion_text_only",
-    "val_t": -0.05019032955169678,
-    "aro_t": 0.2094099521636963,
-    "text_emotion": "Tense"
+    "val_t": -0.3025883436203003,
+    "aro_t": 0.11755013465881348,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I really appreciate your understanding, but honestly, it feels overwhelming to even think about adding something new to my routine right now. My mind is so cluttered with schoolwork and feelings of grief that I worry I won't be able to focus on anything else. I’m not sure how I could find the time or energy to honor my grandfather in a meaningful way while juggling everything else.",
-    "therapist": "It sounds like you’re really feeling the weight of everything right now, and it’s completely understandable that adding anything new feels overwhelming. Managing grief while trying to keep up with schoolwork can be incredibly tough, and it's okay to acknowledge that. Let’s focus on finding even the smallest ways to honor your grandfather that don’t feel like an added burden. What about taking a moment to reflect on a favorite memory of him when you take breaks from studying? How does that idea resonate with you?",
+    "client": "I see what you're saying, but it feels hard to set aside time for both things. Like, if I allow myself to feel sad and remember him, I worry that I'll just spiral into those feelings and then won't want to study at all. It feels like I should be pushing through the grief instead of giving it space, you know?",
+    "therapist": "I can see how that feels really challenging for you, wanting to honor your grandfather's memory while also feeling the weight of your responsibilities. It's completely understandable to worry about getting lost in those feelings. What if instead of pushing through, you allowed yourself just a few moments to acknowledge your grief? It could be a short, intentional break where you recognize how you feel, and then return to your studies with a bit more clarity. What do you think about that approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.07448172569274902,
-    "aro_t": 0.16959941387176514,
-    "text_emotion": "Angry"
+    "val_t": -0.3108454942703247,
+    "aro_t": 0.08517396450042725,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate the thought behind taking a moment to remember my grandfather, but it feels a bit difficult to even think about doing that right now. I worry that if I start reflecting on those memories, it might make my sadness even more intense, and then I won’t be able to focus on my studies at all. I'm not sure how to balance that without feeling overwhelmed.",
-    "therapist": "I hear you; it’s completely valid to worry that reflecting on those memories might amplify your sadness and make it harder to focus. Balancing grief and responsibilities can feel like an uphill battle, and it’s okay to take things slow. Perhaps we can consider other ways to acknowledge your feelings without diving too deeply into memories right now. What small strategies have you found helpful in managing stress before that we could apply to your current situation?",
+    "client": "I guess taking a short break to acknowledge my feelings sounds a bit more manageable than I initially thought. But I still worry that even a few moments could turn into a longer spiral of sadness, and I might not be able to get back to studying. It feels like I need to keep moving forward, but I also don’t want to ignore how much I'm hurting.",
+    "therapist": "It's really positive that you're open to the idea of taking a short break, even if it feels a bit daunting. It shows you're trying to find a balance between acknowledging your feelings and moving forward with your studies. What if you set a specific time for that break—maybe just a few minutes—to reflect and then gently remind yourself that you can return to studying afterward? How might that structure help you feel a bit more in control?",
     "condition": "emotion_text_only",
-    "val_t": -0.23588132858276367,
-    "aro_t": 0.15126633644104004,
-    "text_emotion": "Angry"
+    "val_t": -0.28975534439086914,
+    "aro_t": 0.09975242614746094,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate that you're trying to find ways to help me manage my feelings without getting too overwhelmed. Honestly, I usually just try to distract myself with work or binge-watch shows, but I know that’s not really addressing the sadness. I feel like if I don't dive into the memories, I'm just avoiding the pain, and that makes me feel guilty for not honoring what I've lost.",
-    "therapist": "It sounds like you’re caught in a tough spot between wanting to honor your feelings and the instinct to distract yourself from the pain. It’s completely natural to feel guilty about not addressing your sadness directly, but it’s also important to recognize that everyone copes in their own way. Let’s explore some gentle ways to acknowledge your grief without feeling overwhelmed. What if we tried to set aside just a few moments each day to sit with your feelings, even if it’s just for a short time? How does that sound to you?",
+    "client": "I see how having a specific time for a break could help me feel a bit more in control, but I still struggle with the idea of actually stopping to remember my grandfather. What if I set the timer and then can't pull myself back to studying? It feels like a risky move, and I don't want to fall behind in my preparation for the exams.",
+    "therapist": "I understand that the thought of stopping to remember your grandfather feels risky, especially with the pressure of exams looming. It's completely normal to feel apprehensive about taking that time, but acknowledging your grief might actually help you feel more centered and focused afterward. What if you tried a very brief moment—just a couple of minutes—to reflect, and then reassess how you feel? You could even write down a few thoughts to help ground yourself before returning to your studies. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.09193825721740723,
-    "aro_t": 0.06298601627349854,
-    "text_emotion": "Neutral"
+    "val_t": -0.17951011657714844,
+    "aro_t": 0.12092268466949463,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but the idea of sitting with my feelings feels really daunting. I worry that if I allow myself to feel that sadness, it might just consume me completely. I’ve tried to sit with my emotions before, and it usually ends up feeling overwhelming rather than helpful.",
-    "therapist": "I completely understand your hesitation; facing those feelings can feel incredibly daunting, especially when you're concerned about being overwhelmed. It’s okay to be cautious about diving into sadness, and it’s important to find a way that feels safe and manageable for you. What if we approached it differently, perhaps by allowing yourself just a few moments to acknowledge your emotions without pressure to explore them deeply? Would it feel more comfortable to set a timer for just a couple of minutes to check in with yourself?",
+    "client": "I see where you're coming from, and I admit that writing down my thoughts might help me feel more grounded. But I still worry that even a couple of minutes could turn into something longer, and I might lose my motivation to study. It feels like I'm on a tightrope—one wrong step and I could fall into that sadness and not get back up.",
+    "therapist": "It sounds like you’re feeling really vulnerable right now, like you're balancing on a tightrope between your grief and the need to stay focused on your studies. That fear of losing motivation is completely valid, especially during such a challenging time. What if you approached this moment with kindness towards yourself, acknowledging that it’s okay to feel sad while also reminding yourself of your goals? How might that perspective shift help you find a bit more stability as you navigate both your feelings and your studying?",
     "condition": "emotion_text_only",
-    "val_t": -0.1025385856628418,
-    "aro_t": 0.18335461616516113,
+    "val_t": -0.2552679777145386,
+    "aro_t": 0.11370933055877686,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you're trying to make this feel less overwhelming, but I still feel a bit skeptical about the idea of setting a timer and checking in with my emotions. It sounds simple, but I worry that even a couple of minutes could bring up feelings I'm not ready to handle. What if I end up feeling worse instead of better?",
-    "therapist": "It's completely understandable to feel skeptical about even small steps when you're navigating such intense emotions. The fear of feeling worse can be really daunting, especially when everything feels so heavy right now. Perhaps instead of checking in with your emotions, we could focus on grounding techniques that help you stay present without diving too deeply into feelings? What activities or practices have you found calming or comforting in the past?",
+    "client": "I appreciate you saying that it's okay to feel sad, but it still feels really hard to balance that with my need to stay on track. Part of me thinks that if I allow myself to feel anything, I'll just fall apart and won't be able to return to studying. I want to honor my grandfather, but I also don’t want to let my grief take over and sabotage my exams.",
+    "therapist": "It’s completely understandable to feel that tension between wanting to honor your grandfather and the fear of letting your emotions overwhelm you. It’s a delicate balance, and it’s okay to feel uncertain about it. What if you tried to create a small ritual or a dedicated space for your memories, perhaps before you study, so that it feels like you’re honoring him while still keeping your study time separate? How might that help you feel more in control of both your grief and your preparation?",
     "condition": "emotion_text_only",
-    "val_t": -0.22878897190093994,
-    "aro_t": 0.13145208358764648,
+    "val_t": -0.2382601499557495,
+    "aro_t": 0.1507718563079834,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about grounding techniques, but honestly, I’m not sure they’ll really help me right now. When I try those activities, my mind often wanders back to the anxiety and guilt I feel, so it just feels like a temporary distraction. I guess I’m wondering if we could talk more about why I feel so stuck in these emotions instead of just trying to push them away.",
-    "therapist": "It sounds like you're really seeking to understand the deeper feelings of anxiety and guilt you're experiencing, rather than just pushing them aside. That desire to explore what’s keeping you stuck is a brave and important step. Let’s take a moment to unpack those emotions together—what do you think is at the root of that guilt, and how do you feel it connects to your memories of your grandfather?",
+    "client": "Creating a small ritual does sound like an interesting idea, but I'm still unsure about how to make it work. I worry that even a dedicated space for my memories might lead me to dwell on my grief for too long, and then I'll be left scrambling to study. I want to honor my grandfather, but I also don’t want to feel stuck in that sadness when I have so much to prepare for.",
+    "therapist": "It sounds like you’re feeling a bit hesitant about the idea of creating a ritual, as you’re concerned it might lead you to linger in your grief longer than you intend. That's a valid worry, especially with the weight of your upcoming exams. What if you started with something very brief, like lighting a candle or looking at a photo, just for a minute or two? This way, you can honor your grandfather without feeling overwhelmed, and then gently transition back to your studying. How does that approach resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1980661153793335,
-    "aro_t": 0.15975677967071533,
+    "val_t": -0.22303426265716553,
+    "aro_t": 0.1630859375,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I think a lot of my guilt comes from feeling like I didn't do enough for my grandfather when he was alive. I have these memories of him being there for me, but I often feel like I let him down in his later years. It’s hard to connect those feelings with my current anxiety, though; sometimes I wonder if I’m just overthinking everything and not really addressing the root causes at all.",
-    "therapist": "It sounds like you’re carrying a heavy weight of guilt regarding your grandfather, feeling like you didn’t do enough for him in his later years. Those feelings can be really complex, especially when mixed with your current anxiety. It's natural to overthink in times of grief, and it’s important to be gentle with yourself as you navigate these emotions. What would it look like for you to acknowledge those feelings of guilt while also recognizing the love and connection you shared with your grandfather?",
+    "client": "I see how a brief moment, like lighting a candle or looking at a photo, could help me connect with my grandfather without diving too deep into my grief. But I still feel nervous about even that small amount of time—what if it feels too emotional and makes it hard for me to get back to studying? I don’t want to risk losing focus, especially with exams so close.",
+    "therapist": "It’s completely understandable to feel nervous about even a brief moment of reflection, given how emotional this time is for you. It’s okay to have those concerns, especially with your exams approaching. What if you set a very clear intention for that moment, perhaps telling yourself it’s just a way to honor your grandfather and not a deep dive into grief? You could even plan a specific transition, like a short physical activity or a change in your study space afterward, to help you shift back into focus. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.32605981826782227,
-    "aro_t": 0.13052678108215332,
-    "text_emotion": "Sad"
+    "val_t": -0.26000869274139404,
+    "aro_t": 0.19061195850372314,
+    "text_emotion": "Angry"
   }
 ]

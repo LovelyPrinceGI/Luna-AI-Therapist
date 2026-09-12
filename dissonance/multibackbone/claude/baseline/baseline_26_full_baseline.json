@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately with my final exams coming up next week, and I can't seem to turn off this constant worry in my head. It's like no matter how much I study, I still feel like it's not going to be enough, especially knowing how much my family expects from me. Honestly, I'm not even sure talking about it is going to change anything, because the exams are still going to happen either way.",
-    "therapist": "It makes complete sense that you're feeling this overwhelmed — carrying both the pressure of exams *and* your family's expectations at the same time is genuinely a lot to hold. I also hear a little skepticism about whether talking will help, and I think that's worth honoring; you're right that the exams won't disappear, but what we *can* work on is loosening the grip that worry has on you right now. I'm curious — when that voice in your head says \"it's not going to be enough,\" what does it imagine happening next?",
+    "client": "I've been really struggling lately with my final exams coming up next week, and I can't seem to shake this constant knot in my stomach. Every time I sit down to study, my mind just goes blank and I start thinking about how disappointed my family will be if I don't do well. I'm not even sure talking about it is going to change anything, because the exams are still going to be there no matter what.",
+    "therapist": "It makes complete sense that you're feeling that knot in your stomach — the pressure of exams combined with worrying about your family's reaction is a really heavy load to carry. I also hear your skepticism about talking helping, and I think that's worth honoring; you're right that the exams won't disappear, but sometimes untangling what's happening in our minds can make the path forward feel a little less overwhelming. I'm curious — when your mind goes blank and that thought about disappointing your family shows up, what does that voice actually say to you, and how certain does it feel in that moment?",
     "condition": "baseline",
-    "val_t": -0.2427504062652588,
-    "aro_t": 0.17974019050598145,
+    "val_t": -0.3328033685684204,
+    "aro_t": 0.20432889461517334,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When that voice kicks in, it usually jumps straight to this image of me failing the exams and then having to face my parents, like seeing the disappointment on their faces. It's almost like the exam itself isn't even the scariest part — it's that moment of letting them down after everything they've sacrificed for me. And then I just feel this wave of guilt on top of the anxiety, which makes it even harder to actually sit down and study.",
-    "therapist": "That image of your parents' disappointment sounds incredibly painful, and it makes so much sense that guilt layered on top of anxiety would make it even harder to focus — your mind is essentially trying to study while also bracing for an emotional collision. I want to gently notice something with you: that voice is treating one possible outcome as if it's already certain, which is doing a lot of damage *right now* before any results even exist. When you step back for a moment, what evidence do you actually have — from your history, your effort, who you are — that tells a different story than the one that voice is predicting?",
+    "client": "It's like this voice just says \"you're going to fail and everyone will know you're not as smart as they thought you were.\" It feels really certain in the moment, almost like it's a fact rather than just a thought, which is part of what makes it so hard to push through and keep studying. I guess I've been carrying this idea for a long time that my worth to my family kind of depends on how well I perform academically.",
+    "therapist": "That thought — \"everyone will know you're not as smart as they thought\" — carries so much weight, and it makes a lot of sense that it feels like fact when you've been carrying the belief that your worth is tied to your performance for so long. What's really important to notice here is that this is a belief, not a truth, even though your mind presents it with such certainty. I'd gently invite you to reflect — can you think of a moment when someone in your family showed they valued *you* beyond your academic results, even a small one?",
     "condition": "baseline",
-    "val_t": -0.4264240264892578,
-    "aro_t": 0.20901739597320557,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I hear what you're saying, and I guess if I'm being honest, I have passed exams before, even when I felt completely unprepared going in. But it's hard to hold onto that right now because this exam feels different, heavier somehow, like the stakes are higher than they've ever been. And that voice is so loud that even when I try to remind myself of past successes, it kind of just dismisses them, like they don't count or they were flukes.",
-    "therapist": "You just did something really important — you found real evidence that contradicts that voice, even while it was trying to shout over you, and that takes genuine effort. That dismissal of your past successes as \"flukes\" is actually a very common trick anxiety plays, essentially moving the goalposts so that nothing you've achieved ever feels like proof of your capability. I'm wondering — if a close friend came to you with the same history of passing exams despite feeling unprepared, would *you* write off their successes as flukes, or would you see them as evidence of something real about that person?",
-    "condition": "baseline",
-    "val_t": -0.15651071071624756,
-    "aro_t": 0.19264817237854004,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "Honestly, no, I wouldn't tell a friend their successes were flukes — I'd probably be pretty firm about pointing out how hard they worked. But it feels different when it's me, like there's always some reason why my situation is the exception. I know that probably sounds like exactly what you'd expect me to say, and I can almost hear how circular it is, but I still can't shake the feeling that I just got lucky those times.",
-    "therapist": "You're already doing something really insightful here — you can *hear* the circular pattern even while you're inside it, and that kind of self-awareness is actually a powerful first step toward loosening its hold. What you're describing has a name in CBT: a \"double standard,\" where we apply a much harsher, more unforgiving lens to ourselves than we'd ever use with someone we care about. I'd love to try a small experiment with you — the next time that voice calls a past success a fluke, what do you think it would feel like to respond to yourself with the same firmness you said you'd offer a friend?",
-    "condition": "baseline",
-    "val_t": 0.11024773120880127,
-    "aro_t": 0.11896300315856934,
-    "text_emotion": "Excited"
-  },
-  {
-    "turn": 5,
-    "client": "I hear what you're saying, and part of me gets it intellectually, but when I try to imagine actually doing that in the moment, it feels almost... fake? Like, a friend deserves that kindness because they're genuinely good, but when it's me, there's this nagging feeling that I actually know the truth about myself in a way I don't with them. I'm not sure I can just talk myself out of that distinction, even if I can see the logic of what you're pointing out.",
-    "therapist": "That feeling of \"I know the uncomfortable truth about myself\" is one of the most convincing things anxiety tells us, and it *feels* like self-awareness when it's actually closer to self-punishment dressed up as honesty. The fact that kindness feels \"fake\" when directed at yourself is really important information — it suggests this isn't just about exam stress, but something deeper about what you believe you deserve. I'm curious, when did you first start feeling like you needed to earn the same kindness you'd freely give to others?",
-    "condition": "baseline",
-    "val_t": -0.08133411407470703,
-    "aro_t": 0.12328195571899414,
+    "val_t": -0.1061856746673584,
+    "aro_t": 0.09640061855316162,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 6,
-    "client": "That question kind of stopped me in my tracks, honestly. I want to say it started around university, when I first started failing to meet the expectations I'd set for myself, but if I'm being really honest, I think it goes back further than that, maybe to always feeling like I had to justify my place in a group or prove I wasn't a burden to people. I'm not sure I've ever really felt like I deserved kindness without earning it first, and saying that out loud feels strange, like I'm admitting something I wasn't supposed to.",
-    "therapist": "What you just shared takes real courage, and the fact that it feels strange to say out loud tells me you've been carrying this quietly for a very long time — the belief that your worthiness is something you have to constantly re-earn rather than something you simply have. That pattern, needing to justify your place and prove you're not a burden, sounds like it's been running in the background long before these exams, and it helps me understand why the pressure you're feeling right now cuts so deep. I want to sit with what you just said for a moment — what does it feel like to have named that out loud, even just to yourself?",
+    "turn": 3,
+    "client": "I mean, I can think of a few small moments, like when my mom stayed up with me when I was sick last year and just sat with me, not talking about school at all. But honestly, when I try to hold onto those moments right now, they just feel kind of distant, like my brain keeps dismissing them as \"that's just what parents do, it doesn't count.\" I'm not sure I trust myself to actually believe a different story even if I can see the evidence for it.",
+    "therapist": "That moment with your mom is actually really meaningful evidence, and it's so telling that your mind has a ready-made way to disqualify it — \"that's just what parents do\" is your brain working hard to protect the old belief, even when reality is nudging back. The fact that you can *see* the evidence but struggle to *feel* it is incredibly common, and it doesn't mean you're broken or that change isn't possible; it just means the belief has had a lot of practice running the show. What do you think it would mean for you — maybe even feel like — if you allowed that moment with your mom to count as genuine care, just for a moment?",
     "condition": "baseline",
-    "val_t": -0.19549524784088135,
-    "aro_t": 0.2070239782333374,
+    "val_t": -0.16068768501281738,
+    "aro_t": 0.05751597881317139,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "If I actually let that moment count, I think it might feel like a small relief, like some of the pressure loosens just a little. But then there's this other part of me that gets almost scared by that, because if my worth isn't tied to my grades, I don't really know what I'm working so hard for anymore. It's like the belief is stressful but it's also been this weird motivator, and I'm not sure what's on the other side of letting it go.",
+    "therapist": "That fear makes so much sense — this belief has been like a engine driving you, even if it's been a painful one, and it's scary to imagine removing it without knowing what replaces it. But I want to gently offer this: there's a real difference between working hard because you're terrified of being exposed, versus working hard because you're genuinely curious, or because you care about your future, or even because you want to make *yourself* proud — and that second kind of motivation tends to be a lot more sustainable and a lot kinder to you. What do you think *you* actually care about, underneath the fear of disappointing others — is there anything about your studies that feels meaningful to you on your own terms?",
+    "condition": "baseline",
+    "val_t": -0.08322679996490479,
+    "aro_t": 0.15256214141845703,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Honestly, when I actually stop and think about it, there are parts of my subject that I find genuinely interesting, like there are concepts I've gone down rabbit holes on just because I wanted to understand them, not because they were on any test. But it feels almost selfish or naive to say that curiosity is enough of a reason, like that's not a serious enough justification for all the time and money my family has put into my education. I guess I'm worried that if I start studying for myself, I'll somehow care less and my performance will actually get worse.",
+    "therapist": "That curiosity you're describing — going down rabbit holes just because you *wanted to understand* — is actually one of the most powerful and sustainable forms of motivation there is, and it's beautiful that it's already there inside you. The worry that caring for yourself will somehow make you perform worse is worth gently examining, because research and experience actually suggest the opposite — that intrinsic motivation tends to deepen engagement rather than reduce it. I'm wondering, when you think back to those rabbit-hole moments of genuine curiosity, how did your focus and energy feel compared to when you were studying purely out of fear of disappointing someone?",
+    "condition": "baseline",
+    "val_t": -0.2403501272201538,
+    "aro_t": 0.11161983013153076,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "Honestly, those rabbit-hole moments did feel different, like time would just disappear and I wasn't constantly checking whether I was doing it right or worrying about the outcome. But I'm sitting here thinking, that's great in theory, but with exams literally next week I don't have the luxury of just following curiosity wherever it leads, I have a specific syllabus I need to cover. I guess I'm skeptical about whether this insight actually helps me sit down tonight and get through the material I've been avoiding.",
+    "therapist": "That's such a grounded and honest reality check, and you're absolutely right that insight alone doesn't automatically translate into action — so let's make this practical. What if tonight, instead of sitting down to \"get through material,\" you picked just one topic from your syllabus and gave yourself permission to approach it with even a small amount of that rabbit-hole curiosity, just for 20 minutes, without judging how much you cover? I'm curious — is there one topic on that syllabus that feels even slightly more interesting than the others, something that might be a gentler place to start tonight?",
+    "condition": "baseline",
+    "val_t": -0.0938953161239624,
+    "aro_t": 0.13220751285552979,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "It feels... weird, honestly. Like I said something I wasn't supposed to say, and now it's just sitting there in the open and I can't take it back. I don't know if naming it actually helps or if it just makes me more aware of how exhausting it is to feel this way all the time.",
-    "therapist": "That \"can't take it back\" feeling makes a lot of sense — you've kept this tucked away for so long that having it in the open feels exposed and vulnerable, and that's actually a sign that what you named *matters*. You're right that awareness alone doesn't make the exhaustion disappear, but there's a difference between carrying something in the dark and carrying it where you can finally see its shape — and seeing it clearly is what makes it possible to slowly set it down. I'm wondering, now that it's out in the open, does any part of you feel even a small sense of relief alongside that strangeness?",
+    "client": "There actually is one topic that I find less dreadful than the others, so I guess that's something. But I'm worried that if I only do 20 minutes and let myself be curious instead of drilling through everything systematically, I'll just feel more behind and more anxious when I stop, not less. It's like I'm not sure I trust myself to stop at 20 minutes without spiraling into guilt about all the other stuff I didn't cover.",
+    "therapist": "That worry about the guilt spiral afterward is really worth taking seriously, and it tells me that having a small plan for *after* the 20 minutes might matter just as much as the 20 minutes itself — like deciding in advance that you'll write down one thing you understood and one thing to return to next, so your brain has somewhere to put the \"unfinished\" feeling instead of just spiraling. The guilt you're anticipating is that same old voice trying to protect you, but notice that right now, the \"systematic drilling\" approach has been leaving you frozen and blank — so the current strategy isn't actually working either. What would feel like a fair, kind thing to say to yourself when the 20 minutes ends, something you might say to a friend in your situation rather than to yourself?",
     "condition": "baseline",
-    "val_t": -0.13927686214447021,
-    "aro_t": 0.30613505840301514,
+    "val_t": -0.29558372497558594,
+    "aro_t": 0.14927947521209717,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I guess... maybe a tiny bit, yeah. Like, it's weird to even admit that because it almost feels like I'm betraying something by feeling relieved — like if I stop feeling guilty about what happened with my brother, that means I didn't care enough. But I hear what you're saying about seeing its shape, I just don't know if I trust that seeing it clearly actually leads anywhere different.",
-    "therapist": "You've just shared something really significant — this is the first time your brother has come up, and it sounds like grief and guilt may be woven into this feeling of never deserving kindness without earning it first. That belief that relief equals not caring is such a painful trap, because it means you've been using guilt as a way of proving your love, which is an exhausting and endless job to take on. I want to make sure I understand — would you be willing to share a little about what happened with your brother, only if it feels okay to do so?",
+    "client": "If a friend told me they'd spent 20 minutes actually engaging with something instead of sitting frozen, I'd probably tell them that's genuinely good and they should be proud of that small win. But when I try to direct that toward myself it just feels hollow, like I know the \"right\" answer but I can't actually make myself feel it. I think part of me believes I don't really deserve that kind of gentleness until after the exams are done and I've proven I earned it.",
+    "therapist": "That belief — that you have to *earn* the right to be kind to yourself — is really at the heart of so much of what you've been describing today, and it's one of the most common and painful traps people fall into. The hollowness you feel when you try to direct compassion inward isn't a sign that you don't deserve it; it's actually just a sign that this is an unfamiliar muscle that hasn't had much practice, not that the kindness isn't true or warranted. I want to gently ask — if the kindness only comes *after* you've proven yourself, what has the version of you who is struggling *right now*, tonight, done to deserve being left without any gentleness at all?",
     "condition": "baseline",
-    "val_t": -0.0015856027603149414,
-    "aro_t": 0.15189707279205322,
+    "val_t": 0.050341248512268066,
+    "aro_t": 0.17905879020690918,
     "text_emotion": "Tense"
   },
   {
     "turn": 9,
-    "client": "I appreciate you asking instead of just assuming you know what happened. It's... it's hard to talk about, but I think maybe I need to. My brother died by suicide three years ago, and I was the last person he texted, and I didn't respond until the next morning because I was busy and tired and just... I didn't think it was urgent.",
-    "therapist": "What you just shared is one of the heaviest things a person can carry, and I want you to know that I'm holding it with you right now, with so much care. I also want to say gently but clearly: the weight you've been carrying — this belief that you failed him — is something that deserves real, dedicated support beyond what we can fully do here together. What you're describing, the guilt, the \"what if,\" the feeling that you don't deserve kindness — these are signs that you've been grieving alone for a long time, and you deserve a safe space to work through this properly; would you be open to exploring grief or trauma-focused support alongside what we're doing here?",
+    "client": "That question actually hit me harder than I expected, because when I think about it that way, the version of me sitting here anxious and frozen tonight hasn't done anything wrong, she's just scared. I think I've been treating my struggling self like she's the problem to be fixed rather than someone who needs support, and that's a strange thing to suddenly notice. I don't know if I can fully shift that tonight, but I guess I can at least try to not actively pile on more criticism when I'm already overwhelmed.",
+    "therapist": "What you just noticed is genuinely significant — recognizing that your struggling self is scared rather than broken is not a small thing, and the fact that it landed so hard suggests some part of you has been waiting a long time to hear it. You don't need to fully shift anything tonight; even just pausing the extra criticism when you're already overwhelmed is a real and meaningful act of care toward yourself. As you head into this evening, I'm wondering — what's one small thing you could do or say to that scared version of you before you sit down to study, just to let her know she's not alone in this?",
     "condition": "baseline",
-    "val_t": -0.17096185684204102,
-    "aro_t": 0.07116830348968506,
+    "val_t": -0.28698301315307617,
+    "aro_t": 0.22879445552825928,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you saying that, I really do, but honestly my first reaction is... who would even believe me if I told them the full story? Like, a grief counselor or trauma therapist is just going to hear what I say and think I'm some kind of monster for not being there when he needed me most. And I guess part of me wonders if I'm even worth that kind of help, or if I'd just be taking up space that someone else deserves more.",
-    "therapist": "What you just said — that you might be a monster, that you don't deserve help, that you'd be taking up space — that's not the truth about you, that's the voice of grief and guilt that has been punishing you for three years for being human on one tired evening. A therapist who specializes in this wouldn't hear a monster; they would recognize someone who loved their brother deeply, because people who don't care don't carry this kind of pain for three years. I want to gently reflect something back to you: you came here today, you opened up about something you've never been \"supposed\" to say, and you're still here — doesn't that tell you something about whether you're worth showing up for?",
+    "client": "Maybe I could just take a breath before I open my books and remind myself that I'm doing the best I can with what I have right now. It feels a little silly to say something kind to myself out loud or even in my head, like I'd feel embarrassed even though no one's watching. But I think I can at least try not to start the study session by immediately telling myself I'm already behind and it's probably hopeless.",
+    "therapist": "That small breath and that one gentler thought before you open your books — that's not silly at all, that's actually you choosing to treat yourself as someone worth caring for, even in a tiny way, and that matters. The embarrassment you feel about self-compassion is really common, and it's worth noticing that you wouldn't think it was silly if a friend did it — which tells you something about the double standard you've been holding yourself to. How do you feel right now, compared to when you first sat down to talk today?",
     "condition": "baseline",
-    "val_t": -0.18371272087097168,
-    "aro_t": 0.20166385173797607,
+    "val_t": -0.22369623184204102,
+    "aro_t": 0.12537992000579834,
     "text_emotion": "Angry"
   }
 ]

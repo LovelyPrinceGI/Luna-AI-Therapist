@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really anxious lately since I lost my job last month because of the downsizing. It's hard not to think about how I'm going to pay my rent next week, and that just adds to the stress. I sometimes wonder if therapy can really help me with these overwhelming feelings.",
-    "therapist": "It sounds like you're going through an incredibly tough time right now, and it's completely understandable to feel anxious about your situation. Losing a job can create a lot of uncertainty, especially when it comes to finances. It’s important to explore these feelings and how they impact your thoughts. Can you tell me more about the specific thoughts that come up when you think about your rent and future?",
+    "client": "I've been feeling really anxious since I lost my job last month because of the company downsizing. With rent due next week, the pressure is building and I keep worrying about how I'm going to manage financially. I know I should probably be doing something about it, but I just feel so overwhelmed and unsure of what to do next.",
+    "therapist": "It sounds really overwhelming to be dealing with job loss and the pressure of upcoming rent. It's completely understandable to feel anxious in such a challenging situation. Let's explore some of the thoughts that are contributing to your feelings right now. What worries you the most about your financial situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.366865873336792,
-    "aro_t": 0.14907121658325195,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "I feel this heavy weight in my chest whenever I think about rent and my future. My mind races with thoughts about how I’m going to make ends meet, and it’s like a constant loop of worry. I can’t help but feel overwhelmed and a bit helpless, especially since I don’t have a backup plan.",
-    "therapist": "It sounds like you're feeling really trapped by these worries, and that heavy weight in your chest must be really uncomfortable. It’s understandable to feel overwhelmed, especially when you don’t have a clear plan in place. Let’s take a moment to explore those racing thoughts—what specific worries come up for you when you think about making ends meet?",
-    "condition": "emotion_text_only",
-    "val_t": -0.3213745355606079,
-    "aro_t": 0.2282480001449585,
+    "val_t": -0.35994184017181396,
+    "aro_t": 0.26773059368133545,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I really worry about not being able to pay my bills on time. I constantly think about how I’ll manage my rent, and the idea of falling behind makes me feel so anxious. It’s like this weight is always there, and even when I try to plan or budget, I just feel lost and overwhelmed.",
-    "therapist": "It sounds like you're carrying a heavy burden with your worries about bills and rent, and I can see how that would lead to feeling lost and overwhelmed. Even when you try to take practical steps like planning or budgeting, those anxious thoughts can make it hard to find clarity. What would it feel like to take a small step, even if it's just writing down your thoughts or exploring possible options?",
+    "turn": 2,
+    "client": "What worries me the most is just the uncertainty of it all. I keep thinking about how I won't be able to pay my bills or how I might have to ask for help, which makes me feel anxious and guilty. I also worry that I won't find another job soon enough, and that just keeps spiraling into more negative thoughts.",
+    "therapist": "It sounds like the uncertainty is really weighing on you, and it's understandable to feel anxious and guilty about these thoughts. When we start to spiral, it can be hard to see a way out. Let's try to break it down together—what evidence do you have that supports these worries, and is there anything that challenges those thoughts?",
     "condition": "emotion_text_only",
-    "val_t": -0.345015287399292,
-    "aro_t": 0.2111748456954956,
+    "val_t": -0.4630258083343506,
+    "aro_t": 0.14540362358093262,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess I can see why I'm worried—I lost my job, and that feels like proof that things are going downhill. But on the other hand, I have some savings, and I've been applying to jobs, so maybe it's not as hopeless as I think. It just feels hard to focus on the positive when the anxiety is so loud in my head.",
+    "therapist": "It’s great that you’re recognizing the evidence on both sides of your situation. It’s completely normal for anxiety to drown out the positive thoughts, especially when you're feeling down. What small steps do you think you could take to help shift your focus away from the anxiety and toward the actions you’re already taking, like applying for jobs?",
+    "condition": "emotion_text_only",
+    "val_t": -0.267284631729126,
+    "aro_t": 0.26310837268829346,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you recognizing how heavy this feels for me. Writing down my thoughts sounds simple, but I worry it might just make me feel more overwhelmed. What if I end up just fixating on everything I'm worried about instead of feeling any sense of relief?",
-    "therapist": "I really appreciate your honesty about your concerns with writing things down. It makes sense to worry that it could lead to more fixation rather than relief. Perhaps we can look at it as a way to gently acknowledge your thoughts without getting stuck in them. What if we tried to set a time limit for writing, or focus on just a few specific worries? Would that feel more manageable for you?",
+    "client": "I guess I could try to set aside a little time each day to focus on my job applications and maybe keep a list of the ones I’ve sent out. But honestly, I’m worried that if I do that, I'll just end up feeling even more anxious if I don’t hear back from anyone quickly. It feels like every rejection would just add to the pressure, and I’m not sure how to handle that.",
+    "therapist": "It sounds like you're feeling a lot of pressure around the possibility of rejection, which is completely understandable given the circumstances. It’s great that you’re thinking about setting aside time for job applications, but I hear your concerns about how that might intensify your anxiety. How might you approach this process in a way that allows for some self-compassion, perhaps by recognizing that rejections are a normal part of job searching?",
     "condition": "emotion_text_only",
-    "val_t": -0.058840155601501465,
-    "aro_t": 0.16184937953948975,
-    "text_emotion": "Tense"
+    "val_t": -0.32800400257110596,
+    "aro_t": 0.21334993839263916,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you're trying to make it feel less overwhelming, but I'm still skeptical about writing things down. It feels like every time I try to do that, I just end up spiraling deeper into my thoughts instead of acknowledging them. Plus, setting a time limit feels tricky—what if I can't get everything out that I need to in that short time?",
-    "therapist": "It's completely understandable to feel skeptical about writing things down, especially if past attempts have led to feeling even more overwhelmed. It sounds like the fear of not being able to express everything you need to is really holding you back. How about we explore some alternatives together? For instance, we could try talking through your thoughts instead, or perhaps focusing on just one worry at a time. What feels most comfortable for you right now?",
+    "client": "I guess I could try to remind myself that rejection is just part of the process, but it feels hard to truly believe that. I often take it personally, and it hits my self-esteem pretty hard. Maybe I could write down some positive affirmations or reminders, but I worry I won’t actually feel any better reading them when I’m in the middle of that anxiety.",
+    "therapist": "It’s understandable to feel that rejection hits hard, especially when it feels personal, and it’s brave of you to consider ways to counter those feelings. Writing down positive affirmations is a great idea, even if it feels challenging to believe them right now. What if we explored some specific affirmations together that resonate with you, perhaps focusing on your strengths and resilience?",
     "condition": "emotion_text_only",
-    "val_t": -0.10916554927825928,
-    "aro_t": 0.1251002550125122,
+    "val_t": -0.2698392868041992,
+    "aro_t": 0.1613938808441162,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate your understanding, but I'm still feeling a bit hesitant about talking through my thoughts. It feels like everything is jumbled up in my head, and I worry that if I focus on just one worry, I’ll forget the others that seem just as important. It’s hard for me to see how this will help when I often feel like I don’t express myself well anyway.",
-    "therapist": "I hear you—feeling hesitant and jumbled can make it really hard to know where to start. It’s okay to feel that way, especially when you have many important thoughts vying for your attention. Maybe instead of trying to tackle everything at once, we could find a way to gently prioritize the worries that feel most urgent for you right now. What do you think would help you feel more comfortable in expressing what’s on your mind?",
+    "client": "I appreciate you wanting to help me come up with affirmations, but I’m not sure how much they’ll really help when I’m feeling so low. I often feel like I’m just saying words without really believing them. It's hard to think of strengths when I’m in this tough spot, but if you have some examples, maybe I can work from there.",
+    "therapist": "I hear you—when you're feeling low, it can be really hard to connect with positive affirmations, and it’s okay to feel that way. Let’s start with some examples that might resonate with you. For instance, you could remind yourself that you’ve faced challenges before and have come through them, or that seeking help and support is a strength in itself. What do you think about these ideas, and can you think of any personal strengths or past experiences that could fit into this?",
     "condition": "emotion_text_only",
-    "val_t": -0.17010629177093506,
-    "aro_t": 0.041852474212646484,
-    "text_emotion": "Sad"
+    "val_t": 0.014031291007995605,
+    "aro_t": 0.047460079193115234,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you're trying to help me prioritize my thoughts, but honestly, it feels overwhelming to even pick one. Everything feels urgent to me, and I worry that if I focus on one thing, I'll neglect another important issue. Plus, I just don’t know if talking about it will really change anything for me.",
-    "therapist": "I can see how trying to choose just one worry feels like an impossible task when everything feels urgent and important. It’s completely valid to question whether talking about it will bring any change, especially when you're feeling overwhelmed. Instead of trying to tackle everything at once, what if we focused on simply sharing how these worries make you feel? Sometimes, just having a space to express those feelings can be a first step. How does that sound to you?",
+    "client": "I see what you’re saying about facing challenges before, and I guess I have gotten through tough times in the past. But it still feels different now, like this weight is heavier. I worry that even if I remind myself of those strengths, it might not change how overwhelmed I feel about finding a job and managing my finances. What if I just can’t handle the stress?",
+    "therapist": "It sounds like you’re feeling an even greater weight now, and it’s completely valid to worry about how you’ll handle the stress of it all. It’s understandable that past experiences might feel different in the face of current challenges, especially when anxiety is high. Let’s talk about some small coping strategies that might help you manage that stress day-to-day. What are some activities or practices that have helped you relax or feel more grounded in the past?",
     "condition": "emotion_text_only",
-    "val_t": -0.037000417709350586,
-    "aro_t": 0.21056675910949707,
-    "text_emotion": "Tense"
+    "val_t": -0.21961915493011475,
+    "aro_t": 0.19089627265930176,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you’re saying about sharing my feelings, but it feels like I’m just going to sound repetitive or even silly. I have all these worries swirling around in my head, and they make me feel anxious and heavy, but talking about them seems like it won’t really change anything. What if I just end up feeling worse after sharing? It’s hard to believe that just expressing it will help.",
-    "therapist": "It’s completely understandable to feel hesitant about sharing your worries, especially when you're concerned it might feel repetitive or not lead to any relief. Those swirling thoughts can make it seem like expressing them won’t change anything, but sometimes voicing them can help lighten that heavy feeling, even just a little. What if we tried to explore one of those worries together, without the pressure of finding a solution? It might help to just let it out, and we can see where it takes us. How does that sound to you?",
+    "client": "I used to find some relief in going for walks or listening to music; those things helped me clear my mind. But lately, even those activities feel like a chore, and I struggle to find motivation. I worry that if I try to do something to cope, it won't really help me feel any better anyway, and I’ll just end up feeling more frustrated.",
+    "therapist": "It sounds really tough that activities that used to bring you relief now feel like a chore, and it's understandable to feel frustrated about that. Sometimes when we're overwhelmed, even small steps can feel daunting. What if we approached it differently and set very gentle intentions for those activities, like just stepping outside for a few minutes or listening to a song you love without any pressure to feel better? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2334686517715454,
-    "aro_t": 0.11908173561096191,
+    "val_t": -0.33998119831085205,
+    "aro_t": 0.1432514190673828,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess it sounds okay, but I worry that opening up won’t really change anything. I often feel like I’m just repeating myself without making any progress. Sometimes it feels like I'm stuck in this loop of anxiety and guilt, and I’m not sure how talking about it will help me feel any lighter.",
-    "therapist": "It sounds really frustrating to feel like you’re stuck in a loop of anxiety and guilt, and it's understandable to worry that opening up might not lead to any meaningful change. That sense of repetition can make it feel like you’re not making progress, which can be really disheartening. Let’s take a moment to acknowledge those feelings—what do you think is at the heart of this loop for you? I’m here to help you sift through it.",
+    "client": "I can see how setting gentle intentions could make it feel less overwhelming, but I still worry that it might not really help me break out of this funk. Just stepping outside or listening to a song feels so small compared to the pressure of finding a job and dealing with my finances. I guess part of me is afraid that even those little moments won’t be enough to change how heavy everything feels right now.",
+    "therapist": "It makes sense that you feel those small moments seem insignificant compared to the bigger pressures you’re facing. It’s okay to feel that way, especially when everything feels heavy. Sometimes, those little moments can serve as small anchors that help you navigate through the storm, even if they don’t seem like a big solution. What if you allowed yourself to take those moments without any expectation and simply noticed how they make you feel, even if just for a brief time?",
     "condition": "emotion_text_only",
-    "val_t": -0.24325013160705566,
-    "aro_t": 0.03689253330230713,
-    "text_emotion": "Sad"
+    "val_t": -0.1987168788909912,
+    "aro_t": 0.12366020679473877,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you acknowledging how frustrating it is. I think the heart of this loop for me is this constant feeling of not being good enough, which leads to guilt about not living up to expectations—both my own and others'. It feels like I’m always in this cycle of second-guessing myself, and I just don’t know how to break free from it.",
-    "therapist": "It sounds like you’re dealing with a heavy burden of feeling not good enough, and that cycle of second-guessing can be really exhausting. It’s understandable to feel guilty about not meeting those expectations, especially when they come from both yourself and others. What if we explored where those expectations come from? Sometimes, understanding their roots can help us see them in a new light. How does that sound to you?",
+    "client": "I guess I can see how those small moments might help, even if just a little. But it still feels hard to not expect something more from them. I worry that if I take a moment and it doesn’t lift the weight off my shoulders, I’ll just end up feeling disappointed and more anxious. It's like I want to feel better, but I'm scared of trying and failing.",
+    "therapist": "It's completely natural to feel hesitant about trying small moments of relief, especially when you're worried they won't meet your expectations. That fear of trying and potentially feeling disappointed can be really heavy. Perhaps we can take a step back and focus on simply allowing yourself to experience those moments without any pressure for them to change everything. What would it feel like to approach them with curiosity rather than expectation?",
     "condition": "emotion_text_only",
-    "val_t": -0.18145644664764404,
-    "aro_t": 0.13999366760253906,
+    "val_t": -0.33792924880981445,
+    "aro_t": 0.15616321563720703,
     "text_emotion": "Angry"
   }
 ]

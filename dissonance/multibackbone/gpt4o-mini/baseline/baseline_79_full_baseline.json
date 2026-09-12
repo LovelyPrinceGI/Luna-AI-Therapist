@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. The sadness hits me at unexpected moments, and I find it hard to concentrate on even simple things like work or chores. I know I should be doing better, but it feels like I'm just stuck in this heavy fog, and I’m not sure if therapy can really help me with this.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; that kind of loss can be incredibly heavy and disorienting. It's completely understandable to feel overwhelmed and stuck in a fog during such a difficult time. What do you think has been the hardest part for you to manage since her passing?",
+    "client": "I've been feeling really overwhelmed since my grandmother passed away last month. The sadness just seems to linger, and it's hard for me to focus on anything in my daily routine. I sometimes wonder if talking about it in therapy will actually help, or if it's just going to make me feel worse.",
+    "therapist": "I'm really sorry to hear about your grandmother’s passing; it’s completely understandable to feel overwhelmed and sad during such a difficult time. Talking about it can sometimes feel daunting, but expressing those feelings can also bring some relief and clarity. What do you think might happen if you allow yourself to share more about your experience?",
     "condition": "baseline",
-    "val_t": -0.34441566467285156,
-    "aro_t": 0.20536720752716064,
-    "text_emotion": "Angry"
+    "val_t": -0.3860032558441162,
+    "aro_t": 0.11654293537139893,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Thank you for your understanding. I think the hardest part has been the guilt I feel for not being there more for her in her last days. I keep replaying moments in my mind, wishing I could have done something differently, and it's exhausting. It's like I'm stuck in this loop of \"what ifs,\" and I don't know how to move past it.",
-    "therapist": "It's understandable to feel guilt and to replay those moments in your mind, especially when you care deeply about someone. These \"what if\" thoughts can be exhausting and can make it hard to find peace. Can we explore some of those thoughts together? What would you say to a close friend who was feeling the same way?",
+    "client": "I guess I feel like sharing more could help, but I also worry that it’ll just bring back all the pain and sadness. Sometimes I think it's easier to just keep everything bottled up rather than revisiting those memories. What if talking about it just makes me feel worse?",
+    "therapist": "It's completely normal to feel hesitant about revisiting painful memories; many people share that concern. Holding onto those feelings can feel safer in the moment, but it can also keep us from healing. What if we approached this gently, perhaps starting with just a small memory or feeling? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.15213274955749512,
-    "aro_t": 0.11756491661071777,
-    "text_emotion": "Angry"
+    "val_t": -0.2863539457321167,
+    "aro_t": 0.05430483818054199,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess I would tell my friend that it’s okay to feel guilty, but they shouldn't let it consume them. I feel like I can't just brush it off, though. The guilt seems to cling to me, and no matter how hard I try, those \"what if\" moments just keep replaying in my mind, making it hard to focus on anything else.",
-    "therapist": "It sounds like you have a lot of compassion for your friend, which is a beautiful quality. Recognizing that guilt is a natural response is a good first step, but I hear how challenging it is to not let it take over your thoughts. What if we tried to identify some evidence for and against those \"what if\" moments? It might help to see things from a different perspective. How does that sound to you?",
+    "client": "I guess starting with a small memory could be a bit more manageable, but I still feel apprehensive about it. I worry that even a small memory might open up a floodgate of emotions that I’m not ready to deal with. It just feels like a lot to handle right now, and I’m not sure if I can do it.",
+    "therapist": "It’s completely valid to feel apprehensive about opening up those emotions; it can feel overwhelming to think about handling them all at once. Remember, you have control over the pace of this process, and it’s okay to take small steps. What if you considered sharing just a little bit about what you miss most about your grandmother, and we could see how that feels for you?",
     "condition": "baseline",
-    "val_t": -0.3299669027328491,
-    "aro_t": 0.08531904220581055,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate your kind words about my compassion, but I still feel like I'm stuck in this cycle of guilt. It’s hard for me to just flip a switch and see things differently, especially when those \"what if\" thoughts are so overwhelming. I worry that trying to find evidence might just lead me to feel even guiltier about things I can't change.",
-    "therapist": "I completely understand your concern about feeling even guiltier when trying to examine those thoughts. It’s not about flipping a switch, but rather about gently exploring these feelings at your own pace. What if we approached it as a way to gather insight rather than to judge yourself? How might it feel to take small steps in looking at those thoughts without the pressure to change them right away?",
-    "condition": "baseline",
-    "val_t": -0.3334602117538452,
-    "aro_t": 0.11570155620574951,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate that you're trying to help me explore these feelings without judgment, but I'm still feeling a lot of resistance. It just seems daunting to even think about examining my thoughts when they already make me feel so guilty. I guess I worry that if I start looking at them, I'll just end up feeling worse or spiral into more guilt.",
-    "therapist": "It's completely normal to feel resistance when facing such heavy emotions, and it's okay to take your time with this process. The fear of spiraling into more guilt is valid, and I want to reassure you that we're here to navigate this together, step by step. What if we tried to focus on just one thought or feeling at a time, rather than examining everything at once? How does that idea resonate with you?",
-    "condition": "baseline",
-    "val_t": -0.3304929733276367,
-    "aro_t": 0.0619884729385376,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate you saying that it's okay to feel resistance, but honestly, I'm not sure if focusing on just one thought will really help. It feels overwhelming because my mind just keeps racing, and isolating one feeling feels like I’m ignoring the others. What if I pick the wrong one, or what if it just leads me back to feeling guilty about everything else?",
-    "therapist": "I hear you; it can feel really overwhelming when your mind is racing and you have so many feelings swirling around. It's understandable to worry about picking the \"wrong\" thought or feeling, but it’s important to remember that there’s no right or wrong way to approach this. What if we viewed this as an opportunity to simply notice which thought feels the most pressing or relevant in the moment, without any pressure to resolve everything at once? How do you feel about that approach?",
-    "condition": "baseline",
-    "val_t": -0.2231353521347046,
-    "aro_t": 0.13171851634979248,
+    "val_t": -0.22373998165130615,
+    "aro_t": 0.1819474697113037,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I get what you’re saying, but it feels like I’m always stuck in this whirlwind of thoughts, and it’s hard to even pinpoint which one is the most pressing. Sometimes, it feels like any thought I choose just adds to my anxiety instead of helping. What if I end up focusing on the wrong thing and just make everything worse?",
-    "therapist": "It sounds like you're really feeling the weight of that whirlwind, and it's completely understandable to be anxious about choosing the \"wrong\" thought. The pressure to make things better can often add to the overwhelm. Instead of focusing on pinpointing one thought, what if we took a moment to simply acknowledge that whirlwind without judgment? Sometimes, just allowing yourself to feel what you're feeling can be a powerful step. How does that idea resonate with you?",
+    "turn": 4,
+    "client": "I think I could try to share a little about what I miss, but it still feels like a huge leap. I miss her laugh and how she always knew how to make me feel better when I was down. But I’m scared that talking about it will just bring up all the sadness again, and I don’t know if I’m ready for that.",
+    "therapist": "It's touching to hear you share what you miss about your grandmother; her laughter and support clearly meant a lot to you. It’s understandable to feel scared about the sadness that might come with those memories, but acknowledging them can also be a step toward healing. How do you feel about focusing on the warmth of those memories first, perhaps exploring how they made you feel in the moment?",
     "condition": "baseline",
-    "val_t": -0.31710147857666016,
-    "aro_t": 0.19258475303649902,
+    "val_t": -0.19455862045288086,
+    "aro_t": 0.16475260257720947,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "Focusing on the warmth of those memories sounds a bit less intimidating, but I still feel mixed about it. I appreciate that my grandmother brought so much joy to my life, but I can't help but think about how that joy is gone now. What if it just reminds me of how empty I feel without her?",
+    "therapist": "It’s completely natural to feel a mix of emotions when recalling joyful memories alongside the emptiness of her absence. Recognizing the joy your grandmother brought into your life can feel bittersweet, and it’s okay to hold both feelings at the same time. What if, as you reflect on those warm memories, you also allowed space to acknowledge that emptiness without judgment? How might that balance feel for you?",
+    "condition": "baseline",
+    "val_t": -0.04786026477813721,
+    "aro_t": 0.1780339479446411,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 6,
+    "client": "I can see how holding both feelings could be important, but it still feels really challenging. I’m worried that if I let myself feel that emptiness too much, it could take over and I wouldn’t know how to pull myself back from it. It’s like I'm afraid of getting lost in the sadness, even though I know the joy was real.",
+    "therapist": "It’s completely understandable to be worried about getting lost in those feelings; it can feel like a delicate balance. Acknowledging the emptiness doesn’t mean it has to overwhelm you; it can simply be part of your process. What if we explored ways to create some emotional safety for yourself as you navigate these feelings, like setting a time limit for reflection or having a supportive activity planned afterward? How does that sound to you?",
+    "condition": "baseline",
+    "val_t": -0.08749854564666748,
+    "aro_t": 0.2231886386871338,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "That makes sense to me, but I still feel a bit skeptical about how effective it will be. Setting a time limit sounds like a good idea, but I’m not sure what kind of supportive activity I could do afterward that wouldn’t just remind me of the sadness. I guess I’m worried that even with a plan, I might still feel overwhelmed and end up stuck in those feelings.",
+    "therapist": "It's completely natural to feel skeptical about the effectiveness of these strategies, especially when you're navigating such deep emotions. Finding supportive activities that feel comforting and take your mind off the sadness can be a personal choice, and it’s okay to experiment with what feels right for you. Would you be open to brainstorming some activities together that have brought you comfort or joy in the past, even if they feel small?",
+    "condition": "baseline",
+    "val_t": -0.19712412357330322,
+    "aro_t": 0.11036467552185059,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about acknowledging the whirlwind, but it feels hard to just sit with those feelings. I often feel like I should be doing something to fix them instead of just letting them be. What if I just end up stuck in that overwhelming feeling without making any progress?",
-    "therapist": "It's understandable to feel the urge to \"fix\" your feelings, especially when they seem so overwhelming. It can feel uncomfortable to sit with those emotions, but acknowledging them can actually be a step toward understanding and eventually moving through them. What if we viewed this time as a way to practice self-compassion instead of focusing on progress? How might it feel to allow yourself to just be, without the pressure to change anything right now?",
+    "client": "I appreciate that you're trying to help me find activities that might comfort me, but I’m having a hard time thinking of anything right now. It feels like my mind is blank when it comes to joy or comfort since my grandmother passed. I guess I’m also afraid that whatever I come up with won’t be enough to really help me feel better.",
+    "therapist": "I completely understand how tough it can be to think of comforting activities when you're feeling so heavy with grief; it’s common for our minds to feel blank during such times. It’s also okay to feel uncertain about what might help; sometimes, just taking a small step can be significant. How about we explore some simple options together, like going for a walk, listening to music, or watching a favorite show, and see if any of those resonate with you?",
     "condition": "baseline",
-    "val_t": -0.19701504707336426,
-    "aro_t": 0.11142349243164062,
+    "val_t": -0.18902337551116943,
+    "aro_t": 0.11500835418701172,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about self-compassion, but it feels really hard to just sit with my emotions. I constantly feel this pressure to fix everything, especially when my anxiety is so overwhelming. I worry that if I don’t push myself to change, I might just stay stuck in this uncomfortable place forever.",
-    "therapist": "I hear you; it can be really tough to feel that pressure to fix things, especially when the anxiety feels so intense. It’s natural to want to escape those uncomfortable emotions, but sometimes taking a moment to acknowledge them can actually help you feel more grounded. What if we tried to approach this as a practice in being gentle with yourself, rather than a task to complete? How does that idea sit with you?",
+    "client": "I appreciate those suggestions, but I still feel hesitant about even trying them. Going for a walk seems like it might just remind me of how alone I feel, and listening to music feels like it could bring up too many memories. I guess I’m just worried that nothing will really help, and I’ll end up feeling even worse afterward.",
+    "therapist": "It makes sense to feel hesitant about trying those activities when you're concerned about how they might affect you; it’s a natural response to grief. It's important to honor those feelings and take things at your own pace. What if we thought of some very low-pressure options, like simply sitting outside for a few minutes or even just taking a moment to breathe deeply? How might that feel to you as a starting point?",
     "condition": "baseline",
-    "val_t": -0.27715086936950684,
-    "aro_t": 0.22335612773895264,
-    "text_emotion": "Angry"
+    "val_t": -0.22031831741333008,
+    "aro_t": 0.02197730541229248,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about being gentle with myself, but it feels so hard to do that when my anxiety is so overwhelming. Instead of grounding myself, I often just want to escape or distract myself from those feelings. I worry that if I sit with them, it will just make everything worse, like I'm stuck in a loop of anxiety that I can't break free from.",
-    "therapist": "It's completely understandable to want to escape or distract yourself from those overwhelming feelings; many people instinctively want to avoid discomfort. It’s tough to believe that sitting with those feelings might actually help when it feels like you're in a loop of anxiety. What if we approached this idea of grounding as a small experiment, where you could try sitting with those feelings for just a few moments at a time? How might that feel for you?",
+    "client": "Sitting outside or taking a moment to breathe deeply sounds a bit easier, but I still feel a bit skeptical about whether it will really help. I worry that even those small actions might still remind me of my loss and lead me to feel overwhelmed. It just feels hard to believe that something so simple could make a difference when I'm struggling so much.",
+    "therapist": "It's completely understandable to feel skeptical about how simple actions might help, especially when you're in such a deep place of grief. Recognizing that these feelings are challenging is an important step in itself. What if you approached these small actions with curiosity, allowing yourself to see how they feel in the moment without the pressure of expecting a specific outcome? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.2848016023635864,
-    "aro_t": 0.24428415298461914,
+    "val_t": -0.1732017993927002,
+    "aro_t": 0.1429535150527954,
     "text_emotion": "Angry"
   }
 ]

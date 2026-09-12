@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandma passed away last month. At work, I'll just be sitting at my desk and suddenly remember something about her, and then I can't concentrate on anything for the rest of the day. The sadness just hits me out of nowhere sometimes, and I'm not sure talking about it will make it any better - it feels like this is just something I have to get through alone.",
-    "therapist": "I hear how deeply you're missing your grandma, and how these sudden memories can make it hard to focus during the day. Grief often comes in waves like this, and it's completely normal to feel this way. Could you tell me more about what goes through your mind when these memories surface at work?",
+    "client": "Lately, I’ve been really struggling since my grandma passed away last month. I can’t seem to focus at work, and I keep getting hit by waves of sadness that feel overwhelming. I’m not sure if talking about it will help—it just feels like something I have to deal with on my own.",
+    "therapist": "It sounds like you're carrying a lot of grief, and those waves of sadness can feel so heavy and isolating. When you say it feels like something you have to deal with on your own, I wonder if part of you worries that others might not understand? What has it been like trying to hold this all in while managing work?",
     "condition": "emotion_text_only",
-    "val_t": -0.3788180351257324,
-    "aro_t": 0.10024023056030273,
+    "val_t": -0.4145113229751587,
+    "aro_t": 0.11955296993255615,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "It’s just... when I’m at my desk and suddenly remember her voice or the way she’d laugh, I freeze. My chest gets tight, and then I’m mad at myself because I *should* be able to handle this by now. It’s been months—why does it still feel so raw? I worry people notice me zoning out, and that just makes it worse.",
-    "therapist": "It sounds like these moments bring up both deep sadness and frustration with yourself, which must feel so heavy to carry. The pain is still very real for you, and that's okay—grief doesn't follow a timeline. When you say you \"should\" be handling it better, what does that expectation look like for you?",
+    "client": "Yeah, I think part of me does worry that people won’t get it. I’ve tried mentioning it to a few coworkers, but they just kind of nod and say “Sorry for your loss” and move on. It makes me feel like I shouldn’t bring it up again because it’s awkward or uncomfortable for them. Holding it in while trying to focus at work has been exhausting—I feel like I’m constantly distracted and just going through the motions. I don’t know if talking about it more will really change anything, though.",
+    "therapist": "It makes sense that you'd feel exhausted trying to keep this all inside while putting on a brave face at work—that takes so much energy. I hear two things that might be worth exploring: the worry that talking won't change anything, and the belief that others find your grief uncomfortable. When those thoughts come up, do you notice them affecting how you let yourself grieve?",
     "condition": "emotion_text_only",
-    "val_t": -0.33945226669311523,
-    "aro_t": 0.30115628242492676,
+    "val_t": -0.20502543449401855,
+    "aro_t": 0.09176826477050781,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess the expectation is that I should be able to function normally by now, like everyone else seems to. It's been months, and I still cry at random moments or can't focus at work. I feel weak for not being able to just move on like people expect me to.",
-    "therapist": "It sounds like you're carrying a lot of pressure to meet others' expectations, even while your grief is still very present. It’s okay to feel this deeply—it doesn’t mean you’re weak, it means you loved her deeply. What would it feel like to let go of the idea that there’s a \"right\" way to grieve?",
+    "client": "Yeah, I guess those thoughts do stop me from reaching out more. Like if I start feeling sad at work, I'll tell myself \"Don't be that person who's always bringing the mood down\" and push it away. But then when I'm alone at night, it all comes flooding in and feels even worse. I'm not sure what the alternative is though—I don't want to be that person who overshares either.",
+    "therapist": "It sounds like you're caught between two extremes—holding everything in until it overwhelms you, or worrying you'll burden others by sharing. That must feel so lonely. I wonder if there might be a middle ground that feels authentic without being overwhelming—what would it look like to honor your grief in small, manageable ways throughout the day?",
     "condition": "emotion_text_only",
-    "val_t": -0.28587424755096436,
-    "aro_t": 0.07095193862915039,
+    "val_t": -0.30445969104766846,
+    "aro_t": 0.06781792640686035,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it feels like there *should* be a right way to grieve. Everyone around me seems to be moving on, and I’m still stuck in this fog. It’s hard not to feel like I’m failing at something, like I’m not handling it the way I’m supposed to. Letting go of that expectation feels almost like dismissing her importance to me.",
-    "therapist": "It sounds like holding onto these expectations feels tied to honoring your grandma’s memory, which makes it hard to let go. Grief can feel so isolating, especially when others seem to have moved on, but your experience is unique and valid. What would it mean to you to honor her in a way that feels gentle with yourself, rather than holding onto this pressure to \"do it right\"?",
+    "client": "I never really thought about small ways to handle it during the day. Maybe like... stepping outside for a minute when I feel sad instead of forcing myself to power through? But even that makes me nervous—what if someone sees me and asks what's wrong? I don't want to make my grief into this big public thing.",
+    "therapist": "It makes sense that even small steps feel scary when you're worried about drawing attention to your grief. That fear of being seen in your sadness sounds really vulnerable. Could we explore what makes the idea of someone noticing feel so uncomfortable—is it more about how they might react, or how it might make you feel about yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.20003831386566162,
-    "aro_t": 0.09953916072845459,
+    "val_t": -0.3259005546569824,
+    "aro_t": 0.16708576679229736,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I never thought about it that way before - that honoring her memory doesn't have to mean doing everything perfectly. But part of me worries that if I let go of these expectations, it'll feel like I'm forgetting her or not caring enough. The pressure to \"do it right\" is exhausting, but the thought of changing anything makes me feel guilty.",
-    "therapist": "It sounds like you're caught between the exhaustion of holding onto these expectations and the fear that letting go might mean forgetting her—that must feel like such a heavy tug-of-war. Grief often brings up these conflicting feelings, and it’s okay to feel both. What do you think your grandma would say if she saw how much pressure you’re putting on yourself right now?",
+    "client": "I think it's both—I don't want people's pity, but also... I guess I don't want to feel weak? My grandma was always so strong, and I feel like falling apart would disappoint her somehow. But trying to be strong like she was just makes me feel more exhausted. It's confusing.",
+    "therapist": "It sounds like you're holding yourself to such high expectations—honoring your grandma's strength while also silently carrying the weight that comes with that. That tension between wanting to emulate her and needing to acknowledge your own very human grief must feel so draining. When you say \"falling apart would disappoint her,\" what makes you think she wouldn't understand your need to grieve?",
     "condition": "emotion_text_only",
-    "val_t": -0.2658705711364746,
-    "aro_t": 0.0896751880645752,
-    "text_emotion": "Sad"
+    "val_t": -0.23597609996795654,
+    "aro_t": 0.1875838041305542,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I think my grandma would probably tell me to stop being so hard on myself. She always said life is too short to worry so much. But it’s hard to let go because it feels like I’m betraying her memory if I don’t keep everything perfect, the way she would’ve wanted it. I’m scared that if I relax, I’ll forget her or disappoint her somehow.",
-    "therapist": "Your grandma’s wisdom about not being so hard on yourself feels like it could be a lifeline here, even though it’s hard to fully embrace. It makes sense that you’d worry about \"betraying\" her memory—grief can make us hold on tightly to things, even when they hurt. What would it look like to honor her by gently releasing some of this pressure, rather than keeping it as a measure of your love for her?",
+    "client": "That’s... actually a really hard question. She was always the one who’d sit with me when I was upset as a kid, so maybe she wouldn’t judge me. But now that she’s gone, I feel like I have to prove I can handle things the way she would. It’s almost like if I show how much it hurts, it means I’m not living up to her example.",
+    "therapist": "It sounds like you're holding onto her memory so tightly that showing your pain feels like letting her down—yet the woman you're describing sounds like she would've offered you compassion, not criticism. That contradiction must ache deeply. Could we explore what it might look like to honor both her strength *and* your very real need to mourn?",
     "condition": "emotion_text_only",
-    "val_t": -0.3460531234741211,
-    "aro_t": 0.12460625171661377,
-    "text_emotion": "Sad"
+    "val_t": -0.2520979642868042,
+    "aro_t": 0.13129127025604248,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I never thought about it that way—honoring her by letting go instead of holding on to the pain. But it feels like if I stop beating myself up, I'm saying her high expectations didn't matter. I can almost hear her saying \"If you really loved me, you'd try harder\"—that guilt still feels so real, even though she's gone.",
-    "therapist": "It sounds like that critical voice—whether it's hers or the one you've internalized—still feels very present, and letting go of it almost feels like risking her disapproval all over again. That guilt is carrying so much weight for you. What would it feel like to challenge that thought: *Is love really measured by how much we punish ourselves?* What might your grandma say about that?",
+    "client": "I never thought about it like that—honoring both her strength and my grief. I guess I've been seeing it as either/or. But the idea that I could maybe cry and still be strong like her... that makes my chest feel less tight. Though it's scary—like if I start letting myself feel it, I might not be able to stop.",
+    "therapist": "That feeling of tightness loosening while still facing the fear of being overwhelmed—that's such an important moment of recognition. It makes complete sense that this feels scary; grief isn't something we can control like flipping a switch. When you imagine \"letting yourself feel it,\" what small step might feel manageable while still honoring that fear of being swept away?",
     "condition": "emotion_text_only",
-    "val_t": -0.27031421661376953,
-    "aro_t": 0.14826679229736328,
+    "val_t": -0.20580077171325684,
+    "aro_t": 0.21292150020599365,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That's a hard question... I think part of me knows my grandma wouldn't want me suffering like this, but it's like I can't trust that thought. What if I let go of the guilt and then realize I didn't actually love her enough? That fear keeps me stuck. \n\nI tried journaling about this like you suggested last time, but every time I wrote \"she'd want me to be happy,\" I just started crying and had to stop. It feels dangerous to even consider that idea.",
-    "therapist": "It sounds like there’s a quiet part of you that knows she’d want your happiness, but that idea feels terrifying to lean into—like stepping onto thin ice. Those tears when journaling? They’re not a sign you’re doing it wrong; they’re proof of how much this matters to you. What would it feel like to let those tears just *be* for now, without judging whether they mean you’re loving her \"enough\"?",
+    "client": "Maybe I could set aside 10 minutes when I get home to look at photos of her and just... feel whatever comes up, instead of distracting myself with TV right away. But I'm worried that even that small window will open the floodgates—like what if I can't pull myself together afterwards? The idea of scheduling grief feels weird too, like I'm not being genuine about it.",
+    "therapist": "It sounds like you're thoughtfully balancing two very real concerns—wanting to create space for your grief while also protecting yourself from feeling overwhelmed. That \"scheduled grieving\" idea might feel artificial at first, but it's actually a compassionate way to build trust with yourself—small steps help us learn we can survive the waves. What would it feel like to have a comforting ritual ready for after those 10 minutes, like making tea or calling a friend, as a gentle transition back?",
     "condition": "emotion_text_only",
-    "val_t": -0.3649485111236572,
-    "aro_t": 0.18548989295959473,
+    "val_t": -0.27384018898010254,
+    "aro_t": 0.12998294830322266,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "It’s hard to hear that she’d want my happiness because it feels like I’m betraying her memory if I’m not consumed by grief. The tears do feel raw and overwhelming, but I’m not sure I can just let them be without judging myself. It feels like I’m failing her if I don’t hurt enough.",
-    "therapist": "It sounds like the idea of happiness feels tangled up with guilt, as if moving forward would mean leaving her behind. That must feel like such a painful conflict to carry. Could we explore what it might look like to honor her memory *and* care for yourself in a way that feels less punishing?",
+    "client": "I like the idea of having tea afterwards—my grandma always made me chamomile when I was upset. But I don't really have friends I'd feel comfortable calling about this... what if I still feel raw afterwards and have nobody to turn to? That's why I usually just numb out instead—at least then I know exactly how it'll end.",
+    "therapist": "It sounds like numbing feels safer because it’s predictable, even if it doesn’t help in the long run—that makes so much sense when you’re worried about feeling alone with the intensity of your emotions. Bringing in your grandma’s chamomile tea feels like such a tender way to connect with her memory while also grounding yourself. If you still feel raw afterwards, what other small comforts—like journaling a few lines or wrapping yourself in a cozy blanket—might help you feel held, even if there’s no one else around?",
     "condition": "emotion_text_only",
-    "val_t": -0.4279893636703491,
-    "aro_t": 0.24575161933898926,
-    "text_emotion": "Angry"
+    "val_t": -0.08957898616790771,
+    "aro_t": 0.06783974170684814,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "That idea feels so complicated to me. Honoring her memory while also trying to move forward—it feels like those two things don’t go together. I worry that if I start feeling happy or focusing on myself, it’ll mean I’m forgetting her or letting her go, and that doesn’t sit right with me. It’s like guilt is the only thing keeping her close.",
-    "therapist": "It sounds like the guilt feels like a way to hold onto her, almost as if letting go of it would mean losing that connection. That’s such a heavy burden to carry—as if your love for her is measured by how much you suffer. What do you think it would take to trust that honoring her memory could also include moments of peace or even joy, without it meaning you’re forgetting her?",
+    "client": "I do have this old sweater of hers that still smells faintly like her perfume. Maybe I could wear that during the 10 minutes and then change into comfy clothes afterwards as a transition. But I'm still worried—what if touching her things just makes the pain worse instead of helping? Part of me thinks maybe I should wait until I'm \"stronger\" to try this.",
+    "therapist": "That sweater sounds like such a meaningful connection to her—and I hear how cautiously you're approaching this, worried it might amplify the pain rather than soothe it. That tension between wanting comfort and fearing deeper hurt is completely understandable. When you think about waiting until you feel \"stronger,\" what does being \"strong enough\" to handle this look like to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1822667121887207,
-    "aro_t": 0.08651375770568848,
+    "val_t": -0.0961843729019165,
+    "aro_t": 0.14209914207458496,
     "text_emotion": "Angry"
   }
 ]

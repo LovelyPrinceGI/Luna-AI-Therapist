@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really struggling lately. Ever since my grandmother passed away last month, I find myself feeling so sad all the time, and it's really hard to focus on my daily routine. I keep thinking about her and it's just overwhelming. I'm not even sure if therapy can really help with this.",
-    "therapist": "I'm so sorry to hear about your grandmother and the deep sadness you're feeling. It's completely understandable that you're finding it hard to focus and that the memories are overwhelming. How have you been coping with these feelings so far?",
+    "client": "Hi Luna, it's been really tough lately. Ever since my grandmother passed away last month, I've been feeling so overwhelmed with sadness. It's hard to focus on anything, and I just feel like I'm going through the motions without really being present. I don't even know if talking about it will help, but I feel lost.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandmother. It sounds incredibly overwhelming to be going through this loss and feeling so disconnected. It’s completely normal to feel this way, and talking about it can sometimes help to process these difficult emotions. What’s been the hardest part for you since she passed away?",
     "condition": "emotion_text_only",
-    "val_t": -0.40786516666412354,
-    "aro_t": 0.19609689712524414,
+    "val_t": -0.35470545291900635,
+    "aro_t": 0.14822661876678467,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thank you for understanding, Luna. It's been really tough. I've been trying to stay busy, but it doesn't help much. The memories just keep coming back, and I feel so alone with all of this.",
-    "therapist": "I can imagine how tough it must be to feel overwhelmed by these memories, especially when staying busy doesn't seem to help. It's natural to feel alone with such a heavy heart. Have you found any moments or activities that bring you a bit of comfort or peace, even if just for a short while?",
+    "client": "The hardest part is probably the loneliness. I feel like I've lost my closest confidant, and it’s hard to connect with others the same way. I keep thinking about all the things we used to talk about, and now there's this big void. It's just really hard to fill that space.",
+    "therapist": "It sounds like the loss of your grandmother has left a significant void in your life, and the loneliness is really hitting hard. It’s understandable to miss the connection and the shared moments you had with her. How have you been coping with these feelings of loneliness? Are there any activities or people that have helped, even a little bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.05216360092163086,
-    "aro_t": 0.09595739841461182,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 3,
-    "client": "It's really hard to find things that bring me peace. Sometimes I try to watch a movie or listen to music, but it feels like a band-aid on a deep wound. I don't know if there's anything that can truly help me feel better for more than just a few minutes.",
-    "therapist": "I can hear how deeply you're struggling, and it's understandable that temporary distractions feel insufficient. It's okay to acknowledge that the pain is deep and that healing takes time. Have you considered reaching out to friends or family to share your feelings, or perhaps joining a support group where you can connect with others who might understand what you're going through?",
-    "condition": "emotion_text_only",
-    "val_t": -0.20112812519073486,
-    "aro_t": -0.015090703964233398,
+    "val_t": -0.2505533695220947,
+    "aro_t": 0.05028939247131348,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "I appreciate that you're trying to help, but it's hard for me to reach out to friends or family. I feel like I'm a burden, and I worry they won't understand or will get tired of my problems. Joining a support group sounds like a good idea in theory, but I'm not sure I'm ready to open up to strangers.",
-    "therapist": "I understand how challenging it can be to reach out, especially when you feel like a burden. It's natural to worry about how others might react, and taking that step can feel daunting. What do you think might help you feel more comfortable or supported in sharing your feelings, even if just a little bit?",
+    "turn": 3,
+    "client": "I've been trying to stay busy, but it's hard because everything just reminds me of her. I've talked to a few friends, but it doesn't quite fill the gap. I feel like they don't really understand what I'm going through. I appreciate their support, but it's not the same.",
+    "therapist": "It sounds like you’re doing your best to manage the pain, but the reminders are making it tough to stay busy and find some relief. It’s understandable to feel that way, especially when the support from friends, while appreciated, doesn’t fully bridge the gap. Have you considered reaching out to a support group or a counselor who specializes in grief? Sometimes, talking to someone who has had similar experiences can be really validating and helpful.",
     "condition": "emotion_text_only",
-    "val_t": -0.03512251377105713,
-    "aro_t": 0.11883795261383057,
+    "val_t": -0.06252467632293701,
+    "aro_t": 0.09712517261505127,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 5,
-    "client": "I appreciate that, Luna. It's just really hard for me to open up, even a little. I worry that people will judge me or think I'm overreacting, and that makes me feel even more alone. I don't know if there's a way to make that fear go away.",
-    "therapist": "I can hear how much you're struggling with the fear of judgment, and it's completely understandable to worry about that. Opening up can feel very vulnerable, especially when you're already feeling alone. Have you ever tried writing down your thoughts and feelings as a way to process them, even if just for yourself? Sometimes putting things on paper can help clarify your thoughts and make it easier to share them with others when you're ready.",
+    "turn": 4,
+    "client": "I've thought about it, but I don't know if it would really help. It feels like talking to more people about it might just make me feel more exposed and vulnerable. Plus, it's hard to imagine that anyone could really understand what I'm going through. I feel like I just need to figure this out on my own.",
+    "therapist": "I can understand why the idea of opening up more might feel overwhelming and expose you to more vulnerability. It’s natural to want to handle things on your own, especially when you feel like others might not fully understand. At the same time, sometimes sharing your experiences, even a little bit, can provide a sense of relief and help you feel less alone. What do you think might be a small step you could take that feels manageable, even if it’s just a tiny bit?",
     "condition": "emotion_text_only",
-    "val_t": -0.1950221061706543,
-    "aro_t": 0.1254422664642334,
+    "val_t": -0.22971618175506592,
+    "aro_t": 0.11134421825408936,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I appreciate your understanding, Luna. Writing things down is something I've tried before, but it often feels like it just reminds me of how I'm struggling. I worry that it might make me feel worse instead of better. It's hard because my thoughts can spiral so easily.",
-    "therapist": "I understand how writing can sometimes feel like it just reinforces the difficulties you're facing, and that can be really tough. It's important to find a way that feels right for you and doesn't make things worse. Have you thought about trying a different approach, like talking to yourself gently or practicing some mindfulness exercises to help manage those spiraling thoughts?",
+    "turn": 5,
+    "client": "I appreciate that, Luna. It's just hard to know what a small step would even look like. Maybe I could try writing down my feelings or talking to one close friend who knew my grandmother. It feels less daunting than joining a support group, but I'm still not sure if it will make a difference.",
+    "therapist": "I understand that it can feel daunting to take even small steps, and it’s great that you’re considering options that feel more manageable. Writing down your feelings or talking to a close friend who knew your grandmother are both excellent ideas. They can provide a safe space to express what you’re going through and might help you feel a bit more connected. How do you think you might start with writing or reaching out to that friend?",
     "condition": "emotion_text_only",
-    "val_t": -0.09137570858001709,
-    "aro_t": 0.055475473403930664,
+    "val_t": 0.01713716983795166,
+    "aro_t": 0.037868618965148926,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 7,
-    "client": "I hear what you're saying, but I'm not sure if talking to myself gently will make much of a difference. It feels like my thoughts are so tangled up that even gentle self-talk might just spiral into more anxiety. I'll try the mindfulness exercises, but I'm worried it might be hard to stick with them consistently.",
-    "therapist": "I can hear your concerns about gentle self-talk and the worry that it might not make a big difference. It's completely understandable to feel that way when your thoughts are so tangled. Mindfulness can be a helpful tool, and even small, consistent efforts can make a difference over time. What do you think might help you stay committed to practicing mindfulness, even if it feels challenging at first?",
+    "turn": 6,
+    "client": "I think I could start by writing in a journal a few times a week. It feels like a private way to sort through my thoughts without feeling judged. As for reaching out to a friend, I might send a text to see if they’re up for a call. It’s a small step, but it feels doable.",
+    "therapist": "That sounds like a really thoughtful and manageable plan, and I’m glad you found something that feels doable. Writing in a journal can be a powerful way to process your thoughts and emotions privately, and reaching out to a friend for a call can help you feel more connected. How do you think you’ll approach your first journal entry or conversation? What might you want to focus on or share?",
     "condition": "emotion_text_only",
-    "val_t": -0.09415245056152344,
-    "aro_t": 0.04631519317626953,
+    "val_t": 0.1801081895828247,
+    "aro_t": 0.07078170776367188,
+    "text_emotion": "Happy"
+  },
+  {
+    "turn": 7,
+    "client": "For the journal entry, I might start by just writing down how I feel each day and any memories that come to mind. I think focusing on the moments that are hardest to let go of could be a good place to start. As for the call with my friend, I’ll probably just be honest and say that I’ve been struggling and that I miss our shared memories of my grandmother. It’s a bit scary, but I think it’s worth a try.",
+    "therapist": "It sounds like you have a good plan for both the journal and the call with your friend. Starting with how you feel each day and reflecting on those hard-to-let-go moments can be a meaningful way to process your emotions. And being honest with your friend about your struggles and shared memories is a brave step. It’s natural to feel a bit scared, but it’s a positive move towards healing. How do you think you’ll handle any difficult emotions that might come up during these activities?",
+    "condition": "emotion_text_only",
+    "val_t": -0.005706429481506348,
+    "aro_t": 0.07557260990142822,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I do see the point about mindfulness, but it's hard to stay committed when I feel so overwhelmed and anxious all the time. I worry that it won't make a difference, and it's easy to give up when things don't seem to improve quickly. How can I stay motivated when I feel like I'm not seeing results right away?",
-    "therapist": "I understand how challenging it can be to stay motivated when you're feeling overwhelmed and anxious, and it's natural to want to see results quickly. Mindfulness is often a gradual process, and small steps can lead to significant changes over time. What are some small, manageable goals you can set for yourself to help you stay motivated, even if the improvements seem small at first?",
+    "client": "I think I’ll try to be gentle with myself if difficult emotions come up. It might be helpful to take breaks and do something calming, like listening to music or going for a walk, if I start feeling overwhelmed. I’m not sure how effective it will be, but I’m willing to give it a try.",
+    "therapist": "That’s a really compassionate and thoughtful approach, and being gentle with yourself is so important. Taking breaks and engaging in calming activities like listening to music or going for a walk can be very effective in managing overwhelming emotions. It’s great that you’re willing to give these strategies a try. How do you think you’ll know when it’s time to take a break and do something calming? Are there any specific signs or feelings that might tell you it’s time?",
     "condition": "emotion_text_only",
-    "val_t": -0.1953362226486206,
-    "aro_t": 0.2228693962097168,
-    "text_emotion": "Angry"
+    "val_t": 0.07898509502410889,
+    "aro_t": 0.06361591815948486,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and I know it makes sense, but it's hard for me to see the small steps when I feel so stuck. It's like I can only focus on how far I still have to go, and that just makes me feel more overwhelmed. Setting goals sounds good, but I'm not sure what would actually work for me right now.",
-    "therapist": "I can hear how overwhelming it feels to focus on the distance you still need to travel, and it's completely understandable to feel stuck. Sometimes, just acknowledging that it's hard can be a step in itself. What if we start with something very small, like taking a few deep breaths or noticing one thing you're grateful for each day? How does that feel as a starting point?",
+    "client": "I think I’ll know it’s time to take a break when I start feeling overwhelmed or if my thoughts become too negative. Sometimes, my chest gets tight, and I feel a lump in my throat, which are usually signs that I need to step back and take care of myself. It’s not always easy to recognize these signs, but I’m trying to be more aware.",
+    "therapist": "It’s really insightful of you to recognize those physical and emotional signs that tell you it’s time to take a break. Being aware of those signals, like a tight chest or a lump in your throat, can help you take better care of yourself. It’s okay if it’s not always easy to recognize them; the important thing is that you’re making an effort to be more aware. How do you think you can remind yourself to pay attention to these signs, especially on days when you might be feeling more overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.018863558769226074,
-    "aro_t": 0.2005687952041626,
-    "text_emotion": "Tense"
+    "val_t": -0.13046634197235107,
+    "aro_t": 0.1588975191116333,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're suggesting something small, but I feel like those little steps won't really make a difference. It's hard for me to see how something like taking deep breaths or finding one thing to be grateful for can really help when I feel so stuck and overwhelmed. I guess I just need something that feels more substantial.",
-    "therapist": "I understand that those small steps might not feel substantial enough when you're feeling so stuck and overwhelmed. It's important to find something that feels meaningful to you. Have you considered trying a structured activity or a specific practice that you find engaging, even if it's just for a short time each day? Something that might help you feel a bit more in control or grounded, like a short walk, a creative hobby, or a guided meditation?",
+    "client": "I think having a reminder on my phone or a note somewhere visible could help. It’s something to look at during the day to remind me to check in with myself. On really tough days, it might be hard to remember, but having that visual cue could make a difference.",
+    "therapist": "That’s a great idea to set up a reminder on your phone or have a visible note. Having a visual cue can really make a difference, especially on those tougher days when it’s harder to remember to check in with yourself. It shows that you’re taking proactive steps to support your well-being. How do you think you’ll phrase the reminder to make it most effective and comforting for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.09275174140930176,
-    "aro_t": 0.14668142795562744,
-    "text_emotion": "Angry"
+    "val_t": 0.1689317226409912,
+    "aro_t": 0.0931391716003418,
+    "text_emotion": "Excited"
   }
 ]

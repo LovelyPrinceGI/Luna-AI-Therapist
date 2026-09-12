@@ -81,7 +81,7 @@ Multimodal inconsistency treated as a system weakness (Wang \& Wu); no therapeut
 Dissonance detection exists for sentiment analysis; never used as prompt-level feature for generation
     & Inject computed VA delta as a \emph{prompt-level dissonance signal} that upgrades therapist instructions when mismatch is high \\ \hline
 No standardized LLM-based evaluation for comparing multimodal therapist conditions
-    & GPT-4o zero-shot judge with 7-metric framework (Therapist Skills, Alliance, CTRS) across 4 conditions, 10 dialogues each \\ \bottomrule
+    & Three-layer blind evaluation (7-metric absolute grading, per-seed paired statistics, swap-consistent pairwise preference with a cross-family second judge) across 4 conditions $\times$ 4 backbones, 100 dialogues per cell \\ \bottomrule
 \end{tabular}
 \label{tab:research-gaps}
 \end{table}

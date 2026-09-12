@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately with trying to maintain a perfect GPA. Balancing my part-time job and social life at university feels nearly impossible, and I just can't shake the anxiety that I'm not doing enough. Sometimes I wonder if therapy can really help me with this pressure, or if it's just something I'll have to manage on my own.",
-    "therapist": "It sounds incredibly overwhelming to juggle your studies, work, and social life, especially with the pressure to maintain a perfect GPA. It’s completely understandable to feel anxious about whether you're doing enough. Therapy can provide support and tools to help manage that pressure—what specific thoughts or worries come to mind when you think about your current situation?",
+    "client": "I've been feeling really overwhelmed lately with trying to maintain my GPA while also juggling my part-time job and keeping a social life. It feels like I'm constantly under pressure to be perfect, and I worry that if I slip up even a little, everything will fall apart. Honestly, I'm starting to wonder if therapy can really help me manage all this stress.",
+    "therapist": "It sounds like you’re feeling really overwhelmed and under a lot of pressure to balance everything in your life right now. It’s understandable to worry about slipping up, especially when you’re striving for perfection. Let’s explore some of those thoughts together. What do you think might happen if things don’t go exactly as planned?",
     "condition": "emotion_text_only",
-    "val_t": -0.25758135318756104,
-    "aro_t": 0.1952834129333496,
+    "val_t": -0.299465537071228,
+    "aro_t": 0.15828406810760498,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I feel really overwhelmed just thinking about it. It seems like no matter how hard I try, I can't shake this worry that I'm falling behind or not living up to expectations. Sometimes, I even feel guilty for wanting to take a break or hang out with friends, like I should be studying instead. It’s hard to balance everything and still feel okay.",
-    "therapist": "It sounds like you're carrying a heavy load, and it's completely normal to feel overwhelmed when you’re worried about falling behind or not meeting expectations. It’s tough to feel guilty for wanting some downtime, especially when balancing so many responsibilities. What do you think would happen if you allowed yourself a little time to relax and recharge?",
+    "client": "If things don’t go as planned, I guess I worry that I might disappoint myself or others, and that thought is really scary. I feel like people expect so much from me, and I don't want to let them down. Sometimes, I even think that if I mess up, it means I'm not good enough, which just makes the anxiety worse.",
+    "therapist": "It sounds like the fear of disappointing yourself and others is weighing heavily on you, making it feel even scarier to think about potential mistakes. It's tough when you tie your self-worth to your performance and the expectations of those around you. Let’s take a moment to challenge that idea: what evidence do you have that a mistake would define your worth?",
     "condition": "emotion_text_only",
-    "val_t": -0.2543454170227051,
-    "aro_t": 0.25423872470855713,
+    "val_t": -0.42893409729003906,
+    "aro_t": 0.22109448909759521,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying about feeling overwhelmed, and I know I need downtime. But every time I think about relaxing, I just feel this nagging guilt that I should be doing something productive instead. It’s like I can’t really enjoy that time off because I'm constantly worried about what I’m falling behind on.",
-    "therapist": "It sounds really challenging to feel that guilt creeping in, even when you know you need a break. It can be tough to enjoy downtime when your mind is preoccupied with what feels like unfinished business. What are some small ways you might be able to give yourself permission to relax, even just for a little while?",
+    "client": "I guess when I really think about it, I don’t have solid evidence that a mistake would define my worth. I mean, I know everyone makes mistakes, and it doesn’t take away from who they are as people. But in the moment, it feels so real, like any slip-up would just confirm my fears about being inadequate. It’s hard to shake off that feeling, especially with everything else going on.",
+    "therapist": "It’s great that you can recognize that mistakes don’t define your worth, even if those feelings feel very real in the moment. It’s completely understandable to struggle with that pressure, especially when you have so much on your plate. What might be some small steps you can take to be kinder to yourself when you do face challenges?",
     "condition": "emotion_text_only",
-    "val_t": -0.3091822862625122,
-    "aro_t": 0.1147315502166748,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "I feel a bit overwhelmed just thinking about that. It’s like there’s this constant pressure to be productive, and even when I try to relax, I just hear that nagging voice telling me I should be doing something else. I don’t know if I can really give myself permission to take a break without feeling guilty about it.",
-    "therapist": "It sounds like the pressure to be productive is really weighing on you, making it difficult to find peace even in moments meant for relaxation. That nagging voice can be so persistent and harsh, and it's understandable that it makes you feel guilty about taking a break. What might it look like to challenge that voice—perhaps by considering some evidence for why taking time for yourself could actually be beneficial?",
-    "condition": "emotion_text_only",
-    "val_t": -0.2913864850997925,
-    "aro_t": 0.23427939414978027,
+    "val_t": -0.19965898990631104,
+    "aro_t": 0.1394122838973999,
     "text_emotion": "Angry"
   },
   {
-    "turn": 5,
-    "client": "I get what you're saying, but it feels really hard to challenge that voice in my head. Whenever I try to take a break, I just end up feeling guilty and like I'm wasting time. I keep thinking about all the things I should be doing instead, and it makes it tough to see how taking time for myself could ever be good for me.",
-    "therapist": "It sounds really difficult to confront that critical voice, especially when it makes you feel guilty for wanting to take a break. It’s understandable to struggle with seeing the value in downtime when it feels like there’s always something demanding your attention. What if we explored some of the positive outcomes that could come from giving yourself permission to rest, even for a short time?",
+    "turn": 4,
+    "client": "I appreciate you saying that, but I'm not really sure what those small steps could be. It feels like when I mess up, my mind just spirals into negative thoughts, and it’s hard to stop that cycle. I guess I could try to remind myself that everyone makes mistakes, but it feels so much easier said than done when I’m actually in the moment.",
+    "therapist": "I can see how those negative thoughts can take over and make it really challenging to break that cycle when you're feeling overwhelmed. It’s completely normal to struggle with self-compassion in those moments. Perhaps we can explore some specific techniques together, like grounding exercises or reframing negative thoughts. What do you think might help you in those tough moments to interrupt that spiral?",
     "condition": "emotion_text_only",
-    "val_t": -0.28577661514282227,
-    "aro_t": 0.08182358741760254,
-    "text_emotion": "Sad"
+    "val_t": -0.024413466453552246,
+    "aro_t": 0.1453026533126831,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I think grounding exercises might be a little helpful, but I’m skeptical about how effective they really are in the heat of the moment. When I’m anxious, it’s hard to remember to do anything other than just spiral. I worry that if I try to reframe my thoughts, it’ll feel forced and won’t actually change how I feel. It’s just frustrating because I want to feel better, but I don’t know if these techniques will really work for me.",
+    "therapist": "It's understandable to feel skeptical about grounding exercises and reframing thoughts, especially when anxiety feels overwhelming. It’s frustrating to want to feel better but feel uncertain about how to get there. Let’s take a moment to explore what might make these techniques feel more accessible for you. Can you think of a time when you managed to calm yourself down, even if just a little? What helped in that moment?",
+    "condition": "emotion_text_only",
+    "val_t": -0.18235743045806885,
+    "aro_t": 0.12235081195831299,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you’re saying about the importance of rest, but it feels really hard for me to see any positive outcomes. I always worry that if I take a break, I’ll fall behind on everything I need to do, and then I’ll just feel more anxious and guilty. It’s like I’m caught in this cycle where doing nothing feels like a huge risk.",
-    "therapist": "It sounds like you're really trapped in a cycle of worry, where the thought of taking a break feels like a significant risk with potential consequences. That level of anxiety can be exhausting and makes it hard to see any silver lining in resting. What if we took a moment to reflect on a time when taking a break actually helped you recharge or feel better—how did that experience impact your productivity or mood?",
+    "client": "I can think of a time when I felt a bit calmer, like when I went for a walk outside and focused on my surroundings. Just being in nature helped me breathe a little easier, but I often forget to do that when I'm stressed. I guess my concern is that it feels like such a small thing, and when I'm really anxious, I don’t always think to step away and take a break. I worry that it won't be enough to help me manage everything I’m dealing with.",
+    "therapist": "It’s wonderful that you’ve identified walking in nature as something that has helped you feel calmer before. It makes sense that in the midst of stress, it can feel challenging to remember those small but impactful actions. While it might seem like a small step, those moments of connection with nature can create a significant shift in your mindset. How might you remind yourself to take that break when you start to feel overwhelmed?",
     "condition": "emotion_text_only",
-    "val_t": -0.29147017002105713,
-    "aro_t": 0.13979125022888184,
+    "val_t": -0.15699660778045654,
+    "aro_t": 0.0672992467880249,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I guess I can think of a time when I took a break and felt better afterward, but it’s hard to connect that to how I feel now. Right now, I just feel like if I take a break, everything will fall apart. I worry that I won't be able to catch up or that I'll disappoint people if I'm not constantly working. It's hard to shake that feeling off.",
-    "therapist": "It sounds like you're feeling really stuck in that cycle of worry, where the fear of everything falling apart makes it hard to see the benefits of taking a break. It's understandable to feel that way, especially when you’re so focused on meeting expectations and not wanting to disappoint others. What if we explored some small, manageable ways to incorporate brief moments of rest into your routine—could that feel like a safer step for you?",
+    "client": "I think setting a reminder to take breaks outside could help, but I’m worried that I might just ignore it when I’m really stressed. It feels like when I’m in that overwhelmed state, I get tunnel vision and can’t think about anything other than the tasks piling up. I guess I just don’t want to set myself up for failure if I can’t actually follow through with it.",
+    "therapist": "It sounds like you’re feeling a mix of hope and concern about setting reminders for breaks, and it's understandable to worry about following through when you're in that overwhelmed state. That tunnel vision can be really powerful, making it hard to step back and take a break. Let’s explore how you can make that reminder more accessible in those moments. What if you made it part of your routine, so it feels less like an extra task and more like a natural pause in your day?",
     "condition": "emotion_text_only",
-    "val_t": -0.21006739139556885,
-    "aro_t": 0.05722522735595703,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 8,
-    "client": "I get what you're saying, but I still feel uneasy about taking breaks. It feels like if I stop for even a moment, everything will just unravel, and I’ll let everyone down. Plus, I’m not sure how I could find time for those moments of rest when my to-do list is already overwhelming.",
-    "therapist": "It sounds like you're really grappling with the fear that taking even a moment for yourself could lead to everything slipping away, and that’s a heavy burden to carry. It’s understandable to feel that way, especially with a long to-do list weighing on your mind. What if we looked at your list together to identify one small task that could be put aside for a moment, allowing you a brief moment to breathe without feeling like you’re letting anyone down?",
-    "condition": "emotion_text_only",
-    "val_t": -0.2324209213256836,
-    "aro_t": 0.08985519409179688,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 9,
-    "client": "I appreciate your understanding, but the idea of putting something aside just feels so overwhelming. I worry that if I let even one task slide, everything will pile up and I’ll disappoint others. I guess I’m just not sure how to approach that without feeling guilty or anxious about what I’m neglecting.",
-    "therapist": "It sounds like the thought of putting something aside feels really daunting, and I can understand why you’d worry about disappointing others or facing a pile-up of tasks. That sense of responsibility can be heavy and makes it tough to think about even small changes. What if we explored the idea of prioritizing just one task that feels a bit less critical—could that help ease some of that anxiety around putting something on hold?",
-    "condition": "emotion_text_only",
-    "val_t": -0.2880488634109497,
-    "aro_t": 0.17214226722717285,
+    "val_t": -0.23129522800445557,
+    "aro_t": 0.10863220691680908,
     "text_emotion": "Angry"
   },
   {
-    "turn": 10,
-    "client": "I get what you're saying, and I do feel this weight of responsibility all the time. But prioritizing one task feels like a slippery slope; if I start with one, I'll just feel guilty about all the others I'm neglecting. It’s hard to let go of that pressure, and I worry that even trying to prioritize could lead to more anxiety instead of relieving it.",
-    "therapist": "It sounds like the weight of responsibility is really challenging, and I can see how the thought of prioritizing even one task feels risky and might lead to more anxiety. It's completely understandable to feel that way, especially when you're trying to keep everything balanced. What if we took a step back and focused on how you're feeling about this pressure—what would it look like to acknowledge that weight and explore ways to lighten it, even just a little?",
+    "turn": 8,
+    "client": "I see what you mean about making it part of my routine, but I’m still hesitant. It feels like I have so much on my plate already, and adding another thing—even if it's a positive one—feels overwhelming. I worry that I’ll just end up stressing about fitting in those breaks instead of actually enjoying them. How do I make it feel natural when everything feels so chaotic?",
+    "therapist": "I can see how the idea of adding something new to your routine feels daunting, especially when everything already feels chaotic. It’s completely natural to worry about fitting in breaks and wanting to actually enjoy them rather than feeling stressed. Perhaps we can think about starting with very small, intentional moments that don’t feel like an additional task—maybe just a couple of deep breaths or stepping outside for a minute when you can. How might that feel for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.21695423126220703,
-    "aro_t": 0.07646393775939941,
-    "text_emotion": "Sad"
+    "val_t": -0.05691730976104736,
+    "aro_t": 0.23767638206481934,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 9,
+    "client": "I think starting with small moments sounds a bit more manageable, but I still worry that I'll forget or dismiss those opportunities when I'm busy. Deep breaths feel like a good start, but I’m not sure they’ll be enough to pull me out of that overwhelming mindset. It feels like I need something more substantial to really make a difference, but I'm not sure what that would be.",
+    "therapist": "It’s great that you’re open to starting with small moments, but I understand the concern about forgetting or dismissing those opportunities when you’re feeling busy and overwhelmed. It can feel frustrating when it seems like deep breaths might not be enough to shift your mindset. What if we brainstorm some more substantial strategies that could fit into your routine without adding pressure? What kinds of activities or practices have you found helpful in the past that might serve as a more meaningful break for you?",
+    "condition": "emotion_text_only",
+    "val_t": 0.005700945854187012,
+    "aro_t": 0.07064259052276611,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "I appreciate you wanting to brainstorm more substantial strategies, but I’m still feeling hesitant. It’s hard to think of activities that would fit into my routine without feeling like another chore. I know I’ve enjoyed listening to music or drawing in the past, but when I’m busy and stressed, I tend to push those things aside, thinking I don’t have time for them. It feels like I’m stuck in this cycle where I know what might help, but I can't seem to make myself do it.",
+    "therapist": "It sounds like you’re feeling stuck in a frustrating cycle where you know what might help, but the stress and busyness push those enjoyable activities aside. It’s completely understandable to hesitate about adding anything else to your routine when it feels like a chore. Let’s explore how you might gently integrate music or drawing into your day without it feeling like pressure. Could you think of a way to make those activities more accessible, perhaps by setting aside just a few minutes during a break or incorporating them into something you already do?",
+    "condition": "emotion_text_only",
+    "val_t": -0.1635075807571411,
+    "aro_t": 0.10019946098327637,
+    "text_emotion": "Angry"
   }
 ]

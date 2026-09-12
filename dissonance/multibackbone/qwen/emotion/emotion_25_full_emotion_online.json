@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately. It's my final semester of college, and everyone around me is talking about their study plans and how they're going to ace their exams. It's making me feel like I need to do the same, but I'm just so stressed and unsure if I can keep up. I don't even know if talking about it will really help.",
-    "therapist": "Hey there, it sounds like you're really feeling the pressure right now, and that's completely understandable. It's natural to feel stressed when everyone around you is focused on their study plans and exams. How are you coping with these feelings, and do you think there are any specific aspects of your situation that are making you feel particularly unsure?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. It's my final semester, and everyone around me is talking about their study plans and how they're going to ace everything. It's making me feel like I need to do the same, but I just can't shake this feeling of anxiety and inadequacy. I know we talked about this before, but I’m not sure if therapy can really help with something as specific as this.",
+    "therapist": "Hi there, it sounds like you're feeling a lot of pressure and anxiety right now, and that's completely understandable given the situation. It's normal to feel overwhelmed when everyone around you seems to have it all together. Can you tell me a bit more about what specifically triggers these feelings of inadequacy?",
     "condition": "emotion_text_only",
-    "val_t": -0.20332908630371094,
-    "aro_t": 0.29641103744506836,
+    "val_t": -0.14399278163909912,
+    "aro_t": 0.2661060094833374,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's been really tough. I feel like I'm the only one who isn't totally on top of things, and it makes me doubt myself a lot. I guess the biggest thing is that I don't have a clear plan like some of my friends do, and that just makes me feel lost and behind.",
-    "therapist": "It sounds really tough to be in that situation, especially when you're feeling like you're the only one struggling. It's completely normal to doubt yourself when you see others with clear plans, but remember that everyone's journey is different. What do you think might help you feel more grounded and less behind, even if you don't have everything figured out yet?",
+    "client": "It's mostly the conversations in class and on social media. When I see my classmates posting about their study schedules and how they're nailing their exams, it makes me feel like I’m falling behind. I start thinking that I should be more organized and driven, but I just can't seem to get there. It’s like I’m always playing catch-up, and it’s really getting to me.",
+    "therapist": "It sounds like those conversations and posts are really hitting a nerve and making you feel like you're not measuring up. It's tough when it feels like everyone else is ahead of the game. What are some of the thoughts that go through your mind when you start feeling this way?",
     "condition": "emotion_text_only",
-    "val_t": -0.28980886936187744,
-    "aro_t": 0.10601508617401123,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I appreciate that, Luna. It's just hard because I see my friends moving forward with their careers and relationships, and I feel like I'm stuck. I don't know what would make me feel more grounded; it feels like I'm always playing catch-up. Maybe I just need to figure out what I really want, but that seems so overwhelming.",
-    "therapist": "I can really understand how frustrating and overwhelming it must feel to see others moving forward while you're feeling stuck. It's natural to want clarity, but figuring out what you want can be a complex process. What are some small steps or areas you might feel more comfortable exploring to start finding direction, even if it's just a tiny step forward?",
-    "condition": "emotion_text_only",
-    "val_t": -0.06002163887023926,
-    "aro_t": 0.22389757633209229,
+    "val_t": -0.0215073823928833,
+    "aro_t": 0.18570876121520996,
     "text_emotion": "Tense"
   },
   {
-    "turn": 4,
-    "client": "I appreciate that, Luna. It's just really hard to pinpoint what I want when everything feels so uncertain. I guess I could try writing down some things I'm interested in or have been curious about, but I worry that I'll just end up overthinking it and getting stuck in my head again.",
-    "therapist": "It's completely understandable to feel uncertain and worry about overthinking things. Starting with small steps, like writing down your interests, can be a gentle way to explore without overwhelming yourself. What do you think might help you stay focused and avoid getting too caught up in overthinking as you try this out?",
+    "turn": 3,
+    "client": "I start thinking that I’m not as smart or capable as everyone else. It’s like I’m the only one who’s struggling, and that makes me feel really isolated and guilty. I worry that I’m letting myself and my family down, which just adds to the anxiety.",
+    "therapist": "It sounds really tough to be going through this, and those feelings of inadequacy and isolation can be really heavy. It's important to remember that everyone has their own journey and struggles, even if they don't show it. What are some of the thoughts or beliefs that come up for you when you start feeling guilty about not meeting your own or others' expectations?",
     "condition": "emotion_text_only",
-    "val_t": -0.1081627607345581,
-    "aro_t": 0.10479843616485596,
-    "text_emotion": "Angry"
+    "val_t": -0.4379690885543823,
+    "aro_t": 0.15790808200836182,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I guess I start to believe that I’m not trying hard enough, and that if I just worked a bit more, I could be where they are. But then I feel guilty because I know I’m already doing my best, and it’s just not enough. It’s a vicious cycle, and I don’t know how to break it.",
+    "therapist": "It sounds like you're caught in a challenging cycle of self-doubt and guilt, and that can be really tough to navigate. It’s natural to want to compare yourself to others, but it’s important to recognize and validate the effort you’re already putting in. What are some things that you've been doing that you're proud of, even if they seem small? How might you start to break this cycle and give yourself some credit?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3306642770767212,
+    "aro_t": 0.1185067892074585,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate the suggestion, but I feel like writing down my interests might just make me overthink even more. I tend to second-guess everything I write, and then I end up feeling frustrated and stuck. It's hard for me to trust that this will actually help.",
-    "therapist": "I understand that writing down your interests can feel like it might lead to more overthinking, especially if you tend to second-guess yourself. It's important to find a method that feels manageable and less stressful. What about starting with a more relaxed activity, like a short walk or a conversation with a friend, to see if that helps you gain some clarity without the pressure? How do you think that might feel?",
+    "client": "I appreciate that, but it’s hard to see the things I’m proud of when I feel like I’m constantly falling short. I’ve been trying to keep up with my assignments and even started a study group, but it feels like it’s never enough. I guess I’m just not sure how to stop comparing myself to others and feel good about what I’m doing.",
+    "therapist": "It’s completely understandable to feel that way, especially when you’re putting in so much effort and still feeling like it’s not enough. It’s tough to break the cycle of comparison, but recognizing the things you are doing well, like starting a study group, is a great step. How might you start to shift your focus to the progress you’ve made and the strengths you bring to your studies, rather than what you feel you’re lacking?",
     "condition": "emotion_text_only",
-    "val_t": -0.20412445068359375,
-    "aro_t": 0.11335480213165283,
-    "text_emotion": "Angry"
+    "val_t": -0.0033190250396728516,
+    "aro_t": 0.15755009651184082,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate the suggestion, but I'm not sure a walk or a conversation will really help me figure out what I'm interested in. It feels like I need something more structured to actually make progress, but at the same time, I worry that any structure will just make me overthink it. It's a tough balance to find.",
-    "therapist": "I hear you, and it's completely understandable to feel stuck between wanting structure and fearing that it might lead to overthinking. Finding that balance can be challenging. One approach could be to start with a very light structure, like setting aside a small, specific time each day to explore one of your interests without any pressure to make big decisions. How does that sound? Could you try setting aside just 10-15 minutes each day to do something you enjoy or learn something new, and see how it feels?",
+    "client": "I understand what you’re saying, but it’s still really hard to shift that focus. I feel like I’m always looking at what others are doing and measuring myself against them. It’s tough to see my own progress when I’m so focused on what I’m not achieving. How do I even start to change that mindset?",
+    "therapist": "I can see how challenging it is to shift that mindset, and it’s completely normal to feel stuck. It takes time and practice to start recognizing and valuing your own progress. One approach could be to set small, achievable goals for yourself and celebrate when you meet them, no matter how small they seem. What are some small victories or accomplishments you’ve had recently that you could acknowledge and feel proud of?",
     "condition": "emotion_text_only",
-    "val_t": -0.059989333152770996,
-    "aro_t": 0.036635518074035645,
+    "val_t": -0.08000171184539795,
+    "aro_t": 0.07175898551940918,
     "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate the suggestion, but I'm still a bit hesitant. It's hard because I worry that even a small amount of structure might start to feel like a chore, and I don't want to add more stress to my life. I'll try to set aside some time, but I'm not sure how consistent I'll be with it.",
-    "therapist": "I completely understand your hesitation; it's important to find something that doesn't add to your stress. Starting with a small, flexible commitment can be a good way to explore your interests without it feeling like a chore. How about trying to set aside that time when you feel most relaxed or energized, even if it's just a few times a week? This way, it might feel more like a break and less like an obligation. How does that sound to you?",
+    "client": "I get what you’re saying about small goals, but it’s hard to feel proud of anything when I’m so focused on what I’m not doing. I guess finishing my last assignment on time was a small win, but it feels insignificant compared to what everyone else is achieving. I’m just not sure if celebrating these small things will really make a difference.",
+    "therapist": "I can understand how finishing your last assignment on time might feel insignificant when you're comparing yourself to others, but it's still a real accomplishment. Celebrating these small wins can help build your confidence over time, even if it doesn’t feel like much right now. What do you think might help you start to see the value in these smaller achievements, despite the comparisons?",
     "condition": "emotion_text_only",
-    "val_t": -0.05644345283508301,
-    "aro_t": 0.007163882255554199,
+    "val_t": 0.054789066314697266,
+    "aro_t": 0.13788926601409912,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate the suggestion, but I still feel a bit resistant. It's hard for me to find the energy to do anything, even if it's just a few times a week. I often end up feeling guilty when I can't follow through, which just makes me more anxious and isolated.",
-    "therapist": "I can really understand how challenging it is to find the energy to do anything, especially when you're already feeling so drained. It's completely normal to feel guilty when you can't follow through, but it's important to be kind to yourself and recognize that it's okay to take things at your own pace. What if we focused on just one small, gentle activity that you might enjoy, without setting a strict schedule? Something that feels more like a treat than a task. How does that sound?",
+    "client": "I appreciate that, but it’s hard to see the value in these small wins when I feel like I’m always behind. I think what might help is having a way to track my progress more visibly, like a journal or a checklist, so I can see what I’m actually accomplishing. But it’s still tough to shake the feeling that it’s not enough.",
+    "therapist": "It sounds like you’re taking a constructive step by considering a way to track your progress more visibly, which can be really helpful. Having a journal or checklist can provide a tangible way to see your accomplishments, no matter how small. How might you start implementing this, and what do you think might make it feel more meaningful to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2749389410018921,
-    "aro_t": 0.05574464797973633,
-    "text_emotion": "Sad"
+    "val_t": 0.02102839946746826,
+    "aro_t": 0.06851696968078613,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It does sound a bit more manageable, but I still feel a lot of resistance. I worry that even a small activity might end up feeling like another thing I can't do, and that could just add to my guilt. How do I make sure I don't fall into that trap?",
-    "therapist": "I understand that even the thought of adding another activity, no matter how small, can feel daunting and might lead to more guilt. It's important to approach this with self-compassion and flexibility. Instead of setting a specific activity, how about we focus on noticing and acknowledging the moments when you do something that brings you even a tiny bit of joy or relief, without placing any expectations on yourself? This way, you can celebrate the small things without the pressure. What do you think about that approach?",
+    "client": "I like the idea of a journal or checklist, but I worry that I won’t stick to it. I’ve tried journaling before, and it just felt like one more thing to keep up with. Maybe if I could find a way to make it less of a chore and more of a routine, it might work. I’m just not sure how to do that.",
+    "therapist": "It’s totally understandable to worry about sticking to a new routine, especially when you’ve had similar experiences before. Finding a way to make it feel less like a chore and more like a natural part of your day can make a big difference. What are some things you enjoy or find relaxing that you could pair with your journaling or checklist to make it feel more rewarding?",
     "condition": "emotion_text_only",
-    "val_t": -0.21158826351165771,
-    "aro_t": 0.1346985101699829,
-    "text_emotion": "Angry"
+    "val_t": -0.045877695083618164,
+    "aro_t": 0.02067863941192627,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I like the idea of focusing on the small moments of joy, but I worry that I might not even recognize them when they happen. It feels like I'm so used to feeling anxious and guilty that I might miss those moments entirely. How can I make sure I don't overlook them?",
-    "therapist": "It's completely understandable to worry about missing those moments of joy, especially when you're feeling anxious and guilty a lot of the time. One helpful approach could be to set a gentle reminder for yourself, maybe a few times a day, to pause and check in with how you're feeling. This can help you become more aware of those small, positive moments. What do you think about setting a simple reminder, like a notification on your phone, to take a moment to reflect on what you're experiencing right then?",
+    "client": "I really like the idea of pairing it with something I enjoy. Maybe I could journal while I have a cup of tea or listen to some calming music. That might make it feel less like a task and more like a relaxing part of my day. I just hope I can stay consistent with it.",
+    "therapist": "That's a great idea! Pairing journaling with something you enjoy, like having a cup of tea or listening to calming music, can definitely make it feel more like a relaxing ritual. It sounds like you're taking a positive step toward making this a more consistent part of your routine. What do you think might help you stay consistent with this new habit, and how can you remind yourself to make time for it?",
     "condition": "emotion_text_only",
-    "val_t": -0.16340839862823486,
-    "aro_t": 0.20977246761322021,
-    "text_emotion": "Angry"
+    "val_t": 0.25612592697143555,
+    "aro_t": 0.09091651439666748,
+    "text_emotion": "Happy"
   }
 ]

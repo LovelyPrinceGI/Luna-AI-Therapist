@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just don't know how to be around my family anymore since Grandma passed. Every time we get together, all I can think about is how she should be there with us. It makes me feel guilty when I see everyone else laughing and having a good time - like we're forgetting her or something.",
-    "therapist": "It sounds like you're carrying a heavy mix of grief and guilt when you're with your family, like you're caught between missing your grandmother and feeling conflicted about moving forward. Many people struggle with this tension after a loss—like joy and sorrow can't coexist, though they often do. What do you think your grandmother would want for you and your family during these gatherings?",
+    "client": "Ever since my grandmother passed away last month, family gatherings have been really hard for me. Everyone else seems to be moving on, but her absence feels so heavy, like there's this huge void that no one else notices. I’m not sure if talking about it will change anything—it’s not like it’ll bring her back.",
+    "therapist": "I hear how deeply you're feeling your grandmother's absence, especially when others seem to be moving forward while you're carrying this weight. It makes sense that family gatherings feel different now—we often notice these empty spaces most acutely during traditions and togetherness. \n\nWhat thoughts come up for you when you notice that difference between your experience and others'?",
     "condition": "emotion_text_only",
-    "val_t": -0.060758233070373535,
-    "aro_t": 0.17204773426055908,
-    "text_emotion": "Tense"
+    "val_t": -0.19130516052246094,
+    "aro_t": 0.038692355155944824,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I know she'd want us to be happy together, but that just makes me feel worse when we're all sitting there awkwardly. It's like we're failing her by not being the close family she wanted us to be. And then I feel guilty for not being able to fix it.",
-    "therapist": "It sounds like you're carrying not just grief, but also the weight of trying to fulfill your grandmother's hopes for the family—which feels overwhelming right now. When you notice these moments of awkwardness, what kinds of thoughts tend to go through your mind about what's causing the distance?",
+    "client": "I just keep thinking \"why aren't they as sad as I am?\" It makes me angry sometimes, like maybe they didn't love her as much. But then I feel guilty for judging them. Mostly I just sit there feeling like I'm the only one still stuck in this grief.",
+    "therapist": "It sounds like you're carrying some really complex feelings—anger, guilt, and deep sadness—all swirling together in this grief. That sense of being \"stuck\" while others move on can feel so isolating. \n\nI'm curious—have you noticed if the anger and guilt tend to follow any particular pattern when you're at these gatherings?",
     "condition": "emotion_text_only",
-    "val_t": -0.3934776782989502,
-    "aro_t": 0.07637500762939453,
+    "val_t": -0.49447929859161377,
+    "aro_t": 0.15498769283294678,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I keep thinking that if I were more put together, I wouldn't be letting her down like this. The distance makes me feel like I'm failing at being the strong one she always said I should be. But trying to live up to that just makes me more anxious and withdrawn.",
-    "therapist": "It sounds like you're holding yourself to such high expectations—like you need to be both grieving and holding everything together perfectly, which is understandably exhausting. When you notice yourself withdrawing, what do you think would happen if you allowed yourself to show the family that you're struggling, just as you are?",
+    "client": "It usually happens when someone brings up a happy memory of her and everyone laughs. I get this tight feeling in my chest like \"how can they laugh when she's gone?\" But then I remember she would have wanted us to laugh, and that just makes me feel worse for being angry. It's all so confusing.",
+    "therapist": "It sounds like you're caught in a painful cycle where happy memories trigger anger, then guilt, and then confusion—that tightness in your chest is your grief speaking loudly. And while you know intellectually what your grandmother would have wanted, that knowledge doesn't automatically ease the raw feelings, does it? \n\nWhat happens if you allow yourself to sit with just one of those feelings at a time—say, the sadness—without judging it or comparing it to others' reactions?",
     "condition": "emotion_text_only",
-    "val_t": -0.2858079671859741,
-    "aro_t": 0.12631571292877197,
+    "val_t": -0.13998067378997803,
+    "aro_t": 0.24266064167022705,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but I just can't shake this feeling that if I show how much I'm struggling, I'll let everyone down. They're all looking to me to be the strong one right now, especially my younger siblings. If I fall apart, who's going to take care of everything? \n\nIt's not that I don't want to be honest about my grief, but I'm terrified that opening up will make everything worse. Like I'll just be adding to their pain instead of helping them through it.",
-    "therapist": "It sounds like you're carrying this immense responsibility while also suppressing your own grief—that must feel so heavy and isolating. You're describing a real dilemma: wanting to honor your own pain while fearing that expressing it would burden others. \n\nWhat do you imagine might happen if, just for one moment, you allowed yourself to share even a small part of what you're carrying with someone who cares about you?",
+    "client": "I've tried that, but the sadness just overwhelms me. It feels like if I really let myself feel it, I'll completely fall apart in front of everyone. And that makes me feel weak—like I should be handling this better by now. But trying to push it away isn't working either.",
+    "therapist": "It sounds like you're caught between two painful places—the fear of being overwhelmed by grief if you let it in, and the exhaustion of trying to keep it contained. That \"should\" about handling it better adds another layer of weight to what's already so heavy. \n\nWhat would it feel like to gently challenge that thought—that grieving deeply means you're weak or not handling it well?",
     "condition": "emotion_text_only",
-    "val_t": -0.4030301570892334,
-    "aro_t": 0.2001591920852661,
+    "val_t": -0.3681451082229614,
+    "aro_t": 0.21992003917694092,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I don't know...every time I think about opening up, I just picture people getting uncomfortable or changing the subject. My sister tried to ask how I was doing last week and I immediately said \"fine\" and asked about her kids instead. It's like my feelings get stuck in my throat. \n\nWhat if I do share something and they don't know what to say? Then I'll just feel worse for making them awkward.",
-    "therapist": "It sounds like there's real fear beneath this—not just about burdening others, but about being met with silence or discomfort when you're already feeling so vulnerable. That hesitation makes complete sense when you've taken on this role of being the strong one for so long. \n\nWhen you changed the subject with your sister, what was the smallest part of you wishing you could have said instead?",
+    "client": "I guess I've never thought about it that way. When I see others being strong for their families, I admire them—I want to be that person too. But honestly, pretending to be okay is exhausting. Maybe there's no right way to grieve? But that thought scares me—how do I know if I'm not making things worse for myself?",
+    "therapist": "It sounds like you're starting to question some of those beliefs about how grief \"should\" look, even though that uncertainty feels a bit unsettling. That exhaustion you describe from trying to maintain a certain image—that's your system telling you something important. \n\nWhat would it feel like to extend the same compassion you have for others' grieving processes to your own experience right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.2818572521209717,
-    "aro_t": 0.09310603141784668,
-    "text_emotion": "Sad"
+    "val_t": -0.2697099447250366,
+    "aro_t": 0.23285448551177979,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess part of me wanted to tell her how exhausted I feel from always being the one who has it together. But I stopped myself because I didn't want to see that look of pity in her eyes - like I'm suddenly weak or something. It's stupid because I know she cares, but the idea of her seeing me differently makes my chest feel tight. \n\nI don't know if I can just start being vulnerable out of nowhere like that. What if it changes how people see me permanently?",
-    "therapist": "That tightness in your chest tells me how deeply you fear losing the identity you've built as the strong, reliable one—it's not just about the moment of sharing, but about who you might become in others' eyes afterward. Change is scary, especially when it involves showing parts of yourself that feel raw and unfamiliar.  \n\nWhat would it feel like to test the waters with just one small, honest sentence next time—like \"I'm having a tough day missing Grandma\"—and see how your sister responds? You could still protect yourself while gently exploring what happens when you let a little truth through.",
+    "client": "It's hard to imagine being compassionate with myself right now—it feels like I'm failing at grieving \"properly.\" But I guess I wouldn't judge anyone else this harshly. Maybe I'm just scared that if I let myself feel all this, I'll never stop crying. That thought terrifies me—what if I can't pull myself together again?",
+    "therapist": "It sounds like there's a lot of fear wrapped up in your grief—fear of losing control, fear of getting \"stuck\" in it, and fear of not grieving \"right.\" That self-judgment feels so heavy, doesn't it? Yet you're already noticing something important—that you wouldn't hold others to these same rigid standards. \n\nWhat would it feel like to take just one small step toward treating yourself with that same gentleness you'd offer a friend in your position?",
     "condition": "emotion_text_only",
-    "val_t": -0.3334578275680542,
-    "aro_t": 0.25215578079223633,
+    "val_t": -0.40932297706604004,
+    "aro_t": 0.22747933864593506,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but I just don't know if I can risk it. What if my sister brushes it off or doesn't know how to respond? Then I'll feel even worse for showing vulnerability. That tightness in my chest gets worse just thinking about it. \n\nAnd honestly, I don't even know if I'd recognize myself if I stopped being the strong one. Who am I without that role? It's scary to imagine.",
-    "therapist": "It sounds like you're grappling with two big fears here: the fear of how others might respond and the fear of losing a core part of who you believe yourself to be. That tightness in your chest tells me how much this feels like stepping into unknown territory—it’s not just about sharing, but about redefining yourself in a way that feels unsettling.  \n\nWhat would it feel like to start small—maybe sharing just a tiny part of your grief with someone you trust, not to abandon your role entirely, but to see if there’s room for both strength and vulnerability in how you show up?",
+    "client": "I guess I could try to let myself cry more when I'm alone, instead of always holding it in. But it still feels scary—like once I start, I might not be able to stop. And part of me worries that if I let myself feel all this, I'll just sink deeper into sadness and never come back up. Is that irrational?",
+    "therapist": "It makes complete sense that this feels scary—grief can make the sadness feel bottomless when we first let ourselves fully feel it. But I notice you're already showing such courage in considering this step, even with all these understandable fears.  \n\nThat worry about sinking deeper—could we explore what \"coming back up\" might look like for you? What small signs might show you that the sadness isn't endless after all?",
     "condition": "emotion_text_only",
-    "val_t": -0.30999791622161865,
-    "aro_t": 0.16635024547576904,
-    "text_emotion": "Angry"
+    "val_t": -0.4518399238586426,
+    "aro_t": 0.1831434965133667,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about starting small, but the few times I've tried opening up even a little, people either say the wrong thing or get weirdly uncomfortable. It just makes me feel worse, like I'm burdening them. And honestly? I'm scared that if I'm not the strong one anymore, people won't know how to handle me.",
-    "therapist": "It makes complete sense that you're hesitant after those experiences—when you've mustered the courage to share only to feel disappointed or like a burden, no wonder it feels safer to keep protecting yourself. That fear of \"If I'm not strong, who will I be?\" runs deep when it's been your role for so long.  \n\nWhat do you imagine might be different if you approached this as an experiment rather than an all-or-nothing shift—maybe sharing something small with someone who's shown they can handle some vulnerability before?",
+    "client": "Maybe \"coming back up\" would look like being able to look at her photos without immediately tearing up. But even that feels impossible right now—I still avoid her favorite chair in the living room because it hurts too much. I'm afraid that if I start allowing these feelings, I'll never reach that point of being able to remember her without pain.",
+    "therapist": "It sounds like you're holding onto a lot of fear about what might happen if you truly allow yourself to feel this grief—like it might keep you from ever reaching a place where memories feel more bittersweet than painful. That avoidance of her chair and photos shows how much you're trying to protect yourself from that hurt. \n\nCould we explore what it might look like to take one small, gentle step toward those memories—maybe spending just a moment near her chair or looking at one photo—while reminding yourself that you can pause or step away whenever you need to?",
     "condition": "emotion_text_only",
-    "val_t": -0.345194935798645,
-    "aro_t": 0.16590464115142822,
+    "val_t": -0.2971775531768799,
+    "aro_t": 0.1769704818725586,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "The idea of starting small makes sense in theory, but I don't trust myself to judge what's \"small enough\" to share. Last time I tried opening up about something minor, it somehow spiraled into me oversharing and then feeling humiliated afterward. I keep thinking—what if my version of small is still too much for people?",
-    "therapist": "It sounds like that past experience of oversharing left a lasting mark—like it’s hard to trust yourself to gauge what’s \"safe\" to share now. That fear of crossing an invisible line can feel paralyzing, especially when you’re already carrying so much.  \n\nWhat would it feel like to start with something concrete—like sharing one specific memory of your grandmother—and see how it lands, rather than trying to measure the \"size\" of what you’re sharing?",
+    "client": "I could try sitting near her chair for just a minute, but my hands are shaking just thinking about it. What if all the sadness comes rushing out and I can't handle it? Part of me thinks I should wait until I feel stronger, but I've been telling myself that for weeks and it's not getting any easier.",
+    "therapist": "It sounds like you're feeling both the pull to try this gentle step and the very real fear of being overwhelmed—those shaking hands show just how much courage this would take. While the \"wait until you're stronger\" thought makes sense, I notice you're also recognizing that avoidance hasn't made it easier either. \n\nWhat would feel like enough support to try this—whether that's planning who to call afterward, setting a timer, or having some comfort nearby?",
     "condition": "emotion_text_only",
-    "val_t": -0.17998230457305908,
-    "aro_t": 0.1283094882965088,
-    "text_emotion": "Angry"
+    "val_t": -0.3265916109085083,
+    "aro_t": 0.13338947296142578,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but even thinking about sharing a specific memory makes me feel panicky. What if I pick the wrong one and it makes people uncomfortable? Last time I talked about my grandma's last days, my friend changed the subject really fast. \n\nIt's not just about measuring the \"size\" - I feel like I don't even know what kinds of memories are okay to share anymore. Maybe some things should just stay private.",
-    "therapist": "It sounds like that moment with your friend really stuck with you—like now there's this extra layer of second-guessing every memory before you share it. That uncertainty must feel isolating when grief already makes the world feel less predictable.  \n\nWhat if, instead of aiming to share with others right away, you tried writing down one memory just for yourself first? That way, you could explore what feels safe to express without worrying about anyone else's reaction. How does that sound to you?",
+    "client": "Maybe I could keep my phone nearby to text my sister afterward—she's been pretty understanding about all this. But I'm still scared that once I let myself feel this, I'll somehow lose the memory of how she was when she was alive and only remember the sadness. That probably doesn't make sense, but that's how it feels.",
+    "therapist": "It sounds like there's a deep fear that fully feeling your grief might somehow overshadow the beautiful memories of your grandmother—that's such a tender and understandable worry. Having your sister available afterward sounds like a thoughtful way to ground yourself in support if things feel overwhelming.  \n\nWhat do you think about starting with something small, like just sitting near her chair while holding onto one specific happy memory of her—could that help keep that positive connection present while you take this step?",
     "condition": "emotion_text_only",
-    "val_t": -0.10891997814178467,
-    "aro_t": 0.1294766664505005,
+    "val_t": -0.2958106994628906,
+    "aro_t": 0.1532994508743286,
     "text_emotion": "Angry"
   }
 ]

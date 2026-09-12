@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed since starting my new job in marketing. The pressure to meet tight deadlines is intense, and I can't shake the feeling that I'm inadequate compared to my more experienced colleagues. I sometimes wonder if therapy can actually help me navigate these feelings, or if I'm just wasting my time.",
-    "therapist": "It's completely understandable to feel overwhelmed in a new role, especially with the added pressure of tight deadlines. Your feelings of inadequacy are valid, and it's important to recognize that many people experience similar thoughts in new environments. What specific aspects of your job or feelings do you think might benefit from exploring further in therapy?",
+    "client": "I've been feeling really overwhelmed since starting my new job in marketing. The pressure to meet tight deadlines is intense, and I can't shake this feeling of inadequacy compared to my more experienced colleagues. Sometimes, I wonder if therapy can even help me with this kind of anxiety.",
+    "therapist": "It sounds like you're feeling a lot of pressure and self-doubt in your new role, which is completely understandable given the circumstances. It's important to acknowledge those feelings of inadequacy and overwhelm—you're not alone in experiencing them. How do you think your thoughts about your colleagues might be influencing how you view your own abilities?",
     "condition": "baseline",
-    "val_t": -0.2637209892272949,
-    "aro_t": 0.2022944688796997,
+    "val_t": -0.2476133108139038,
+    "aro_t": 0.2545318603515625,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess I appreciate that you understand how overwhelming it can be. It just feels like no matter how hard I try, I’m always falling short of expectations. I worry that if I voice my concerns or ask for help, people will think I'm incompetent, which just adds to the pressure I already feel.",
-    "therapist": "It's really brave of you to share those feelings of pressure and fear of judgment. It’s common to worry about how others perceive us, especially in a competitive environment. What do you think might happen if you were to voice your concerns or ask for help?",
+    "client": "I guess I do tend to compare myself a lot to my colleagues. I see how confident they are, and it just makes me feel even more out of place. I worry that if I can't keep up, it will show that I'm not good enough for this job. It's hard to see my own strengths when I'm constantly measuring myself against others.",
+    "therapist": "It's really insightful that you've recognized the impact of comparing yourself to your colleagues. That constant measurement can make it difficult to appreciate your own unique strengths and contributions. What do you think might happen if you shifted your focus from comparison to reflecting on your own achievements and qualities?",
     "condition": "baseline",
-    "val_t": -0.19218766689300537,
-    "aro_t": 0.16367769241333008,
-    "text_emotion": "Angry"
+    "val_t": -0.2366727590560913,
+    "aro_t": 0.03586268424987793,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying it's brave, but honestly, I feel stuck. Voicing my concerns feels like opening a floodgate, and I'm scared of what people might think. I worry they'll see me as weak or incapable, which just adds to the pressure I already feel to keep it all together.",
-    "therapist": "Feeling stuck and fearing the judgment of others can be incredibly heavy to carry. It’s understandable to worry about how vulnerability might be perceived, but many find that expressing their struggles can lead to support and connection. What small step do you think you could take to test the waters of vulnerability, even in a low-stakes situation?",
+    "client": "I guess it could be helpful to focus on my own achievements, but that feels a bit daunting. I often struggle to see what I've done well because I'm so caught up in the negative feelings. It’s like I have this mental block that makes it hard to celebrate even the small wins, especially when I feel like I’m still falling short in other areas.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of celebrating your achievements when negative feelings are so strong. That mental block can be tough to navigate, but recognizing it is a great first step. What if we tried to identify one small win together that you might be able to acknowledge, even just a little?",
     "condition": "baseline",
-    "val_t": -0.2551811933517456,
-    "aro_t": 0.23378515243530273,
-    "text_emotion": "Angry"
+    "val_t": -0.2516937255859375,
+    "aro_t": 0.08756351470947266,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, and it makes sense that being open could bring support. But honestly, I find it really hard to trust that people will respond positively. I worry they’ll judge me or think I’m weak, and that just makes me want to shut down even more. I don't know if I can take that step, even in a low-stakes situation.",
-    "therapist": "It’s completely understandable to feel hesitant about trusting others, especially when you fear judgment. Your feelings of wanting to shut down are valid, and it's okay to take your time to navigate this. What if you considered a small, manageable way to practice sharing your feelings with someone you feel a little safer with? What might that look like for you?",
+    "client": "I appreciate you wanting to help me find a small win, but I’m really struggling to think of anything that feels significant enough to count. It feels like everything I do is overshadowed by the anxiety of not being good enough. I worry that if I focus on a small win, it might just feel like I’m lying to myself about my actual performance.",
+    "therapist": "It's completely valid to feel that way, and I appreciate your honesty about it. It can be hard to recognize any positives when anxiety is so overwhelming, and it's understandable to worry about feeling inauthentic. How about we try to reframe this a bit—what if we looked for something neutral, like a task you completed, rather than focusing on whether it feels significant or not? Would that feel more manageable for you?",
     "condition": "baseline",
-    "val_t": -0.2082836627960205,
-    "aro_t": 0.13797688484191895,
+    "val_t": -0.1807030439376831,
+    "aro_t": 0.22273778915405273,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you saying that my feelings are valid, but the idea of sharing anything with someone feels really daunting. I often worry that if I open up, they’ll judge me or think I’m overreacting. It’s hard to figure out who I could even trust enough to try this with, and honestly, I'm not sure it would make a difference.",
-    "therapist": "It’s completely natural to feel daunted by the idea of opening up, especially when trust is a concern. Your worries about being judged or dismissed are very real, and it’s okay to feel uncertain about who you might confide in. What if we explored some qualities you value in a supportive person? This might help you identify someone you could feel more comfortable sharing with. What do you think?",
+    "client": "I appreciate you suggesting we look for something more neutral. It does feel a bit less pressure-filled, but I'm still not sure what to focus on. I mean, I might have finished a report or helped a coworker, but those just feel like basics to me—nothing special. I struggle to see how those small tasks could count as wins when there’s so much more I feel I should be doing.",
+    "therapist": "It’s great to hear that the idea of focusing on something neutral feels a bit less pressurized for you. It’s common to downplay the importance of everyday tasks, especially when we set high expectations for ourselves. What if we approached it from a different angle—how did completing that report or helping a coworker make you feel in that moment? Sometimes, recognizing the effort and the value in those actions can help shift our perspective.",
     "condition": "baseline",
-    "val_t": -0.10972881317138672,
-    "aro_t": 0.1275709867477417,
-    "text_emotion": "Angry"
+    "val_t": -0.024593472480773926,
+    "aro_t": 0.0613400936126709,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I understand what you're saying, and I do want to find someone I can trust, but the idea of sharing my feelings still feels overwhelming. I worry that even if I identify those qualities, I might still end up feeling judged or not understood. It’s hard for me to imagine anyone being able to really support me in the way I need.",
-    "therapist": "It's completely understandable to feel overwhelmed by the prospect of sharing your feelings, especially when trust is such a concern. It’s natural to fear judgment, and it’s okay to take your time in finding the right person who can truly support you. What do you think might help you feel more secure in the process of identifying someone to talk to? Would it be helpful to think about what support would look like for you?",
+    "client": "I guess when I think about it, completing the report made me feel a little relieved, like I could breathe for a second. Helping my coworker also felt nice because it gave me a sense of connection, even if it was brief. But still, those moments feel small and insignificant compared to the weight of everything else I’m dealing with, so I’m not sure they really matter in the grand scheme of things.",
+    "therapist": "It's wonderful that you were able to recognize those moments of relief and connection—they're actually quite meaningful in the midst of everything you're dealing with. While they may seem small compared to the bigger challenges, those feelings of relief and connection can help build a sense of resilience over time. How might acknowledging these little victories change your perspective on your overall experience at work?",
     "condition": "baseline",
-    "val_t": -0.13087427616119385,
-    "aro_t": 0.17074799537658691,
-    "text_emotion": "Angry"
+    "val_t": 0.008998751640319824,
+    "aro_t": 0.04363739490509033,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you understand how I feel about trust and sharing my emotions. Honestly, it’s just really hard for me to envision what support would even look like. I guess I worry that no one will really get me, or that I’ll just end up feeling even more alone in the end.",
-    "therapist": "It's completely valid to feel uncertain about what support might look like, especially when you’re feeling so alone in your experiences. The fear of not being understood can be really isolating. What if we took a moment to explore what kind of understanding or support you’re hoping for? Sometimes imagining that can help clarify what you need and who might be able to offer it. What do you think?",
+    "client": "I suppose acknowledging those little victories could help me feel a bit more positive about my work experience. It might remind me that I’m capable of handling tasks, even if they seem small. But part of me still wonders if it will be enough to really shift how I feel overall, especially with the pressure I feel to perform at a higher level.",
+    "therapist": "It’s encouraging to hear that you see the potential for those little victories to create a more positive outlook. It’s natural to question whether this approach will be enough to alleviate the pressure you feel, especially when striving for high performance. What if we explored how those small wins can serve as stepping stones toward building your confidence and gradually shifting your perspective? What might it look like to intentionally celebrate those moments, even amidst the pressure?",
     "condition": "baseline",
-    "val_t": -0.13809776306152344,
-    "aro_t": 0.07278060913085938,
-    "text_emotion": "Angry"
+    "val_t": 0.07775330543518066,
+    "aro_t": 0.11640775203704834,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that you're trying to help me figure this out, but honestly, I feel a bit lost even thinking about what kind of support I need. It’s like I want to be understood, but I’m not sure what that looks like or who I can actually turn to. I often worry that even if I reach out, people won’t really get what I’m going through, and that just makes me feel more alone.",
-    "therapist": "Feeling lost and unsure about what support looks like is a very common experience, especially when you're grappling with intense emotions. It’s okay to not have all the answers right now; just acknowledging that you want to be understood is an important step. What if we explored some ways to express what you're feeling, even if it’s just for yourself first? That might help clarify what kind of understanding you’re seeking. How does that sound to you?",
+    "client": "I see what you're saying about those small wins being stepping stones, but it still feels a bit unrealistic to think that celebrating them will really change how I feel about my work. I mean, I don't want to come off as overly optimistic when I feel so much pressure. It just seems hard to balance recognizing those moments with the constant anxiety of wanting to prove myself.",
+    "therapist": "It’s completely understandable to feel that way, especially when the pressure to prove yourself feels so heavy. Balancing recognition of small wins with anxiety can be challenging, and it’s okay to hold both feelings at the same time. What if we tried to approach this balance gently, allowing yourself to acknowledge those moments without the expectation that they need to erase your anxiety? How might it feel to give yourself permission to feel both proud of your efforts and still acknowledge the pressure you’re experiencing?",
     "condition": "baseline",
-    "val_t": -0.23143839836120605,
-    "aro_t": 0.052622318267822266,
-    "text_emotion": "Sad"
+    "val_t": -0.0931633710861206,
+    "aro_t": 0.17363548278808594,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate what you’re saying, but honestly, it feels overwhelming to think about expressing my feelings right now. It’s like I have all these thoughts swirling around, but I can’t pin them down enough to write them out or even talk about them. What if I just end up feeling more confused or frustrated?",
-    "therapist": "It's completely understandable to feel overwhelmed when trying to sort through swirling thoughts and emotions. The fear of feeling more confused or frustrated is valid, and it's okay to take a step back if that feels necessary. What if we took a moment to focus on just one small thought or feeling that stands out to you right now? Sometimes starting small can help make things feel more manageable. What do you think?",
+    "client": "I guess it could be a relief to think about it that way, recognizing both my achievements and the anxiety I feel. But there’s still a part of me that worries about letting myself feel proud when I know I still have so much to improve. It feels like if I acknowledge anything positive, I might be downplaying the real challenges I’m facing at work.",
+    "therapist": "It’s really insightful that you’re aware of that tension between feeling proud and wanting to address the challenges you’re facing. It’s completely valid to hold both feelings—acknowledging your achievements doesn’t diminish the difficulties you’re experiencing. What if we explored ways to validate both sides? How might you express pride in what you’ve accomplished while also recognizing the areas where you want to grow?",
     "condition": "baseline",
-    "val_t": -0.22289752960205078,
-    "aro_t": 0.3132859468460083,
-    "text_emotion": "Angry"
+    "val_t": -0.006198883056640625,
+    "aro_t": 0.1714552640914917,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I appreciate you saying that it's okay to feel overwhelmed. Right now, I can't shake this feeling of guilt that's been nagging at me. It's like I keep replaying a conversation in my head and questioning if I said the right things. I just don't know how to move past it.",
-    "therapist": "It sounds like that guilt is really weighing on you, and it's tough when we find ourselves replaying conversations in our minds. It's natural to question our words and actions, but it's important to remember that we all have moments where we feel unsure. What if we explored what specifically is making you feel guilty about that conversation? Sometimes breaking it down can help us see things from a different perspective. How does that sound?",
+    "client": "I see what you’re getting at, and it does make sense to acknowledge both my achievements and the challenges. But honestly, I still find it hard to feel proud of anything when I’m so focused on what I need to improve. It feels like if I start celebrating small wins, I might lose sight of the bigger picture and the areas where I really need to focus.",
+    "therapist": "It’s completely understandable to feel that way, especially when your focus is on improvement and the bigger picture. It’s important to find a balance that works for you, where you can honor both your efforts and your aspirations without feeling like one undermines the other. How might you set aside specific times to reflect on your achievements without letting them overshadow your goals for growth?",
     "condition": "baseline",
-    "val_t": -0.1512765884399414,
-    "aro_t": 0.1917651891708374,
-    "text_emotion": "Angry"
+    "val_t": 0.11803901195526123,
+    "aro_t": 0.27540671825408936,
+    "text_emotion": "Excited"
   }
 ]

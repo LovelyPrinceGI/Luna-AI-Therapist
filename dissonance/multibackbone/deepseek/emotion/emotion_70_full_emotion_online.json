@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I just can't stop thinking about how badly I messed up on that final project last semester. Now I'm so anxious about keeping my grades perfect this term because if I lose my scholarship, I don't know how I'll afford to stay in school. Every time I sit down to study, I just freeze up worrying that I'll fail again.",
-    "therapist": "It sounds like that past experience is really weighing on you and creating a lot of pressure to perform perfectly now. When you freeze up while studying, what kinds of thoughts tend to go through your mind?",
+    "client": "I've been really struggling since I got that C on my final project last semester. My scholarship requires me to maintain a 3.5 GPA, and now I feel like I'm constantly on edge about every assignment, terrified that one more slip-up could cost me everything. I know I should probably get over it, but I just can't shake this feeling like I'm not good enough no matter how hard I try.",
+    "therapist": "It sounds like this situation has left you feeling both anxious and self-critical. The pressure to maintain your scholarship seems to be amplifying these feelings of not being good enough, even though I hear how hard you're trying. What evidence do you have that supports or challenges this belief that \"one slip-up could cost you everything\"?",
     "condition": "emotion_text_only",
-    "val_t": -0.4319871664047241,
-    "aro_t": 0.27178001403808594,
+    "val_t": -0.390128493309021,
+    "aro_t": 0.20809447765350342,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I start thinking things like \"If I don't understand this perfectly right now, I'll fail the test and ruin everything.\" My chest gets tight and I can't focus at all - it's like my brain just shuts down. Part of me knows this is irrational, but the fear feels so real in the moment.",
-    "therapist": "That sounds incredibly overwhelming when those intense thoughts and physical reactions take over. It's understandable that this would make focusing difficult, even though part of you recognizes these fears might be exaggerated. What typically happens if you pause when you notice these thoughts coming up?",
+    "client": "I guess the evidence is that my scholarship does require a 3.5 GPA, so technically one more bad grade could push me below that. But I also know I've gotten through tough semesters before and managed to pull my grades up. It's just hard to focus on that when I'm so worried about failing again. I feel like I'm stuck in this cycle of fear that makes it harder to actually do well.",
+    "therapist": "It sounds like you're caught between recognizing your past successes and this very real fear about the future - that tension must feel exhausting. While the scholarship requirements are indeed important, I notice your mind might be magnifying the worst-case scenario while minimizing your proven ability to recover from setbacks. What would it look like to approach your studies with the same compassionate problem-solving you'd offer a friend in this situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.3491874933242798,
-    "aro_t": 0.2815744876861572,
+    "val_t": -0.3531595468521118,
+    "aro_t": 0.1493767499923706,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "When I try to pause, it feels like the thoughts just get louder. My chest gets tight and I start thinking \"what if this time the anxiety is right?\" It's hard to trust that pausing will help when my body is screaming that something's wrong. \n\nI've tried taking deep breaths before but it makes me more aware of how fast my heart is racing. Then I start worrying about having a panic attack, which makes everything worse. It's like my brain finds ways to turn the coping strategies into more things to be anxious about.",
-    "therapist": "It sounds like you're caught in a cycle where even the attempts to calm yourself become triggers for more anxiety. That must feel exhausting and frustrating to experience. When you notice your heart racing during breathing exercises, what would happen if you acknowledged the physical sensations without judging them as dangerous?",
+    "client": "I guess I would tell a friend that one C doesn't define them and that they've bounced back before, but it's so much harder to apply that to myself. When I try to be compassionate, it feels like I'm just making excuses or being lazy. I worry that if I'm not hard on myself, I'll slack off and really mess up this time.",
+    "therapist": "I hear this interesting tension - you can offer kindness to others in this situation, but when it comes to yourself, compassion feels like a dangerous form of leniency. It seems like you're carrying this belief that self-criticism is what keeps you performing well, even though it's clearly causing you a lot of distress. What do you think might be a small, manageable way to experiment with balancing accountability and self-kindness in your studies?",
     "condition": "emotion_text_only",
-    "val_t": -0.31041550636291504,
-    "aro_t": 0.2540217638015747,
-    "text_emotion": "Angry"
+    "val_t": -0.2762407064437866,
+    "aro_t": 0.07076847553253174,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "That sounds easier said than done. When my heart starts racing, all I can think is \"oh no, here it comes again\" and then I panic even more. The idea of just noticing it without reacting seems impossible when my whole body is screaming that something's wrong. \n\nI've tried telling myself \"it's just anxiety\" before, but in the moment it always feels different - like this time it might actually be a real medical emergency. How do you stop that automatic fear response?",
-    "therapist": "It makes complete sense that this feels impossible in the moment - anxiety has a way of making everything feel urgent and threatening right now. What if we tried breaking this down into smaller steps - like just noticing one breath at a time without trying to change anything yet?",
+    "client": "Maybe I could try being a little less harsh with myself when I take short breaks between studying? I usually feel guilty when I stop for even 15 minutes, like I'm wasting time I should be using to prevent another bad grade. But I know rationally that breaks help people focus better. It's just hard to shake the feeling that I don't deserve them right now.",
+    "therapist": "It sounds like you're recognizing both the logical benefits of breaks and the emotional resistance you're feeling - that's an important first step. The guilt you describe suggests part of you still believes your worth is tied to constant productivity. What do you think might happen if you experimented with viewing short breaks as part of being an effective student, rather than a reward you have to earn?",
     "condition": "emotion_text_only",
-    "val_t": -0.2573956251144409,
-    "aro_t": 0.37314510345458984,
-    "text_emotion": "Angry"
+    "val_t": -0.258306622505188,
+    "aro_t": 0.08311641216278076,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about breaking it down, but when my anxiety spikes, even focusing on one breath feels overwhelming. My mind just races ahead to all the \"what if\" scenarios no matter what I try. It's frustrating because I know these techniques are supposed to help, but in the moment they feel impossible.",
-    "therapist": "I hear how frustrating and defeating it feels when the anxiety makes even small steps seem too difficult in the moment. That sense of your mind racing ahead despite your best efforts is completely understandable. Could we explore what happens if you simply observe those \"what if\" thoughts as passing mental events, rather than truths that need immediate attention?",
+    "client": "I can see the logic in that, but I worry that if I start viewing breaks as necessary instead of earned, I'll take too many and fall behind. It's hard to trust myself with that balance right now. I guess I could try timing my breaks strictly, but even then, I'd probably still feel guilty during them.",
+    "therapist": "I notice that even when we discuss reasonable adjustments, your mind quickly jumps to concerns about losing control - that must feel frustrating when you're trying to find a better balance. This all-or-nothing thinking (\"either I'm perfectly disciplined or I'll completely fall behind\") seems to be adding unnecessary stress to an already challenging situation. What would it look like to approach this as an experiment where you observe the actual outcomes of timed breaks, rather than predicting the worst?",
     "condition": "emotion_text_only",
-    "val_t": -0.18095779418945312,
-    "aro_t": 0.20276665687561035,
-    "text_emotion": "Angry"
+    "val_t": -0.24863708019256592,
+    "aro_t": -0.024976611137390137,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about observing the thoughts, but it's hard not to react when they feel so real and urgent in the moment. Like yesterday when I was running late to work, my mind kept screaming \"What if you get fired?\" and I could feel my chest tightening - it didn't feel like just a passing thought at all. \n\nI've tried noticing my thoughts before, but they still overwhelm me. How do you actually distance yourself when the anxiety feels so physical?",
-    "therapist": "It sounds like those anxious thoughts carry such intense physical sensations that they demand your full attention in the moment, making it hard to step back. That mind-body connection can make the experience feel so immediate and real. When you notice that chest tightening, what happens if you simply name the sensation - like \"tightness\" - without judging whether it means danger?",
+    "client": "I guess I could try treating it as an experiment, but I worry that even if timed breaks help me focus better, I'll still feel guilty during them. It's like my mind won't let me relax because I'm convinced I should be working harder. I'm not sure how to turn off that critical voice even when I know logically that breaks are helpful.",
+    "therapist": "It sounds like that critical voice has become such a constant companion that even when you try new approaches, it finds ways to undermine them - that must feel exhausting. Perhaps we could start by simply noticing when that voice appears, without needing to immediately change it? What do you typically notice happening in your body when that critical thought arises during break times?",
     "condition": "emotion_text_only",
-    "val_t": -0.20501339435577393,
-    "aro_t": 0.31086134910583496,
+    "val_t": -0.1525876522064209,
+    "aro_t": 0.07076609134674072,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about naming the sensation, but when my chest gets that tight, it's like my brain immediately jumps to \"heart attack\" or \"something's seriously wrong.\" Just calling it \"tightness\" feels too simple when my whole body is screaming danger. I've tried this before and it just makes me feel stupid, like I'm pretending not to be scared when I actually am.",
-    "therapist": "I hear how invalidating it can feel to simplify such intense physical sensations when your body is sending such strong alarm signals. That struggle between knowing it's anxiety and feeling like it might be something more serious is incredibly difficult. What if we tried pairing the naming with acknowledging the fear too - like \"tightness, and fear about what it means\"?",
+    "client": "I get this tightness in my chest and my shoulders tense up whenever that voice starts up. My breathing gets shallow too. It's like my body is preparing for battle even when I'm just sitting there trying to take a break. I hate that I can't even relax physically when I know I need to.",
+    "therapist": "It sounds like your body is responding to these critical thoughts with a real fight-or-flight response, even when you're trying to rest - that physical tension must make it extra hard to truly recharge. Let's acknowledge how exhausting it is to feel like you're constantly battling yourself, even during moments meant for relaxation. What do you think might happen if you tried pairing your breaks with a simple breathing exercise to help signal to your body that it's safe to rest?",
     "condition": "emotion_text_only",
-    "val_t": -0.27729320526123047,
-    "aro_t": 0.3147735595703125,
+    "val_t": -0.32409369945526123,
+    "aro_t": 0.28257620334625244,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but when I try to label the sensations, it just makes me focus on them more intensely. The fear that it's something physically wrong with me keeps growing, even though my doctor said I'm healthy. It's like my brain won't accept that it's just anxiety.",
-    "therapist": "It sounds like there's a real struggle between what you know intellectually and what your body is making you feel in the moment. That disconnect between medical reassurance and your physical experience must be incredibly frustrating to live with. What happens if you gently remind yourself that labeling the sensations is simply practice, not about getting it \"right\" immediately?",
+    "client": "I could try the breathing exercises, but I worry they'll just feel like another thing I have to do perfectly. Like if I don't do the breathing \"right,\" it won't count as a proper break and I'll feel even worse. I already struggle with giving myself permission to rest - adding another expectation feels like it might backfire.",
+    "therapist": "This pressure to perform perfectly even during relaxation exercises shows how deeply this pattern runs - even self-care gets turned into another test, doesn't it? Maybe rather than structured breathing exercises, we could start with simply noticing the tension without trying to change it - just allowing whatever arises to be there without judgment. Would that feel like a less pressured way to begin?",
     "condition": "emotion_text_only",
-    "val_t": -0.20987308025360107,
-    "aro_t": 0.2672145366668701,
-    "text_emotion": "Angry"
+    "val_t": -0.19124114513397217,
+    "aro_t": 0.03197789192199707,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it feels so hard to separate the sensations from the fear. When my heart races or I feel dizzy, my mind immediately jumps to worst-case scenarios, like I’m having a heart attack or something is seriously wrong. Even if I remind myself it’s anxiety, it doesn’t always calm me down because the physical feelings are so intense and real in the moment. It’s like my body doesn’t care what my brain knows.",
-    "therapist": "It sounds like those physical symptoms create such a powerful, immediate experience that logic struggles to break through in the moment. That battle between your rational knowledge and your body's intense reactions must feel exhausting. Could we explore what happens if you practice noticing these sensations with curiosity rather than resistance - not trying to change them, just observing how they naturally rise and fall?",
+    "client": "Just noticing the tension without trying to fix it feels less intimidating, but I still worry I'll do it \"wrong\" somehow. My mind keeps telling me that if I'm not actively working to improve every moment, I'm failing. It's hard to accept that simply being aware of my tension could be enough when I'm so used to pushing myself to do more.",
+    "therapist": "It sounds like this pattern of relentless self-improvement has left little room for simply being present with your experience - and that awareness itself is an important first step. That quiet worry about doing things \"wrong\" even in rest shows how deeply this critical mindset has taken root. What would it be like to approach these moments of tension with curiosity rather than judgment, as if observing these patterns for the first time?",
     "condition": "emotion_text_only",
-    "val_t": -0.20292341709136963,
-    "aro_t": 0.31977903842926025,
+    "val_t": -0.14665305614471436,
+    "aro_t": 0.16298460960388184,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about observing the sensations instead of fighting them, but it's so hard when my heart starts racing and my chest feels tight. It's like my brain just screams \"danger\" and all I want is for it to stop immediately. The idea of just sitting with those feelings makes me nervous - what if they spiral out of control?",
-    "therapist": "It sounds like those physical sensations trigger such an intense alarm response that sitting with them feels too risky and overwhelming. That fear of losing control is completely understandable when your body is signaling danger. What if we started by just noticing one small sensation at a time, like the feeling of your feet on the floor, to help ground you in the present moment?",
+    "client": "Curiosity instead of judgment sounds nice in theory, but part of me still resists because it feels like I'm letting myself off the hook. I've built my whole academic identity on being hard on myself - the idea of just observing my tension without trying to fix it makes me feel like I'm being too easy on myself. At the same time, I'm exhausted from constantly pushing, so maybe there's some small part of me that's willing to try this different approach.",
+    "therapist": "I hear this really important tension - part of you clings to self-criticism as a motivator you can't afford to lose, while another part is exhausted and curious about change. This ambivalence makes perfect sense when we consider how long you've relied on pushing yourself hard. What would it be like to acknowledge both these parts - the part that fears becoming complacent *and* the part that longs for relief - without having to choose between them right away?",
     "condition": "emotion_text_only",
-    "val_t": -0.21538734436035156,
-    "aro_t": 0.34776246547698975,
-    "text_emotion": "Angry"
+    "val_t": -0.04924356937408447,
+    "aro_t": 0.07142841815948486,
+    "text_emotion": "Neutral"
   }
 ]

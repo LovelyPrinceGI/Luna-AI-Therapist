@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I got laid off from my job at the marketing firm last month. The uncertainty of my financial future is weighing heavily on me, and I feel this constant pressure to find a new job. Sometimes I wonder if therapy can actually help me deal with all this anxiety and stress.",
-    "therapist": "It sounds like you're going through a really tough time right now, and the weight of uncertainty can be incredibly overwhelming. It's completely understandable to feel anxious and pressured in your situation. Therapy can definitely provide a space to explore those feelings and develop strategies to manage your stress. What specific thoughts or worries come to mind when you think about finding a new job?",
+    "client": "I've been feeling really overwhelmed since I got laid off from my job at the marketing firm last month. The uncertainty about my financial future is weighing heavily on me, and it feels like there's so much pressure to find a new job quickly. I'm not even sure if talking about this in therapy will really help, but I guess I just need to figure things out.",
+    "therapist": "It sounds like you’re carrying a heavy burden with the uncertainty and pressure surrounding your job situation. It's completely understandable to feel overwhelmed during such a significant change. Talking about it in therapy can be a helpful way to explore your thoughts and feelings, and to find some clarity. What specific thoughts or worries are coming up for you when you think about your job search?",
     "condition": "emotion_text_only",
-    "val_t": -0.33128535747528076,
-    "aro_t": 0.20392358303070068,
+    "val_t": -0.16598379611968994,
+    "aro_t": 0.20186543464660645,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I feel really overwhelmed when I think about finding a new job. It’s not just the uncertainty of not knowing what’s out there, but also the pressure of having to prove myself again, especially after being out of the workforce for a while. I worry that I won’t measure up to the expectations, and it just makes me feel anxious and stuck.",
-    "therapist": "It sounds like the pressure to prove yourself and the uncertainty of the job market are really weighing on you, creating a sense of feeling stuck. It's completely normal to feel anxious about returning to work, especially after a layoff. Have you had a chance to reflect on any strengths or skills you bring to the table that could help you in your job search?",
+    "client": "I keep worrying that I'm not going to find a job that suits me or pays enough to cover my bills. I feel a mix of anxiety and guilt, like I should be doing more to secure something quickly, but I don't even know where to start. It feels like everyone else is moving on with their lives while I'm just stuck here.",
+    "therapist": "It sounds like you're experiencing a lot of anxiety and guilt, which can be incredibly draining. It's common to feel stuck when faced with such uncertainty, especially when it seems like everyone else is moving forward. Let's take a moment to break down your thoughts—what are some steps, no matter how small, that you feel you could take to help ease that pressure?",
     "condition": "emotion_text_only",
-    "val_t": -0.33709001541137695,
-    "aro_t": 0.2805330753326416,
+    "val_t": -0.4039804935455322,
+    "aro_t": 0.20584630966186523,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I've been thinking about my skills, but honestly, it feels like everything I've done in the past doesn't matter anymore. I keep comparing myself to others who seem to have it all figured out, and that just heightens my anxiety. It feels like I’m stuck in this loop of self-doubt, and I’m not sure how to break free from it.",
-    "therapist": "It sounds like you’re really grappling with self-doubt and feeling trapped in that comparison cycle, which can be incredibly frustrating. It’s easy to overlook your own accomplishments when you’re focused on what others are doing. What if we took a moment to explore some of those past experiences and skills that you feel may not matter anymore? How might they still be valuable as you consider your next steps?",
+    "client": "I guess I could start by updating my resume or maybe looking at job postings online, but every time I think about it, I just feel this wave of dread. It’s hard to even get motivated because I’m worried I won’t find anything that fits what I want. Plus, I just keep thinking, what if I apply and still don’t hear back? It feels like a waste of time.",
+    "therapist": "It sounds like the thought of updating your resume and applying for jobs brings up a lot of dread for you, which is completely understandable. The fear of not finding the right fit or not hearing back can make it feel like you're stuck in a cycle of worry. Let’s explore those feelings a bit more—what would it look like to approach the job search in smaller, more manageable steps?",
     "condition": "emotion_text_only",
-    "val_t": -0.3393465280532837,
-    "aro_t": 0.21116793155670166,
+    "val_t": -0.3376990556716919,
+    "aro_t": 0.16126477718353271,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I'm not sure where to start with that. I feel like my past experiences just don’t seem relevant anymore, especially when I compare myself to others who seem so much more successful. It’s kind of overwhelming to think about digging into those memories; what if they just remind me of how far behind I feel?",
-    "therapist": "It's understandable to feel hesitant about reflecting on your past experiences, especially when they seem overshadowed by comparison and feelings of being behind. That sense of overwhelm is valid, and it’s okay to take it slowly. Perhaps we can start by identifying just one experience or skill that you feel could still hold value, without the pressure of comparing it to others. What’s one thing you’ve done in the past that made you feel proud or accomplished?",
+    "client": "I guess breaking it down into smaller steps could help, but I still feel like I wouldn't know where to start. Even just updating my resume feels overwhelming because I get stuck thinking about what to include and how to present myself. What if I don’t even know what kind of jobs I want anymore? It feels like I'm just in this fog, and I don't know how to clear it away.",
+    "therapist": "It seems like you're in a tough spot, feeling lost and overwhelmed by the thought of updating your resume and figuring out your next steps. That fog can make everything feel much heavier, especially when you're unsure about what you want. Let's try to clear some of that fog together—what are some strengths or experiences you've had that you feel comfortable highlighting in your resume, even if you're not sure about the job direction yet?",
     "condition": "emotion_text_only",
-    "val_t": -0.10082042217254639,
-    "aro_t": 0.15761196613311768,
+    "val_t": -0.24255049228668213,
+    "aro_t": 0.12754487991333008,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you want me to take it slowly, but it’s hard to think of something I feel proud of without immediately comparing it to what others have done. I keep getting stuck on the feeling that whatever I come up with won’t be good enough or will just seem trivial next to someone else's achievements. It makes me anxious to even start this process because I fear I'll just end up disappointing myself.",
-    "therapist": "I can see how difficult it is to even start reflecting on your achievements when you’re feeling that pressure of comparison and fear of disappointment. It’s completely natural to feel anxious about this process, especially when it feels like everything is being weighed against others. Remember, your experiences and feelings are valid, regardless of how they might compare. What if we approached this by simply acknowledging one small step you took in your past that felt meaningful to you, without judgment? Would you be willing to give that a try?",
+    "client": "I guess I have some strengths I could mention, like my creativity and teamwork skills from my previous job. I also managed a few projects that went really well, but when I think about putting it all together, I just freeze up. It feels daunting to even write it down because I worry it won't be enough or that I won’t really know how to portray myself authentically.",
+    "therapist": "It sounds like you recognize some valuable strengths, like your creativity and teamwork skills, which is a great starting point. Feeling daunted by the task of putting it all together is perfectly normal, especially when you’re concerned about authenticity and impact. Let’s focus on one strength at a time—how about we start by crafting a simple statement about your creativity? What’s a specific project or situation where you felt you really shined in that area?",
     "condition": "emotion_text_only",
-    "val_t": -0.18431854248046875,
-    "aro_t": 0.11861729621887207,
-    "text_emotion": "Angry"
+    "val_t": -0.03521370887756348,
+    "aro_t": 0.08288693428039551,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it feels really hard to just think about one small step. I always feel like my achievements are insignificant compared to what others have done. It’s like I’m stuck in this loop of feeling guilty for even thinking I’ve accomplished anything at all.",
-    "therapist": "It sounds like you’re feeling really trapped in that loop of guilt and comparison, which can make it hard to recognize any accomplishments, no matter how small. It’s important to remember that everyone’s journey is unique, and what feels insignificant to you may still hold value in your experience. Would you be open to exploring how those feelings of guilt might be affecting your self-view, and perhaps identifying what you truly value in your own achievements?",
+    "client": "I can think of a project where I organized a marketing campaign for a local event, and it turned out really well. I felt great about coming up with creative ideas and getting the team to collaborate effectively. But even as I think about that, I worry if it’s enough to highlight or if it sounds too self-promotional. I just don’t want to come off as someone who’s trying too hard.",
+    "therapist": "It’s wonderful to hear about your successful marketing campaign and how you brought your team together—those are significant accomplishments! It’s understandable to have concerns about coming off as self-promotional; many people feel that way when discussing their achievements. Remember, showcasing your strengths is about sharing your journey and the impact you've made, rather than boasting. How do you feel about framing your experience in a way that highlights your contributions while still feeling authentic to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.30647051334381104,
-    "aro_t": 0.07522439956665039,
-    "text_emotion": "Sad"
+    "val_t": -0.0672309398651123,
+    "aro_t": 0.06895112991333008,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you’re saying about everyone’s journey being unique, but it’s hard for me to see my own achievements as valuable. I always feel like I should be doing more or that I haven’t done enough, which just makes the guilt worse. What if I try to identify what I value, but it just feels like I’m not meeting those expectations?",
-    "therapist": "It sounds like you're really grappling with the weight of expectations and feeling guilty about not measuring up, which can be such a heavy burden to carry. It’s understandable to worry that identifying your values might lead to more pressure if you feel you’re not meeting them. What if we approached this by focusing on what’s most important to you right now, without judgment? How might exploring those values help shift your perspective on your achievements?",
+    "client": "I appreciate that perspective, but it still feels really challenging for me to share my accomplishments without feeling like I'm bragging. I guess I can see the value in framing it as part of my journey, but it feels vulnerable to put myself out there like that. What if people don't see it the same way, or they think less of me for not having a more impressive background?",
+    "therapist": "It sounds like sharing your accomplishments feels really vulnerable for you, and that’s completely valid. It’s natural to worry about how others will perceive you, especially when you’re in a transitional period. Remember that everyone has their own journey, and your experiences are uniquely yours. What if we explore some ways to frame your achievements that feel authentic and comfortable for you? What would that look like for you personally?",
     "condition": "emotion_text_only",
-    "val_t": -0.24674057960510254,
-    "aro_t": 0.08756816387176514,
-    "text_emotion": "Sad"
+    "val_t": -0.07557237148284912,
+    "aro_t": 0.09707558155059814,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate what you're saying, but I feel a bit overwhelmed by the idea of identifying my values. It seems like it would just add more pressure to an already heavy situation, and I'm worried that I might end up feeling even worse if I don’t feel like I'm living up to those values. I guess part of me wonders if it’s really worth the effort when it feels so daunting.",
-    "therapist": "It’s completely understandable to feel overwhelmed by the idea of identifying your values, especially when you're already carrying so much weight on your shoulders. The thought of adding more pressure can feel daunting, and it’s okay to acknowledge that. What if we approached it gently, perhaps by just thinking about one value that resonates with you, without any pressure to live up to it? How might even exploring that one value feel for you right now?",
+    "client": "I think framing my achievements in a way that feels comfortable could help, but I'm not sure how to do that without feeling like I'm downplaying them. I still have this nagging voice in my head that says if I don’t present myself in a grand way, I won’t stand out to employers. It feels like I need to find a balance between being genuine and making myself appealing, but I just don’t know how.",
+    "therapist": "It sounds like you're really grappling with how to balance authenticity and the desire to stand out to potential employers, which can feel really challenging. That nagging voice can be tough to silence, especially when you're trying to navigate such an important transition. Finding that balance is key, and it might help to think about what makes your experiences unique without feeling like you have to embellish them. What are some specific aspects of your achievements that you feel proud of and that you think could resonate with employers?",
     "condition": "emotion_text_only",
-    "val_t": -0.12197315692901611,
-    "aro_t": 0.22734832763671875,
-    "text_emotion": "Angry"
+    "val_t": -0.061517953872680664,
+    "aro_t": 0.1035006046295166,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate you acknowledging how overwhelming this feels for me. Honestly, the idea of even picking one value is making me anxious. I worry that if I choose something, I might not be able to live up to it or that it won't really mean anything in the end. It just feels like another expectation to meet, and I’m not sure if I can handle that right now.",
-    "therapist": "I can see how the thought of choosing even one value feels like an additional expectation, which is understandably adding to your anxiety. It’s okay to feel hesitant and to recognize that pressure; you don’t have to have everything figured out right now. What if we took a step back and simply focused on how you’re feeling in this moment, without any pressure to define values or expectations? How are you feeling about everything we’ve talked about so far?",
+    "client": "I appreciate you asking about the specific aspects I feel proud of. I think my ability to come up with creative marketing strategies and my knack for bringing people together to work towards a common goal are strengths I could highlight. But even as I think about those, I’m still scared that employers won’t see their value or that they’ll just overlook my experience because I don’t have a long list of big-name companies on my resume. It feels like I need more to prove myself.",
+    "therapist": "It's great to hear that you’ve identified strengths like your creativity in marketing and your ability to foster collaboration. Those qualities are incredibly valuable, even if they don't come from big-name companies. It’s understandable to feel pressure to prove yourself, but remember that many employers appreciate unique experiences and perspectives. How might you communicate those strengths in a way that feels true to who you are, while also highlighting the value you can bring to a team?",
     "condition": "emotion_text_only",
-    "val_t": 0.002626657485961914,
-    "aro_t": 0.27082622051239014,
+    "val_t": 0.0674818754196167,
+    "aro_t": 0.19499099254608154,
     "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I appreciate you saying that I don’t have to have everything figured out, but honestly, I still feel overwhelmed. It’s like there’s this constant pressure to define what I want from life, and right now, it just feels like too much. I’m worried that I’ll never really figure it out, and that thought just adds to my anxiety.",
-    "therapist": "It sounds like you’re feeling a lot of pressure to have everything figured out, and that can be really overwhelming. It's completely normal to feel uncertain about what you want from life, especially during such a challenging time. What if we focused on just exploring what feels manageable for you right now, rather than trying to define everything? Are there any small, immediate steps or interests that bring you even a little bit of joy?",
+    "client": "I think I could try to communicate my strengths by focusing on specific examples of how I've used those skills in past projects. But it still feels daunting to put that into words, especially since I worry about coming off as just another candidate among many. I keep doubting whether my experiences are really enough to stand out, and I’m not sure how to convey that in a way that feels genuine without feeling like I'm over-selling myself.",
+    "therapist": "It’s encouraging to hear that you’re considering specific examples to communicate your strengths, as that can really help convey your unique contributions. It’s normal to feel daunted and to doubt whether your experiences are enough to stand out, especially in a competitive job market. Remember, sharing your journey authentically can resonate with employers who appreciate genuine candidates. What specific examples come to mind that you feel proud of, and how could you share them in a way that feels true to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2771106958389282,
-    "aro_t": 0.3315771818161011,
-    "text_emotion": "Angry"
+    "val_t": -0.08904457092285156,
+    "aro_t": 0.0867394208908081,
+    "text_emotion": "Neutral"
   }
 ]

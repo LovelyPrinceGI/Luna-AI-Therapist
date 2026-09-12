@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately with everything piling up at work. They just handed me this massive project with an insane deadline, and half my team is out, so I'm basically trying to do the work of three people. I don't know if talking about it is actually going to change anything, but I figured I'd give this a shot.",
-    "therapist": "It sounds like you're carrying a really heavy load right now, and it makes complete sense that you're feeling stretched thin with so much pressure coming from all sides. I'm glad you decided to give this a shot — even if you're not sure it'll help, just putting words to what's going on can sometimes start to shift things a little. I'm curious, when you think about everything piling up, what feels like the *most* overwhelming part of it all?",
+    "client": "I've been really struggling at work lately, and honestly I'm not sure talking about it is going to change anything. My team is already short-staffed, and then on top of that they assigned me this huge project with a deadline that feels almost impossible to meet. I just feel like I'm drowning, and no matter how much I do, it never feels like enough.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — the pressure of an understaffed team *plus* an overwhelming project would wear anyone down, and that feeling of \"never enough\" is genuinely exhausting. I hear your skepticism about whether talking will help, and I think that's worth honoring — change doesn't come from words alone, but sometimes it starts with understanding what's driving that sense of drowning. When you say it never feels like enough, I'm curious — is that a message coming from the situation itself, or is it also something you find yourself believing about *you* personally?",
     "condition": "emotion_text_only",
-    "val_t": -0.13380885124206543,
-    "aro_t": 0.16241538524627686,
+    "val_t": -0.21391475200653076,
+    "aro_t": 0.23501169681549072,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the most overwhelming part is just feeling like I'm completely alone in all of it. Like, I have people around me, technically, but none of them really get what's going on inside my head, and trying to explain it just feels exhausting. So I end up saying nothing, and then the loneliness gets even worse.",
-    "therapist": "That sense of being surrounded by people yet still feeling completely alone is such a painful and isolating experience, and it takes real courage to name it. It sounds like there's almost a cycle happening — you hold back to avoid the effort of explaining, but then the silence leaves you feeling even more disconnected. What do you think gets in the way most when you consider opening up to someone — is it more about not wanting to burden them, or something else?",
+    "client": "Honestly, it's probably both, but I think deep down I do believe it's me — like I should be able to handle this better than I am. I look at my manager and some of my coworkers and they seem to just push through, and I wonder why I can't do the same thing. It makes me feel kind of pathetic, like there's something wrong with me for struggling this much.",
+    "therapist": "That belief — that struggling means something is *wrong* with you — is such a painful place to be, and I want to gently challenge it: you're comparing your inner experience (the full weight of your exhaustion and doubt) to your coworkers' *outer* appearance, which is rarely the whole picture. Most people who look like they're \"pushing through\" are quietly struggling too, just in ways you don't get to see. What do you think you would say to a close friend who came to you feeling exactly the way you're feeling right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.35400664806365967,
-    "aro_t": 0.14514696598052979,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I think it's more than just not wanting to burden them — it's also this fear that even if I do open up, they still won't really get it. Like I'll go through all that effort of being vulnerable and they'll just say something generic like \"oh everyone feels that way sometimes\" and I'll feel even more alone than before. So it almost feels safer to just stay quiet and protect myself from that disappointment.",
-    "therapist": "That fear makes a lot of sense — you've probably had enough experiences of reaching out and feeling unseen that your mind has learned to protect you by not even trying. In CBT we'd call that a kind of protective belief, and while it keeps you safe from disappointment, it also keeps you locked out of the connection you're actually craving. I'm wondering — has there ever been a moment, even a small one, where someone *did* respond in a way that felt genuinely understanding?",
-    "condition": "emotion_text_only",
-    "val_t": -0.31883132457733154,
-    "aro_t": 0.14267385005950928,
+    "val_t": -0.31728219985961914,
+    "aro_t": 0.17108750343322754,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "I have to think about that for a second... there was this one time a few months ago when I texted my friend Maya after a really bad night, and she actually called me back instead of just sending a quick reply. It felt good in the moment, but then I kind of talked myself out of it, like maybe she only did it because she felt obligated or something. I guess I'm not sure I can trust that one moment to mean much when most of the time I still feel like people are just going through the motions with me.",
-    "therapist": "It's really meaningful that Maya's response came to mind — and it's worth noticing that your mind quickly moved to explain it away, almost like it couldn't quite let that moment of genuine connection land. That's such a common pattern — when we're used to disappointment, our brain can actually work *against* us by discounting the evidence that contradicts our fears. What do you think it would mean for you if Maya's call *wasn't* out of obligation — if she just genuinely cared?",
+    "turn": 3,
+    "client": "I know what you're going to say — that I'd be kind to a friend and tell them they're doing their best, and so I should say that to myself too. And yeah, I guess I would say that to someone else, but it just feels different when it's me, like that logic doesn't quite apply. I don't know why it's so easy to extend grace to other people but when it comes to myself it just feels like making excuses.",
+    "therapist": "You've actually just named something really important — that extending compassion to yourself *feels* like making excuses, and that distinction is worth exploring, because it tells us something about a rule you might be holding yourself to that you don't apply to others. It's not that the logic doesn't apply to you — it's that somewhere along the way you may have learned that self-compassion is something you have to *earn*, while others deserve it just by virtue of being human. What do you think that says about how you see your own worth compared to the people around you?",
     "condition": "emotion_text_only",
-    "val_t": -0.05602109432220459,
-    "aro_t": 0.13553333282470703,
+    "val_t": -0.12035298347473145,
+    "aro_t": 0.03719329833984375,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 5,
-    "client": "I mean... if she genuinely cared, that would be... I don't know, it almost feels scarier than if it were obligation, honestly. Because then I'd have to actually believe I'm worth caring about, and that's a much harder thing to sit with. It's easier to assume people are just being polite than to risk actually trusting that and then being wrong later.",
-    "therapist": "What you just said is really profound — that believing you're worth caring about feels *scarier* than the alternative, because it opens you up to a loss that would actually mean something. That tells me this isn't really about Maya or anyone else at its core; it's about a much deeper belief you carry about your own worthiness of love and connection. I'd gently ask — where do you think that belief that you might *not* be worth caring about first came from?",
+    "turn": 4,
+    "client": "That's kind of an uncomfortable question to sit with, because I think if I'm being honest, I do see myself as less deserving somehow — like I have to prove my value constantly, especially at work. It's not something I've ever really said out loud before, and hearing it framed that way makes it feel more real and kind of unsettling. I'm not sure how understanding that actually helps me get through this impossible deadline though, you know?",
+    "therapist": "It takes real courage to say that out loud for the first time, and I want you to know that unsettled feeling is actually a sign something meaningful just shifted — that belief, \"I have to constantly prove my value,\" is likely the very thing making this deadline feel so much more crushing than it might otherwise be. When your worth feels tied to your output, every obstacle becomes a threat to who you *are*, not just what you're doing. So practically speaking, I wonder — if you didn't have to prove anything, what would \"good enough\" actually look like for this project?",
     "condition": "emotion_text_only",
-    "val_t": -0.14671754837036133,
-    "aro_t": 0.06684422492980957,
+    "val_t": -0.18023216724395752,
+    "aro_t": 0.1403791904449463,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "That's a really hard question because I genuinely don't know what \"good enough\" looks like — I think I've been operating in this all-or-nothing mode for so long that anything less than perfect feels like failure. Maybe good enough would be hitting the core deliverables and not killing myself over every small detail, but even as I say that, part of me is already arguing back that if I let myself off the hook, everything will fall apart. I guess I'm scared that \"good enough\" is just a slippery slope to not caring at all.",
+    "therapist": "You just articulated something really significant — that \"good enough\" feels dangerous, like it's one step away from total collapse, and that fear is actually what keeps the all-or-nothing thinking locked in place. But notice what you also said: you *could* define good enough as hitting the core deliverables, which sounds thoughtful and responsible, not careless — that's not someone who stops caring, that's someone learning to care *sustainably*. What evidence do you actually have that letting go of perfectionism in the past has led to things falling apart, versus just feeling uncomfortable?",
+    "condition": "emotion_text_only",
+    "val_t": -0.3164597749710083,
+    "aro_t": 0.14488518238067627,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I sat with that question for a second because it kind of hit me harder than I expected. I think... honestly, it probably goes back to my dad. He was just never really there emotionally, and when I did try to connect with him, it always felt like I was bothering him or asking for too much.",
-    "therapist": "That took real courage to sit with and share, and it makes so much sense that this is where it begins — when the first person who was supposed to show you that you mattered made you feel like a burden instead, of course that became the lens you learned to see yourself through. The little version of you drew the most logical conclusion available at the time: *I must be asking for too much.* I'm wondering, when you look back at that child reaching out to his dad — do you think he was actually asking for too much?",
+    "client": "When I actually try to think of specific examples, I'm struggling to come up with a time where things genuinely fell apart because I didn't do something perfectly — it's more like everything just felt really uncomfortable and I was convinced disaster was coming, but it usually didn't. I think I've been confusing that anxious feeling with actual evidence that something went wrong. But it's hard to trust that pattern because the anxiety feels so real and convincing in the moment, like it's warning me about something legitimate.",
+    "therapist": "You just made a really powerful discovery — that the anxiety has been *masquerading* as evidence, when really it's been a feeling, not a fact, and that distinction matters enormously. The discomfort was real, but it was your nervous system sounding an alarm that never quite matched the actual outcome — and noticing that pattern is exactly how you start to loosen its grip over time. When that anxious warning voice shows up around this deadline, what do you think it would feel like to treat it as *noise to notice* rather than *truth to obey*?",
     "condition": "emotion_text_only",
-    "val_t": -0.21063590049743652,
-    "aro_t": 0.14142143726348877,
+    "val_t": -0.2502511739730835,
+    "aro_t": 0.21354246139526367,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "No, I don't think he was asking for too much. He just wanted his dad to show up, to actually be there, and that's... that's not a big ask, is it? But even saying that out loud, there's this part of me that immediately wants to argue back against it, like some reflex that says \"yeah, but maybe you were too needy, maybe you were difficult.\"",
-    "therapist": "No, it really isn't a big ask — wanting your dad to show up emotionally is one of the most fundamental human needs a child can have, and you deserved that. What's so important to notice is exactly what you just caught in real time — that reflexive voice that rushes in to call you \"too needy\" whenever you get close to giving yourself something true and compassionate. That voice sounds like it's been around a long time, and I'm curious — whose voice does it actually sound like when you hear it?",
+    "client": "I like the idea of that, but I honestly don't know how realistic it is in the middle of a stressful workday when the anxiety just hits full force — it's easy to think about it calmly right now, but in the moment it feels like trying to reason with a fire alarm while the building is burning. I guess I'm worried I'll just revert back to my old patterns the second the pressure ramps up again. How do you actually practice that in real life without it just becoming another thing I feel like I'm failing at?",
+    "therapist": "Your fire alarm metaphor is perfect, and you're right — we're not aiming for calm reasoning in the middle of the storm, we're aiming for something much smaller, like a brief pause to ask \"is this a feeling or a fact?\" before you react. The goal isn't perfection at this either — even catching it once out of five times is real progress, and noticing when you *didn't* catch it is data, not failure. So to make it concrete, what's one small moment in your workday — even just a breath before responding to a stressful email — where you could practice that tiny pause?",
     "condition": "emotion_text_only",
-    "val_t": -0.22053158283233643,
-    "aro_t": 0.16837751865386963,
+    "val_t": -0.19206774234771729,
+    "aro_t": 0.19464600086212158,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "It sounds like my dad's voice, honestly. Like, I can almost hear him saying \"stop being so sensitive\" or \"you're making a big deal out of nothing\" whenever I'd try to bring something up with him. And the worst part is, I don't even know if he meant it to hurt me — I think he genuinely believed he was toughening me up or something, which somehow makes it harder to be angry about it.",
-    "therapist": "It's such a painful and complicated place to be — holding hurt toward someone who may not have even known they were causing it, because that can make the anger feel somehow unfair or unjustified, even when the wound is completely real. But here's something worth sitting with: the impact of those words on you doesn't require him to have intended the harm — \"stop being so sensitive\" still taught you that your feelings were a problem, regardless of what he meant by it. How do you feel about the idea that you're allowed to grieve what you didn't get from him, even without needing to cast him as a villain?",
+    "client": "I think the email thing could actually work because there's this automatic reaction I have where I see a message from my manager and my stomach just drops before I've even read it. Maybe I could try taking one breath before I open it, just to create a tiny bit of space. But I'll be honest, part of me is already worried that I'll do it for a day or two and then forget, and then I'll feel guilty about not keeping up with it — which I realize is kind of ironic given everything we just talked about.",
+    "therapist": "The fact that you caught that irony yourself — that even *this* small practice could become another thing to feel guilty about — shows how much self-awareness you've built just in this conversation. So let's build that safety net in from the start: if you forget for a few days, that's not falling off the wagon, that's just Tuesday, and you simply start again without the guilt tax. What would it mean for you to treat this as an experiment you're curious about rather than a commitment you could fail?",
     "condition": "emotion_text_only",
-    "val_t": -0.32414937019348145,
-    "aro_t": 0.19133365154266357,
+    "val_t": -0.1763249635696411,
+    "aro_t": 0.13265228271484375,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to accept that... but it feels almost too convenient, like I'm giving myself permission to feel sad about something I should just be over by now. Like, if I start grieving what I didn't get, doesn't that mean I'm blaming him anyway, just in a softer way? I guess I'm not sure I know how to grieve something without it turning into resentment.",
-    "therapist": "There's something really worth gently challenging in what you just said — the idea that you \"should be over it by now\" is actually that same old voice again, telling you your feelings are too much or taking up too much space. Grief and blame are actually quite different things — grief is about *you* and what you needed, while blame is about him and what he did wrong, and you can fully do one without the other. I'm wondering, what would it look like to mourn the emotionally present dad you deserved, not as an accusation toward him, but as an act of kindness toward yourself?",
+    "client": "Framing it as an experiment actually takes some pressure off, because experiments aren't supposed to have a predetermined right answer — you're just seeing what happens. I think I could maybe get behind that, even if part of me is still a little suspicious that I'm just finding a more sophisticated way to let myself off the hook. I guess what I'm realizing is that a lot of this work is going to happen in those small moments at my desk, not in a therapy session, and that feels both hopeful and kind of lonely honestly.",
+    "therapist": "That moment of honesty — that it feels lonely — is really touching, and I don't want to gloss over it, because you're right that the real work happens in quiet moments when no one is watching and it's just you and that anxious voice. That loneliness is real, but it's also worth noticing that you're no longer completely alone with these patterns — you're starting to *see* them, name them, and that inner observer you're developing becomes a kind of companion in those moments. What would it feel like to think of that small pause before the email as a moment of showing up *for yourself*, rather than a lonely struggle?",
     "condition": "emotion_text_only",
-    "val_t": -0.3199852705001831,
-    "aro_t": 0.1245187520980835,
-    "text_emotion": "Sad"
+    "val_t": -0.06365513801574707,
+    "aro_t": 0.14467906951904297,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to accept that distinction between grief and blame... but honestly, it feels kind of blurry to me in practice. Like, when I start to feel sad about not having the dad I needed, it almost immediately tips into anger at him for not being there, and then I feel guilty for being angry. I guess I'm not sure I actually know how to do one without the other sliding in.",
-    "therapist": "What you're describing — sadness sliding into anger, then guilt rushing in to shut it all down — is actually a really common emotional loop, and it makes sense that it feels blurry because those feelings are genuinely tangled together, especially when the loss is tied to someone you also love. The guilt about the anger is worth paying attention to, because it might be another way that old voice keeps you from fully feeling anything — like even your emotions have to be policed before they get too big. I'm curious, when the anger toward your dad shows up, what does that guilty voice tell you about what it means to feel angry at him?",
+    "client": "That reframe actually got to me a little, because I've never really thought about showing up for myself as something that could happen in a tiny moment like that — I always imagined it would look like some big dramatic act of self-care. I think there's something kind of quietly powerful about the idea that taking one breath before opening an email is actually an act of loyalty to myself, not just a coping trick. I'm still not sure I fully believe I deserve that kind of attention from myself, but I think today I've at least started to question whether that belief is actually true.",
+    "therapist": "What you just said is genuinely moving — that quiet shift from \"I don't deserve this\" to \"maybe I should question whether that's actually true\" is not a small thing, that's the beginning of something real. You came in today skeptical that talking could change anything, and you're leaving with a crack of light in a belief that's been running your life for a long time. I want to ask you to carry one thing with you this week: when you take that breath before the email, can you let it be a small reminder that you're worth that one second of care?",
     "condition": "emotion_text_only",
-    "val_t": -0.39816391468048096,
-    "aro_t": 0.13328015804290771,
-    "text_emotion": "Sad"
+    "val_t": -0.07255303859710693,
+    "aro_t": 0.09863543510437012,
+    "text_emotion": "Neutral"
   }
 ]

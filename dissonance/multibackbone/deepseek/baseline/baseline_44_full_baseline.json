@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Losing my job last month has really shaken me. I keep worrying about how I’m going to pay my bills and whether I’ll ever find something as good as that role. Honestly, I’m not sure if therapy can really help with this—it feels like a practical problem, not just something in my head.",
-    "therapist": "I hear how stressful this job loss has been for you, and it makes complete sense to feel worried about finances and your career future. While this is indeed a practical challenge, I wonder if we could explore how these worries are affecting your mood and daily life—would you be open to that?",
+    "client": "Lately, I’ve been feeling really anxious since I lost my job at the startup last month. I keep worrying about how I’m going to pay my bills and whether I’ll find another job that’s as good or even better. I’m not sure if therapy can really help with this—it feels like such a practical problem, not something I can just talk my way out of.",
+    "therapist": "It sounds like losing your job has brought up a lot of uncertainty and worry, which is completely understandable—it’s a significant change in your life. Therapy can help by supporting you in managing those anxious thoughts and exploring ways to approach this situation with clarity and confidence. What’s been going through your mind when you think about finding a new job?",
     "condition": "baseline",
-    "val_t": -0.34875547885894775,
-    "aro_t": 0.20222985744476318,
+    "val_t": -0.325758695602417,
+    "aro_t": 0.14231932163238525,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I feel overwhelmed and stuck in this cycle of worry. The job loss has made me question my worth, and the financial stress keeps me up at night. It’s hard to see a way forward when everything feels so uncertain.  \n\nIf the therapist suggests exploring my emotions or offers homework, I might resist—it feels like one more thing to manage when I’m already stretched so thin. Can we take this slower? I’m not sure I’m ready to dive deeper yet.  \n\n(Staying in the same scenario of job loss and financial/career uncertainty.)",
-    "therapist": "It sounds like you're carrying a heavy load right now, and I appreciate you sharing how overwhelming this feels. Would it feel okay to simply sit with these feelings together for now, without adding any homework or pressure?  \n\nWhat would \"taking it slower\" look like for you in our sessions?",
+    "client": "I keep thinking about how competitive the job market is right now, and I feel like I’m not qualified enough compared to other candidates. It’s overwhelming to even start applying because I keep imagining rejection after rejection. I don’t know how to stop spiraling into these negative thoughts—it feels like they’re just based on reality, so how can I reframe them?",
+    "therapist": "I hear how real those fears feel to you—the uncertainty can make our brains jump to worst-case scenarios as a way to try to protect us. What if we gently examine whether these thoughts are facts or predictions? For example, when you say \"I’m not qualified enough,\" what specific evidence supports or challenges that belief?",
     "condition": "baseline",
-    "val_t": -0.24139070510864258,
-    "aro_t": 0.19993042945861816,
+    "val_t": -0.2878197431564331,
+    "aro_t": 0.20271074771881104,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Honestly, the idea of sitting with these feelings makes me nervous. When I slow down and really feel them, the loneliness and guilt just seem to grow bigger. But I'm also tired of always trying to push through or fix everything immediately.  \n\nTaking it slower might mean... I don't know, maybe not pressuring myself to have some big breakthrough every session? Sometimes I leave here feeling like I failed if I didn't \"solve\" something.",
-    "therapist": "It makes perfect sense that slowing down feels scary when difficult emotions come rushing in—you're describing that push-pull between wanting relief and fearing what might surface. I hear you craving permission to just *be* in this hard season without performance pressure.  \n\nWhat would it feel like if we treated these sessions more like a gentle conversation than a problem to solve?",
+    "client": "I guess I don’t have concrete evidence that I’m not qualified—I did get hired at my last job, after all. But it still feels like everyone else has more experience or skills than I do. Even if it’s just a prediction, it feels so convincing, like I’m just setting myself up for failure. How do I stop feeling this way when it’s so ingrained?",
+    "therapist": "It's understandable that this belief feels so convincing—our minds can trick us into treating predictions as certainties when we're anxious. Let's explore how this thought might be affecting your actions—have you noticed if it changes how you approach applications or networking?",
     "condition": "baseline",
-    "val_t": -0.311306357383728,
-    "aro_t": 0.14645206928253174,
+    "val_t": -0.26252281665802,
+    "aro_t": 0.18793845176696777,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess that makes sense, but I don’t know if I can just *be* without feeling guilty about it. It feels like I’m wasting time or being lazy, even though I know I’m struggling. I worry that if I don’t push myself, I’ll fall even further behind. \n\nIt’s hard to imagine these sessions as just a conversation—I feel like I’m supposed to be making progress or fixing something. What if I don’t say the “right” things?",
-    "therapist": "That self-judgment sounds exhausting—like you're holding yourself to impossible standards even in your pain. It might help to remember that healing isn't linear, and sometimes the most important progress happens when we simply acknowledge how hard things are.  \n\nWhat would it feel like to experiment with treating yourself with the same kindness you'd offer a friend in this situation?",
+    "client": "It definitely changes how I approach things—I procrastinate on applying because I’m convinced it’s pointless. Even networking feels hard because I assume people will think I’m not worth their time. I know I should push through it, but it’s like this mental block that I can’t seem to get past.",
+    "therapist": "It sounds like these thoughts are creating a cycle where they hold you back, which then reinforces the belief that you’re not qualified—that’s a tough place to be. What if we tried a small experiment, like reaching out to just one person in your network or applying for one job, to test whether the outcome matches your predictions?",
     "condition": "baseline",
-    "val_t": -0.1921917200088501,
-    "aro_t": 0.12780046463012695,
-    "text_emotion": "Angry"
+    "val_t": -0.15838861465454102,
+    "aro_t": 0.06410646438598633,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about treating myself like a friend, but it's just not that simple. When I try to be kind to myself, it feels fake—like I'm making excuses for my failures. My inner critic immediately jumps in saying \"A real friend would push you to do better, not let you off the hook.\"",
-    "therapist": "It sounds like your inner critic has a very strong voice, and it’s hard to separate kindness from letting yourself off the hook. I wonder if we could explore what *balanced* support might look like—not harsh criticism, but also not empty reassurance.  \n\nWhat would it feel like to imagine a friend who both understands your struggles *and* believes in your ability to keep moving forward?",
+    "client": "I guess I could try that, but I’m worried it’ll just confirm my fears if I don’t get a response or if I’m rejected. It feels safer to avoid it altogether than to face that potential rejection. What if it just makes me feel worse about myself?",
+    "therapist": "It makes complete sense that you'd want to protect yourself from that sting of rejection—our brains are wired to avoid pain. But I wonder if avoiding it altogether might be keeping you stuck in this cycle of \"what-ifs\"? What if we framed this experiment not as a test of your worth, but as gathering information about the job market itself?",
     "condition": "baseline",
-    "val_t": -0.06489670276641846,
-    "aro_t": 0.13001418113708496,
-    "text_emotion": "Neutral"
+    "val_t": -0.3631246089935303,
+    "aro_t": 0.11110424995422363,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I like the idea of balanced support, but honestly it's hard to picture. When I try to imagine that kind of friend, it just feels fake or forced. Part of me thinks I don't deserve that kind of understanding anyway - like if I'm not being hard on myself, I'll just slack off completely.",
-    "therapist": "It sounds like there's a real fear that self-compassion might lead to complacency—like kindness and motivation can't coexist. I wonder if we could explore where that belief comes from, because you absolutely deserve understanding *and* can still take meaningful steps forward.  \n\nWhat messages did you grow up hearing about struggle and self-discipline that might be shaping this harsh inner voice?",
+    "client": "I hadn’t thought of it that way—as gathering information instead of judging my worth. That takes some of the pressure off, but I still feel nervous about putting myself out there. What if I don’t get any response at all? Wouldn’t that just confirm that I’m not good enough?",
+    "therapist": "That \"no response\" outcome feels so personal, doesn't it? But in reality, there are so many possible reasons someone might not reply—many completely unrelated to your worth. What if we made this experiment even smaller, like focusing on noticing how you feel before and after taking action, rather than the outcome itself?",
     "condition": "baseline",
-    "val_t": -0.13746345043182373,
-    "aro_t": 0.03268277645111084,
-    "text_emotion": "Neutral"
+    "val_t": -0.2271113395690918,
+    "aro_t": 0.12379789352416992,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I guess growing up, my parents always pushed the idea that being hard on yourself is the only way to succeed. They'd say things like \"comfort is for the weak\" or \"if you're not struggling, you're not trying hard enough.\" It's just hard to imagine being kind to myself without feeling like I'm letting myself off the hook. \n\nPart of me knows that sounds extreme, but another part worries that if I stop being so critical, I'll just stop trying altogether. It's like my anxiety and guilt are the only things keeping me moving forward.",
-    "therapist": "It makes so much sense that these messages feel deeply ingrained—they were presented as truths during your formative years. I wonder if we could gently challenge the idea that self-criticism is the only effective motivator, especially since it seems to be draining rather than energizing you right now.  \n\nWhat would it feel like to experiment with viewing self-compassion as fuel for perseverance rather than an obstacle to it?",
+    "client": "Focusing on how I feel before and after taking action sounds less overwhelming, but I’m still worried that I’ll just feel worse afterward, like I’ve wasted my time. It’s hard to believe that taking action will make me feel better when I’m so used to expecting the worst. What if I just end up more anxious than before?",
+    "therapist": "It sounds like you're anticipating that taking action will only lead to more anxiety, which makes it feel safer to stay where you are—that’s a really valid fear. What if we approached this as a way to gather evidence about whether your predictions are true, rather than assuming they are? For example, how might you feel if you noticed that taking action didn’t make things worse, even if it didn’t immediately solve everything?",
     "condition": "baseline",
-    "val_t": -0.19728565216064453,
-    "aro_t": 0.11319911479949951,
+    "val_t": -0.2828923463821411,
+    "aro_t": 0.15735304355621338,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about self-compassion, but it just feels... fake to me. Like I'm letting myself off the hook too easily. The self-criticism has always pushed me to do better, even if it leaves me exhausted. \n\nI don't know how to switch that off without feeling like I'm becoming lazy or undisciplined. What if being kinder to myself just makes me complacent?",
-    "therapist": "That fear of becoming complacent makes complete sense—it shows how deeply you care about growth and responsibility. What if we explored whether self-criticism is *actually* helping you right now, or if it might be draining energy you could use for practical steps forward?  \n\nI wonder what it would feel like to test this belief gently—maybe by noticing moments when kindness actually helps you take action rather than avoid it?",
+    "client": "I guess if I noticed that taking action didn’t make things worse, it might help me feel a little more in control, but I’m still skeptical. Even if it doesn’t make things worse, what if it doesn’t make them better either? It feels like such a small step, and I’m not sure it’ll make a difference in the bigger picture.",
+    "therapist": "It makes sense that a small step might feel insignificant when the bigger problem—like financial stability—looms so large. But change often happens through these small, repeated actions that gradually shift our patterns. What if we focused on this as building momentum, rather than expecting one step to solve everything? How does that idea sit with you?",
     "condition": "baseline",
-    "val_t": -0.232138991355896,
-    "aro_t": 0.11943221092224121,
+    "val_t": -0.13603997230529785,
+    "aro_t": 0.12851130962371826,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about self-criticism maybe draining my energy, but being kind to myself just makes me nervous. Like if I go easy on myself, won't I just slack off even more? That's what always happens—I relax a little and then fall behind on everything. \n\nIt's hard to imagine kindness helping me take action when my anxiety is what usually kicks me into gear. Without that pressure, I'm scared I'll just freeze up.",
-    "therapist": "It sounds like your anxiety has become a familiar—if exhausting—motivator, and the idea of letting go of that pressure feels risky. I wonder if we could explore small ways to test this belief, like noticing what happens when you balance self-compassion with practical steps, rather than seeing them as opposites?  \n\nWhat would it feel like to try one small act of kindness toward yourself while still taking action—like acknowledging this is hard *and* sending one job application?",
+    "client": "I guess focusing on momentum makes sense in theory, but it’s hard to stay motivated when I don’t see immediate results. It feels like I’m putting in effort for something that might not pay off for a long time, if ever. I’m not sure how to keep going when it feels so uncertain.",
+    "therapist": "It’s completely understandable to feel disheartened when the payoff isn’t immediate—uncertainty can make it hard to trust the process. What if we thought of this as building resilience, so even if the external results take time, you’re strengthening your ability to handle challenges along the way? How does that perspective feel to you?",
     "condition": "baseline",
-    "val_t": -0.1906355619430542,
-    "aro_t": 0.1521592140197754,
+    "val_t": -0.10709273815155029,
+    "aro_t": 0.1646440029144287,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it feels like those two things contradict each other. If I'm being kind to myself and acknowledging how hard this is, wouldn't that just make me want to avoid sending applications altogether? That's what usually happens - I either push myself mercilessly or collapse into self-pity. \n\nThe idea of doing both at the same time makes me anxious because I'm afraid I'll lose my edge. The guilt and pressure are what keep me productive, even if it's miserable.",
-    "therapist": "It sounds like you've been stuck in this all-or-nothing pattern—either punishing yourself into action or feeling too overwhelmed to move—and I can see why finding a middle ground feels uncertain. What if we explored how self-compassion might actually help you stay consistent rather than losing momentum?  \n\nI wonder what it would feel like to test this by pairing kindness with action—like acknowledging this is hard *while* taking one small step, rather than seeing them as opposites?",
+    "client": "Thinking of it as building resilience makes sense, but it still feels abstract—like I’m working toward something intangible. I guess I’m just used to seeing immediate results, and this feels like I’m putting in effort without knowing if it’ll ever pay off. It’s hard to stay motivated when I can’t see the progress.",
+    "therapist": "That frustration makes so much sense—we’re wired to crave visible progress, and resilience can feel invisible until we’re actually using it. What if we found small, tangible ways to track your growth, like noticing when a negative thought doesn’t derail you as much as it used to? What would that kind of progress look like for you?",
     "condition": "baseline",
-    "val_t": -0.28880321979522705,
-    "aro_t": 0.10592150688171387,
-    "text_emotion": "Sad"
+    "val_t": -0.0390782356262207,
+    "aro_t": 0.08265995979309082,
+    "text_emotion": "Neutral"
   }
 ]

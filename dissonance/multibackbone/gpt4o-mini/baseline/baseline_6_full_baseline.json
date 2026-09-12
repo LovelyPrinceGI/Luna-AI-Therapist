@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed by my job lately, especially after my team missed that crucial deadline last week. It just feels like the demands keep piling up, and I'm struggling to keep everything together. I worry that I'm not cut out for this role, and I'm starting to wonder if therapy can actually help me sort through all this stress.",
-    "therapist": "It sounds like you're carrying a heavy load right now, especially with the added pressure from your team’s missed deadline. It's completely understandable to feel overwhelmed and question your abilities during such a challenging time. What specific thoughts about your role do you find most distressing, and how do they impact your feelings?",
+    "client": "I've been feeling really overwhelmed with my job as a project manager lately. After my team missed a crucial deadline last week, the pressure has just been piling up, and I can't shake off this feeling of anxiety and guilt. I keep wondering if therapy can really help me manage all this stress, but I'm not sure.",
+    "therapist": "It sounds like you're carrying a heavy weight with the pressure from your job and the feelings of anxiety and guilt that have come with it. It's completely understandable to question the effectiveness of therapy during such a challenging time. What specific thoughts or beliefs are contributing to your sense of overwhelm right now?",
     "condition": "baseline",
-    "val_t": -0.2968766689300537,
-    "aro_t": 0.1820361614227295,
+    "val_t": -0.35175538063049316,
+    "aro_t": 0.2315911054611206,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking that I'm not good enough to be part of this team. Every time we miss a deadline, it feels like I'm failing, and that just amplifies my anxiety. I feel guilty, like I should be doing more, and it makes me hesitant to speak up or contribute, worried that I’ll just make things worse.",
-    "therapist": "It’s really important to acknowledge how those thoughts of not being good enough can weigh heavily on you, especially when you’re feeling guilty about the team's performance. It's understandable to feel anxious and hesitant in response to that pressure. Can you think of any situations where you’ve contributed positively to the team, even if they didn't go as planned?",
+    "client": "I think a lot of my overwhelm comes from this belief that I need to be perfect at my job, and when things don't go well, I feel like I’ve let everyone down. I can't help but replay the missed deadline in my mind, feeling guilty like it's all my fault. It's hard to see how therapy could change that when I'm so focused on what went wrong.",
+    "therapist": "It’s clear that you hold yourself to a very high standard, and feeling responsible for the missed deadline can intensify that pressure. It's important to recognize that mistakes happen and they don’t define your worth or abilities as a project manager. What might it look like to challenge that belief of needing to be perfect, and to consider the context and learning opportunities from this experience?",
     "condition": "baseline",
-    "val_t": -0.4333451986312866,
-    "aro_t": 0.20013272762298584,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I've been thinking about what you said, and honestly, it’s hard for me to come up with positive contributions. I often feel like I’m just not good enough, and when things don’t go as planned, I end up feeling more guilty. I guess I just focus so much on the mistakes that I overlook any small wins I might have had.",
-    "therapist": "It sounds like you’re really caught in a cycle of focusing on mistakes, which can overshadow the positive contributions you've made. It's completely normal to feel that way, especially when pressure builds. What if you tried to keep a small log of your achievements, no matter how minor they seem? How do you think that might shift your perspective over time?",
-    "condition": "baseline",
-    "val_t": -0.2942183017730713,
-    "aro_t": 0.0714651346206665,
+    "val_t": -0.31969666481018066,
+    "aro_t": 0.129020094871521,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "I get what you’re saying about focusing on mistakes, but keeping a log of achievements feels a bit pointless to me. I mean, I can't help but think that I’ll just end up writing down things that feel insignificant or nothing at all. It’s hard to feel proud of anything when I’m constantly battling this anxiety and guilt over what I’m not doing right.",
-    "therapist": "It’s understandable to feel that way, especially when anxiety and guilt can overshadow any sense of accomplishment. It might help to remember that even small wins can be meaningful, but I hear you that it feels difficult to acknowledge them right now. How might you feel if you approached this log as a way to simply notice your efforts, rather than measure your worth?",
+    "turn": 3,
+    "client": "I get what you're saying, but it's really hard to shift my mindset when I'm so used to thinking that perfection is the only option. I worry that if I don't hold myself to those standards, I'll just end up making more mistakes. It feels risky to even think about seeing this as a learning opportunity because I’m afraid it will just excuse my failures instead of pushing me to do better.",
+    "therapist": "I hear you; it’s understandably difficult to shift your mindset when perfection has been your guiding principle. It’s natural to fear that lowering your standards might lead to more mistakes, but what if reframing your perspective could actually enhance your growth and resilience? How might you feel about trying to view mistakes as part of the learning process, rather than as reflections of your competence?",
     "condition": "baseline",
-    "val_t": -0.23978674411773682,
-    "aro_t": 0.14629662036895752,
+    "val_t": -0.19306063652038574,
+    "aro_t": 0.1267404556274414,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "I see what you're getting at, but it still feels really daunting to think of mistakes as learning opportunities. I’m worried that if I start to loosen my grip on perfection, I might not push myself hard enough and that could lead to worse outcomes in the future. It feels like a balancing act, and I’m not sure I can trust myself to find that balance.",
+    "therapist": "It's completely understandable to feel daunted by the idea of loosening your grip on perfection, especially when it feels tied to your motivation and drive. Trusting yourself to find that balance can be challenging, but it might be helpful to consider that growth often comes from experimenting with new approaches, even if they feel uncomfortable at first. What small step could you take to explore this idea of balance without feeling like you have to abandon your standards entirely?",
+    "condition": "baseline",
+    "val_t": -0.1317654848098755,
+    "aro_t": 0.161271333694458,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you saying that, but it feels like even noticing my efforts might just highlight how little I’ve actually accomplished. I often feel like I’m not doing enough, so even writing things down feels like it could just lead to more guilt. What if I end up feeling worse about myself instead of better?",
-    "therapist": "It’s completely valid to be concerned that noticing your efforts might lead to more guilt, especially when you’re feeling so overwhelmed. It might help to approach this with curiosity rather than judgment—viewing it as an experiment to see how it feels rather than a measure of success. What if you tried writing things down without the pressure of evaluation, just to observe how it impacts your feelings over time?",
+    "client": "I guess one small step could be to set more realistic expectations for myself on my next project. But even thinking about doing that makes me anxious because I fear it could lead to another mistake. I just don’t know how to feel comfortable with the idea of not pushing myself to the absolute limit.",
+    "therapist": "It's a positive step that you're considering setting more realistic expectations, even if it feels anxiety-provoking. It’s completely normal to feel apprehensive about making changes to your approach, especially when you’re used to pushing yourself hard. What if you viewed this as an experiment, allowing yourself to test those expectations and see the outcomes without judgment? How might you feel about starting small and gradually adjusting your expectations as you gain confidence?",
     "condition": "baseline",
-    "val_t": -0.2797278165817261,
-    "aro_t": 0.06113994121551514,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I don't know, Luna. Writing things down feels like another task on my already overflowing plate. I'm worried that if I start tracking my efforts, it might just highlight how much I still haven't accomplished. It feels like I would just end up feeling more guilty and overwhelmed instead of curious.",
-    "therapist": "I completely understand how adding another task to your plate can feel overwhelming, especially when you're already managing so much. It’s okay to feel hesitant about this idea, and it’s important to prioritize what feels manageable for you right now. What would feel more supportive or helpful for you at this moment, given everything you’re experiencing?",
-    "condition": "baseline",
-    "val_t": -0.2922396659851074,
-    "aro_t": 0.16114318370819092,
+    "val_t": -0.16285693645477295,
+    "aro_t": 0.14908039569854736,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I appreciate you understanding how overwhelming everything feels right now. It’s just that I often feel like I’m drowning in responsibilities, and adding something else, even if it’s supposed to help, feels like it could tip me over the edge. I really don’t know what would feel supportive at this moment; I just wish things could feel a little lighter.",
-    "therapist": "It’s really tough to feel like you're drowning, and it's understandable to want to avoid anything that might add to that weight. Wanting things to feel lighter is a completely valid wish, and it’s okay to seek out small changes that don’t feel like extra burdens. What are some small moments in your day where you might find a little bit of relief or lightness, even if it’s just for a brief moment?",
+    "turn": 6,
+    "client": "I can see how viewing it as an experiment could take some pressure off, but I still feel really hesitant. It feels like I’d be setting myself up for potential failure if I don't push myself as hard as before. I'm just not sure how I'll measure success if I'm not holding myself to those high standards.",
+    "therapist": "It’s completely understandable to feel hesitant about the idea of shifting away from your high standards, especially when they have been your measure of success for so long. It might help to consider that success can be defined in various ways, not just through perfection or meeting every deadline. What if you took some time to reflect on what success might look like for you in this upcoming project, beyond just the end results?",
     "condition": "baseline",
-    "val_t": 0.07971847057342529,
-    "aro_t": 0.13665521144866943,
-    "text_emotion": "Excited"
+    "val_t": -0.1144634485244751,
+    "aro_t": 0.09511160850524902,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I see what you're saying about redefining success, but it feels really hard for me to step away from that traditional view of just meeting deadlines and delivering perfect work. I’m worried that if I focus on anything else, like team collaboration or learning from mistakes, I might end up not achieving what’s expected of me. It feels risky to even think about it, and I’m not sure how to balance those new measures with the pressure I already feel.",
+    "therapist": "It’s completely valid to feel challenged by the idea of redefining success, especially when you’ve been conditioned to prioritize deadlines and perfection. The pressure you feel is real, and it’s understandable to worry about how shifting your focus might affect your performance. What if you tried to incorporate those new measures of success gradually, perhaps by setting small, specific goals related to team collaboration or learning, while still keeping some of your traditional benchmarks? How might that approach help you feel more balanced and less overwhelmed?",
+    "condition": "baseline",
+    "val_t": -0.14876902103424072,
+    "aro_t": 0.11993765830993652,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying that it’s okay to seek small changes, but honestly, I find it hard to even think of moments where I could find relief. My days often feel so heavy and overwhelming that I just end up going through the motions. It’s like I’m stuck in this fog and can’t see any lightness around me.",
-    "therapist": "It sounds incredibly difficult to feel so weighed down and stuck in that fog, making it hard to see any sense of relief or lightness. Acknowledging that heaviness is an important step, and it’s okay to feel like you're just going through the motions right now. If you were to imagine what a tiny bit of relief might look like, even if it feels distant, what would that look like for you?",
+    "client": "I guess gradually incorporating those new measures could be less overwhelming than trying to change everything at once. But I still feel skeptical about whether focusing on things like collaboration will actually lead to better outcomes in my projects. It feels like I’m just adding more layers to what already feels complicated, and I’m not sure if it will help or just create more pressure.",
+    "therapist": "It's completely understandable to feel skeptical about how focusing on collaboration might lead to better outcomes, especially when you're already feeling overwhelmed. Adding new layers can seem daunting, but it might help to view this as an opportunity to simplify your approach rather than complicate it. What if you considered starting with just one small aspect of collaboration to focus on, and allowed yourself to observe how it impacts your project? How might you feel about testing this out in a low-pressure way?",
     "condition": "baseline",
-    "val_t": -0.07398653030395508,
-    "aro_t": 0.12641048431396484,
+    "val_t": -0.0733100175857544,
+    "aro_t": 0.12530910968780518,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate you acknowledging how heavy everything feels. When I think about relief, it seems so far away; I can picture just a moment where I’m not constantly anxious or weighed down by guilt, maybe just sitting outside with a warm cup of tea and feeling at peace. But honestly, that feels so unrealistic right now, like I’m stuck in this loop and can’t even imagine getting there.",
-    "therapist": "It's really meaningful that you can envision a moment of peace, even if it feels far away right now. Acknowledging that desire for relief is important, and it’s understandable to feel stuck in that loop. What if we explored small, manageable ways to create even brief moments of that envisioned peace, like taking a few minutes to sit outside with your tea, even if it’s just for a moment? How would that feel to you?",
+    "client": "I can see how starting with just one small aspect of collaboration could feel a bit more manageable, but I’m still worried about how it would play out in practice. What if my team doesn’t respond well to it, or what if I end up feeling like I’m not doing enough? It feels like I’m walking a tightrope, and I’m not sure I can handle any missteps right now.",
+    "therapist": "It’s completely natural to feel apprehensive about how your team might respond, as well as to worry about not doing enough. That tightrope feeling can be really challenging, especially when you’re already under pressure. What if you allowed yourself to view this as a learning process, where any missteps are simply opportunities for growth, rather than failures? How might that shift your perspective on moving forward with your team?",
     "condition": "baseline",
-    "val_t": -0.10625672340393066,
-    "aro_t": 0.1055307388305664,
-    "text_emotion": "Neutral"
+    "val_t": -0.2231440544128418,
+    "aro_t": 0.11999428272247314,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea of creating those moments of peace, but sitting outside with my tea feels like just another task on my already overwhelming list. I often struggle to calm my mind enough to enjoy such simple things. What if I sit outside but still can’t find that sense of relief? It feels like I’m just setting myself up for disappointment.",
-    "therapist": "It’s completely understandable to feel that way; the pressure to find relief can sometimes make even simple moments feel daunting. It’s okay to not have that sense of peace right away, and it’s important to be gentle with yourself about the process. What if you approached sitting outside as simply a break, without the expectation of achieving a certain feeling? How might that shift your experience?",
+    "client": "I see what you're saying about viewing missteps as opportunities for growth, but it's tough for me to shake off the feeling that mistakes reflect poorly on my leadership. I still feel like the stakes are high, and I'm afraid that if I don't perform perfectly, it could have serious consequences for my team and my career. I just don't know if I can mentally handle that shift right now.",
+    "therapist": "It’s understandable to feel that mistakes could reflect poorly on your leadership, especially when you care deeply about your team and your career. The stakes can feel incredibly high, and it's okay to recognize that this is a tough mental shift. What if you considered that effective leaders also show vulnerability and learn from their experiences? How might exploring this idea of leadership evolve for you as you navigate these challenges?",
     "condition": "baseline",
-    "val_t": -0.15795135498046875,
-    "aro_t": 0.10682260990142822,
+    "val_t": -0.2452547550201416,
+    "aro_t": 0.12669360637664795,
     "text_emotion": "Angry"
   }
 ]

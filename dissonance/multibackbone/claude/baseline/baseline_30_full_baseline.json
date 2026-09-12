@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed out lately because my final exams are coming up next month and I feel like I'm already falling behind on everything. I had this whole study schedule planned out, but I just can't seem to stick to it, and now I'm convinced I'm going to fail. Honestly, I'm not even sure talking about it is going to change anything, because the problem is real — the exams are real — and I don't see how therapy fixes that.",
-    "therapist": "You're absolutely right that the exams are real, and I want you to know I'm not here to talk you out of your stress or pretend the pressure isn't genuine — it is. What I *can* help with is that jump your mind made from \"I've fallen behind on my schedule\" to \"I'm going to fail,\" because that leap might be making everything feel even more overwhelming than it needs to. I'm curious — when you imagine \"failing,\" what does that picture actually look like to you, and how likely does it feel compared to what the evidence around you actually shows?",
+    "client": "I've been really stressed out lately because my final exams are coming up next month and I honestly feel like I'm falling behind on everything. I had this whole study schedule planned out, but I just haven't been able to stick to it, and now the anxiety is kind of taking over. I'm not even sure talking about it is going to change anything, because at the end of the day I still have to actually sit down and study.",
+    "therapist": "It sounds like you're carrying a really heavy load right now — the pressure of exams *plus* the frustration of feeling like you've already fallen short of your own plan, and that combination can make it hard to even know where to start. You're absolutely right that talking won't do the studying for you, but sometimes the anxiety itself is what's getting in the way of actually sitting down, and that's worth exploring. What do you think is happening in those moments when you *intend* to study but find yourself unable to follow through?",
     "condition": "baseline",
-    "val_t": -0.3782740831375122,
-    "aro_t": 0.21891331672668457,
+    "val_t": -0.3747596740722656,
+    "aro_t": 0.24346768856048584,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I picture failing, it's not just like... getting a bad grade. It's more like everyone finding out I'm not as capable as they thought, my parents being disappointed, and feeling completely alone with that shame. And I know logically the evidence doesn't really support that — I've passed every exam so far — but in the moment it feels like this time is different, like I've finally used up all my luck.",
-    "therapist": "That image you're describing — the shame, the loneliness, the fear of being \"found out\" — sounds so much heavier than just worrying about a grade, and it makes complete sense that carrying *that* weight would make it hard to sit down and study. It's also really insightful that you can see the gap between what the evidence shows (a consistent track record of passing) and what that fear is whispering to you, which tells me your logical mind hasn't gone anywhere. I'd love to gently explore that thought \"I've finally used up all my luck\" — what would you say to a close friend who told you their entire past success was just luck and meant nothing about their ability?",
+    "client": "Honestly, I sit down at my desk and I open my notes, and then this wave of dread just hits me — like, where do I even start, there's so much. And then I start thinking about how I've already wasted so much time, and that thought kind of spirals into me feeling like even if I study now it might not be enough, so what's the point. I end up just scrolling on my phone or doing literally anything else, and then I feel guilty about that too, which makes it even harder to start the next time.",
+    "therapist": "What you're describing is a really classic anxiety spiral — the dread triggers a thought like \"it's already too late, so why bother,\" and that thought makes avoidance feel like the only relief, even though the guilt afterwards tightens the cycle even more. It makes so much sense that you're stuck, because your brain is essentially telling you that trying is pointless *before* you've even given yourself a chance. I'm curious — when you think \"even if I study it might not be enough,\" is there any part of you that can imagine a version of events where putting in *some* effort actually does make a difference?",
     "condition": "baseline",
-    "val_t": -0.2705516815185547,
-    "aro_t": 0.16525542736053467,
-    "text_emotion": "Angry"
+    "val_t": -0.41442418098449707,
+    "aro_t": 0.16594600677490234,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I mean... if a friend said that to me, I'd probably tell them they were being ridiculous, that all those times they succeeded couldn't have just been coincidence. But it feels completely different when it's me saying it about myself — like the rules just don't apply the same way. I know that probably sounds irrational, but knowing that doesn't actually make the fear go away.",
-    "therapist": "What you just noticed — that you hold yourself to a completely different and harsher standard than you'd ever apply to someone you care about — is actually one of the most important things we can work with, and it's not irrational at all, it's incredibly human. You're right that insight alone doesn't dissolve the fear, but it does give us a foothold, because that compassionate friend-voice you have? It's already in there. I'm wondering, when the fear feels loudest — like when you're sitting down to study and the dread hits — what does that inner voice actually say to you in that moment?",
+    "client": "I mean, yeah, logically I know that studying something is better than studying nothing. But in the moment it doesn't feel that way — it feels like I'm so far behind that a few hours here and there won't actually move the needle enough to matter. I guess I can kind of see what you're saying, but it's hard to hold onto that thought when the panic kicks in.",
+    "therapist": "You've just identified something really important — you *have* the rational thought available to you, but panic kind of hijacks it before it can do its job, and that's not a logic problem, it's an anxiety problem. One small thing we could experiment with is creating a kind of \"anchor phrase\" you prepare in advance — something like \"some is better than none\" — so it's ready to deploy the moment that wave of dread hits, before the spiral gets momentum. When you imagine yourself sitting down at your desk tomorrow, what do you think would feel like the smallest possible step you could actually take without it triggering that overwhelm?",
     "condition": "baseline",
-    "val_t": -0.24842870235443115,
-    "aro_t": 0.17452919483184814,
+    "val_t": -0.2702317237854004,
+    "aro_t": 0.20472359657287598,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "When the dread hits, it's usually something like \"you're going to blank out again, you're going to fail, and then everyone will know you don't actually belong here.\" It's almost like a countdown that starts the second I open my notes, like I'm already anticipating the disaster before anything has even happened. And the weird part is, I know it's not helpful, but it feels like if I stop being afraid, I'll get complacent and actually fail.",
-    "therapist": "That last part is such an important thing to name — there's a part of you that's actually *protecting* the fear, because it believes anxiety is the thing keeping you from falling apart, almost like it's doing you a favor. But I'd gently invite you to consider: has that countdown voice, all that dread before you even begin, actually helped you study better, or has it mostly just made it harder to open the notes in the first place? What do you think would really happen if you let yourself study from a place of \"I've done this before and I can figure it out\" instead of fear?",
+    "client": "I think maybe just opening one document and reading like the first page of my notes, something that small might actually feel doable. But I'm a little skeptical about the anchor phrase thing — like, I worry that in the moment when I'm really panicking, some short phrase isn't going to feel powerful enough to cut through all that noise. It almost feels too simple for how overwhelming the anxiety gets.",
+    "therapist": "Your skepticism is completely fair, and it's actually a really healthy instinct to question whether something will work for *you* rather than just taking it on faith. The anchor phrase isn't meant to magically dissolve the panic — it's more like a tiny interruption that buys you just enough of a pause to take that one small action, like opening that single document, before the spiral fully takes hold. What do you think *has* helped even slightly in the past when anxiety felt overwhelming — even if it wasn't a perfect solution?",
     "condition": "baseline",
-    "val_t": -0.3390311002731323,
-    "aro_t": 0.20153963565826416,
+    "val_t": -0.17920148372650146,
+    "aro_t": 0.2007918357849121,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and honestly, part of me wants to agree with you... but another part of me is like, what if the anxiety is actually the only reason I open the notes at all? Like, if I take away that pressure, that dread, maybe I just... don't do anything. I'm scared that without the fear pushing me, I'll just fall behind and prove everyone right that I can't handle this.",
-    "therapist": "That fear makes a lot of sense — you've been running on this fuel for so long that it's hard to imagine another engine even exists, but I want to gently point out that you've been describing the anxiety as something that *stops* you from studying, not something that starts it. So it sounds less like the fear is your motivator, and more like you're studying *despite* it, which actually says something really significant about your own inner drive. What if the thing that's really been getting you through all this time isn't the fear at all — but something quieter underneath it, like caring about your future or proving something to yourself?",
+    "client": "Sometimes just getting out of my room and going for a short walk helps a little, like it physically breaks the loop for a few minutes. But then I come back and everything is still there waiting for me, and honestly sometimes the walk just delays the anxiety rather than actually helping me deal with it. I guess it does create a small gap though, which is kind of what you're describing with the phrase thing.",
+    "therapist": "You just made a really insightful connection on your own — noticing that the walk creates a gap, and that gap is actually the same mechanism as the anchor phrase, just in a different form. And you're right that it doesn't make the work disappear, but what if the goal isn't to eliminate the anxiety but to use that small gap — whether from a walk or a phrase — to slide that one tiny action in, like opening that single document, before the dread can rebuild? What do you think it would feel like to come back from a short walk and go straight to just that first page, treating it almost like an experiment rather than a commitment?",
     "condition": "baseline",
-    "val_t": -0.2839963436126709,
-    "aro_t": 0.299507737159729,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I hear what you're saying, and part of me wants to believe that... but honestly, it's hard to separate the two. Like, how do I know if I'm studying because I genuinely care, or if I've just told myself that to feel better about being anxious all the time? It feels like trying to figure out which came first, and I'm not sure I trust my own read on it.",
-    "therapist": "That uncertainty about trusting your own inner experience is really worth sitting with, because it tells me the anxiety has been around so long it's started to blur the edges of who you are outside of it — and that's exhausting. Here's something small we could try: rather than solving the \"which came first\" question in your head, what if we just ran a tiny experiment this week — one short study session where you notice, without judgment, what actually pulls you through it? What do you think you might discover about yourself if you watched with curiosity instead of trying to figure it all out in advance?",
-    "condition": "baseline",
-    "val_t": -0.13766121864318848,
-    "aro_t": 0.12525975704193115,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I hear what you're saying, and part of me wants to try it, but I'm already feeling that familiar dread just thinking about sitting down to study and \"observing\" myself. Like, what if I watch myself and all I see is someone who can't focus, who panics, who just proves all the worst things I already think about myself? It feels less like curiosity and more like setting up a front-row seat to my own failure.",
-    "therapist": "That fear of self-observation making things worse is so understandable — it's like you're worried the watching itself will become another way to judge yourself, and I want to acknowledge that's a real risk if we approach it the wrong way. So let's reframe it slightly: instead of watching *yourself*, what if you just noticed the *experience* — like a weather report, not a verdict — just \"there's dread, there's a moment of focus, there's distraction,\" without it meaning anything about your worth? What's the smallest, least threatening version of this you could imagine — even five minutes — where the only goal is to notice, not to perform?",
-    "condition": "baseline",
-    "val_t": -0.3430992364883423,
-    "aro_t": 0.19706058502197266,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I like the weather report idea, it actually sounds less scary when you put it that way. But I think even five minutes feels like a lot, because once I sit down to \"just notice,\" my brain immediately starts asking whether I'm doing it right, and then I'm already judging myself for judging myself. It's like the whole thing collapses into this recursive loop before I've even really started.",
-    "therapist": "That recursive loop you're describing — judging yourself for judging yourself — is actually a really common experience, and the fact that you can see it happening so clearly means you're already one step outside of it, even if it doesn't feel that way. What if \"doing it right\" simply meant noticing that the loop showed up, and then gently returning, even once — because that one gentle return *is* the practice, not a sign you're failing at it? I'm curious, is there even a smaller entry point than five minutes — maybe just the moment you open your notes and take one breath before anything else happens?",
-    "condition": "baseline",
-    "val_t": -0.07012569904327393,
-    "aro_t": 0.12137138843536377,
+    "val_t": 0.03742349147796631,
+    "aro_t": 0.06741750240325928,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe that one breath could actually count as something real. But honestly, it still feels a little too easy, like I'm letting myself off the hook for not doing the \"real\" work. I guess I'm worried that if I lower the bar that much, I'll just use it as an excuse to never actually push myself.",
-    "therapist": "It's really telling that your mind frames gentleness as \"letting yourself off the hook,\" because that suggests the bar you've set for yourself has become less about what actually helps you learn and more about punishing yourself enough to feel like you've earned the right to succeed. But here's something worth sitting with: the \"real work\" hasn't been happening much under the high bar either, so lowering it isn't giving up — it might actually be the thing that gets you moving. What if the one breath isn't the *instead* of pushing yourself, but the *doorway* to it?",
+    "turn": 6,
+    "client": "I think framing it as an experiment rather than a commitment actually does feel a little less heavy, like there's less riding on it. But I'm also worried that even if I manage to do it once, I won't be able to make it consistent — like it'll work one day and then the next day I'll be right back in the same spiral and feel even worse for having failed again. I guess I just don't fully trust myself to follow through when things get hard.",
+    "therapist": "That fear of inconsistency is so understandable, but I want to gently challenge the framing of \"failing\" — if you manage it once and then struggle the next day, that's not failure, that's just what building a new habit under stress actually looks like, with messy, uneven progress rather than a clean upward line. The fact that you don't fully trust yourself right now makes sense given how many times the spiral has won lately, but trust gets rebuilt through small evidence, not through a single perfect streak. If you did manage to open that one document tomorrow and read that first page, how do you think you might feel about yourself afterwards, even just for a moment?",
     "condition": "baseline",
-    "val_t": -0.14279663562774658,
-    "aro_t": 0.11113250255584717,
+    "val_t": -0.25168025493621826,
+    "aro_t": 0.02196478843688965,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 7,
+    "client": "Honestly, I think I'd probably feel a small sense of relief, maybe even a little proud of myself, at least for that moment. But then I'd probably immediately start thinking about how much more there is left to do and that one page is basically nothing compared to what I need to cover before the exams. I guess that's another version of the same spiral, isn't it — even when I do something right, I find a way to make it feel not enough.",
+    "therapist": "You just named something really profound — that the \"not enough\" thought isn't actually about how much you've studied, it's a pattern your mind applies regardless of what you do, which means doing *more* studying alone won't fix it. That small moment of pride you described is real and worth protecting, and one gentle experiment could be to just let it exist for a minute before your mind rushes to what's next — almost like pausing to notice \"I did the thing I said I'd do.\" What do you think it would mean about you as a person if you allowed that small win to count, even knowing there's still more to do?",
+    "condition": "baseline",
+    "val_t": 0.0968712568283081,
+    "aro_t": 0.13787901401519775,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 8,
+    "client": "I think it would mean that maybe I'm not as far gone as I feel like I am, that I'm still someone who can follow through sometimes even when it's hard. But allowing that to count feels almost uncomfortable, like I don't fully believe I've earned it unless I've done everything perfectly. I'm not sure why I hold myself to that standard — it's exhausting, and I know it doesn't make sense, but letting go of it feels kind of scary too.",
+    "therapist": "What you just said — that you haven't earned it unless everything is perfect — is such an important thread to pull on, because that standard isn't protecting you or motivating you, it's actually the engine behind a lot of this exhaustion and the spiral we've been talking about. It makes sense that letting go of it feels scary, because if perfectionism has been your measure of self-worth for a long time, relaxing it can feel like losing something, even when it's been hurting you. I'm curious — where do you think that belief that you have to earn your own sense of okayness through perfect performance first came from?",
+    "condition": "baseline",
+    "val_t": -0.2720073461532593,
+    "aro_t": 0.16824960708618164,
     "text_emotion": "Angry"
   },
   {
-    "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe it, but another part is just... skeptical. Like, if I give myself that breath, that pause, won't I just use it as an excuse to stay there and never actually start? It feels like the doorway you're describing could just as easily become a comfortable room I never leave.",
-    "therapist": "That image of the doorway becoming a comfortable room you never leave is really vivid, and I want to honor that fear — but I also notice you've now found a reason why every possible step forward might lead to failure, which starts to sound less like realistic caution and more like that same protective anxiety finding new disguises. The part of you that keeps poking holes in each small possibility isn't wrong to be cautious, but it might be worth asking: what would it look like if there were *no* safe enough first step — and is that a standard you'd accept from anyone else?",
+    "turn": 9,
+    "client": "I think a lot of it probably comes from school always being the thing I was praised for — like, good grades were how I knew I was doing okay, and how other people knew it too. My parents never really said anything negative, but looking back, the positive attention was almost always tied to achievement, so I think I just internalized that my worth kind of depended on performing well. It's weird to say out loud because it sounds so clear when I put it that way, but I've never really thought about it in those terms before.",
+    "therapist": "It takes real courage to see something that clearly about yourself, and the fact that it feels so obvious when you say it out loud doesn't mean it was easy to get to — you just connected something really significant about where this exhausting standard came from. That young version of you made a completely logical conclusion from the information available: achievement brings love and safety, so achievement must equal worth. The hard but hopeful part is that you're not that child anymore, and you get to start questioning whether that equation still has to be true — so I'm wondering, when you imagine a version of yourself who did poorly on an exam, do you think that person would deserve less care and kindness than the version who aced it?",
     "condition": "baseline",
-    "val_t": -0.16235899925231934,
-    "aro_t": 0.1442481279373169,
-    "text_emotion": "Angry"
+    "val_t": 0.013309955596923828,
+    "aro_t": 0.13543784618377686,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "Logically, no, that person wouldn't deserve less care — I'd probably even feel more compassion for someone who tried hard and still struggled than for someone who just coasted to a perfect score. But when I apply that to myself it just doesn't land the same way, like there's this wall between what I can accept as true for other people and what I can actually feel is true for me. I don't know if that's something that can just change from having a conversation about it, or if it's way more deep-rooted than that.",
+    "therapist": "That gap you're describing — where compassion flows easily toward others but hits a wall when you try to turn it toward yourself — is one of the most common and most painful patterns I see, and you're right that it's deep-rooted enough that one conversation won't rewire it completely. But notice what's already happened here: you've traced it back to its origins, you've named it clearly, and you've caught yourself applying a double standard in real time, which is actually the foundational work that makes change possible over time. What do you think it would feel like to treat this whole process — the therapy, the small experiments, the messy inconsistent progress — with the same compassion you'd offer a friend who was trying hard and still struggling?",
+    "condition": "baseline",
+    "val_t": -0.09181547164916992,
+    "aro_t": 0.03907215595245361,
+    "text_emotion": "Neutral"
   }
 ]

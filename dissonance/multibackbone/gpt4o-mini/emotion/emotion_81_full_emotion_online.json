@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I lost my mother six months ago. It feels like everyone around me has moved on, and I just can’t seem to connect with my friends anymore. I often feel lonely and unsure if talking about it in therapy will even help.",
-    "therapist": "I'm so sorry to hear about your loss; it sounds incredibly tough to feel that way, especially when it seems like others have moved on. It's understandable to feel lonely and uncertain about sharing your feelings in therapy. What do you think might help you feel more comfortable opening up about your experiences?",
+    "client": "I've been feeling really overwhelmed since my mom passed away six months ago. It’s like everyone around me has moved on, and I just can’t seem to catch up. I feel so isolated and misunderstood, and I’m starting to wonder if talking about it in therapy will really help.",
+    "therapist": "I’m so sorry to hear about your mom's passing; it sounds incredibly overwhelming to feel like everyone has moved on while you're still processing such a deep loss. It's completely understandable to feel isolated and unsure about therapy right now. What do you think might help you feel more comfortable talking about your feelings?",
     "condition": "emotion_text_only",
-    "val_t": -0.3558298349380493,
-    "aro_t": 0.08356833457946777,
-    "text_emotion": "Sad"
+    "val_t": -0.29744017124176025,
+    "aro_t": 0.20679259300231934,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding, but I still find it hard to talk about my loss. I feel like I should be over it by now, and it makes me anxious thinking that I might be a burden if I keep bringing it up. Sometimes, I wonder if sharing more would just make things worse instead of helping me feel better.",
-    "therapist": "It's completely normal to feel hesitant about sharing such deep emotions, especially when you're worried about being a burden. Grief doesn't follow a timeline, and it’s okay to still be processing your feelings. What if we explored some of those worries together? How does it feel to consider that talking about your loss might be a way to honor your mother’s memory?",
+    "client": "I appreciate your understanding, but honestly, I’m not sure what would help me feel more comfortable. I think I just feel so stuck in my grief that even talking about it feels pointless sometimes. I worry that if I start sharing, it might just make the pain feel even more real, and I don’t know if I can handle that right now.",
+    "therapist": "It’s completely understandable to feel stuck in your grief and worry that talking about it might intensify the pain. Acknowledging that fear is an important step, and it’s okay to take things at your own pace. What if we explored some small ways to express your feelings without diving in too deeply?",
     "condition": "emotion_text_only",
-    "val_t": -0.2185046672821045,
-    "aro_t": 0.10376155376434326,
+    "val_t": -0.23825466632843018,
+    "aro_t": 0.11761474609375,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I understand what you're saying, but it feels really hard to think about sharing my emotions. I worry that if I open up, it might just bring up more pain instead of honoring her memory. Plus, I often feel like my grief is just too much for others to handle, so I hesitate to talk about it at all.",
-    "therapist": "I hear you; it sounds like you're carrying a heavy weight, and the thought of sharing your emotions feels daunting. It's natural to worry about opening old wounds, but sometimes expressing what we feel can actually help lighten that burden. What if we took it one step at a time and explored what honoring your mother means to you?",
+    "client": "I guess I could try to express my feelings in smaller ways, but I’m not sure what that would look like. Writing something down feels daunting because it’s like I’m trying to put all this heavy emotion into words, and I don’t know if I can do that without feeling overwhelmed. Plus, what if I just end up feeling worse after?",
+    "therapist": "It's completely normal to feel daunted by the idea of putting your emotions into words, especially when they feel so heavy. It’s important to approach this gently, so you don’t feel overwhelmed. What if you tried jotting down just a few words or phrases that capture how you're feeling, without any pressure to create something perfect?",
     "condition": "emotion_text_only",
-    "val_t": -0.20781362056732178,
-    "aro_t": 0.05074799060821533,
-    "text_emotion": "Sad"
+    "val_t": -0.241186261177063,
+    "aro_t": 0.17320072650909424,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate what you're saying, Luna, but honestly, the idea of opening up about my feelings around my mother is really overwhelming. I keep thinking that if I go there, it could just stir up so much pain and confusion. It's hard for me to see how talking about it would actually help; it feels like it would just make things worse.",
-    "therapist": "It sounds really overwhelming to think about opening up, and I can understand why you might fear that it could lead to more pain instead of relief. It’s completely valid to feel that way, especially when grief can be so complex. What do you think might help create a safe space for you to explore those feelings when you’re ready?",
+    "client": "I see what you're saying about keeping it simple, but I still feel hesitant. What if the few words I write just don’t capture everything I’m feeling? It almost feels like I’m trying to reduce this huge weight of grief into something so small, and I’m worried it won’t do justice to what I’m going through.",
+    "therapist": "It's completely understandable to feel hesitant about trying to condense such a profound experience into just a few words. Grief is complex, and it can feel frustrating to think that a few phrases might not capture the depth of what you’re going through. What if instead of focusing on creating a perfect expression, you allowed yourself to just write whatever comes to mind, even if it feels incomplete? How might that change your experience?",
     "condition": "emotion_text_only",
-    "val_t": -0.20553410053253174,
-    "aro_t": 0.2166966199874878,
+    "val_t": -0.16237187385559082,
+    "aro_t": 0.09743046760559082,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you saying that, but honestly, I’m not sure if I can even find a safe space. It feels like no one really gets what I'm going through, and I worry that opening up will just make everything worse. It’s hard to imagine feeling comfortable enough to share my grief when I’m still trying to process it all myself.",
-    "therapist": "It sounds like you're feeling really isolated in your grief, and it’s tough to think about finding a safe space when you're still processing everything on your own. It’s completely understandable to worry about how sharing might affect you. What if we explored what a safe space would look like for you, so you can gradually find comfort in expressing your feelings?",
+    "client": "I guess that does sound less intimidating than trying to write something perfect. But I still worry that if I just write whatever comes to mind, it will just be a jumbled mess that doesn’t really help me at all. I have this fear that I won’t be able to sort through the chaos of my feelings, and it’ll just end up feeling even more confusing.",
+    "therapist": "It makes sense that you’re feeling apprehensive about letting your thoughts flow freely, especially when emotions are so tangled and chaotic. It’s okay to feel confused; grief can be a messy process. What if you approached it as a way to simply release some of that heaviness, without worrying about making sense of it all right away? How does that idea sit with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2044926881790161,
-    "aro_t": 0.09553194046020508,
+    "val_t": -0.3296775817871094,
+    "aro_t": 0.15531396865844727,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate you acknowledging my grief and how isolated I feel. The idea of finding a safe space sounds nice, but I worry it might just open up more pain instead of helping me process it. I’m not sure what a safe space would even look like for me; it feels like I’m still stuck in my own head.",
-    "therapist": "I really appreciate your honesty in sharing how you're feeling. It sounds like you're in a tough place, feeling stuck and unsure about how to move forward. Finding a safe space can be challenging, especially when you're navigating such complex emotions. What do you think might help you feel a little more grounded as you explore these feelings, even if it’s just a small step?",
+    "client": "I can see how just letting it out could be a relief, but it still feels like a big step for me. What if I end up feeling even more overwhelmed after writing? I worry that once I start, I won't be able to stop the flood of feelings, and I'm not sure I’m ready for that.",
+    "therapist": "It's completely understandable to feel apprehensive about taking that step, especially when you're concerned about being overwhelmed by your emotions. It’s important to honor your feelings and recognize that you can take things at your own pace. What if you set a time limit for yourself, allowing just a few minutes to write, and then see how you feel? Would that help you feel a bit more in control?",
     "condition": "emotion_text_only",
-    "val_t": -0.128959059715271,
-    "aro_t": 0.10042798519134521,
-    "text_emotion": "Angry"
+    "val_t": -0.06831300258636475,
+    "aro_t": 0.20278215408325195,
+    "text_emotion": "Tense"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying that, but honestly, I’m not sure what could help me feel more grounded. Every time I try to find something that might work, it feels like I just get more overwhelmed. It’s hard to even think about taking a step when I can’t shake off this anxiety and loneliness.",
-    "therapist": "It sounds like you're feeling really overwhelmed right now, and that anxiety and loneliness can make it hard to see any path forward. It’s okay to feel that way, and taking a step can feel daunting when you're in that headspace. What if we explored some small, gentle things you could try that might help you feel a little less overwhelmed?",
+    "client": "Setting a time limit does sound a bit more manageable, but I still feel a bit skeptical about whether it will really help me process anything. What if I just end up staring at the page, unable to write anything? I’m worried that even a few minutes might feel like too much pressure, and I'll just end up feeling frustrated instead of relieved.",
+    "therapist": "It’s completely valid to feel skeptical about whether writing will help, especially when there’s pressure involved. The fear of staring at a blank page can be really frustrating, but remember, it’s okay to not have the perfect words right away. What if you tried just writing down the first thing that comes to mind, even if it feels like a random thought or feeling? That way, you can ease into it without the pressure of making it meaningful right away. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.21415483951568604,
-    "aro_t": 0.25347089767456055,
+    "val_t": -0.2082887887954712,
+    "aro_t": 0.11870765686035156,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying it’s okay to feel overwhelmed; it does help a little. But honestly, I'm skeptical about trying new things right now. It feels like nothing ever really helps, and I worry that even small steps will just end up feeling pointless or too hard to manage.",
-    "therapist": "I’m glad to hear that acknowledging your feelings helps a bit, but I can understand your skepticism about trying new things when it feels like nothing has worked before. It’s completely valid to feel that way, especially when you're in such a challenging place. What if we took a moment to think about what small steps might look like without any pressure to make them happen right away? Would that feel more manageable for you?",
+    "client": "That does sound a bit easier, but I still feel a bit hesitant. What if I write something that just feels too raw or uncomfortable? I guess I just don’t want to open up a can of worms that I can't close again. I’m really struggling to find a balance between wanting to express my grief and being afraid of what might come out.",
+    "therapist": "It’s completely understandable to feel hesitant about expressing emotions that feel too raw or uncomfortable. The fear of opening up something that feels uncontrollable is a very real concern, especially in the midst of grief. What if you approached this process with self-compassion, allowing yourself to write just a little bit at a time and giving yourself permission to stop whenever you need to? How does that idea resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.15008103847503662,
-    "aro_t": 0.14067208766937256,
+    "val_t": -0.27383410930633545,
+    "aro_t": 0.14382827281951904,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate that you understand where I'm coming from, but honestly, the idea of taking small steps feels overwhelming right now. I've tried so many things before, and it just seems like nothing sticks. I worry that even if I think of something manageable, I won't follow through, and that just adds to my anxiety and guilt.",
-    "therapist": "I hear you, and it sounds really tough to feel like you’ve tried so much without seeing the results you hoped for. It’s completely understandable to feel overwhelmed and anxious about the idea of taking steps when so much feels uncertain. What if we focused on just exploring your feelings about trying new things without any pressure to act on them? That way, we can discuss your thoughts and feelings without adding any extra stress. How does that sound to you?",
+    "client": "I appreciate the idea of approaching this with self-compassion, but I still feel a bit skeptical about whether I can actually do it. What if I end up not stopping when I need to, and it just spirals into more pain? I guess I’m just worried that I might unleash something I won't be able to handle, and that thought makes me want to avoid it altogether.",
+    "therapist": "It’s completely understandable to feel skeptical and worried about the possibility of unleashing emotions that might feel overwhelming. Those feelings of wanting to avoid it altogether are valid, especially when you're trying to navigate such a heavy experience. What if you considered setting an intention for your writing session, like focusing on just a specific memory or feeling, rather than trying to tackle everything at once? Would that help you feel a bit more grounded?",
     "condition": "emotion_text_only",
-    "val_t": -0.2267012596130371,
-    "aro_t": 0.17979896068572998,
+    "val_t": -0.30523478984832764,
+    "aro_t": 0.1382770538330078,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you saying that, but it still feels daunting to even think about exploring new things. My anxiety makes me worry that whatever I try will just lead to more disappointment, and I don't want to feel that way again. I guess I'm just not sure how talking about it will help if I still feel stuck in the same place.",
-    "therapist": "It’s completely understandable to feel daunted by the idea of exploring new things, especially when past experiences have led to disappointment. That worry can make it hard to see how talking about it could bring any change when you feel so stuck. How about we take a moment to reflect on what being stuck feels like for you, and see if there are any thoughts or beliefs tied to that feeling?",
+    "client": "I see how focusing on a specific memory or feeling could make things feel more manageable, but I'm still unsure. What if that particular memory is too painful to revisit? It's like I’m caught between wanting to express myself and fearing that I might just get lost in the pain again, and that makes me hesitant to even try.",
+    "therapist": "It’s completely understandable to feel caught between the desire to express yourself and the fear of revisiting painful memories. That hesitation is a natural response to grief, and it's okay to protect yourself from what feels too overwhelming. What if you approached this by exploring some lighter memories or moments that bring you comfort, even if they’re small? How does that idea feel to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.26472997665405273,
-    "aro_t": 0.17085731029510498,
+    "val_t": -0.23423552513122559,
+    "aro_t": 0.10305941104888916,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed by the pressure to achieve top grades in my final semester of college. Hearing my classmates talk about their study plans makes it even worse; I can't help but feel like I'm falling behind. I know I should be focused, but sometimes I wonder if therapy can really help me manage this anxiety.",
-    "therapist": "It sounds like you're carrying a heavy load with the pressure of achieving top grades, and it's completely valid to feel overwhelmed, especially when comparing yourself to others. It’s great that you’re reaching out to explore how therapy can support you through this. What do you think would be helpful for you to focus on right now in managing these feelings?",
+    "client": "Lately, I've been feeling really overwhelmed by the pressure to achieve top grades in my final semester of college. Hearing my classmates talk about their ambitious study plans makes me anxious, and I can't help but feel like I'm falling behind. Sometimes I wonder if therapy can even help me manage these feelings or if I'm just putting more pressure on myself by being here.",
+    "therapist": "It sounds like you're carrying a heavy load with the pressure to excel, and it's completely understandable to feel anxious when you see your classmates' ambitions. It's important to recognize that your feelings are valid, and seeking support through therapy can actually be a way to lighten that burden rather than add to it. What do you think might happen if you allowed yourself to explore those feelings of pressure and anxiety a bit more?",
     "condition": "baseline",
-    "val_t": -0.32067906856536865,
-    "aro_t": 0.2550239562988281,
+    "val_t": -0.3004418611526489,
+    "aro_t": 0.2557140588760376,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess it just feels like I’m constantly in this race where everyone is doing better than me. I put so much pressure on myself to get top grades, but it’s exhausting, and I worry that no matter how hard I try, it’s never good enough. I don’t even know where to start in managing these feelings; it feels overwhelming just thinking about it.",
-    "therapist": "It sounds like you're really caught in a cycle of comparison and self-criticism, which can be incredibly draining. It's important to acknowledge how exhausting that pressure can feel. What if we took a moment to explore what \"good enough\" means to you and whether those standards are realistic or even necessary?",
+    "client": "I guess exploring those feelings sounds like it could be helpful, but I'm worried about getting too deep into them and feeling even more overwhelmed. It's like, what if I discover I'm not as capable as I thought? I don’t want to spiral into more anxiety; it feels safer to just push through and pretend I’m okay.",
+    "therapist": "It's completely natural to fear that exploring your feelings might lead to more anxiety, but acknowledging those feelings can actually create space for healing and growth. You don't have to dive deep all at once; we can take small steps together to understand what’s beneath the surface without becoming overwhelmed. What if we started by identifying just one specific thought or feeling that you notice the most when you're feeling pressured?",
     "condition": "baseline",
-    "val_t": -0.20095741748809814,
-    "aro_t": 0.31128036975860596,
+    "val_t": -0.13145530223846436,
+    "aro_t": 0.1827148199081421,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you acknowledging how draining this cycle is, but honestly, thinking about what \"good enough\" means feels overwhelming. I often feel like my standards are the only things pushing me forward, even if they make me miserable. I guess I'm just not sure if I can let go of them, or if doing so would make me feel even more lost.",
-    "therapist": "It's understandable to feel that your standards are a driving force, even when they contribute to your distress. Letting go of those standards can feel intimidating, as if it might lead to a loss of direction. What if we explored small ways to adjust those standards gradually, so you can find a balance that allows you to feel both motivated and less overwhelmed?",
+    "client": "I appreciate that you want to take it slow, but I still feel a bit hesitant. One thought that keeps coming up for me is the feeling that I have to be perfect in everything I do, or else I’ll disappoint myself and others. It's hard to shake off that pressure, and I’m not sure how just identifying that thought will help me feel any better. What if it just makes me more aware of my shortcomings?",
+    "therapist": "It makes sense to feel hesitant about addressing that pressure to be perfect, especially when it feels tied to your self-worth and how you perceive others’ expectations. Recognizing that thought is actually the first step in understanding it better, and it doesn’t mean you have to dwell on your shortcomings. What if we considered that perfection might not be realistic, and explored what \"good enough\" could look like for you?",
     "condition": "baseline",
-    "val_t": -0.19207751750946045,
-    "aro_t": 0.16654682159423828,
-    "text_emotion": "Angry"
+    "val_t": -0.08046770095825195,
+    "aro_t": 0.11310732364654541,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I understand what you're saying about my standards, but it feels really difficult to let go of them, even a little. They’ve been a part of my life for so long that it’s hard to imagine what would happen if I started to adjust them. I worry that if I lower my standards, I might lose my drive and end up not accomplishing anything at all.",
-    "therapist": "It makes total sense that adjusting standards feels daunting, especially when they've shaped your drive for so long. It’s important to recognize that lowering standards doesn't mean abandoning your goals; it can actually create space for healthier motivation. What if we brainstormed some specific, achievable goals that can help you feel accomplished while also alleviating some of that pressure?",
+    "client": "I see what you're saying about \"good enough,\" but it feels hard to even imagine what that looks like for me. I’ve spent so much time focusing on being perfect that the thought of settling for anything less feels like failure. What if I actually try to be \"good enough\" and still fall short? How do I know when I'm really reaching that point?",
+    "therapist": "It's completely understandable to struggle with the idea of \"good enough\" when perfection has been your standard for so long. Remember, it’s a process, and it’s okay to redefine what success looks like for you without it being tied to perfection. What might be helpful is to think about small, achievable goals that you can set for yourself and notice how they feel; what do you think could be one small step you could take towards that \"good enough\" mindset?",
     "condition": "baseline",
-    "val_t": -0.2696201801300049,
-    "aro_t": 0.046986937522888184,
-    "text_emotion": "Sad"
+    "val_t": -0.15679609775543213,
+    "aro_t": 0.11308801174163818,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about adjusting my standards, but it feels really uncomfortable to think about it. I’ve always pushed myself to achieve those high standards, and I worry that if I lower them, I might lose my motivation or become complacent. It’s hard for me to imagine what those smaller, achievable goals would even look like.",
-    "therapist": "It's completely natural to feel uncomfortable when considering changes to something that has been a key part of your identity for so long. The fear of losing motivation is valid, but it might help to think of smaller, achievable goals as stepping stones rather than a complete departure from your ambitions. What if we explored some specific areas where you could set smaller goals that still align with your values, while also allowing for a bit of breathing room?",
+    "client": "I understand the idea of setting small goals, but I still feel uncertain about where to start. Part of me worries that even those small steps might not be enough to make a difference. What if I try to set a goal and still feel just as anxious and pressured afterward? It’s hard to trust that it will lead to a better mindset.",
+    "therapist": "It's completely normal to feel uncertain about taking those first steps, especially when you're feeling overwhelmed. It's important to remember that even small changes can create a ripple effect over time, and you're not alone in feeling anxious about them. What if we brainstormed together some small, realistic goals that feel manageable right now, and then we could reflect on how they make you feel? This way, you can see that any progress is still meaningful, regardless of the outcome.",
     "condition": "baseline",
-    "val_t": -0.1560070514678955,
-    "aro_t": 0.04314887523651123,
-    "text_emotion": "Sad"
+    "val_t": -0.1666191816329956,
+    "aro_t": 0.12935328483581543,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate your perspective, but I can't help feeling skeptical about setting smaller goals. It sounds nice in theory, but when I think about it, I worry that I’ll just end up feeling overwhelmed or not doing enough. What if I still don’t feel motivated, even with those smaller steps? I don’t want to set myself up for disappointment.",
-    "therapist": "It's understandable to feel skeptical about smaller goals, especially when you've been conditioned to aim for higher standards. This hesitation shows how much you care about your achievements and the fear of disappointment can be quite powerful. What if we approached this by identifying one tiny step that feels manageable to you, rather than a full goal? This way, you can experience success without the pressure of high expectations. How does that sound to you?",
+    "client": "I appreciate that you're trying to help me find a way forward, but I still feel a bit stuck. Brainstorming small goals feels like a lot of pressure too, and I’m not sure if I can really commit to anything without feeling overwhelmed again. What if I come up with a goal and then I'm too anxious to follow through? It just feels daunting to even think about.",
+    "therapist": "It's completely understandable to feel stuck and daunted by the idea of setting goals when you're already feeling overwhelmed. It's okay to take a step back and focus on just being present with your feelings rather than pushing for action right now. What if we took a moment to just breathe and acknowledge that it’s okay to sit with that feeling of being stuck, without any pressure to move forward just yet? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.16751372814178467,
-    "aro_t": 0.17032968997955322,
+    "val_t": -0.13834500312805176,
+    "aro_t": 0.19800233840942383,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about the pressure of high expectations, but the idea of tiny steps feels a bit pointless to me. I worry that if I lower my standards too much, I’ll just end up feeling like I'm not accomplishing anything at all. Plus, even the thought of picking just one small step seems overwhelming because I often feel stuck in my own head about what to choose.",
-    "therapist": "It sounds like you're feeling really stuck, and it’s understandable to see tiny steps as insufficient when you’re used to pushing yourself hard. It’s okay to feel unsure about where to start, especially when it feels overwhelming. What if we took a moment to explore what truly matters to you in this journey—maybe we can identify something meaningful that resonates with your values, which could guide your choice for that small step?",
+    "client": "Sitting with the feeling of being stuck does sound a bit more manageable than trying to force myself to set goals. I guess I appreciate the idea of just taking a moment to breathe and acknowledge that it's okay to feel this way. But at the same time, I worry that if I just sit with it too long, I might get trapped in that feeling and not make any progress at all. What if it just becomes an excuse to avoid dealing with things?",
+    "therapist": "It's great to hear that sitting with your feelings feels more manageable for you right now. Your concern about getting trapped in that feeling is valid, and it's important to find a balance between acknowledging your emotions and taking steps forward. What if we viewed this time of sitting with your feelings as a way to gather strength and clarity, so that when you're ready, you can approach your goals with a clearer mindset? How does that perspective feel for you?",
     "condition": "baseline",
-    "val_t": -0.13173580169677734,
-    "aro_t": 0.1561514139175415,
-    "text_emotion": "Angry"
+    "val_t": -0.2111344337463379,
+    "aro_t": 0.07677412033081055,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I appreciate you trying to help me find some clarity, but honestly, it feels really daunting to even think about what truly matters to me right now. I often get caught up in my anxiety and guilt, and it’s hard to see past that to figure out what resonates with my values. I worry that even if I could identify something meaningful, I might not have the energy to pursue it.",
-    "therapist": "It’s perfectly okay to feel overwhelmed when trying to connect with what truly matters to you, especially when anxiety and guilt are clouding your thoughts. It’s important to acknowledge that seeking clarity can take time and may require gentle exploration without the pressure to have all the answers right away. What if we focused on simply identifying one small thing that brings you even a little bit of joy or peace, without the expectation of pursuing it further right now?",
+    "client": "That perspective does feel a bit comforting, like it gives me permission to just be without the pressure to perform. I can see how gathering strength and clarity might help me later, but I still feel a bit anxious about how long that could take. What if I end up sitting with these feelings for too long and miss out on opportunities in my last semester?",
+    "therapist": "It’s so important to acknowledge that feeling of anxiety about time, especially as you approach the end of your semester. Remember, taking the time to process your emotions doesn’t mean you’re missing out; it can actually help you make more intentional choices moving forward. What if we allowed for a set period to sit with those feelings, and then checked in with how you feel ready to engage with your goals? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.16277086734771729,
-    "aro_t": 0.12030088901519775,
+    "val_t": -0.09854376316070557,
+    "aro_t": 0.11660218238830566,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but I'm not sure I can just identify something that brings me joy right now. It feels like I’m stuck in this loop of anxiety and guilt, and even thinking about joy just makes me feel more overwhelmed. What if I can't even find that one small thing? It feels like a lot to ask.",
-    "therapist": "I hear you, and it’s completely understandable to feel stuck in that loop of anxiety and guilt—wanting to find joy can feel like an added pressure. It’s okay if identifying something that brings you joy feels like too much right now; sometimes, just acknowledging that you’re in a tough place is a valid starting point. How would it feel to take a moment to simply sit with those feelings without the pressure to change them?",
+    "client": "That sounds a bit more reasonable, having a set period to sit with my feelings. I think I can manage that, but I’m still worried about how I’ll know when the right time is to move on from that. What if I set a time limit and still feel stuck? It feels like I might end up second-guessing myself even more.",
+    "therapist": "It's completely understandable to feel apprehensive about setting a time limit, especially when you're concerned about second-guessing yourself. One way to approach this could be to allow yourself to set a gentle and flexible timeframe, giving you space to feel your emotions while also creating an opportunity to check in with yourself. What if you considered using a simple reflection practice, like journaling or just asking yourself how you feel at the end of that time, to help gauge whether you're ready to move forward? How does that idea resonate with you?",
     "condition": "baseline",
-    "val_t": -0.04736149311065674,
-    "aro_t": 0.30997657775878906,
-    "text_emotion": "Tense"
+    "val_t": -0.2054969072341919,
+    "aro_t": 0.13826215267181396,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate you acknowledging how overwhelmed I feel, but sitting with those feelings sounds daunting. I'm so used to trying to push through or distract myself from the anxiety and guilt that just being with them feels uncomfortable. What if I sit with them and it just makes everything worse, or I get stuck in those feelings even longer?",
-    "therapist": "It’s completely understandable to feel apprehensive about sitting with your feelings, especially when you’re more accustomed to pushing through or distracting yourself. It can feel uncomfortable, but sitting with those emotions doesn’t mean you’ll be overwhelmed forever; it can sometimes lead to a deeper understanding of what you're experiencing. What if we approached this as a brief, gentle practice—like setting a timer for just a few minutes to notice your feelings, without judgment or pressure to change them? How does that idea resonate with you?",
+    "client": "The idea of using a reflection practice like journaling does sound like it might help me gain some clarity, but I still feel a bit skeptical. What if I start journaling and just end up writing about how stuck I feel without making any progress? I worry that it could just turn into another way to dwell on my anxiety instead of actually moving forward.",
+    "therapist": "It's understandable to feel skeptical about journaling, especially if you’re worried it might deepen your sense of being stuck. One approach could be to frame your journaling with specific prompts, such as exploring moments when you felt even a little bit of relief or what small steps you might take, rather than just focusing on the anxiety itself. How does the idea of using prompts to guide your reflections and keep a sense of balance sound to you?",
     "condition": "baseline",
-    "val_t": -0.28481829166412354,
-    "aro_t": 0.21698570251464844,
-    "text_emotion": "Angry"
+    "val_t": -0.21598517894744873,
+    "aro_t": 0.06455588340759277,
+    "text_emotion": "Sad"
   }
 ]

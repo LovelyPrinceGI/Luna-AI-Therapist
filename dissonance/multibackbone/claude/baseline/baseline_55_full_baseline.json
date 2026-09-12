@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I got laid off from my tech job back in February. The financial pressure is just constantly sitting on my chest — like I can't breathe some days when I look at my bank account. And honestly, I'm not even sure talking about it is going to change anything practical, like I still won't know how to fix my resume or figure out what to do next.",
-    "therapist": "It makes complete sense that this weight feels so heavy — job loss brings both real financial stress *and* a kind of identity shake-up all at once, and I want you to know that what you're feeling is a very human response to a genuinely hard situation. You're right that our conversation won't instantly fix your resume or your bank account, but sometimes when that pressure on our chest eases even a little, it becomes easier to think clearly and take those practical next steps. I'm curious — when you imagine looking at your bank account and that tight feeling hits, what's the very first thought that runs through your mind in that moment?",
+    "client": "I've been really struggling ever since I got laid off from my tech job back in February. The financial pressure is just constant — I check my bank account and feel this wave of dread every single time. And honestly, I can't even bring myself to sit down and update my resume, which I know I need to do, but something just stops me every time I try.",
+    "therapist": "It makes complete sense that you're feeling this weight — losing your job is a genuinely difficult experience, and that dread when you check your account sounds exhausting to carry every day. I'm also noticing something really interesting: you *know* updating your resume would help, yet something pulls you away each time you try, which tells me there might be more going on beneath the surface than just procrastination. \n\nWhen you imagine yourself sitting down to work on that resume, what's the first thought or feeling that comes up for you?",
     "condition": "baseline",
-    "val_t": -0.34362077713012695,
-    "aro_t": 0.13791406154632568,
-    "text_emotion": "Sad"
+    "val_t": -0.4336782693862915,
+    "aro_t": 0.26432061195373535,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, the first thought that runs through my mind is something like \"you're failing\" — like the number on the screen is proof that I'm not good enough or that I made all the wrong choices. It's not even really about the money itself, it's more like this instant verdict on who I am as a person. And then I just kind of freeze up and can't do anything productive for the rest of the day.",
-    "therapist": "That thought — \"you're failing\" — is such a painful one, and it's really insightful that you can already see how it jumps from a number on a screen to a verdict on your entire worth as a person. That's a really common but powerful thinking pattern called *overgeneralization*, where one data point becomes \"proof\" of something much bigger than it actually is. I'd love to gently explore that with you — if a close friend were in the exact same financial situation after a layoff, would you look at their bank account and conclude they're \"not good enough\" as a person?",
+    "client": "Honestly, the first thing that comes up is this feeling of... like, what's even the point? I spent six years building up my career at that company and they just cut me loose in a ten-minute Zoom call, so part of me wonders if putting all that effort into a resume is just setting myself up to get hurt again. It's like my brain is trying to protect me from something, but it's also keeping me completely stuck.",
+    "therapist": "That insight you just shared is really profound — your brain *is* trying to protect you, and that makes complete sense after experiencing something that felt so dismissive of six years of your dedication and hard work. What you're describing sounds like a painful automatic thought: \"If I try, I'll just get hurt again,\" which is your mind generalizing one very real wound into a prediction about the future. \n\nI'm curious — when you think about those six years of experience and what you actually built, what do *you* believe that says about your worth, separate from what that ten-minute Zoom call seemed to say?",
     "condition": "baseline",
-    "val_t": -0.30847644805908203,
-    "aro_t": 0.14130377769470215,
+    "val_t": -0.3003474473953247,
+    "aro_t": 0.17872154712677002,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean... no, obviously I wouldn't look at a friend's bank balance and think they were a failure as a person. But it feels different when it's me — like, I'm the one who should have planned better, saved more, seen this coming somehow. I hear what you're saying about overgeneralization, but it's hard to just flip a switch and apply that same compassion to myself when the anxiety is this loud.",
-    "therapist": "What you just said is really profound — you *know* the compassionate response intellectually, but the anxiety is so loud it drowns out that kinder voice, and that gap between knowing and feeling is one of the hardest parts of this kind of work. It's also worth gently noticing that you're holding yourself to a standard that would require you to have predicted the future — \"seen this coming somehow\" — which is something you'd never expect of your friend. What do you think it would feel like, even just for a moment, to treat the version of you from February with the same fairness you'd extend to someone you care about?",
+    "client": "I mean, rationally I know I did good work there — I led projects, I mentored junior developers, I actually built systems that are still running in their infrastructure right now. But when I try to hold onto that and feel good about it, there's this other voice that immediately jumps in and says \"well, it clearly wasn't good enough, was it?\" And that voice is honestly a lot louder than any logical argument I can make to myself.",
+    "therapist": "That critical inner voice can feel so overpowering, especially when you're already hurting — but I want to gently point something out: a company making a financial decision during layoffs isn't actually evidence that your work wasn't good enough, and the fact that your systems are *still running in their infrastructure* is a pretty powerful counter-argument sitting right there. What you're describing is a really common CBT pattern where our emotional mind shouts and our rational mind whispers, and the good news is that we can gradually work on turning up the volume on that quieter voice.\n\nWhen that critical voice says \"it clearly wasn't good enough,\" whose voice does it remind you of — is it new, or does it feel familiar from somewhere earlier in your life?",
     "condition": "baseline",
-    "val_t": -0.25090837478637695,
-    "aro_t": 0.19411051273345947,
-    "text_emotion": "Angry"
+    "val_t": -0.04778158664703369,
+    "aro_t": 0.20312821865081787,
+    "text_emotion": "Tense"
   },
   {
     "turn": 4,
-    "client": "Honestly, when I try to imagine that... there's this immediate wall that goes up, like some part of me just refuses to let it happen. I think it would feel like a relief, maybe, but also kind of terrifying, because if I stop blaming myself for not seeing it coming, then I have to sit with the fact that sometimes bad things just happen and there's nothing I could have done. And I'm not sure which is worse — the guilt or that helplessness.",
-    "therapist": "That's such a profound and honest insight — you've just identified something really important, that self-blame can actually feel *safer* than helplessness, because blame gives you the illusion of control (\"if it was my fault, I could have prevented it, and I can prevent the next one\"). Sitting with the truth that some things are genuinely outside our control is one of the hardest things humans face, and it makes complete sense that part of you resists it. I'm wondering — which feels more *livable* to carry going forward: a story that keeps you frozen in self-blame, or one that's harder to accept but might actually free up some of that energy for what comes next?",
+    "client": "That's... actually a question I wasn't expecting, and it kind of stopped me for a second. I think it does sound familiar — my dad was never really satisfied with anything I did growing up, like I could get a B+ and he'd ask why it wasn't an A. But I'm not sure I totally buy the connection between that and what's happening now — I mean, isn't this just about the job situation, or are you saying my whole reaction is really about my dad?",
+    "therapist": "That's a really fair pushback, and I want to be clear — your pain about the job is absolutely real and valid completely on its own terms. What I'm gently suggesting isn't that this is \"really about your dad\" instead of the job, but that growing up with a voice that moved the goalposts no matter how hard you tried may have laid down a groove that makes *this* particular kind of rejection land even harder than it might otherwise.\n\nIt's like the layoff handed that old critical voice a megaphone. Does that distinction feel any different to you — that both things can be true at once?",
     "condition": "baseline",
-    "val_t": -0.28795719146728516,
-    "aro_t": 0.11745119094848633,
-    "text_emotion": "Sad"
+    "val_t": -0.060132741928100586,
+    "aro_t": 0.18559002876281738,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and honestly, part of me knows you're right — the self-blame does feel like it gives me something to hold onto, some kind of handle on what happened with my friend group falling apart. But when you ask which story feels more livable, I genuinely don't know, because letting go of the blame almost feels like letting go of any chance of understanding why it happened. And if I can't understand it, how am I supposed to make sure I don't end up alone again?",
-    "therapist": "It sounds like underneath the self-blame is a really deep fear — not just about the past, but about the future and whether you can trust that connection won't slip away again, and that fear makes a lot of sense. It's worth gently noticing that understanding *why* something happened and blaming yourself for it are actually two separate things — you can work to understand patterns in relationships without the verdict being \"I am fundamentally flawed.\" What would it mean to you to explore what you actually need in friendships, not as someone who failed, but as someone who's figuring out what real connection looks like for them?",
+    "client": "Yeah, when you put it that way — the megaphone thing — that actually does land differently, and I kind of hate that it makes sense because it means this is more complicated than just finding a new job. Like, even if I land something tomorrow, that voice might still be there telling me it's only a matter of time before they figure out I'm not enough. I guess I just never really connected those two things before, and it's a little unsettling to sit with.",
+    "therapist": "It takes real courage to sit with something unsettling rather than push it away, and the fact that you're willing to do that right now says something important about you. You've just named something that many people spend years not seeing — that the job search isn't just a practical problem, but that there's also this deeper story running underneath about whether you're ever truly \"enough,\" and awareness of that is genuinely the first step toward loosening its grip. \n\nThe good news is that voice isn't a life sentence — but I'm curious, now that you can see it a little more clearly, what would it mean for you if you could start to separate *your* sense of your own worth from whether any particular employer, or your dad, ever fully recognized it?",
     "condition": "baseline",
-    "val_t": -0.20103049278259277,
-    "aro_t": 0.13206982612609863,
+    "val_t": -0.2257760763168335,
+    "aro_t": 0.15491831302642822,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and part of me wants to believe that distinction — between understanding and blaming — but it's hard to actually feel it, you know? Like intellectually it makes sense, but when I'm lying awake at night replaying conversations, it doesn't feel like \"figuring something out,\" it feels like evidence that I keep messing things up. And honestly, I'm not even sure I know what I need in friendships anymore — I've been so focused on what I did wrong that I haven't really thought about that.",
-    "therapist": "That moment you just described — realizing you've been so focused on what you did wrong that you haven't even had space to think about what *you* need — that's actually a really significant shift, and it took courage to notice it. Those late-night replays feel like a courtroom where you're always the defendant, but I wonder if they might also be a sign of how much you genuinely care about connection, which isn't a flaw at all. If we set aside the question of what went wrong for just a moment, what's one small thing that's made you feel truly comfortable or seen with another person, even if it was a long time ago?",
+    "client": "Honestly, it sounds really freeing in theory, but I'm not sure I even know what that would feel like — like, my whole life I've kind of measured myself by external results, grades, performance reviews, whether my manager seemed happy with me. If I take all that away, I'm not sure what's left to tell me I'm doing okay. It's a little scary to think about building that from scratch, especially when I'm already feeling so destabilized by the whole job loss thing.",
+    "therapist": "What you're describing - that fear of an internal void if you remove all the external measuring sticks - is one of the most honest and human things a person can recognize about themselves, and it makes complete sense that it feels scary, especially when you're already on shaky ground. But I want to offer a gentle reframe: you're not actually starting from nothing, because that person who led projects, mentored others, and built systems that are still running — he was making judgments and choices and showing up every day, and *something* inside was guiding all of that, even if you've never been given credit for trusting it. \n\nWhat's one small moment, even recently, where you made a decision or acted in a way that felt right to you — not because someone approved of it, but just because it aligned with something you valued?",
     "condition": "baseline",
-    "val_t": -0.24253952503204346,
-    "aro_t": 0.1023637056350708,
+    "val_t": -0.20629751682281494,
+    "aro_t": 0.18650269508361816,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That question kind of caught me off guard, honestly. I'm sitting here trying to think of a moment and one did come up — there was this friend I had in college, we'd stay up late just talking about nothing important, and I never felt like I had to explain myself or perform in any way. But it also makes me sad to think about it because that person isn't really in my life anymore, and I don't know if I'll ever have something like that again.",
-    "therapist": "The fact that a memory like that came up so readily tells me that part of you *knows* exactly what real connection feels like — that ease, that freedom from performing — and that's actually really valuable information about what you're capable of and what you're longing for. It makes complete sense that it brings sadness too, because grief and hope often live right next to each other, and missing something beautiful isn't the same as evidence it can't exist again. I'm curious — when you imagine the version of you who could have that kind of connection again, what's one small thing that person might do differently than what you've been doing lately?",
+    "client": "There was actually this moment a few weeks ago where a former colleague asked me to review his code for a side project he was working on, and I spent like two hours giving him really detailed feedback even though I had no obligation to and nobody was going to grade me on it. I did it because I genuinely wanted to help him and I knew I could. But even as I say that, my brain is already trying to minimize it — like, \"that's not a big deal, that's just what decent people do,\" which I guess is kind of proving your point about that voice.",
+    "therapist": "You just caught that voice in real time, minimizing something meaningful before you could even fully feel it — and that self-awareness is actually remarkable. What you described *is* exactly what decent people do, but here's the thing: you chose to spend two hours helping someone using skills you'd built over years, with no external reward, purely from an internal sense of capability and care — and that *is* your own compass working, even when everything else felt destabilized.\n\nI'd love for you to sit with that memory this week as a small piece of evidence against the \"not enough\" story — not to fix everything, but just to notice it's there. What do you think it would take for you to let that kind of moment count as real proof of your worth, even just a little?",
     "condition": "baseline",
-    "val_t": -0.30948150157928467,
-    "aro_t": 0.20410418510437012,
-    "text_emotion": "Angry"
+    "val_t": -0.06089651584625244,
+    "aro_t": 0.07827627658843994,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "That's a nice way to put it, I guess — grief and hope living next to each other. But when you ask what that version of me would do differently, my mind just goes kind of blank, and then almost immediately I think, \"reach out to someone,\" and then I feel this wave of dread because what if I do and it just confirms that the ease I had with Jamie was a one-time thing? It's like the hope and the fear show up at exactly the same time, and the fear is just... louder.",
-    "therapist": "That simultaneous arrival of hope and fear is so human, and it's really telling that your instinct *was* \"reach out to someone\" — that came from somewhere genuine in you, even if fear immediately tried to shout it down. What you're describing is a kind of \"what if it fails\" prediction that's protecting you from risk, but also from the very thing you're longing for — and the tricky part is that the only way to test whether that prediction is true is a small, real-world experiment. I wonder — is there someone in your life right now, even a more distant connection, where reaching out for something low-stakes might feel just a tiny bit more manageable than the full weight of \"what if this confirms my worst fear?\"",
+    "client": "I want to let it count, I really do, but I think the honest answer is that one moment feels too small to push back against years of that voice — like, my brain is already telling me I'll remember it for a day and then forget it when the next rejection email comes in from a job application. I guess I'm also a little skeptical of the \"collect evidence\" approach in general, because it feels like I'm just trying to logic my way out of something that doesn't really respond to logic. Is there something more... I don't know, substantial that actually shifts this over time?",
+    "therapist": "Your skepticism is actually really healthy and worth honoring — you're right that this voice wasn't built by logic, so it can't be fully dismantled by logic alone, and the \"collect evidence\" approach is just one small tool, not the whole answer. What tends to create more substantial shifts over time is a combination of things: building new *experiences* that contradict the old story (not just thoughts about them), and often doing deeper work on where that voice originally came from — which is exactly the kind of thing that can be hard to sustain alone and where working with a therapist consistently over time can make a real difference. \n\nI'm curious — have you ever had any space, whether therapy or otherwise, where you've been able to explore that older story about never being enough, or has this kind of conversation been pretty rare for you?",
     "condition": "baseline",
-    "val_t": -0.20271408557891846,
-    "aro_t": 0.2096470594406128,
+    "val_t": -0.11969220638275146,
+    "aro_t": 0.11213672161102295,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "There's this one coworker, Diane, who I used to eat lunch with sometimes before everything kind of fell apart socially for me. She sent me a message a few weeks ago just saying she hoped I was doing okay, and I never responded because I panicked and then felt too guilty about the delay. Now it feels like that window has closed and reaching out would just be awkward and weird.",
-    "therapist": "Diane reaching out to check on you is actually a really meaningful data point — she was thinking of you, she made the first move, and that message is still sitting there as a kind of open door rather than a closed window. The guilt about the delay is understandable, but a few weeks is genuinely not as long as it feels from inside the anxiety, and most people are far more forgiving of a late reply than our fear tells us they'll be. What do you think a simple, honest response to Diane might look like — something that doesn't require a perfect explanation, just a small step back toward connection?",
+    "client": "Honestly, this kind of conversation is pretty rare — I've never done therapy before, and most of the people in my life, my friends, my family, they're more the \"just keep pushing, you'll land on your feet\" type, so nobody really goes here. And I'll admit this conversation has been more useful than I expected it to be, but I also feel a little exposed right now, like we've pulled back a curtain on something I've been carrying for a long time without realizing it. I guess my hesitation is whether I can actually commit to this consistently when I'm already overwhelmed by the day-to-day financial stress — it feels like a lot to take on at once.",
+    "therapist": "That feeling of exposure makes complete sense — you've just seen something real about yourself that's been quietly running in the background for decades, and that's a lot to hold, especially when you're also worried about paying your bills. I want to acknowledge something though: you showed up to this conversation, you went deeper than you expected to, and you stayed honest even when it got uncomfortable — and that's not nothing, that's actually the same quality that made you spend two hours helping your colleague for no external reward.\n\nThe financial stress is real and won't wait, and the inner work is real and matters — and I don't think you have to choose between them or tackle everything at once. What would feel like a manageable first step that honors both — something small enough to not add to the overwhelm, but meaningful enough to feel like you're actually moving?",
     "condition": "baseline",
-    "val_t": -0.15730023384094238,
-    "aro_t": 0.10041415691375732,
-    "text_emotion": "Angry"
+    "val_t": -0.05636334419250488,
+    "aro_t": 0.1410818099975586,
+    "text_emotion": "Tense"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe that Diane would be forgiving about it. But every time I try to imagine actually typing out a response, I get this knot in my stomach because I feel like I have to explain why I went quiet, and I don't even fully understand it myself. What am I supposed to say — \"sorry, I've been struggling and I just couldn't\"? That feels like too much to dump on someone, and also kind of embarrassing.",
-    "therapist": "It's worth gently challenging the idea that you need a full explanation — \"sorry for the late reply, it's been a hard few months, it was really good to hear from you\" is honest, warm, and doesn't require you to hand over your whole inner world. That kind of simple, imperfect response might actually feel more human to Diane than a perfectly crafted message, and it leaves the door open without demanding anything from either of you. What if the goal of reaching out wasn't to explain yourself perfectly, but just to take one small step toward someone who already showed she cares enough to check in?",
+    "client": "I've been sitting here thinking about that question and the honest answer is that maybe the most manageable thing would be to just open my resume file — not even edit it, just open it and look at it for five minutes without any pressure to make it perfect. But even as I say that, I'm aware that last time I tried something like that I ended up closing the laptop after thirty seconds because the anxiety just spiked immediately, so I'm not totally confident it'll go differently this time. I guess what I'm asking is — if that happens again, does that mean I'm failing at this, or is that just part of the process?",
+    "therapist": "Closing the laptop after thirty seconds would not mean you're failing — it would mean you're a person with a nervous system that learned to protect itself, and that protection is doing exactly what it was trained to do. The fact that you're already anticipating the anxiety spike and asking this question ahead of time actually tells me you're approaching this more thoughtfully than before, and even thirty seconds of having that file open would be thirty seconds more than last time.\n\nWhat if we reframed the experiment slightly — instead of measuring success by how long you stay with it, you just notice what thought or feeling causes you to want to close it, and bring that back here? What do you think that anxiety is actually trying to protect you from in that moment?",
     "condition": "baseline",
-    "val_t": -0.31922388076782227,
-    "aro_t": 0.23681318759918213,
+    "val_t": -0.14306139945983887,
+    "aro_t": 0.19654667377471924,
     "text_emotion": "Angry"
   }
 ]

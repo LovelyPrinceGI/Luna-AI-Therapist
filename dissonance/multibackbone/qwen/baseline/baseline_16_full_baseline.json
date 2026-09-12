@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really overwhelmed lately. My boss just assigned me two new projects with tight deadlines, and I'm struggling to keep up with everything. I know I should be able to handle it, but I can't shake this feeling of anxiety and doubt. I'm not even sure if therapy can help with this.",
-    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and it’s completely understandable to feel overwhelmed and anxious with these new responsibilities. Therapy can definitely be a supportive space to explore these feelings and find strategies to manage them. How have you been coping with the stress so far?",
+    "client": "Hey Luna, I've been really struggling lately with the workload at my job. My boss just assigned me two new projects with really tight deadlines, and I'm feeling completely overwhelmed. I know I should be able to handle it, but I can't shake this feeling of anxiety and doubt. I'm not sure if therapy can even help with this, but I thought I'd give it a try.",
+    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and it's completely understandable to feel overwhelmed and anxious with such tight deadlines. Therapy can definitely help you manage these feelings and develop strategies to cope. How have you been coping with the stress so far, and what do you think might help you feel more in control?",
     "condition": "baseline",
-    "val_t": -0.2823493480682373,
-    "aro_t": 0.290122389793396,
+    "val_t": -0.15597760677337646,
+    "aro_t": 0.2509826421737671,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to manage the stress by staying really organized and setting strict schedules, but it feels like no matter what I do, there's always something else to worry about. I feel like I'm constantly on edge, and it's starting to affect my sleep and my relationships.",
-    "therapist": "It sounds like you’re really putting in the effort to stay organized, which is a great strategy, but it’s also clear that the pressure is taking a toll on you. It’s completely normal for stress to impact your sleep and relationships. Have you noticed any specific thoughts or fears that come up when you feel on edge?",
+    "client": "Thanks for understanding, Luna. I've been trying to cope by staying late at the office and working through my lunch breaks, but it's just not sustainable. I feel like I need to find a better way to manage my time, but I don't know where to start. I've tried making to-do lists, but they just seem to grow longer and longer, which just adds to my anxiety.",
+    "therapist": "It's clear that you're putting in a lot of effort, and it's really important to recognize that. Working long hours and skipping breaks can take a toll on your well-being. Making to-do lists is a good start, but it sounds like you might benefit from breaking tasks into smaller, more manageable steps and setting realistic goals for each day. What do you think might help you prioritize and feel a sense of progress without overwhelming yourself?",
     "condition": "baseline",
-    "val_t": -0.016660094261169434,
-    "aro_t": 0.16260087490081787,
-    "text_emotion": "Tense"
+    "val_t": -0.14477193355560303,
+    "aro_t": 0.1236640214920044,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "Yeah, I do notice that when I feel really on edge, I start worrying a lot about making mistakes or letting people down. It’s like I can’t shake the feeling that if I’m not perfect, everything will fall apart. I know it’s not rational, but it’s hard to control those thoughts.",
-    "therapist": "It’s really insightful of you to recognize those thoughts, and it’s completely understandable to have those fears when you’re under so much pressure. Perfectionism can be a tough cycle to break, but it’s important to remember that mistakes are a natural part of the learning process and don’t define your worth. What do you think might happen if you allowed yourself to not be perfect, just for a little while?",
+    "client": "I like the idea of breaking tasks into smaller steps, but I worry that I'll still end up feeling overwhelmed. It's hard to know what to prioritize when everything seems urgent. I also feel a lot of guilt when I take breaks, like I'm not doing enough. How can I manage that guilt and make sure I'm not just pushing myself too hard?",
+    "therapist": "It's really common to feel that way when everything seems urgent, and it's great that you're open to breaking tasks down. One approach could be to identify the most critical tasks that have the biggest impact or the closest deadlines, and focus on those first. As for the guilt around taking breaks, remember that breaks are essential for maintaining productivity and preventing burnout. Can you try setting a specific time for breaks and see if that helps you feel more entitled to them? How do you think you could remind yourself of the importance of taking care of your well-being?",
     "condition": "baseline",
-    "val_t": -0.282124400138855,
-    "aro_t": 0.1101984977722168,
+    "val_t": -0.28419816493988037,
+    "aro_t": 0.11330008506774902,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I understand what you're saying, but it's hard for me to let go of that need for perfection. I feel like if I make a mistake, it will just confirm that I'm not good enough. It's a scary thought, and I worry that it might spiral into more anxiety and self-doubt.",
-    "therapist": "I can see how deeply you feel this, and it’s completely understandable to be scared of those outcomes. It’s important to acknowledge that these fears are valid and impactful for you. Have there been times in the past when you’ve made a mistake, and it turned out to be less catastrophic than you initially feared?",
+    "client": "I can see the logic in focusing on the most critical tasks, but I worry that I'll still feel like I'm not doing enough. Setting specific break times sounds good in theory, but I often feel like I can't justify taking time away from work. Maybe I could write a note to myself about the importance of breaks and keep it on my desk as a reminder. I just hope it actually helps me feel less guilty.",
+    "therapist": "It's great that you're considering a practical approach like writing a note to yourself as a reminder. Recognizing the importance of breaks and having a visible reminder can be a powerful tool. It's also important to acknowledge that feeling like you're not doing enough is a common concern, especially when you're under pressure. How do you think you could celebrate small victories or progress, even if they seem minor, to help reinforce that you are making meaningful contributions?",
     "condition": "baseline",
-    "val_t": -0.3299194574356079,
-    "aro_t": 0.22197437286376953,
-    "text_emotion": "Angry"
+    "val_t": -0.10065186023712158,
+    "aro_t": 0.015688180923461914,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "Yeah, I guess there have been times when things didn't turn out as badly as I thought they would. But it's hard to remember those times when I'm feeling so anxious and overwhelmed. It feels like every mistake could be the one that really screws everything up.",
-    "therapist": "It’s really helpful that you can recall those times, even if they feel distant when you’re in the thick of anxiety. It’s a reminder that your fears, while valid, might not always reflect the reality of the situation. Could we try a small experiment where you allow yourself a minor, low-stakes mistake and observe what happens? How does that sound to you?",
+    "client": "I like the idea of celebrating small victories, but it's hard to feel like I'm making progress when there's so much to do. Maybe I could start by acknowledging when I complete a small task or reach a minor milestone. I'll try writing it down in a journal or even just a sticky note to see if that helps me feel more accomplished. It's just hard to shake the feeling that I should be doing more.",
+    "therapist": "It's really commendable that you're willing to try out new strategies, like journaling or using sticky notes, to acknowledge your progress. Recognizing and recording these small wins can be a powerful way to shift your perspective and build a sense of accomplishment. It's normal to feel like you should be doing more, but it's important to balance that with self-compassion. How do you think you could be kinder to yourself when those feelings of not doing enough come up?",
     "condition": "baseline",
-    "val_t": -0.2901986837387085,
-    "aro_t": 0.2583963871002197,
-    "text_emotion": "Angry"
+    "val_t": 0.03958022594451904,
+    "aro_t": 0.08124172687530518,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I appreciate the idea, but I'm not sure I'm ready for that yet. It feels like a big step, even if it's a small mistake. I worry that it might spiral into something bigger and more anxiety-inducing.",
-    "therapist": "I completely understand that taking that step can feel daunting, and it’s okay to move at your own pace. It’s important to feel safe and comfortable with any changes you make. Perhaps we could start with something even smaller, like acknowledging and accepting a minor imperfection without trying to fix it immediately. How does that feel to you?",
+    "client": "I appreciate your encouragement, Luna. I think being kinder to myself might involve talking to myself the way I would talk to a friend who was struggling. I could remind myself that it's okay to have limits and that I'm doing the best I can. It's just hard to do that consistently when the pressure is so intense.",
+    "therapist": "That's a wonderful approach, and it shows a lot of self-awareness. Treating yourself with the same kindness and understanding you would offer to a friend is a powerful way to build resilience. It's completely normal for it to be challenging, especially under intense pressure. How do you think you could create a routine or a ritual that reminds you to practice this self-compassion regularly, even in the midst of a busy day?",
     "condition": "baseline",
-    "val_t": -0.17603814601898193,
-    "aro_t": 0.1911783218383789,
-    "text_emotion": "Angry"
+    "val_t": 0.10862386226654053,
+    "aro_t": 0.13711869716644287,
+    "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate you suggesting something smaller, Luna. It still feels a bit challenging, though. I worry that even acknowledging a minor imperfection might make me feel like I’m giving up or accepting something I shouldn’t. How do I know I’m not just settling for less?",
-    "therapist": "I understand your concern, and it’s important to find a balance where you feel you’re not compromising your standards. Acknowledging imperfections isn’t about settling for less; it’s about recognizing that perfection is often an unrealistic goal and that small imperfections are a natural part of life. Could we explore some of the benefits and potential outcomes of accepting a minor imperfection? How do you think it might affect your stress levels and overall well-being?",
+    "client": "I like the idea of a routine to practice self-compassion, but I'm not sure what would work for me. Maybe I could set a reminder on my phone to take a few minutes to breathe and check in with myself. I just worry that I'll feel guilty taking that time, even if it's just a few minutes. It's hard to prioritize self-care when there's always something else that needs to be done.",
+    "therapist": "Setting a reminder on your phone is a great idea, and it can be a gentle nudge to take a moment for yourself. It's completely understandable to feel guilty about taking time for self-care, especially when there's a lot on your plate. Starting small, like taking just a few minutes to breathe and check in, can make it feel more manageable. How do you think you could reframe those few minutes as an investment in your well-being, rather than time taken away from your tasks?",
     "condition": "baseline",
-    "val_t": -0.007007598876953125,
-    "aro_t": 0.106315016746521,
+    "val_t": -0.12068819999694824,
+    "aro_t": 0.007493376731872559,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and I understand the logic, but it's hard for me to let go of the idea that I should always strive for perfection. I worry that if I accept imperfections, I might start to lower my standards in other areas of my life, and that could lead to more problems. It feels like a slippery slope, you know?",
-    "therapist": "I completely understand your concern about the slippery slope, and it’s a valid worry. It’s important to maintain high standards, but it’s also crucial to find a balance that doesn’t lead to burnout or constant self-criticism. What do you think it would take for you to feel more comfortable with allowing some room for imperfection, even in small ways?",
+    "client": "I can see the logic in reframing those few minutes as an investment, but it's still hard to shake the guilt. I guess I could remind myself that taking care of my mental health is just as important as completing my tasks, and that being burned out won't help anyone. It's just a big shift in thinking, and I'm not sure how to make it stick.",
+    "therapist": "It's completely understandable that making that shift in thinking can be challenging, especially when you're under a lot of pressure. Recognizing the importance of your mental health is a big step, and reminding yourself that self-care is essential, not just nice to have, is a great start. How do you think you could reinforce this new perspective, perhaps by sharing it with a supportive friend or colleague, or by writing it down somewhere you'll see it often?",
     "condition": "baseline",
-    "val_t": -0.1766810417175293,
-    "aro_t": 0.07892656326293945,
-    "text_emotion": "Angry"
+    "val_t": -0.16149365901947021,
+    "aro_t": 0.010327339172363281,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, and I know it's important to find a balance, but it's really hard for me to let go of my need for perfection. I worry that if I start allowing imperfections, even in small things, it will just spiral out of control and I'll start making more mistakes. It feels like a risk I'm not sure I'm ready to take.",
-    "therapist": "I hear you, and it’s completely understandable to feel that way. Change can be risky, especially when it comes to something as important as your standards and performance. It might help to start with a very small, controlled step, like allowing yourself to leave a task 95% complete instead of 100%, and see how it feels. What do you think about trying that as a way to test the waters?",
+    "client": "I think sharing it with a friend could be helpful, but I'm not sure who would understand. It's hard to find someone who really gets the pressure I'm under at work. Writing it down might be a bit more practical. I could put a note on my computer or in my planner to remind me that taking care of myself is just as important as my tasks. It's a start, but it still feels like a big hill to climb.",
+    "therapist": "It's completely understandable to feel that way, and finding someone who truly understands can be tough. Writing it down is a practical and powerful step, and having that reminder in a visible place can make a big difference. It's natural for it to feel like a big hill to climb, but even small steps can lead to significant changes over time. How do you think you could celebrate those small steps, no matter how minor they seem, to help build momentum and reinforce the importance of self-care?",
     "condition": "baseline",
-    "val_t": -0.26301324367523193,
-    "aro_t": 0.10077857971191406,
-    "text_emotion": "Sad"
+    "val_t": 0.05707061290740967,
+    "aro_t": 0.07578742504119873,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but it's hard because I feel like that 5% can make a big difference. I worry that if I start letting things slide, even a little, it could spiral into a habit of not doing my best. How do I know it won't affect my performance or how others perceive me?",
-    "therapist": "I understand your concern, and it’s important to maintain your high standards. Starting with a very small and controlled experiment can help you see the impact without feeling like you’re compromising your performance. What if we try it just once and reflect on the outcome together? How do you think that might help you gain some insight into whether it really affects your performance or others' perceptions?",
+    "client": "I can see the value in celebrating small steps, but it still feels a bit forced. I guess I could try something simple, like treating myself to a small snack or a short walk after I take a break to check in with myself. It's just hard to feel like these small things are enough when the pressure is so intense. But I'll give it a try and see if it helps.",
+    "therapist": "It's completely understandable that it can feel forced at first, and that's okay. Starting with something simple like treating yourself to a snack or a short walk can be a gentle way to begin. These small acts of self-care can gradually help you build a sense of accomplishment and well-being, even in the midst of intense pressure. How do you think you might feel after giving yourself these small rewards consistently over a week or so?",
     "condition": "baseline",
-    "val_t": -0.14764487743377686,
-    "aro_t": 0.05726277828216553,
-    "text_emotion": "Sad"
+    "val_t": 0.01405942440032959,
+    "aro_t": 0.09150838851928711,
+    "text_emotion": "Neutral"
   }
 ]

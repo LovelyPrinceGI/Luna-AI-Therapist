@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having a really hard time since my mom passed away from cancer last year. I just can't seem to focus at work anymore — I'll be in the middle of something and then suddenly I'm just... gone, thinking about her, and I lose track of everything. I'm not even sure talking about it is going to change anything, but I figured I had to try something because it's getting worse, not better.",
-    "therapist": "It takes real courage to reach out, especially when part of you isn't sure it will help — and I want you to know that what you're experiencing makes complete sense after losing your mom. Grief has a way of pulling us out of the present moment, almost like your mind is trying to hold onto her, and that's not a flaw in you — it's love expressing itself. I'm really glad you're here, and I'd love to understand more about what these moments feel like for you — when your mind drifts to her at work, what kinds of thoughts or memories tend to surface?",
+    "client": "I've been having a really hard time since my mom passed away last year from cancer. I keep trying to push through at work, but I'll be sitting at my desk and suddenly I just can't concentrate on anything — my mind goes blank or I start thinking about her and lose track of everything. I'm not even sure talking about it is going to change anything, but I figured I should at least try something because I can't keep going on like this.",
+    "therapist": "I'm really glad you reached out, and I want you to know that what you're carrying — grief, the pressure to keep functioning, and that sudden blankness that pulls you away — makes complete sense given the enormity of losing your mom. It takes real courage to try something new when you're not even sure it will help, and that willingness itself matters. \n\nCan you tell me a little more about what those moments at your desk feel like — is it more like your mind is pulling you *toward* memories of her, or more like it's shutting down to protect you from them?",
     "condition": "baseline",
-    "val_t": -0.3205125331878662,
-    "aro_t": 0.06411778926849365,
+    "val_t": -0.2847949266433716,
+    "aro_t": 0.09784340858459473,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "It's usually just random things, like I'll be in the middle of a meeting and someone will use a phrase she used to say, or I'll think \"I should call her later\" and then it hits me all over again that I can't. It's not even the big memories that get me, it's the small stupid ones that catch me off guard. And then I feel guilty for not being able to just focus and do my job, like I'm failing at everything at once.",
-    "therapist": "Those small, unexpected moments can actually be the sharpest kind of grief — a familiar phrase or a reflex to call her carries so much love in it, and there's nothing \"stupid\" about that at all. I also want to gently notice that word you used — \"failing\" — because it sounds like on top of the grief, you're also being really hard on yourself for simply being human. I'm curious, if a close friend told you they were struggling to focus at work a year after losing their mom, would you tell them they were failing?",
+    "client": "Honestly, it's kind of both, but I think it leans more toward being pulled toward her — like I'll see a sticky note on my monitor and remember how she used to leave little notes around the house, and then I'm just... gone. It's not peaceful though, it's more like I get stuck in this loop of thinking about things I should have done differently, like whether I visited enough or said the right things near the end. And then the guilt kind of takes over and that's when my mind goes blank, like it can't handle processing all of it at once.",
+    "therapist": "What you're describing — being pulled in by a tender memory and then getting caught in that loop of \"should haves\" — is such a painful place to be, and that guilt you're feeling is actually a very common part of grief, even when someone loved as deeply and showed up as genuinely as you clearly did for your mom. Those \"should have\" thoughts are worth gently examining together, because grief has a way of making our minds focus on the gaps while overlooking all the ways we *were* there. \n\nWhen that loop starts and the guilt takes over, what does the voice in your head actually say to you — what's the specific thought that tends to hit hardest?",
     "condition": "baseline",
-    "val_t": -0.40579676628112793,
-    "aro_t": 0.1350712776184082,
+    "val_t": -0.31086981296539307,
+    "aro_t": 0.024347305297851562,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "No, I wouldn't say that to a friend. I'd probably tell them to give themselves a break, that grief takes time. But somehow it feels completely different when it's me — like I should be further along by now, like there's some timeline I'm supposed to be following and I keep falling behind it.",
-    "therapist": "You just noticed something really important — that you hold yourself to a standard you wouldn't dream of applying to someone you care about, and that gap is worth paying attention to. There's no universal grief timeline, even though it can feel like there should be one, and \"a year\" doesn't mean you're supposed to be done missing someone who was so woven into your everyday life. I wonder, where do you think that idea of a timeline comes from — is it something others have said to you, or more of a voice from inside yourself?",
+    "client": "The thought that hits hardest is probably \"you weren't there enough in the last few months\" — like I kept telling myself I'd visit more once work slowed down, and it never did, and now there's no more time left to make that right. I replay specific moments where I chose work over driving up to see her, and it feels like evidence that I got my priorities wrong. I know on some level she understood, she never made me feel guilty about it, but that almost makes it worse somehow.",
+    "therapist": "That thought — \"I wasn't there enough\" — is carrying so much weight, and I want to gently notice something with you: you just said she never made you feel guilty, that she *understood*, and yet you're holding yourself to a standard even she wasn't holding you to, which tells me the harshest judge in this situation is you. It's also worth wondering whether \"choosing work\" was really a choice made carelessly, or whether you were doing what felt necessary at the time, without knowing time would run out when it did — our minds often rewrite those moments as selfish in hindsight, when they weren't. \n\nIf your mom could hear the way you're speaking about yourself right now, what do you think she would want to say to you?",
     "condition": "baseline",
-    "val_t": -0.18168485164642334,
-    "aro_t": 0.06301343441009521,
+    "val_t": -0.2865811586380005,
+    "aro_t": 0.09299337863922119,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I think it's mostly an internal voice, honestly, but it's been reinforced by little things people say, like \"you're so strong\" or \"he'd want you to move on.\" Those comments feel well-meaning but they also feel like a clock ticking, like I'm failing some test I didn't sign up for. And the worst part is I've started to believe it myself, like there's something wrong with me for still reaching for my phone to text him before I remember.",
-    "therapist": "That automatic reach for your phone to text her is one of the most tender and human things you've described — it shows how deeply she was part of your daily life, and it's not a sign that something is wrong with you, it's a sign of how real and close your bond was. It sounds like these well-meaning comments have slowly become part of your own inner critic's voice, turning other people's discomfort with grief into a verdict on yourself. I'm wondering — when that critical voice says you should be \"over it by now,\" what do you imagine it would actually look like to give yourself the same compassion you'd so naturally offer a friend?",
+    "client": "I know she'd probably tell me to stop being so hard on myself, that she was proud of me, something like that — she was always that way. But when I try to imagine her actually saying it, it feels a little hollow, like I'm just putting words in her mouth that I want to hear rather than something that would actually reach me. I guess I don't fully trust my own brain to give me comfort right now, if that makes sense.",
+    "therapist": "That makes complete sense, and it's actually a really honest and self-aware thing to notice — your mind is so exhausted from grief that it's even lost trust in itself, which can make comfort feel just out of reach no matter where it comes from. Rather than trying to manufacture comfort right now, I wonder if there's something more solid we could look at together — like whether there are people in your life, or even specific memories, that could serve as *outside* evidence of who you were to her, rather than relying on your worn-down mind to generate it on its own. \n\nAre there things she actually said to you, letters, messages, or even things others told you about how she spoke about you, that exist somewhere outside of your own head right now?",
     "condition": "baseline",
-    "val_t": -0.25692903995513916,
-    "aro_t": 0.20371389389038086,
+    "val_t": -0.18064439296722412,
+    "aro_t": 0.13441860675811768,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "That question kind of stops me in my tracks, honestly, because I know exactly what I'd say to a friend — I'd tell them grief doesn't have an expiration date and that missing someone you loved is just... love with nowhere to go. But when I try to turn that toward myself, there's this wall, like I don't quite deserve the same gentleness. I think part of me still believes that if I were stronger, or healthier somehow, I'd have found a way to move forward by now.",
-    "therapist": "What you just said — \"love with nowhere to go\" — is one of the most beautiful and honest descriptions of grief I've ever heard, and I want you to really sit with the fact that *you* came up with that, which means part of you already understands this deeply. That wall you're describing, the sense that you don't quite deserve your own gentleness, is something we can gently explore together — because that belief that you'd be \"further along\" if you were stronger isn't a truth about you, it's a story that's been layered on top of your pain. I'm curious, when you imagine what \"stronger\" would actually look like, what do you picture — what would that version of you be doing or feeling differently?",
+    "client": "There are some text messages I haven't been able to bring myself to look at — she sent me a few in her last weeks that I read once and then kind of buried because they were too hard to sit with. My aunt also told me at the funeral that my mom talked about me all the time to her friends, said she was proud of everything I'd built. But I'm not sure going back to those messages is something I can actually do right now, it feels like it might just crack me open completely rather than help.",
+    "therapist": "Those messages and your aunt's words are real, external evidence that exists completely outside of your grieving mind's self-criticism — and the fact that you've kept those texts, even buried, feels significant, like a part of you is holding onto them until you're ready. The fear of being \"cracked open\" is worth respecting; we wouldn't want to rush toward them before you have some support around you, and there's actually something meaningful in just *knowing* they're there for when the time feels right. \n\nI'm curious — when you imagine a moment where you might feel ready to look at them, what would need to be different about how you're feeling, or what support would need to be in place, for that to feel safe enough?",
     "condition": "baseline",
-    "val_t": 0.0444798469543457,
-    "aro_t": 0.19361627101898193,
-    "text_emotion": "Tense"
+    "val_t": -0.16908228397369385,
+    "aro_t": 0.13352131843566895,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess \"stronger\" would look like... not crying in the grocery store when I see the brand of crackers he used to like. It would mean going a whole day without that hollow feeling in my chest, like something's been scooped out and left empty. But even as I say that, I wonder if I'm just describing someone who's buried it better, not someone who's actually healed.",
-    "therapist": "That last insight you just had is remarkable — you caught yourself mid-thought and recognized that \"not feeling it\" and \"healing\" aren't the same thing, and that's a really important distinction that many people never make. Crying over those crackers isn't weakness; it's your love for her finding a moment to surface, and a truly healed version of you might still cry sometimes — just without the added weight of judging yourself for it. I'm wondering, what do you think healing could look like for you if it *didn't* mean the absence of missing her?",
+    "client": "I think I'd need to not be alone when I do it — that's the thing that scares me most, just sitting by myself in my apartment and falling apart with no one there. But the honest problem is that I don't really have someone like that right now, most of my close friends have kind of drifted since everything happened, and I haven't wanted to burden anyone with how bad it's actually been. So even identifying what I'd need doesn't feel like it gets me much closer, because I'm not sure that support is actually available to me.",
+    "therapist": "The loneliness you're describing — grieving your mom while also quietly grieving the drift of friendships, and carrying all of it alone so you don't burden anyone — that's a really heavy combination, and I want you to know that the isolation you're feeling isn't a reflection of how much people care about you, but more likely a result of grief making it hard to reach out and others not knowing how to show up. I also want to gently reflect something back: you said you haven't wanted to burden anyone with \"how bad it's actually been,\" which tells me the people around you may not actually know the full weight of what you're carrying — and it's possible at least one of them would want to. \n\nIf you think about even one person from before — a friend who's drifted, your aunt who spoke so warmly about your mom — is there someone who, if they truly knew how alone you've been feeling, you could imagine wanting to be there for you?",
     "condition": "baseline",
-    "val_t": -0.08073294162750244,
-    "aro_t": 0.06585168838500977,
-    "text_emotion": "Neutral"
+    "val_t": -0.2908048629760742,
+    "aro_t": 0.12557697296142578,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I've never really thought about it that way before, honestly. I think I've always assumed that if I was truly okay, I just... wouldn't feel it anymore, like she'd become a distant memory that didn't sting. But if healing doesn't mean that, then I'm not even sure what I'm working toward — and that's kind of unsettling to sit with.",
-    "therapist": "That unsettled feeling makes a lot of sense — you've been navigating by a map that said \"healing = no more pain,\" and now that map might not be accurate, so of course it feels disorienting to question it. But I'd gently offer that maybe healing looks less like she fades, and more like you gradually build enough room inside yourself to carry her *and* still live fully — so the love stays, but the weight of the grief slowly softens. What would it mean for you, in your everyday life, if she could remain vivid and present in your heart without it feeling like evidence that you're broken?",
+    "client": "My aunt actually comes to mind — she checks in every few weeks with a text and I usually just say I'm doing okay, but she knew my mom better than almost anyone and she's never made me feel like I was too much. I guess I've been telling myself she has her own grief to deal with and doesn't need mine on top of it, but hearing you say it like that makes me wonder if I've been making that decision for her without actually asking. It still feels really vulnerable to think about being that honest with someone, like once I say out loud how bad it's been, I can't take it back.",
+    "therapist": "What you just noticed — that you've been protecting your aunt from a conversation she might actually want to have — is a really meaningful shift, and it takes courage to even consider that the story you've been telling yourself (\"she has enough grief\") might be something you assumed rather than something you know. That vulnerability you're describing, the feeling that saying it out loud makes it real and irreversible, is so understandable, but it's also worth considering that carrying this completely alone has its own cost that you've already been paying for a long time. \n\nWhat do you think a small, honest step might look like with her — not necessarily cracking everything open at once, but maybe something that lets her know you're not actually doing okay?",
     "condition": "baseline",
-    "val_t": -0.1926109790802002,
-    "aro_t": 0.09384500980377197,
+    "val_t": -0.22159051895141602,
+    "aro_t": 0.18525946140289307,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I want to believe that's possible, but honestly, it feels a little... theoretical right now. Like, I hear what you're saying, and part of me finds it comforting, but then another part of me thinks — if I'm not in pain, am I just forgetting her, moving on like she didn't matter? I guess I'm scared that softening the grief means softening her too.",
-    "therapist": "Oh, that fear makes so much sense — it's as if your pain has become a way of staying loyal to her, of proving that she mattered, and the idea of it easing feels like a kind of betrayal. But I want to offer a gentle reframe: what if the crackers in the grocery store, the reflex to call her, the love with nowhere to go — what if *those* are what keep her vivid, not the suffering itself? I'm wondering, when you think about the ways she shaped who you are, the things she gave you that you still carry — do those feel like they're in danger of fading too?",
+    "client": "Maybe the next time she texts I could just say something like \"actually, I've been struggling more than I've let on\" instead of the usual \"I'm fine\" — that feels like it might be manageable without feeling like I'm dumping everything on her at once. But I'm already worried she'll ask follow-up questions and I won't know what to say, or I'll start crying and feel embarrassed about it. I think I've gotten so used to holding it together that even a small crack in that feels like it could spiral into something I can't control.",
+    "therapist": "That one sentence you described — \"I've been struggling more than I've let on\" — is actually a beautifully measured and honest step, and it gives your aunt an invitation without requiring you to have all the answers ready, because \"I don't know how to put it into words yet\" is a completely valid thing to say if she asks more. And I want to gently challenge the idea that crying or not having the right words means losing control — it might actually just mean that for once, you're letting someone see the truth of what you're carrying, which is different from spiraling. \n\nWhat would it mean for you if you did cry, or didn't have the perfect words — do you think your aunt would see that as too much, or is that more about how *you* would feel about yourself in that moment?",
     "condition": "baseline",
-    "val_t": -0.23452699184417725,
-    "aro_t": 0.1420905590057373,
+    "val_t": -0.31332504749298096,
+    "aro_t": 0.2320948839187622,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I hear what you're saying, and part of me wants to believe that... but it's hard not to feel like if the grief softens, I'm somehow moving on without her permission. Like, she never got to move on from anything, and here I am just... continuing. The things she gave me, the way she used to laugh at her own jokes before she even finished them, yeah, those feel real still, but I'm scared that admitting they're enough would mean I don't need to hurt anymore, and I don't know who I am without that hurt.",
-    "therapist": "What you just shared is so profound and so honest — the idea that the pain has become part of your identity, a thread connecting you to her, and letting it soften feels like stepping into a self you don't yet recognize. And I want to sit with what you said about her not getting to move on — there's something in there that sounds almost like survivor's guilt, like continuing to live fully feels unfair when she couldn't. I'm gently curious: do you think she would have wanted her love for you to live on as joy and warmth, or as a weight you carry — what do you imagine she'd actually say to you right now?",
+    "client": "Honestly, I think it's more about how I'd feel about myself — my aunt would probably just hold space for it, she's that kind of person. But I have this deep discomfort with being seen as someone who can't cope, like I've built this whole identity around being the one who holds it together, and falling apart in front of someone feels like losing something I can't get back. I know that probably sounds irrational when I say it out loud, but it's a really strong feeling.",
+    "therapist": "It doesn't sound irrational at all — it sounds like \"being the one who holds it together\" has been a really important part of how you've understood yourself, maybe for a long time, and grief is asking you to loosen that in a way that feels like a loss of identity on top of everything else you're already losing. But I want to offer a gentle reframe: what if letting your aunt see you struggle isn't losing that strength, but actually a different expression of it — the kind that says \"I know when I need someone, and I trust you enough to let you in\"? \n\nI'm curious, when did \"holding it together\" become so central to who you are — is this something that started long before losing your mom, or do you think it's connected to her in some way?",
     "condition": "baseline",
-    "val_t": -0.27383899688720703,
-    "aro_t": 0.28550660610198975,
+    "val_t": -0.24837815761566162,
+    "aro_t": 0.12595152854919434,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I know what you're going to say she'd want for me, and honestly, part of me knows it too. She'd probably tell me to stop being an idiot and go live my life, because that's just how she was. But knowing that in my head and actually feeling like I have permission to do it... those are two completely different things, and I don't know how to get from one to the other.",
-    "therapist": "You've just named something really central — that gap between knowing something and *feeling* it is real, and it's not a failure of willpower or intelligence, it's just how grief and healing actually work in the body and heart, not just the mind. The fact that you can already hear her voice so clearly — telling you to stop being an idiot and live — tells me she's not fading at all, she's still so present in you. I wonder if we could start very small: not \"permission to move on\" as some big declaration, but just one tiny moment this week where you let yourself do something she would have cheered for — what might that look like?",
+    "client": "It definitely started before losing her — I think I was the kid who didn't want to worry my parents, especially my mom, so I learned pretty early to handle things on my own and not make my problems someone else's burden. But now that you're asking, I'm realizing there's something almost painful about the fact that she was one of the few people I could occasionally let that guard down with, and now that's gone too. So maybe part of what I'm grieving isn't just her, but also the one safe place I had to not be okay.",
+    "therapist": "What you just named is profound and I want to make sure it lands — you're not only grieving your mom, you're grieving the one relationship where you didn't have to be the strong one, which means her death took something even deeper than her presence, it took your only sanctuary from yourself. That makes the weight of this so much clearer, and it also makes your isolation since losing her make complete sense, because the person you would have turned to *is* the loss itself. \n\nI wonder if, in a way, allowing your aunt in — someone who loved your mom and knows that version of you — might be the smallest possible step toward rebuilding a place where you don't have to hold everything together, not to replace what you had, but to honor that you still deserve to have somewhere safe to land?",
     "condition": "baseline",
-    "val_t": -0.11411166191101074,
-    "aro_t": 0.16384875774383545,
-    "text_emotion": "Angry"
+    "val_t": -0.3773963451385498,
+    "aro_t": 0.13229751586914062,
+    "text_emotion": "Sad"
   }
 ]

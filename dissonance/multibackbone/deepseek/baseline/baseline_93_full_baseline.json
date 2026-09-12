@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having trouble sleeping because I can't stop worrying about my exams next week. Between my part-time job and classes, I feel like I'm way behind on studying, and the more I think about it, the more anxious I get. I'm not sure talking about it will help when I just need more hours in the day to actually study.",
-    "therapist": "I hear how overwhelmed you're feeling trying to balance everything, and it makes complete sense that this would affect your sleep. When you notice these anxious thoughts about studying, what tends to happen to your ability to focus when you do sit down to work?",
+    "client": "I've been really stressed about my exams next week. Between working 20 hours at my part-time job and trying to study, I just can't seem to catch up and it's making me panic. I keep thinking about how I might fail everything, which makes it even harder to focus when I do have time to study.",
+    "therapist": "It sounds like you're carrying a heavy load right now with work and studying, and it makes complete sense that you're feeling overwhelmed. When you have those thoughts about failing everything, how do they typically affect your ability to study in that moment?",
     "condition": "baseline",
-    "val_t": -0.30667805671691895,
-    "aro_t": 0.15275299549102783,
+    "val_t": -0.3833343982696533,
+    "aro_t": 0.2569310665130615,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I finally sit down to study, my mind keeps racing about all the other things I should be doing instead. Even if I try to focus, I just feel this tightness in my chest like I'm already behind and failing. \n\nSometimes I think maybe I should just push through, but then I end up staring at the same page for an hour without absorbing anything. It's like my brain won't let me concentrate no matter how hard I try.",
-    "therapist": "It sounds like your anxiety is creating a cycle where the pressure to study actually makes studying harder. I wonder if we could explore what happens when you acknowledge that tight-chest feeling rather than fighting against it?",
+    "client": "When I think about failing, I just freeze up. I sit down to study, but then my mind starts racing with all the things that could go wrong, and I can't concentrate. It feels like no matter how much I try, I'm just going to mess it all up anyway.",
+    "therapist": "It sounds like those thoughts of failure are creating a cycle where the more you worry, the harder it becomes to focus, which then reinforces the fear of failing. What would it feel like to take a step back and challenge those thoughts—maybe asking yourself, \"What evidence do I have that I *will* fail, and what evidence do I have that I might succeed?\"",
     "condition": "baseline",
-    "val_t": -0.22108805179595947,
-    "aro_t": 0.1253758668899536,
+    "val_t": -0.42976200580596924,
+    "aro_t": 0.2553049325942993,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying, but when I try to acknowledge that tight feeling in my chest, it just makes me panic more. It's like the more I notice it, the worse it gets - then I start thinking \"oh no, now I'll never be able to focus.\" \n\nI've tried breathing exercises before and they didn't really help. My mind just races about all the material I need to cover while I'm sitting there trying to breathe.",
-    "therapist": "It makes sense that trying to force relaxation might feel counterproductive when your mind is so full of urgent thoughts. What if we approached this differently - instead of trying to make the anxiety go away, could we explore what that tightness might be trying to tell you?",
+    "client": "I guess I don’t really have evidence that I’ll fail, but it still feels like a possibility. I mean, I’ve done okay in the past, but this time feels different because I’m so stretched thin. It’s hard to believe I can succeed when I feel like I’m already behind and don’t have enough time.",
+    "therapist": "That feeling of being stretched too thin is making it hard to trust your past successes right now, even though you have evidence of doing okay before. When you notice that thought \"I'm already behind,\" do you think there might be a small, manageable step you could take to regain a sense of control?",
     "condition": "baseline",
-    "val_t": -0.22532832622528076,
-    "aro_t": 0.3248790502548218,
+    "val_t": -0.12049651145935059,
+    "aro_t": 0.11472022533416748,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I never thought about my anxiety trying to tell me something. That makes me a little uncomfortable because it feels like my anxiety is just this uncontrollable thing that happens to me. What if it's actually trying to say something important? That's kind of scary to think about.",
-    "therapist": "That discomfort you're feeling is completely valid - it can be unsettling to consider that our anxiety might have a purpose rather than being purely negative. How does it feel to imagine that your anxiety could be trying to protect you from something, even if it's not serving you well right now?",
+    "client": "I guess I could try breaking my study sessions into smaller chunks instead of thinking about everything at once. But part of me worries that even if I try that, it won't be enough time to cover everything properly. I still feel like I'm running against a clock that's already run out.",
+    "therapist": "It sounds like while part of you recognizes that breaking things down could help, there's still that fear whispering \"it's too late.\" What would it be like to test that thought—maybe trying just one small study session today while noticing what actually happens to your sense of time and preparation?",
     "condition": "baseline",
-    "val_t": -0.3090555667877197,
-    "aro_t": 0.2220778465270996,
-    "text_emotion": "Angry"
+    "val_t": -0.1663188934326172,
+    "aro_t": 0.06775033473968506,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about anxiety trying to protect me, but it just feels like it's lying to me all the time. Like when I panic about being late to work, it's not actually protecting me from anything - I'm never actually late. It just makes me feel awful for no reason. \n\nSometimes I worry that if I start seeing anxiety as helpful in any way, I'll just let myself stay anxious forever instead of fighting it.",
-    "therapist": "You're absolutely right that anxiety can feel like it's crying wolf - sending alarm bells when there's no real danger. I wonder if there's a middle ground where we can acknowledge that anxiety might be trying to help (even if it's misguided) while still recognizing when it's not serving us well?",
+    "client": "I could try a short study session today, but I'm not sure it'll change how I feel overall. Even if I finish one small section, there are still so many others left, and that makes me feel like I'm barely making a dent. It's frustrating because I know logically smaller steps help, but emotionally it still feels like I'm falling behind.",
+    "therapist": "It’s understandable that even when you know smaller steps can help, the bigger picture still feels overwhelming, and that’s frustrating. When you think about those other sections left to study, what would it feel like to focus on just one step at a time, reminding yourself that progress, no matter how small, is still progress?",
     "condition": "baseline",
-    "val_t": -0.34424614906311035,
-    "aro_t": 0.23989653587341309,
-    "text_emotion": "Angry"
+    "val_t": -0.2684425115585327,
+    "aro_t": -0.0014679431915283203,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about anxiety trying to help in its own weird way, but it's hard to see it that way when I'm in the middle of a panic attack. It just feels like my brain is betraying me over nothing. Like last night I couldn't sleep because I kept thinking my boss was going to fire me, even though I know I'm doing fine at work.",
-    "therapist": "It sounds incredibly frustrating when your mind creates these scary scenarios that feel so real in the moment, even though logically you know they're unlikely. When you notice these thoughts about getting fired, what happens if you gently remind yourself of the actual evidence about your work performance?",
+    "client": "Focusing on one step at a time sounds reasonable, but it’s hard to shake the feeling that I’m not doing enough. Even if I make progress on one section, I keep thinking about all the others I haven’t touched yet, and it makes me feel like I’m failing before I’ve even started. It’s like my brain won’t let me feel okay with small wins.",
+    "therapist": "It sounds like your mind is quick to dismiss those small wins by shifting focus to what's still left—almost as if it's protecting you from disappointment by expecting the worst. What do you think might happen if you paused, even just briefly, to acknowledge one small win before moving to the next task?",
     "condition": "baseline",
-    "val_t": -0.29808592796325684,
-    "aro_t": 0.22740209102630615,
+    "val_t": -0.1284472942352295,
+    "aro_t": 0.11202681064605713,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I try to remind myself of the evidence, but it's like my brain immediately counters with \"but what if this time is different?\" I had a good performance review last month, but now I'm convinced my boss was just being nice and doesn't actually mean it. The doubts keep creeping back in no matter what.",
-    "therapist": "It sounds like your mind has become very skilled at finding ways to dismiss positive evidence, which must feel exhausting. What do you think might happen if you noticed these doubting thoughts without trying to argue with them or prove them wrong?",
+    "client": "I guess pausing to acknowledge a small win might help a little, but it feels hard to believe it’ll make much of a difference. When I finish one section, I still feel this pressure to rush to the next one because there’s so much left. It’s like I can’t let myself feel okay with what I’ve done because there’s always more to do.",
+    "therapist": "That pressure to constantly rush forward makes it hard to ever feel like you're doing \"enough\"—it's like your brain is always scanning for what's left rather than noticing what you've already accomplished. What would it feel like to experiment with taking just one deep breath after finishing a section, naming one thing you understood well in it, before moving on?",
     "condition": "baseline",
-    "val_t": -0.2154982089996338,
-    "aro_t": 0.1231616735458374,
-    "text_emotion": "Angry"
+    "val_t": -0.033913493156433105,
+    "aro_t": 0.0951458215713501,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I don't know, it feels like if I don't argue with the negative thoughts then they'll just take over completely. When I try to just notice them, it makes me feel even more anxious because then it's like I'm accepting they might be true. \n\nBut you're right that constantly fighting them is exhausting. I just worry that if I stop pushing back, I'll spiral into believing all the worst things about myself. It's hard to find that middle ground.",
-    "therapist": "You're describing such an important tension - between fearing the thoughts will take over if you don't fight them, and feeling exhausted from constantly battling them. What if we explored this idea: that noticing thoughts isn't the same as believing them, just like noticing clouds passing by isn't the same as becoming the sky?",
+    "client": "I could try that breathing and naming thing, but honestly, it feels a little forced. Like I'm just pretending to feel better when I still have so much left to do. What if taking that pause just makes me feel more behind because I'm spending time on breathing instead of studying?",
+    "therapist": "I hear that skepticism—like this pause might just be another thing on your to-do list, or worse, something that takes time away from studying. What if we thought of it differently: not as \"pretending to feel better,\" but as a small experiment to see if this moment of reset actually helps you study more effectively afterward? What do you notice happens to your focus when you push through versus when you pause?",
     "condition": "baseline",
-    "val_t": -0.28832387924194336,
-    "aro_t": 0.1526956558227539,
-    "text_emotion": "Angry"
+    "val_t": -0.10214078426361084,
+    "aro_t": 0.05876028537750244,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about thoughts being like clouds, but when I have anxious thoughts, they don't feel distant like that. They feel urgent and real, like alarms going off in my head. It's hard to just observe them when they demand my attention so strongly. \n\nI've tried mindfulness before and it just made me more frustrated because the thoughts kept pulling me back in. How is noticing them supposed to help when they feel so overwhelming?",
-    "therapist": "It makes complete sense that these thoughts feel so urgent and demanding - that's exactly what makes anxiety so powerful in the moment. Rather than trying to force mindfulness when you're overwhelmed, what if we started by simply naming what's happening? Like saying to yourself \"Ah, there's that alarm feeling again\" without needing to do anything about it just yet?",
+    "client": "When I push through without pausing, I just end up exhausted and staring at my notes without really absorbing anything. But the idea of pausing as an experiment... I'm still worried it'll feel like wasting time. Maybe if I try it just once, but I don't think it'll fix how overwhelmed I feel about everything left to do.",
+    "therapist": "It makes sense that you're hesitant—when you're already feeling stretched thin, any pause can feel like precious time slipping away. But noticing that pushing through leaves you exhausted and unfocused is already such an important insight. What if we thought of this experiment not as a fix for everything, but as a way to gather information about what actually helps you study more effectively, even just a little?",
     "condition": "baseline",
-    "val_t": -0.18299293518066406,
-    "aro_t": 0.23634719848632812,
+    "val_t": -0.15988457202911377,
+    "aro_t": 0.1617640256881714,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about naming the feeling, but when the anxiety hits, it's like my whole body is screaming at me to DO something. Just observing it feels impossible in those moments. And honestly, sometimes naming it makes me more aware of how bad I feel, which makes the anxiety worse.",
-    "therapist": "You're absolutely right that trying to observe intense anxiety can sometimes amplify it - that's why we want to approach this gently, at your own pace. What if we experimented with noticing the anxiety after it's already started to ease, even just a little, rather than in the peak moment?",
+    "client": "I can see how treating it like an experiment takes some pressure off—it doesn't have to \"fix\" everything at once. But part of me still feels like I'm just delaying the inevitable crash when I realize I can't cover everything in time. What if I try pausing but still end up feeling just as overwhelmed afterward? Then it really would feel like wasted time.",
+    "therapist": "It’s understandable to feel like pausing might just delay the crash—that worry makes sense when you’re carrying so much on your shoulders. But what if the experiment isn’t about avoiding that crash entirely, but about noticing whether pausing gives you even a tiny bit more clarity or energy to face what’s next? What would it feel like to try it once and observe what happens, without needing it to be a perfect solution?",
     "condition": "baseline",
-    "val_t": -0.2969776391983032,
-    "aro_t": 0.26890575885772705,
+    "val_t": -0.187109112739563,
+    "aro_t": 0.2100919485092163,
     "text_emotion": "Angry"
   }
 ]

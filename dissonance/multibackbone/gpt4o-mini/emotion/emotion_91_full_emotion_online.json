@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Luna, I've been feeling really overwhelmed since my grandmother passed away last month. Every time I go to her favorite coffee shop, it hits me hard, and I feel this wave of sadness wash over me. I’m not sure how to cope with it, and I’m starting to wonder if talking about it in therapy will even help.",
-    "therapist": "I'm really sorry to hear about your grandmother's passing; it sounds incredibly painful and overwhelming for you. It's completely understandable to feel a wave of sadness when you're reminded of her, especially in places that held meaning. Talking about your feelings in therapy can be a helpful step in processing this grief. What do you think might help you feel a bit more at ease when you visit that coffee shop?",
+    "client": "I've been really struggling since my grandmother passed away last month. Every time I go to her favorite coffee shop, it hits me hard, and I just feel this overwhelming sadness. I can't shake the feeling of loss, and honestly, I’m not sure how talking about it will make a difference.",
+    "therapist": "I'm really sorry to hear about your grandmother's passing; that sounds incredibly difficult. It's understandable that visiting her favorite coffee shop brings up such strong feelings of sadness. Talking about your loss can feel daunting, but it might also help you process these emotions. What do you think it would feel like to share some of your memories of her?",
     "condition": "emotion_text_only",
-    "val_t": -0.26517975330352783,
-    "aro_t": 0.2876567840576172,
+    "val_t": -0.42498838901519775,
+    "aro_t": 0.20842397212982178,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding, but honestly, I'm not sure anything could help me feel at ease in that coffee shop. It's just so tied to memories of her that every time I go there, it feels like I'm being pulled back into that sadness. I don't know if I can handle the thought of reframing those memories or trying to find comfort in a place that feels so heavy for me right now.",
-    "therapist": "I can sense how deeply tied those memories are to your feelings of loss, and it’s completely valid to feel that heaviness when you visit the coffee shop. It makes sense that you wouldn’t want to reframe those memories yet; sometimes, just sitting with the sadness is what we need. Have you thought about what might feel supportive for you in those moments, even if it feels challenging?",
+    "client": "I appreciate your kind words, but sharing memories feels really overwhelming right now. I worry that if I start talking about her, I'll just break down completely. It feels like I can't even find the right words to express how much I miss her, and I'm not sure how sharing will help me feel any better.",
+    "therapist": "I can see that the thought of sharing memories is really heavy for you right now, and it's completely normal to feel that way when dealing with such profound loss. It’s okay to take your time and only share what feels manageable. Sometimes, exploring how you’re feeling in the moment can help—what do you think you might need right now to feel a little more at ease?",
     "condition": "emotion_text_only",
-    "val_t": -0.19249451160430908,
-    "aro_t": 0.1369023323059082,
-    "text_emotion": "Angry"
+    "val_t": -0.03287160396575928,
+    "aro_t": 0.23698925971984863,
+    "text_emotion": "Tense"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how heavy those memories feel for me. Honestly, just sitting with the sadness seems really overwhelming sometimes, especially in such a familiar place like the coffee shop. I guess I'm struggling to think about what might be supportive because it feels like nothing can really ease that pain right now.",
-    "therapist": "It sounds like the weight of your sadness is really taking a toll, especially in a place that holds so many memories. It’s okay to feel that way, and it’s understandable that finding support feels difficult right now. Sometimes, just acknowledging that pain without trying to rush into finding a solution can be a step in itself. What do you think would feel manageable for you in those moments, even if it’s just a small action?",
+    "client": "Right now, I think I just need some space to process everything. It feels like I'm constantly on the verge of tears, and I don't want to break down in front of anyone. I guess it would help if I could find a way to honor her memory without feeling so overwhelmed, but I'm not really sure what that would look like.",
+    "therapist": "It sounds like you’re feeling the need for some space to process your emotions, which is completely understandable given how heavy this is for you. Honoring your grandmother’s memory in a way that feels comfortable is a beautiful idea, and it doesn’t have to be overwhelming. What are some small ways you might consider doing that, perhaps something that feels manageable for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.1901085376739502,
-    "aro_t": 0.13123083114624023,
+    "val_t": -0.19165802001953125,
+    "aro_t": 0.2196063995361328,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that it’s understandable to feel this way, but it’s hard for me to just sit with the sadness. I often feel like I should be doing something to fix it, but I don’t even know where to start. The idea of taking small actions sounds nice, but honestly, I feel so overwhelmed that even thinking about what those actions could be feels like too much.",
-    "therapist": "It’s completely understandable to feel the pressure to “fix” your sadness, especially when it feels so overwhelming. The weight of those emotions can make even small actions seem daunting, and it’s okay to feel that way. Perhaps we could explore what that pressure feels like for you—what thoughts come up when you think about needing to take action?",
+    "client": "I've thought about creating a little photo album of her, but even that feels like it might be too much right now. I worry that going through old pictures will just bring up all the tears again. I want to remember her, but I’m not sure I can handle that kind of emotional hit just yet.",
+    "therapist": "It makes sense that creating a photo album feels like a big step, especially when you’re worried about the emotional weight that comes with it. It’s okay to take a gentle approach to remembering her, so maybe you could start with just a few pictures or even jot down some memories that come to mind without diving too deep right now. What feels like a doable first step for you in honoring her memory?",
     "condition": "emotion_text_only",
-    "val_t": -0.14020991325378418,
-    "aro_t": 0.2363520860671997,
+    "val_t": -0.16263282299041748,
+    "aro_t": 0.17793786525726318,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I feel really overwhelmed by that pressure, to be honest. It’s like this constant voice in my head telling me I need to do something to fix my sadness, but I don’t even know where to start. It makes me feel more anxious and guilty, like I'm failing at something even though I’m just trying to cope with my feelings.",
-    "therapist": "It sounds like that pressure is creating a real burden for you, making it even harder to navigate your sadness. Feeling anxious and guilty during such a difficult time is completely understandable, and it's important to recognize that you're not failing; you're simply trying to cope with a profound loss. What if we took a moment to explore that \"constant voice\" together? What does it say, and how does it make you feel?",
+    "client": "I guess starting with just a few pictures could be more manageable. But even that idea feels a bit daunting. I’m worried I won’t be able to control my emotions, and then it’ll just turn into a big mess. What if I can’t stop crying? It feels like I need to be stronger than that.",
+    "therapist": "It’s completely understandable to feel daunted by the thought of going through those pictures, especially when you’re concerned about losing control of your emotions. It’s important to remember that feeling sad is a natural response to loss, and it doesn't mean you’re not strong. Perhaps you could set a small time limit for yourself or choose just one picture to start with, allowing yourself to step away if it feels too much. How do you feel about trying that approach?",
     "condition": "emotion_text_only",
-    "val_t": -0.3901098966598511,
-    "aro_t": 0.24487292766571045,
+    "val_t": -0.23252654075622559,
+    "aro_t": 0.2168809175491333,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess the constant voice is just this nagging reminder that I should be handling things better. It says I'm weak for feeling this way, and that I should be over it by now. It makes me feel even more isolated and guilty, like I can't reach out for help without being judged.",
-    "therapist": "It sounds like that inner voice is quite harsh and critical, making you feel even more isolated and guilty for experiencing your grief. Feeling \"weak\" for having emotions is a common struggle, but it's important to remember that grieving is a deeply personal process, and there's no timeline for it. Reaching out for help is a sign of strength, not weakness. What do you think it would be like to challenge that voice when it tells you that you should be handling things better?",
+    "client": "I appreciate the suggestion, but I still feel hesitant about even picking just one picture. What if I start looking at it and can't stop crying? It feels like I might open up a floodgate of emotions that I’m not really ready to deal with. I want to remember her, but I don’t want to feel completely overwhelmed in the process.",
+    "therapist": "It sounds like the idea of even picking one picture feels really daunting for you, and that’s completely valid. It’s okay to be cautious about opening up emotions that feel overwhelming right now. Maybe there’s a way to honor her that doesn’t involve looking at pictures, like writing a letter to her or thinking of a favorite memory. What do you think would feel safer or more comfortable for you at this moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.42085397243499756,
-    "aro_t": 0.13632512092590332,
-    "text_emotion": "Sad"
+    "val_t": -0.18028640747070312,
+    "aro_t": 0.24119031429290771,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about that inner voice, and I know it's critical, but it feels like it's just part of who I am. Challenging it seems like a daunting task, almost like I’m fighting against myself. I feel guilty enough about grieving, and now I have to deal with this voice telling me I should be stronger. How am I supposed to do that?",
-    "therapist": "It sounds like that inner voice feels deeply ingrained, making the idea of challenging it feel like an uphill battle. It's understandable to feel guilty about grieving while also wrestling with that critical part of yourself. Remember, you’re not alone in this—many people struggle with similar feelings. Perhaps we can explore small ways to create a compassionate response to that voice, rather than feeling like you have to fight against it. What do you think might help you begin to soften that criticism, even just a little?",
+    "client": "Writing a letter sounds a bit more manageable than looking at pictures, but I still feel hesitant. I’m not sure what I would even say in a letter that would do her memory justice. It feels like I might just end up writing how much I miss her and getting upset again, which is what I’m trying to avoid right now.",
+    "therapist": "It makes sense that writing a letter feels a bit overwhelming, especially when you worry about it bringing up those feelings of missing her. It’s okay to start small and not have everything figured out right away. Maybe you could begin with just a few sentences about something specific you loved about her or a cherished moment, without the pressure of capturing everything perfectly. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.21433722972869873,
-    "aro_t": 0.18344557285308838,
+    "val_t": -0.2624439001083374,
+    "aro_t": 0.16831088066101074,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about that inner voice, but it feels really overwhelming to even think about being compassionate toward it. I can't help but feel guilty for having those critical thoughts, especially when I'm just trying to cope with my grief. It's like I'm torn between wanting to be kind to myself and feeling like I should be stronger or better. How do I even start to soften that criticism when it feels so ingrained?",
-    "therapist": "It sounds like you’re feeling really torn between wanting to be gentle with yourself and the pressure to be stronger, which must be incredibly exhausting. It’s completely normal to feel guilt when grappling with critical thoughts, especially while you’re in the midst of grieving. Maybe we could start by acknowledging that it’s okay to have those thoughts without needing to change them right away. What if we explored one small way to honor your feelings without judgment, just for today?",
+    "client": "I suppose starting with just a few sentences could be easier, but I still feel this tight knot in my stomach at the thought of it. It’s like I want to remember her, but the fear of getting too emotional is holding me back. I guess I just don’t know if I can find the right words or if it will just end up being too painful.",
+    "therapist": "It’s completely understandable to feel that tight knot in your stomach when you think about expressing your feelings; it sounds like the fear of becoming too emotional is creating a lot of tension for you. Remember, there’s no right or wrong way to honor her memory, and it’s okay to take your time. Maybe you could start by just jotting down a few words or phrases that come to mind, without worrying about forming complete sentences. How does that approach feel for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2742156982421875,
-    "aro_t": 0.19201111793518066,
+    "val_t": -0.27038276195526123,
+    "aro_t": 0.15573477745056152,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I understand what you're saying, but it feels really hard to just sit with my feelings without trying to change them. I often feel like I should be stronger or doing better, and that guilt just weighs me down even more. I'm not sure how to honor my feelings without spiraling into a deeper sense of sadness or frustration.",
-    "therapist": "It sounds like the guilt and pressure to be stronger are really weighing heavily on you, making it tough to just sit with your feelings without feeling like you're spiraling. It’s completely understandable to feel that way, especially when emotions can feel so intense. Perhaps we can explore what it would look like to acknowledge your feelings without the pressure to change them right away. What small step do you think you could take to create a little space for those feelings without feeling overwhelmed?",
+    "client": "I think starting with just a few words or phrases might be a little less intimidating. However, I still feel unsure about what to write. What if I can’t find the right words or if it ends up just reminding me of how much I miss her? It’s like I want to do this, but the fear of feeling hurt again is holding me back.",
+    "therapist": "It sounds like you're feeling caught between wanting to remember your grandmother and the fear of the pain that might come with it. That uncertainty can be really challenging to navigate. It’s perfectly okay to not have the right words, and perhaps just writing whatever comes to mind, even if it’s messy or incomplete, could be a way to start without putting too much pressure on yourself. What do you think about giving yourself permission to write freely, without worrying about the outcome?",
     "condition": "emotion_text_only",
-    "val_t": -0.37570130825042725,
-    "aro_t": 0.10577690601348877,
-    "text_emotion": "Sad"
+    "val_t": -0.27394092082977295,
+    "aro_t": 0.20673465728759766,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about acknowledging my feelings, but it feels really hard to just sit with them. I always feel this urge to push them away or change them because they just seem so heavy and uncomfortable. Honestly, I don't know what that small step could even look like for me; it feels like I'm stuck in this cycle of guilt and pressure that I can't escape.",
-    "therapist": "It sounds like you’re feeling really stuck in a cycle of guilt and pressure, which must be incredibly frustrating and exhausting. It’s completely natural to want to push away feelings that feel heavy and uncomfortable; many people struggle with that urge. Maybe we can focus on just one small moment of awareness—like taking a few deep breaths to check in with yourself—without the expectation of changing anything. What do you think about starting with that simple act of noticing?",
+    "client": "I see what you're saying, and I do want to remember her without feeling so weighed down by emotions. But the idea of writing freely still feels intimidating because I worry I'll just spiral into sadness. What if I can't stop crying once I start? It just feels like such a fragile space to be in right now.",
+    "therapist": "It sounds like you're feeling very fragile right now, and the thought of writing freely brings up a lot of fear about spiraling into sadness. It's completely valid to be apprehensive about that, especially when you're trying to honor your grandmother's memory without being overwhelmed. You might consider setting a gentle boundary for yourself, like allowing just a few minutes to write, with the option to stop if it feels too much. How does that idea resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.30780911445617676,
-    "aro_t": 0.15855419635772705,
+    "val_t": -0.25605881214141846,
+    "aro_t": 0.21278679370880127,
     "text_emotion": "Angry"
   }
 ]

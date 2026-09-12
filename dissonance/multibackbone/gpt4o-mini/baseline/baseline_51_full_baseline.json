@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately, I've been feeling really lost since I lost my partner in that car accident six months ago. It's like everything I used to enjoy has been overshadowed by this heaviness, and I struggle to find any joy in those activities now. I wonder if therapy can really help me move forward or if I'm just stuck in this sadness forever.",
-    "therapist": "I'm truly sorry to hear about the loss of your partner; that kind of grief can feel incredibly heavy and overwhelming. It's completely understandable to feel lost and to struggle with finding joy in things you once enjoyed. What are some small activities or moments where you felt a flicker of happiness, even if just for a moment?",
+    "client": "I've been really struggling since I lost my partner in that car accident six months ago. It feels like everything I used to enjoy has lost its meaning, and I can't seem to find joy in anything anymore. Sometimes I wonder if therapy can even help me with this deep sense of emptiness.",
+    "therapist": "I'm truly sorry to hear about your loss; it's completely understandable to feel a deep sense of emptiness after such a devastating event. It sounds like the grief is really overshadowing the things that used to bring you joy. What do you think is the most challenging part of this experience for you right now?",
     "condition": "baseline",
-    "val_t": -0.33397555351257324,
-    "aro_t": 0.2228637933731079,
+    "val_t": -0.3691134452819824,
+    "aro_t": 0.16566550731658936,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding, but honestly, it feels like joy is just a distant memory for me now. I can't really pinpoint any small activities that brought me happiness lately. It's hard to even think about doing something I used to enjoy when everything feels so heavy and I keep getting reminded of my partner's absence.",
-    "therapist": "It's completely valid to feel that joy seems distant right now, especially when you're navigating such profound grief. It's okay to acknowledge the weight of that absence; it’s a part of your healing process. Can we explore together some small, gentle activities that might feel manageable, even if they don't bring joy right away?",
+    "client": "I think the hardest part is feeling so isolated in my grief. I want to reach out to friends, but I worry they won't understand just how deep my pain goes. It’s like I’m stuck in this bubble, and every time I try to connect, I feel even more alone.",
+    "therapist": "It's really tough to feel isolated in your grief, especially when you long for connection but fear that others may not fully understand your pain. It's completely valid to have those feelings; reaching out can feel daunting when you're in such a vulnerable place. What do you think might help you take that first step towards connecting with someone, even if it feels challenging?",
     "condition": "baseline",
-    "val_t": -0.0028852224349975586,
-    "aro_t": 0.14457190036773682,
-    "text_emotion": "Neutral"
+    "val_t": -0.38334977626800537,
+    "aro_t": 0.09969770908355713,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying that my feelings are valid, but it’s hard to think about activities when everything just feels heavy. I don't know if I have the energy or motivation to even try anything right now. It almost feels pointless because I can't imagine finding joy in anything at this moment.",
-    "therapist": "It makes perfect sense that finding the energy or motivation feels overwhelming, especially when you're carrying such a heavy emotional load. It's okay to take a step back and simply acknowledge where you are right now without the pressure to act. What do you think would feel like a small, manageable step for you, even if it’s just allowing yourself to sit with your feelings for a bit longer?",
+    "client": "I honestly don't know if I can take that first step. I've thought about reaching out to a couple of close friends, but I worry they won't know what to say or that it will just make me feel worse. It feels easier to just stay in my bubble, even though I know it's not healthy.",
+    "therapist": "It makes sense that you're feeling hesitant to reach out, especially when you're worried about how your friends may respond or how it might affect you. Staying in your bubble can feel safer, but it can also deepen the sense of isolation. What small step do you think you could take that feels manageable, like sending a text or sharing a memory of your partner?",
     "condition": "baseline",
-    "val_t": 0.0029306411743164062,
-    "aro_t": 0.2376539707183838,
-    "text_emotion": "Tense"
+    "val_t": -0.1388338804244995,
+    "aro_t": 0.03557789325714111,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate you saying that it's okay to take a step back. It just feels like every small step I think of is so daunting, and I keep questioning whether it will actually help. Sometimes, sitting with my feelings just makes me feel more trapped in them, like I'm stuck in a loop and can't find a way out.",
-    "therapist": "I can understand how sitting with those feelings can feel like being trapped in a loop; that experience can be incredibly disheartening. It’s important to remember that feeling stuck is a common part of grief, and there's no right or wrong way to navigate it. What if we explored some very small actions that could help you feel a little more in control, even if they seem daunting?",
+    "client": "I guess I could think about sending a text, but it feels so overwhelming. What if they don't respond the way I hope? I just keep imagining how awkward it might be if they don’t know what to say, and then I'd have to deal with even more feelings of loneliness.",
+    "therapist": "It’s completely understandable to feel overwhelmed by the possibility of not getting the response you hope for; those feelings are very real. It can be tough to imagine how that might impact you, especially when you're already navigating such deep emotions. What if you considered that your friends might want to support you but just don’t know how? How would it feel to reach out with that in mind?",
     "condition": "baseline",
-    "val_t": -0.09767293930053711,
-    "aro_t": 0.1547468900680542,
+    "val_t": -0.3643381595611572,
+    "aro_t": 0.1556384563446045,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about feeling stuck being part of grief, but honestly, it feels overwhelming. The thought of taking small actions just seems daunting right now. I worry that even if I try, I might not feel any different, and that makes me hesitant to even start.",
-    "therapist": "It's completely understandable to feel overwhelmed at the thought of taking any action, especially when you're worried about the outcome. It’s okay to acknowledge that hesitation without judgment; it reflects the depth of what you're experiencing. How would it feel to simply explore the idea of small actions without any pressure to succeed or change your feelings right away?",
+    "client": "I guess I never really thought about it that way. It’s comforting to think that my friends might actually want to support me, but it still feels really scary to reach out. What if they don’t know what to say and it just ends up being awkward? I’m not sure I’m ready to risk that.",
+    "therapist": "It's completely natural to feel scared about the potential awkwardness; reaching out can feel risky, especially when you're in such a vulnerable place. Remember, it’s okay to express that you’re just looking for someone to listen, even if they don’t know exactly what to say. What might it look like to frame your message in a way that invites them to simply be there for you without the pressure of having to say the perfect thing?",
     "condition": "baseline",
-    "val_t": -0.22271299362182617,
-    "aro_t": 0.16572833061218262,
+    "val_t": -0.17599999904632568,
+    "aro_t": 0.08687996864318848,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but the idea of taking any action, even small ones, feels really daunting to me. I worry that if I try something and it doesn't work out, it'll just make me feel worse. Plus, I often feel stuck in my own head, and even thinking about what to do next feels overwhelming.",
-    "therapist": "It’s completely valid to feel daunted by the idea of taking action, especially when there’s a fear of it not working out. Acknowledging those feelings can be a crucial part of your journey. What if we reframed the focus from taking action to simply exploring what feels safe or comfortable in your mind right now? Is there a thought or feeling you’d like to unpack together?",
+    "client": "I see what you mean, and it does help to think about just needing someone to listen without the pressure of perfect responses. But I still feel stuck on how to actually express that. What if my friends don’t take it seriously, or they just don’t know how to handle my grief? It feels like I’d be putting myself out there for nothing.",
+    "therapist": "It’s understandable to feel hesitant about expressing your needs, especially when you're concerned about how your friends might respond. It’s important to remember that your grief is valid, and reaching out is a courageous step in itself. How might you frame your message to convey both your need for support and your understanding that they may not have all the answers?",
     "condition": "baseline",
-    "val_t": -0.2626608610153198,
-    "aro_t": 0.21352171897888184,
+    "val_t": -0.28922176361083984,
+    "aro_t": 0.14673006534576416,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying it's valid to feel daunted, but it’s just hard for me to imagine any safe or comfortable thoughts right now. My mind is pretty much filled with worries about the future and all the things that could go wrong. It feels overwhelming to even think about exploring those thoughts, because I’m not sure where to start or if it’ll really help me.",
-    "therapist": "It’s completely understandable to feel overwhelmed by worries about the future, especially during such a difficult time. It’s okay to not know where to start; simply acknowledging those thoughts can be a step in itself. What if we tried to identify just one worry together, and see if we can gently explore it without any pressure to find solutions right away?",
+    "client": "I guess I could say something like, \"I’m really struggling with my grief right now, and I could use someone to talk to. I don’t expect you to have all the answers; I just need a friend.\" But even thinking about sending that makes my heart race. What if they don’t respond the way I hope, or worse, what if they just don’t get it? It feels like a huge risk.",
+    "therapist": "That’s a beautiful way to express your feelings and needs, and it shows vulnerability and honesty. It’s completely natural for your heart to race at the thought of reaching out, given the risk involved. How might you soothe those racing thoughts as you consider sending that message, and what would it mean for you to take that step, even if the outcome feels uncertain?",
     "condition": "baseline",
-    "val_t": -0.08026647567749023,
-    "aro_t": 0.15887093544006348,
+    "val_t": -0.23822617530822754,
+    "aro_t": 0.13527369499206543,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying it's okay to feel overwhelmed, but honestly, it's hard for me to pinpoint just one worry. It feels like there are so many things weighing on my mind all at once, and I can't help but feel paralyzed by it. What if we dive into one and I end up feeling worse? I’m just not sure how that would help.",
-    "therapist": "I hear you; it can be incredibly overwhelming when multiple worries crowd your mind, and the fear of feeling worse is completely valid. It’s okay to protect yourself from diving into something that feels too heavy right now. How about we take a moment to simply observe those worries without trying to tackle them? What do you notice about the thoughts that come up, and how do they make you feel in this moment?",
+    "client": "I think soothing those racing thoughts might involve reminding myself that it's okay to feel vulnerable and that reaching out is a brave thing to do. But I still feel that nagging doubt—what if they don't respond at all or just say something that makes me feel worse? It feels like there's so much at stake, and I'm not sure I can handle that kind of disappointment right now.",
+    "therapist": "It’s completely understandable to feel that nagging doubt and the weight of potential disappointment; it shows how much you care about the connection. Acknowledging that vulnerability is brave is a great start, and it’s okay to honor your feelings of fear. What if you considered that reaching out is not just about the response you might get, but also about taking a step toward healing for yourself? How would it feel to focus on your own courage in this moment, regardless of how your friends respond?",
     "condition": "baseline",
-    "val_t": -0.2775341272354126,
-    "aro_t": 0.22847676277160645,
+    "val_t": -0.3281235694885254,
+    "aro_t": 0.16392898559570312,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate you saying that, but honestly, just observing my worries feels really tough. They come rushing in like a storm, and I can't help but feel this tightness in my chest. I think if I try to just sit with them, I'll become even more overwhelmed instead of finding any clarity.",
-    "therapist": "It’s completely understandable that simply observing your worries feels tough, especially when they come in so intensely. That tightness in your chest is a clear signal of how much weight you're carrying right now. Would it feel more manageable to take a moment to focus on your breath or your surroundings instead, allowing yourself a brief respite from those thoughts? How might that shift your experience in this moment?",
+    "client": "I see your point about focusing on my own courage and the healing aspect of reaching out, and that does feel a bit empowering. But I still can’t shake off the fear of being disappointed, especially since I’ve felt so alone for so long. It's hard to imagine taking that step when the thought of rejection looms so large in my mind.",
+    "therapist": "It's completely normal to feel that fear of disappointment, especially when you've been carrying such heavy feelings of loneliness for a long time. Those worries can feel overwhelming, but recognizing your own courage is a powerful step toward breaking that cycle. What if you allowed yourself to consider this: even if the response isn't what you hope for, reaching out could still be a valuable act of self-care? How might you remind yourself that your worth isn't determined by their response?",
     "condition": "baseline",
-    "val_t": -0.20847666263580322,
-    "aro_t": 0.2360551357269287,
+    "val_t": -0.2765319347381592,
+    "aro_t": 0.19785761833190918,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I feel a bit skeptical about focusing on my breath or surroundings. It seems like a small fix for such overwhelming feelings. Sometimes, when I try to breathe or ground myself, I just end up feeling more anxious because I’m still aware of all those heavy thoughts lurking in the background.",
-    "therapist": "It's completely valid to feel skeptical about those techniques, especially when the heaviness of your thoughts feels so prominent. It’s important to honor where you are and recognize that what works for one person may not feel right for another. Instead of focusing on breathing or grounding, would it be helpful to share more about what those heavy thoughts are telling you? Sometimes just voicing them can provide a little relief.",
+    "client": "I can see how reaching out could be a form of self-care, and that does make sense. But even when I think about it, I feel this tight knot in my stomach. It’s hard to separate my worth from how others respond, especially since I’ve felt so invisible lately. What if I reach out and it just reinforces that sense of loneliness?",
+    "therapist": "It's completely understandable to feel that tight knot in your stomach; those feelings of invisibility and fear of loneliness can be really overwhelming. It’s important to recognize that your worth is inherent and not dependent on others’ responses, although I know that can be very difficult to internalize in such painful circumstances. What if you approached reaching out as a way to express your feelings, regardless of the outcome? How might it feel to remind yourself that your emotions are valid, and taking this step is an act of honoring your own journey?",
     "condition": "baseline",
-    "val_t": -0.1539168357849121,
-    "aro_t": 0.17753636837005615,
-    "text_emotion": "Angry"
+    "val_t": -0.13369786739349365,
+    "aro_t": 0.053716063499450684,
+    "text_emotion": "Neutral"
   }
 ]

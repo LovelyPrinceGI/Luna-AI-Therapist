@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been really struggling lately. Ever since my grandmother passed away last month, I've been feeling so sad and it's hard for me to focus on anything. I know I should be moving on, but I just can't seem to shake these feelings.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandmother and the intense sadness you're experiencing. It's completely natural to feel this way after such a significant loss, and there's no right or wrong timeline for grieving. How have you been coping with these feelings, and are there any moments when the sadness feels a bit more manageable?",
+    "client": "Hi Luna, I've been really struggling lately. Ever since my grandmother passed away last month, I've been feeling so sad and it's hard to focus on anything. I know I should be moving on, but it just feels impossible.",
+    "therapist": "Hi there, I'm so sorry to hear about your grandmother and how you've been feeling. It's completely normal to feel overwhelmed and sad after such a significant loss. Can you tell me more about what it's been like for you to try to focus on daily tasks?",
     "condition": "baseline",
-    "val_t": -0.35266101360321045,
-    "aro_t": 0.1525057554244995,
-    "text_emotion": "Angry"
+    "val_t": -0.35531699657440186,
+    "aro_t": 0.11546671390533447,
+    "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Thank you, Luna. It's been really tough. I find myself crying a lot, especially when I'm alone. Sometimes, I feel a bit better when I'm around friends, but it's hard to shake off the sadness. I don't know if I'm doing enough to cope with it.",
-    "therapist": "I can imagine how tough this must be for you, and it's completely understandable to feel this way. Crying is a natural response to grief, and it's okay to let yourself feel those emotions, especially when you're alone. It's also great that you're finding some comfort with your friends. Have you tried talking to them about how you're feeling, or perhaps engaging in activities that bring you some joy? What do you think might help you feel a bit more at ease during these difficult times?",
+    "client": "Thanks for understanding, Luna. It's been really tough. Simple things like cooking a meal or even just getting out of bed feel like monumental tasks. I keep thinking about all the times we spent together, and it's hard to let go of those memories.",
+    "therapist": "I can imagine how challenging and emotionally draining that must be. It's understandable that those memories are both precious and painful. How do you think honoring those memories might help you through this difficult time?",
     "condition": "baseline",
-    "val_t": -0.164178729057312,
-    "aro_t": 0.08628904819488525,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "It's hard to talk to my friends about how I'm really feeling. I don't want to burden them or seem like I'm always the one with problems. And while I do enjoy spending time with them, it feels like it only helps for a little while. I guess I just feel like I should be able to handle this on my own, but I can't shake these feelings of loneliness and guilt.",
-    "therapist": "I understand how difficult it can be to open up to friends, especially when you feel like you might be burdening them. It's natural to want to handle things on your own, but it's important to remember that reaching out for support is a sign of strength, not weakness. Have you considered finding a safe space where you can express these feelings, perhaps through a support group or journaling? How do you think sharing your feelings in a more structured or private setting might help you process your grief?",
-    "condition": "baseline",
-    "val_t": -0.28626906871795654,
-    "aro_t": 0.0780630111694336,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate that, Luna. I do feel like a burden sometimes, and it's hard to open up. I've tried journaling before, but it feels like I'm just writing the same things over and over. I'm not sure if a support group would be different or if it would make me feel any better. It's hard because I worry about being judged or not fitting in.",
-    "therapist": "I completely understand your concerns about feeling like a burden and the worry about being judged. It's really brave of you to even consider these options, and it's okay to take things at your own pace. Journaling can sometimes feel repetitive, but you might find it helpful to try writing about different aspects of your feelings or exploring your memories of your grandmother. What do you think might make the process feel more meaningful or different for you? Alternatively, if a support group feels too daunting right now, are there any other forms of expression or activities that you find comforting or therapeutic?",
-    "condition": "baseline",
-    "val_t": -0.17225325107574463,
-    "aro_t": 0.0349278450012207,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate your understanding, Luna. Journaling does feel a bit repetitive, but I can see how exploring different aspects might help. Maybe I could try writing letters to my grandmother, imagining what I would say if she were still here. It feels a bit strange, but it might help me process some of these feelings. As for a support group, I think I'll hold off on that for now. It just feels too overwhelming, even thinking about it.",
-    "therapist": "That's a really thoughtful approach, and writing letters to your grandmother could be a powerful way to process your feelings and maintain a sense of connection with her. It might feel strange at first, but many find it deeply healing. Take your time with it and see how it feels. And that's perfectly fine to hold off on the support group for now. It's important to do what feels right for you and not push yourself too hard. How do you think you might integrate this new journaling practice into your routine, and what might be a good starting point for you?",
-    "condition": "baseline",
-    "val_t": 0.022534847259521484,
-    "aro_t": 0.12613797187805176,
+    "val_t": -0.07505226135253906,
+    "aro_t": 0.10435497760772705,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 6,
-    "client": "I appreciate your support, Luna. I think starting with just one letter a week might be manageable for me. It's hard to imagine how it will feel, but I'm willing to try it out and see where it takes me. I just hope it doesn't bring up too many difficult emotions that I'm not ready to face.",
-    "therapist": "I'm glad you found a starting point that feels manageable, and I think writing one letter a week is a great way to begin. It's natural to feel a bit apprehensive about bringing up difficult emotions, but remember that you can always take breaks or pause if it feels too overwhelming. How do you think you might take care of yourself after writing these letters, and what might help you feel more grounded and supported?",
+    "turn": 3,
+    "client": "I think honoring her memory could help, but it's hard to know where to start. I worry that if I try to do something special, it might just make me feel even more sad and lonely. It's a bit overwhelming to think about.",
+    "therapist": "It's completely understandable to feel that way, and it's okay to take it one step at a time. Maybe we could explore some small, manageable ways to honor her memory that don't feel too overwhelming. What are some simple things that remind you of your grandmother, or that you think she would have appreciated?",
     "condition": "baseline",
-    "val_t": 0.15629327297210693,
-    "aro_t": 0.10817909240722656,
+    "val_t": -0.24531292915344238,
+    "aro_t": 0.147979736328125,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "That sounds like a good idea, Luna. I remember how much she loved gardening. Maybe I could plant some flowers she used to grow. It feels like a small step, but it might help me feel a bit closer to her.",
+    "therapist": "That's a beautiful idea, and I think it could be a meaningful way to connect with her memory. Planting flowers she loved can be a lovely way to keep her spirit alive and give you a sense of continuity. How do you think you might feel while you're planting and caring for these flowers?",
+    "condition": "baseline",
+    "val_t": 0.250095009803772,
+    "aro_t": 0.15766382217407227,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 5,
+    "client": "I think I might feel a mix of emotions—sadness, but also a sense of peace and connection. It's comforting to know that something I do can keep her memory alive. But I'm also a bit nervous about whether I can keep the plants alive; I don't have much of a green thumb.",
+    "therapist": "It's completely natural to feel a mix of emotions, and it's wonderful that you're finding a sense of peace and connection in this activity. As for the nervousness about gardening, remember that it's okay to start small and learn as you go. What small step could you take to start this process, even if it's just buying a few easy-to-care-for plants?",
+    "condition": "baseline",
+    "val_t": -0.12860238552093506,
+    "aro_t": 0.09863746166229248,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I appreciate your encouragement, Luna. Starting small does sound more manageable. I think I'll start by buying a couple of potted plants that she used to love, like her favorite roses. It feels like a good place to begin, even if I'm still a bit nervous about it.",
+    "therapist": "That sounds like a great place to start, and I'm glad you're feeling more encouraged about it. Taking that first step, even with a bit of nervousness, is a sign of strength. How do you think you might care for these plants, and what thoughts come up when you imagine doing that?",
+    "condition": "baseline",
+    "val_t": 0.18116867542266846,
+    "aro_t": 0.2660742998123169,
     "text_emotion": "Excited"
   },
   {
     "turn": 7,
-    "client": "I appreciate your support, Luna. I think after writing the letters, I might need some time to decompress. Maybe I could go for a walk or do some deep breathing exercises to help me feel more grounded. It's hard to imagine how it will go, though, and I'm a bit worried about stirring up a lot of emotions.",
-    "therapist": "That's a really thoughtful plan, and taking time to decompress is so important. Going for a walk or doing deep breathing exercises can be very grounding and help you manage those intense emotions. It's completely normal to feel worried about stirring up a lot of feelings, but you're already showing great self-awareness and self-care by planning these supportive activities. How do you think you might recognize when you need to take a break from writing, and what might be some other ways you can support yourself during this process?",
+    "client": "When I think about caring for the plants, I feel a mix of excitement and anxiety. I know I need to water them regularly and make sure they get enough sunlight, but I'm worried I might forget or do something wrong. It's a new responsibility, and I'm not sure if I'm ready for it.",
+    "therapist": "It's completely normal to feel both excitement and anxiety when taking on a new responsibility, especially one that holds so much emotional significance. Starting with a few plants and setting small, manageable goals can help. What do you think might help you stay on track with caring for them, like setting reminders or creating a simple routine?",
     "condition": "baseline",
-    "val_t": -0.08579480648040771,
-    "aro_t": 0.1149979829788208,
-    "text_emotion": "Neutral"
+    "val_t": -0.0528792142868042,
+    "aro_t": 0.25473272800445557,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I appreciate the suggestions, and I think recognizing when I need a break is going to be tricky. I tend to get really absorbed in my thoughts and might not notice when things are getting too much. Maybe setting a timer or having a specific time limit for writing could help, but I worry that I might ignore it if I'm in the middle of something.",
-    "therapist": "That's a really insightful observation, and setting a timer can be a helpful way to create a boundary and ensure you don't get too absorbed. It's okay to be concerned about ignoring the timer, but you can always start with a short time limit, like 10 or 15 minutes, and gradually increase it as you feel more comfortable. How do you think you might remind yourself to pay attention to the timer, or are there any other strategies that might help you recognize when you need a break?",
+    "client": "I like the idea of setting reminders and creating a routine. Maybe I can set an alarm on my phone to remind me to water the plants every day. It might help me feel more in control and less anxious about forgetting. But I'm still a bit worried about whether I can keep this up consistently.",
+    "therapist": "Setting an alarm is a great strategy to help you stay consistent and reduce anxiety. It's a small step that can make a big difference. What do you think might help you stay motivated on the days when you're feeling less enthusiastic or more overwhelmed?",
     "condition": "baseline",
-    "val_t": -0.02741992473602295,
-    "aro_t": 0.028119802474975586,
+    "val_t": -0.0289309024810791,
+    "aro_t": 0.08932769298553467,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate the idea of starting with a shorter time limit, but I still worry that I'll get so absorbed in my thoughts that I won't even notice the timer. Maybe I could set an alarm on my phone to make it more noticeable, but I'm not sure if that will be enough to break my focus. It feels like a good start, but I'm still a bit skeptical about how well it will work for me.",
-    "therapist": "I understand your concerns, and it's great that you're thinking through different strategies to make this work for you. Setting an alarm on your phone is a good idea, and you might also consider placing a physical reminder nearby, like a small object that has meaning to you, to help you stay mindful of the time. It's okay to be skeptical; this is a new process, and it's natural to have doubts. How do you think you might approach this with a sense of gentle curiosity, and what might be a small step you can take to test out this approach?",
+    "client": "I think having a photo of my grandmother nearby might help. Seeing her face could remind me why I'm doing this and give me a little boost. But I'm still a bit skeptical about whether it will be enough on the tough days.",
+    "therapist": "Having a photo of your grandmother nearby is a beautiful way to keep her close and find motivation. It's okay to feel skeptical, and it's important to acknowledge that some days will be harder than others. What other small things or rituals might you consider to help you through those tougher days?",
     "condition": "baseline",
-    "val_t": -0.06638813018798828,
-    "aro_t": 0.0996166467666626,
+    "val_t": -0.09442389011383057,
+    "aro_t": 0.0856180191040039,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate your suggestions, and I do see the value in having a physical reminder. It's just that I often feel like these strategies end up adding more stress because I'm already overwhelmed with keeping track of so much. I think I can try placing a small object on my desk, but I'm worried it might just become another thing to feel guilty about if I forget to look at it. How can I make sure it doesn't add to my anxiety?",
-    "therapist": "I completely understand your concern about adding more stress, and it's important to find a way that feels supportive rather than overwhelming. Placing a small, meaningful object on your desk can be a gentle reminder without feeling like an additional task. Maybe choose something that brings you comfort or reminds you of a happy memory with your grandmother. How do you think you can approach this with a sense of kindness and self-compassion, and what might help you feel less guilty if you forget to look at it?",
+    "client": "I think having a small ritual, like talking to the plants or spending a few minutes each day just sitting near them, could help. It might feel a bit strange at first, but it could be a way to feel more connected to her. I just hope I can stick with it, especially on the days when I feel really down.",
+    "therapist": "That's a lovely idea, and it can be a meaningful way to create a sense of connection and continuity. It's natural to feel a bit strange at first, but over time, these small rituals can become comforting and grounding. How do you think you might handle the days when you feel really down, and what might you say to yourself to keep going?",
     "condition": "baseline",
-    "val_t": -0.022279024124145508,
-    "aro_t": 0.11959707736968994,
+    "val_t": 0.10230767726898193,
+    "aro_t": -0.0031995773315429688,
     "text_emotion": "Neutral"
   }
 ]

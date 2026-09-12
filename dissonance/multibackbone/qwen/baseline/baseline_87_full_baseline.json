@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really stressed lately. Since my partner lost their job last month, I've been feeling this huge pressure to cover all the bills, and it's been causing a lot of arguments about money. I know we need to figure this out, but I just feel so overwhelmed and unsure if therapy can really help with this.",
-    "therapist": "Hi there, I'm really sorry to hear about the stress you're experiencing. It sounds like a lot to handle, and it's completely understandable to feel overwhelmed and uncertain. How have you been coping with these feelings so far, and what do you think might be helpful in managing this stress?",
+    "client": "Hey Luna, I've been feeling really overwhelmed lately. Since my partner lost their job last month, the pressure to cover all the bills has been intense, and it's leading to a lot of arguments about finances. I know we need to figure this out, but I'm not sure if therapy can really help with something so practical.",
+    "therapist": "Hi there, it sounds incredibly challenging to be facing this financial pressure and the added strain on your relationship. It’s completely understandable to feel overwhelmed and to wonder if therapy can help with such practical issues. How have you been coping with these feelings so far, and what do you think might be a small step you could take to start addressing the situation?",
     "condition": "baseline",
-    "val_t": -0.2900838851928711,
-    "aro_t": 0.249190092086792,
+    "val_t": -0.15493202209472656,
+    "aro_t": 0.2036445140838623,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to manage my stress by staying busy with work and keeping to a strict routine, but it feels like I'm just pushing things under the rug. I think what might help is finding a way to actually address the root of my anxiety and guilt, but I'm not sure where to start.",
-    "therapist": "It's great that you've been trying to manage your stress with a routine and staying busy, but it makes sense that you feel like you're just delaying the underlying issues. Addressing the root of your anxiety and guilt is a important step. What do you think are the main thoughts or beliefs that come up for you when you feel this anxiety and guilt?",
+    "client": "I've been trying to stay calm and rational, but it's really hard. I end up feeling guilty for not being able to solve everything on my own. I guess a small step might be to sit down and make a detailed budget, but it feels overwhelming just thinking about it. What if we can't find a way to make ends meet?",
+    "therapist": "It’s completely understandable to feel guilty and overwhelmed, especially when you’re trying to handle so much on your own. Making a detailed budget is a good step, and it’s okay if it feels daunting. What if we break it down into even smaller, more manageable parts? For example, could you start by listing all your income sources and expenses, or perhaps reaching out to a financial advisor for some guidance? How do you think that might help?",
     "condition": "baseline",
-    "val_t": 0.00015592575073242188,
-    "aro_t": 0.13443613052368164,
-    "text_emotion": "Neutral"
+    "val_t": -0.21943354606628418,
+    "aro_t": 0.2185513973236084,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I feel like a lot of my anxiety and guilt stem from thinking that I'm not doing enough for the people around me. I worry that I'm letting them down or not being there for them as much as I should be. It's hard because I try to be there, but I always feel like I'm falling short.",
-    "therapist": "It sounds like you're putting a lot of pressure on yourself to meet everyone's needs, and that can definitely lead to feelings of anxiety and guilt. It's important to recognize that you're doing the best you can, and it's okay to ask for support or set boundaries. How do you think setting some realistic expectations for yourself might help alleviate some of this pressure?",
+    "client": "Breaking it down into smaller parts does sound a bit more doable. I think listing out our income and expenses could help me see the bigger picture more clearly. But I'm still worried about the emotional toll this is taking on both of us. It's hard to stay positive when things feel so uncertain.",
+    "therapist": "It’s great that you’re considering breaking it down into smaller parts; that can really help make the situation feel more manageable. It’s also completely normal to be worried about the emotional impact and to find it hard to stay positive when things are uncertain. How do you think you and your partner could support each other emotionally during this time, or are there any small things you could do to lift your spirits, even just a little?",
     "condition": "baseline",
-    "val_t": -0.3804570436477661,
-    "aro_t": 0.0931997299194336,
-    "text_emotion": "Sad"
+    "val_t": -0.14891302585601807,
+    "aro_t": 0.07645368576049805,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I understand what you're saying, but it feels really hard to set boundaries or ask for help. I worry that people will think I'm not pulling my weight or that I'm being selfish. It's a constant battle in my head, and I don't want to disappoint anyone.",
-    "therapist": "It's completely understandable to have those worries about how others might perceive you. Feeling like you don't want to disappoint anyone is a common concern, and it can be really challenging to strike a balance. Have you ever tried setting a small boundary or asking for help in a way that feels manageable, even if it's just a small step? How do you think that might feel for you?",
+    "client": "I think we could try to set aside some time each week to do something we both enjoy, like watching a movie or going for a walk. It might help us feel more connected and less stressed. But it's hard to find the energy for that when we're both so worried about money.",
+    "therapist": "That’s a wonderful idea—setting aside time to do something enjoyable can definitely help strengthen your connection and provide a much-needed break from stress. It’s totally understandable that worry about money can drain your energy, but even small, regular moments of connection can be incredibly beneficial. How do you think you could find or create a little bit of energy for these activities, or is there a way to make them even more low-energy, like a quiet evening at home?",
     "condition": "baseline",
-    "val_t": -0.2775944471359253,
-    "aro_t": 0.20569801330566406,
-    "text_emotion": "Angry"
+    "val_t": -0.030509591102600098,
+    "aro_t": 0.06122028827667236,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard because I feel like setting boundaries might make people think I'm being difficult or that I don't care enough. I worry that if I ask for help, it might strain my relationships even more. How do I start small without feeling like I'm failing or disappointing everyone?",
-    "therapist": "I completely understand your concerns about how setting boundaries might be perceived. Starting small can be a gentle way to ease into it. For example, you might choose a low-stakes situation where you can practice saying \"no\" or asking for support, and reflect on how it goes. What do you think might be a small step you could take that feels manageable and less risky?",
+    "client": "I think having a quiet evening at home might be more feasible right now. Maybe we could just have a movie night or play a board game. It feels less overwhelming and might help us both relax a bit. But I'm still skeptical about whether these small moments can really make a difference when the financial stress is so constant.",
+    "therapist": "It’s great that you’re considering a quiet evening at home; sometimes the simplest things can make a big difference. It’s completely normal to feel skeptical, especially when the financial stress is so constant and overwhelming. These small moments of connection can help provide a sense of normalcy and emotional support, which can be really important. How do you think you could also acknowledge and validate each other’s feelings during these times, even if the stress remains?",
     "condition": "baseline",
-    "val_t": -0.2057819366455078,
-    "aro_t": 0.1432201862335205,
-    "text_emotion": "Angry"
+    "val_t": -0.02865159511566162,
+    "aro_t": 0.09311580657958984,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying about starting small, but it still feels really nerve-wracking. I worry that even in a low-stakes situation, people might still get upset or think I'm being difficult. It's hard because I always want to be seen as helpful and accommodating, so saying \"no\" feels like I'm failing in some way.",
-    "therapist": "It's completely normal to feel nervous about setting boundaries, especially when you value being seen as helpful and accommodating. It's a big step, and it's okay to take it slowly. One thing that might help is to reframe saying \"no\" or setting boundaries as a way of taking care of yourself, which can actually make you more effective and present in your relationships. What do you think might be a supportive way to communicate a boundary that feels less like you're failing?",
+    "client": "I think acknowledging each other’s feelings is important, but it’s hard when I feel like I’m the one who has to be strong all the time. I worry that if I show how stressed I am, it might just make things worse. But maybe we could try to share our feelings more openly, even if it’s just a little at a time.",
+    "therapist": "It’s really brave of you to recognize the importance of acknowledging each other’s feelings, even when it feels challenging. Being strong all the time can be exhausting, and it’s okay to share your own vulnerabilities. Sharing your feelings, even in small doses, can actually help you both feel more supported and less alone. How do you think you could start to create a safe space for both of you to share more openly, perhaps during those quiet evenings at home?",
     "condition": "baseline",
-    "val_t": -0.2776442766189575,
-    "aro_t": 0.20641887187957764,
-    "text_emotion": "Angry"
+    "val_t": -0.0154266357421875,
+    "aro_t": 0.0912085771560669,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I understand what you're saying, and I really do want to take better care of myself. But it's hard because I always worry that people will be disappointed or upset with me if I set boundaries. I feel like I'm letting them down, and that makes me anxious. How can I communicate a boundary without feeling like I'm failing everyone?",
-    "therapist": "It's really commendable that you're wanting to take better care of yourself, and it's totally understandable to worry about how others will react. One way to approach this is to communicate your boundaries with honesty and empathy, explaining that you're doing this to be a healthier and more present person for them in the long run. How do you think you might express this to someone close to you, and what do you think their reaction might be?",
+    "client": "I think we could start by setting a specific time each week to check in with each other, maybe right after dinner. We could both agree to be open and honest about how we’re feeling, without judgment. But it’s hard to know how to start those conversations without them turning into arguments.",
+    "therapist": "Setting a specific time to check in with each other is a really good plan, and it shows a commitment to open and honest communication. It’s natural to worry about these conversations turning into arguments, but having a structured approach can help. How about starting each check-in with something positive or appreciative about each other, and then gently moving into how you’re feeling? This can help set a more positive tone and make it easier to discuss more challenging topics. What do you think about that approach?",
     "condition": "baseline",
-    "val_t": -0.3119223117828369,
-    "aro_t": 0.21086692810058594,
-    "text_emotion": "Angry"
+    "val_t": -0.002611994743347168,
+    "aro_t": 0.05398416519165039,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate the suggestion, but I'm still worried about how my partner might react. I feel like they might see it as me pulling away or not caring about them as much. It's hard because I want to be honest, but I also don't want to hurt their feelings or create tension.",
-    "therapist": "I understand your concerns about how your partner might interpret your boundaries, and it's natural to worry about maintaining a close and supportive relationship. It might help to frame the conversation around how setting boundaries is a way for both of you to support each other's well-being. How do you think you might explain to your partner that setting boundaries is actually about strengthening your relationship and ensuring you both have the emotional space you need?",
+    "client": "I like the idea of starting with something positive; it could help us both feel more at ease. But I’m still a bit nervous about how to keep the conversation from spiraling into an argument. It’s hard to stay calm when we’re both so on edge. Maybe we could set some ground rules for these check-ins, like taking turns speaking and not interrupting each other?",
+    "therapist": "That’s a great idea to set some ground rules to help keep the conversation constructive and respectful. Ground rules like taking turns speaking and not interrupting each other can really help create a safer space for both of you to share. How do you think you could also handle moments when emotions start to run high, perhaps by taking a short break or using a calming technique together?",
     "condition": "baseline",
-    "val_t": -0.14967072010040283,
-    "aro_t": 0.06358146667480469,
-    "text_emotion": "Angry"
+    "val_t": 0.032189249992370605,
+    "aro_t": 0.13377106189727783,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I see what you're saying, and I really do want to try, but I'm just so worried about how it will come across. It feels like a delicate balance—making sure I'm not coming off as distant or uninterested, while also making it clear that I need some space. I think I might struggle to find the right words to make that clear without causing any misunderstandings.",
-    "therapist": "It's completely understandable to feel worried about striking that delicate balance. Finding the right words can be challenging, but it's a step you can take at your own pace. One approach might be to start the conversation by expressing your care and commitment to the relationship, and then gently introduce the need for some space. How do you think you might start that conversation to ensure it feels both caring and clear?",
+    "client": "I think taking a short break when emotions get high could really help. Maybe we could agree to take a 10-minute walk or do some deep breathing exercises together. It feels like a practical way to cool down without completely derailing the conversation. But it’s still a bit daunting to think about putting all this into practice.",
+    "therapist": "Taking a short break to walk or do deep breathing exercises together is a practical and compassionate approach to managing those intense moments. It’s completely normal to feel a bit daunting to put these new practices into place, but starting small and being consistent can make a big difference. How do you think you and your partner could support each other in sticking to these new communication practices, even when it feels challenging?",
     "condition": "baseline",
-    "val_t": -0.1925119161605835,
-    "aro_t": 0.13489973545074463,
-    "text_emotion": "Angry"
+    "val_t": -0.00540006160736084,
+    "aro_t": 0.10428071022033691,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate the suggestion, but I'm still really anxious about how it might come off. I feel like I might say the wrong thing and end up hurting their feelings more. It's hard because I genuinely care about them, and I don't want to push them away, but I also need some space to manage my own well-being.",
-    "therapist": "I completely understand how anxious you feel about potentially hurting their feelings. It's a valid concern, especially when you care deeply about your partner. One way to approach this might be to practice what you want to say beforehand, focusing on how your need for space is about taking care of yourself so you can be a better partner. What do you think might be a gentle and honest way to express this to them?",
+    "client": "I think we could support each other by checking in regularly about how we’re doing with these new practices and being patient when one of us slips up. It might help to remind each other why we’re doing this and how it can benefit us in the long run. But I’m still worried about staying consistent, especially when we’re both so stressed and tired.",
+    "therapist": "It’s great to hear that you’re thinking about how to support each other in sticking to these new practices. Reminding each other of the long-term benefits and being patient when one of you slips up can really help maintain that commitment. It’s totally understandable to be worried about staying consistent, especially when you’re both feeling stressed and tired. How do you think you could build in some self-care practices to help manage your own stress and energy levels, so you both feel more resilient when facing these challenges?",
     "condition": "baseline",
-    "val_t": -0.19457483291625977,
-    "aro_t": 0.11783397197723389,
+    "val_t": -0.14615952968597412,
+    "aro_t": 0.06648743152618408,
     "text_emotion": "Angry"
   }
 ]

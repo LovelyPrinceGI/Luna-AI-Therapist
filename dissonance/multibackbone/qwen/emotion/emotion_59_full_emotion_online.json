@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, it's been a tough week. Since losing my brother last year, I just can't seem to find joy in anything anymore. I feel so isolated from my friends, even though they try to include me. I don’t know if talking about it will really help, but I’m here trying.",
-    "therapist": "Hi there, I’m so glad you reached out today. It sounds like you’ve been carrying a heavy burden, and it’s completely understandable to feel isolated and struggle to find joy after such a significant loss. How have you been coping with these feelings, and is there anything specific you’d like to explore or talk about today?",
+    "client": "Hey Luna, it's been tough lately. Since losing my brother in the car accident last year, I've been finding it really hard to enjoy anything. I feel so isolated from my friends, like they just don't get what I'm going through. I know we've talked about this before, but I still can't shake this feeling of loneliness and sadness. I'm not even sure if therapy can really help me with this.",
+    "therapist": "I’m so sorry to hear that you’re feeling this way, and it’s completely understandable given everything you’ve been through. It sounds like the loss of your brother is still very heavy on your heart, and the sense of isolation from your friends is adding to your pain. How have you been coping with these feelings lately, and is there anything specific that comes to mind when you think about what might help you feel a bit more connected or supported?",
     "condition": "emotion_text_only",
-    "val_t": -0.018595457077026367,
-    "aro_t": 0.15264618396759033,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 2,
-    "client": "Hi Luna, thanks for being here with me today. I've been feeling really overwhelmed and alone, like no one understands what I'm going through. I've been trying to keep busy, but it feels like a Band-Aid on a deeper wound. I guess I just want to understand why I can't shake this loneliness and anxiety, even when I know I should be doing better.",
-    "therapist": "Hi there, I’m really here for you, and I can hear how overwhelming and isolating this has been for you. It’s completely understandable to feel this way, especially when you’re dealing with such deep emotions. It sounds like you’re doing your best to keep busy, but that’s not always enough to address the deeper pain. Can we explore some of the thoughts that come up when you feel this loneliness and anxiety? What do you think might be contributing to these feelings?",
-    "condition": "emotion_text_only",
-    "val_t": -0.05875837802886963,
-    "aro_t": 0.21010172367095947,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 3,
-    "client": "Hi Luna, thanks for being here. It’s just hard because it feels like no matter what I do, I can’t shake this constant feeling of being alone and anxious. I know I’m not actually alone, but the thought that I’m not truly understood or accepted by anyone is really weighing on me. It’s like I’m stuck in this loop of negative thoughts, and I don’t know how to break out of it.",
-    "therapist": "Hi there, I can really hear the weight of those feelings and how challenging it must be to feel stuck in that loop of negative thoughts. It’s completely understandable to feel this way, especially when you’re dealing with such deep emotions. Have you noticed any specific triggers or situations that make these feelings of loneliness and anxiety more intense? And when you have these thoughts, are there any particular beliefs or assumptions that come to mind about yourself or others?",
-    "condition": "emotion_text_only",
-    "val_t": -0.2119983434677124,
-    "aro_t": 0.24071991443634033,
+    "val_t": -0.3933142423629761,
+    "aro_t": 0.16936111450195312,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "Hi Luna, thanks for understanding. I do notice that my anxiety and loneliness get worse when I'm alone at home, especially in the evenings. I often end up thinking that no one really cares about me or understands what I’m going through, which just makes me feel more isolated. It’s hard to shake those thoughts, even though I know they might not be entirely true.",
-    "therapist": "Hi there, it’s really helpful that you’ve noticed those patterns, especially how your anxiety and loneliness seem to intensify when you’re at home alone, particularly in the evenings. It’s completely understandable to have those thoughts, and they can be very powerful. Have you tried any strategies to manage these feelings when they come up, or is there a particular thought or belief that you think might be a good place to start challenging?",
+    "turn": 2,
+    "client": "Thanks for understanding, Luna. I've been trying to stay busy with work and some hobbies, but it feels like a band-aid on a much deeper wound. I've thought about reaching out to my friends more, but I worry they won't really get it, or they'll just say the same things they always do. It's hard to open up when I feel like no one truly understands.",
+    "therapist": "It’s really brave of you to share that, and I can see how deeply you’re feeling this. It’s understandable that you might feel like staying busy is just a temporary fix, and the worry about opening up to friends can be a tough barrier. Have you considered sharing a bit more about your feelings with a close friend, even if it’s just to let them know how much you miss your brother? Sometimes, even a small step can make a difference in feeling more understood and supported.",
     "condition": "emotion_text_only",
-    "val_t": -0.15962088108062744,
-    "aro_t": 0.03227579593658447,
+    "val_t": -0.08552241325378418,
+    "aro_t": 0.07466554641723633,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 3,
+    "client": "I appreciate your suggestion, Luna, but I'm not sure it will make a difference. It feels like they just won't get it, and I'm afraid of being a burden or having them say something that doesn't really help. It's hard to take that risk when I feel so vulnerable.",
+    "therapist": "I completely understand your hesitation and the fear of being a burden or not being fully understood. It’s a very vulnerable place to be in, and it’s natural to want to protect yourself. Have you ever considered expressing your feelings in a different way, like writing a letter or sharing your thoughts through a creative outlet? Sometimes, finding an alternative way to communicate can help you feel more in control and might make it easier to open up.",
+    "condition": "emotion_text_only",
+    "val_t": -0.2767561674118042,
+    "aro_t": 0.049144744873046875,
     "text_emotion": "Sad"
   },
   {
-    "turn": 5,
-    "client": "Hi Luna, thanks for understanding. I have tried a few things, like trying to stay busy with hobbies or watching TV, but it doesn’t really help much. I think a big part of it is the belief that I’m somehow failing at life, which makes me feel even more alone and anxious. It’s hard to shake that feeling, you know?",
-    "therapist": "Hi there, I can really understand how difficult it must be to feel like those strategies aren’t providing the relief you’re looking for. It’s natural to feel that way, especially when you have a belief that you’re failing at life, which can certainly amplify those feelings of loneliness and anxiety. Can we explore some of the evidence that supports or challenges this belief? What are some instances where you’ve seen yourself succeeding or where others have shown they care about you?",
+    "turn": 4,
+    "client": "That's a good point, Luna. I've thought about writing letters or journaling, but it feels like it won't change anything. I mean, how can putting my thoughts on paper make me feel less alone? It's hard to see how that would help when the real issue is the gap between me and the people around me.",
+    "therapist": "I can see how it might feel like journaling or writing letters won’t bridge that gap, and it’s totally valid to have those doubts. Writing can be a way to sort through your thoughts and feelings, even if it doesn’t immediately change the external situation. It can help you gain clarity and maybe even find new ways to express what you’re going through. What do you think might be a small step you could take to explore this further, even if it feels a bit uncertain?",
     "condition": "emotion_text_only",
-    "val_t": -0.16338598728179932,
-    "aro_t": 0.16294777393341064,
+    "val_t": -0.08458304405212402,
+    "aro_t": 0.010667681694030762,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I get what you're saying, Luna, but it's hard to see how a small step like writing a letter will make a difference when the pain feels so overwhelming. I feel like I've tried to express myself in the past, and it didn't really change anything. Maybe I just need to accept that some things can't be fixed, and I have to find a way to live with this loneliness.",
+    "therapist": "I can hear how deeply you’re struggling with this, and it’s completely understandable to feel that way when the pain is so overwhelming. It’s tough to see the value in small steps when the loneliness feels so heavy. Acceptance can be a powerful tool, but it’s also okay to explore different ways to find some relief or connection, even if it’s just a small bit. What do you think it would take for you to feel a little more hopeful or to find a sliver of comfort in your day-to-day life?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2504751682281494,
+    "aro_t": 0.15045630931854248,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate you trying to help, but it feels like those moments are few and far between. When I do succeed or when someone shows they care, it often feels like a fluke or just a momentary thing. It’s hard to hold onto those feelings when the rest of the time I’m just overwhelmed by how much I feel like I’m falling short.",
-    "therapist": "I can hear how deeply you feel this struggle, and it’s completely understandable that those positive moments can feel fleeting when the overall pattern is one of feeling overwhelmed. It’s important to acknowledge both the positive and the challenging moments, even if the positive ones feel less significant right now. Can we try to break down some of these feelings of falling short? What are some specific things you tell yourself when you feel like you’re not measuring up, and how might we start to challenge those thoughts?",
+    "client": "I appreciate your support, Luna, but it's hard to see a way forward when the loneliness is so constant. I guess a small bit of comfort might come from finding something that distracts me for a while, but even that feels like it won't last. Maybe I just need to find a way to accept this as part of my life, even if it doesn’t feel good.",
+    "therapist": "I understand how challenging it is to find a way forward when the loneliness feels so constant. It’s okay to take small steps and to seek out temporary distractions that can bring a bit of relief, even if they don’t last. Acceptance can be a gradual process, and it’s important to be gentle with yourself as you navigate this. What are some things that have brought you even a small amount of comfort or distraction in the past, even if just for a short while?",
     "condition": "emotion_text_only",
-    "val_t": -0.11600863933563232,
-    "aro_t": 0.17443454265594482,
-    "text_emotion": "Angry"
+    "val_t": -0.005096077919006348,
+    "aro_t": 0.092917799949646,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I often tell myself that I’m not doing enough, that I’m letting people down, and that I’m just not good enough. It’s hard to challenge those thoughts because they feel so deeply rooted in who I am. I worry that even if I try to think more positively, it won’t make a real difference.",
-    "therapist": "I hear you, and those thoughts can be incredibly powerful and difficult to shake, especially when they feel so deeply rooted. It’s natural to worry that positive thinking won’t make a real difference, but small steps can lead to significant changes over time. Let’s try to break down one of these thoughts together. For example, when you tell yourself you’re not doing enough, can we look at the evidence that supports and challenges this belief? What are some things you are doing that might be overlooked or undervalued?",
+    "client": "You're right, Luna. Sometimes, small things do help, even if just for a little while. I've found that listening to music or going for a walk can give me a bit of a break from the heaviness. It's not a solution, but it helps me feel a little less overwhelmed for a short time. I just wish these moments lasted longer.",
+    "therapist": "I’m glad to hear that you’ve found some small moments of relief, even if they are temporary. It’s totally understandable to wish those moments lasted longer, and it’s important to acknowledge the value of those brief respites. What do you think it would take to extend those moments of relief a bit more, or are there other activities you might explore that could bring you similar feelings of peace?",
     "condition": "emotion_text_only",
-    "val_t": -0.2646898031234741,
-    "aro_t": 0.09618675708770752,
-    "text_emotion": "Sad"
+    "val_t": 0.10611104965209961,
+    "aro_t": 0.021462678909301758,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I understand what you're saying, but it feels like those thoughts are so deeply ingrained. It's hard to see the evidence against them because I feel like I'm constantly falling short, even when I do things that others might consider good. I guess I just struggle to give myself credit for the little things.",
-    "therapist": "I can really understand how deeply ingrained those thoughts can feel, and it’s completely valid to struggle with giving yourself credit for the little things. It’s often the case that we’re our own harshest critics. Let’s try to focus on some of those small accomplishments or moments of progress, even if they don’t feel significant to you right now. Can you think of a recent moment where you did something that, while it might seem small, was still a positive step forward? How did it feel in that moment, even if just for a brief time?",
+    "client": "I think it would help to have a more structured routine that includes these activities, like setting aside time each day for a walk or listening to music. But it’s hard to stick to a routine when I feel so unmotivated most of the time. I worry that even if I try, I’ll just end up feeling like it’s not enough.",
+    "therapist": "It sounds like creating a more structured routine could be a helpful step, even though it’s challenging to stick to it when you’re feeling so unmotivated. It’s completely normal to worry that it might not feel like enough, but even small, consistent efforts can make a difference over time. What do you think might help you stay motivated to follow through with these activities, even on the days when it feels hardest?",
     "condition": "emotion_text_only",
-    "val_t": -0.22010207176208496,
-    "aro_t": 0.003754138946533203,
-    "text_emotion": "Sad"
+    "val_t": -0.12361776828765869,
+    "aro_t": 0.05756556987762451,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's hard to pinpoint those moments because they often feel so insignificant. But maybe when I finally managed to leave the house to go for a short walk the other day, even though I was dreading it. It felt good for a little while, but the guilt and anxiety came back pretty quickly. It’s just hard to hold onto that positive feeling.",
-    "therapist": "I can absolutely understand how challenging it is to hold onto those positive feelings, especially when they can be so fleeting. It’s really significant that you managed to go for a short walk, even though it was difficult. Acknowledging and celebrating those small steps is important, even if the positive feelings don’t last as long as you’d like. What do you think might help you hold onto that good feeling for a bit longer, even when the guilt and anxiety return? Are there any small things you can do or thoughts you can remind yourself of to help sustain that sense of accomplishment?",
+    "client": "I think having a accountability buddy, like a friend who checks in on me, might help. But I worry that I’d be asking too much of them, especially when I feel like I’m not giving much back. It’s hard to ask for that kind of support without feeling guilty.",
+    "therapist": "It’s really thoughtful of you to consider how your requests for support might impact others, and it’s understandable to feel guilty about asking for help. Having an accountability buddy can be a great way to stay motivated, and it’s important to remember that reaching out for support is a sign of strength, not a burden. What do you think might help you feel more comfortable asking a friend for this kind of support, or are there any small steps you could take to start building that connection?",
     "condition": "emotion_text_only",
-    "val_t": -0.16814088821411133,
-    "aro_t": 0.12653088569641113,
-    "text_emotion": "Angry"
+    "val_t": -0.2466263771057129,
+    "aro_t": 0.009981036186218262,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you’re seeing my effort, but it’s hard to hold onto those positive feelings when the guilt and anxiety are so persistent. I feel like I’m constantly fighting an uphill battle. I guess I could try to remind myself of the small victories, but it feels like they get overshadowed so quickly by the negative thoughts. It’s hard to know what will really make a difference.",
-    "therapist": "I can really see how challenging and exhausting this uphill battle feels for you. It’s completely understandable to feel like those positive moments get overshadowed by the persistent guilt and anxiety. Reminding yourself of those small victories is a good start, but it’s also important to be gentle with yourself and recognize that it’s okay to have these struggles. What do you think might help you find a bit more balance, even if it’s just a small shift? Are there any coping strategies or activities that have brought you even a little bit of relief in the past, or any supportive people in your life you can reach out to?",
+    "client": "I appreciate your encouragement, Luna. I think it would help if I could start with small, low-pressure check-ins, maybe just a quick text or call to see how they’re doing. That way, it doesn’t feel like I’m asking too much right away, and I can build up to more supportive conversations. It’s still a bit daunting, but I can try to take it one step at a time.",
+    "therapist": "That’s a really thoughtful approach, and starting with small, low-pressure check-ins is a great way to ease into it. It’s completely normal to feel a bit daunting, but taking it one step at a time can make it more manageable. How do you think you might feel after the first check-in, and is there anything specific you’d like to say or ask to make it feel more comfortable for both of you?",
     "condition": "emotion_text_only",
-    "val_t": -0.09240257740020752,
-    "aro_t": 0.13840842247009277,
-    "text_emotion": "Angry"
+    "val_t": 0.1867591142654419,
+    "aro_t": 0.14003801345825195,
+    "text_emotion": "Excited"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been having a really hard time lately. Ever since my dad passed away, I find it nearly impossible to focus at work. I keep getting overwhelmed by a mix of sadness and this unresolved anger that I can't seem to shake. I know I should be able to handle it, but it's just so hard. I'm not even sure if talking about it will really help.",
-    "therapist": "Hi there, I'm so sorry to hear about your dad and how you've been feeling. It sounds like you're carrying a heavy burden of sadness and anger, and it's completely understandable that you're finding it hard to focus at work. It's okay to feel unsure about how much talking can help, but I'm here to listen and support you. What's been the hardest part for you to deal with lately?",
+    "client": "Hey Luna, I've been really struggling lately. After my dad passed away, I find it hard to focus at work. I'm overwhelmed by a mix of sadness and unresolved anger, and it's affecting my performance. I don't know if therapy can really help with all this.",
+    "therapist": "Hi there, I'm really sorry to hear that you're going through such a tough time. Losing a loved one can bring up a lot of intense emotions, and it's completely understandable that it's affecting your focus and performance at work. How have you been coping with these feelings so far?",
     "condition": "emotion_text_only",
-    "val_t": -0.3494783639907837,
-    "aro_t": 0.15338397026062012,
+    "val_t": -0.3601478338241577,
+    "aro_t": 0.18879520893096924,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks for understanding, Luna. The hardest part is probably the constant guilt I feel. I can't shake the feeling that I should have done more to help my dad before he passed. It's been really tough to concentrate on anything else.",
-    "therapist": "I can hear how much that guilt is weighing on you. It's natural to have those thoughts, but they can be really tough to manage. Can you tell me more about what you think you could have done differently, and how those thoughts make you feel?",
+    "client": "Thanks for understanding, Luna. I've been trying to cope by staying busy, but it's hard to keep up. I've also been avoiding talking about it with friends because I don't want to burden them. I guess I'm just feeling really stuck and alone.",
+    "therapist": "It sounds like you're carrying a heavy burden, and it's completely normal to feel stuck and alone, especially after such a significant loss. Keeping busy can be a way to cope, but it's also important to allow yourself space to process your feelings. Have you considered reaching out to a friend or family member, even just to share a little bit of what you're going through?",
     "condition": "emotion_text_only",
-    "val_t": -0.21581852436065674,
-    "aro_t": 0.054440855979919434,
-    "text_emotion": "Sad"
+    "val_t": -0.13476812839508057,
+    "aro_t": 0.03171885013580322,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I keep thinking I should have been more supportive or done more to help my friend. It feels like I let them down, and now I can't shake this feeling of guilt. It's hard because I don't know if there was even anything more I could have done.",
-    "therapist": "It sounds like you're carrying a lot of guilt and uncertainty about what you could have done for your friend. It's natural to question ourselves in these situations, but it can be really hard to let go of those feelings. Can you think of any specific moments or actions that are making you feel this way?",
+    "client": "I appreciate your suggestion, Luna, but it's hard for me to open up. I feel like I might be overwhelming them with my problems, and I don't want to be a burden. Plus, I worry that they won't really understand what I'm going through.",
+    "therapist": "I understand how difficult it can be to open up, especially when you're worried about burdening others or feeling misunderstood. It's a very valid concern. Have you thought about finding a safe space where you can express these feelings, such as a support group or a journal? Sometimes, even writing things down can help you process and make the burden feel a bit lighter.",
     "condition": "emotion_text_only",
-    "val_t": -0.384507417678833,
-    "aro_t": 0.06625568866729736,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "Yeah, I keep thinking about the last time I saw her. I didn't realize how much she was struggling, and I feel like I should have done more to help. It’s like I missed all the signs, and now I feel responsible for not being there enough.",
-    "therapist": "It sounds like that last interaction is really weighing on you. It's natural to look back and wish you could have done more, especially when we care deeply about someone. Can you think of any times when you did support her, or any ways you were there for her, even if it didn't feel like enough at the time?",
-    "condition": "emotion_text_only",
-    "val_t": -0.3176792860031128,
-    "aro_t": 0.17475485801696777,
+    "val_t": -0.22762787342071533,
+    "aro_t": 0.1328951120376587,
     "text_emotion": "Angry"
   },
   {
-    "turn": 5,
-    "client": "I know I've been there for her in other ways, but it just feels like I should have done more in that moment. It's hard to shake the feeling that I let her down. I guess I'm just really hard on myself about it.",
-    "therapist": "It's completely understandable to be hard on yourself, especially when you care about someone so much. It's natural to focus on what you think you could have done better, but it's also important to recognize the ways you have supported her. Can you think of any specific times when you were a source of strength or comfort for her, even if it didn't feel like enough at the time?",
+    "turn": 4,
+    "client": "I see what you mean, Luna, but I don't think a support group or journaling will make a big difference. I've tried writing before, and it just feels like I'm talking to myself. I don't know if I can find a way to really process this without feeling like I'm just going in circles.",
+    "therapist": "I hear you, and it's understandable to feel like those methods haven't been helpful for you. It can be frustrating when it feels like you're not making progress. Sometimes, though, it can be helpful to explore different approaches or even small tweaks to what you've tried before. What do you think might make a difference for you in feeling heard and understood?",
     "condition": "emotion_text_only",
-    "val_t": -0.23145437240600586,
-    "aro_t": 0.06958353519439697,
-    "text_emotion": "Sad"
+    "val_t": 0.004695296287536621,
+    "aro_t": 0.11529481410980225,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 5,
+    "client": "I appreciate your patience, Luna. I think what might help is if I could find someone who has gone through a similar loss and can relate to what I'm feeling. It's hard to feel understood when people haven't experienced the same kind of pain. But I'm not sure how to find someone like that, and it's daunting to even start looking.",
+    "therapist": "I completely understand how important it is to find someone who can relate to your experience, and it's totally normal to feel daunted by the prospect of starting that search. Connecting with someone who has been through a similar loss can be incredibly validating and comforting. Have you considered reaching out to a local grief support group or an online community where you might find people who share your experiences? It could be a step in finding the kind of support you're looking for.",
+    "condition": "emotion_text_only",
+    "val_t": -0.009842157363891602,
+    "aro_t": 0.09369277954101562,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I guess there were times when I listened to her, even if I didn't know what to say. But it's hard to feel like it was enough when she's still struggling. I worry that I'm not doing enough, and it makes me feel guilty and anxious.",
-    "therapist": "It's clear that you care deeply about her and have been there for her in meaningful ways, even if it didn't feel like enough. Listening is such an important and powerful form of support, and sometimes just being there can make a big difference. It's natural to feel guilty and anxious when someone you care about is still struggling, but it's important to recognize the positive impact you've had. What do you think might help you feel a bit less guilty and more at peace with the support you've provided?",
+    "client": "I hear what you're saying, Luna, and I know you're trying to help. But the idea of joining a support group or an online community feels really intimidating. I worry about opening up to strangers and feeling vulnerable. It's hard to imagine that it will actually make me feel better.",
+    "therapist": "I hear you, and it's completely understandable to feel intimidated by the idea of opening up to strangers. Vulnerability can be really challenging, especially when you're already feeling vulnerable from your loss. It's okay to take things at your own pace. What do you think might help make the idea of joining a support group or community feel a bit less daunting? Maybe starting with a small step, like just observing a group without participating right away?",
     "condition": "emotion_text_only",
-    "val_t": -0.3613884449005127,
-    "aro_t": 0.18404507637023926,
+    "val_t": -0.22824585437774658,
+    "aro_t": 0.18722176551818848,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that you're trying to help me see the positive, but it's hard to shake the feeling that I could have done more. I guess I just feel like if I had been a better friend, she wouldn't be struggling as much. It's tough to let go of that guilt. Maybe if I could find a way to be more effective in my support, I'd feel better about it.",
-    "therapist": "I understand that it's really hard to let go of that guilt, and it's natural to want to be the best friend you can be. It's important to recognize that everyone's struggles are complex, and sometimes even the most supportive efforts can't change everything. What do you think might help you feel more effective in your support, or what steps could you take to feel more at peace with the support you've already given?",
+    "client": "That makes sense, Luna. Starting small might be a good idea. I could maybe try observing a group first to see if it feels like a safe space. But I'm still worried about feeling judged or not fitting in. It's a big step for me, and I'm not sure if I'm ready for it yet.",
+    "therapist": "It's completely understandable to have those worries, and taking things one step at a time is a great approach. Observing a group first can definitely help you get a sense of whether it feels like a safe and welcoming space. It's okay to take your time and only move forward when you feel ready. What do you think might help you feel more prepared or comfortable as you consider this step?",
     "condition": "emotion_text_only",
-    "val_t": -0.00033664703369140625,
-    "aro_t": 0.034578800201416016,
+    "val_t": 0.032485365867614746,
+    "aro_t": 0.1418064832687378,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, but it's tough because I feel like I should have done more. I mean, I know I've tried, but it still feels like I could have been there more for them. It's hard to just let go of that feeling of not being enough.",
-    "therapist": "I can hear how much this is weighing on you, and it's completely understandable to feel that way. It's tough to let go of the feeling of not being enough, especially when you care so deeply. Can you think of any specific things that you've done that you feel proud of, even if they seem small? Sometimes acknowledging those moments can help us see the bigger picture of our support.",
+    "client": "I appreciate your support, Luna. I think what might help is if I could talk to you more about what I'm feeling and maybe get some more insights before I take that step. It would be comforting to have a bit more guidance and reassurance as I consider joining a support group.",
+    "therapist": "I'm here for you, and I'm glad you feel comfortable talking more about your feelings. It's important to take the time you need to feel ready, and I can definitely provide more guidance and support as you consider joining a support group. What specific concerns or questions do you have that I can help address?",
     "condition": "emotion_text_only",
-    "val_t": -0.12916803359985352,
-    "aro_t": 0.07410192489624023,
-    "text_emotion": "Neutral"
+    "val_t": 0.18176686763763428,
+    "aro_t": 0.08043456077575684,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It's just hard to find those moments when I feel like I'm constantly falling short. I mean, I know I've done some things that others might consider good, but they don't feel like enough to me. It's like every small success is overshadowed by the bigger failures I see in myself.",
-    "therapist": "I can understand how those feelings of falling short can overshadow the things you've done well. It's really tough when we're our own harshest critics. It might help to write down some of the things you've done that you feel proud of, even if they seem small. Sometimes seeing them on paper can make it easier to recognize the positive impact you've had. What do you think about trying that?",
+    "client": "Thanks, Luna. I guess my main concern is that I don't want to feel like I'm just repeating the same things over and over without making any progress. I also worry that I won't find anyone who truly understands the depth of my loss. How can I make sure that joining a support group will actually be beneficial and not just another source of frustration?",
+    "therapist": "I understand your concerns, and it's completely valid to want to ensure that joining a support group will be meaningful and not just another source of frustration. It's important to find a group where you feel heard and understood. One way to gauge this is to look for groups that have a facilitator or leader who can provide some structure and ensure that the discussions are supportive and focused. You might also consider reaching out to the group organizer to ask about their approach and the experiences of other members. What do you think about taking these steps to help you feel more confident in your decision?",
     "condition": "emotion_text_only",
-    "val_t": -0.019160032272338867,
-    "aro_t": 0.12502944469451904,
-    "text_emotion": "Neutral"
+    "val_t": -0.14862024784088135,
+    "aro_t": 0.14962589740753174,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but it feels a bit daunting. I mean, I struggle to even recognize the things I do well, let alone write them down. It's hard because my mind is so focused on the negative aspects.",
-    "therapist": "I completely understand how daunting it can feel to try to recognize and write down the positive things, especially when your mind is so focused on the negative. It's a challenging task, but even small steps can make a difference. Maybe we could start with just one thing you did recently that you feel had a positive impact, no matter how small it might seem. What do you think about trying that?",
+    "client": "I appreciate your suggestions, Luna. Reaching out to the group organizer and learning more about their approach sounds like a good idea. I think it could help me feel more prepared and less anxious about joining. I'll take some time to look into this and maybe reach out to a couple of groups to see what they offer.",
+    "therapist": "That's a great step forward, and I'm really glad you feel it could help you feel more prepared and less anxious. Taking the time to research and reach out to a couple of groups is a thoughtful approach. As you explore your options, remember to trust your instincts and choose the one that feels like the best fit for you. How do you think you'll know when you've found the right group?",
     "condition": "emotion_text_only",
-    "val_t": -0.1647348403930664,
-    "aro_t": 0.089713454246521,
-    "text_emotion": "Angry"
+    "val_t": 0.19635498523712158,
+    "aro_t": 0.13145077228546143,
+    "text_emotion": "Excited"
   }
 ]

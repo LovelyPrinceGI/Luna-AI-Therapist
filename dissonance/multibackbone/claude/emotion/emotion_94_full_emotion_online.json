@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately with taking care of my mom — she was diagnosed with Alzheimer's last year and it feels like every week she needs more from me. I'm exhausted all the time, and I feel this constant guilt like I'm never doing enough, even when I'm giving everything I have. Honestly, I'm not even sure talking about it is going to change anything, because the situation isn't going to change.",
-    "therapist": "What you're carrying sounds truly exhausting — giving so much of yourself while still feeling like it's not enough is one of the most painful places to be. I also hear a quiet skepticism about whether talking can help, and that makes a lot of sense when the hard reality of your mom's illness isn't going away. I'm wondering, though — when you say you feel like you're \"never doing enough,\" what does \"enough\" actually look like to you, and where do you think that standard comes from?",
+    "client": "I've been really struggling lately with taking care of my mom — she was diagnosed with Alzheimer's last year and it feels like every week she needs more from me. I'm exhausted all the time, and I feel this constant guilt like I'm never doing enough, even when I'm giving everything I have. Honestly, I'm not sure talking about it is going to change anything, because the situation isn't going to change — she's still going to need me no matter what.",
+    "therapist": "What you're carrying sounds genuinely exhausting — giving so much of yourself while still feeling like it's not enough is one of the most painful places to be. You're right that we can't change your mom's diagnosis, but I've found that what *can* shift is the relentless guilt that's sitting on top of an already heavy load, and that matters for how sustainable this journey is for you. I'm curious — when that voice tells you you're \"never doing enough,\" what does it point to specifically?",
     "condition": "emotion_text_only",
-    "val_t": -0.4048449993133545,
-    "aro_t": 0.15271413326263428,
-    "text_emotion": "Sad"
+    "val_t": -0.36383700370788574,
+    "aro_t": 0.17470073699951172,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "That's... actually a hard question to answer. I think \"enough\" would look like my mom never feeling scared or in pain, like I'm somehow able to fix what can't be fixed — and when I say it out loud like that, I can hear how impossible it is. I guess the standard comes from somewhere deep, maybe from growing up feeling like I had to hold everything together for my family, but knowing where it comes from doesn't really make it feel any less real.",
-    "therapist": "There's something really significant in what you just did — you named an impossible standard out loud and recognized it for what it is, even if it doesn't yet *feel* different, and that gap between knowing and feeling is exactly where we can do meaningful work together. It makes so much sense that a standard built in childhood, when keeping things together may have felt like survival, would be deeply wired and not easy to simply think your way out of. I'm curious — when you imagine a version of yourself that was doing \"enough\" by a kinder, more realistic measure, what would that person look like to you?",
+    "client": "It usually points to specific moments — like last Tuesday when she got upset because I couldn't stay longer, or the times I've had to say no to her calls because I was at work. I replay those moments over and over, and the voice basically says \"a good child wouldn't have left\" or \"a good child would find a way to be there more.\" I guess what's hard is that those moments feel like evidence, not just thoughts — like they actually prove I'm failing her.",
+    "therapist": "It makes so much sense that those moments feel like proof — our minds are incredibly good at treating painful memories as hard evidence, especially when we're already worn down. But I'd gently invite you to look at what the same moments might also show: someone who *was* there last Tuesday, someone who is holding down a job so she can continue to provide care at all. What do you think a truly failing child would actually look like, compared to what you're describing?",
     "condition": "emotion_text_only",
-    "val_t": -0.16358864307403564,
-    "aro_t": 0.14538657665252686,
+    "val_t": -0.23483121395111084,
+    "aro_t": 0.11027944087982178,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "That question actually makes me pause, because honestly... I'm not sure I can picture that person clearly. Like, when I try to imagine \"doing enough,\" my mind just goes kind of blank, or I start listing things I'd still be falling short on. It's like the kinder version of me doesn't quite feel real yet, more like a concept than something I can actually see myself becoming.",
-    "therapist": "That blankness you're describing is actually really telling — it suggests the self-critical voice has had so much practice that it's become the default, while the compassionate voice is like a muscle that hasn't been used much yet, so of course it feels unfamiliar and hard to picture. The good news is that \"not real yet\" is very different from \"not possible\" — it just means it needs to be built slowly, with repetition, rather than arrived at all at once. I wonder, is there anyone in your life — a friend, someone you admire — who you feel *does* extend that kind of realistic kindness to themselves, and what does it look like when you see it in them?",
+    "client": "I know logically that a truly failing child would be someone who just... walked away entirely, someone who never showed up at all. But when I try to use that comparison to make myself feel better, it doesn't really stick — it's like my brain just dismisses it and goes right back to the Tuesday moment. I guess I'm skeptical that reframing it is going to quiet that voice, because the guilt feels like it's coming from somewhere deeper than just a thinking error.",
+    "therapist": "That's a really honest and important observation — you're noticing that the guilt doesn't just live in your thoughts, and you're right that it often has deeper roots, sometimes in long-held beliefs about what love is supposed to look like or what you owe the people you care about. The reframe not \"sticking\" isn't a failure of the technique; it's a signal that there's something worth exploring underneath — maybe a belief like \"love means having no limits\" or \"being a good child means sacrificing everything.\" What do you think you were taught, growing up, about what it means to truly take care of someone you love?",
     "condition": "emotion_text_only",
-    "val_t": -0.04410111904144287,
-    "aro_t": 0.10331571102142334,
-    "text_emotion": "Neutral"
+    "val_t": -0.31410789489746094,
+    "aro_t": 0.07923102378845215,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I mean... maybe my friend Dara, I guess. She messes up at work sometimes and she'll just say \"well, that happened, I'll do better next time\" and then she actually moves on — she doesn't seem to carry it around for days like I do. But honestly, when I watch her do that, part of me thinks she just doesn't care enough, or that she's not taking things seriously, which I know probably says more about me than her.",
-    "therapist": "It's a really honest and self-aware moment that you caught yourself projecting that judgment onto Dara — noticing \"this probably says more about me\" takes genuine reflection. What's worth sitting with is the assumption underneath: that carrying pain longer somehow *proves* you care more, as if suffering is the measure of love or seriousness. I'm curious — do you actually believe Dara doesn't care about her work, or is part of you a little envious of her ability to put something down without it meaning she's failed?",
+    "client": "That question actually hit me harder than I expected. Growing up, my mom was the one who sacrificed everything for us — she worked two jobs, never complained, never put herself first — and I think I absorbed this idea that real love means you just keep giving until there's nothing left, and you don't get to have needs of your own. But even recognizing that now, I'm not sure what to do with it, because it feels less like a belief I chose and more like just... who I am.",
+    "therapist": "What you just uncovered is profound — you didn't choose that belief so much as you *inherited* it, absorbing your mom's love language as the definition of love itself, which makes it feel like your identity rather than an idea you can question. But here's something worth sitting with: your mom modeling endless self-sacrifice may have been *her* way of coping with her circumstances, not necessarily a blueprint she'd want you to follow until you break. What do you think she would actually want for you, if she could see how depleted you are right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.1626124382019043,
-    "aro_t": 0.14588332176208496,
-    "text_emotion": "Angry"
+    "val_t": -0.014583587646484375,
+    "aro_t": 0.24593627452850342,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "Honestly... yeah, I think I am a little envious of her. Like, she finishes a project and just moves on, and I'm still replaying every decision I made on mine weeks later, wondering if I did enough. It's exhausting, and part of me wishes I could just let things go like that, but another part of me feels like if I did, it would mean I didn't really care.",
-    "therapist": "That exhaustion of replaying and second-guessing comes through so clearly, and what you've just identified is a really core belief worth gently examining — the idea that letting go equals not caring, as if your vigilance and worry are what *prove* your love and commitment. But notice that Dara cares about her work *and* lets things go — those two things seem to coexist in her just fine, which suggests they might not actually be opposites. What do you think it would mean about you as a person — and as a daughter — if you allowed yourself to put something down and still trusted that your love for your mom was real?",
+    "client": "Honestly, part of me knows she would want me to be okay — she used to say that all the time when I was younger, that she worked so hard so I wouldn't have to struggle like she did. But it feels almost dishonest to use that against the guilt, like I'm cherry-picking a convenient memory to let myself off the hook. And there's this other part of me that wonders if that version of her — the one who would want me to rest — is kind of gone now, and the mom I'm caring for just needs more than I can give.",
+    "therapist": "There's something quietly heartbreaking in what you just said — that the mom who would give you permission to rest feels like she's slipping away, and you're left caring for someone whose needs feel endless without that reassurance. But I want to gently push back on the idea that remembering her words is \"cheating\" — that memory isn't a loophole, it's actually *data* about who she is across her whole life, just as real as last Tuesday. If you wouldn't dismiss the Tuesday moment as cherry-picking evidence against yourself, what makes her lifelong wishes for you less valid as evidence?",
     "condition": "emotion_text_only",
-    "val_t": -0.188268780708313,
-    "aro_t": 0.1996089220046997,
+    "val_t": -0.19839215278625488,
+    "aro_t": 0.10863745212554932,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying about Dara, and part of me gets it logically, but it still feels like... if I'm not worrying, then who's keeping watch, you know? Like my mom doesn't have a lot of people in her corner, and if I let myself relax about whether I said the right thing or handled something well enough, it feels like I'm abandoning my post somehow. And I guess if I'm being honest, the idea that my love could just exist without all this mental effort feels almost too easy, like I haven't earned the right to feel okay about things.",
-    "therapist": "There's something really moving about the phrase \"abandoning my post\" — it captures how much responsibility you're holding, and also how alone you feel in holding it, like the whole watch depends on you never resting. But I want to gently reflect something back: the idea that you have to *earn* the right to feel okay, that love must be paid for in worry and exhaustion — that's not a truth about love, that's a rule you learned somewhere, probably long before your mom got sick. I'm wondering, who taught you that rest or ease had to be earned, and what would it mean to question whether that rule is actually serving you or your mom?",
+    "client": "That actually lands differently when you put it that way — like I've been applying completely different standards to the evidence depending on which direction it points. I think I've been treating anything that makes me feel worse as more true, and anything that gives me relief as suspect, which is kind of a rigged system when I think about it. I'm not sure I can just flip a switch and trust the gentler memories, but I can at least see that I've been playing by unfair rules with myself.",
+    "therapist": "What you just did takes real clarity — seeing that the system itself was rigged is a genuinely significant shift, even if it doesn't instantly change how things feel. You don't need to flip a switch; just noticing the unfair rules is the first step toward slowly rewriting them, and that's not a small thing. As you sit with this, I'm wondering — what might it look like to apply even a little of that same fairness to yourself in a concrete moment this week?",
     "condition": "emotion_text_only",
-    "val_t": -0.10931456089019775,
-    "aro_t": 0.13207721710205078,
-    "text_emotion": "Angry"
+    "val_t": -0.2017115354537964,
+    "aro_t": 0.060120344161987305,
+    "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "That question kind of stops me in my tracks, honestly. I think it was my dad, maybe, the way he never sat down, never complained, just kept going until he couldn't anymore, and we all kind of worshipped that about him. But questioning it feels almost like betraying him, like if I say that rule was wrong, I'm saying something was wrong with him, and I'm not ready to do that.",
-    "therapist": "There's such tenderness in how you're protecting your dad's memory, and it makes complete sense that questioning the rule feels tangled up with questioning him as a person — that's a really important distinction to hold carefully. But I want to offer a gentle reframe: it's possible that your dad was a good and loving man *and* that the rule he modeled was one he learned from his own pain, something passed down rather than chosen — which means questioning it isn't a betrayal, it's actually a way of understanding him more fully. What do you think your dad would have wanted for *you*, if he could have stepped outside that rule for a moment and just thought about your wellbeing?",
+    "client": "I think the honest answer is that I don't really know what that would look like in practice, because the guilt tends to hit in the moment and it moves faster than any kind of reflection can. Like, if I leave my mom's place on Thursday and she's upset, I'm not sure I'll have the presence of mind to stop and ask myself whether I'm applying fair rules — it'll just feel like drowning. I want to try, but I'm worried I'll get to that moment and everything we talked about today will just disappear.",
+    "therapist": "That fear makes complete sense — insight gained in a calm conversation can feel very far away when you're in the middle of drowning, and it would be unrealistic to expect yourself to therapize yourself in real time. This is actually why we often work on creating something very small and concrete *in advance* — almost like a lifeline you've already prepared, maybe a single sentence you write down before Thursday that captures what you discovered today, something you could read in the car before you walk in. What one phrase or reminder do you think might have the best chance of reaching you in that moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.24351286888122559,
-    "aro_t": 0.2179476022720337,
+    "val_t": -0.34729158878326416,
+    "aro_t": 0.1701728105545044,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That question kind of stops me in my tracks, honestly. Like, I want to say he'd want me to be happy and not so isolated, but then part of me immediately thinks, \"well, he wasn't happy either, and he managed just fine\" — which I know sounds like I'm defending the whole thing again. It's just hard to separate what he actually would have wanted from what I've been telling myself he would have wanted all these years.",
-    "therapist": "What you just said is genuinely profound — you caught yourself in real time, noticed the defense going up, and then questioned whether what you've been hearing as your dad's voice is actually *his* voice or a story you've been carrying so long it feels like him. That distinction — between what he would have truly wanted and what the rule tells you he wanted — is one of the most important threads we could follow together. I'm curious, if you try to set the rule aside just for a moment and think about a specific memory of your dad looking at *you*, what do you sense he actually felt when he saw you?",
+    "client": "Maybe something like \"I've been playing by unfair rules\" — because that framing felt true in a way that didn't feel like I was letting myself off the hook, it felt more like just... correcting something. But I'm a little skeptical that reading a sentence in the car is going to compete with the weight of watching my mom be upset, because that's such a visceral, physical feeling that words on a page might just feel hollow in comparison. I want to believe it could help, but I don't want to set myself up to feel like I failed at the homework too.",
+    "therapist": "\"I've been playing by unfair rules\" is a genuinely powerful choice — it has that quality of being true rather than comforting, which means it's more likely to cut through. And your concern about the homework itself becoming another thing to fail at is so important that I want to name it explicitly: the sentence isn't a test, it's just a small act of fairness toward yourself, and even if it only reaches you *after* the hard moment rather than during it, that still counts. What would it mean for Thursday to be \"good enough\" rather than perfect?",
     "condition": "emotion_text_only",
-    "val_t": -0.2005375623703003,
-    "aro_t": 0.1688549518585205,
+    "val_t": -0.2507694959640503,
+    "aro_t": 0.14493262767791748,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get quiet for a second because that question actually catches me off guard. There's this one memory that comes up — I must have been maybe ten, and I'd just finished reading out loud something I wrote for school, and I remember looking up and seeing his face before he had time to put the usual expression on, and it was... soft. Like genuinely soft, not proud in that performance way he usually did it. But then I immediately second-guess myself and wonder if I'm just constructing that memory because I want it to be true, because I need it to be true right now.",
-    "therapist": "That memory feels really precious — and the fact that it came so quickly, unbidden, before your analytical mind could shape it, actually says something about its realness. It's worth noticing that your instinct is to immediately distrust something tender the moment it offers you comfort, as if softness needs to be interrogated in a way that pain never does. What if that glimpse of your dad's face — soft, unguarded — was actually the truest thing about how he saw you, even if neither of you had the language to live inside it very often?",
+    "client": "I think \"good enough\" for Thursday would just mean that I showed up, that she was cared for, and that I drove home without spending the whole night replaying every moment where I fell short. When I say it out loud like that it sounds almost achievable, which is a strange feeling because I'm so used to the bar being somewhere I can never reach. I guess I'm realizing that I've never actually defined what \"enough\" looks like — I've just been measuring myself against some vague, unlimited standard that was always going to make me fail.",
+    "therapist": "What you just did — defining \"enough\" out loud for the first time — is actually one of the most important things we've done today, because a vague unlimited standard isn't a standard at all, it's a trap. There's something quietly hopeful in your voice as you say it feels almost achievable, and I want you to hold onto that feeling as evidence too, the same way we've been talking about applying fairer rules. Would you be willing to write that definition down alongside your phrase — \"I showed up, she was cared for, I drove home\" — so that Thursday-you has both a compass and a reminder that the bar was always meant to be reachable?",
     "condition": "emotion_text_only",
-    "val_t": -0.013684511184692383,
-    "aro_t": 0.18968451023101807,
-    "text_emotion": "Tense"
+    "val_t": -0.08845710754394531,
+    "aro_t": 0.11043477058410645,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to hold onto that idea — that the soft look was the real him, the real us. But I keep coming back to all the times he was distant or critical, and it feels almost dishonest to let one quiet memory outweigh all of that. Like I'd be rewriting history just to feel better, and I'm not sure I'm allowed to do that.",
-    "therapist": "There's something really worth examining in the word \"allowed\" — it keeps coming up, this sense that you need permission to feel okay, to hold a tender memory, to rest, as if comfort itself is something you have to justify. Holding onto that soft moment isn't rewriting history — it's allowing the *full* history to be true, where both the distance and the softness coexisted, rather than letting the painful moments be the only ones that count as real. I'm wondering, where do you think that rule came from — that the hard memories are more honest than the gentle ones?",
+    "client": "Yeah, I think I can do that — writing it down feels less daunting than I expected, maybe because it's something I actually believe rather than a positive affirmation I'm trying to convince myself of. I'm still a little nervous that Thursday will come and the feelings will just be bigger than the words, but I think there's something different about having defined the bar myself instead of it being handed to me. I just don't want to lose this clarity by the time I get there — it feels fragile right now, like it could easily get buried again under a hard week.",
+    "therapist": "The clarity does feel fragile right now, and that's real — but I want to offer you something: the fact that it came from *you*, from your own honest thinking rather than something I handed you, means it's not as fragile as it feels. It lives in you, not just in the words on the page, and even if a hard week buries it temporarily, you've already shown today that you can find your way back to it. Would it help to think about one small thing you could do mid-week — maybe just rereading what you wrote — as a way of tending to that clarity before Thursday arrives?",
     "condition": "emotion_text_only",
-    "val_t": -0.16102755069732666,
-    "aro_t": 0.12269818782806396,
+    "val_t": -0.12905383110046387,
+    "aro_t": 0.1223064661026001,
     "text_emotion": "Angry"
   }
 ]

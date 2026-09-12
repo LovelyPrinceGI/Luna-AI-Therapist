@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed lately because my partner lost their job about a month ago, and now I'm the one covering everything — rent, groceries, utilities, all of it. The financial pressure is just crushing, and we keep getting into these arguments about money that leave me feeling exhausted and kind of alone in all of this. I'm not even sure talking about it is going to change anything, because the bills are still going to be there no matter what I say in here.",
-    "therapist": "It makes complete sense that you're feeling exhausted and alone — you're carrying a genuinely heavy load right now, both financially and emotionally, and that's real and valid. I also notice that thought you shared: *\"talking won't change anything\"* — that's worth gently examining together, because while words can't pay the bills, they can sometimes shift how we carry the weight of them. I'm curious, when you imagine what \"feeling less alone in this\" would actually look like for you, what comes to mind?",
+    "client": "I've been really stressed out lately because my partner lost their job about a month ago, and now I'm the only one bringing in money. The pressure of covering all the bills is just... it's a lot, and we've been arguing about finances almost constantly, which makes everything feel even worse. Honestly, I'm not totally sure talking about it is going to change anything, but I figured I'd at least give this a shot.",
+    "therapist": "It takes real courage to show up even when you're not sure it will help, and I'm genuinely glad you gave it a shot. The weight you're carrying — being the sole financial support *and* navigating the tension it's creating with your partner — sounds exhausting on so many levels, and it makes complete sense that you're feeling overwhelmed. I'm curious, when the stress feels heaviest, what kinds of thoughts tend to run through your mind about what all of this means for you or your future?",
     "condition": "baseline",
-    "val_t": -0.30515027046203613,
-    "aro_t": 0.22008025646209717,
+    "val_t": -0.2583044767379761,
+    "aro_t": 0.17996370792388916,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I guess when I imagine feeling less alone... I picture having someone who actually gets what it's like to lie awake at three in the morning doing math in your head, trying to figure out if you can cover rent and groceries at the same time. Not someone who just says \"it'll work out\" or offers generic advice, but someone who really sits in it with me. I don't know, maybe that's too much to ask for, or maybe I'm just not sure talking about it here actually counts as that.",
-    "therapist": "What you're describing — someone who truly *sits in it* with you rather than rushing to reassure you — isn't too much to ask for at all; it's a deeply human need for genuine presence, and the fact that you can name it so clearly tells me a lot about your self-awareness. I also want to gently push back on that thought that this space \"doesn't count,\" because you just described something very real and vulnerable, and I'm genuinely here with you in it right now. What do you think makes it hard to believe that kind of understanding is available to you — either here, or from your partner?",
+    "client": "Honestly, when it gets really bad, I start thinking things like \"what if this never gets better\" or \"what if I can't actually keep up with all of this and we lose everything.\" There's also this nagging thought that maybe I'm not doing enough, like I should somehow be earning more or managing things better, even though I'm already stretched thin. And then I feel guilty for even being stressed about it, because at least I still have a job, you know?",
+    "therapist": "Those thoughts — \"what if this never gets better\" and \"I'm not doing enough\" — are really common when we're under prolonged stress, but that doesn't make them facts, even though they can feel absolutely convincing in the moment. I also want to gently point out something: you're stretched thin, carrying the financial load, *and* then criticizing yourself for feeling stressed about it — that's a really heavy burden to place on yourself, and you deserve some of the compassion you'd probably offer a friend in your situation. When that guilt creeps in — the \"at least I have a job\" thought — do you notice it actually helps you feel better, or does it tend to just push the stress underground without really addressing it?",
     "condition": "baseline",
-    "val_t": -0.018018245697021484,
-    "aro_t": 0.027750849723815918,
-    "text_emotion": "Neutral"
+    "val_t": -0.3078211545944214,
+    "aro_t": 0.10615122318267822,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I hear what you're saying, and part of me wants to believe it... but there's this other part that keeps whispering that you're just doing your job, you know? Like, it's not the same as someone choosing to be with me, choosing to stay even when it's inconvenient or messy. And with my partner, I think I've just been let down enough times when I tried to open up that I stopped expecting it to go well.",
-    "therapist": "That whisper you're describing — *\"she's only here because it's her job\"* — is worth taking seriously as a thought to examine, because it's also the same kind of protective belief that might be keeping you from fully opening up to your partner too. It sounds like you've learned, through real experiences of being let down, that vulnerability leads to disappointment — and that's not a flaw in you, it's a very logical adaptation to pain. I'm wondering, when you did try to open up to your partner in the past and it didn't go well, what did that moment look like — what did you need that you didn't receive?",
+    "client": "Honestly, no, it doesn't actually help — it just makes me feel like I'm not allowed to be stressed, which somehow makes the stress worse. It's like I'm invalidating my own feelings before anyone else even gets the chance to. I get what you're saying about offering myself compassion, but I don't really know how to do that without it feeling fake or like I'm just making excuses for not handling things better.",
+    "therapist": "What you just described — \"invalidating my own feelings before anyone else even gets the chance to\" — is a really profound insight, and it tells me you're already more self-aware than you might give yourself credit for. The concern that self-compassion feels like \"making excuses\" is actually a really common barrier, and it's worth examining: if a close friend came to you carrying everything you're carrying right now, would you tell them they're just making excuses, or would you see their stress as completely understandable? What do you think it says about the standard you're holding yourself to that you'd likely extend grace to someone else but not to yourself?",
     "condition": "baseline",
-    "val_t": -0.1907113790512085,
-    "aro_t": 0.10487735271453857,
+    "val_t": -0.28171706199645996,
+    "aro_t": 0.13288986682891846,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I remember one time I tried to tell my partner how overwhelmed I was feeling, just... really burnt out and kind of hollow inside, and she kind of nodded and then changed the subject to something about her day. It wasn't cruel or anything, but it felt like I'd handed her something fragile and she just set it down without looking at it. What I needed, I think, was for her to just... stay with it for a moment, ask me something, anything, to show it mattered.",
-    "therapist": "That image you used — handing her something fragile and watching her set it down without really looking at it — is so vivid and tender, and it captures exactly the kind of quiet hurt that doesn't leave a bruise you can point to but stays with you anyway. It makes a lot of sense that after moments like that, part of you learned to stop offering those fragile things, because the risk started to feel bigger than the possible comfort. I'm curious — do you think your partner knows that that moment, and others like it, landed on you the way they did?",
+    "client": "Yeah, if a friend came to me with all of this, I'd never tell them they were making excuses — I'd probably think they were being really hard on themselves, honestly. But when I try to apply that same logic to myself, there's this voice that says \"that's different, you should be able to handle this.\" I know that's kind of a double standard, but knowing it and actually feeling differently about it are two really separate things.",
+    "therapist": "You've just identified something really important — that gap between *knowing* something intellectually and actually *feeling* it differently is real, and it's not a personal failing that the insight alone doesn't instantly change things; that's just how deeply ingrained these patterns can be. That voice saying \"you should be able to handle this\" sounds like it's been around for a while, and it might be worth getting curious about where it learned that your struggles deserve less compassion than anyone else's. What do you think that voice is ultimately trying to protect you from — is it possible it has some kind of intention, even if the impact isn't actually helping you?",
     "condition": "baseline",
-    "val_t": -0.1283963918685913,
-    "aro_t": 0.21748244762420654,
-    "text_emotion": "Angry"
+    "val_t": -0.0690159797668457,
+    "aro_t": 0.10121071338653564,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I don't think she knows, no. And honestly, I'm not even sure I knew how much it hurt until just now, saying it out loud like that. The scary part is I don't know if telling her would change anything, or if I'd just be handing her another fragile thing to set down.",
-    "therapist": "There's something really significant happening right now — you just discovered the depth of your own hurt in real time, which tells me you've been carrying this quietly for a long time, maybe even from yourself. That fear of handing her another fragile thing makes complete sense given what you've experienced, and it's not irrational — but I also notice it's the same fear that's been keeping you isolated in those 3am moments. I wonder, if you could imagine a version of that conversation with her where you felt just a little safer, what would need to be different — in you, in her, or in how it happened?",
+    "client": "That's an interesting way to think about it — I guess maybe that voice is trying to keep me from slacking off or falling apart, like if I go easy on myself I'll stop pushing and then things really will fall apart financially. But I'm not sure I totally buy the idea that it has a good intention, because it doesn't feel protective, it just feels like constant criticism that drains me. I guess I can see the logic of what you're saying, but it's hard to reframe something as \"protective\" when it mostly just makes me feel worse about myself.",
+    "therapist": "That's a really fair pushback, and I don't want to romanticize something that's genuinely causing you pain — you're right that if the voice's \"intention\" is to keep you motivated but the actual effect is draining you and making you feel worse, then it's not really working, regardless of what it's trying to do. It's a bit like a smoke alarm that goes off constantly even when there's no fire — maybe it was installed for good reason, but at some point the constant noise becomes its own problem. So I'm wondering, is there any evidence in your life that being kinder to yourself has actually caused you to \"slack off,\" or is that more of a fear than something you've seen play out in reality?",
     "condition": "baseline",
-    "val_t": -0.29948508739471436,
-    "aro_t": 0.24710452556610107,
-    "text_emotion": "Angry"
+    "val_t": -0.2304384708404541,
+    "aro_t": 0.03662693500518799,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I sit with that for a second because it actually hit harder than I expected. I think for it to feel safer, she'd have to not immediately try to fix it or say something like \"well at least you have me\" — because that's what she does, and it makes me feel more alone somehow. But honestly, I'm not sure I trust myself in that conversation either, because I'd probably downplay it halfway through and then feel stupid for having started it at all.",
-    "therapist": "You've just named two really important things: your partner's instinct to fix or reframe, and your own instinct to retreat and minimize — and it sounds like those two patterns together have been quietly closing the door on real connection between you. That tendency to downplay halfway through isn't weakness or stupidity, it's that same protective reflex we talked about, your way of pulling the fragile thing back before it can be set down again. I'm curious, what do you think you're most afraid would happen if you *didn't* downplay it — if you actually let her see the full weight of what you've been carrying?",
+    "client": "When I actually think about it honestly, I can't really point to a specific time where being easier on myself made me stop trying or drop the ball on something important. So I guess it is more of a fear than something I've actually seen happen, which is kind of uncomfortable to admit. But I still worry that this situation is different — like the stakes are so much higher right now with the finances that I can't afford to let my guard down, even if the self-criticism isn't really helping.",
+    "therapist": "That honest admission — that you can't actually find evidence for the thing you've been afraid of — is a really significant moment, and it makes sense that it feels uncomfortable, because it means that critical voice has been operating on a fear rather than facts. It's worth sitting with the idea that \"letting your guard down\" and \"offering yourself compassion\" aren't actually the same thing — you can take the finances seriously *and* treat yourself with some kindness, just like a good coach pushes their athlete hard without constantly tearing them down. Given that the self-criticism is draining your energy rather than adding to it, do you think it's possible that a little more self-compassion might actually help you sustain the effort you need right now, rather than undermine it?",
     "condition": "baseline",
-    "val_t": -0.2806568145751953,
-    "aro_t": 0.13740575313568115,
+    "val_t": -0.23683881759643555,
+    "aro_t": 0.11023247241973877,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I think... if I actually let her see all of it, without softening it halfway through, she'd either try to fix it immediately and I'd feel even more alone, or worse, she'd just look overwhelmed and I'd feel like a burden. That second one is what really scares me, I think. Like if she saw the full weight and her face kind of fell, or she went quiet, I don't know if I could come back from that.",
-    "therapist": "That fear of being \"too much\" — of watching someone you love go quiet under the weight of what you're carrying — is one of the loneliest fears there is, and it makes so much sense that it's been easier to protect her from it, even at the cost of protecting yourself too. I want to gently reflect something back to you: you've been managing her potential reaction so carefully that you've never actually given her the chance to surprise you, and in doing so, you've been carrying this almost entirely alone. What does it tell you about yourself that your first instinct, even in your own pain, is to worry about becoming a burden to someone else?",
+    "client": "I can see the logic in what you're saying, and the coach analogy actually does make some sense to me — like, I wouldn't expect a good coach to just berate someone constantly and call that motivation. But I guess my hesitation is that self-compassion still feels really abstract to me, like I don't actually know what it would look like in practice when I'm in the middle of a stressful moment about the bills. What would that even look like — am I just supposed to tell myself \"it's okay\" and somehow feel better about the fact that rent is due?",
+    "therapist": "You're absolutely right that \"just tell yourself it's okay\" would feel hollow and wouldn't actually address the real stress of rent being due — genuine self-compassion isn't about pretending things are fine, it's more about how you *talk to yourself* while you're dealing with hard things. In practice, it might look less like \"it's okay\" and more like \"this is genuinely hard, I'm doing my best in a really difficult situation, and feeling stressed doesn't mean I'm failing\" — acknowledging the reality while dropping the extra layer of self-attack on top of it. When you imagine being in a stressful moment about the bills and saying something like that to yourself instead of \"I should be handling this better,\" does that feel like a small enough shift that it might actually be worth experimenting with?",
     "condition": "baseline",
-    "val_t": -0.365681529045105,
-    "aro_t": 0.28151416778564453,
+    "val_t": -0.09026849269866943,
+    "aro_t": 0.12409317493438721,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I think it tells me that I've spent a long time making myself smaller so other people feel comfortable, and honestly, I'm not even sure when that started. But when you say it like that, it almost sounds like a flaw, like I'm doing something wrong by caring about her feelings. I don't know, maybe it's not entirely about protecting her — maybe I'm also just... scared she'll actually confirm what I already believe about myself, that I really am too much.",
-    "therapist": "What you just said at the end there is incredibly courageous and important — that the deeper fear isn't just her reaction, but that her reaction might *confirm* something you already believe about yourself. That's not a flaw in your caring; your sensitivity to others is actually a beautiful part of you, but it sounds like somewhere along the way it got tangled up with a belief that your full self is somehow too much to be loved without conditions. I'm wondering, where do you think that belief — that you are \"too much\" — first took root for you?",
+    "client": "That framing actually does feel more manageable than what I was imagining — like it's not asking me to pretend the stress isn't real, just to not pile on top of it. I think I could maybe try saying something like that to myself, but I'm honestly a little skeptical about whether I'll remember to do it in the moment when I'm already stressed and spiraling. It's like I know what I should do when I'm calm, but when I'm actually in it, that critical voice kind of takes over before I even realize it's happening.",
+    "therapist": "That's such a real and honest observation — the gap between knowing something when you're calm and accessing it when you're already spiraling is one of the most common challenges people face, and it doesn't mean the approach won't work, it just means we need to make it easier to reach in those moments. One thing that can help is creating a kind of \"anchor\" — something small and specific you decide on now, while you're calm, like a short phrase you write down somewhere visible, so that when the critical voice takes over you have something concrete to grab onto rather than trying to remember it from scratch. Would it feel doable to think of one short phrase that feels genuinely true and compassionate — not fake, but honest — that you could maybe write down somewhere you'd actually see it when things get hard?",
     "condition": "baseline",
-    "val_t": -0.25014185905456543,
-    "aro_t": 0.13824522495269775,
+    "val_t": -0.14731693267822266,
+    "aro_t": 0.17625224590301514,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "That question kind of stops me in my tracks, honestly. I think... it probably started with my mom, the way she'd get overwhelmed or shut down whenever I needed too much from her emotionally, and I learned pretty quickly that being needy or intense was a burden. I never really connected that to now, to why I'm so scared to tell my friend how lonely I've been feeling, but sitting here I can see how that thread runs all the way through.",
-    "therapist": "What you just did — tracing that thread from your childhood all the way through to those 3am moments and the fear of telling your partner the truth — is genuinely profound, and it makes so much sense that a little girl who learned to shrink her needs to protect her mom would grow into someone who does the same thing in her most important relationship now. That belief wasn't born from truth; it was born from a child doing the only thing she could to stay connected to someone she needed. I'm curious — now that you can see where it came from, how does it feel to hold that belief that you're \"too much\"? Does it feel as true as it did before?",
+    "client": "I think I could maybe come up with something like \"this is hard and I'm still showing up,\" because that at least feels true rather than like I'm sugarcoating things. But I'm a little worried about where I'd actually put it — like, if I stick it on the fridge or something, is it just going to start blending into the background after a few days and stop meaning anything? I guess I'm also wondering if one phrase is really going to cut through when the stress about the bills is really intense and my partner and I are in the middle of an argument about money.",
+    "therapist": "\"This is hard and I'm still showing up\" is a genuinely powerful phrase because it's honest and it acknowledges your effort without minimizing the difficulty — that's exactly the kind of self-compassion that doesn't feel fake. Your concern about it fading into the background is really practical and worth taking seriously, so rather than a fixed spot like the fridge, some people find it more effective to set a phone reminder that pops up at a high-stress time of day, or to keep it somewhere they only go when already stressed, like next to where they pay bills. I also hear you that one phrase might feel small against the intensity of a money argument with your partner — so I'm curious, when those arguments are happening, what do you think you're most needing in that moment: to feel less alone in it, to feel less judged, or something else entirely?",
     "condition": "baseline",
-    "val_t": -0.20935070514678955,
-    "aro_t": 0.1356722116470337,
+    "val_t": -0.27728402614593506,
+    "aro_t": 0.19570541381835938,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "It's strange... when you put it that way, it doesn't feel quite as solid as it usually does, like maybe there's a tiny crack in it. But then part of me immediately thinks, okay, but even if it started back then, it still feels true now — my partner does get frustrated sometimes when I bring up my needs, so it's not like the belief came from nowhere. I guess I'm scared that if I let myself believe I'm not \"too much,\" I'll start asking for more and then actually prove the belief right.",
-    "therapist": "That crack you're feeling is really significant — it means part of you is already questioning something you've held as absolute truth for a long time. And you've just identified something really important: that you're actually *avoiding* asking for more not just to protect your partner, but to protect yourself from the possibility of being rejected as your fuller self, which would feel like the final verdict. I want to sit with that fear gently — because what you're describing means you've never actually tested whether the belief is true in your *adult* relationships, you've only ever confirmed it by staying small; what do you think it would mean for you if it turned out you *weren't* too much?",
+    "client": "Honestly, I think it's mostly about feeling less alone in it — like, when we're arguing about money, it starts to feel like me against my partner instead of both of us against the problem, and that's probably the loneliest part of all of this. I end up feeling like I'm carrying the financial stress and also carrying the emotional weight of the argument at the same time, which is just exhausting. I'm not sure how to change that dynamic though, because when we're in the middle of it, it's hard to slow down and think clearly about what I actually need.",
+    "therapist": "That distinction you just made — \"me against my partner\" versus \"both of us against the problem\" — is really insightful, and it points to something important: the arguments might be *about* money, but what you're really losing in those moments is the sense of being a team, which is its own kind of pain on top of the financial stress. It makes complete sense that it's hard to access that clarity mid-argument, which is why it might be worth having a conversation about the dynamic itself during a calm moment, rather than trying to shift it when you're already in the thick of it. When you imagine a quieter moment with your partner — not during an argument — does it feel like there's enough safety and openness between you two to have a conversation about how you want to face this together, rather than just the logistics of the bills themselves?",
     "condition": "baseline",
-    "val_t": -0.1833428144454956,
-    "aro_t": 0.1450437307357788,
+    "val_t": -0.18667733669281006,
+    "aro_t": 0.1489506959915161,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been feeling really overwhelmed lately with my new job as a project manager. We missed a major deadline last week, and I can't shake the guilt and anxiety that comes with it. I know I should be more on top of things, but it feels like everything is just piling up. I'm not even sure if therapy can really help with this.",
-    "therapist": "Hi there, it sounds like you're carrying a lot of weight with this new role and the recent missed deadline. It's completely understandable to feel overwhelmed and guilty, but it's important to remember that everyone faces challenges and setbacks. How have you been coping with these feelings so far?",
+    "client": "Hi Luna, I've been really struggling lately with my new role as a project manager. Last week, we missed a major deadline, and I feel like I’m drowning in all the responsibilities and expectations. I keep wondering if I’m cut out for this, and honestly, I’m not sure if therapy can even help with all this work pressure.",
+    "therapist": "Hi there, it sounds like you’re really feeling the weight of your new role and the recent missed deadline. It’s completely understandable to question whether you’re the right fit when things get this challenging. How have you been coping with these feelings so far, and what do you think might help you feel more supported in your role?",
     "condition": "emotion_text_only",
-    "val_t": -0.2582889795303345,
-    "aro_t": 0.25102102756500244,
+    "val_t": -0.21010124683380127,
+    "aro_t": 0.15928709506988525,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hey Luna, yeah, it's been really tough. I've been trying to stay on top of everything, but it feels like no matter what I do, I can't catch up. I've been really hard on myself, and it's hard to shake off the guilt. I've tried to just push through, but it's not really working.",
-    "therapist": "It sounds really tough, and it's understandable to feel that way when you're under so much pressure. Being hard on yourself can make it even more challenging to move forward. Have you had a chance to reflect on any small wins or successes, even if they seem minor, in your new role?",
+    "client": "I’ve been trying to stay on top of everything by working longer hours, but it’s just making me more exhausted and anxious. I feel like I’m constantly second-guessing my decisions, and it’s hard to shake the feeling that I’m not doing enough. I’m not sure what would help—I feel like I’m already doing everything I can, but it’s still not enough.",
+    "therapist": "It sounds really overwhelming, and the anxiety and exhaustion you’re feeling are understandable given how much you’ve been putting into your work. It’s tough when you feel like you’re not measuring up, even though you’re doing so much. Have you had a chance to talk to anyone at work about how you’re feeling, or are there any small steps you think might help you feel more confident in your decisions?",
     "condition": "emotion_text_only",
-    "val_t": -0.27583765983581543,
-    "aro_t": 0.14151060581207275,
+    "val_t": -0.22669148445129395,
+    "aro_t": 0.20562779903411865,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying that, Luna. It's just hard to see any small wins when I feel like I'm constantly making mistakes. I know I should be more positive, but it feels like every little thing I do wrong is magnified in my head. It's tough to step back and recognize the good stuff.",
-    "therapist": "I understand how challenging it can be to see the good when you're feeling this way. It's natural for our minds to focus on the negatives, especially during stressful times. Have you tried writing down some of the positive aspects of your work, no matter how small, to help balance out those critical thoughts?",
+    "client": "I haven’t really talked to anyone about it because I don’t want to seem incompetent. I feel like if I bring up my struggles, it might just confirm that I’m not cut out for this role. I’m not sure if talking to someone would even help—I feel like the issues are too deep and I need to figure it out on my own. But at the same time, I’m so overwhelmed that I don’t know where to start.",
+    "therapist": "It’s completely understandable to feel hesitant about sharing your struggles, especially when you’re worried about how others might perceive you. It’s a tough place to be, feeling like you have to figure everything out on your own while also being overwhelmed. Have you considered reaching out to a mentor or a trusted colleague who might offer some guidance or a different perspective? Sometimes just getting an outside view can help you see things a bit differently.",
     "condition": "emotion_text_only",
-    "val_t": -0.05640721321105957,
-    "aro_t": 0.11106300354003906,
-    "text_emotion": "Neutral"
+    "val_t": -0.3166365623474121,
+    "aro_t": 0.23646485805511475,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but it feels like a stretch to find positives when I'm so overwhelmed at work. It's hard because the negatives are so loud and it feels like they drown out everything else. I don't think writing them down will change how I feel.",
-    "therapist": "I can see how overwhelming this feels, and it's completely understandable that the negatives seem to dominate your thoughts right now. It's a tough cycle to break, but recognizing the impact of those thoughts is a big first step. What do you think might help you start to shift your focus, even if just a little, away from the negatives?",
+    "client": "I appreciate that, but I’m not sure I have anyone at work who I feel comfortable opening up to. I worry that it might backfire and make things worse. Plus, I feel like I should be able to handle this on my own—after all, I was chosen for this role, so I should be able to figure it out. But it’s just so hard, and I don’t know how to break out of this cycle of self-doubt and anxiety.",
+    "therapist": "I can really understand how difficult it is to feel like you’re on your own with these challenges, and the fear of opening up can be very real. It’s natural to feel a sense of self-doubt when you’re in a new and demanding role, but it’s important to remember that everyone, no matter how capable, faces moments like these. What do you think might be some small steps you could take to start addressing this self-doubt, even if it’s just a tiny change or a different way of looking at the situation?",
     "condition": "emotion_text_only",
-    "val_t": -0.01973593235015869,
-    "aro_t": 0.17292582988739014,
-    "text_emotion": "Tense"
+    "val_t": -0.2381453514099121,
+    "aro_t": 0.15861451625823975,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that you understand how tough this is for me. Shifting my focus sounds good in theory, but it's hard because the negative thoughts just feel so real and persistent. I'm not sure where to start, to be honest. It feels like a big leap from where I am now.",
-    "therapist": "I completely understand how real and persistent those negative thoughts can feel, and it's okay to acknowledge that shifting your focus is a big challenge. Starting small can often be more manageable—maybe try setting aside a few minutes each day to reflect on one positive thing, no matter how small, or one thing you learned. How does that sound?",
+    "client": "I hear what you’re saying, but it’s hard to see a way forward when I feel so stuck. I guess a small step might be to write down one thing each day that I did well or that I’m proud of, but I’m not sure if that will make much of a difference. It feels like the self-doubt is so ingrained that it’s hard to break out of it.",
+    "therapist": "I understand how stuck you’re feeling, and it’s completely normal to doubt whether small steps will make a difference when you’re in the thick of it. Starting with something like writing down one thing each day that you’re proud of can be a gentle way to begin shifting your perspective, even if it feels small at first. What do you think might help you stay motivated to keep up with this practice, or is there another small step you might consider alongside it?",
     "condition": "emotion_text_only",
-    "val_t": -0.005459427833557129,
-    "aro_t": 0.16683900356292725,
-    "text_emotion": "Tense"
+    "val_t": -0.29084599018096924,
+    "aro_t": 0.08531033992767334,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I appreciate the suggestion, but it's hard because even finding one positive thing can feel like a monumental task on my bad days. I worry that I might just end up feeling more frustrated or guilty if I can't come up with anything.",
-    "therapist": "I understand that even the smallest tasks can feel monumental when you're feeling this way, and it's natural to worry about adding more frustration or guilt. It's okay to start with something incredibly simple, like noticing a moment of peace or a small act of kindness. What do you think might be a tiny step you could take to start acknowledging these moments, even if they feel insignificant at first?",
+    "client": "I appreciate the suggestion, but it’s hard to stay motivated when I feel like I’m failing so much. Maybe if I could find a way to remind myself of my past successes, it might help. But it’s tough because the current pressures are so overwhelming, and it’s hard to see the good when everything feels so negative.",
+    "therapist": "It’s completely understandable to struggle with motivation when you feel like you’re facing so much pressure and negativity. Reminding yourself of your past successes can be a powerful tool to help shift your mindset, even if it feels challenging right now. Maybe you could start by writing down a few of your past achievements, no matter how small, to have a physical reminder of your capabilities. How do you think you could make this a regular part of your routine, even when the current pressures feel overwhelming?",
     "condition": "emotion_text_only",
-    "val_t": -0.25838756561279297,
-    "aro_t": 0.13173282146453857,
+    "val_t": -0.11922287940979004,
+    "aro_t": 0.10592019557952881,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It does feel overwhelming to even think about adding more to my plate. Noticing a moment of peace sounds nice, but I worry that it might be hard to find those moments when I'm constantly feeling anxious and guilty. How do I even start looking for them?",
-    "therapist": "I understand that it can feel daunting to add even one more thing to your plate, especially when you're already feeling anxious and guilty. Starting with something as simple as taking a deep breath and noticing how it feels can be a gentle way to begin. Even a brief moment of calm can be a start. What do you think about setting a reminder on your phone for a specific time each day to pause and take a few deep breaths?",
+    "client": "I like the idea of writing down my past achievements, but it feels hard to do when I’m so focused on what’s going wrong right now. I think it might help to set aside a specific time each day to do this, maybe in the morning before I start my workday, so I can set a more positive tone. But I’m still worried that it won’t be enough to overcome the overwhelming feelings I have.",
+    "therapist": "It’s great that you’re considering setting aside a specific time to focus on your achievements, especially in the morning to start your day on a more positive note. It’s a good strategy to counterbalance the overwhelming feelings you’re experiencing. It’s natural to have doubts about whether it will be enough, but giving it a try and seeing how it affects your mood over time can be a valuable experiment. What do you think might help you stay committed to this practice, even on the days when it feels especially tough?",
     "condition": "emotion_text_only",
-    "val_t": -0.14106786251068115,
-    "aro_t": 0.17084848880767822,
+    "val_t": -0.12850773334503174,
+    "aro_t": 0.16755592823028564,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea, but it's hard for me to see how just taking deep breaths will make a difference. I feel like there's so much more to my anxiety and guilt, and I worry that it won't really help. Plus, I'm already struggling to keep up with everything else; adding another thing, even if it's just a reminder, feels overwhelming.",
-    "therapist": "I completely understand how you feel, and it's totally valid to be skeptical about whether something as simple as deep breathing will make a difference when you're dealing with so much. It's important to find strategies that feel manageable and meaningful to you. What do you think might be a small, low-stress way to start addressing your anxiety and guilt, even if it doesn't feel like a big solution?",
+    "client": "I think having a specific time set aside will help, but I’m worried about maintaining it when I’m feeling really low or overwhelmed. Maybe if I can find a way to make it a bit more enjoyable, like having a cup of tea while I write, it might be easier to stick with. But I still have doubts about whether it will make a significant difference in how I feel.",
+    "therapist": "It’s a thoughtful approach to make the practice more enjoyable, like having a cup of tea while you write. Small comforts like that can make a big difference in sticking with new habits, especially when you’re feeling low. It’s normal to have doubts, but giving it a try and seeing the gradual impact can be really insightful. How do you think you might reflect on your progress after a week or two to see if it’s making a difference, even if it’s a small one?",
     "condition": "emotion_text_only",
-    "val_t": -0.07955265045166016,
-    "aro_t": 0.22019922733306885,
-    "text_emotion": "Tense"
+    "val_t": -0.01865684986114502,
+    "aro_t": 0.09294009208679199,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I appreciate you understanding my skepticism. It's just hard to imagine something like deep breathing making a real difference when I feel so overwhelmed. Maybe I could try something really small, like taking a few deep breaths when I start to feel anxious, but I'm not sure it will help much. What if it doesn't work and I just feel more frustrated?",
-    "therapist": "I understand your concerns, and it's totally normal to feel skeptical about whether small steps will make a difference. Trying something like taking a few deep breaths when you start to feel anxious can be a gentle way to begin, even if it feels small. The goal is to give yourself a moment of pause and a sense of control, which can sometimes help ease the intensity of the anxiety. What do you think about giving it a try and seeing how it feels, without putting too much pressure on it to \"work\"?",
+    "client": "I think I could reflect on my progress by looking back at what I’ve written and seeing if there are any patterns or positive shifts in my thoughts. But I’m still a bit skeptical about whether it will really make a difference. I guess I’ll give it a try and see where it takes me.",
+    "therapist": "That’s a great plan to reflect on your progress by looking back at what you’ve written. It can be really helpful to see any patterns or positive shifts, even if they’re small. It’s completely normal to feel a bit skeptical, but giving it a try and seeing where it takes you is a positive step. How do you think you might handle the days when you feel particularly skeptical or discouraged about the process?",
     "condition": "emotion_text_only",
-    "val_t": -0.16805791854858398,
-    "aro_t": 0.19810640811920166,
-    "text_emotion": "Angry"
+    "val_t": -0.025443077087402344,
+    "aro_t": 0.04257941246032715,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate your understanding, and I do see the logic in taking small steps. But I worry that something as simple as deep breathing won't really make a dent in my anxiety. It's hard because my mind tends to spiral so quickly, and I'm not sure a few breaths will be enough to stop that.",
-    "therapist": "I understand your concerns, and it's completely valid to feel that way when your mind tends to spiral quickly. Deep breathing might not solve everything, but it can sometimes provide a momentary anchor to help you regain a bit of calm. It's about finding small tools that can give you a sense of control. What do you think about also trying to identify a supportive person or activity that can help you when you start to feel overwhelmed?",
+    "client": "I think on those skeptical days, I might need to remind myself why I started this in the first place and how important it is for me to feel better. But it’s also hard because the self-doubt can be so paralyzing. I’ll try to be gentle with myself and not beat myself up if I miss a day or two.",
+    "therapist": "It’s really insightful of you to recognize the importance of being gentle with yourself, especially on those tough days. Reminding yourself of your reasons for wanting to feel better can be a powerful motivator. It’s okay to miss a day or two; the key is to keep coming back to the practice without judgment. How do you think you might celebrate small victories or moments of progress to keep yourself motivated, even when the self-doubt feels strong?",
     "condition": "emotion_text_only",
-    "val_t": -0.07008373737335205,
-    "aro_t": 0.12484622001647949,
-    "text_emotion": "Neutral"
+    "val_t": -0.1686842441558838,
+    "aro_t": 0.07357382774353027,
+    "text_emotion": "Angry"
   }
 ]

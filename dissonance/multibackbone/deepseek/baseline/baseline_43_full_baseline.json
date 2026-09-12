@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling with my new project manager role lately. After missing that big deadline last week, I can't stop replaying everything that went wrong in my head. I feel like I'm drowning in responsibilities and like I'm failing at this job before I've even really started.",
-    "therapist": "It sounds like this missed deadline has been weighing heavily on you, and I hear how overwhelmed you're feeling stepping into this new role. When you replay what went wrong, what specific thoughts tend to come up for you about your performance?",
+    "client": "I’ve been feeling really overwhelmed since I started this new project manager role. Last week, we missed a major deadline, and I can’t stop thinking about how it was my responsibility. I’m worried I’m not cut out for this job, and I’m not sure if talking about it will actually help me handle the pressure better.",
+    "therapist": "It sounds like this missed deadline has been weighing heavily on you, and it’s understandable to feel overwhelmed in a new role where expectations feel high. What thoughts come up when you reflect on the situation—do you feel like this one event defines your ability to succeed in this role?",
     "condition": "baseline",
-    "val_t": -0.40143144130706787,
-    "aro_t": 0.1635967493057251,
-    "text_emotion": "Sad"
+    "val_t": -0.2203446626663208,
+    "aro_t": 0.23791444301605225,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking I should have managed my time better and been more organized. I feel like I let my team down, and now they’ll see me as unreliable or incapable. It’s hard to shake the thought that I’m not cut out for this role, even though I know logically that everyone makes mistakes sometimes.",
-    "therapist": "I can hear how much you care about doing well in this role and supporting your team. It's understandable to feel this way after a setback, but I wonder what evidence you have that your team sees you as unreliable?",
+    "client": "I keep telling myself that I’m not good enough for this job because of the missed deadline. It feels like one mistake is all it takes to prove I’m not capable. I know logically that everyone makes mistakes, but it’s hard to shake the feeling that I’m just not cut out for this level of responsibility.",
+    "therapist": "It sounds like your mind is jumping to the conclusion that this one mistake defines your entire ability, which can feel really discouraging. Let’s explore that thought—what evidence do you have that supports or challenges the idea that you’re not cut out for this role?",
     "condition": "baseline",
-    "val_t": -0.23827660083770752,
-    "aro_t": 0.09158122539520264,
-    "text_emotion": "Sad"
+    "val_t": -0.2595280408859253,
+    "aro_t": 0.11018133163452148,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess my team hasn't actually said anything negative about me...but I can just tell they're disappointed. When I messed up that project last week, I noticed people stopped asking for my input as much. It's like they don't trust me anymore even if they're not saying it outright. \n\nI know you're trying to help me see this differently, but it's hard when I feel like I've let everyone down. The evidence might not be obvious, but the tension in meetings feels real to me.",
-    "therapist": "You're noticing subtle shifts in team dynamics that feel meaningful to you, and that sense of tension is understandably distressing. I wonder if we could explore what other interpretations might exist for why people might be asking for less input right now?",
+    "client": "I guess the evidence against that thought is that I’ve handled smaller projects successfully before this, and my team seems to trust me. But I still feel like this mistake overshadows all of that because it was such a big deal. It’s hard to focus on the positives when I’m so worried about failing again.",
+    "therapist": "It’s great that you’re able to recognize your past successes and the trust your team has in you—those are important pieces of evidence that challenge the belief you’re not capable. It sounds like the fear of failing again is making it hard to see the bigger picture—what would it feel like to focus on what you’ve learned from this experience rather than letting it define you?",
     "condition": "baseline",
-    "val_t": -0.3362492322921753,
-    "aro_t": 0.1400665044784546,
-    "text_emotion": "Angry"
+    "val_t": -0.2953941822052002,
+    "aro_t": 0.12181448936462402,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I don't know... it's hard to imagine other explanations when it feels so personal. Every time I suggest something in meetings now, there's this awkward silence before someone moves the conversation along. It makes me think they've decided my ideas aren't valuable anymore. \n\nBut I guess I'm open to hearing what other interpretations you think might be possible. It's just that when I'm in those moments, my mind immediately goes to the worst case scenario.",
-    "therapist": "It sounds like those moments of silence feel particularly painful when you're already doubting yourself. Could we consider that the team might be giving space for your ideas to land rather than dismissing them? What might change if you viewed those pauses differently?",
+    "client": "Focusing on what I’ve learned feels a little easier than just beating myself up, but I’m still scared I’ll make the same mistake again. It’s hard to trust myself when I feel like I let everyone down. I guess I learned that I need to delegate better, but I’m not sure if that’s enough to prevent another failure.",
+    "therapist": "It’s understandable to feel scared about repeating the same mistake, especially when it feels like others were let down—it shows how much you care about your work. Recognizing the need to delegate better is a great step toward growth, and it’s okay if it feels like small progress right now—what might it look like to take one small, manageable step toward improving delegation in the future?",
     "condition": "baseline",
-    "val_t": -0.08178126811981201,
-    "aro_t": 0.03500640392303467,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I don't know... when the room goes quiet after I speak, it just feels like confirmation that my ideas aren't good enough. Even if they're just pausing to think, in that moment all I can focus on is how exposed and stupid I feel. \n\nThe logical part of me knows you might be right, but the anxiety is so loud in those moments that it's hard to consider other interpretations. What if they really are judging me and I'm just fooling myself?",
-    "therapist": "That anxiety in the moment must feel so overwhelming, making it hard to access those more balanced thoughts. What would it be like to notice that pause without immediately attaching meaning to it - just observing it as a neutral moment in the conversation?",
-    "condition": "baseline",
-    "val_t": -0.36267292499542236,
-    "aro_t": 0.2448723316192627,
+    "val_t": -0.127707839012146,
+    "aro_t": 0.11642873287200928,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I get what you're saying about observing the pause neutrally, but when I'm in that moment, it's like my brain immediately jumps to \"they think I'm weird\" or \"I messed up.\" It's not just a pause to me - it feels like proof that I'm awkward or saying the wrong thing. \n\nI've tried noticing my thoughts before, but the anxiety just crashes in so fast. It's like trying to stop a speeding train once it's already moving.",
-    "therapist": "I hear how automatic and overwhelming that anxious response feels in the moment - it's like your brain has already decided what the pause means before you can even consider other possibilities. What would happen if you practiced noticing that initial anxious thought without necessarily believing it, just acknowledging it as one possible interpretation among many?",
+    "turn": 5,
+    "client": "I guess I could start by identifying tasks that I don’t need to handle myself and assigning them to others. But I’m worried that if I delegate more, I’ll still feel responsible if something goes wrong. It’s hard to trust others to do things as well as I would, and I’m not sure how to let go of that control.",
+    "therapist": "It sounds like delegating brings up a lot of concerns for you, especially around losing control and still feeling responsible—that’s a common struggle when stepping into a leadership role. It might help to explore what it would feel like to trust others gradually, starting with smaller tasks—how would it feel to take that first step and see how it goes?",
     "condition": "baseline",
-    "val_t": -0.18285751342773438,
-    "aro_t": 0.23565804958343506,
+    "val_t": -0.17932260036468506,
+    "aro_t": 0.013550400733947754,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "Starting with smaller tasks feels a bit less overwhelming, but I’m still nervous about giving up control. What if I delegate something and it doesn’t get done right? I feel like I’ll be judged for not handling everything myself, even though I know I can’t do it all. It’s hard to let go of that fear.",
+    "therapist": "It sounds like the fear of judgment and things not being done \"right\" is making it hard to let go of control, even though you know you can’t do everything yourself. It’s okay to feel nervous about this—it’s a big shift—but what might it feel like to frame delegation as a way to empower your team rather than a loss of control?",
+    "condition": "baseline",
+    "val_t": -0.24792897701263428,
+    "aro_t": 0.14876794815063477,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about not believing every anxious thought, but in the moment it feels impossible to step back like that. My heart starts racing and it's like my brain just latches onto the worst-case scenario immediately. Even when I try to question it later, the anxious feeling sticks with me. \n\nIt's frustrating because logically I know I'm probably overreacting, but my body reacts like it's a real emergency every time. I've tried taking deep breaths before, but it doesn't really help when the thoughts are already spiraling.",
-    "therapist": "It makes complete sense that these physical reactions make it harder to challenge those anxious thoughts in the moment - your body is responding as if there's real danger. What if we explored some small ways to help your nervous system settle first, before trying to work with the thoughts?",
+    "client": "Framing delegation as empowering my team feels like a better way to look at it, but I’m still worried they’ll see me as shirking responsibility. I guess I need to trust that they’ll handle things well, but it’s hard to let go of the idea that I need to be in control of everything to prove I’m good at my job. It feels like a lot of pressure to get this right.",
+    "therapist": "It sounds like there’s a lot of pressure on you to prove yourself, and it’s understandable that letting go of control feels risky when you’re still settling into this role. What might it feel like to reframe delegation as a sign of leadership and trust in your team, rather than shirking responsibility?",
     "condition": "baseline",
-    "val_t": -0.21190834045410156,
-    "aro_t": 0.2579694986343384,
+    "val_t": -0.11938726902008057,
+    "aro_t": 0.14911746978759766,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about calming my body first, but when the anxiety hits, it feels impossible to do anything except panic. Even taking deep breaths seems too hard when my heart is racing and my hands are shaking. I've tried those techniques before and they never seem to help in the moment.",
-    "therapist": "I hear how overwhelming those physical symptoms feel when they hit, making even simple techniques seem impossible. What if we explored some even smaller, more accessible ways to ground yourself - maybe just noticing your feet on the floor or the chair beneath you when anxiety starts rising?",
+    "client": "Reframing delegation as leadership and trust feels like a better way to think about it, but I’m still worried my team will see me as lazy or incompetent if I’m not doing everything myself. It’s hard to shake the idea that I need to prove I’m capable by handling it all, even though I know it’s not sustainable. I guess I’m just scared of letting people down again.",
+    "therapist": "It sounds like your fear of being seen as lazy or incompetent is really tied to wanting to prove yourself and avoid letting people down—it’s understandable to feel that way after a tough experience. What might it feel like to explore how your team members view delegation—do you think they might see it as a sign of trust and leadership, rather than laziness?",
     "condition": "baseline",
-    "val_t": -0.14222300052642822,
-    "aro_t": 0.25282156467437744,
-    "text_emotion": "Angry"
+    "val_t": -0.23191595077514648,
+    "aro_t": 0.06116533279418945,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about small grounding techniques, but when my anxiety spikes, even focusing on my feet feels impossible. My mind just races too fast to notice anything physical. And honestly, sometimes trying to ground myself makes me more frustrated when it doesn't work right away.",
-    "therapist": "It sounds like trying to force grounding techniques when you're already overwhelmed sometimes adds to your frustration rather than helping. I wonder if we could explore what happens if you simply acknowledge the anxiety is there without trying to change it immediately?",
+    "client": "I think my team might actually appreciate being trusted with more responsibility, but I’m still worried they’ll see me as not pulling my weight. It’s hard to shift my mindset when I’ve always felt like I need to do everything myself to prove I’m capable. I guess I’m scared that if I delegate, I’ll lose their respect or they’ll think I’m not working hard enough.",
+    "therapist": "It sounds like you’re starting to see the potential benefits of delegation for your team, but the fear of losing their respect or being seen as not working hard enough is still holding you back. What might it feel like to test this belief gradually—perhaps by delegating a small task and noticing how your team responds?",
     "condition": "baseline",
-    "val_t": -0.2671394348144531,
-    "aro_t": 0.28151607513427734,
+    "val_t": -0.19921541213989258,
+    "aro_t": 0.09236419200897217,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I feel a mix of relief and hesitation—like maybe the therapist gets it, but I'm not sure I can handle sitting with the discomfort. If they suggest just noticing the anxiety without trying to change it, I might question whether that's even possible for me right now.  \n\n*(If the therapist offers a specific exercise, I can express doubts like, \"That sounds really hard—what if it makes things worse before it gets better?\")*  \n\n*(If they push too hard, I might shut down and say, \"I don't think I can do this right now.\")*  \n\nImportant:  \n- Keep this within the same assigned life problem scenario.  \n- Don't switch to a new major issue.",
-    "therapist": "I hear that uncertainty about whether you can tolerate sitting with the discomfort - that hesitation makes complete sense when anxiety feels so overwhelming. What if we started by simply naming what you're feeling in those moments, without any pressure to change it? Like quietly saying to yourself \"this is anxiety\" when you notice it rising?",
+    "client": "Testing this belief gradually feels a bit less scary than jumping into delegating everything, but I’m still nervous about how they’ll react. What if they see me as pushing work onto them or not being capable? I guess I could try delegating a small task, but it’s hard to shake the worry that they’ll think less of me for it.",
+    "therapist": "It’s completely understandable to feel nervous about how your team might react, especially when this is such a new approach for you—it’s okay to take small steps and see how it goes. What might it feel like to communicate openly with your team about why you’re delegating, framing it as a way to empower them rather than push work onto them?",
     "condition": "baseline",
-    "val_t": -0.15301048755645752,
-    "aro_t": 0.11902284622192383,
+    "val_t": -0.1924072504043579,
+    "aro_t": 0.09329962730407715,
     "text_emotion": "Angry"
   }
 ]

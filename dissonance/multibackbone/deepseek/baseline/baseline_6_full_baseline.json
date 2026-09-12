@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed about work lately. After my team missed that big deadline last week, I can't stop worrying that I'm failing as a project manager. I know therapy is supposed to help with stress, but I'm not sure how talking about it will change the actual workload I'm dealing with.",
-    "therapist": "It sounds like missing that deadline has left you feeling overwhelmed and questioning your abilities, which is completely understandable given the situation. While therapy might not reduce your workload directly, it can help us explore how you're interpreting these events and develop strategies to manage stress more effectively. What thoughts tend to come up when you start worrying about failing as a project manager?",
+    "client": "Lately, I’ve been feeling completely overwhelmed at work. My team missed a major deadline last week, and now I’m drowning in catch-up tasks while trying to manage new projects. I’m not sure if therapy can really help with this—it feels like the problem is just the job itself, and I don’t know how to fix that.",
+    "therapist": "It sounds like you're carrying a heavy load right now, and that missed deadline has really piled on the pressure. While the situation at work is challenging, therapy can help you explore how to manage these overwhelming feelings and thoughts in a way that feels more manageable for you. What goes through your mind when you think about tackling these work demands?",
     "condition": "baseline",
-    "val_t": -0.30948638916015625,
-    "aro_t": 0.14072954654693604,
+    "val_t": -0.29881536960601807,
+    "aro_t": 0.18844056129455566,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking \"I'm not cut out for this role\" and \"everyone will realize I'm incompetent.\" It's like my mind jumps to worst-case scenarios even though I've handled tough projects before. The more I try to push these thoughts away, the louder they get. \n\nI'm skeptical about strategies though - when I'm in panic mode, all the breathing exercises and positive thinking just feel like putting a bandaid on a broken leg. The real problem is that I actually might fail, you know?",
-    "therapist": "I hear how real and persistent these self-doubts feel for you, especially when they're shouting over your past successes. It makes sense that simple coping strategies feel inadequate when you're facing what feels like a genuine threat to your competence. \n\nRather than trying to push these thoughts away or force positivity, what if we explored what these worst-case scenarios might be trying to tell us about what matters most to you in your work?",
+    "client": "When I think about all the work piling up, my chest gets tight and I start imagining worst-case scenarios—getting fired, disappointing my boss, letting my team down again. I know I should just focus on one task at a time, but that seems impossible when everything feels equally urgent.",
+    "therapist": "That physical tension and spiral of negative thoughts must feel incredibly stressful to experience. When those worst-case scenarios pop up, do you notice any patterns in which thoughts tend to amplify your anxiety the most?",
     "condition": "baseline",
-    "val_t": -0.2846468687057495,
-    "aro_t": 0.21754801273345947,
+    "val_t": -0.31981348991394043,
+    "aro_t": 0.19354677200317383,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess my worst-case scenario is that I'll completely fail at my job and everyone will realize I'm not as capable as they thought. But I don't know what that's supposed to tell me - I already know doing good work matters to me. That's why the anxiety is so intense. \n\nWhen you suggest exploring what these thoughts mean, it just makes me more anxious because it feels like there's some hidden truth I'm missing. I'm not sure this approach will help.",
-    "therapist": "I can see how this exploration might feel like it's adding another layer of pressure rather than helping, and I appreciate you sharing that with me. Your anxiety makes complete sense - when something matters deeply to us, our minds naturally try to protect us by sounding alarms about potential threats. \n\nRather than searching for hidden meanings, would it feel more helpful if we looked at how these anxious thoughts might actually be affecting your performance at work?",
+    "client": "It's always the thought about getting fired that really sends me over the edge. I keep picturing myself packing up my desk while everyone watches, and then I'll never find another good job again. Even though rationally I know my performance reviews have always been good, this fear feels so real in the moment.",
+    "therapist": "That vivid image of packing up your desk sounds like it carries so much emotional weight for you, even though your performance reviews tell a different story. I'm curious—when that fear feels most real, what helps you reconnect with the evidence that you're actually a valued employee?",
     "condition": "baseline",
-    "val_t": -0.3143918514251709,
-    "aro_t": 0.22483861446380615,
+    "val_t": -0.30748116970062256,
+    "aro_t": 0.25029563903808594,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying about the anxiety affecting my work, but I don't know if focusing on that will help. When I'm in meetings, my mind just goes blank and I panic about saying something stupid. It's like my brain shuts down completely, and then I feel even worse afterward because I didn't contribute. \n\nI guess I'm worried that analyzing this will just make me more self-conscious at work. Isn't that going to make the problem worse?",
-    "therapist": "It sounds like you're caught in a cycle where the fear of underperforming actually creates the very situation you're worried about, which then reinforces those initial fears. That must feel incredibly frustrating when you're already putting so much pressure on yourself to do well.  \n\nInstead of analyzing in the moment, would you be open to exploring some small experiments we could try to gently test whether these feared outcomes actually happen when you contribute differently?",
+    "client": "When I'm in that panicked state, it's hard to focus on anything positive, but sometimes I try to remind myself of the positive feedback I've gotten in the past. Still, it feels like those compliments don't count as much as the mistakes I'm making now. It's like my brain dismisses the good stuff and amplifies the bad.",
+    "therapist": "That sounds like your mind has developed a strong habit of discounting the positives while magnifying the negatives—a very common pattern when we're stressed. What would it feel like if you could hold both truths at once: that you've made mistakes recently AND that you have a history of good performance?",
     "condition": "baseline",
-    "val_t": -0.37381935119628906,
-    "aro_t": 0.16560637950897217,
+    "val_t": -0.155867338180542,
+    "aro_t": 0.1463611125946045,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about the cycle, but I don't know if \"small experiments\" would help. Every time I try to contribute less at work, I immediately panic that people will notice and think I'm slacking off. It's not just about outcomes - the anxiety itself is unbearable in the moment. \n\nWhat if I try to hold back and then someone actually does call me out on it? That would confirm all my worst fears.",
-    "therapist": "I hear how deeply unsettling this anxiety feels in the moment, and how even the idea of experimenting with small changes brings up fears of being \"caught\" underperforming. That immediate physical panic response makes it feel impossible to try anything different, even when logically you know the current approach isn't working.  \n\nRather than focusing on changing your work behaviors right away, would it feel safer to first explore what happens if we simply observe these anxious moments with curiosity when they arise?",
+    "client": "Honestly, holding both truths sounds exhausting rather than comforting. I get what you're saying, but it feels like trying to balance scales that are already tipped—the mistakes just weigh so much heavier in my mind. I can acknowledge that I have strengths, but they don't seem to cancel out the anxiety about my current situation.",
+    "therapist": "It sounds like this balancing act feels more like an added burden than a helpful perspective right now, especially when the weight of your mistakes feels so heavy. Perhaps instead of trying to balance everything equally, we could explore how to acknowledge those mistakes while also creating space for self-compassion and practical steps forward. What would feel most supportive to you in this moment?",
     "condition": "baseline",
-    "val_t": -0.29658424854278564,
-    "aro_t": 0.21979165077209473,
-    "text_emotion": "Angry"
+    "val_t": -0.030208110809326172,
+    "aro_t": 0.166770339012146,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about observing the anxiety, but I don't know if that'll help. When the panic hits, it's like my brain short-circuits - I can't just step back and watch it happen. It feels too overwhelming in the moment to be \"curious\" about it. \n\nPart of me worries that if I don't immediately fight the anxiety, it'll just take over completely. Like observing it would be giving it permission to stay.",
-    "therapist": "It makes complete sense that observing the anxiety feels impossible when it's at its peak - that overwhelming intensity is exactly what makes it so hard to work with in the moment. Your mind is understandably trying to protect you by fighting it, even though that struggle often feeds the cycle.  \n\nWhat if we practiced observing the *aftermath* of these anxious episodes first, when the intensity has subsided a bit, to build that skill when you're not in crisis mode?",
+    "client": "I guess what would help most is figuring out how to stop feeling paralyzed by the fear of messing up again. But every time I try to be kinder to myself about mistakes, it just feels like I'm making excuses. Like I'm saying \"it's okay\" when really, it's not okay that deadlines are being missed—that's a serious problem.",
+    "therapist": "You're absolutely right that missed deadlines matter, and I hear you don't want to dismiss that reality—but I wonder if there's space between beating yourself up and making excuses. Could we explore how to hold yourself accountable while still maintaining enough emotional balance to actually solve the problems? What would that middle ground look like for you?",
     "condition": "baseline",
-    "val_t": -0.16786563396453857,
-    "aro_t": 0.23931491374969482,
+    "val_t": -0.24758291244506836,
+    "aro_t": 0.14493858814239502,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying about practicing after the anxiety passes, but I'm not sure it'll help in the moment when I really need it. The worst part is when I'm in the middle of a panic attack and feel completely out of control - looking back later doesn't seem as useful. Plus, when I'm not anxious, I just want to forget about those feelings, not revisit them.",
-    "therapist": "I hear how the immediate overwhelm feels like the real challenge, and how revisiting those feelings afterward might bring up resistance when you'd rather move on. That makes perfect sense - our natural instinct is to avoid what feels painful.  \n\nWould you be willing to explore what happens if we approach these reflections not as reliving the anxiety, but as gathering information about what helps you regain that sense of control when it matters most?",
+    "client": "That middle ground is hard to picture. When I try, it's like I either have to be the perfect employee who never slips up, or I'm failing completely. Maybe the middle would be acknowledging I messed up while still believing I can do better, but that feels dangerously close to making excuses again. I don't trust myself to find the right balance.",
+    "therapist": "It sounds like you're wrestling with two extremes—perfection or failure—and that middle path feels risky and unfamiliar. I hear your concern that self-compassion might slip into excuses, but what if we viewed it instead as giving yourself the emotional space to learn from mistakes rather than being crushed by them? How does that distinction land for you?",
     "condition": "baseline",
-    "val_t": -0.21657466888427734,
-    "aro_t": 0.16224777698516846,
-    "text_emotion": "Angry"
+    "val_t": -0.2886078357696533,
+    "aro_t": 0.08402729034423828,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about gathering information instead of reliving the anxiety, but honestly even that sounds exhausting. When I'm already drained from an anxious episode, the last thing I want to do is pick it apart. It feels like poking at a bruise. \n\nI do want to feel more in control though. Maybe if we could find a way to do this that doesn't make me feel worse afterward? I'm just worried it'll send me spiraling again.",
-    "therapist": "It sounds like you're looking for approaches that feel supportive rather than retraumatizing, and that honor your need for recovery after these draining episodes. That self-awareness about what you can handle is actually a really important protective skill.  \n\nWhat if we started by simply noticing one small physical sensation that helps you feel grounded when the anxiety begins to ease, without diving into analysis at all?",
+    "client": "That distinction does make some sense intellectually, but emotionally it still feels too soft. At work, nobody cares about my \"emotional space\"—they just want results. I worry that if I go easier on myself mentally, I'll become complacent and start missing even more deadlines. It's like I need the fear to keep me sharp.",
+    "therapist": "That fear has clearly been serving as your motivation, and I hear how important results are in your workplace. I wonder if we could explore how this fear-based approach is working for you—is the constant pressure actually helping you perform better, or might it be making it harder to focus and problem-solve effectively?",
     "condition": "baseline",
-    "val_t": -0.26483261585235596,
-    "aro_t": 0.1882098913192749,
-    "text_emotion": "Angry"
+    "val_t": -0.24010074138641357,
+    "aro_t": 0.024952173233032227,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I like the idea of focusing on small physical sensations, but I'm not sure I'll be able to notice anything when I'm in that panicked state. My mind just races so fast during those moments that even trying to focus on my body feels impossible. \n\nAlso, I worry that if I try this and fail, it'll just make me feel worse about myself for not being able to do something that seems so simple. That happens to me a lot with coping strategies - they work for other people but not for me.",
-    "therapist": "It makes complete sense that trying to focus inward during panic feels impossible when your mind is racing, and that past experiences with strategies failing have left you understandably hesitant. That self-protective skepticism is actually valuable information about what hasn't worked for you before.  \n\nRather than expecting yourself to notice sensations during full-blown panic, what if we practiced this at a time when you're only mildly anxious, where the stakes feel lower and success might feel more possible?",
+    "client": "That's a good question...and honestly, I think the fear is making things worse. When I'm panicked, I waste so much time second-guessing myself and jumping between tasks without finishing anything. But if I let go of that fear, I'm terrified I'll become lazy instead of productive. It feels like I'm stuck between two bad options.",
+    "therapist": "You've described this painful catch-22 so clearly—where fear paralyzes you but letting go of fear feels dangerous too. That tells me you're actually very attuned to your work ethic, even in this struggle. What would it look like to experiment with a third option: keeping your strong work ethic while dialing down just enough fear to think more clearly?",
     "condition": "baseline",
-    "val_t": -0.20568358898162842,
-    "aro_t": 0.11828756332397461,
+    "val_t": -0.384731650352478,
+    "aro_t": 0.2346632480621338,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I guess that makes sense in theory, but even when I'm just mildly anxious, my mind still jumps to worst-case scenarios. It's like my brain won't let me focus on anything except what could go wrong. I've tried breathing exercises before when I was only a little anxious, and it just made me more aware of how fast my heart was beating.",
-    "therapist": "It sounds like even mild anxiety quickly pulls your attention toward catastrophic thinking, and that focusing on your body sometimes amplifies rather than soothes the discomfort. That's actually really common when we try to force relaxation before we've built enough trust in the process.  \n\nWhat if instead of trying to change or control these sensations, we simply practiced noticing when your attention gets pulled toward worry, without judging whether that's good or bad?",
+    "client": "I don't know if I can just \"dial down\" the fear on command—it's not like a volume knob I can adjust. The idea makes sense, but when I try to be less anxious, I just end up anxious about not being anxious enough. It feels like trying to relax while walking a tightrope.",
+    "therapist": "You've perfectly captured how trying to force yourself to feel less anxious often just creates more anxiety—it's like trying to smooth out ripples in water by pressing down harder. Instead of trying to control the fear directly, what if we explored small ways to build your confidence in handling work challenges, so the fear might naturally have less power over time?",
     "condition": "baseline",
-    "val_t": -0.09105634689331055,
-    "aro_t": 0.23240280151367188,
-    "text_emotion": "Tense"
+    "val_t": -0.14097166061401367,
+    "aro_t": 0.09573984146118164,
+    "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately with the pressure of my final exams coming up next month. I keep thinking about how I've been struggling in my statistics class, and it's just making my anxiety worse. Honestly, I'm not even sure if talking about this in therapy will really help me manage all this stress.",
-    "therapist": "It's completely understandable to feel overwhelmed with the pressure of final exams, especially when you're struggling in a challenging class like statistics. Your feelings of anxiety are valid, and talking about them here can help you find ways to manage that stress. What specific thoughts about your statistics class do you find most troubling, and how do they affect your feelings?",
+    "client": "I've been feeling really overwhelmed lately with the pressure of my final exams coming up next month. It's especially stressful because I've been struggling in my statistics class, and I can't shake this feeling that I might not do well. I keep wondering if therapy can actually help me manage this anxiety, or if I'm just wasting my time.",
+    "therapist": "It's completely understandable to feel overwhelmed with the pressure of exams, especially when you're struggling in a specific class. Your feelings of anxiety are valid, and it's important to recognize that therapy can be a helpful space to explore these thoughts and develop coping strategies. What specific thoughts about your statistics class are weighing heavily on your mind right now?",
     "condition": "baseline",
-    "val_t": -0.3554716110229492,
-    "aro_t": 0.26071882247924805,
+    "val_t": -0.360445499420166,
+    "aro_t": 0.24693703651428223,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I really struggle with the idea that I'm just not good at math, and statistics feels like a constant reminder of that. Every time I look at the material, I feel this wave of anxiety wash over me, like I'm just going to fail no matter how hard I try. It makes me feel hopeless and alone in this, like I can't talk to anyone about it because they wouldn't understand what I'm going through.",
-    "therapist": "It sounds like you're carrying a heavy burden with those thoughts about your abilities in math, and it's understandable to feel anxious and hopeless when faced with statistics. It’s important to remember that struggling with a subject doesn’t define your worth or potential. Have you considered exploring some of the thoughts around your math abilities and how they might be influencing your feelings and behaviors?",
+    "client": "I keep thinking that I'm just not smart enough to understand the material. It's frustrating because I try to study, but then I just end up feeling lost and anxious instead of making progress. I worry that my efforts won't be enough, and that makes me feel even more defeated. I don't know if talking about it will actually change anything.",
+    "therapist": "It sounds like you're really grappling with feelings of self-doubt and frustration, which can be incredibly disheartening. It’s important to recognize that struggling with material doesn’t define your intelligence or worth; many people face challenges in different subjects. What if we explored some specific thoughts you have about your studying efforts and how they might be influencing your feelings of defeat?",
     "condition": "baseline",
-    "val_t": -0.3733426332473755,
-    "aro_t": 0.23703217506408691,
+    "val_t": -0.3732212781906128,
+    "aro_t": 0.16134846210479736,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I appreciate you saying that struggling with math doesn’t define my worth, but it’s tough to believe that when I feel so overwhelmed by it. I often think that if I can’t grasp this subject, it means I’m just not cut out for certain things in life. Exploring my thoughts about my abilities sounds like a lot to unpack, and honestly, I’m not sure where to even start with that.",
-    "therapist": "I can see how overwhelming it feels to tie your self-worth to your understanding of math, and it’s completely normal to have those doubts when faced with challenges. Starting with one specific thought you have about your abilities might be a helpful first step. What’s one particular belief about yourself related to math that you’d like to explore together?",
+    "client": "I guess I just feel like I’m stuck in this cycle where no matter how much I study, I still don’t understand the concepts. It's hard to shake the feeling that I'm not putting in enough effort, even though I know I'm trying my best. Exploring my thoughts feels a bit daunting because what if I just keep concluding that I'm not good enough?",
+    "therapist": "It’s understandable to feel stuck in that cycle, especially when you’re putting in so much effort and still feeling frustrated. It's important to acknowledge that your feelings of inadequacy don't reflect the reality of your abilities or the hard work you're doing. What if we looked at some specific examples of your study efforts and how they’ve gone? It might help to identify any patterns or alternative ways of approaching the material. How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.030773401260375977,
-    "aro_t": 0.1772979497909546,
-    "text_emotion": "Tense"
+    "val_t": -0.17027366161346436,
+    "aro_t": 0.13792145252227783,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess one belief I have about myself is that I'm just not good at math, no matter how hard I try. It feels really frustrating because I see others grasp concepts easily, and I can't shake off the feeling that I’ll never measure up. Sometimes I think my worth is tied to my ability to succeed in math, and that just makes me feel even more anxious and defeated.",
-    "therapist": "It’s really important to acknowledge how frustrating it can be to feel like you’re not measuring up, especially when comparing yourself to others. Your belief that your worth is tied to your success in math is a heavy load to carry, and it’s understandable that this would lead to feelings of anxiety and defeat. Could we explore some evidence that might challenge this belief or consider other areas where you feel capable and valued?",
+    "client": "I guess it sounds okay to look at my study efforts, but I worry that I won’t find anything helpful. I feel like I’ve tried a lot of different methods, like watching videos and doing practice problems, but nothing seems to stick. I just don’t know if analyzing it more will really change anything or help me feel less anxious.",
+    "therapist": "I hear your hesitation and understand how frustrating it can feel when you've tried so many methods and still don’t see the results you want. It’s completely normal to wonder if analyzing your efforts will lead to any change, but sometimes even small shifts in perspective or approach can make a difference. What if we took a moment to reflect on the methods that felt the most challenging or unhelpful, and explore what specifically didn’t work for you? This could help us identify any adjustments that might make your studying feel more effective and less overwhelming. What do you think?",
     "condition": "baseline",
-    "val_t": -0.33069097995758057,
-    "aro_t": 0.16831183433532715,
-    "text_emotion": "Angry"
+    "val_t": -0.1773613691329956,
+    "aro_t": 0.029851794242858887,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, but it’s hard for me to see things differently. When I think about my worth, all I can see are my failures in math, and it feels like nothing else matters. I just don’t think I can find evidence to challenge that belief because it’s been such a big part of my life for so long.",
-    "therapist": "I can understand how deeply ingrained that belief feels, especially when it has been a significant part of your life for so long. It’s okay to find it difficult to see things differently right now; change takes time. What if we took a moment to reflect on some of your strengths or achievements in other areas of your life, even small ones, and see how they might help balance out those feelings about math?",
+    "client": "I guess I can try to reflect on what hasn't worked, but I still feel skeptical about whether it will really help. For instance, I tried studying with a group, but I felt more distracted and ended up not understanding anything. It’s hard to believe that just talking about what didn’t work will lead to any breakthroughs—it feels like I’m just going in circles.",
+    "therapist": "I appreciate your willingness to reflect on your experiences, even amidst your skepticism. It’s completely valid to feel like you’re going in circles, especially when a method like group studying didn’t meet your needs. Sometimes, by identifying what hasn’t worked, we can uncover what might work better for you. What if we brainstormed some alternative study strategies that align more with your learning style? What kind of environment or methods do you think might help you feel more focused and engaged?",
     "condition": "baseline",
-    "val_t": -0.15398097038269043,
-    "aro_t": 0.06396520137786865,
-    "text_emotion": "Angry"
+    "val_t": -0.1112666130065918,
+    "aro_t": 0.08206462860107422,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it's hard for me to think of my strengths when I feel so stuck with math. I often feel like I just fail at it, and even if I try to remember some small achievements, it just feels overshadowed by my anxiety around the subject. I don't really see how reflecting on those strengths could help me with this specific issue.",
-    "therapist": "It’s completely understandable to feel stuck when anxiety is so overwhelming, and I appreciate your honesty about how challenging it is to focus on your strengths right now. While it might not seem directly related, recognizing your successes in other areas can sometimes help shift your perspective and build resilience when facing difficulties. How about we take a small step together—could we think about a time when you faced a challenge outside of math and how you managed to overcome it?",
+    "client": "I appreciate you wanting to find alternatives, but I honestly have no idea what might work better for me. I usually study alone because I think it helps me focus, but I just end up feeling really isolated and anxious about the material. It’s hard to imagine trying something different when I’m already feeling so overwhelmed and unsure about my abilities.",
+    "therapist": "It sounds really difficult to feel both isolated and anxious while studying alone, especially when you're already overwhelmed. It's understandable to be hesitant about trying something new when you're feeling this way. What if we considered some small, manageable changes to your study routine that wouldn’t feel too daunting? For example, could we explore the idea of incorporating short breaks or brief check-ins with a friend, even if it's just to share how you're feeling? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.18694519996643066,
-    "aro_t": 0.1253676414489746,
+    "val_t": -0.2175734043121338,
+    "aro_t": 0.18615663051605225,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but honestly, it feels hard to think about any accomplishments right now. My mind is just flooded with anxiety about math, and I can't seem to focus on anything else. I mean, sure, I've faced challenges before, but it feels like everything I've done pales in comparison to the stress I'm dealing with now.",
-    "therapist": "It makes sense that your mind is focused on the immediate stress you're feeling about math; that kind of anxiety can be all-consuming. It’s okay to acknowledge that right now feels particularly heavy, and it’s tough to see beyond that. Would it be helpful to explore some small ways to manage that anxiety when it arises, or perhaps discuss what specific aspects of math feel most overwhelming to you?",
+    "client": "I guess I can see how short breaks might help, but I'm still not sure about checking in with a friend. It feels like I would just be burdening them with my worries, and I don't want to come off as weak or incompetent. Plus, what if they don’t understand what I'm going through? It’s hard to imagine that even small changes could really make a difference in how I feel about studying.",
+    "therapist": "It's really understandable to feel hesitant about reaching out to a friend, especially when you're worried about being a burden or not being understood. Your feelings of wanting to manage this on your own are valid, and it’s important to honor that. However, small changes, like taking breaks, can sometimes create space for new perspectives and help reduce feelings of overwhelm. What if we explored what reaching out could look like for you in a way that feels comfortable, such as sharing just a small part of what you’re experiencing? How does that resonate with you?",
     "condition": "baseline",
-    "val_t": -0.2756880521774292,
-    "aro_t": 0.2212533950805664,
-    "text_emotion": "Angry"
+    "val_t": -0.16289615631103516,
+    "aro_t": 0.060555100440979004,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I appreciate your understanding, but honestly, I feel so overwhelmed that I’m not sure where to even start. Math just feels like this monster that keeps growing bigger every time I try to tackle it. I guess I’m worried that even if we find a way to manage the anxiety, it won’t change the fact that I still struggle with the material itself.",
-    "therapist": "It’s completely valid to feel like the challenges of math are a growing monster, especially when anxiety makes it feel even more daunting. While managing your anxiety is important, it’s also understandable to worry about the material itself. How about we break things down together? Would it be helpful to identify one specific concept in math that feels particularly challenging right now, so we can take a closer look at it together?",
+    "client": "I can see how small changes might help create some breathing room, but reaching out to someone still feels really intimidating. I worry that even sharing a little bit will make me feel vulnerable and exposed. I’m not sure if I’m ready to let anyone in on how stressed I’m feeling about my exams, even if it’s just a small part. What if they don’t get it or think I’m overreacting?",
+    "therapist": "It's completely understandable to feel intimidated by the idea of being vulnerable, especially when you're dealing with such stress. Your worries about not being understood or feeling judged are valid, and it’s okay to take your time before reaching out to someone. What if we focused on finding ways to express your feelings in a way that feels safe and manageable for you, like journaling or even writing a message to a friend without sending it? Would that feel like a more comfortable step for you?",
     "condition": "baseline",
-    "val_t": -0.2056567668914795,
-    "aro_t": 0.2317676544189453,
+    "val_t": -0.21422934532165527,
+    "aro_t": 0.17127716541290283,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate you trying to help me break it down, but honestly, it feels overwhelming even just thinking about it. There's so much material, and I worry if I pick one thing, I'll still get lost in everything else. What if we focus on one concept but end up just feeling frustrated instead of making progress?",
-    "therapist": "I can see how the fear of frustration and the overwhelming nature of the material can make it hard to even choose one concept to focus on. It’s completely okay to take a step back and acknowledge that feeling; we can approach this gently. Would it help to start by simply naming one area that feels the most pressing, without the pressure of diving deep into it right away? Sometimes just identifying it can lighten the load a bit.",
+    "client": "Journaling does sound like a less intimidating way to express what I’m feeling, but I’m worried that once I start writing, I might just spiral into my thoughts and feel even more anxious. It feels like I’d be confronting my worries head-on, and I’m not sure if I’m ready for that. What if I end up feeling worse instead of better?",
+    "therapist": "It's completely natural to feel apprehensive about journaling, especially if you're concerned it might lead to more anxiety. It's important to approach this in a way that feels safe and manageable for you. Perhaps you could set a timer for just a few minutes and focus on writing down your thoughts without judgment, allowing yourself to stop whenever you need to. How does that sound? You could also try writing about positive experiences or things you’re grateful for to balance out the heavier feelings. Would that feel more approachable for you?",
     "condition": "baseline",
-    "val_t": -0.16763603687286377,
-    "aro_t": 0.2436150312423706,
+    "val_t": -0.29111194610595703,
+    "aro_t": 0.14322936534881592,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I guess I can see the logic in just naming an area, but it feels a bit overwhelming to even think about it. I have so many things on my mind, and I worry that whatever I choose might not even be the right thing to focus on. It’s like I’m stuck in this loop of uncertainty, and I just can’t seem to break free from it.",
-    "therapist": "It’s completely understandable to feel stuck in that loop of uncertainty, especially when there are so many thoughts and worries swirling around. Naming an area can feel like an added pressure, and it’s okay to take your time with it. How about we take a moment to breathe and just acknowledge that it’s alright to not have all the answers right now? What if we focused on simply exploring what feels most urgent to you, even if it seems small?",
+    "client": "I appreciate the suggestion of setting a timer and trying to write without judgment, but it still feels a bit daunting to think about. What if I can’t stop the negative thoughts from creeping in, or if I just end up feeling worse? Writing about positive experiences feels especially hard right now because it seems like everything is overshadowed by my anxiety about exams. I’m just not sure if this is the right approach for me.",
+    "therapist": "It’s completely understandable to feel daunted by the idea of journaling, especially when anxiety feels so overwhelming. It’s okay to have doubts about whether this approach will help, and it’s important to honor those feelings. Perhaps we can consider starting with something even simpler, like jotting down just one or two sentences about how you’re feeling at the moment, without any pressure to explore anything else. What do you think about taking that small step, and how might it feel to give yourself permission to keep it brief and uncomplicated?",
     "condition": "baseline",
-    "val_t": -0.20530617237091064,
-    "aro_t": 0.1483393907546997,
+    "val_t": -0.1634998321533203,
+    "aro_t": 0.11195731163024902,
     "text_emotion": "Angry"
   }
 ]

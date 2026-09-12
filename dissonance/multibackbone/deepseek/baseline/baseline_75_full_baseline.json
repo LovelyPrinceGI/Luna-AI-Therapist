@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I’ve been avoiding family dinners lately. Every time I walk into my parents’ house, I can’t stop thinking about how my grandma’s chair is empty now. It just feels wrong being there without her, so I keep making excuses to skip out. \n\nI know you’ll probably say I should face those feelings, but honestly, I’m not sure I want to. What’s the point of sitting through that pain? It won’t bring her back.",
-    "therapist": "I hear how deeply painful it feels to be in that space without your grandma, and how natural it is to want to avoid that ache. Grief can make familiar places feel completely different, like the ground has shifted beneath us. What comes up for you when you imagine trying one small step, like visiting for just 15 minutes?",
+    "client": "Lately, I've been avoiding family gatherings because being around everyone just makes me feel my grandmother's absence even more. It’s like her not being there is this huge void that no one else notices, and it’s hard to face. I’m not sure if talking about it will really help—it feels like nothing can fill that space she left.",
+    "therapist": "I hear how deeply you're feeling your grandmother's absence, especially in those family moments that used to include her. It makes sense that being around everyone would highlight that loss so intensely—would you be willing to share what those gatherings were like when she was still with you?",
     "condition": "baseline",
-    "val_t": -0.3799300193786621,
-    "aro_t": 0.13797450065612793,
+    "val_t": -0.25391435623168945,
+    "aro_t": 0.08603918552398682,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Even 15 minutes feels overwhelming right now. I keep picturing her chair sitting empty in the corner, and my chest gets so tight I can barely breathe. Part of me thinks I should be stronger by now—it's been months—but then the guilt hits for not missing her enough when I try to push through.",
-    "therapist": "It sounds like you're caught between feeling the pain of her absence and judging yourself for how you're handling it, which must be exhausting. Grief doesn't follow a timeline, and there's no \"right\" way to miss someone—your feelings are valid exactly as they are. What would it feel like to let go of the expectation that you should be handling this differently?",
+    "client": "She was always the one who... I don't know, made everything feel warm? Like she'd remember everyone's favorite foods and have this way of pulling people together. Now it's just... different. I don't see the point in going when it feels so obviously wrong without her there.",
+    "therapist": "You've described her presence so beautifully—it sounds like she created this warm, loving glue that held family moments together. When you say it feels \"obviously wrong\" without her, I wonder if part of the pain comes from expecting gatherings to feel the same way they did when she was there?",
     "condition": "baseline",
-    "val_t": -0.3833550214767456,
-    "aro_t": 0.20766055583953857,
-    "text_emotion": "Angry"
+    "val_t": 0.05967152118682861,
+    "aro_t": 0.16576123237609863,
+    "text_emotion": "Tense"
   },
   {
     "turn": 3,
-    "client": "I know logically that grief doesn’t have a timeline, but I still keep thinking I *should* be moving on by now. It’s been months, and I still cry over small things that remind me of her. Part of me feels weak for still being stuck in this pain.",
-    "therapist": "It makes complete sense that you're wrestling with these \"should\" thoughts—they often show up when we're being hardest on ourselves. The tears and pain aren't signs of weakness, but of how much your grandma meant to you. What might it feel like to gently challenge that idea that you're \"stuck,\" and instead honor this as part of your love for her?",
+    "client": "Yeah, I guess I do expect it to feel the same, and it never does. But it's not just that—it's also like no one else seems to feel her absence as much as I do. That makes me feel even more alone in it. I don’t know if changing my expectations would really help—it’s not just about how things feel, it’s about missing *her*.",
+    "therapist": "It sounds like you're carrying this grief in two ways—missing her deeply, while also feeling isolated because others don't seem to share that same intensity of loss. Have you noticed if there are particular moments when you feel her absence most sharply, versus times when the memories feel more comforting?",
     "condition": "baseline",
-    "val_t": -0.46882379055023193,
-    "aro_t": 0.1859503984451294,
+    "val_t": -0.20684051513671875,
+    "aro_t": 0.06140732765197754,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I know you're trying to help, but it's just not that simple. When I think about honoring my grief, all I feel is this crushing guilt that I didn't visit her more often before she passed. And now it's too late to fix anything.  \n\nThe idea of not being \"stuck\" sounds nice in theory, but honestly? It just makes me feel more frustrated with myself. Like if this is normal grief, why does it hurt so much worse than what other people seem to go through?",
-    "therapist": "It sounds like the guilt is amplifying your grief, making the pain feel especially heavy and isolating. Many people find their grief gets tangled with \"what ifs\"—it doesn't mean you loved her any less. When you hear others coping differently, what happens if you consider that their relationship with grief might be different, not that yours is wrong?",
+    "client": "It's worst during holidays when she'd always make her special dishes, or when someone says \"we're all here\" because... we're not. The memories only feel comforting when I'm alone, honestly—when I'm with family and no one mentions her, it's like they've forgotten. But bringing her up feels like I'm ruining the mood.",
+    "therapist": "I can hear how painful it is to feel like her memory isn’t being honored in those moments that were so tied to her presence. It sounds like being alone allows you to hold onto her in a way that feels safe, while being with family brings up that sense of disconnect. What do you think might happen if you shared a memory or mention of her during those gatherings, even if it feels risky?",
     "condition": "baseline",
-    "val_t": -0.4030417203903198,
-    "aro_t": 0.1305403709411621,
-    "text_emotion": "Sad"
+    "val_t": -0.2101438045501709,
+    "aro_t": 0.1587914228439331,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about grief being different for everyone, but it just makes me feel more alone when I see others moving on so easily. Like, my sister has already started sorting through Mom's things, and I can't even look at her favorite coffee mug without breaking down. Shouldn't I be handling this better by now? It's been six months.",
-    "therapist": "Comparison can make grief feel even lonelier—it sounds like you're measuring your pain against your sister's actions, when really you're each honoring your relationship in your own way. There's no \"better\" way to grieve; your tears over her coffee mug speak to the unique bond you shared. What would it feel like to let your grief exist without judging its shape against anyone else's?",
+    "client": "I'm scared it would make everyone uncomfortable—like I'm the one who can't \"move on\" properly. But then again... maybe others are holding back too? It's just hard to be the first one to bring her up when no one else does. What if they don't respond the way I hope?",
+    "therapist": "That fear of being met with silence or discomfort is completely understandable—it takes courage to be the first to voice something so tender. I wonder if there might be a small way to test this, like sharing just one simple memory to see how the room responds?",
     "condition": "baseline",
-    "val_t": -0.22876238822937012,
-    "aro_t": 0.14452195167541504,
+    "val_t": -0.2527273893356323,
+    "aro_t": 0.1658240556716919,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I know logically that grief isn’t a competition, but it still *feels* like I’m failing somehow. My sister’s out there volunteering and posting about it, while I can barely get out of bed without crying over something small. It’s not just guilt—it’s like I’m grieving wrong. How do I even begin to let go of that judgment? It’s so tangled up in missing them.",
-    "therapist": "It sounds like that self-judgment has become woven into your grief, making the pain feel even heavier—like you're not just missing her, but also fighting yourself in the process. That \"failing\" feeling might be trying to protect you from the rawness of loss, but it's also keeping you from being gentle with your own heart. What would it look like to untangle just one thread—maybe starting with letting the tears over small things simply exist without calling them \"wrong\"?",
+    "client": "Maybe I could mention how she always burned the dinner rolls—every single time. Everyone used to tease her about it. But what if I say that and then... nothing? It hurts to think about her being forgotten, but it might hurt worse to have the silence confirm it.",
+    "therapist": "That burned rolls memory is so specific and full of love—it's a beautiful way to invite others into remembering her. The silence you fear would be painful, but might there also be relief in knowing you've honored her, regardless of how others respond?",
     "condition": "baseline",
-    "val_t": -0.43262171745300293,
-    "aro_t": 0.1272488832473755,
+    "val_t": -0.24704420566558838,
+    "aro_t": 0.10202014446258545,
     "text_emotion": "Sad"
   },
   {
     "turn": 7,
-    "client": "I don't know if I can separate the guilt from the grief, honestly. Every time I cry over something small—like her favorite coffee cup—I immediately hear her voice in my head saying \"Don't be so dramatic.\" It's like she's still here judging me. And part of me agrees with her—shouldn't I be stronger by now? It's been months.",
-    "therapist": "It sounds like her voice has become part of your inner critic, amplifying the pain when you're already feeling vulnerable. Grief isn't about strength—it's about love, and your tears are just one way that love continues to show up. What might happen if you gently asked yourself: would your grandma *really* want you to judge your grief this harshly?",
+    "client": "I guess there could be some relief in knowing I tried, but it still feels so risky. What if I’m the only one who misses her that much? I don’t want to make everyone uncomfortable, but I also don’t want to pretend like she wasn’t this huge part of our lives. It’s just... complicated, and I’m not sure if I’m ready to take that step yet.",
+    "therapist": "It sounds like you're holding two truths—wanting to honor her importance while also protecting yourself from potential disappointment. That hesitation makes complete sense. What would need to feel different for you to know when the right moment to share might be?",
     "condition": "baseline",
-    "val_t": -0.2815767526626587,
-    "aro_t": 0.2196887731552124,
+    "val_t": -0.14460289478302002,
+    "aro_t": 0.09931349754333496,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I never really thought about it that way... but I guess she wouldn't want me to be so hard on myself. It's just that when I hear her voice in my head saying \"toughen up,\" it feels like I'm disappointing her by being so emotional. The idea that my tears could be love instead of weakness is... confusing but kind of comforting too.",
-    "therapist": "That realization—that your tears might be love speaking rather than weakness—sounds like it’s touching something tender and important. It makes sense that it feels confusing; you’ve been holding this idea of \"strength\" so tightly, and now there’s space to wonder what it might mean to grieve *with* her love, not against it. What comes up for you when you imagine letting those tears just be, without labeling them as good or bad?",
+    "client": "Maybe if I saw even one other family member mention her first—just some small sign that it's okay to talk about her. Right now it feels like everyone's pretending she never existed, and that makes my grief feel... wrong somehow. I don't know how to be the one to break that silence all alone.",
+    "therapist": "I hear how much you’re longing for some acknowledgment—that small sign that it’s safe to talk about her and that others remember her too. It’s so hard to carry that grief when it feels like you’re the only one honoring her memory. Have you noticed any moments where someone might have hinted at missing her, even subtly?",
     "condition": "baseline",
-    "val_t": -0.13569164276123047,
-    "aro_t": 0.22700107097625732,
+    "val_t": -0.2907799482345581,
+    "aro_t": 0.1280120611190796,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "It's just...when I imagine letting myself cry without judging it, I feel this tightness in my chest. Like if I start, I might never stop. And part of me still thinks that would be letting her down somehow, like I'm supposed to be stronger than this. \n\nBut then there's this other small voice that wonders if maybe she'd want me to feel whatever I'm feeling, not what I think I *should* feel. That part scares me because it feels so vulnerable.",
-    "therapist": "That tightness makes so much sense—it’s like your body is bracing against a wave of love and loss that feels too big to hold. But that small voice wondering what she’d *really* want for you? That’s not weakness; it’s courage beginning to whisper. What would it feel like to let that scared, vulnerable part know it’s okay to exist, even just for a moment?",
+    "client": "Now that you mention it, my cousin did bring up her apple pie once—how no one’s been able to make it taste the same. But then the conversation just moved on like it was nothing. It felt like a tiny crack in the silence, but I didn’t know how to keep it open without forcing it. Maybe others do miss her too, but we’re all just... stuck in this awkwardness.",
+    "therapist": "That \"tiny crack\" you noticed is so important—it sounds like your cousin might have been testing the waters too, unsure how the family would respond. Grief can make us all hesitate like that, can't it? What do you imagine might happen if you and your cousin gently kept opening those cracks together?",
     "condition": "baseline",
-    "val_t": -0.36557865142822266,
-    "aro_t": 0.24539482593536377,
+    "val_t": -0.17837953567504883,
+    "aro_t": 0.08387529850006104,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I don't know... even thinking about letting myself feel that vulnerable makes my chest get tight again. Part of me wants to believe my mom would want me to be happy, but another part keeps saying I don't deserve to move forward after she's gone. It's like there's this pressure to stay stuck in the grief, like moving on would mean I didn't love her enough.",
-    "therapist": "It sounds like you’re carrying two heavy beliefs—that grief equals love, and that moving forward might betray her. But love isn’t measured by how long we hurt; it’s measured by how deeply we carry someone with us. What would it feel like to imagine that honoring her *could* include moments of lightness, too?",
+    "client": "I hadn’t thought about it that way—maybe my cousin was feeling the same hesitation I am. It’s just... what if we try to open those cracks and it still feels forced? I don’t want to make everyone uncomfortable or feel like I’m dragging the mood down. It’s hard to know how much to push when grief feels so personal.",
+    "therapist": "It sounds like you're holding this careful balance between wanting connection and fearing disruption—which shows how deeply you care about both honoring your grandmother and respecting the family's mood. That middle ground between silence and forcing things is tricky to find—what if you started by sharing those memories with just your cousin first, where it might feel safer?",
     "condition": "baseline",
-    "val_t": -0.3640989065170288,
-    "aro_t": 0.18561065196990967,
-    "text_emotion": "Angry"
+    "val_t": -0.2431734800338745,
+    "aro_t": 0.09947812557220459,
+    "text_emotion": "Sad"
   }
 ]

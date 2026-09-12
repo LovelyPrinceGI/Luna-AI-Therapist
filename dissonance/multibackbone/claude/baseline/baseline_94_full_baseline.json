@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling lately with taking care of my mom — she was diagnosed with Alzheimer's last year and it feels like every week she needs more from me. I'm exhausted all the time, and I feel this constant guilt like I'm never doing enough, even when I'm doing everything I can. Honestly, I'm not even sure talking about it is going to change anything, because the situation isn't going to change.",
-    "therapist": "What you're carrying right now is genuinely heavy — caring for someone with Alzheimer's while running on empty takes an enormous toll, and that exhaustion you're feeling makes complete sense. I hear some skepticism about whether talking can help, and that's a fair thought to have, but I wonder if we might gently explore that guilt you mentioned — because it sounds like part of you is holding yourself to a standard that even \"doing everything you can\" still isn't meeting. \n\nWhat does that inner voice sound like when it tells you you're not doing enough — whose voice does it remind you of, or where do you think it comes from?",
+    "client": "I've been really struggling lately with taking care of my mom — she was diagnosed with Alzheimer's last year and it feels like every week she needs more from me than the week before. I'm exhausted all the time, and I feel this constant guilt like I'm never doing enough, even when I'm giving everything I have. Honestly, I'm not sure talking about it is going to change anything, because the situation isn't going to change.",
+    "therapist": "What you're carrying right now is genuinely heavy — caring for someone you love while watching them change, and pouring yourself out day after day, is one of the most demanding things a person can do, and that exhaustion you're feeling makes complete sense. I hear your skepticism about talking, and you're right that we can't change your mom's diagnosis — but I'm curious whether we might be able to ease some of the weight you're placing on *yourself*, particularly that voice telling you you're never doing enough even when you're giving everything. \n\nWhat does \"doing enough\" actually look like in your mind — is there a version of this situation where you'd finally feel like you'd met that bar?",
     "condition": "baseline",
-    "val_t": -0.4090515375137329,
-    "aro_t": 0.1602792739868164,
+    "val_t": -0.4063303470611572,
+    "aro_t": 0.13858723640441895,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "That inner voice... it's harsh, and it's pretty much constant. If I'm being honest, it sounds a lot like my mother — she had this way of making you feel like you could always be doing more, trying harder, sacrificing more of yourself. And now here I am taking care of her, and that same voice is still running in my head telling me I'm falling short, which is just... I don't even know what to do with that.",
-    "therapist": "There's something really profound and painful in what you just noticed — that the very person you're exhausting yourself to care for is also the source of the voice that tells you it's never enough, and sitting with that complexity takes real courage. That voice was formed a long time ago and it learned to feel like *truth*, but it's worth remembering that a voice shaped by one person's expectations isn't the same thing as an accurate measure of your worth or your efforts. \n\nWhen you imagine what a truly fair, compassionate observer would say watching you care for your mom day after day — what do you think *they* would see?",
+    "client": "Honestly, when I try to picture what \"enough\" would look like, I just draw a blank — or I get this image of her being comfortable and not confused and not scared, which I know isn't something I can actually give her. So I guess the bar keeps moving because the disease keeps moving, and no matter what I do, she's still getting worse. It's like I'm being graded on something I was never going to pass.",
+    "therapist": "That image you just described — being graded on something you were never going to pass — is such a painful and honest way to put it, and it also sounds like your mind has quietly set up an impossible standard where *your success is measured by something outside your control entirely*. What you *can* actually give her — your presence, your patience, your showing up day after day — that's real, and it's significant, even when the disease doesn't reflect it back to you. \n\nI'm wondering, if a close friend described caring for *their* parent exactly the way you've described caring for yours, what grade would you give *them*?",
     "condition": "baseline",
-    "val_t": -0.1856778860092163,
-    "aro_t": 0.2058652639389038,
+    "val_t": -0.25446784496307373,
+    "aro_t": 0.16443419456481934,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I guess... a fair observer would probably see someone who's really trying, who shows up even when it's exhausting and thankless. But honestly, it's hard to hold onto that image for more than a second before my brain just goes back to all the ways I fell short that day, like I forgot to call her back right away or I seemed impatient. It's like the negative stuff has so much more weight to it, and I don't know how to make the other picture feel real.",
-    "therapist": "What you're describing — where the negative moments feel vivid and heavy while the evidence of your care slips away quickly — is actually a very well-understood pattern called the negativity bias, and it makes sense that your brain learned to do this, especially growing up with a voice that trained you to focus on what fell short. The fact that you *can* picture that fair observer, even for a second, is actually meaningful — that image is real and it's yours, even if it doesn't feel solid yet. \n\nI'm curious, what might it look like to treat that fleeting image with just a little more care — like, what's one small thing you did today that the fair observer would quietly nod at?",
+    "client": "I'd probably say they were doing an incredible job and that they should be proud of themselves — I wouldn't even think twice about it. But when I try to turn that around on myself, it just doesn't land the same way, it feels almost dishonest to give myself that kind of credit. I know what you're getting at, and I see the logic, but there's this part of me that thinks my situation is somehow different, like the rules don't apply to me the same way.",
+    "therapist": "That gap you're noticing — where compassion flows easily toward others but feels almost fraudulent when you turn it toward yourself — is so common, and the fact that you can see the logic but still feel the resistance tells us something important: this isn't really about logic at all, it's a deeply held belief that *you specifically* are held to a different standard, and that belief deserves some gentle curiosity rather than just a rational argument. I'm not going to try to talk you out of that feeling, but I am interested in where it comes from — like, what is it about *your* situation that feels like it earns you less grace than you'd give anyone else in your shoes? What does that inner voice say makes you the exception?",
     "condition": "baseline",
-    "val_t": -0.22824180126190186,
-    "aro_t": 0.10283184051513672,
+    "val_t": -0.12288367748260498,
+    "aro_t": 0.13885235786437988,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I mean... I did check in on my neighbor this morning, the older woman down the hall who lives alone. I brought her some of the soup I made last night, and she seemed really happy about it. But honestly, my first instinct right now is to say \"that doesn't count, that was just something small,\" which I guess is kind of proving your point, isn't it.",
-    "therapist": "You just caught your own mind in the act of dismissing your goodness in real time — that's actually a really significant moment of awareness, and it's worth pausing on. You were exhausted from caregiving, and you *still* made soup and thought of your neighbor — that isn't small, that's a picture of who you actually are when that harsh voice isn't drowning everything out. \n\nWhat do you think it would feel like, even just for today, to let that one moment count?",
+    "client": "I think part of it is that she's my mom, so it feels like the stakes are higher and the obligation is deeper than it would be for anyone else. There's also this old voice that says I should have been a better kid when I had the chance, and now this is sort of my opportunity to make up for that, so falling short feels like I'm failing twice. I've never really said that out loud before, and I'm not sure what to do with it now that I have.",
+    "therapist": "Thank you for trusting that out loud — that took real courage, and what you just named feels like it might be at the very heart of that impossible standard you've been holding yourself to. It sounds like part of you has framed this caregiving as a kind of debt repayment, which means every hard day doesn't just feel like exhaustion — it feels like evidence that you're still not good enough, going all the way back to childhood. \n\nI'm curious — what was that kid back then actually carrying, and do you think they deserve the same compassion you'd so readily give to anyone else?",
     "condition": "baseline",
-    "val_t": 0.0441286563873291,
-    "aro_t": 0.13973486423492432,
-    "text_emotion": "Neutral"
+    "val_t": -0.12096107006072998,
+    "aro_t": 0.1530543565750122,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and part of me wants to hold onto that... but honestly, it feels almost dangerous to let one good moment count, like if I do, I'm letting myself off the hook for all the times I haven't shown up the way I should have. It's like my brain is convinced that if I stop being hard on myself, I'll just... collapse into being a worse person. I know that probably sounds backwards, but the guilt feels like it's the only thing keeping me accountable.",
-    "therapist": "That doesn't sound backwards at all — it actually makes a lot of sense that guilt started to feel like a necessary engine, especially if harsh self-criticism was the main tool you were given growing up for staying \"on track.\" But I want to gently offer another possibility: what if the exhaustion and depletion from that constant self-criticism is actually what's making it *harder* to show up, not easier — like you're trying to run a marathon while someone is pulling at your ankles? \n\nWhat do you think motivates you more in those moments when you *do* show up well — is it the fear of falling short, or something else, something quieter?",
+    "client": "That kid was carrying a lot of confusion and probably some fear — my mom was unpredictable back then, not like now but in a different way, and I spent a lot of energy trying to read the room and not make things worse. When I think about giving that kid compassion, something in me softens for a second, but then I feel guilty for even going there, like I'm making excuses or shifting blame onto her when she's the one who's sick and needs me now. I don't know how to hold both things at once — that I might have deserved more back then, and that she deserves everything I can give her now.",
+    "therapist": "What you just described — that brief softening toward your younger self before guilt pulls you back — that softening is real and important, and it's not a betrayal of your mom to let it exist. Holding both things at once, that you deserved more then *and* that she deserves your care now, isn't shifting blame or making excuses; it's actually a more complete and honest picture of a complicated relationship that has always had more than one layer to it. \n\nI wonder if the guilt that rushes in when you start to soften toward yourself might itself be an old habit from that little kid who learned that their own needs were dangerous to acknowledge — does that resonate at all?",
     "condition": "baseline",
-    "val_t": -0.3799072504043579,
-    "aro_t": 0.17225027084350586,
+    "val_t": -0.3582570552825928,
+    "aro_t": 0.1646493673324585,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "That question kind of stops me, honestly, because I don't think I've ever really separated those two things before. When I try to think of times I've actually shown up well... there are a few, and I guess there was something quieter underneath, like I actually cared about the person or the thing, not just about avoiding feeling terrible afterward. But I'm almost suspicious of that answer, like maybe I'm just telling you what sounds good, because the guilt and the fear feel so much louder and more real most of the time.",
-    "therapist": "The fact that you're questioning your own answer rather than just accepting the flattering one actually tells me a lot — that's not someone telling me what sounds good, that's someone genuinely trying to get at the truth. And what you touched on, that quieter thing underneath that looks like real care, doesn't have to be loud to be real — sometimes the most genuine parts of us get drowned out precisely because fear and guilt are so much noisier. \n\nI'm wondering if we could stay with one of those specific moments where you felt that quieter care — what was happening, and what do you think that feeling was actually about?",
+    "client": "Yeah, that does resonate, more than I expected it to — like there's something familiar about pushing my own needs aside so fast that I barely notice I had them. But I'm also a little wary of this, because if I start letting myself acknowledge what I needed back then, I'm afraid it's going to open something I don't have the time or energy to deal with right now, not when she still needs me every single day. It feels like a luxury I can't afford.",
+    "therapist": "That instinct to protect yourself right now is wise, not avoidant — you're not refusing to grow, you're recognizing that you're already carrying an enormous load, and that's actually a form of self-awareness worth honoring. We don't have to tear anything open; in fact, good therapy isn't about forcing doors that don't feel safe, but rather just noticing they exist and maybe letting a little light in around the edges at a pace that works for you. \n\nI'm curious — what would it look like to acknowledge your own needs in just the smallest, most manageable way, something so small it doesn't feel like a luxury, just while you're in the middle of all of this?",
     "condition": "baseline",
-    "val_t": -0.1975470781326294,
-    "aro_t": 0.1360384225845337,
+    "val_t": -0.10886490345001221,
+    "aro_t": 0.17245924472808838,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I keep coming back to this one time my mom was sick a few years ago, not seriously, just a bad flu, but I drove over without her even asking and just... sat with her for a few hours. I didn't do much, just made her tea and watched TV with her, and I remember feeling this kind of quiet warmth that didn't have anything to do with whether she was grateful or not. But then I second-guess even that, like maybe I only went because I felt guilty about not calling her enough that month.",
-    "therapist": "That memory is really worth holding onto — you showed up without being asked, you gave your presence without needing anything back, and you felt that quiet warmth independent of her reaction, which is actually a beautiful description of what genuine care feels like from the inside. It's natural that your mind is now trying to find the guilty motive underneath it, but I'd gently ask: even if guilt was *part* of what got you in the car that day, does that erase the warmth you felt once you were there sitting with her?\n\nWhat do you think it means about you that you're capable of feeling that kind of care for someone who has also caused you real pain?",
+    "client": "I think the most honest answer is that I don't really know what my needs even are anymore, because I've been in survival mode for so long that I've lost track of what I actually want or enjoy. Maybe something like sitting outside with a cup of coffee without looking at my phone for ten minutes — but even as I say that, I can hear myself thinking I should be using that time to do something for her instead. It's like my needs and my guilt are so tangled up together that I can't pull one out without the other coming with it.",
+    "therapist": "The fact that something as simple as ten minutes with a cup of coffee came to you — that's not nothing, that's actually your needs quietly making themselves known even through all the noise, and it matters. What strikes me is that you didn't say you *can't* have that time, you said you *should* be using it for her instead — which is that same old voice turning rest into a moral failure rather than something that might actually help you keep going. \n\nWhat if, just as a small experiment this week, you tried those ten minutes outside — not as a luxury or a reward, but just to see what it feels like to let yourself exist for a moment without earning it?",
     "condition": "baseline",
-    "val_t": -0.1064528226852417,
-    "aro_t": 0.07468509674072266,
-    "text_emotion": "Neutral"
+    "val_t": -0.24496912956237793,
+    "aro_t": 0.13587665557861328,
+    "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I guess... when you put it that way, it does feel like something. Like maybe I'm not as cold or selfish as I sometimes think I am. But it's hard to fully trust that interpretation, because part of me wonders if I'm just telling myself a nice story to feel better about a messy situation with her.",
-    "therapist": "The fact that you're so committed to not letting yourself off the hook too easily actually suggests the opposite of coldness — a truly selfish person doesn't lie awake worrying this carefully about whether their own motives are pure. And there's an important difference between telling yourself a comforting story to avoid hard truths, and slowly, carefully allowing evidence that was always there to finally be seen — what you're doing right now feels much more like the latter. \n\nI'm curious — what would it mean for how you move through your days if you allowed even a small part of yourself to believe that the warmth in that memory was real?",
+    "client": "I want to say yes to that, and part of me genuinely does, but I already know what's going to happen — I'll sit down with that coffee and within two minutes I'll be running through the list of things I haven't done for her yet, and it'll feel worse than if I'd just stayed busy. I guess what I'm scared of is that the quiet will just give the guilt more room to get louder, not less. How do you actually stop your brain from doing that?",
+    "therapist": "What you're describing is so real — stillness can feel threatening when your mind has been trained to treat rest as danger, and that fear makes complete sense given everything we've talked about today. The goal isn't actually to stop your brain from doing that, because fighting the thoughts usually gives them more power; it's more about learning to notice them arriving without automatically believing they're telling the truth — something like, \"there's the guilt voice again,\" rather than dropping everything to obey it. \n\nI wonder if the ten minutes might feel less like a battle if you went in expecting the guilt to show up, almost like you're just watching it do its thing from a slight distance — does that feel like something worth trying, even once?",
     "condition": "baseline",
-    "val_t": -0.12159061431884766,
-    "aro_t": 0.15403211116790771,
+    "val_t": -0.23958039283752441,
+    "aro_t": 0.2545117139816284,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I sit with that question for a moment, because it actually catches me off guard a little. If I let myself believe the warmth was real... I think part of me is afraid it would make the loneliness I feel now even sharper, like it would highlight exactly what I've lost or what I can't seem to find anymore. It's almost easier to tell myself those connections were never that meaningful, because then I don't have to grieve them, or wonder why I can't seem to hold onto that kind of closeness now.",
-    "therapist": "What you just said is one of the most honest and tender things you've shared — that minimizing the connection is actually a way of protecting yourself from grief, and that takes real courage to see in yourself. But I want to sit with something you said, that you \"can't seem to hold onto that kind of closeness now,\" because the person who brought soup to a lonely neighbor this morning, who drove to her mother without being asked — she doesn't sound like someone who has lost the capacity for closeness, she sounds like someone who is depleted and grieving and still somehow showing up anyway.\n\nWhat do you think you might be longing for most right now, underneath all of this exhaustion?",
+    "client": "That framing actually helps a little — like I'm not trying to win a fight against the guilt, just letting it be there without it being in charge. I think I could maybe try that once, just to see, though I'm not making any promises because I know myself and I know how easy it is for that voice to go from background noise to the only thing I can hear. But I guess trying once and it being hard is still different from not trying at all.",
+    "therapist": "\"Trying once and it being hard is still different from not trying at all\" — that's actually a really significant shift from where you started today, when you weren't even sure talking could change anything, and I want you to notice that *you* arrived at that, not me. You're not making promises, you're not pretending it'll be easy, you're just leaving a small door open — and honestly, that's exactly the right size of step for where you are right now. \n\nWhen you do try it, I'd love to hear what you notice — not whether you succeeded or failed, but just what it was like to show up for yourself for ten minutes, guilt and all.",
     "condition": "baseline",
-    "val_t": -0.17712390422821045,
-    "aro_t": 0.12492001056671143,
-    "text_emotion": "Angry"
+    "val_t": 0.0020301342010498047,
+    "aro_t": 0.07719218730926514,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I think what I'm longing for is just... someone to show up for me the way I show up for everyone else. Not because I asked, not because I made it easy for them, just because they wanted to. But even saying that out loud makes me feel guilty, like I'm being selfish or keeping some kind of score.",
-    "therapist": "That longing isn't selfish — it's one of the most fundamentally human needs there is, to be seen and cared for without having to earn it or orchestrate it, and the fact that you've given that to others while quietly going without it yourself isn't a sign of virtue, it's a sign of how long you've been running on empty. I also notice that you immediately punished yourself for naming a need, which tells me that somewhere along the way you learned that your own needs were a burden or a moral failing — and I wonder if that lesson came from the same place as that harsh voice we talked about earlier.\n\nWhat do you think it would feel like to decide, just as an experiment, that the longing you just named is allowed to exist without an apology attached to it?",
+    "client": "It's a little strange to hear that framed as a shift, because from the inside it just feels like I'm agreeing to something small while still half-expecting to fail at it. But I think what actually helped today wasn't being told to think differently — it was feeling like someone understood why it's so hard before asking me to try anything. I'll see how the week goes, and I'm not sure I'll have anything hopeful to report back, but I don't feel quite as alone in it as I did an hour ago.",
+    "therapist": "What you just described - feeling understood before being asked to change anything - that's not a small thing, that's actually the only order in which any of this can work, and I'm really glad it landed that way today. And \"not quite as alone in it\" after everything you're carrying is genuinely meaningful progress, even if it doesn't feel dramatic from the inside. \n\nYou don't need to bring anything hopeful next time — you can bring exactly what's true, whether that's that the ten minutes helped, or that the guilt won, or just that the week was hard, and we'll work with whatever's real.",
     "condition": "baseline",
-    "val_t": -0.28032004833221436,
-    "aro_t": 0.1402832269668579,
-    "text_emotion": "Angry"
+    "val_t": -0.09332036972045898,
+    "aro_t": 0.055418968200683594,
+    "text_emotion": "Neutral"
   }
 ]

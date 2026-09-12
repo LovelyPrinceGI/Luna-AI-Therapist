@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really struggling lately. The medical bills from my recent surgery are piling up, and I just feel so overwhelmed and anxious about how I’m going to manage everything. It’s hard to see a way out, and I’m not sure if therapy can even help with something like this.",
-    "therapist": "I’m really sorry to hear that you’re feeling so overwhelmed and anxious, especially with the added stress of medical bills. It’s completely understandable to feel this way, and it’s okay to be unsure about how therapy can help. How have you been coping with these feelings so far?",
+    "client": "Hi Luna, I've been really struggling lately with the financial burden from my recent surgery. The medical bills keep piling up, and I feel so anxious about how I'm going to manage everything. I know you're here to help, but I can't help feeling like this might be too much to overcome.",
+    "therapist": "Hi there, I can really understand how overwhelming and stressful this must be for you. It's completely normal to feel anxious when faced with such a significant financial burden. Can you tell me more about what's been going through your mind lately, and any thoughts that might be making you feel especially stuck?",
     "condition": "emotion_text_only",
-    "val_t": -0.33291447162628174,
-    "aro_t": 0.2586069107055664,
+    "val_t": -0.2536410093307495,
+    "aro_t": 0.2748340368270874,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Thanks for understanding, Luna. I've been trying to stay busy with work and distract myself, but it's hard to keep up. I feel like I'm just pushing the anxiety down, and it keeps coming back stronger.",
-    "therapist": "It sounds like you’re doing your best to manage the anxiety by staying busy, but it’s understandable that it keeps coming back. Pushing it down can only work for so long, and it’s important to find a way to address the underlying feelings. Have you had any moments recently where you felt a bit more in control or less overwhelmed, even if just for a short time?",
+    "client": "I've been having a lot of thoughts about what-if scenarios, like what if I can't pay these bills and end up in even more trouble? It feels like a never-ending cycle, and I can't see a way out. I know I need to find a solution, but every option I think of seems impossible.",
+    "therapist": "It sounds like you're in a really tough spot, and those \"what-if\" thoughts can really make things feel even more overwhelming. It’s understandable to feel stuck when every option seems daunting. Have you been able to identify any small steps or resources that might help, even if they seem minor right now? Sometimes, breaking things down into smaller, manageable pieces can make a big difference.",
     "condition": "emotion_text_only",
-    "val_t": 0.012007594108581543,
-    "aro_t": 0.23083579540252686,
-    "text_emotion": "Tense"
+    "val_t": -0.2798231840133667,
+    "aro_t": 0.17082726955413818,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I do feel like staying busy helps, but it's only a temporary fix. There was a moment last week when I went for a walk in the park, and I felt a bit more at peace. It was nice, but it didn't last long. I guess I just feel like those moments are hard to hold onto.",
-    "therapist": "It’s great that you found some peace during your walk in the park, even if it was just for a short time. Those moments can be really valuable, and it’s important to recognize them. What do you think helped you feel more at peace during that walk? Could there be ways to bring more of that feeling into your daily life, even if in small ways?",
+    "client": "I appreciate that, Luna. I've thought about reaching out to a financial advisor, but it feels like one more thing to add to my plate. And I'm not sure if they can really help with my specific situation. It's hard to see how breaking things down will make a difference when the bills are so high.",
+    "therapist": "I understand that reaching out for help can feel like adding another task to an already heavy load. It’s natural to doubt whether it will make a difference, especially when the bills are so high. Have you considered talking to a financial advisor just to get some clarity, even if it’s a small step? Sometimes, just having a clearer plan can ease some of the anxiety. What are your thoughts on that?",
     "condition": "emotion_text_only",
-    "val_t": 0.001982450485229492,
-    "aro_t": 0.031397461891174316,
+    "val_t": -0.06305384635925293,
+    "aro_t": 0.10913980007171631,
     "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I think the quiet and the natural surroundings really helped me feel more at ease. It’s almost like being in nature gives me a break from all the noise in my head. But it’s hard to replicate that feeling at home or at work, where there’s always something pulling at my attention. How can I bring that peace into my daily life when there are so many distractions?",
-    "therapist": "It sounds like the quiet and natural surroundings provided a much-needed break from the noise and distractions in your life. That’s a valuable insight. One way to bring some of that peace into your daily life could be to create small, dedicated moments for yourself, even if it’s just a few minutes. Maybe you could try incorporating a short nature-inspired break, like looking at nature photos or listening to nature sounds, or finding a quiet corner where you can take a few deep breaths and focus on the present. What do you think about trying something like that?",
+    "client": "I hear what you're saying, and I know you're trying to help. But the idea of talking to a financial advisor just feels like one more thing I have to do, and I'm already so overwhelmed. I worry that it won't make a difference and will just add to my stress. It's hard for me to see how that small step will really help when the problem feels so big.",
+    "therapist": "I can really understand how overwhelming this feels, and it’s completely valid to worry that taking on another task might just add to your stress. It’s important to acknowledge that you’re already dealing with a lot. At the same time, sometimes small steps can provide a sense of control and direction. What do you think might be a tiny, manageable step you could take today that feels less daunting, even if it’s just a small action?",
     "condition": "emotion_text_only",
-    "val_t": 0.10124468803405762,
-    "aro_t": 0.06207418441772461,
-    "text_emotion": "Neutral"
+    "val_t": -0.20979058742523193,
+    "aro_t": 0.19907701015472412,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I like the idea of bringing some of that peace into my daily life, but it feels hard to find the time and space for it. I work long hours, and even when I’m home, there’s always something that needs my attention. It’s not that I don’t want to, but it feels like a luxury I can’t afford right now.",
-    "therapist": "I understand that finding the time and space for peace can feel like a luxury when you’re juggling so much. It’s completely normal to feel that way, especially with long hours and constant demands. Even small moments of self-care can make a difference, though. Have you considered setting aside even just a few minutes each day, perhaps right when you wake up or before bed, to focus on something that brings you a sense of calm? What do you think might be the smallest step you could take to start incorporating more peace into your day?",
+    "client": "I appreciate your understanding, Luna. A small step that might feel less daunting could be organizing all my medical bills and writing down a list of what I owe. That way, I at least have a clearer picture of everything. But even that feels like a lot right now, and I worry it will just make me feel more overwhelmed.",
+    "therapist": "I understand that even organizing the bills can feel like a big task, and it’s okay to feel that way. Taking small steps, even if they seem minor, can still be helpful in gaining a sense of control. Maybe you could start by just gathering all the bills in one place, without even looking at them closely. How does that feel as a starting point? It’s a gentle way to begin, and you can build from there.",
     "condition": "emotion_text_only",
-    "val_t": -0.030698537826538086,
-    "aro_t": 0.08592617511749268,
+    "val_t": -0.02922499179840088,
+    "aro_t": 0.14439916610717773,
     "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and I know it makes sense in theory. But it's hard for me to carve out even a few minutes when every moment feels like it's already accounted for. I feel like I'd just be adding another thing to the list, and that just adds more pressure. How can I make it feel less like another task and more like a break?",
-    "therapist": "I can really understand how adding another thing to your list, even if it’s meant to be a break, can feel like more pressure. It’s important to find a way to make it feel like a genuine break rather than another task. Maybe you could start by simply noticing the moments when you feel the most stressed during the day and see if you can take a brief pause right then, even if it’s just for a deep breath or a quick stretch. How does that sound? Could you try to find a natural moment in your day where a short break might naturally fit in without feeling like an added task?",
+    "client": "That does sound a bit more manageable, Luna. Just gathering the bills together without diving into the details might help me feel a bit more in control. I'll give it a try, but I'm still worried about what comes next. It feels like a small victory, but I need to find a way to keep moving forward without getting overwhelmed.",
+    "therapist": "That’s a great start, and recognizing that it’s a small victory is important. It’s okay to feel worried about the next steps, and it’s a sign that you’re being thoughtful about your situation. How about setting a small, achievable goal for the next day or two, like looking up local resources or financial assistance programs? This can help you feel more in control and provide some direction without adding too much pressure. What do you think about that?",
     "condition": "emotion_text_only",
-    "val_t": -0.07195830345153809,
-    "aro_t": 0.14512550830841064,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate that, Luna. It makes sense to try and find natural breaks, but I worry that even a deep breath or a stretch might feel like another thing I have to remember to do. I guess I just feel so overwhelmed that adding anything, no matter how small, seems daunting.",
-    "therapist": "I completely understand how overwhelming it can feel to add even the smallest thing to your already full plate. It’s totally valid to feel that way. Maybe instead of thinking of it as adding something new, we can look at it as finding moments within your existing routine where you can naturally pause and take a breath. For example, when you’re waiting for a file to load at work or when you’re making a cup of tea at home. What do you think about finding these natural pauses and using them as opportunities to take a moment for yourself?",
-    "condition": "emotion_text_only",
-    "val_t": 0.04266166687011719,
-    "aro_t": 0.1959599256515503,
+    "val_t": 0.012805700302124023,
+    "aro_t": 0.19230759143829346,
     "text_emotion": "Tense"
   },
   {
-    "turn": 8,
-    "client": "I appreciate that you're trying to find a way to fit self-care into my day without making it feel like another task. It's a good idea in theory, but I often find that even these small moments get filled with other things, like checking emails or worrying about what I need to do next. It's hard to break that habit and actually use those pauses to relax.",
-    "therapist": "I understand how challenging it can be to break the habit of filling those small moments with other tasks or worries. It’s a common struggle, especially when you’re feeling so overwhelmed. One approach could be to gently shift your focus during those pauses by using a simple mindfulness technique, like focusing on your breath or noticing the sensations around you, just for a moment. This can help train your mind to recognize and value those breaks. What do you think about trying to use one of these natural pauses today to practice a brief moment of mindfulness?",
+    "turn": 7,
+    "client": "I like the idea of looking up local resources, but I'm still a bit hesitant because I don't want to waste time on options that won't work. I'll give it a try, but I need to be prepared for the possibility that there might not be much help available. It's a step, but I'm still feeling a bit skeptical.",
+    "therapist": "I can understand your hesitation and skepticism—it’s natural to worry about investing time in options that might not pan out. Taking that step, even with some doubt, is still a brave move. It’s important to be prepared for different outcomes, but also to give yourself credit for making an effort. How about setting a specific, manageable time limit for your research, like 30 minutes, to help you feel more in control of the process? What do you think about that?",
     "condition": "emotion_text_only",
-    "val_t": -0.015887022018432617,
-    "aro_t": 0.0021011829376220703,
-    "text_emotion": "Neutral"
+    "val_t": -0.149399995803833,
+    "aro_t": 0.0938042402267456,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 8,
+    "client": "That sounds like a good compromise, Luna. Setting a 30-minute limit for the research feels more manageable and less overwhelming. I'll give it a try, but I'm still a bit anxious about what I might find or not find. I'll do my best to stay positive, though.",
+    "therapist": "That’s a really good approach, and setting a time limit can definitely help make the process feel more manageable. It’s completely normal to feel a bit anxious, especially when you’re not sure what you might find. Taking it one step at a time and giving yourself permission to feel those emotions is important. How do you think you’ll handle the information once you’ve gathered it, whether it’s helpful or not?",
+    "condition": "emotion_text_only",
+    "val_t": 0.09342026710510254,
+    "aro_t": 0.13088834285736084,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I appreciate the suggestion, but I'm not sure it will work for me. It's hard because my mind is always racing, and even the thought of trying to focus on my breath feels overwhelming. I worry that I'll just end up feeling more anxious if I can't do it right.",
-    "therapist": "I can really understand how overwhelming it feels when your mind is racing, and the idea of trying to focus on your breath might seem like just another source of anxiety. It’s completely okay to feel that way, and it’s important to approach these things gently. Maybe we can start with something even simpler, like noticing one thing in your environment that you find calming or interesting, just for a few seconds. This can help your mind shift focus without the pressure of mindfulness. What do you think about trying that?",
+    "client": "I think I'll take some time to process the information, maybe even write down my thoughts and feelings about what I find. If there's something helpful, I'll try to follow up on it, but if not, I'll need to give myself some grace and not beat myself up over it. It's a small step, but it feels important.",
+    "therapist": "That’s a very thoughtful and compassionate approach, and I’m really proud of you for taking these steps. Processing the information and writing down your thoughts and feelings is a great way to manage your emotions and stay grounded. It’s important to be gentle with yourself, no matter what you find. How do you feel about setting a time to review what you’ve written and decide on your next steps, even if it’s just a day or two from now?",
     "condition": "emotion_text_only",
-    "val_t": -0.25053536891937256,
-    "aro_t": 0.19078874588012695,
-    "text_emotion": "Angry"
+    "val_t": 0.024839401245117188,
+    "aro_t": 0.03548848628997803,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you’re trying to make it easier, but I still feel a bit skeptical. I worry that even noticing something in my environment might not be enough to distract me from the anxiety and guilt I’m feeling. It’s hard because my mind tends to spiral, and I’m not sure if such a small step will make a difference.",
-    "therapist": "I completely understand your skepticism and how challenging it can be when your mind tends to spiral. It’s totally valid to feel that way, especially when the anxiety and guilt are so persistent. Let’s try to approach this from a different angle. Instead of aiming for a big change, we can focus on acknowledging and validating how you feel right now. Sometimes, just recognizing and accepting your feelings can provide some relief. How does it feel to hear that it’s okay to feel this way, and that you don’t have to force a change immediately?",
+    "client": "I appreciate your support, Luna. Setting a time to review what I've written sounds like a good idea, but I'm a bit worried about feeling overwhelmed again when I do that. I'll try to set a specific time, maybe in a couple of days, and see how I feel. It's a step in the right direction, even if it's a small one.",
+    "therapist": "I’m glad you’re considering setting a specific time to review your thoughts, and it’s totally understandable to feel a bit worried about feeling overwhelmed again. Taking it one step at a time and giving yourself space to process is really important. Maybe you could also think about a calming activity you can do after your review, something that helps you relax and feel more centered. How does that sound?",
     "condition": "emotion_text_only",
-    "val_t": -0.21755051612854004,
-    "aro_t": 0.11842846870422363,
-    "text_emotion": "Angry"
+    "val_t": 0.11256587505340576,
+    "aro_t": 0.1521362066268921,
+    "text_emotion": "Excited"
   }
 ]

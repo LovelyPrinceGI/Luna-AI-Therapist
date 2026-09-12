@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed lately with my job at the marketing agency. My boss just assigned me two new projects, and the deadlines are tight, which makes everything feel even more stressful. I’m starting to doubt whether I can handle it all, and honestly, I’m not sure if talking about it in therapy will really help.",
-    "therapist": "It sounds like you’re feeling really overwhelmed with the pressure from your job and the new projects. Doubting your ability to handle everything can be a heavy burden to carry. I want you to know that it’s completely valid to feel this way. What specific thoughts are coming up for you when you consider those deadlines?",
+    "client": "I've been feeling really overwhelmed lately with my job at the marketing agency. My boss just assigned me two new projects, and the deadlines are so tight that I can't help but feel anxious about meeting them. It's hard to see how therapy can help with this pressure; it feels like I'm just drowning in work.",
+    "therapist": "It sounds like you’re really feeling the weight of the pressure from your job right now, and that can be incredibly overwhelming. It's understandable to feel anxious when faced with tight deadlines and multiple projects. Can we explore some thoughts you have about this situation and see if we can find ways to manage that pressure together?",
     "condition": "emotion_text_only",
-    "val_t": -0.19490885734558105,
-    "aro_t": 0.1889427900314331,
+    "val_t": -0.23783230781555176,
+    "aro_t": 0.2629643678665161,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I'm definitely feeling the pressure, and I keep thinking that I'm not capable of meeting those deadlines. It feels like everyone expects me to perform at my best all the time, and I worry that if I fall short, I’ll let them down. I guess I just feel really anxious about failing and disappointing myself and others.",
-    "therapist": "It’s understandable that you’re feeling pressured and anxious about meeting expectations, both from others and yourself. That fear of disappointing people can be really heavy, and it’s normal to question your abilities in such a high-stakes situation. Can you share more about what you believe would happen if you don’t meet those deadlines?",
+    "client": "I guess I just feel like there's so much to do and not enough time to do it. I worry that if I don't deliver top-notch work, I'll let my team and myself down. I'm not sure what exploring my thoughts will do; it feels like I just need to get everything done, and I don't know how to manage the stress of it all.",
+    "therapist": "It sounds like you're carrying a heavy burden, feeling the pressure to perform at a high level while managing a long list of tasks. It’s perfectly normal to feel stressed in such situations, especially when you care about your work. What if we took a moment to unpack some of those thoughts about your responsibilities? Perhaps we can find some strategies to help you feel more in control and less overwhelmed. What do you think?",
     "condition": "emotion_text_only",
-    "val_t": -0.3318350315093994,
-    "aro_t": 0.1649763584136963,
+    "val_t": -0.23579633235931396,
+    "aro_t": 0.1300438642501831,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I really worry that if I don’t meet those deadlines, people will think I’m not capable or that I’m a failure. It feels like there’s this constant pressure to prove myself, and the idea of disappointing others just makes my anxiety worse. I guess I fear that if I don’t deliver, I’ll be judged or left behind, which just adds to my feelings of loneliness.",
-    "therapist": "It sounds really tough to carry that fear of judgment and the pressure to prove yourself, especially when it feels like your worth is tied to your performance. The loneliness that comes with those feelings can be isolating. What are some ways you’ve coped with this pressure in the past, or have you noticed any moments where you felt a little more at ease despite the stress?",
+    "client": "I appreciate you understanding how heavy this feels for me. But honestly, I'm not sure unpacking my thoughts will change anything. I feel like the pressure is just going to keep building until I get these projects done. It’s hard to think about strategies when I’m just trying to keep my head above water right now.",
+    "therapist": "I can sense just how intense and heavy this pressure feels for you, and it’s completely understandable to focus on just getting through it right now. It sounds like you’re in survival mode, trying to keep your head above water. What if we took a small step back and focused on one thing that could help lighten the load, even just a little? What do you think would feel manageable for you at this moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.47191834449768066,
-    "aro_t": 0.19511163234710693,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 4,
-    "client": "I often cope by keeping myself busy with work and trying to distract myself from those feelings, but it doesn’t really help in the long run. Sometimes I try to socialize, but it feels forced, and I end up feeling even more alone. I guess I’ve had moments where I felt at ease when I’m doing something I genuinely enjoy, like reading or listening to music, but those moments are few and far between.",
-    "therapist": "It sounds like you’ve been using work as a way to cope, but it’s clear that it’s not providing the relief you need. Finding joy in activities like reading or music is important, even if those moments feel rare. How can we create a plan to incorporate more of those fulfilling activities into your routine, especially when you’re feeling overwhelmed?",
-    "condition": "emotion_text_only",
-    "val_t": -0.04377269744873047,
-    "aro_t": 0.017364978790283203,
+    "val_t": -0.08445990085601807,
+    "aro_t": 0.12338864803314209,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 5,
-    "client": "I get what you're saying about work not being enough to cope, and I know I should find joy in other activities. But honestly, when I’m overwhelmed, I just can't seem to make the time or energy for things like reading or listening to music. It feels like I have to push through work first, and by the time I’m done, I’m too tired to enjoy anything else.",
-    "therapist": "It sounds like you’re in a tough cycle where the overwhelming demands of work leave you feeling drained, making it hard to carve out time for activities that bring you joy. It’s completely understandable to feel that way, but it’s also important to recognize that taking even small breaks can help recharge your energy. What might a brief moment of enjoyment look like for you, even amidst a busy day?",
+    "turn": 4,
+    "client": "I guess focusing on just one thing could help, but I'm not sure what that would be. Everything seems urgent to me right now. Maybe I could prioritize one project over the other, but what if that ends up being the wrong choice and I still feel overwhelmed? It feels like a gamble when everything feels so critical.",
+    "therapist": "It sounds like you’re caught in a tough spot, feeling the weight of urgency from all sides and unsure about how to prioritize. It’s completely normal to feel hesitant when every task feels critical, and the fear of making the wrong choice can be paralyzing. What if we brainstormed together some criteria to help you decide which project to focus on first? That way, it might feel a bit less like a gamble and more like a thoughtful choice. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.022826790809631348,
-    "aro_t": 0.23311829566955566,
-    "text_emotion": "Tense"
+    "val_t": -0.2081691026687622,
+    "aro_t": 0.22305560111999512,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I see what you mean about making a thoughtful choice, but honestly, I still feel a bit skeptical. I’m not sure I can think straight enough to create criteria right now; my mind is racing with everything I have to do. What if I end up overthinking it and wasting even more time? It feels like I'm just spinning my wheels.",
+    "therapist": "It makes sense that you’re feeling skeptical and overwhelmed, especially when your mind is racing with everything on your plate. It’s tough to find clarity when it feels like you’re spinning your wheels. How about we take a moment to pause and breathe together? Sometimes a brief break can help bring a bit of calm, which might make it easier to think about those criteria without the pressure of rushing. What do you think?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15807640552520752,
+    "aro_t": 0.2265106439590454,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it feels hard to even think about taking breaks when I'm constantly swamped with tasks. My mind is usually racing with everything I need to do, and it feels like I don't have time for anything else. Even if I wanted to take a moment for myself, I worry I’d just end up feeling guilty for not being productive.",
-    "therapist": "It sounds like you're feeling really caught in a cycle of constant busyness and guilt, which can be exhausting. The idea of taking a break seems to bring up a lot of pressure to stay productive, and that can make it even harder to find time for yourself. What if we explored some small, guilt-free ways to integrate short moments of rest into your day, even if just for a few minutes?",
+    "client": "Taking a moment to breathe does sound appealing, but I worry that it might just feel like another distraction from what I need to get done. I fear that if I pause, I'll lose even more time, and then I'll be even more behind. It feels like a catch-22—like I can't afford to take a break, but maybe I also can't afford not to.",
+    "therapist": "It sounds like you're really caught in a difficult cycle, feeling torn between the need to take a break and the fear of falling further behind. That catch-22 can be so frustrating, especially when it seems like every moment counts. What if we explored the idea of a short, structured break—something that feels manageable—and see if that helps you recharge without losing too much time? How do you feel about trying that?",
     "condition": "emotion_text_only",
-    "val_t": -0.2803339958190918,
-    "aro_t": 0.07999241352081299,
-    "text_emotion": "Sad"
+    "val_t": -0.13790786266326904,
+    "aro_t": 0.12557637691497803,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about being caught in a cycle, and I do feel that pressure to be productive all the time. But honestly, the idea of taking a break feels so foreign to me; I worry that if I stop, I won't be able to get back into my routine. It just seems really difficult to find even a few minutes without feeling guilty about what I should be doing instead.",
-    "therapist": "It sounds like the thought of taking a break feels really challenging for you, and I can understand why it might feel foreign when you’re so used to being in a productive mindset. That worry about losing momentum can make it seem even harder to step away, but it’s important to acknowledge that rest can actually help you be more effective in the long run. What if we brainstormed some very small, manageable breaks that wouldn’t feel overwhelming or disruptive to your routine?",
+    "client": "I see what you're saying about a short, structured break, but I still feel hesitant. What if I take that break and it doesn't help? I can't shake the feeling that it's just going to make me feel even more anxious when I come back to the work. It seems like I need to keep pushing through instead of stepping away.",
+    "therapist": "I can sense that you're feeling hesitant and a bit trapped in the belief that pushing through is the only way to manage your workload. It’s understandable to worry about the impact of a break, especially when anxiety is high. What if we considered the possibility that a brief pause could provide some clarity or energy, even if it feels uncertain? Would you be open to trying just a few minutes of deep breathing or stretching, and then checking in with yourself afterward to see how you feel?",
     "condition": "emotion_text_only",
-    "val_t": -0.25697970390319824,
-    "aro_t": 0.15764951705932617,
+    "val_t": -0.19268667697906494,
+    "aro_t": 0.14319860935211182,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about rest being important, but it feels really hard for me to even imagine taking a break. I'm so used to pushing through and being productive that the idea of stepping away feels like I'm just going to fall behind. Plus, I worry that if I take a break, I might lose my focus completely and not be able to get back into my routine.",
-    "therapist": "I can see how challenging it is for you to even consider taking a break when you’ve built such a strong habit of pushing through. It’s common to feel like stepping away might lead to losing focus, especially when you’re under so much pressure. Maybe we can explore some strategies that allow you to incorporate short breaks in a way that feels manageable and doesn’t disrupt your flow—what do you think would feel least intimidating for you to try?",
+    "client": "I appreciate that you're trying to help me find some clarity, but I still feel really skeptical about taking that break. What if it doesn’t do anything to help my anxiety? It just feels like I have so much to tackle that stepping away might only add to my stress. It’s hard to imagine that a few minutes could make a difference when I’m so focused on getting everything done.",
+    "therapist": "I can understand your skepticism; it’s really tough to see how a short break could make a difference when you're feeling so overwhelmed by everything that needs to be done. It’s completely normal to feel that stepping away might add to your stress instead of alleviating it. What if we tried to reframe that break as a moment to recharge, rather than a pause from your tasks? Maybe we could think of it as a way to come back with a clearer mind and more energy. How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.17756569385528564,
-    "aro_t": 0.053603529930114746,
-    "text_emotion": "Sad"
+    "val_t": -0.11349713802337646,
+    "aro_t": 0.16351747512817383,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I appreciate you acknowledging how tough it is for me to take breaks. Honestly, it feels like if I stop, everything will fall apart, and I’ll lose my momentum. I’m not sure how I could incorporate breaks without feeling guilty or like I’m wasting time.",
-    "therapist": "I really appreciate your honesty about how difficult it feels to take breaks without guilt. It’s understandable to fear that stopping will lead to losing your momentum, especially when you’re juggling so much. What if we looked at breaks not as a waste of time, but as a way to recharge and maintain your productivity in the long run? Can we brainstorm some tiny, specific moments you might feel comfortable with that could help you gradually ease into taking those breaks?",
+    "client": "I see what you’re saying about recharging, but it’s still hard for me to believe that a few minutes could really help me come back clearer and more energized. I just keep thinking about all the work piling up while I’m taking that time away. It feels like I can’t afford to take a break when I have so much to do; I’m worried that I’ll end up even more stressed when I come back to it all.",
+    "therapist": "It sounds like you’re really struggling with the idea of taking a break, feeling that it might only add to your stress instead of providing relief. It’s understandable to feel that way when you're facing a lot of demands. What if we approached this with a different perspective—maybe a very brief moment of stepping back to help clear your mind could actually help you tackle your tasks more effectively? How would it feel to experiment with just a minute or two, and then see how you feel afterward?",
     "condition": "emotion_text_only",
-    "val_t": -0.11973106861114502,
-    "aro_t": 0.12551093101501465,
+    "val_t": -0.27178072929382324,
+    "aro_t": 0.12196385860443115,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about breaks being necessary for recharging, but it just feels so counterintuitive to me. I worry that if I take even a small break, I'll just fall behind or lose focus. It’s hard to shake off that guilt, and I don’t really know how to start incorporating breaks without feeling like I'm slacking off.",
-    "therapist": "It sounds like the idea of taking breaks feels really counterintuitive and guilt-inducing for you, which can make it even harder to find a way to incorporate them into your routine. That tension between wanting to recharge and fearing that you’ll fall behind is completely understandable. What if we explored the idea of small, intentional breaks that feel more like a part of your workflow rather than a disruption? How might you feel about setting a timer for just a minute or two to start with?",
+    "client": "I understand where you’re coming from, but I still feel really conflicted. A minute or two doesn't seem like enough time to make a difference, and I worry that once I stop, it’ll be hard to get back into the groove of things. It feels like I should be using every moment to get work done instead of taking a break, even if it’s just for a minute.",
+    "therapist": "I hear you; it’s completely understandable to feel conflicted about taking even a moment for yourself when work feels so demanding. The pressure to keep moving can make it hard to see how a short pause could be beneficial. What if we considered that even a brief moment to reset could help you return with a fresh perspective and renewed energy? How might you feel about setting a timer for just a couple of minutes, giving it a try, and then assessing how it impacts your focus when you return to work?",
     "condition": "emotion_text_only",
-    "val_t": -0.21879875659942627,
-    "aro_t": 0.06998538970947266,
-    "text_emotion": "Sad"
+    "val_t": -0.18547308444976807,
+    "aro_t": 0.0918344259262085,
+    "text_emotion": "Angry"
   }
 ]

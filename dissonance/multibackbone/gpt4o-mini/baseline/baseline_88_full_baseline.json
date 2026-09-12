@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really lost since my partner passed away three months ago. It's hard to find the motivation to do anything I used to enjoy, like going for walks or cooking. I just feel stuck and unsure if therapy can really help me with this overwhelming sense of emptiness.",
-    "therapist": "I'm truly sorry to hear about your loss; it's completely understandable to feel lost and unmotivated during such a difficult time. Grief can be incredibly heavy, and it's important to honor those feelings while also exploring small steps that might help you reconnect with activities you once enjoyed. What do you think would be a gentle first step for you to take, perhaps in one of those activities?",
+    "client": "Luna, I've been feeling really lost since I lost my partner three months ago. It's like I've just shut down and can't find the motivation to do things I used to enjoy. I know I should be trying to get back into those activities, but nothing seems appealing anymore, and I often wonder if talking about it will actually make a difference.",
+    "therapist": "I'm truly sorry to hear about your loss; that deep sense of feeling lost is completely understandable. It's okay to feel unmotivated right now, as grief can be incredibly heavy. What activities did you used to enjoy, and how do you think they made you feel?",
     "condition": "baseline",
-    "val_t": -0.373258113861084,
-    "aro_t": 0.12911856174468994,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "I appreciate your understanding, but honestly, I just don't feel like doing anything right now. The thought of reconnecting with activities feels overwhelming, and I can't even remember what I used to enjoy. It feels like there's this heavy fog, and I’m not sure how to lift it, even a little.",
-    "therapist": "It sounds like you're really in the thick of that fog, and it's completely okay to feel that way right now. Sometimes, even the idea of reconnecting with activities can feel like too much, and it’s important to take that in stride. What if we focused on just one small moment today, like sitting outside for a few minutes or savoring a comforting drink, instead of thinking about the activities themselves? What do you think about that?",
-    "condition": "baseline",
-    "val_t": -0.08989763259887695,
-    "aro_t": 0.21462273597717285,
+    "val_t": -0.20176076889038086,
+    "aro_t": 0.13927733898162842,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I get what you're saying about taking it one small moment at a time, but honestly, even the thought of sitting outside feels overwhelming right now. I feel like I should be able to do more, but instead, I just end up feeling guilty for not being productive or for not enjoying things like I used to. What if I just can't even manage that?",
-    "therapist": "It’s really important to acknowledge that feeling guilty for not being productive is a common response, especially in the midst of grief. You’re dealing with a lot, and it's okay to give yourself permission to feel however you need to right now. What if, instead of focusing on what you \"should\" do, we explore how you might be able to show kindness to yourself during this time? What does being gentle with yourself look like for you?",
+    "turn": 2,
+    "client": "I used to love going for long walks in the park and painting. Those activities helped me feel more connected to myself and the world around me. Now, just thinking about them feels overwhelming, like I’m stuck in this fog and I doubt that doing them would bring any joy back. It just seems pointless right now.",
+    "therapist": "It makes sense that you feel overwhelmed when thinking about those activities, especially given the weight of your grief. It’s not uncommon for things that once brought joy to feel distant or even pointless during such a difficult time. What if you considered starting with just a short walk or a small painting session, without any pressure to feel joyful? How does the idea of taking a tiny step feel to you?",
     "condition": "baseline",
-    "val_t": -0.2990238666534424,
-    "aro_t": 0.15493929386138916,
+    "val_t": -0.05504405498504639,
+    "aro_t": 0.19449961185455322,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 3,
+    "client": "I get what you’re saying, but the idea of even a short walk feels daunting. I worry that I’ll just end up feeling more upset than I already am, and it feels like I’m not ready to face that. It’s hard to imagine doing something that used to bring me joy when all I feel is this heaviness inside.",
+    "therapist": "It's completely valid to feel daunted by the idea of facing those activities right now; the heaviness of grief can make even small steps feel monumental. It’s important to honor where you are in this process. What if instead of focusing on the activity itself, you allowed yourself to simply step outside for a moment, even if it’s just to breathe in the air? How would it feel to give yourself permission to just be, without any expectation?",
+    "condition": "baseline",
+    "val_t": -0.13865935802459717,
+    "aro_t": 0.2095426321029663,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I understand that I should be kinder to myself, but it feels really hard to let go of that guilt. I keep thinking about all the things I could be doing, and it feels like I'm wasting time. What does being gentle with myself even look like? I just feel so lost in this grief.",
-    "therapist": "It’s completely understandable to feel that way; grief can create a strong sense of urgency and pressure to \"do\" more, even when you’re struggling. Being gentle with yourself might mean allowing space for your feelings without judgment, acknowledging that it's okay to feel lost right now. What if you took a moment to write down how you're feeling, without any expectations to change it, just to express what’s on your mind? How does that idea resonate with you?",
+    "client": "I see what you're saying, but even stepping outside feels like a big deal. I worry that just being outside will remind me of everything I’ve lost, and I’m not sure I want to face those feelings right now. It’s like I’m stuck between wanting to feel better and being terrified of what that means.",
+    "therapist": "It's completely understandable to feel torn between wanting to feel better and the fear of facing painful emotions. It’s okay to take your time and not rush into anything that feels too overwhelming. What if you considered creating a safe space for yourself, even indoors, where you can sit with those feelings without pressure? How might that feel for you?",
     "condition": "baseline",
-    "val_t": -0.37156879901885986,
-    "aro_t": 0.12116825580596924,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate that you understand how overwhelming grief can feel. Writing down my feelings sounds like it could help, but I worry that it might just turn into another task I put pressure on myself to do perfectly. What if I just end up feeling more lost or upset after putting everything down on paper?",
-    "therapist": "It's completely normal to feel apprehensive about writing down your feelings, especially if it feels like another task to manage. Remember, there’s no right or wrong way to express yourself; it’s about letting your thoughts flow without the pressure of perfection. What if you approached it as a free-write, giving yourself permission to write whatever comes to mind, even if it’s just a few words? How does that sound to you?",
-    "condition": "baseline",
-    "val_t": -0.29803466796875,
-    "aro_t": 0.14998209476470947,
+    "val_t": -0.2228306531906128,
+    "aro_t": 0.25980210304260254,
     "text_emotion": "Angry"
   },
   {
-    "turn": 6,
-    "client": "I get what you're saying, and I know it’s supposed to help, but I still feel a bit overwhelmed at the thought of writing my feelings down. It feels like just another thing to stress over, and I worry that if I try to write freely, it might just turn into a jumbled mess that doesn't even make sense. What if I can't get my thoughts out the way I want to?",
-    "therapist": "It’s completely valid to feel overwhelmed by the idea of writing, especially when you're already feeling so much. It’s okay if your thoughts come out as a jumbled mess; the goal isn’t to create something perfect, but rather to give yourself a chance to release whatever is inside you, however it comes out. What if you tried speaking your feelings out loud instead, maybe recording them on your phone, so you can express them without the pressure of writing? How does that option feel for you?",
+    "turn": 5,
+    "client": "Creating a safe space sounds nice in theory, but I’m not sure how to actually do that. My mind is so cluttered with sadness that I can’t really picture what that space would look like or how it would help. It feels like I’d just end up sitting with my thoughts, feeling even more alone in the quiet, which is hard for me to accept right now.",
+    "therapist": "It's completely understandable to feel unsure about how to create a safe space, especially when your mind feels cluttered with sadness. The idea of sitting in quiet can indeed feel daunting when you're grappling with loneliness. What if you tried incorporating something comforting into that space, like a favorite blanket, soothing music, or even a warm drink? How do you think having a small comforting element might change your experience?",
     "condition": "baseline",
-    "val_t": -0.24645066261291504,
-    "aro_t": 0.23796916007995605,
+    "val_t": -0.2398371696472168,
+    "aro_t": 0.06825649738311768,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 6,
+    "client": "I guess adding something comforting could help a bit, but I’m still worried it won’t be enough to distract me from the sadness. It feels like no matter what I try, that heaviness will still be there, lurking in the background. I just don’t want to feel more alone while I'm trying to create this space; it’s hard to shake off that feeling of loneliness.",
+    "therapist": "It's really brave of you to acknowledge that heaviness and the loneliness that comes with it. It's normal to feel like those feelings are always present, and creating a space doesn’t mean you have to ignore or push them away. What if you thought about inviting a friend or family member into that space, even if just for a chat or to share a comforting activity together? How might having someone there help you feel less alone in this process?",
+    "condition": "baseline",
+    "val_t": -0.2164628505706787,
+    "aro_t": 0.09192872047424316,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about it being okay to not be perfect, but the idea of recording my feelings feels a bit intimidating. I worry that I'll just end up sounding silly or that I'll say something I don't really mean in the moment. It feels like even if I try to just let it out, I might get stuck overthinking how I sound.",
-    "therapist": "It’s completely understandable to feel intimidated by the idea of recording your thoughts; it can feel vulnerable to express yourself in that way. Remember, this is about giving yourself a safe space to explore your feelings without judgment, and it’s okay if it doesn’t come out perfectly. What if you tried just talking to yourself in a private moment, without recording it, to see how that feels? How do you think that approach might help you express what you’re feeling?",
+    "client": "I like the idea of inviting someone over, but I worry about burdening them with my sadness. It feels like I’d just end up bringing the mood down, and I don’t want to make them uncomfortable. Plus, sometimes I just don’t have the energy to talk about everything I’m feeling, so I’m not sure how that would work.",
+    "therapist": "It's thoughtful of you to consider how your feelings might impact others, but it’s important to remember that true friends often want to support you, even if it feels heavy. You don’t have to discuss everything you’re feeling; sometimes just sharing space and being together can be comforting without the pressure to talk. How might it feel to invite someone over with the understanding that it’s okay to simply enjoy each other’s company without delving deep into emotions?",
     "condition": "baseline",
-    "val_t": -0.2078542709350586,
-    "aro_t": 0.21135973930358887,
-    "text_emotion": "Angry"
+    "val_t": -0.21822619438171387,
+    "aro_t": 0.023817777633666992,
+    "text_emotion": "Sad"
   },
   {
     "turn": 8,
-    "client": "I get that it's supposed to be a safe space, but the thought of even talking to myself feels a bit silly. I worry that if I do it, I won’t really know what to say or how to start. What if I just end up feeling even more anxious about it?",
-    "therapist": "It's completely normal to feel a bit silly or anxious about talking to yourself; many people do! The key is to remember that there's no right way to start or express your feelings, and it's perfectly okay to simply say whatever comes to your mind, even if it feels random or disjointed. What if you began by just naming one thing you’re feeling right now, no matter how small, and see where that takes you? How does that sound?",
+    "client": "I see your point about friends wanting to support me, but I still feel hesitant. It just seems like a lot to ask of someone when I'm not even sure what I want from that interaction. I worry I’ll end up feeling awkward or like I’m dragging them down, and I’m not sure how to navigate that without just retreating back into my loneliness.",
+    "therapist": "It's completely natural to feel hesitant about reaching out, especially when you're unsure of what you want from the interaction. It's okay to be honest about your feelings with your friend; sometimes just expressing that you’re looking for companionship, without any expectations, can relieve some pressure. What do you think about starting with a simple message, letting them know you’d love some company, and being open about how you’re feeling? How might that help you feel more connected, even if it feels vulnerable?",
     "condition": "baseline",
-    "val_t": -0.27268660068511963,
-    "aro_t": 0.20776081085205078,
-    "text_emotion": "Angry"
+    "val_t": -0.258419394493103,
+    "aro_t": 0.05389523506164551,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I guess I feel a bit skeptical about talking to myself like that. It just seems kind of strange and, honestly, a little embarrassing. I worry that if I start naming my feelings, it might just make me feel more overwhelmed instead of helping.",
-    "therapist": "It’s completely understandable to feel skeptical about talking to yourself; it can feel strange and even embarrassing at first. It’s important to honor those feelings, and it’s okay to approach self-expression in a way that feels comfortable for you. What if you simply took a moment to reflect on how you feel without any pressure to label it, maybe by just sitting quietly for a minute? What do you think that experience might be like for you?",
+    "client": "I want to believe that reaching out could help me feel more connected, but I still feel a knot in my stomach thinking about sending that message. It feels so vulnerable to lay my feelings bare when I’m just not used to doing that. I guess part of me worries that they won't understand or that it’ll just make me feel more exposed, which is really scary right now.",
+    "therapist": "It's completely normal to feel a knot in your stomach when thinking about being vulnerable; that feeling often shows how much you care about the connection and how daunting it can be to share your emotions. It’s okay to take small steps, like sending a brief message that doesn’t require you to lay everything bare at once. What if you started with something simple, like letting them know you’re going through a tough time and would appreciate their company? How would it feel to frame it that way?",
     "condition": "baseline",
-    "val_t": -0.18481481075286865,
-    "aro_t": 0.12299120426177979,
+    "val_t": -0.2883565425872803,
+    "aro_t": 0.221962571144104,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get that sitting quietly could be helpful, but honestly, it feels a bit daunting. My mind tends to race, and when I try to reflect, all I end up doing is worrying about everything I haven’t done or what I should be doing instead. I’m not sure if just sitting there with my thoughts will really help; it might just make me feel more anxious.",
-    "therapist": "It’s completely understandable to feel daunted by sitting quietly, especially when your mind is racing with worries. It can be challenging to confront those thoughts without distraction. What if you tried to set a very brief time limit, like just one minute, and focused on your breath instead? You could gently guide your mind back to your breath whenever it starts to wander. How do you think that approach might help you feel more grounded?",
+    "client": "I appreciate your suggestion, but even a simple message feels intimidating to me. It’s hard to put myself out there when I feel so vulnerable, and I keep thinking about what if they don’t respond or don’t know how to help. I guess I'm just scared of being rejected or feeling even more alone if they can’t be there for me in the way I need.",
+    "therapist": "It’s completely understandable to feel intimidated by the idea of reaching out, especially when vulnerability is involved. The fear of rejection and the uncertainty of how someone might respond can make it feel even more daunting. What if you allowed yourself to focus less on the potential outcomes and more on the act of reaching out as a step toward connection? How might that shift in perspective feel for you?",
     "condition": "baseline",
-    "val_t": -0.23545503616333008,
-    "aro_t": 0.10656070709228516,
+    "val_t": -0.2539921998977661,
+    "aro_t": 0.19920778274536133,
     "text_emotion": "Angry"
   }
 ]

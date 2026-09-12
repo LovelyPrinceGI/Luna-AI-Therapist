@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, it's been a tough couple of weeks. Since losing my job at the tech company last February, I've been feeling really overwhelmed by financial insecurity. I know I need to update my resume, but every time I sit down to do it, I just feel stuck and unsure about how to move forward.",
-    "therapist": "Hi there, I'm so sorry to hear that you've been feeling overwhelmed by everything. It's completely understandable to feel stuck and unsure, especially when facing financial insecurity. Can you tell me more about what specifically feels difficult when you try to update your resume?",
+    "client": "Hey Luna, I've been really struggling lately. Since losing my job at the tech company last February, I feel like I'm drowning in financial insecurity, and I have no idea how to update my resume to even start looking for a new job. I keep second-guessing myself and wondering if therapy can really make a difference here.",
+    "therapist": "Hello, I'm so glad you reached out. It sounds like you're going through a really tough time, and it's completely understandable to feel overwhelmed with all the uncertainty. Losing a job can be such a significant blow, both financially and emotionally. Have you tried breaking down the process of updating your resume into smaller, manageable steps? And how do you feel about exploring what aspects of therapy might help you navigate this challenging period?",
     "condition": "emotion_text_only",
-    "val_t": -0.30874478816986084,
-    "aro_t": 0.22026371955871582,
+    "val_t": -0.2995114326477051,
+    "aro_t": 0.18842005729675293,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "It's just hard because I feel like I don't have much to put on my resume. I've been in the same job for a while, and I don't think I've gained a lot of new skills. Plus, I'm always so anxious about making it sound good enough. It feels like everything I write isn't good enough.",
-    "therapist": "It sounds like you're putting a lot of pressure on yourself to make your resume perfect, and that can definitely make it hard to get started. It's natural to feel anxious about showcasing your skills, especially if you feel you haven't gained many new ones recently. Can we explore some of the experiences and skills you do have that might be valuable to potential employers?",
+    "client": "Yeah, I've tried to break it down, but it just feels so overwhelming. I keep second-guessing every word and wondering if it's good enough. And to be honest, I'm not sure how therapy can really help with something as practical as updating a resume. It feels like a job search is more about skills and networking than therapy.",
+    "therapist": "I can really understand how overwhelming and frustrating it must be to second-guess every word on your resume. It's natural to feel unsure about how therapy can help with practical tasks, but therapy can actually be a great support in managing the emotional aspects that can get in the way, like self-doubt and anxiety. Have you considered how building confidence and reducing stress might make the job search process feel more manageable? What do you think might be the biggest challenge in feeling confident about your resume?",
     "condition": "emotion_text_only",
-    "val_t": -0.18127858638763428,
-    "aro_t": 0.23727822303771973,
-    "text_emotion": "Angry"
+    "val_t": -0.01638615131378174,
+    "aro_t": 0.12970340251922607,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I appreciate that, but it's hard for me to see the value in the experiences I've had. I feel like I've been stuck in the same routine for so long, and it seems like everyone else is moving forward. It's tough to pinpoint what I have to offer that's unique or valuable.",
-    "therapist": "I can really understand how challenging it feels to see value in your experiences, especially when it seems like others are moving forward. It's important to remember that everyone's journey is unique, and even routine experiences can provide valuable skills and insights. What are some of the strengths or qualities you think you've developed through your routine that could be attractive to employers?",
+    "client": "I see what you mean about the emotional side of things. Building confidence and reducing stress could definitely help, but I feel like my biggest challenge is just not knowing what employers are looking for these days. The job market seems so different now, and I'm worried I'm out of touch. It's hard to feel confident when I don't even know if my skills are relevant anymore.",
+    "therapist": "I can totally understand why feeling out of touch with the job market would be a significant source of worry. It's natural to question the relevance of your skills, especially given how rapidly things can change. One helpful step might be to do some research on current job postings and see what skills and experiences are being highlighted. What do you think might be the first step you could take to feel more connected to what employers are looking for today?",
     "condition": "emotion_text_only",
-    "val_t": -0.003485560417175293,
-    "aro_t": 0.08985412120819092,
+    "val_t": -0.0677332878112793,
+    "aro_t": 0.1289827823638916,
     "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I appreciate that, Luna. It's hard for me to see those strengths sometimes, though. I feel like my routine just makes me feel stuck and unremarkable, and I worry that employers won't see the value in what I've been doing. It's easy to get caught up in feeling like I'm not measuring up to others.",
-    "therapist": "I completely understand how difficult it can be to see your own strengths when you're feeling stuck and unremarkable. It's natural to compare yourself to others and worry about measuring up, but it's important to recognize the unique value you bring to the table. Can we take a moment to list some of the positive qualities or skills you've developed, even if they seem small or routine to you?",
+    "client": "I think the first step could be to look at some job postings and see what skills they're asking for. But it's hard because I don't know where to start. There are so many different platforms and companies, and I feel like I might just get overwhelmed with all the information. How can I make this process less daunting?",
+    "therapist": "It's great that you've identified looking at job postings as a first step. Feeling overwhelmed with all the information is completely understandable, and it's important to approach this in a way that feels manageable for you. One approach could be to start with just one or two platforms that you find most user-friendly, and maybe set aside a specific time each day to review a few job postings. How does that sound to you? And what do you think might help you stay focused and less overwhelmed as you start this process?",
     "condition": "emotion_text_only",
-    "val_t": -0.002666950225830078,
-    "aro_t": 0.04791820049285889,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I appreciate you saying that, but it's hard for me to think of anything positive right now. Everything feels so small and insignificant. I mean, I don't really have any standout skills or qualities that make me special. It's hard to see the value in the things I do when they seem so ordinary.",
-    "therapist": "I hear you, and it's completely understandable to feel that way when you're in a tough spot. It can be really challenging to see the positive aspects of your routine and skills when you're feeling down. Let's try to break it down a bit. Can you think of any times when you've received positive feedback or recognition for something you did, even if it seemed small at the time?",
-    "condition": "emotion_text_only",
-    "val_t": -0.08011436462402344,
-    "aro_t": 0.04988062381744385,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate you trying to help me see the positive, but it's tough. I feel like even the smallest things I do right get overshadowed by my mistakes. It's hard to remember those positive moments when I'm so focused on what I'm doing wrong.",
-    "therapist": "I completely understand how tough it can be to focus on the positive when you feel like your mistakes are overshadowing everything else. It's a common struggle, and it can really make it hard to see your own worth. Can we try to balance the scale a bit by identifying some small wins or moments of success, even if they seem minor? What are some things you've done well recently, no matter how small they might seem?",
-    "condition": "emotion_text_only",
-    "val_t": -0.07451176643371582,
-    "aro_t": 0.14374136924743652,
+    "val_t": -0.09443819522857666,
+    "aro_t": 0.17106235027313232,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I appreciate you saying that, Luna. It's just hard because my mind always goes to the negative stuff. Like, I feel like even the smallest things I do right get overshadowed by my mistakes. I don't know if I can find any small wins right now. It feels like everything I try to do well just ends up falling apart.",
-    "therapist": "I can really understand how your mind tends to focus on the negative, and it's completely normal to feel that way, especially when you're under stress. It sounds like you're being very hard on yourself, and that can make it tough to see your own successes. Can we try a different approach? Let's think about a recent situation where you felt you made a mistake. Can you recall any small part of that situation where you handled things well, even if it didn't go perfectly?",
+    "turn": 5,
+    "client": "That sounds like a good plan. Setting aside specific times to look at job postings could help me stay organized and less overwhelmed. But I'm still a bit nervous about sifting through all the information and making sure I'm not missing anything important. Maybe having a checklist or a guide could help me stay on track and feel more confident.",
+    "therapist": "I'm glad that setting aside specific times feels like a good plan for you. It's totally normal to still feel a bit nervous about sifting through all the information. Creating a checklist or a guide is a fantastic idea—it can really help you stay organized and focused. You might start by listing the key skills and experiences you want to highlight, and then use that to compare against the job postings you review. How does that sound, and is there anything else you think could help you feel more confident as you start this process?",
     "condition": "emotion_text_only",
-    "val_t": -0.08340764045715332,
-    "aro_t": 0.11802148818969727,
+    "val_t": 0.12312948703765869,
+    "aro_t": 0.13588082790374756,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 6,
+    "client": "I like the idea of a checklist. It feels like it could really help me stay on track and make sure I'm not missing anything important. But I'm still a bit worried about how to prioritize which skills and experiences to highlight. Maybe if I could get some feedback on my list from someone who knows the industry well, it would help me feel more confident.",
+    "therapist": "It's great that you're thinking about creating a checklist to help you stay on track. Seeking feedback from someone who knows the industry well is a smart move and can definitely boost your confidence. It might also be helpful to look at the job descriptions of roles you're interested in and see which skills are consistently mentioned. This can give you a good idea of what to prioritize. How do you feel about reaching out to a mentor or a colleague for feedback, and do you have anyone in mind who could provide that support?",
+    "condition": "emotion_text_only",
+    "val_t": 0.1448744535446167,
+    "aro_t": 0.08136427402496338,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 7,
+    "client": "Reaching out for feedback sounds like a good idea, but I'm a bit hesitant because I don't want to bother anyone. I do have a few old colleagues who might be able to help, but I haven't talked to them in a while. It feels a bit awkward to reach out after all this time, and I'm not sure how to approach them.",
+    "therapist": "I understand that reaching out after a long time can feel a bit awkward and hesitant. It's natural to worry about bothering someone, but remember that most people are usually happy to help, especially if they value your connection. You might start with a brief, friendly message expressing how you've been thinking about them and how their insights could really help you as you navigate your job search. How do you think you might frame your message to make it feel less awkward and more natural?",
+    "condition": "emotion_text_only",
+    "val_t": -0.10618793964385986,
+    "aro_t": 0.05717957019805908,
     "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying that, Luna. It's just hard for me to see the good in those situations. I feel like any small thing I do right gets overshadowed by the mistakes. But I can try to think about it. There was that meeting last week where I felt I messed up, but maybe I did handle the initial presentation well. It's just hard to focus on that when the rest of it didn't go as planned.",
-    "therapist": "I understand how challenging it can be to see the good in those situations, especially when the mistakes feel more prominent. It's great that you're willing to try and look at the positives, even if it's difficult. Recognizing that you handled the initial presentation well is a step in the right direction. Can you think of any other moments in that meeting where you might have done something well, even if it was just a small part?",
+    "client": "I appreciate your advice, Luna. I think a friendly and brief message could work, but I'm still a bit nervous about how to start the conversation without it feeling forced. Maybe I could start with a quick update on what I've been up to and then gently bring up the topic of my job search. Do you think that would make it feel more natural?",
+    "therapist": "That's a thoughtful approach, and starting with a quick update on what you've been up to can definitely make the conversation feel more natural and less forced. It shows that you're interested in reconnecting and that your request for feedback is part of a genuine conversation. You might also consider sharing a bit about why you value their opinion and how their insights could help you. How does that sound, and do you have any specific points in mind that you'd like to include in your message?",
     "condition": "emotion_text_only",
-    "val_t": -0.011116385459899902,
-    "aro_t": 0.06692624092102051,
-    "text_emotion": "Neutral"
+    "val_t": 0.09310460090637207,
+    "aro_t": 0.1332085132598877,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I guess I could try to think of other moments, but it's really hard to focus on the positives when I feel like I messed up so badly. I mean, I did stumble a lot during the Q&A, and that's what everyone probably remembers. It's just tough to see anything good in that.",
-    "therapist": "I can see how tough it is for you to focus on the positives, especially when you feel like you stumbled during the Q&A. It's natural for our minds to latch onto the mistakes, but it's important to give yourself credit for the parts you did handle well. Can you think of any specific moments during the Q&A where you might have provided a good answer or showed your knowledge, even if it was just one or two questions?",
+    "client": "That sounds like a good plan. I think I'll start with a brief update and then explain why I value their opinion. I'll mention that I'm navigating a job search and that their insights could really help me prioritize the right skills and experiences. It still feels a bit daunting, but I think it's a step in the right direction.",
+    "therapist": "That's a great plan, and I'm really proud of you for taking this step. It's completely normal to feel a bit daunting, but you're approaching it in a thoughtful and considerate way, which is a strong foundation. Reaching out with a brief update and explaining why their insights are valuable can make the conversation feel more natural and meaningful. How do you feel about setting a specific time to send out these messages, and what do you think might help you feel more confident as you prepare to reach out?",
     "condition": "emotion_text_only",
-    "val_t": -0.17994844913482666,
-    "aro_t": 0.027871131896972656,
-    "text_emotion": "Sad"
+    "val_t": 0.18061316013336182,
+    "aro_t": 0.12389981746673584,
+    "text_emotion": "Excited"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it's really hard for me to recall anything positive from that Q&A. I felt so flustered and unsure of myself, and I keep replaying the moments where I stumbled. I don't think I did anything well enough to feel good about it.",
-    "therapist": "I understand how difficult it is to recall anything positive when you're feeling flustered and unsure. It's natural to replay the moments where you stumbled, and that can make it hard to see the good. Can we try to take a step back and look at the bigger picture? Sometimes, even in moments of struggle, there are small things we can learn or take away that can be helpful for the next time. What do you think you could take away from that experience that might help you feel more prepared for future Q&As?",
+    "client": "I feel a bit more confident knowing that I have a plan, but I'm still a little anxious about actually hitting send. Setting a specific time to do it might help, like right after lunch when I'm feeling more energized. Maybe if I write out a draft of the message first, I can review it and make sure it feels right before I send it.",
+    "therapist": "It's completely understandable to still feel a bit anxious about hitting send, but you're taking such positive steps to manage those feelings. Setting a specific time to do it, like right after lunch when you're feeling more energized, is a great strategy. Writing out a draft first can definitely help you feel more confident and ensure that the message feels right. How does it feel to have a clear plan in place, and what do you think might help you stay motivated as you prepare to send those messages?",
     "condition": "emotion_text_only",
-    "val_t": -0.2149515151977539,
-    "aro_t": 0.18349778652191162,
-    "text_emotion": "Angry"
+    "val_t": 0.06860232353210449,
+    "aro_t": 0.1132957935333252,
+    "text_emotion": "Neutral"
   }
 ]

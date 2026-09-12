@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really down lately. After failing my final exam in calculus, I can't shake off these feelings of inadequacy. I keep questioning whether I'm cut out for my major at all. It's been really tough.",
-    "therapist": "I'm really sorry to hear that you're feeling this way. It's completely understandable to feel down and question yourself after such a setback. Can you tell me more about what specific thoughts are coming up for you when you think about your major and your future?",
+    "client": "Hey Luna, I've been really struggling lately. After failing my final exam in calculus, I can't stop feeling like I'm just not good enough. I keep questioning whether I can even succeed in my chosen major, and it's really weighing on me. I know we're here to work on this, but sometimes I wonder if therapy can really make a difference.",
+    "therapist": "I'm so glad you shared that with me. It sounds incredibly challenging to be facing these doubts, especially after something as significant as failing an exam. How have you been coping with these feelings, and what do you think might help you feel more supported right now?",
     "condition": "baseline",
-    "val_t": -0.2843289375305176,
-    "aro_t": 0.1330808401107788,
+    "val_t": -0.22542941570281982,
+    "aro_t": 0.16780757904052734,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Yeah, it's just been really tough. I keep thinking that maybe I made the wrong choice with my major, you know? I feel like I’m not good enough, and I wonder if I’m just setting myself up for more failure. It's hard to see a clear path forward.",
-    "therapist": "It sounds like you're carrying a lot of doubt and uncertainty, and that can be really overwhelming. It’s natural to question your choices, especially after a difficult experience. What do you think would help you feel more confident or at least give you some clarity about your path?",
+    "client": "It's been tough. I've been trying to distract myself with other activities, like watching TV or hanging out with friends, but it feels like a temporary fix. I think what might help is if I could find a way to see this failure as a learning opportunity rather than a reflection of my worth, but I'm not sure how to do that. It feels really overwhelming.",
+    "therapist": "I can really understand how overwhelming this must feel, and it’s great that you’re reaching out for different ways to cope. It’s a big step to see the failure as a learning opportunity, and it’s okay to take it one step at a time. What do you think might be a small, manageable step you could take to start shifting your perspective on this?",
     "condition": "baseline",
-    "val_t": -0.3140145540237427,
-    "aro_t": 0.06887662410736084,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 3,
-    "client": "I feel like I'm stuck in this loop of doubt and uncertainty, and it's hard to see a clear path forward. I think what would help is if I could just feel more certain about my decisions, but that certainty seems so out of reach right now. It's hard because every time I try to make a decision, I end up second-guessing myself and feeling even more lost.",
-    "therapist": "It sounds like you're caught in a cycle of self-doubt, and that can really make it hard to move forward. It’s completely understandable to crave certainty, but it’s also okay to make decisions even when you don’t feel 100% sure. What small step could you take today that might help you feel a bit more in control or give you some direction, even if it’s just a tiny step?",
-    "condition": "baseline",
-    "val_t": -0.291986346244812,
-    "aro_t": 0.15760338306427002,
+    "val_t": -0.1644681692123413,
+    "aro_t": 0.24207651615142822,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "I appreciate that, but it’s hard because I feel like every small step I take just leads to more doubts and second-guessing. It’s like I’m stuck in this loop where I can’t trust my decisions. How do I break out of that?",
-    "therapist": "I can see how frustrating and discouraging that must feel. It’s really tough when you’re in a cycle of doubt like that. One thing we can explore is identifying the specific thoughts that come up when you start to second-guess yourself. Can you share some of those thoughts with me? Once we have a clearer picture, we can look at them more closely and see if there are any patterns or if there’s evidence that might challenge those thoughts.",
+    "turn": 3,
+    "client": "I appreciate that, Luna. I guess a small step could be to talk to my professor about where I went wrong and how I can improve. But I'm worried they might just tell me it's too late or that I’m not cut out for the course. It's hard to feel motivated when I'm already so down on myself.",
+    "therapist": "It’s completely understandable to feel worried about that conversation, and it’s a brave step to even consider it. Talking to your professor can provide valuable insights and might offer you a clearer path forward. What do you think might help you feel a bit more prepared or supported going into that conversation?",
     "condition": "baseline",
-    "val_t": -0.17837822437286377,
-    "aro_t": 0.14242041110992432,
+    "val_t": -0.10942661762237549,
+    "aro_t": 0.09855079650878906,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "I think having a list of specific questions to ask might help me feel more prepared. That way, I won’t feel like I’m just rambling or wasting their time. But I’m still nervous about how they’ll react, and I’m not sure if I’ll be able to handle any negative feedback they might give.",
+    "therapist": "Creating a list of specific questions is a great strategy to help you feel more prepared and focused. It’s natural to feel nervous about how your professor will react, but remember that they are there to support your learning. What do you think might help you manage your anxiety in the moment, like a deep breathing exercise or a positive affirmation?",
+    "condition": "baseline",
+    "val_t": -0.13072729110717773,
+    "aro_t": 0.13994932174682617,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess the main thought that keeps coming up is that I feel like I’m not good enough, and that everyone else is doing better than me. It’s hard because I see others succeeding and I just feel like I’m falling behind. I’m not sure if identifying these thoughts will really change anything, though.",
-    "therapist": "It’s really brave of you to share those thoughts. Feeling like you’re not good enough and comparing yourself to others can be incredibly tough. It’s completely understandable to feel that way, especially when you see others succeeding. Let’s take a closer look at these thoughts. Can you think of any times when you’ve succeeded or shown strength, even if it was in a different area? Sometimes it helps to gather evidence that can provide a more balanced view.",
+    "client": "I like the idea of using a deep breathing exercise to calm down before the meeting. I’ll try to practice it a few times before I go. But I’m still worried that even if I get some advice, I might not be able to follow through with it because I feel so discouraged. It’s hard to stay motivated when I’m already feeling so down.",
+    "therapist": "It’s great that you’re open to trying the deep breathing exercise, and practicing it beforehand can really help you feel more centered. Feeling discouraged is a common part of the process, and it’s okay to acknowledge that. What are some small, achievable steps you can take to start rebuilding your motivation, even if it’s just a little bit at a time?",
     "condition": "baseline",
-    "val_t": -0.1858123540878296,
-    "aro_t": 0.054480910301208496,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 6,
-    "client": "I appreciate that, but it’s hard to think of those moments right now. It feels like every time I try to remember something positive, the negative thoughts just drown them out. I know I’ve had some successes, but they don’t seem to stick in my mind as much as the failures do.",
-    "therapist": "I can see how overwhelming those negative thoughts can be, and it’s completely understandable that they overshadow the positive moments. It’s a common experience, but we can work on bringing those positive experiences back into focus. What if we tried a small exercise where you write down one small success or positive moment each day, no matter how minor it might seem? This can help build a more balanced perspective over time. How does that sound to you?",
-    "condition": "baseline",
-    "val_t": 0.01324772834777832,
-    "aro_t": 0.028768301010131836,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 7,
-    "client": "I appreciate the idea, but it feels like a lot to keep track of, especially when my mind is already so cluttered with anxiety. It's hard to find those positive moments when the negative ones are so loud. I worry that I might just end up feeling even more overwhelmed or like I'm failing at something else.",
-    "therapist": "I understand that adding another task to your plate can feel overwhelming, especially when you’re already dealing with a lot of anxiety. It’s okay to take things one small step at a time. What if we started with something even simpler, like just taking a few moments each day to acknowledge one thing that went okay, even if it’s just a small moment of relief or a brief positive feeling? How does that feel to you?",
-    "condition": "baseline",
-    "val_t": -0.21424555778503418,
-    "aro_t": 0.2114008665084839,
+    "val_t": -0.17355263233184814,
+    "aro_t": 0.08834660053253174,
     "text_emotion": "Angry"
   },
   {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It does sound more manageable. But I still worry that even this small step might feel like too much some days, especially when my anxiety spikes. I’m not sure I’ll be able to find those positive moments when everything feels overwhelming.",
-    "therapist": "I completely understand your concerns, and it’s okay to feel unsure about taking even small steps. It’s important to be gentle with yourself and recognize that some days will be harder than others. What if, on those tough days, you allowed yourself to simply notice a neutral moment, like a moment of stillness or a break in the day? This can be a way to acknowledge that not everything has to be positive or negative. How does that idea resonate with you?",
+    "turn": 6,
+    "client": "I think setting very small, manageable goals might help. Maybe I could start by reviewing one chapter of my calculus textbook each day or working on a few practice problems. But it’s hard to believe these small steps will make a difference when I feel so stuck and overwhelmed.",
+    "therapist": "Setting small, manageable goals is a fantastic approach, and it’s great that you’re considering this. Each small step can build your confidence and momentum over time, even if it doesn’t feel like it will make a big difference right away. How do you think you can celebrate or acknowledge these small victories to help keep yourself motivated?",
     "condition": "baseline",
-    "val_t": -0.09030377864837646,
-    "aro_t": 0.22674524784088135,
-    "text_emotion": "Tense"
+    "val_t": -0.12990963459014893,
+    "aro_t": 0.1678227186203003,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 7,
+    "client": "I think celebrating small victories could help, but I’m not sure what would feel like a meaningful way to do that. Maybe treating myself to a small treat after I complete a chapter or something like that. But it feels a bit trivial compared to how big this failure feels.",
+    "therapist": "It’s completely understandable to feel that way, and finding a way to celebrate small victories is a personal and meaningful process. Treating yourself to a small treat is a great idea and can be a nice way to acknowledge your efforts. What other things bring you a sense of joy or accomplishment, even in small ways? How might you incorporate those into your routine to make the process feel more meaningful?",
+    "condition": "baseline",
+    "val_t": -0.10338664054870605,
+    "aro_t": 0.08225953578948975,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I appreciate that, Luna. Listening to music or going for a short walk usually helps me feel better, even if just a little. I could try to incorporate those things after I complete my small goals. But it’s hard to feel motivated when the end goal still feels so far away and daunting.",
+    "therapist": "It’s great that you recognize what brings you a sense of comfort and relief, like listening to music or going for a walk. Incorporating these activities can definitely make the process feel more rewarding and less daunting. How do you think you can break down your larger goals into even smaller, more immediate steps to help you feel a sense of progress and motivation?",
+    "condition": "baseline",
+    "val_t": 0.15436816215515137,
+    "aro_t": 0.09564840793609619,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I appreciate that, Luna. It’s hard for me to see the neutral moments sometimes, especially when I feel so overwhelmed by anxiety and guilt. I worry that even trying to find those moments might just make me feel like I’m not doing enough. How can I make it easier to recognize those neutral times without adding more pressure?",
-    "therapist": "I understand that recognizing neutral moments can feel challenging, especially when you’re already dealing with a lot of anxiety and guilt. It’s important to approach this with self-compassion and without adding more pressure. One way to make it easier might be to set a gentle reminder for yourself, like a notification on your phone, to take a moment to pause and just notice your surroundings or your breath. This can help you ground yourself in the present without the expectation of finding something positive. How does that feel to you?",
+    "client": "I think breaking down my goals into even smaller steps could help, like reviewing just one section of a chapter or solving one problem at a time. But I’m still worried that I’ll get overwhelmed and give up. It’s hard to keep pushing forward when I feel so discouraged.",
+    "therapist": "Breaking down your goals into even smaller steps is a wise approach, and it can really make a difference in managing that sense of overwhelm. It’s totally normal to feel worried about giving up, but each small step you take is a victory in itself. What do you think might help you stay connected to your motivation and remind yourself why you’re pushing forward, even when it feels tough?",
     "condition": "baseline",
-    "val_t": -0.09467947483062744,
-    "aro_t": 0.16900742053985596,
+    "val_t": -0.26075875759124756,
+    "aro_t": 0.11747050285339355,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but I'm not sure if setting reminders will actually help. It feels like another thing to manage, and I worry it might just add to my anxiety instead of reducing it. I guess I’m just skeptical about how much it will actually make a difference.",
-    "therapist": "I completely understand your skepticism, and it’s valid to feel that way. Adding another thing to manage can feel overwhelming, especially when you’re already dealing with a lot. Instead of setting reminders, what if we tried a different approach, like finding a few minutes each day to simply sit with your thoughts and feelings without judgment? This could be a time to acknowledge how you’re feeling without trying to change anything. How does that feel to you?",
+    "client": "I think writing down my reasons for wanting to succeed in my major, like the career I want to have and the impact I want to make, might help me stay motivated. But it’s hard to keep that in mind when I feel like I’m failing at every turn. I’ll try to keep a list of these reasons and look at it when I’m feeling down, but I’m not sure it will be enough to overcome these feelings of inadequacy.",
+    "therapist": "Writing down your reasons for wanting to succeed is a powerful tool, and it can serve as a strong reminder of your deeper motivations. It’s completely understandable that it’s hard to keep those reasons in mind when you’re feeling down, but having that list to refer to can be a helpful anchor. What do you think might be a small, daily practice you can do to reinforce these reasons and gradually build your confidence?",
     "condition": "baseline",
-    "val_t": -0.07755255699157715,
-    "aro_t": 0.08552348613739014,
+    "val_t": -0.0778965950012207,
+    "aro_t": 0.08956289291381836,
     "text_emotion": "Neutral"
   }
 ]

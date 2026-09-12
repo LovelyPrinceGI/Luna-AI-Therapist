@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandmother passed away six months ago. Family get-togethers used to feel warm and familiar, but now when I'm around my relatives, I just feel this strange emptiness, like I'm watching everyone from behind glass. Honestly, I'm not even sure talking about it is going to change anything, because the problem isn't really in my head — she's just gone, and that's the reality.",
-    "therapist": "It makes so much sense that gatherings feel hollow now — your grandmother was clearly a vital part of what made those moments feel like *home*, and her absence has changed something real and irreplaceable. I also want to gently acknowledge what you said about talking not being able to change anything, because you're right that it won't bring her back, and I'd never want to suggest otherwise. What I'm curious about, though, is that \"watching from behind glass\" feeling — can you tell me more about what's going through your mind in those moments when you're surrounded by family?",
+    "client": "I've been really struggling since my grandmother passed away six months ago. Family get-togethers used to feel warm and comfortable, but now I just feel out of place at them, like I'm surrounded by people but completely alone. I'm not even sure talking about it is going to change anything, honestly.",
+    "therapist": "It sounds like you're carrying a quiet but heavy grief — that sense of being surrounded by people yet feeling completely alone is such a painful kind of loneliness, especially in spaces that used to feel like home. I also hear some understandable skepticism about whether talking will help, and I want you to know that doubt makes sense given how long you've been sitting with this. I'm curious — when you're at those family gatherings and that feeling of being out of place comes over you, what kinds of thoughts tend to run through your mind in those moments?",
     "condition": "emotion_text_only",
-    "val_t": -0.3028014898300171,
-    "aro_t": 0.14012396335601807,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 2,
-    "client": "It's like everyone around me is laughing and talking and I'm just... watching it happen, like it's a movie I'm not part of. I keep thinking, \"they don't even realize she's gone,\" which I know isn't fair because of course they know, but somehow they seem fine and I'm just standing there feeling like something is broken in me. And then I feel guilty for even thinking that, like I'm judging my own family for being able to function.",
-    "therapist": "That thought — \"something is broken in me\" — is such a painful place to be, especially when it's layered with guilt on top of grief. What you're describing actually sounds less like something being broken and more like you loved her in a way that's still very much alive in you, while you're watching others perhaps express their grief differently or at a different pace. I'm wondering, when that thought \"they don't even realize she's gone\" shows up, what do you think it would mean about *you* if that were actually true?",
-    "condition": "emotion_text_only",
-    "val_t": -0.23344731330871582,
-    "aro_t": 0.20860111713409424,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I think it would mean that I was the only one who really knew her, or maybe that I cared more than everyone else did. And that feels both true and awful at the same time, like I'm carrying something nobody else wants to pick up. But then I also feel guilty for even thinking that, like who am I to judge how much someone else grieves?",
-    "therapist": "There's something really heavy but also quietly meaningful in what you just shared — like part of you is holding onto a special bond with her, and that feels both like a gift and a burden at the same time. The guilt you feel for having that thought actually tells me something important: it shows you're not judging your family from a cold place, but from a tender one, because you care about being fair to them even while you're hurting. I'm curious — when you imagine actually *putting down* that thing you feel like you're carrying alone, what comes up for you... does it feel like relief, or does it feel like losing something?",
-    "condition": "emotion_text_only",
-    "val_t": -0.4001016616821289,
-    "aro_t": 0.09371733665466309,
+    "val_t": -0.32251882553100586,
+    "aro_t": 0.0889214277267456,
     "text_emotion": "Sad"
   },
   {
-    "turn": 4,
-    "client": "Honestly, when I try to imagine putting it down... the first thing that comes up isn't relief, it's this hollow feeling, like something would just be gone. She was the one person in my family who I felt really saw me, and carrying this grief, even when it's heavy, feels like the last way I'm still connected to her. I guess I'm scared that if I stop hurting this much, it means I've moved on, and moving on feels like a betrayal.",
-    "therapist": "What you just named is so profound and so human — the grief has become a way of keeping her close, a thread that still connects you to someone who truly *saw* you, and of course letting go of that feels terrifying. But I want to gently offer another way of looking at it: what if the love, the feeling of being seen by her, the things she knew about you — what if those don't actually live *in* the pain, but somewhere else that moving forward wouldn't erase? I'm wondering, when you think about the ways she saw you and knew you, what are some of those things she recognized in you that you'd want to carry forward?",
+    "turn": 2,
+    "client": "Mostly I keep thinking that she was the one who held everything together, like she was the center of it all, and without her there's just this gap that nobody's filling. I look around at everyone talking and laughing and I wonder if they even feel it the way I do, or if I'm just the only one who can't move on. And then I feel guilty for thinking that, like I'm judging my own family for coping differently than me.",
+    "therapist": "That guilt on top of grief is such a heavy combination — you're mourning your grandmother, and then almost punishing yourself for how deeply you feel her absence. It's really worth noticing that the thought \"I'm the only one who can't move on\" is doing a lot of work here, quietly framing your love and grief as a flaw rather than a testament to how meaningful she was to you. What do you think it would mean about you *if* others are coping differently — does that actually say something true about your relationship with her, or with them?",
     "condition": "emotion_text_only",
-    "val_t": -0.4706108570098877,
-    "aro_t": 0.22778868675231934,
+    "val_t": -0.2829282283782959,
+    "aro_t": 0.11657273769378662,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "I guess logically it doesn't mean anything bad about my relationship with her, but it's hard to actually feel that way in the moment. When I'm standing there at a family dinner and my cousin is cracking jokes and my aunt is talking about her vacation plans, it just feels like proof that I'm somehow stuck while everyone else has moved forward. I know you're probably going to say that's not the right way to look at it, but knowing that doesn't make the feeling go away.",
+    "therapist": "You're touching on something really important — there's often a gap between what we *know* intellectually and what we *feel* in our bodies in a charged moment, and that gap can feel incredibly frustrating, like understanding something isn't enough to fix it. And I want to gently push back on one thing: your cousin laughing or your aunt planning a vacation isn't actually evidence that they've \"moved on\" — it might just be how their grief looks from the outside, which can be very different from what's happening inside them. When you imagine what it might look like if *you* were \"moving forward,\" what does that actually mean to you — would it mean feeling less, or something else entirely?",
+    "condition": "emotion_text_only",
+    "val_t": -0.27829527854919434,
+    "aro_t": 0.12883055210113525,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 4,
+    "client": "Honestly, I'm not sure what moving forward would even look like, and part of me is scared that it means forgetting her or caring less, which I don't want. I think I've been equating grief with love, like if I stop hurting so much it means she mattered less to me. But I also can't keep feeling like a ghost at my own family gatherings, so I don't really know what I'm hoping for.",
+    "therapist": "What you just named is really profound — the idea that grief is proof of love, and that healing feels like a betrayal of that love. That's such a common and deeply human fear, but it's worth gently questioning: is it possible that carrying her with you could eventually feel less like an open wound and more like a warm presence, without her mattering any less? I wonder, when you think about the kind of person she was and what she meant to you, what do you think *she* would want for you at those family gatherings?",
+    "condition": "emotion_text_only",
+    "val_t": -0.351271390914917,
+    "aro_t": 0.1613856554031372,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and part of me wants to believe that... but it also feels a little too neat, you know? Like, if the love doesn't live in the pain, then why does everything feel so flat and empty when I'm not hurting about her? She used to say I was someone who noticed things other people missed, that I had this quiet kind of depth to me, and honestly I haven't felt like that person at all since she's been gone.",
-    "therapist": "You're right to push back on that — grief this deep rarely fits into neat explanations, and I don't want to offer you something that feels hollow when you're being so honest. What strikes me is that the person she described — someone with quiet depth who notices what others miss — is actually doing exactly that right now, noticing something subtle and true about your own inner experience that most people wouldn't even think to question. I'm wondering, do you think *she* would recognize that person in what you've just shared with me today?",
+    "client": "She would definitely not want me standing in the corner feeling sorry for myself, I know that much — she was the kind of person who always wanted everyone around her to be laughing and connected. But when I try to use that thought in the moment, it almost makes it worse, because it just reminds me that she's not there to create that atmosphere anymore. I guess I see what you're pointing at, but it feels easier to understand in theory than to actually hold onto when I'm in the middle of it.",
+    "therapist": "It makes so much sense that thinking of her brings both comfort and a fresh wave of loss at the same time — she's the remedy and the wound all at once, and that's a really delicate place to be. What you're describing, that gap between understanding something in a calm moment and being able to hold onto it when you're hurting, is actually something we can work on practically — it's less about thinking your way through it in the moment and more about building small anchors beforehand that can ground you. I'm curious, in those moments at family gatherings when the grief feels heaviest, is there anything — even something small — that has ever briefly helped you feel even slightly more connected rather than like a ghost?",
     "condition": "emotion_text_only",
-    "val_t": -0.1060030460357666,
-    "aro_t": 0.07199978828430176,
-    "text_emotion": "Neutral"
+    "val_t": -0.1322113275527954,
+    "aro_t": 0.1589435338973999,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I sat with that for a second, and honestly... part of me wants to say yes, she would recognize me. But then there's this other part that immediately goes, \"no, you're just performing depth right now, you're not actually living it.\" I don't know how to tell the difference between genuinely being that person she saw and just... wanting to believe I am.",
-    "therapist": "That inner voice that calls it \"performing\" is worth paying close attention to, because it's actually quite harsh — it takes a genuine moment of recognition and immediately moves to dismiss it. It's worth asking: what would *real* depth even look like to you, and who taught you that quietly sitting with something true about yourself doesn't count? I'm curious whether that critical voice sounds like anyone you know, or whether it's something that's gotten louder since she's been gone.",
+    "client": "There was one moment at Christmas where my uncle started telling this old story about my grandmother that I hadn't heard before, and for a few minutes I felt like she was almost there with us, and I didn't feel so separate from everyone. But that was kind of accidental, I didn't make it happen, and I can't exactly just walk up to someone and say \"hey can you tell me a story about grandma\" without it feeling forced or making everyone uncomfortable. I worry that trying to manufacture those moments would just make them feel hollow.",
+    "therapist": "That Christmas moment is really significant — it shows that connection and even a kind of joy around her memory *is* still possible for you, and that's worth holding onto. I'd gently challenge the idea that intentionally creating space for those stories would make them hollow — there's a difference between forcing an emotion and simply opening a door, and asking someone \"what's your favorite memory of her?\" might feel more natural than you're imagining, and could even be a gift to others who are also quietly missing her. What do you think might happen if someone else in your family actually welcomed that question — is the fear more about their reaction, or about what feelings it might stir up in you?",
     "condition": "emotion_text_only",
-    "val_t": -0.030088305473327637,
-    "aro_t": 0.1396862268447876,
-    "text_emotion": "Neutral"
+    "val_t": -0.2554391622543335,
+    "aro_t": 0.1376934051513672,
+    "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "That question kind of stopped me for a second, because honestly... it does sound like someone. It sounds like my mom, actually — she had this way of cutting through anything that felt too soft or self-indulgent, like sitting with your feelings was just wallowing. And yeah, I think it has gotten louder since she died, which is strange because you'd think losing her would make me more gentle with myself, not less.",
-    "therapist": "That's a really significant connection you just made — the voice that dismisses your depth isn't yours originally, it was handed to you, and it's striking that it's gotten louder precisely when you lost the one person who countered it by seeing you so clearly. In a way, your grandmother's presence may have been quietly protecting you from that voice all along, and part of what you're grieving might not just be her, but also the shelter she provided. I'm wondering, now that you can hear whose voice that actually is, does it change anything about how much authority it feels like it deserves?",
+    "client": "Honestly, I think it's more about what it would stir up in me — like if I ask that question and everyone starts sharing memories, I'm not sure I can hold it together in the middle of a family dinner, and then I become the person who made things awkward and emotional. There's also this fear that if I start crying or fall apart, people will see me as the one who's still stuck, and I'll feel even more separate from everyone. I want to try it, maybe, but the idea of losing control in that setting feels really exposing.",
+    "therapist": "There's something really tender in what you just shared — you're not afraid of the memories themselves, but of being seen in your vulnerability, and of that vulnerability becoming another reason to feel separate. It's worth noticing though that the story you're telling yourself — \"I'll fall apart and make it awkward and people will judge me as stuck\" — is actually an assumption, not a certainty, and it's possible that showing emotion about someone you loved deeply might invite others in rather than push them away. If a family member broke down while sharing a memory of your grandmother, how do you think *you* would feel toward them in that moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.09090602397918701,
-    "aro_t": 0.12283980846405029,
+    "val_t": -0.2873727083206177,
+    "aro_t": 0.16164827346801758,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "That actually hit me harder than I expected, because yeah, I think you're right that she was like this quiet buffer against all of it. But knowing whose voice it is doesn't automatically make it feel less true, you know? It's been in my head so long that it kind of feels like mine now, even if it wasn't originally.",
-    "therapist": "What you're describing is one of the most honest things someone can say in this kind of work — recognizing where a voice came from doesn't instantly evict it, especially when it's been a tenant in your mind for decades. The fact that it feels like *yours* now is actually what makes it so worth examining, because thoughts that feel most like \"just the truth\" are often the ones most worth gently questioning. I'm curious — if you tried to put your grandmother's voice next to your mom's voice when that critical thought shows up, what would she say back to it?",
+    "client": "I'd probably feel closer to them, not further away — like it would actually be a relief to know someone else was feeling it that deeply too. But it's easier to extend that kind of compassion to someone else than to believe my own family would give it back to me, if that makes sense. I think somewhere underneath all of this I'm worried that my grief is too much, that it's been six months and I should be further along, and that showing it will confirm something bad about me rather than bring people closer.",
+    "therapist": "You just offered yourself a really important piece of insight — you instinctively know that vulnerability can create closeness, and yet there's this deeper fear that you are somehow the exception, that your grief is too much or has gone on too long, and that's such a painful place to live. That belief — \"my grief is excessive and reveals something bad about me\" — is worth examining carefully, because six months after losing someone who was the heart of your family is not a long time, and there's no finish line you've failed to cross. I'm curious where that standard comes from — is there a voice, maybe from someone in your life or just absorbed over time, that taught you that grief has an expiration date?",
     "condition": "emotion_text_only",
-    "val_t": -0.0037429332733154297,
-    "aro_t": 0.12835824489593506,
-    "text_emotion": "Neutral"
+    "val_t": -0.25773632526397705,
+    "aro_t": 0.08196985721588135,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "I've never really thought about putting those two voices side by side like that. My grandmother would probably say something like \"you're doing just fine, sweetheart\" but honestly, in this moment, that feels almost too gentle, like it wouldn't be strong enough to push back against the other one. It's like the critical voice has this weight and authority to it that my grandmother's kindness just kind of... bounces off of.",
-    "therapist": "There's something really telling in what you just noticed — that harshness feels *weightier* than kindness, almost like criticism has more credibility than care, which makes sense if that's the voice that got the most airtime growing up. But I want to sit with that for a moment, because that's not actually evidence that the critical voice is *truer* — it might just mean it's louder and more practiced. I'm wondering, what do you think it would take for your grandmother's voice to feel like it had real weight — not just warmth, but something you could actually lean on?",
+    "client": "I don't think anyone ever said it directly, but my family has always been pretty stoic — like you handle things, you keep going, and you don't dwell. I think I just absorbed this unspoken rule that falling apart is a burden to others, and that the people who cope quietly are somehow stronger or more together. So it's not one specific voice, it's more like the whole atmosphere I grew up in, and that makes it harder to argue against because it's not even a thought I chose, it's just something I took in without realizing it.",
+    "therapist": "What you've just uncovered is really significant — these unspoken family rules can be some of the most powerful shapers of how we see ourselves, precisely because they were never said out loud and therefore never questioned. The fact that you didn't *choose* that belief actually means it deserves even more scrutiny, because it was handed to you before you had the chance to decide if it was true or if it was something you'd want to carry. I'm wondering — now that you can see it a little more clearly, does that rule that \"coping quietly equals strength\" actually fit with the compassion you so naturally felt toward the idea of a family member crying over your grandmother?",
     "condition": "emotion_text_only",
-    "val_t": 0.04574429988861084,
-    "aro_t": 0.06905496120452881,
+    "val_t": -0.04761862754821777,
+    "aro_t": 0.05284082889556885,
     "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and part of me wants to believe it, but honestly it just feels like... the critical voice has proof behind it, you know? Like, it points to specific things I've done wrong, specific ways I've let people down, and my grandmother's kindness just felt like she loved me no matter what, which almost makes it feel less reliable as feedback. I guess what I'm saying is, I'm not sure her voice can have that kind of weight because it wasn't conditional enough to feel real to me.",
-    "therapist": "What you just said is incredibly insightful — you've essentially learned to trust pain over love as a measure of truth, which makes a painful kind of sense if conditional approval was what you grew up understanding as \"real\" feedback. But I want to gently turn that over: the critical voice points to specific mistakes, yes, but it's also a prosecutor who never calls any witnesses for the defense — it selects its evidence very carefully. I'm curious, if we took just one of those specific things the critical voice uses against you, do you think we could look at it together and see whether it's actually telling the whole story?",
+    "client": "No, it doesn't really fit — I wouldn't think less of someone for crying, I'd think they were brave and that they loved her. But even seeing that contradiction doesn't automatically make the old rule feel less true in my gut, it's like intellectually I can poke holes in it but emotionally it still has this grip on me. I guess I'm wondering how you actually change something that's been baked into you for that long, because it feels less like a thought I can just swap out and more like it's part of how I'm wired.",
+    "therapist": "You're asking exactly the right question, and the honest answer is that you're right — it's not about swapping one thought for another like changing a lightbulb, it's more like gradually loosening the grip of something old by repeatedly giving yourself new experiences that contradict it. Each time you allow yourself to be seen in your grief and the world doesn't end — each time someone responds with warmth instead of judgment — that's not just a nice moment, it's actually evidence that slowly rewires that gut-level belief over time. I wonder if that Christmas moment with your uncle, where vulnerability around her memory brought you closer rather than pushing you away, might actually already be one of those small pieces of new evidence — does it feel possible to start collecting more of them, even in small ways?",
     "condition": "emotion_text_only",
-    "val_t": -0.024958133697509766,
-    "aro_t": 0.1114422082901001,
-    "text_emotion": "Neutral"
+    "val_t": -0.2002321481704712,
+    "aro_t": 0.14323902130126953,
+    "text_emotion": "Angry"
   }
 ]

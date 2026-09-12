@@ -13,74 +13,82 @@
 \contentsline {section}{\numberline {1.5}Objectives of the Study}{2}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Methodology Overview}{2}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Scope and Limitations}{3}{section.1.7}%
-\contentsline {section}{\numberline {1.8}Key Findings}{3}{section.1.8}%
+\contentsline {section}{\numberline {1.8}Key Findings}{4}{section.1.8}%
 \contentsline {section}{\numberline {1.9}Contributions}{4}{section.1.9}%
-\contentsline {chapter}{\numberline {2}RELATED WORK}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Vocal Cues for Mental State Assessment}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Speech and Text Emotion Recognition}{5}{section.2.2}%
-\contentsline {section}{\numberline {2.3}AI and CBT-Based Interventions}{6}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Emotional Dissonance and Multimodal Inconsistency}{7}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Voice Synthesis for Therapeutic Applications}{7}{section.2.5}%
-\contentsline {section}{\numberline {2.6}LLM-Based Evaluation of Therapeutic Quality}{8}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Summary of Literature}{8}{section.2.7}%
-\contentsline {chapter}{\numberline {3}METHODOLOGY}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}System Architecture and Workflow}{11}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Phase 1: Dialogue Generation and Audio Synthesis}{11}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Phase 2: Vocal Prosodic Descriptor Extraction}{13}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Phase 3: Emotional Feature Extraction from Text and Speech}{14}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}{15}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{16}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{17}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{18}{subsection.3.1.7}%
-\contentsline {chapter}{\numberline {4}EXPERIMENT}{21}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Rationale}{21}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Research Questions}{21}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Dataset}{21}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Experimental Conditions (Independent Variable)}{22}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Multi-Backbone LLMs}{23}{subsection.4.4.1}%
-\contentsline {section}{\numberline {4.5}Procedure}{24}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Chat Demonstration: Baseline vs.\ Dissonance-Aware}{25}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Evaluation Protocol (Dependent Measures)}{27}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Automated Judge}{27}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Evaluation Metrics}{27}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Scoring and Aggregation}{28}{subsection.4.7.3}%
-\contentsline {section}{\numberline {4.8}Implementation Details}{28}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Prompt Engineering}{29}{section.4.9}%
-\contentsline {subsection}{\numberline {4.9.1}Shared Problem Seeds}{29}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}Client Prompt: Resist Persona}{29}{subsection.4.9.2}%
-\contentsline {subsection}{\numberline {4.9.3}Therapist Prompts: Four Conditions}{30}{subsection.4.9.3}%
-\contentsline {subsection}{\numberline {4.9.4}Zonos Vocal Director Prompt}{31}{subsection.4.9.4}%
-\contentsline {subsection}{\numberline {4.9.5}Evaluation LLM Prompt: GPT-4o as Zero-Shot Judge}{31}{subsection.4.9.5}%
-\contentsline {chapter}{\numberline {5}RESULT}{33}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Result Corresponding to RQ1: Dissonance Advantage}{34}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Statistical Significance and the Role of the Dissonance Flag}{34}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}Result Corresponding to RQ2: Backbone Robustness}{36}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Cross-Backbone Comparison: Dissonance-Aware Only}{36}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}GPT-4o mini: Per-Condition Breakdown}{37}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Claude Sonnet 4.6: Per-Condition Breakdown}{38}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Qwen-2.5-72B-Instruct: Per-Condition Breakdown}{38}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}DeepSeek V3.2: Per-Condition Breakdown}{39}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Dissonance Uplift Summary}{39}{subsection.5.2.6}%
-\contentsline {section}{\numberline {5.3}Computational Overhead}{40}{section.5.3}%
-\contentsline {chapter}{\numberline {6}DISCUSSION}{43}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Revisiting Research Questions}{43}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}RQ1: Does the Dissonance-Aware Framework Outperform the Baselines?}{43}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}RQ2: Is the Advantage Robust Across LLM Backbones?}{44}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}What We Did Not Achieve}{45}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}Comparing with Past Work}{45}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Experimental Decisions}{45}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Limitations and Future Work}{48}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Limitations}{48}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Future Work}{49}{subsection.6.4.2}%
-\contentsline {chapter}{\numberline {7}CONCLUSION}{51}{chapter.7}%
-\contentsline {chapter}{\bf REFERENCES}{53}{section*.33}%
-\contentsline {chapter}{\bf APPENDICES}{55}{section*.34}%
-\contentsline {section}{\bf \uppercase {APPENDIX A: EVALUATION PROMPTS (RQ2 PROTOCOL)}}{56}{section*.35}%
+\contentsline {chapter}{\numberline {2}RELATED WORK}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Vocal Cues for Mental State Assessment}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Speech and Text Emotion Recognition}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}AI and CBT-Based Interventions}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Emotional Dissonance and Multimodal Inconsistency}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Voice Synthesis for Therapeutic Applications}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}LLM-Based Evaluation of Therapeutic Quality}{9}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Summary of Literature}{9}{section.2.7}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}System Architecture and Workflow}{12}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Phase 1: Dialogue Generation and Audio Synthesis}{12}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Phase 2: Vocal Prosodic Descriptor Extraction}{14}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Phase 3: Emotional Feature Extraction from Text and Speech}{15}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}{16}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{18}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{18}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{19}{subsection.3.1.7}%
+\contentsline {chapter}{\numberline {4}EXPERIMENT}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Rationale}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Research Questions}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Dataset}{23}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Experimental Conditions (Independent Variable)}{25}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Multi-Backbone LLMs}{25}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Procedure}{26}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Chat Demonstration: Baseline vs.\ Dissonance-Aware}{27}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Evaluation Protocol (Dependent Measures)}{29}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Automated Judge}{29}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Evaluation Metrics}{29}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Scoring and Aggregation}{30}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Pairwise Preference Evaluation}{30}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Second Judge and Inter-Judge Agreement}{31}{subsection.4.7.5}%
+\contentsline {subsection}{\numberline {4.7.6}Bias Controls}{31}{subsection.4.7.6}%
+\contentsline {section}{\numberline {4.8}Implementation Details}{31}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Prompt Engineering}{33}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Shared Problem Seeds}{33}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Client Prompt: Resist Persona}{33}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Therapist Prompts: Four Conditions}{34}{subsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.9.4}Zonos Vocal Director Prompt}{35}{subsection.4.9.4}%
+\contentsline {subsection}{\numberline {4.9.5}Evaluation LLM Prompt: GPT-4o as Zero-Shot Judge}{35}{subsection.4.9.5}%
+\contentsline {chapter}{\numberline {5}RESULT}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Result Corresponding to RQ1: Dissonance Advantage}{38}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Statistical Significance and the Role of the Dissonance Signal}{39}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Dissonance Flag Rate and the Always-On Framing Effect}{39}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Result Corresponding to RQ2: Backbone Robustness}{40}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Cross-Backbone Comparison: Dissonance-Aware Only}{41}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}GPT-4o mini: Per-Condition Breakdown}{41}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Claude Sonnet 4.6: Per-Condition Breakdown}{41}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Qwen-2.5-72B-Instruct: Per-Condition Breakdown}{42}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}DeepSeek V3.2: Per-Condition Breakdown}{43}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Dissonance Uplift Summary}{43}{subsection.5.2.6}%
+\contentsline {section}{\numberline {5.3}Pairwise Preference Results}{44}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Bias Controls}{45}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Judge Reliability: Cross-Family Agreement}{45}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Hypothesis Verdicts}{46}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Computational Overhead}{47}{section.5.6}%
+\contentsline {chapter}{\numberline {6}DISCUSSION}{50}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Revisiting Research Questions}{50}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}RQ1: Does the Dissonance-Aware Framework Outperform the Baselines?}{50}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}RQ2: Is the Advantage Robust Across LLM Backbones?}{51}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}What We Did Not Achieve}{52}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Comparing with Past Work}{53}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Experimental Decisions}{54}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Limitations and Future Work}{56}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Limitations}{56}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Future Work}{58}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {7}CONCLUSION}{59}{chapter.7}%
+\contentsline {chapter}{\bf REFERENCES}{62}{section*.34}%
+\contentsline {chapter}{\bf APPENDICES}{65}{section*.35}%
+\contentsline {section}{\bf \uppercase {APPENDIX A: EVALUATION PROMPTS (RQ2 PROTOCOL)}}{66}{section*.36}%
 \setcounter {tocdepth}{-5}
-\contentsline {chapter}{\numberline {A}\uppercase {Evaluation Prompts (RQ2 Protocol)}}{56}{chapter.A}%
+\contentsline {chapter}{\numberline {A}\uppercase {Evaluation Prompts (RQ2 Protocol)}}{66}{chapter.A}%
 \setcounter {tocdepth}{2}
-\contentsline {section}{\bf \uppercase {APPENDIX B: CUSTOM DEMO DIALOGUE TRANSCRIPT}}{58}{section*.36}%
+\contentsline {section}{\bf \uppercase {APPENDIX B: CUSTOM DEMO DIALOGUE TRANSCRIPT}}{68}{section*.37}%
 \setcounter {tocdepth}{-5}
-\contentsline {chapter}{\numberline {B}\uppercase {Custom Demo Dialogue Transcript}}{58}{chapter.B}%
+\contentsline {chapter}{\numberline {B}\uppercase {Custom Demo Dialogue Transcript}}{68}{chapter.B}%
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\bf VITA}{60}{section*.37}%
+\contentsline {chapter}{\bf VITA}{70}{section*.38}%

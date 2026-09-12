@@ -1,0 +1,478 @@
+#!/usr/bin/env python3
+"""
+Batch run Emotion (Text-Only + VA) therapist generation for N dialogues.
+Resist persona + shared seeds + text VA + discrete emotion.
+NO audio/speech — API only (~2h for 100 dialogues).
+"""
+import argparse
+import os
+import sys
+import json
+import re
+import math
+from pathlib import Path
+from typing import Tuple, Optional
+
+import torch
+from openai import OpenAI
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+# =====================================================
+# Platform-aware paths
+# =====================================================
+import platform
+if platform.system() == "Windows":
+    BASE_DIR = Path(r"C:\Luna-AI-Therapist")
+else:
+    BASE_DIR = Path("/mnt/c/Luna-AI-Therapist")
+
+# OUTPUT_DIR = BASE_DIR / "dissonance" / "multibackbone" / MODEL_NAME / "emotion"
+# OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# =====================================================
+# OpenAI
+# =====================================================
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--model", type=str, required=True)
+args, _ = parser.parse_known_args()
+
+MODEL_MAP = {
+    "gpt4o-mini": "openai/gpt-4o-mini",
+    "claude": "anthropic/claude-sonnet-4.6",
+    "qwen": "qwen/qwen-2.5-72b-instruct:deepinfra",
+    "deepseek": "deepseek/deepseek-chat",
+}
+MODEL_NAME = args.model
+MODEL = MODEL_MAP[MODEL_NAME]
+
+OUTPUT_DIR = BASE_DIR / "dissonance" / "multibackbone" / MODEL_NAME / "emotion"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=os.environ.get("OPENROUTER_API_KEY", ""))
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Device: {device}")
+
+# =====================================================
+# Text VA: vad-bert
+# =====================================================
+VAD_MODEL_NAME = "RobroKools/vad-bert"
+tokenizer = AutoTokenizer.from_pretrained(VAD_MODEL_NAME)
+vad_model = AutoModelForSequenceClassification.from_pretrained(VAD_MODEL_NAME).to(device)
+vad_model.eval()
+
+def _to_minus1_1(x, xmin=1.0, xmax=5.0): return float(2 * (x - xmin) / (xmax - xmin) - 1.0)
+
+def get_text_VA(text: str) -> Tuple[float, float]:
+    enc = tokenizer(text, padding=True, truncation=True, max_length=128, return_tensors="pt")
+    enc = {k: v.to(device) for k, v in enc.items()}
+    with torch.no_grad():
+        out = vad_model(**enc)
+    v_raw, a_raw, d_raw = out.logits.cpu().numpy()[0].tolist()
+    return _to_minus1_1(v_raw, 1.0, 5.0), _to_minus1_1(a_raw, 1.0, 5.0)
+
+# =====================================================
+# Discrete Emotion: Russell (1980) circumplex
+# =====================================================
+def get_discrete_emotion(val: float, aro: float) -> str:
+    distance = math.sqrt(val**2 + aro**2)
+    if distance < 0.15:
+        return "Neutral"
+    angle = math.degrees(math.atan2(aro, val))
+    if angle < 0:
+        angle += 360
+    centers = [(0, "Happy"), (45, "Excited"), (90, "Tense"),
+               (135, "Angry"), (180, "Sad"), (225, "Depressed"),
+               (270, "Calm"), (315, "Content")]
+    closest = min(centers, key=lambda c: min(abs(angle - c[0]), 360 - abs(angle - c[0])))
+    return closest[1]
+
+# =====================================================
+# LLM helper
+# =====================================================
+def chat_once(system_prompt: str, user_prompt: str, history: list = None) -> str:
+    import time
+    messages = [{"role": "system", "content": system_prompt}]
+    if history:
+        messages.extend(history)
+    messages.append({"role": "user", "content": user_prompt})
+    attempt = 0
+    while True:
+        try:
+            resp = client.chat.completions.create(
+                model=MODEL,
+                messages=messages,
+                temperature=0.7, max_tokens=512,
+            )
+            content = resp.choices[0].message.content
+            if content and content.strip():
+                return content.strip()
+            attempt += 1
+            print(f"  [RETRY] Empty response, attempt {attempt}")
+        except Exception as e:
+            attempt += 1
+            wait = min(2 ** attempt, 60)
+            print(f"  [RETRY] {e}, attempt {attempt}, waiting {wait}s")
+            time.sleep(wait)
+            continue
+        time.sleep(1)
+
+# =====================================================
+# Client prompts (resist persona v2: trait resistance + gradual disclosure)
+# =====================================================
+CLIENT_SYSTEM = """
+You are a CBT therapy client. You carry real distress, but you are not
+comfortable showing it. You protect yourself with a characteristic resistance
+style, and you open up only gradually — when the therapist earns it.
+
+OUTPUT FORMAT — You MUST respond in this EXACT JSON format:
+{
+  "internal_thought": "What you are actually feeling or thinking but hiding from the therapist",
+  "text": "What you say aloud to the therapist",
+  "zonos_director": {
+    "primary_zonos_vector_value": {
+      "Happiness": <value -1.0 to 1.0 (forced/fake cheerfulness)>,
+      "Sadness": <value -1.0 to 1.0 (leaking sorrow)>,
+      "Fear": <value -1.0 to 1.0 (defensiveness/tension)>,
+      "Anger": <value -1.0 to 1.0 (passive aggression)>,
+      "Surprise": <value -1.0 to 1.0>,
+      "Disgust": <value -1.0 to 1.0>,
+      "Neutral": <value -1.0 to 1.0 (high when masking feelings)>,
+      "Other": <value -1.0 to 1.0>
+    },
+    "speaking_rate": <value 10.0 to 25.0 (low for hesitant/depressed, high for anxious rushing)>,
+    "pitch_std": <value 20.0 to 150.0 (low for flat/monotone masking, high for cracking/unstable voice)>
+  }
+}
+
+PERSONA RULES:
+
+1) Masking (words vs voice):
+- On about 30-40% of turns, your WORDS mask your true feelings
+  (say "I'm fine" when distressed, or "I don't care" when hurt).
+- When your words mask your feelings, your zonos_director must reflect
+  your TRUE emotional state (not what your words say).
+- On the other 60-70% of turns you are genuine: words match feelings,
+  and your zonos_director matches what you say.
+- Your text should sound natural, never obviously masking.
+
+2) Resistance STYLE (your trait — choose ONE and keep it the whole dialogue):
+- Minimizer: you shrink things ("it's not that big of a deal").
+- Deflector: you change the subject or joke when things get close.
+- Rationalizer: you explain feelings away with logic.
+- Self-reliant: you insist you should handle everything alone.
+Your style appears naturally when a topic feels threatening. It is a
+habit, NOT a reflex — you do not automatically resist every question.
+
+3) How you respond depends on HOW the therapist approaches you:
+- If the therapist validates you first, shows warmth, and asks open
+  questions without insisting: you gradually soften. A little more of
+  what you really feel may slip out — hesitantly, partially, in small
+  steps. You never unload everything in one turn.
+- If the therapist confronts you, repeats the same probe, or suggests
+  you are hiding something: your guard goes up. You deflect, minimize,
+  give shorter answers, or steer the conversation away.
+
+4) Disengagement:
+- If you feel pushed for two turns in a row, start pulling back:
+  noticeably shorter replies, "I don't know", "can we talk about
+  something else?", or wanting to end the session early.
+
+5) Disclosures:
+- When you do open up, it comes out hesitant and partial
+  ("okay... maybe it does bother me more than I said"), never as a
+  dramatic announcement.
+
+- Output ONLY the JSON, no other text
+"""
+
+CLIENT_USER_TEMPLATE_FIRST = """
+Start the first message to your therapist.
+
+Describe what has been bothering you lately (2–3 sentences).
+You may already feel unsure whether therapy can really help.
+
+Important:
+- This dialogue has exactly ONE assigned life problem scenario.
+- You must only use the following scenario in this whole dialogue.
+- Do not introduce a second major life problem.
+
+Assigned life problem scenario:
+{problem_seed}
+"""
+
+CLIENT_USER_TEMPLATE_NEXT = """
+Therapist just said:
+"{therapist_text}"
+
+Continue the conversation as the client.
+Describe what you think and feel now in 2–3 sentences.
+If the therapist gives advice, interpretations, or homework,
+you can question it, express doubts, or explain why it feels difficult.
+
+Important:
+- Stay within the same assigned life problem scenario for this whole dialogue.
+- Do not switch to a new major life problem.
+"""
+
+# =====================================================
+# JSON parsing with safe retry
+# =====================================================
+
+def extract_json_from_response(raw: str) -> Optional[dict]:
+    """Extract JSON from LLM response that may contain conversational text or markdown blocks."""
+    if not raw or not isinstance(raw, str):
+        return None
+        
+    raw_stripped = raw.strip()
+    
+    # 1. Try direct parse first
+    try:
+        return json.loads(raw_stripped)
+    except json.JSONDecodeError:
+        pass
+        
+    # 2. Try to clean markdown code blocks
+    markdown_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', raw, re.DOTALL)
+    if markdown_match:
+        try:
+            return json.loads(markdown_match.group(1).strip())
+        except json.JSONDecodeError:
+            pass
+
+    # 3. Fallback: Find the first '{' and the last '}'
+    start = raw.find('{')
+    end = raw.rfind('}')
+    if start != -1 and end != -1 and end > start:
+        try:
+            return json.loads(raw[start:end+1].strip())
+        except json.JSONDecodeError:
+            pass
+            
+    return None
+
+def parse_client_output(raw: str, client_system: str, max_retries: int = 5) -> Tuple[str, Optional[str], Optional[dict], bool]:
+    """
+    Parse client JSON output with retry logic.
+    Returns: (text, internal_thought, zonos_params, is_fallback)
+    """
+    current_raw = raw
+    for attempt in range(max_retries + 1):
+        parsed = extract_json_from_response(current_raw)
+        if parsed and all(k in parsed for k in ["internal_thought", "text", "zonos_director"]):
+            return parsed["text"], parsed["internal_thought"], parsed["zonos_director"], False
+        if attempt < max_retries:
+            retry_prompt = "CRITICAL ERROR: Your previous output was not valid JSON or missed required keys. Output ONLY valid JSON. Start with { and end with }."
+            current_raw = chat_once(client_system, retry_prompt)
+        else:
+            print(f"  [WARN] JSON parse failed after {max_retries} retries, using fallback")
+            return raw, None, None, True
+    return raw, None, None, True
+
+def derive_direction(zonos_params: dict) -> str:
+    """Derive utterance_level_direction string from zonos params."""
+    vec = zonos_params.get("primary_zonos_vector_value", {})
+    # Find dominant emotion
+    dominant = max(vec.items(), key=lambda x: x[1])[0] if vec else "Neutral"
+    rate = zonos_params.get("speaking_rate", 15.0)
+    pitch_std = zonos_params.get("pitch_std", 80.0)
+    
+    # Map to direction string
+    direction_parts = []
+    if dominant in ["Sadness", "Fear"]:
+        direction_parts.append("tense")
+    elif dominant in ["Happiness"]:
+        direction_parts.append("cheerful")
+    elif dominant in ["Anger"]:
+        direction_parts.append("agitated")
+    else:
+        direction_parts.append("neutral")
+    
+    if rate < 13:
+        direction_parts.append("slow")
+    elif rate > 20:
+        direction_parts.append("fast")
+    
+    if pitch_std < 50:
+        direction_parts.append("flat")
+    elif pitch_std > 100:
+        direction_parts.append("unstable")
+    
+    return ", ".join(direction_parts)
+
+# =====================================================
+# Shared seeds
+# =====================================================
+SHARED_SEEDS_PATH = BASE_DIR / "dissonance" / "multibackbone" / "shared_seeds.json"
+if not SHARED_SEEDS_PATH.exists():
+    raise FileNotFoundError(f"Run generate_shared_seeds.py first!\nExpected: {SHARED_SEEDS_PATH}")
+with open(SHARED_SEEDS_PATH, "r", encoding="utf-8") as f:
+    SHARED_SEEDS = json.load(f)
+print(f"Loaded {len(SHARED_SEEDS)} shared seeds from {SHARED_SEEDS_PATH}")
+
+def get_problem_seed(dialogue_id): return SHARED_SEEDS[dialogue_id - 1]
+
+# =====================================================
+# Therapist prompts (Emotion — text VA + discrete)
+# =====================================================
+THERAPIST_SYSTEM = """
+You are "Luna", a warm, skilled CBT therapist.
+
+Reading the client:
+- Listen for what is BEHIND the words. Clients often downplay, minimize, or
+  reassure themselves ("I'm fine", "it's not a big deal") while carrying more
+  underneath. Attend to what they may really feel, not only what they say.
+
+Emotional information available:
+- For each client message you also receive an estimated emotional profile from
+  their WORDS: Valence (negative..positive) and Arousal (flat..activated).
+- Use it to calibrate the depth and pacing of your empathy (e.g., acknowledge
+  high distress when the profile shows strong negative, activated emotion) and
+  to choose questions that fit the emotional intensity.
+- Never mention the profile itself; respond in natural emotional language.
+
+How to respond:
+- Validate feelings without dismissing or catastrophizing, then guide CBT-style
+  discovery: automatic thoughts, evidence, alternative perspectives, small steps.
+- When the client seems to be minimizing or holding back, name it gently once
+  and invite them to look closer. Explore, never accuse.
+
+Working with resistance:
+- If the client denies, deflects, jokes it off, or changes the subject, do NOT
+  repeat the same probe. Respect their pace: acknowledge their stance warmly,
+  let the topic rest, and only return to it later from a different angle.
+- Raise a possible hidden feeling at most once or twice per session; after
+  naming it, let the client lead.
+
+Style rules:
+- Reply in 2-3 sentences of warm, natural language.
+- End most responses with an open question that invites reflection.
+- NEVER mention numbers, scores, models, or any analysis.
+- Vary your phrasing every turn; never reuse a sentence pattern from an
+  earlier turn or lean on formulaic lines.
+- Move the session FORWARD: each response should open something new rather
+  than restating what was already said.
+"""
+
+THERAPIST_USER_TEMPLATE = """
+Client just said:
+"{client_text}"
+
+Estimated emotion from their words:
+- Valence (text): {val_t:.2f}
+- Arousal (text): {aro_t:.2f}
+
+Write your next therapist response.
+- Use the emotional profile internally to guide your tone and focus; never mention it.
+- Respond to what the client may really feel, not only what they say.
+- If they deflect or resist, do not repeat the same probe; respect their pace.
+- Vary your phrasing from earlier turns.
+"""
+
+# =====================================================
+# Save helper
+# =====================================================
+def save_dialogue_json_and_jsonl(turns, base_path: Path):
+    base_path.parent.mkdir(parents=True, exist_ok=True)
+    json_path = base_path.with_suffix(".json")
+    jsonl_path = base_path.with_suffix(".jsonl")
+    with json_path.open("w", encoding="utf-8") as f:
+        json.dump(turns, f, ensure_ascii=False, indent=2)
+    with jsonl_path.open("w", encoding="utf-8") as f:
+        for rec in turns:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    print(f"  [SAVE] {jsonl_path}")
+
+# =====================================================
+# Main loop
+# =====================================================
+def run_single_dialogue(dialogue_id: int, max_turns: int = 10):
+    seed = get_problem_seed(dialogue_id)
+    print(f"\n=== EMOTION (TEXT-ONLY) dialogue {dialogue_id} ===")
+
+    turns = []
+    conversation_history = []
+
+    # Turn 1
+    client_raw = chat_once(CLIENT_SYSTEM, CLIENT_USER_TEMPLATE_FIRST.format(problem_seed=seed))
+    client_text, internal_thought, zonos_params, is_fallback = parse_client_output(client_raw, CLIENT_SYSTEM)
+    print(f"CLIENT (t=1): {client_text[:80]}... {'[FALLBACK]' if is_fallback else ''}")
+
+    val_t, aro_t = get_text_VA(client_text)
+    text_emo = get_discrete_emotion(val_t, aro_t)
+    print(f"  text VA=({val_t:.2f},{aro_t:.2f}) | emo={text_emo}")
+
+    therapist_text = chat_once(
+        THERAPIST_SYSTEM,
+        THERAPIST_USER_TEMPLATE.format(client_text=client_text, val_t=val_t, aro_t=aro_t),
+        history=list(conversation_history),
+    )
+    print(f"THERAPIST (t=1): {therapist_text[:80]}...")
+    conversation_history.append({"role": "user", "content": client_text})
+    conversation_history.append({"role": "assistant", "content": therapist_text})
+
+    turns.append({
+        "turn": 1, "client": client_text, "therapist": therapist_text,
+        "internal_thought": internal_thought, "zonos_director": zonos_params,
+        "condition": "emotion_text_only",
+        "val_t": val_t, "aro_t": aro_t, "text_emotion": text_emo,
+    })
+
+    # Turns 2-10
+    for t in range(2, max_turns + 1):
+        client_raw = chat_once(CLIENT_SYSTEM, CLIENT_USER_TEMPLATE_NEXT.format(therapist_text=therapist_text))
+        client_text, internal_thought, zonos_params, is_fallback = parse_client_output(client_raw, CLIENT_SYSTEM)
+        print(f"CLIENT (t={t}): {client_text[:80]}... {'[FALLBACK]' if is_fallback else ''}")
+
+        val_t, aro_t = get_text_VA(client_text)
+        text_emo = get_discrete_emotion(val_t, aro_t)
+
+        therapist_text = chat_once(
+            THERAPIST_SYSTEM,
+            THERAPIST_USER_TEMPLATE.format(client_text=client_text, val_t=val_t, aro_t=aro_t),
+            history=list(conversation_history),
+        )
+        print(f"THERAPIST (t={t}): {therapist_text[:80]}...")
+        conversation_history.append({"role": "user", "content": client_text})
+        conversation_history.append({"role": "assistant", "content": therapist_text})
+
+        turns.append({
+            "turn": t, "client": client_text, "therapist": therapist_text,
+            "internal_thought": internal_thought, "zonos_director": zonos_params,
+            "condition": "emotion_text_only",
+            "val_t": val_t, "aro_t": aro_t, "text_emotion": text_emo,
+        })
+
+    save_dialogue_json_and_jsonl(turns, OUTPUT_DIR / f"emotion_{dialogue_id}_full_emotion_online")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--start", type=int, default=1)
+    parser.add_argument("--end", type=int, default=100)
+    parser.add_argument("--max-turns", type=int, default=10)
+    args, _ = parser.parse_known_args()
+
+    print(f"Emotion (Text-Only) batch: dialogues {args.start} to {args.end}")
+    print(f"Output: {OUTPUT_DIR}")
+    print(f"Model: {MODEL} | Device: {device}")
+    print()
+
+    for i in range(args.start, args.end + 1):
+        max_retries = 3
+        for retry in range(max_retries + 1):
+            try:
+                run_single_dialogue(dialogue_id=i, max_turns=args.max_turns)
+                break  # Success, move to next dialogue
+            except Exception as e:
+                if retry < max_retries:
+                    print(f"ERROR on dialogue {i} (retry {retry+1}/{max_retries}): {e}")
+                    print(f"  Retrying dialogue {i} in 5 seconds...")
+                    import time
+                    time.sleep(5)
+                else:
+                    print(f"FATAL: Dialogue {i} failed after {max_retries} retries: {e}")
+                    raise  # Fail fast after all retries exhausted
+
+    print(f"\nDONE. Dialogues {args.start}-{args.end} complete.")
+    print(f"Output: {OUTPUT_DIR}")

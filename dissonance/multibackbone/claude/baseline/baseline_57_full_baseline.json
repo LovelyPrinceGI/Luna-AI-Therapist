@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been having a really hard time since my sister passed away six months ago. It was a car accident, and some days I can barely get out of bed because everything just feels... hollow, I guess. I'm not even sure talking about it is going to change anything, but I figured I had to try something.",
-    "therapist": "I'm so deeply sorry for the loss of your sister — losing someone you love so suddenly and tragically is an immense pain, and that hollow feeling you're describing makes complete sense. It takes real courage to reach out when you're not even sure it will help, and I want you to know that just showing up here today matters. \n\nCan you tell me a little about what a typical morning looks like for you right now, when getting out of bed feels hardest?",
+    "client": "I've been having a really hard time since my younger sister passed away six months ago in a car accident. It's like everything that used to make me happy just feels hollow now, and I can't seem to find any joy in the things I used to love. I'm not even sure talking about it is going to change anything, but I figured I had to try something.",
+    "therapist": "I'm so deeply sorry for the loss of your sister — losing someone you love so suddenly and tragically is one of the most painful experiences a person can go through, and everything you're feeling makes complete sense. That hollowness you're describing, where things that once brought joy now feel empty, is a very real and common part of grief, and it doesn't mean joy is gone forever — just that it's been overshadowed by an enormous loss. I'm really glad you decided to try, and I want you to know this is a safe space to go at whatever pace feels right for you. What feels most heavy for you right now — is it the grief itself, the loss of those moments of joy, or something else entirely?",
     "condition": "baseline",
-    "val_t": -0.3439757823944092,
-    "aro_t": 0.03374433517456055,
-    "text_emotion": "Sad"
+    "val_t": -0.23921501636505127,
+    "aro_t": 0.15659737586975098,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Mornings are just... really bad. I wake up and for like half a second everything feels normal, and then it hits me all over again that she's gone, and I just lie there staring at the ceiling because what's the point of getting up. I've been calling in late to work a lot, and I know that's going to become a problem soon, but I genuinely cannot make myself care about any of it right now.",
-    "therapist": "That half-second of normalcy before the grief rushes back sounds like one of the cruelest parts of loss, and it makes complete sense that your body and mind just want to stay still when facing that wave every single morning. The fact that you're noticing the work situation, even through the fog of not caring, tells me a part of you is still looking out for yourself — and that part matters. \n\nWhen you're lying there staring at the ceiling, what kinds of thoughts tend to run through your mind about the day ahead?",
+    "client": "Honestly, what feels heaviest is the guilt. The last time I talked to her, we had this stupid argument over something I can't even remember now, and I never got the chance to fix it. I keep replaying that conversation over and over, thinking if I had just called her back sooner or been less stubborn, maybe things would have been different somehow.",
+    "therapist": "That guilt you're carrying sounds absolutely exhausting — replaying that conversation over and over, searching for a way you could have changed things, is such a painful place to be stuck. I want to gently reflect something back to you: the argument you had was a normal, human moment between two people who loved each other, and it's worth asking whether your sister would truly want you to define your entire relationship by that one conversation. What do you think she would say if she could see the weight you've been carrying on her behalf?",
     "condition": "baseline",
-    "val_t": -0.28586339950561523,
-    "aro_t": 0.0980226993560791,
+    "val_t": -0.35385119915008545,
+    "aro_t": 0.13397181034088135,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "It's mostly just this heavy dread, like... I'll think about all the emails piling up, or a meeting I'm supposed to be in, and it just feels completely pointless. Like, why does any of it matter when she's just... gone. And then I feel guilty for even thinking that way, because I know she'd probably want me to keep going, but knowing that doesn't actually make it easier to get up.",
-    "therapist": "That guilt you're carrying — knowing what she'd want but still not being able to feel it — is such a painful place to be, and it doesn't mean you're failing her; it means you're grieving, and grief doesn't respond to logic or \"shoulds.\" The question \"why does any of it matter?\" isn't a character flaw, it's your mind trying to make sense of a world that suddenly feels fundamentally different without her in it. \n\nI'm curious — when you imagine what she'd actually say to you if she could see you struggling in these mornings, what do you think she'd tell you?",
+    "client": "I know in my head that she probably wouldn't want me to feel this way, and part of me thinks she'd tell me to stop being so hard on myself. But it's like knowing that doesn't actually make the feeling go away, you know? It's easy to say she would forgive me, but I can't hear her say it, and that's the part that's impossible to get past.",
+    "therapist": "You've just touched on something really profound — there's a painful gap between what we *know* intellectually and what we can actually *feel* in our hearts, and grief makes that gap feel impossibly wide. The fact that you can't hear her voice saying those words is a real loss within the loss, and it makes complete sense that logic alone can't reach that hurt. I'm wondering — are there other ways she showed you, throughout your relationship, that she loved you and valued you beyond any single argument?",
     "condition": "baseline",
-    "val_t": -0.379797101020813,
-    "aro_t": 0.10390365123748779,
+    "val_t": -0.2179805040359497,
+    "aro_t": 0.06435286998748779,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I've thought about that before, actually, and I think she'd tell me to stop being so hard on myself. But the thing is... knowing that doesn't really help, because I can still hear her voice saying it and it just makes me miss her more, it doesn't make the mornings easier. It's like the answer is right there but it just bounces off me, you know?",
-    "therapist": "What you're describing — the answer being right there but just bouncing off — is so common in grief, and it's actually really important that you named it, because it tells us that this isn't about finding the *right thought* to fix things, but about gently rebuilding a connection to life at a pace your heart can actually handle. Her voice making you miss her more isn't a setback; it's love, and it's allowed to coexist with the hard mornings. \n\nI wonder — on the days when you have managed to get up and get through it, even imperfectly, what was one tiny thing, however small, that made that possible?",
+    "client": "Yeah, there were a lot of those moments, actually. She used to call me just to tell me something funny that happened to her, even when it was late and she knew I had work the next day, because she said I was the only one who would really get the joke. But trying to hold onto those memories feels almost painful too, because they just remind me of everything I've lost and won't get back.",
+    "therapist": "The fact that she called *you* — specifically you — because you were the one who would truly \"get it,\" speaks volumes about the kind of bond you had, and that's something no argument could erase. It makes so much sense that those beautiful memories feel bittersweet right now, almost like touching something that's both precious and painful at the same time — that's actually a sign of how deep your love for her was. I'm curious, when you let yourself sit with one of those memories, like the late-night calls, do you notice any part of it that feels like connection to her still, even alongside the pain?",
     "condition": "baseline",
-    "val_t": -0.15829336643218994,
-    "aro_t": 0.1139364242553711,
-    "text_emotion": "Angry"
+    "val_t": -0.07849776744842529,
+    "aro_t": 0.1934831142425537,
+    "text_emotion": "Tense"
   },
   {
     "turn": 5,
-    "client": "I have to think about that for a second, because honestly my first instinct is to say \"nothing, I just white-knuckled through it.\" But maybe... maybe it was just that I made coffee first, before I let myself think too much. Like if I could get to the kitchen and have something warm in my hands before my brain fully woke up, there was a small window where the weight hadn't fully landed yet.",
-    "therapist": "That is such a meaningful thing you just discovered about yourself — that small, warm, sensory anchor of coffee before your thoughts catch up is actually a real and valid strategy, not just \"white-knuckling.\" You found a tiny window of grace in your own morning without even realizing you were doing it, and that's worth paying attention to. \n\nWhat do you think might happen if tomorrow, before anything else, you made that coffee moment something you did *for* yourself on purpose — maybe even as a small way of honoring her by staying gentle with yourself the way she'd want you to?",
+    "client": "Maybe there's a tiny flicker of something like connection, but I feel almost guilty admitting that, like if I let myself feel close to her through those memories, I'm somehow accepting that she's really gone and that feels unbearable. It's easier in a way to stay stuck in the guilt because at least that feels like I'm still fighting against what happened, if that makes any sense. I don't know if I'm ready to let the memories be comforting instead of just painful.",
+    "therapist": "What you just said takes real courage and self-awareness — you've identified something really important, that the guilt has actually been serving a purpose, keeping you in a kind of fight against the reality of losing her, which feels more bearable than acceptance. But I want to offer a gentle reframe: allowing yourself to feel that flicker of connection through memories isn't surrendering to her being gone — it's actually a way of keeping her *with* you, on your own terms. You don't have to be ready for that shift all at once, but I'm wondering — does staying in the guilt actually feel like it's keeping you closer to her, or does it sometimes feel like it's keeping you from her?",
     "condition": "baseline",
-    "val_t": -0.06945884227752686,
-    "aro_t": 0.0651240348815918,
-    "text_emotion": "Neutral"
+    "val_t": -0.2431504726409912,
+    "aro_t": 0.08752429485321045,
+    "text_emotion": "Sad"
   },
   {
     "turn": 6,
-    "client": "I hear what you're saying, and part of me wants to believe that could work, but honestly it feels a little... forced? Like if I start thinking \"I'm doing this for her,\" it might actually make it worse because then I'm just reminded all over again that she's gone. Right now the coffee thing works because my brain is still half-asleep and I'm not thinking about anything yet, and I'm worried that if I turn it into some kind of intentional ritual, I'll ruin the one quiet moment I actually have.",
-    "therapist": "You're absolutely right to push back on that, and I'm really glad you did — you know yourself better than any framework does, and protecting that quiet half-asleep window is genuinely wise, not avoidance. The coffee doesn't need a meaning attached to it; sometimes a small mercy is most powerful precisely because it's just *simple and warm and yours*. \n\nSo rather than adding anything to that moment, I'm wondering — are there other small, uncomplicated things throughout your day that occasionally offer even a brief pause from the weight, the way the coffee does?",
+    "client": "That question actually stopped me for a second, because honestly when I sit with it, the guilt does feel isolating, like I'm locked in this room with only the worst version of our last interaction and nothing else can get in. But I'm not sure I trust myself to just decide to shift toward the memories instead, because what if I start feeling better and then that feels like betraying her somehow, like I'm moving on too fast. I guess I'm scared that healing and losing her are the same thing.",
+    "therapist": "What you just said — \"healing and losing her are the same thing\" — is one of the most honest and courageous things you could have named, and I think so many people who grieve carry that fear without ever finding words for it. But I want to sit with you in this gentle question: is it possible that healing isn't about losing her, but about slowly expanding that locked room so that *all* of her can be present with you — the late-night calls, the shared jokes, the whole relationship — not just that last argument? You get to define what moving forward looks like, and it doesn't have to mean leaving her behind — so what would healing look like to you if it *didn't* mean betraying her?",
     "condition": "baseline",
-    "val_t": -0.2843647003173828,
-    "aro_t": 0.21648454666137695,
+    "val_t": -0.3467228412628174,
+    "aro_t": 0.14376378059387207,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I have to think about that for a second, because honestly most of my day just feels like one long blur of trying to get through things. Sometimes at the end of the night, when I turn off the lights and it's finally quiet, there's maybe a minute or two where I feel okay — not good, just okay, like the pressure lifts slightly. But then I start thinking about everything I didn't do that day, and that feeling disappears pretty fast.",
-    "therapist": "You actually have two anchors in your day — that quiet morning coffee and that brief release when the lights go off at night — and even though they're small and fleeting, they're real moments where your nervous system gets a little rest, and that matters more than it might seem right now. That voice that rushes in at night to catalog everything you didn't do sounds like it robs you of the one soft landing you have, and I'd gently call that thought pattern worth noticing — not to fight it, but just to see it for what it is. \n\nWhat do you think that critical voice is trying to do for you when it shows up in those quiet moments — is it protecting you somehow, or does it feel like something else?",
+    "client": "I've never really thought about it that way before, like healing could mean making room for all of her instead of just erasing the bad part or pretending it didn't happen. Maybe healing could look like being able to tell one of her jokes to someone else someday, or picking up the phone when I see something funny and then remembering I can't call her, but still feeling like she would have loved it. I don't know if I'm there yet, but that version of healing feels a little less terrifying than what I thought it had to be.",
+    "therapist": "What you just described is genuinely beautiful — carrying her with you in those moments, seeing something funny and feeling her presence in your reaction to it, that *is* a form of connection that doesn't require letting go. The fact that this version of healing feels even a little less terrifying tells me that somewhere inside you, you're already moving toward it in your own quiet way. I want to ask — is there one small moment this week where you might let yourself share something with her in that way, even just privately, like noticing something she would have loved and allowing yourself to think \"she would have gotten that\"?",
     "condition": "baseline",
-    "val_t": -0.19977903366088867,
-    "aro_t": 0.1477717161178589,
-    "text_emotion": "Angry"
+    "val_t": 0.06729781627655029,
+    "aro_t": 0.0910724401473999,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I've never really thought about it that way, like the voice might be trying to do something for me. Honestly, my first instinct is to say it feels more like punishment than protection, like I deserve to be reminded of everything I fell short on that day. But maybe there's something to what you're saying, because it does feel almost urgent, like if I don't review all my failures before I sleep, something worse might happen tomorrow.",
-    "therapist": "That insight is really profound — you've just identified something important: that the voice feels like both punishment *and* a kind of anxious protection, like it's trying to keep you safe from future failures by making you pay for today's. That makes a lot of sense for someone who experienced a sudden, devastating loss, because when something that terrible happens without warning, the mind can start working overtime trying to find things it can control or predict. \n\nI'm curious — when you imagine actually letting that nightly review go, even just for one night, what does your gut tell you would happen?",
+    "client": "I think I could maybe try that, but I'm already worried that in the moment it'll just make me break down instead of feeling connected to her. Like, what if I notice something she would have loved and instead of it feeling warm, it just feels like a punch in the stomach all over again? I want to try, but I don't want to set myself up for a moment that just leaves me feeling worse and more alone than before.",
+    "therapist": "That fear is completely valid, and it's actually wise to think ahead about how it might feel rather than just rushing in — both outcomes you're describing, the warmth *and* the punch in the stomach, might even happen at the same time, and that would be okay too. What matters isn't that the moment feels perfect, but that you're gentle with yourself whatever comes up — even breaking down could be a sign that you're letting her in, not that you've failed the experiment. I'm wondering, is there someone safe who could be nearby when you try this, so that if it does feel like a punch, you don't have to sit alone with it afterward?",
     "condition": "baseline",
-    "val_t": -0.2980853319168091,
-    "aro_t": 0.1872795820236206,
+    "val_t": -0.3562129735946655,
+    "aro_t": 0.15465378761291504,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "Honestly, my gut says something bad would happen — like I'd get complacent, or I'd miss something important about myself that I need to keep in check. I know that probably sounds irrational, but it feels like if I stop reviewing everything I did wrong that day, I'm just... letting myself off the hook too easily. And after losing my brother the way I did, feeling like I deserve to be let off the hook is something I really struggle with.",
-    "therapist": "I want to gently pause on something you just said — you mentioned losing your brother, and earlier you've been talking about your sister, and I just want to make sure I'm understanding your experience fully, because I want to be here for *all* of what you're carrying. And whatever the full picture is, that phrase \"letting myself off the hook\" is so important — it sounds like somewhere beneath the grief, there may be a belief that you don't deserve ease or rest, and that's something I'd really like to understand better with you.\n\nCan you tell me a little more about where that feeling of not deserving to be let off the hook comes from — is there something specific connected to the loss that makes rest feel like something you haven't earned?",
+    "client": "That's actually the part that scares me almost as much as the moment itself, because I've kind of pulled away from most people since she died and I'm not sure who I would even call. I don't want to burden anyone, and honestly I've gotten so used to being alone with all of this that I'm not even sure I know how to let someone sit with me in it anymore. It feels like grief has made me lonelier, but reaching out feels just as hard as everything else right now.",
+    "therapist": "The loneliness you're describing — feeling isolated by grief and then finding that reaching out feels almost impossible — is one of the cruelest parts of loss, and it makes complete sense that you've withdrawn when everything has felt so heavy and raw. I want to gently notice something though: you *did* reach out today, here, and you've been remarkably open and honest throughout our conversation, which tells me that part of you still knows how to let someone sit with you, even if it's rusty. I'm curious — is there even one person in your life, however distant things have felt lately, who you think might actually want to hear from you, even if you're not sure what you'd say?",
     "condition": "baseline",
-    "val_t": -0.36467444896698,
-    "aro_t": 0.17136156558990479,
+    "val_t": -0.3446986675262451,
+    "aro_t": 0.22229039669036865,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I think I misspoke earlier, or maybe I wasn't being clear enough — it's just my sister I lost, not a brother. I'm sorry if I confused things, but honestly that kind of mix-up is part of why I sometimes feel like therapy doesn't quite... land for me, like even the person trying to help me doesn't fully have the picture straight.\n\nBut your question — about whether I feel like I haven't earned rest — that one actually hit something. I think part of me believes that if I stop feeling guilty, it means I've accepted that she's gone, and I'm not ready to accept that yet.",
-    "therapist": "Thank you for correcting me, and I'm genuinely sorry for that confusion — you deserved to be heard accurately, and I understand why that kind of moment can make it hard to trust that this space is really holding you. What you just said about guilt and acceptance is one of the most honest and important things you could have named: that the guilt isn't just punishment, it's also a way of staying connected to her, of refusing to close a door that still feels too painful to close. \n\nCan you sit with that for a moment — the idea that letting go of the guilt isn't the same as accepting she's gone, but might actually just mean you're allowing yourself to survive it?",
+    "client": "There's one friend, Maya, who has texted me a few times since the funeral and I keep leaving her messages on read because I just don't know what to say. I guess part of me thinks if I respond now, after all this time, she'll either be hurt that I disappeared or she'll ask how I'm doing and I won't know how to answer without it turning into this whole heavy thing. But you pointing out that I reached out today actually made me think maybe I'm not as completely closed off as I thought I was.",
+    "therapist": "Maya has texted you *multiple times* — that's someone who is still reaching toward you, and that kind of persistence usually means she's not waiting to judge you for the silence, but just hoping to hear that you're okay. And you've already shown today that you can let someone in without having to have the perfect words ready — you didn't know exactly what to say when you started this conversation either, but look how far you've come. I wonder — what if your response to Maya didn't have to explain everything, but could just be something small and honest, like \"I've been struggling but I've been thinking of you\" — does that feel like something that might be possible?",
     "condition": "baseline",
-    "val_t": -0.21633541584014893,
-    "aro_t": 0.11344790458679199,
+    "val_t": -0.14090800285339355,
+    "aro_t": 0.15189659595489502,
     "text_emotion": "Angry"
   }
 ]

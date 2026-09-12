@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "It's been really hard since my grandma passed away last month. At family dinners now, I just sit there feeling her absence instead of enjoying time with everyone else. I'm not sure talking about it will help - the pain feels too deep to just \"fix\" with words.",
-    "therapist": "I hear how deeply you’re feeling the loss of your grandma, and it’s completely natural for her absence to feel so present, especially during moments like family dinners. It sounds like her memory is woven into those experiences in a way that makes it hard to shift focus—what comes to mind when you think about honoring her in those moments?",
+    "client": "Lately, family gatherings have been really tough for me. Ever since my grandmother passed away last month, all I can focus on is how empty everything feels without her. I know therapy is supposed to help, but I’m not sure how talking about it will make her absence any easier to handle.",
+    "therapist": "It sounds like the loss of your grandmother has left a deep void, and family gatherings now amplify that sense of emptiness. Could we explore together how her presence used to shape those moments, and perhaps find ways to honor her memory in a way that feels meaningful to you?",
     "condition": "baseline",
-    "val_t": -0.3298379182815552,
-    "aro_t": 0.024260997772216797,
+    "val_t": -0.24636054039001465,
+    "aro_t": 0.015917181968688965,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "I don't know... sometimes when I try to honor her memory it just makes me feel worse. Like at dinner last night, I set a place for her like we used to, but then I just started crying and had to leave the table. It feels like no matter what I do, the pain just gets stronger.",
-    "therapist": "It sounds like honoring her memory in that way brought up a wave of grief, and it’s okay to feel that intensity—it shows how much she meant to you. Sometimes, our attempts to connect with someone we’ve lost can feel bittersweet, especially when the loss is so fresh. What do you think she might say to you about how you’re feeling right now?",
+    "client": "Her presence was everything—she had this way of making everyone feel loved and connected. I don’t know how to honor her memory without feeling overwhelmed by sadness though. It’s like, even thinking about her brings this heavy wave of grief, and I’m not sure I can handle it.",
+    "therapist": "It’s clear how much her love and warmth meant to you, and it’s completely natural for grief to feel overwhelming when someone so significant is no longer physically present. What if we gently explore small, manageable ways to honor her—perhaps something that connects to how she made you feel loved—while acknowledging that it’s okay for sadness to be part of that process? How does that idea sit with you?",
     "condition": "baseline",
-    "val_t": -0.45903491973876953,
-    "aro_t": 0.13894271850585938,
-    "text_emotion": "Sad"
+    "val_t": -0.09254992008209229,
+    "aro_t": 0.210898756980896,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I don't know what she'd say... that's the hardest part. Sometimes I imagine her telling me to stop being so sad, but then I feel guilty for putting words in her mouth. Other times I think she'd be upset that I'm still struggling this much months later. \n\nThe grief comes in these unpredictable waves - one minute I'm okay, the next I'm crying in the grocery store because I see her favorite cereal. I know it's \"normal\" but it doesn't feel normal, it feels unbearable.",
-    "therapist": "It makes sense that you'd feel torn between different imagined responses from her—grief often leaves us grappling with these \"what ifs\" and uncertainties. The unpredictability of those waves can feel especially overwhelming when they hit in everyday moments like grocery shopping. What would it feel like to acknowledge that pain as part of your love for her, rather than something to judge or rush through?",
+    "client": "I like the idea of honoring her, but I’m not sure how to do it without feeling like I’m just reopening the wound. She used to bake with me all the time—those moments were so special—but now even thinking about baking makes me feel like I’m just missing her more. It’s hard to imagine it helping when it feels so painful.",
+    "therapist": "It makes sense that baking, something so closely tied to her, feels bittersweet right now—it’s a reminder of her absence as much as her presence. What if we reframe it as a way to feel connected to her, even if it’s painful at first, and explore how you might approach it with self-compassion and patience? How does it feel to consider baking as a way to honor her in small, gentle steps?",
     "condition": "baseline",
-    "val_t": -0.41558825969696045,
-    "aro_t": 0.17399311065673828,
+    "val_t": -0.10210561752319336,
+    "aro_t": 0.15026402473449707,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess I never thought about the pain being connected to love—that feels both comforting and terrifying at the same time. But when you say not to judge it, I immediately think \"easier said than done\" because I keep replaying how I should've visited her more, called more... those thoughts feel like facts, not just grief. The grocery store thing? It's like my brain ambushes me there—one minute I'm reaching for the cereal she liked, next minute I'm choking back tears in the checkout line.",
-    "therapist": "It sounds like your mind keeps pulling you toward those \"should haves,\" and that self-judgment adds another layer of pain to the grief you're already carrying. Those moments in the grocery store—where a simple action suddenly connects you to her—show how deeply love and loss can intertwine in everyday life. What would it feel like to notice those thoughts about \"should haves\" with curiosity rather than certainty, as if they're visitors passing through rather than absolute truths?",
+    "client": "I see what you’re saying about reframing baking as a way to feel connected to her, but I’m still worried it’ll just make me feel worse. It’s not just the sadness—it’s also the guilt, like I’m not honoring her enough if I don’t do it perfectly. I don’t know how to start without feeling like I’m failing her memory.",
+    "therapist": "That guilt about \"perfectly\" honoring her sounds like such a heavy burden—I wonder if your grandmother would have wanted you to carry that weight? What if we explore how she might have responded to seeing you trying, even imperfectly, to keep your connection alive?",
     "condition": "baseline",
-    "val_t": -0.29052960872650146,
-    "aro_t": 0.23127460479736328,
-    "text_emotion": "Angry"
+    "val_t": -0.41930127143859863,
+    "aro_t": 0.1489713191986084,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about seeing the \"should haves\" as visitors, but they don't feel temporary—they feel like permanent residents in my mind. When I see her favorite cereal at the store, the guilt hits so hard it's like I'm right back in those last days when I could've visited more. It's not just noticing, it's like my whole body reacts.",
-    "therapist": "It makes sense that these thoughts feel so physically intense—grief and guilt can truly live in our bodies, not just our minds. That visceral reaction shows how deeply connected you were to her, even if your mind tries to convince you otherwise. When those moments overwhelm you at the store, what would it feel like to pause and acknowledge: \"This pain is here because my love for her is too\"?",
+    "client": "You’re right—she probably wouldn’t have wanted me to feel this guilt. She was always so kind and encouraging, even when things didn’t turn out perfectly. But it’s still hard to shake the feeling that I’m not doing enough, like I’m letting her down somehow. Even if I try, it feels like it’ll never measure up to what she deserves.",
+    "therapist": "It sounds like you’re holding yourself to such a high standard, one that your grandmother likely wouldn’t have expected from you—she seemed to value effort and love over perfection. What if we gently explore what \"enough\" might look like, not through her expectations, but through your own compassionate lens?",
     "condition": "baseline",
-    "val_t": -0.19393455982208252,
-    "aro_t": 0.17159533500671387,
+    "val_t": -0.19035398960113525,
+    "aro_t": 0.1541217565536499,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about the love and pain being connected, but when I'm in the store and that wave hits me, it's like my whole body freezes up. The idea of pausing to acknowledge it sounds nice in theory, but in the moment it just feels impossible—like if I let myself feel it, I'll completely fall apart right there in the cereal aisle. \n\nSometimes I think people expect grief to be this clean, manageable thing, but mine still feels so raw and messy even after all this time.",
-    "therapist": "You're absolutely right—grief isn't neat or linear, and those raw, messy moments can feel especially overwhelming when they catch you off guard in public spaces. It's okay if pausing feels impossible right now; even noticing that resistance is an important step. What would it feel like to give yourself permission for the grief to be as messy as it needs to be, without judging whether you're \"doing it right\"?",
+    "client": "I guess I never really thought about what \"enough\" would look like from my own perspective. It's just... when I imagine baking her favorite cookies, part of me still panics that it won't feel the same or that I'll cry the whole time. But maybe starting small would help? Like just reading her recipe cards first, without pressure to bake right away.",
+    "therapist": "That sounds like such a thoughtful and gentle approach—starting with her recipe cards allows you to connect with her memory at your own pace, without the added pressure of baking right away. How does it feel to imagine taking that first step, simply reading her words and letting yourself experience whatever emotions come up?",
     "condition": "baseline",
-    "val_t": -0.21208727359771729,
-    "aro_t": 0.2164250612258911,
-    "text_emotion": "Angry"
+    "val_t": 0.026416301727294922,
+    "aro_t": 0.18572139739990234,
+    "text_emotion": "Tense"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying that, but it’s hard not to judge myself when I’m grieving in public. I feel like people are staring or thinking I’m being dramatic, even if they’re not. Giving myself permission feels almost impossible because I’m so used to trying to keep it together for others. What if I just can’t handle letting it be messy?",
-    "therapist": "It sounds like there's a real tension between how your grief wants to express itself and the pressure you feel to contain it for others' comfort—that's an exhausting space to be in. Those worries about being perceived as \"dramatic\" might actually be masking a deeper fear: that the grief itself is too big to be held. What would it feel like to imagine, just for a moment, that those strangers in the store might understand more than you think?",
+    "client": "It feels a little less scary when I think about just looking at her recipes first. But I’m still worried I’ll break down completely—her handwriting is all over those cards, and I haven’t been able to touch them since she passed. What if I can’t handle seeing them and just end up feeling worse?",
+    "therapist": "It makes complete sense that seeing her handwriting feels overwhelming—it’s such a direct, tangible connection to her. What if we think of this as an experiment, where you give yourself permission to step away if it becomes too much, and remind yourself that even opening the recipe box is an act of courage? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.1688445806503296,
-    "aro_t": 0.18850815296173096,
+    "val_t": -0.39615118503570557,
+    "aro_t": 0.1646568775177002,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but it's hard to believe strangers would understand. When I start crying in public, I see people look away or get uncomfortable. It makes me feel even more alone, like my grief is something ugly that needs to be hidden. The idea that they might actually get it feels... naive, I guess?",
-    "therapist": "It makes sense that you'd feel that way when people's reactions seem to confirm your fear—their discomfort can unintentionally amplify the isolation grief already brings. But I wonder if their looking away says more about their own relationship with loss than about your right to grieve openly. What would it feel like to imagine that some of those people might be looking away because they recognize that pain all too well?",
+    "client": "That actually makes me feel a little better—like I don’t have to commit to getting through all the recipes at once. But I’m still scared of what might come up emotionally. What if I open the box and just freeze? I don’t want to disappoint myself by not being able to handle it.",
+    "therapist": "It’s okay to feel scared—this is tender territory, and freezing would be a natural response to such deep grief. What if we frame \"handling it\" as simply noticing whatever arises, without judgment, and trusting that even pausing or closing the box is part of the process? How does that feel to consider?",
     "condition": "baseline",
-    "val_t": -0.2714192867279053,
-    "aro_t": 0.10953974723815918,
-    "text_emotion": "Sad"
+    "val_t": -0.22219157218933105,
+    "aro_t": 0.19041109085083008,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I never thought about it that way before. It still hurts when people avoid me, but I guess it's possible some of them just don't know what to say because they've been through loss too. Though part of me still feels like if they really cared, they'd try harder to reach out.",
-    "therapist": "That’s such an important insight—recognizing that their avoidance might come from their own pain, while still honoring your very real longing for connection. It’s okay to hold both truths: that people’s reactions often say more about them, *and* that it’s valid to wish for more support. What would it feel like to extend the same compassion you’re starting to see for others toward yourself in those lonely moments?",
+    "client": "That framing helps a little—it takes away some pressure. But I still worry that if I can't get through looking at one recipe, it'll prove I'm not strong enough to keep her memory alive. It's like failing before I even start. Maybe I should wait until I feel more \"ready,\" but I don't know when that will be.",
+    "therapist": "It sounds like you’re equating emotional difficulty with failure, when in reality, grief isn’t about strength—it’s about love. What if \"keeping her memory alive\" includes honoring how hard this is, rather than pushing through? Would it feel possible to let readiness be something that unfolds gradually, rather than a hurdle to clear first?",
     "condition": "baseline",
-    "val_t": -0.22700798511505127,
-    "aro_t": 0.07716238498687744,
-    "text_emotion": "Sad"
+    "val_t": -0.09620785713195801,
+    "aro_t": 0.06444597244262695,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about self-compassion, but it's so much easier to understand other people's struggles than to be kind to myself. When I'm alone at night, all I feel is this heavy emptiness, and my brain just keeps replaying every awkward social interaction from the day. The idea of being gentle with myself in those moments feels... fake somehow? Like I'd just be making excuses for being bad at relationships.",
-    "therapist": "It makes sense that self-compassion might feel inauthentic right now—when the emptiness feels so heavy, kindness can seem like a distant concept compared to the very real pain you're sitting with. Those nighttime spirals about social interactions sound exhausting, and it's understandable that they'd make \"being gentle\" feel like an impossible ask. What would it feel like to start smaller—maybe just noticing when the self-criticism arises, without trying to change it yet?",
+    "client": "I never thought about grief being about love rather than strength—that actually makes a lot of sense. But I still feel stuck between wanting to feel close to her and being terrified of the pain. Maybe I could try looking at just one recipe card for a few seconds, and give myself permission to put it away immediately if it's too much? But I don't know if that even counts as progress.",
+    "therapist": "That sounds like such a thoughtful and compassionate approach—starting with just one card for a few moments allows you to gently test the waters while honoring your limits. What if we think of progress not as how much you accomplish, but as the courage it takes to lean into this tender space, even for a few seconds? How does that feel to consider?",
     "condition": "baseline",
-    "val_t": -0.1935199499130249,
-    "aro_t": 0.08182728290557861,
+    "val_t": -0.19903528690338135,
+    "aro_t": 0.14422845840454102,
     "text_emotion": "Angry"
   }
 ]

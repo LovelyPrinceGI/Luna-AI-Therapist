@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling this past week because I have this big presentation at an annual conference coming up, and I can't seem to stop catastrophizing about it. Yesterday during practice I completely blanked and forgot my lines, and now I can't get that moment out of my head. Honestly, I'm not even sure talking about it is going to help — it feels like the anxiety is just too big to think my way out of.",
-    "therapist": "It makes complete sense that yesterday's blank moment is replaying in your mind — our brains tend to hold onto scary experiences like that as a kind of warning signal, even when it's exhausting. I hear your doubt about whether talking can help, and I want you to know that skepticism is completely valid; we don't have to *think* our way out of anything today, just gently explore together. \n\nWhen you imagine that moment of blanking during your practice, what's the story your mind tells you about what it *means* — about you, or about how the actual presentation will go?",
+    "client": "I've been really struggling this past week with this big presentation I have coming up at our annual conference, and honestly, I'm kind of a mess about it. Yesterday during practice I completely blanked — like, my mind just went totally empty in front of my colleagues, and now I can't stop replaying that moment over and over. I'm not sure talking about it is really going to fix anything, but I figured I'd give this a shot.",
+    "therapist": "It takes real courage to reach out even when you're not sure it will help, and I'm really glad you did. That moment of blanking in front of your colleagues sounds genuinely distressing, and it makes complete sense that your mind keeps returning to it — our brains have a way of replaying painful moments as if trying to \"solve\" them. I'm curious, when that memory replays, what's the thought that tends to follow it — what does that moment *mean* to you about yourself or how the presentation will go?",
     "condition": "baseline",
-    "val_t": -0.28005218505859375,
-    "aro_t": 0.2943873405456543,
+    "val_t": -0.21704447269439697,
+    "aro_t": 0.219246506690979,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "When I blanked during practice, my mind immediately went to this place of \"see, you're not actually capable of this\" — like it was proof of something I've been afraid of for a long time. The story is basically that I'm going to stand up there in front of everyone and just fall apart, and then they'll all see that I've been faking competence this whole time. It's hard to even say that out loud because part of me knows it sounds dramatic, but another part of me fully believes it.",
-    "therapist": "Thank you for trusting me with that — it takes real courage to say something out loud that feels both \"dramatic\" and completely real at the same time, and that tension you're describing is actually really important. What you're touching on sounds a lot like impostor syndrome, where one difficult moment gets used as \"proof\" of a fear that was already waiting in the wings, rather than being weighed against all the evidence of what actually got you invited to speak at this conference in the first place. \n\nI'm curious — if a trusted colleague had blanked during *their* practice run and then said \"see, I'm not actually capable of this,\" what evidence would you want to gently point them toward?",
+    "client": "Honestly, when that moment replays, the thought that hits me hardest is that I'm going to completely fall apart at the actual conference and everyone's going to see that I don't really know what I'm talking about. Like, it feels like proof that I'm a fraud — that I've somehow been faking competence this whole time and now it's all about to unravel in front of everyone. And the worst part is, I can't shake the feeling that this time, it's actually true.",
+    "therapist": "That feeling of being \"found out\" is incredibly painful, and I want you to know it's also one of the most common experiences among capable, hardworking people — it even has a name, impostor syndrome. But I'd gently invite you to pause on the word \"proof\" — one moment of blanking during a practice run is one data point, and I'm wondering what other evidence exists about your competence that we might be overlooking. Can you think of a time, maybe recently, where your knowledge or skills genuinely showed up in a way that others recognized?",
     "condition": "baseline",
-    "val_t": -0.1723616123199463,
-    "aro_t": 0.1865013837814331,
+    "val_t": -0.25955164432525635,
+    "aro_t": 0.2758601903915405,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I mean... I'd probably remind them of all the times they'd handled tough situations before, or point out that one stumble in practice doesn't erase everything they've built. But it feels different when it's me — like, I know logically that's what I'd say, but I can't actually make myself believe it in my own case. There's this wall between knowing something and actually feeling it, and I don't know how to get past that.",
-    "therapist": "That gap you're describing between *knowing* and *feeling* is one of the most human experiences there is, and you're not failing at CBT because logic isn't magically dissolving the fear — that wall is real. What often helps bridge it isn't more thinking, but small lived experiences that gently collect new evidence over time, like little experiments that let your nervous system catch up to what your mind already knows. \n\nI wonder — is there one upcoming moment, even something small before the big presentation, where you could practice letting yourself be seen as capable and notice what actually happens?",
+    "client": "I mean, yeah, my manager did pull me aside after a team meeting last month and said I handled a really tough Q&A session better than anyone expected. And I guess there have been other moments like that, but the thing is, when I'm in that replay loop, those memories just don't feel as real or as heavy as the blanking moment did. It's like the bad stuff has this louder volume, and I'm not sure just reminding myself of the good stuff is actually going to quiet it down.",
+    "therapist": "You've just identified something really important — your brain isn't being objective, it's turning up the volume on the threatening memory while quietly muting the evidence that contradicts it, which is a very human but very misleading mental habit we call the negativity bias. And you're right that simply *reminding* yourself of good moments often isn't enough, because it can feel like you're just arguing with the fear rather than truly updating it. I'm wondering — when your manager gave you that feedback after the Q&A, what was it like in your body in that moment, and do you think you actually let yourself take it in?",
     "condition": "baseline",
-    "val_t": -0.11532187461853027,
-    "aro_t": 0.12147939205169678,
-    "text_emotion": "Angry"
+    "val_t": -0.07446098327636719,
+    "aro_t": 0.12517917156219482,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I hear what you're saying, and part of me gets it, but I'm already dreading the presentation so much that the idea of adding more \"being seen\" moments before it actually makes me feel worse, not better. Like, what if I try one of these small experiments and it goes badly? That just feels like more evidence that I'm going to bomb the big one. I guess I'm scared that collecting evidence could go both ways.",
-    "therapist": "That's such an honest and important pushback, and you're absolutely right that evidence can cut both ways — that's not resistance, that's you thinking carefully about your own experience. What I'd gently offer is that the goal of these small moments isn't to *prove* you're perfect, but to practice noticing that you can survive imperfection, which is actually the skill that matters most when you're standing at that podium. \n\nSo I'm wondering — what would it mean for you if a small experiment *did* go imperfectly, but you got through it anyway? What might that actually show you?",
+    "client": "Honestly, in that moment I remember feeling kind of relieved but also almost suspicious of it, like I was waiting for the \"but\" that never came. I think I smiled and said thank you, but inside I was already kind of dismissing it, telling myself he was probably just being nice or trying to keep morale up. So no, I don't think I really let it land — and that's a weird thing to realize, because I'm not sure I even know how to let something good actually sink in.",
+    "therapist": "That's a genuinely profound realization — you've essentially built a one-way filter where criticism and failure get absorbed deeply, while praise and success get screened out before they can even reach you. It's like your mind has been collecting evidence for the \"fraud\" story while quietly rejecting anything that challenges it, which means the verdict was never really fair. I'm curious — what do you think it would actually take, in that moment when your manager praised you, for you to let yourself be someone who *deserved* to hear it?",
     "condition": "baseline",
-    "val_t": -0.3619251251220703,
-    "aro_t": 0.24838709831237793,
+    "val_t": -0.11873006820678711,
+    "aro_t": 0.11204385757446289,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess... if something small went wrong and I still got through it, that might show me I'm not as fragile as I think I am. But honestly, my brain immediately goes to \"well, a small thing going wrong isn't the same as freezing up in front of a hundred people at work.\" It feels like the stakes are so different that I'm not sure the experiment would actually translate.",
-    "therapist": "Your brain is working really hard to protect you right now, and that \"yes, but\" move — where every reassurance gets met with a reason it doesn't quite count — is actually a really common way anxiety keeps itself alive by making safety feel permanently out of reach. You're right that a small experiment isn't identical to the big presentation, but I'd gently ask: has your anxiety ever actually accepted *enough* evidence, or does it tend to keep raising the bar?\n\nWhat do you notice when you sit with that question?",
+    "client": "That question actually kind of stops me, because I genuinely don't know what it would take — and that's unsettling to sit with. Part of me thinks I'd need like, overwhelming, undeniable evidence before I'd let myself believe it, but then I also wonder if even that wouldn't be enough, because I'd probably find a way to explain it away. It's like the bar keeps moving, and I'm not sure I'm the one setting it anymore.",
+    "therapist": "What you just described — a bar that keeps moving no matter how well you do — is such an honest and courageous thing to notice, because it reveals that the problem isn't actually a lack of evidence, it's that a part of you has decided the verdict in advance. That's not a character flaw; it's a protective pattern that probably made sense at some point in your life, even if it's working against you now. I'm wondering, does any part of you recognize where that voice came from — was there a time or a place where it first felt necessary to stay suspicious of your own success?",
     "condition": "baseline",
-    "val_t": -0.1321098804473877,
-    "aro_t": 0.06687700748443604,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 6,
-    "client": "That question kind of stops me in my tracks, honestly, because when I really think about it... no, the anxiety never really does accept enough evidence. There's always something else it points to, some reason why this time is different or why the last success doesn't count. It's uncomfortable to admit that, because it makes me feel like I've been sort of tricked by my own brain this whole time.",
-    "therapist": "That moment of recognition you just had — seeing the pattern clearly for what it is — is genuinely significant, and I want you to let it land rather than rushing past it. You haven't been foolish or weak; anxiety is *designed* to be convincing, and noticing that it's been moving the goalposts on you is actually the first real crack in its logic. \n\nWhat feels different for you now, even just slightly, about the upcoming presentation — knowing that the anxiety's \"evidence\" has never really been playing fair?",
-    "condition": "baseline",
-    "val_t": -0.26284849643707275,
-    "aro_t": 0.19823193550109863,
+    "val_t": -0.13609051704406738,
+    "aro_t": 0.19304311275482178,
     "text_emotion": "Angry"
   },
   {
-    "turn": 7,
-    "client": "I guess... when I think about it that way, it does feel slightly different, like maybe the dread I've been carrying isn't actually proof that I'm going to fail. But I'm still scared that this time will be the exception, you know, that all those times it worked out before were just luck and the presentation next week is when I finally get exposed. It's hard to fully trust that insight when the anxiety just immediately comes back with \"yeah, but what about THIS time.\"",
-    "therapist": "That \"yeah, but THIS time\" voice is anxiety's most powerful move — it makes every past success feel like borrowed time rather than earned evidence, and it's exhausting to keep negotiating with it. What's worth noticing is that you've now caught it doing this in real time, which is different from before — you're no longer just *inside* the fear, you're also able to watch it work. \n\nI'm curious: if the presentation next week did go imperfectly in some way, not perfectly but imperfectly — what's the most honest thing you believe would actually happen afterward?",
+    "turn": 6,
+    "client": "That question hits somewhere deeper than I expected, and I find myself thinking about my dad, who was never really someone who celebrated anything — like, doing well was just what you were supposed to do, so there was never any acknowledgment, just a raised bar. I think I learned pretty early that feeling good about yourself was almost dangerous, like it would make you sloppy or set you up to be embarrassed later. I'm not sure I've ever connected that to the presentation stuff before, but saying it out loud right now feels kind of significant and also a little overwhelming.",
+    "therapist": "What you just connected is really significant — you essentially learned from someone you loved and depended on that self-acknowledgment was a liability, and so you internalized his voice to protect yourself, not realizing it would follow you into every conference room and practice session. It makes so much sense that this feels both meaningful and overwhelming right now, and I want you to know there's no pressure to untangle all of it today. I'm curious — now that you can see that voice as something you *learned* rather than something that's simply *true*, does it feel even slightly different to you?",
     "condition": "baseline",
-    "val_t": -0.25195515155792236,
-    "aro_t": 0.20070350170135498,
+    "val_t": 0.010831356048583984,
+    "aro_t": 0.22544324398040771,
+    "text_emotion": "Tense"
+  },
+  {
+    "turn": 7,
+    "client": "It does feel slightly different, yeah — like there's a tiny bit of distance between me and that voice that wasn't there before, which is strange because I've lived with it so long it just felt like my own thinking. But I also want to be honest that I'm a little worried this is one of those things that makes sense in a therapy session and then just evaporates the moment I'm standing at that podium feeling my heart race. Like, how do I actually hold onto this when the fear kicks in and my body is doing its own thing?",
+    "therapist": "That tiny bit of distance you're feeling right now is actually really important — it's not just an insight, it's a skill you can practice strengthening, so that gap between you and the voice gets wider over time rather than evaporating. You're absolutely right that insight alone won't calm a racing heart in the moment, which is why we'd want to pair this awareness with something concrete and physical you can anchor to when your body starts to panic. So I'm wondering — in the past, when you've felt overwhelmed and then somehow steadied yourself, what did that look like, even in small ways?",
+    "condition": "baseline",
+    "val_t": -0.22229397296905518,
+    "aro_t": 0.30777835845947266,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I mean... honestly? People would probably move on pretty quickly, they have their own stuff going on. But there's this part of me that genuinely believes my boss would start seeing me differently, like it would confirm some suspicion she already has that I'm not as capable as she thought. I know that probably sounds irrational when I say it out loud, but it feels really real.",
-    "therapist": "It doesn't sound irrational at all — it sounds like the fear has a very specific face and story attached to it, which actually makes it more painful than a vague worry would be. What's worth gently examining is that you've already shown real insight today: you noticed that people move on quickly, and yet your mind carves out one special exception — your boss — where the normal rules don't apply, which is worth getting curious about. \n\nCan you tell me a little about what your boss has actually shown you, in her real behavior toward you, that either supports or challenges the idea that she's already looking for reasons to doubt you?",
+    "client": "I guess there have been moments — like sometimes before a difficult conversation I'll just stop and take a few slow breaths, and it does take the edge off a little, even if I always feel kind of silly doing it. But I'm not sure that's going to be enough when I'm standing at a podium in front of a hundred people and my mind goes blank like it did in practice, because that felt like a completely different level of panic. I worry that whatever small thing works in a quiet moment just won't be accessible when everything's actually on the line.",
+    "therapist": "You already have a tool that works — and the fact that you dismiss it as \"silly\" is actually that same inherited voice telling you that something simple and self-caring couldn't possibly be enough for someone like you. What's interesting is that the breathing doesn't need to *eliminate* the panic to be useful; it just needs to buy you a second of space, which is exactly that same tiny distance you found today between you and your father's voice. I'm wondering if between now and your presentation, you'd be open to a small experiment — practicing those breaths *specifically* in higher-pressure moments, not to feel silly or calm, but just to see if that gap shows up even a little when the stakes feel real?",
     "condition": "baseline",
-    "val_t": 0.013741850852966309,
-    "aro_t": 0.15649938583374023,
-    "text_emotion": "Tense"
+    "val_t": -0.2564849853515625,
+    "aro_t": 0.26107466220855713,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "Honestly, when I try to think about her actual behavior... she hasn't said anything directly critical to me since the mistake happened. She still includes me in meetings, still asks for my input on things. But my mind immediately jumps to \"that's just because she's being professional, she's building a case, waiting for the right moment\" — and I know how that sounds, I can hear it, but I can't seem to stop believing it anyway.",
-    "therapist": "You just did something really important — you looked at the actual evidence, and it didn't support the story, and then you watched your mind immediately rewrite it to fit the fear anyway, and you *caught that happening in real time*. That's not a small thing; that's you starting to see the anxiety's playbook rather than just being swept along by it. \n\nWhat do you think it would take — not to eliminate the fear completely, but just to hold that rewritten story a little more loosely, as a *possibility* your anxiety is offering rather than a fact it's confirmed?",
+    "client": "I hear what you're saying, and that reframe about the \"silly\" feeling being the same voice actually landed in a way I didn't expect. But I guess my hesitation is that practicing in smaller high-pressure moments feels manageable in theory, and then the conference is just so much bigger — like, I'm worried I'll practice and it'll work a few times and then I'll convince myself I'm ready, and the blanking will happen anyway and it'll feel even worse because I thought I had a handle on it. I'm willing to try it, but I want to be honest that part of me is already bracing for it to not be enough.",
+    "therapist": "The part of you that's already bracing for failure before you've even tried is worth noticing — it's that same protective voice trying to soften a blow that hasn't happened yet, which is a very human thing to do but also a way of living in a future that isn't real. And I want to gently offer this: even if you practice, and you still blank at the podium, that wouldn't mean the work was wasted — it would mean you're someone who blanked *and* had more tools than before, which is genuinely different from where you started. I'm curious — what would it mean for you to go into that conference not with a guarantee that it goes perfectly, but with a slightly kinder response ready for yourself if it doesn't?",
     "condition": "baseline",
-    "val_t": -0.03925740718841553,
-    "aro_t": 0.1943378448486328,
-    "text_emotion": "Tense"
+    "val_t": -0.027158260345458984,
+    "aro_t": 0.12328040599822998,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I hear what you're saying, and honestly, catching it happening did feel kind of significant, even if just for a second. But holding it loosely feels almost impossible in the moment, because the fear is so loud and convincing that it doesn't feel like a possibility, it feels like the only logical conclusion. I guess what I'm asking is, how do you hold something loosely when your whole body is screaming that it's true?",
-    "therapist": "That question gets right to the heart of why anxiety is so hard to reason with — because it doesn't just live in your thoughts, it lives in your body, and a racing heart or tight chest feels like *evidence* in a way that's hard to argue with. One small but powerful shift is learning to narrate it rather than debate it — instead of trying to convince yourself the fear is wrong, just noticing \"my body is doing its anxiety thing right now,\" which creates just a tiny bit of space between you and the screaming without demanding that it stop. \n\nWhen you imagine using that kind of gentle narration in the moment before your presentation, what comes up for you?",
+    "client": "That question is harder than it sounds, because honestly I'm not sure I know what a kinder response to myself would even look like — like, I can imagine saying the words \"it's okay, you tried,\" but I don't know if I'd actually mean them or if it would just feel hollow. I think part of me believes that if I go in with a backup plan for failure, I'm somehow already giving up, even though I can hear how irrational that sounds when I say it out loud. But I guess what it might mean is... going in knowing that one bad moment doesn't have to be the whole verdict, and maybe that's a version of kindness I could at least start to try on.",
+    "therapist": "What you just arrived at on your own — \"one bad moment doesn't have to be the whole verdict\" — is genuinely powerful, and I want you to notice that you found that yourself, which matters. And you're right that self-compassion can feel hollow at first, like wearing clothes that don't quite fit yet, but that's not because it's false — it's because it's unfamiliar, and unfamiliar things take practice just like the breathing does. I'm wondering if you could hold that phrase — \"one moment isn't the whole verdict\" — not as something you fully believe yet, but as something you're willing to try on and see how it fits as the conference gets closer?",
     "condition": "baseline",
-    "val_t": -0.1278136968612671,
-    "aro_t": 0.3111180067062378,
-    "text_emotion": "Tense"
+    "val_t": -0.1933525800704956,
+    "aro_t": 0.11671102046966553,
+    "text_emotion": "Angry"
   }
 ]

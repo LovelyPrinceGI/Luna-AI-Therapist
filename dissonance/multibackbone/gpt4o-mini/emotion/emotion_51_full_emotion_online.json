@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since I lost my partner in that car accident six months ago. It feels like all the joy has been sucked out of my life, and I can't even bring myself to do the things I used to love. I sometimes wonder if therapy can actually help me get through this, or if it's just a waste of time.",
-    "therapist": "I'm really sorry to hear about your loss; it sounds incredibly painful and overwhelming. It’s completely understandable to feel like joy has been drained from your life, especially after such a significant loss. Therapy can be a valuable space to explore these feelings and find ways to cope, but I know it can also feel uncertain. What are some thoughts you have about what you might want to achieve through therapy?",
+    "client": "I've been feeling really lost ever since my partner died in that car accident six months ago. It's like a dark cloud is hanging over me, and I can’t seem to find joy in anything anymore, even the things I used to love. Sometimes, I wonder if therapy can actually help me through this, or if I'm just going through the motions.",
+    "therapist": "I'm so sorry to hear about your partner; that must be an incredibly heavy burden to carry. It's understandable to feel lost and unsure about the future, especially when joy seems out of reach. It’s important to acknowledge how you’re feeling right now. Can you share more about the things that used to bring you joy?",
     "condition": "emotion_text_only",
-    "val_t": -0.3632446527481079,
-    "aro_t": 0.26218879222869873,
+    "val_t": -0.26935315132141113,
+    "aro_t": 0.1231158971786499,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I appreciate your understanding, but honestly, I’m feeling pretty lost right now. It’s hard to even think about what I might want to achieve when everything just feels so heavy. I guess I just want to feel something other than this constant sadness, but I don’t know how to get there or if it’s even possible.",
-    "therapist": "It sounds like you’re navigating through a really heavy fog of sadness, and feeling lost can be such a lonely place. It’s completely okay to not have all the answers right now; just recognizing that you want to feel differently is an important first step. What do you think might help you to start exploring those feelings or even small steps towards something different?",
+    "client": "I used to love going for long hikes in the mountains and painting landscapes when I got back home. Being outdoors always made me feel alive, but now it just feels too heavy to even think about doing those things. I worry that if I try to go back to them, it’ll just remind me of what I’ve lost, and I’m not sure I can handle that kind of pain right now.",
+    "therapist": "It sounds like those activities held a lot of meaning for you, and it's completely natural to feel hesitant about revisiting them right now. The idea that they could bring up painful memories can be really daunting. It might help to think about small steps you could take, perhaps just being in nature without the pressure of hiking or painting. What do you think about exploring those activities in a way that feels safe for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.24769151210784912,
-    "aro_t": 0.13094055652618408,
+    "val_t": -0.21410095691680908,
+    "aro_t": 0.19221556186676025,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I've been feeling so overwhelmed by this sadness lately, and it really does feel like I'm stuck in a fog. I want to feel differently, but it’s hard to even know where to start. Sometimes, I worry that whatever steps I might take won’t actually make a difference, and that makes me hesitant to try anything new.",
-    "therapist": "It sounds like you're feeling quite overwhelmed and stuck, which is completely understandable given the weight of your sadness. It’s natural to feel hesitant about taking steps when you’re unsure if they’ll bring about change. What small action do you think you could consider, even if it feels minor, that might help you begin to shift that fog just a little?",
+    "client": "I see what you’re saying, and I get that small steps might be a good idea, but I still feel really resistant to even the thought of going outside. It just feels like a reminder of everything that’s gone. What if I go out there and just end up feeling worse instead of better? It feels like a risk I’m not sure I want to take.",
+    "therapist": "It sounds like you're grappling with a lot of fear and uncertainty about stepping outside again, and that's completely understandable given your loss. The thought of facing those reminders can feel overwhelming, and it's okay to take your time with this. What if we explored some ways to make that experience feel a little safer or more manageable for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.30495381355285645,
-    "aro_t": 0.12596917152404785,
-    "text_emotion": "Sad"
+    "val_t": -0.254801869392395,
+    "aro_t": 0.14187729358673096,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate you acknowledging how overwhelming it feels. Honestly, I’m struggling to think of any small action that could help. It just seems like no matter what I do, the sadness is always there, and I worry that even trying something small will just feel pointless.",
-    "therapist": "I can hear how deeply this sadness is affecting you, and it’s understandable to feel that any effort might seem futile right now. Sometimes, even the smallest steps can feel overwhelming, especially when the heaviness feels so constant. What if we explored some very gentle ideas together, or even just talked about what feels most manageable for you in this moment?",
+    "client": "I appreciate that you understand how heavy this feels for me. I guess I just struggle to see how I could even make it manageable. Like, what could possibly make it feel safe enough for me to step outside? It just feels like every time I think about it, the anxiety takes over, and I can't see a way to push through that.",
+    "therapist": "I hear you, and it's completely valid to feel that way; the anxiety can feel really consuming when you're trying to think about taking a step outside. It’s okay to feel unsure about how to approach it, especially when it feels so overwhelming. Maybe we could brainstorm some small, low-pressure ways to connect with the outdoors, like sitting by an open window or taking a short walk to a nearby park? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.14967310428619385,
-    "aro_t": 0.15291237831115723,
+    "val_t": -0.20242536067962646,
+    "aro_t": 0.20644843578338623,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate you acknowledging how heavy this all feels for me. It’s just that when I think about taking small steps, it feels like I’m stuck in quicksand; every little effort seems pointless when I’m overwhelmed by sadness. I’m not sure what “gentle ideas” would even look like for me right now, and I worry that anything I try won’t really help.",
-    "therapist": "It sounds like you’re feeling really trapped in this sadness, and that can make any effort feel daunting and pointless. It’s okay to not have a clear vision of what gentle steps might look like, especially when everything feels so heavy. We can take our time exploring this together—what are some things, no matter how small, that you used to enjoy or find comfort in, even if they seem distant right now?",
+    "client": "I appreciate your suggestions, but I still feel a bit skeptical about sitting by a window or going to a park. It just feels like it won’t really help me break out of this heaviness. I’m worried that even those small steps might just remind me of what I’ve lost instead of helping me heal. I just don’t know if I’m ready for that yet.",
+    "therapist": "It makes complete sense to feel skeptical about those suggestions, especially when every thought of stepping outside feels tied to your loss. It’s okay to not be ready for those steps right now; healing isn't a race, and it’s important to honor where you are. What if we took a moment to explore how you’re feeling about your loss and what support you might need in this moment?",
     "condition": "emotion_text_only",
-    "val_t": -0.06368649005889893,
-    "aro_t": 0.10065770149230957,
-    "text_emotion": "Neutral"
+    "val_t": -0.1284552812576294,
+    "aro_t": 0.12033736705780029,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I guess there were things I used to enjoy, like reading or going for long walks, but it feels like so much effort just to think about them now. I feel so weighed down that I can't even imagine getting back to those activities, and part of me thinks they won’t even bring me any comfort anymore. It’s hard to believe that something that once felt good could feel like a chore now.",
-    "therapist": "It’s completely understandable to feel weighed down and see activities that once brought you joy as a chore now. The way you’re feeling is valid, and it’s okay to be skeptical about things that used to comfort you. What if we took a moment to just explore what it might feel like to engage in one of those activities without any pressure to find joy in it—just to see how it feels in the moment?",
+    "client": "I really appreciate that you’re validating my feelings, but honestly, it’s just hard to talk about my loss. I feel like I’m carrying this heavy weight, and sometimes I’m not even sure what support I need. I guess I just want to feel some semblance of connection again, but it feels so distant right now, like I’m stuck in this fog.",
+    "therapist": "It sounds like you're feeling really weighed down by your loss, and I appreciate your honesty about how hard it is to talk about it. Feeling disconnected and stuck in a fog can be incredibly isolating. Perhaps we can explore what connection means for you right now, and if there are any small ways you might feel a bit more connected, even in this challenging time?",
     "condition": "emotion_text_only",
-    "val_t": -0.08539509773254395,
-    "aro_t": 0.14139056205749512,
+    "val_t": -0.1392587423324585,
+    "aro_t": 0.09663677215576172,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying that my feelings are valid, but I’m not sure how engaging in an activity that used to bring me joy would help. It feels like a lot of pressure, and I worry I’ll just end up feeling disappointed again. What if I try it and it just reminds me of how disconnected I am from those things now?",
-    "therapist": "I can see that the thought of engaging in something that used to bring you joy feels really overwhelming and carries the fear of disappointment. It’s completely understandable to feel concerned about reconnecting with those activities when the sadness feels so heavy. What if we looked at this idea as an experiment rather than a pressure-filled obligation—just to see how you feel without any expectations? Would that feel more manageable for you?",
+    "client": "I think connection used to mean spending time with my partner and sharing experiences, but now it feels like a void. I feel like I’m just floating through my days, and the thought of trying to connect with others feels overwhelming. I worry that if I reach out to friends or family, I won’t be able to explain how I’m feeling, or they won’t really understand the depth of my loneliness.",
+    "therapist": "It sounds like you’re feeling a profound sense of emptiness and loneliness, especially when you think about connection without your partner. It’s completely natural to feel overwhelmed by the idea of reaching out, especially when you’re not sure how to express what you're going through. What if we explored some gentle ways to connect with others that don’t feel as heavy, maybe starting with small check-ins or even just sharing a moment with someone who offers support? How does that resonate with you?",
     "condition": "emotion_text_only",
-    "val_t": -0.19141924381256104,
-    "aro_t": 0.16028857231140137,
+    "val_t": -0.20906507968902588,
+    "aro_t": 0.1460813283920288,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate the idea of framing it as an experiment, but I still feel a lot of resistance. What if I try something I used to love and it just reminds me of how distant that joy feels now? It makes me anxious to think about potentially failing at it again, and that just adds to the heaviness I've been feeling.",
-    "therapist": "It sounds like there's a lot of apprehension and anxiety about the possibility of trying something that used to bring you joy, especially with the fear of it feeling distant or reminding you of your sadness. That resistance is completely understandable, and it’s okay to feel anxious about potential failure. We can take a step back and focus on how to sit with those feelings instead—what do you think it would look like to acknowledge that anxiety without having to act on it right away?",
+    "client": "I see what you're suggesting, but the idea of even doing small check-ins feels intimidating. I worry that I won’t know what to say or that I’ll just bring everyone down with my sadness. It feels easier to just stay in my bubble, even if it’s lonely, because reaching out seems like a risk that I’m not sure I’m ready to take.",
+    "therapist": "I completely understand why the thought of reaching out feels intimidating right now; it’s tough to be vulnerable with others when you’re carrying such heavy emotions. Staying in your bubble might feel safer, but it’s also okay to recognize that loneliness can be hard to bear. What if we considered some ways to reach out that feel a bit lighter or more manageable, like sharing a simple message or even just asking for a listening ear when you feel ready? What do you think?",
     "condition": "emotion_text_only",
-    "val_t": 0.002298116683959961,
-    "aro_t": 0.16272318363189697,
-    "text_emotion": "Tense"
+    "val_t": -0.19315218925476074,
+    "aro_t": 0.1490117311477661,
+    "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you’re saying, but it feels really hard to just sit with the anxiety. It’s like a weight on my chest, and whenever I try to acknowledge it, I just want to push it away instead of facing it. I worry that if I do sit with it, I’ll get stuck in that space and won’t be able to move forward.",
-    "therapist": "It’s really tough to feel that weight on your chest, and wanting to push away the anxiety is a natural response when it feels so heavy. I completely understand your concern about getting stuck if you sit with those feelings. What if we explored some ways to gently acknowledge that anxiety without getting overwhelmed by it—maybe just observing how it feels for a moment before deciding how to respond? Would that feel like a more manageable approach for you?",
+    "client": "I get that you’re trying to help me find a way to connect, but even the thought of sending a simple message feels daunting. What if I reach out and they don’t respond the way I hope, or they don’t really get what I’m going through? It just feels like there’s so much room for misunderstanding, and I’m not sure I want to risk that right now.",
+    "therapist": "It sounds like you're feeling really apprehensive about reaching out, and that’s perfectly understandable. The fear of misunderstanding or not getting the response you hope for can make it feel even more daunting. It’s okay to take a step back and prioritize your comfort right now. What if we explored some alternative ways to express your feelings or connect, perhaps through writing or creative outlets, that might feel less risky for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2552889585494995,
-    "aro_t": 0.2150355577468872,
+    "val_t": -0.13582932949066162,
+    "aro_t": 0.1362398862838745,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I'm not sure about just sitting with the anxiety. It feels like if I acknowledge it, I might get consumed by it, you know? Plus, it’s hard to just observe when it feels so intense and overwhelming—I worry I’ll just spiral down instead of finding a way to cope with it.",
-    "therapist": "I can really feel the intensity of your anxiety, and it makes complete sense to want to avoid being consumed by it. It’s perfectly valid to worry about spiraling when things feel so overwhelming. How about we explore some grounding techniques together that might help you feel more stable when those feelings arise? Would that feel like a helpful direction to take?",
+    "client": "I can see how writing or creative outlets might be a way to express what I’m feeling, but I’m not sure it will really help me feel any more connected. Sometimes, when I sit down to write, my mind just goes blank, and I feel even more alone. I guess I’m worried that whatever I create won’t capture the depth of my loss, and then I’ll just feel even more stuck.",
+    "therapist": "It sounds like you’re feeling really stuck and frustrated with the idea of expressing your feelings through writing or creativity. The pressure to capture the depth of your loss can be overwhelming, and it’s okay to feel like you’re not ready for that. What if we took the focus off creating something perfect and instead explored simply jotting down any thoughts or feelings that come to you, without the pressure of making it a finished piece? How does that sound to you?",
     "condition": "emotion_text_only",
-    "val_t": -0.2598689794540405,
-    "aro_t": 0.2043309211730957,
-    "text_emotion": "Angry"
+    "val_t": -0.2868778705596924,
+    "aro_t": 0.01179361343383789,
+    "text_emotion": "Sad"
   }
 ]

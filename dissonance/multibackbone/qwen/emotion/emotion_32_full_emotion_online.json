@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I've been feeling really overwhelmed lately. My job has been piling on the demands, and I just got assigned this really challenging project with a tight deadline, and to make matters worse, my team is short-staffed. I'm not sure how I’m going to manage it all, and I’m starting to doubt if therapy can even help with something like this.",
-    "therapist": "Hi there, it sounds like you're under a lot of pressure right now, and it's completely understandable to feel overwhelmed with everything you're juggling. It's natural to doubt if therapy can help, but let's explore some ways to break down these challenges and find some manageable steps. What do you think is the most immediate concern that's weighing on you?",
+    "client": "Hi Luna, I've been feeling really overwhelmed lately. My job has become so demanding, especially with this new project that has a tight deadline, and we're short-staffed. I just don't know how I'm going to manage it all.",
+    "therapist": "Hi there, it sounds like you’re under a lot of pressure right now, and it’s completely understandable to feel overwhelmed with everything on your plate. Let’s break it down a bit—what are some specific parts of the project that are causing the most stress for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.24796950817108154,
-    "aro_t": 0.2376708984375,
+    "val_t": -0.19393539428710938,
+    "aro_t": 0.25525963306427,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. Right now, I feel like my anxiety is just through the roof, and it's making it hard for me to focus on anything. I keep thinking about all the things I should be doing, but I end up feeling paralyzed and guilty for not doing enough. It's really overwhelming.",
-    "therapist": "I can see how overwhelming and anxiety-inducing this situation must be for you. It's completely normal to feel paralyzed and guilty when you're under so much pressure. Let's try to break down some of these thoughts and see if we can find a way to make them more manageable. What are some specific tasks or thoughts that are causing the most anxiety right now?",
+    "client": "Thanks for understanding, Luna. The most stressful part is the tight deadline. I feel like I’m constantly behind, and I’m worried about making mistakes. Plus, the lack of support from my team is really getting to me. It feels like I’m the only one pulling my weight.",
+    "therapist": "It sounds like the tight deadline and feeling unsupported are really taking a toll on you. It’s natural to worry about making mistakes when you feel like you’re behind. How do you think you could address the lack of support with your team or supervisor?",
     "condition": "emotion_text_only",
-    "val_t": -0.21993327140808105,
-    "aro_t": 0.31466472148895264,
-    "text_emotion": "Angry"
+    "val_t": -0.04283034801483154,
+    "aro_t": 0.16004300117492676,
+    "text_emotion": "Tense"
   },
   {
     "turn": 3,
-    "client": "It's really hard to pinpoint just one thing. Everything feels so interconnected and overwhelming. Like, I have this big work project due next week, and I can't stop thinking about all the ways it could go wrong, but at the same time, I feel guilty for not spending more time with my family. It's like I'm failing on both fronts.",
-    "therapist": "It sounds incredibly challenging to be pulled in so many directions at once. It's understandable that you're feeling overwhelmed and guilty, especially when it seems like you're falling short in multiple areas. Let's try to focus on one thing at a time. What's one small step you could take today to make progress on the work project, even if it's just a minor task? And how about a small way to connect with your family, even if it's just a few minutes?",
+    "client": "I appreciate your suggestion, Luna, but I’m not sure how to bring it up without coming off as complaining or making things worse. My supervisor is already stressed, and I don’t want to add to that. Plus, I’m afraid my team might resent me for trying to push them to do more.",
+    "therapist": "I understand your concerns about how to approach this situation without making things worse. It’s important to find a way to communicate that feels constructive and supportive. Have you considered framing your concerns in a way that focuses on solutions and teamwork, rather than problems? What do you think might be a good starting point for that conversation?",
     "condition": "emotion_text_only",
-    "val_t": -0.41380369663238525,
-    "aro_t": 0.19721531867980957,
+    "val_t": -0.24930667877197266,
+    "aro_t": 0.11132323741912842,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I appreciate your understanding, Luna. I do feel pulled in so many directions. Breaking it down into smaller steps makes sense, but I'm still worried. For the project, I could probably send a quick email to my team to check in, but I feel like that's not really making substantial progress. And for family, I know I should call my mom, but it feels like I'm just going to feel guilty for not being there more often.",
-    "therapist": "I understand that even small steps might not feel like enough, but they can still make a difference and help you feel more in control. Sending that email to your team is a good start, and it shows you're taking action. As for your family, calling your mom is a meaningful way to connect, and it's important to recognize that you're doing what you can. What do you think might help you feel less guilty when you can't be there as much as you'd like?",
+    "client": "I like the idea of focusing on solutions, but it’s hard to know how to start that conversation without sounding like I’m pointing fingers. Maybe I could suggest a team meeting to discuss the project and see if we can come up with a plan together. But I’m still worried about how they’ll react.",
+    "therapist": "It’s great that you’re thinking about a team meeting to focus on solutions. It’s natural to feel anxious about how they might react, but approaching it collaboratively can help diffuse those concerns. What do you think might be some key points to emphasize in the meeting to make it feel more like a team effort rather than a blame session?",
     "condition": "emotion_text_only",
-    "val_t": -0.24928712844848633,
-    "aro_t": 0.07613945007324219,
-    "text_emotion": "Sad"
+    "val_t": -0.15467751026153564,
+    "aro_t": 0.08583486080169678,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It's just hard to shake the feeling of guilt, even when I do take those steps. I guess part of me wonders if there's something more I should be doing, or if I'm just not doing enough. It's tough to feel like I'm letting people down, even when I know I'm trying.",
-    "therapist": "I can really understand how tough it is to shake those feelings of guilt, even when you're doing your best. It's a common struggle, especially when you care deeply about both your work and your family. It might help to remind yourself that you're doing the best you can with the time and resources you have. What are some thoughts or evidence that support the idea that you are doing enough, even if it doesn't feel like it?",
+    "client": "I think it would be important to start by acknowledging everyone’s hard work and the challenges we’re all facing. Then, I could ask for everyone’s input on how we can better support each other and meet the deadline. But I’m still worried that they might not take it seriously or feel like I’m putting them on the spot.",
+    "therapist": "It sounds like you’re taking a thoughtful and inclusive approach, which is a great start. Acknowledging everyone’s efforts and the challenges can set a positive tone. It’s understandable to still feel some worry about how they might react. What do you think might help you feel more confident in leading this conversation, or are there any specific concerns you’d like to address beforehand?",
     "condition": "emotion_text_only",
-    "val_t": -0.16173255443572998,
-    "aro_t": 0.04591834545135498,
-    "text_emotion": "Sad"
+    "val_t": -0.13774991035461426,
+    "aro_t": 0.0960615873336792,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, but it's hard to believe I'm doing enough when I feel like I'm constantly falling short. At work, I feel like I'm never ahead of the curve, and at home, I feel guilty for not spending more time with my family. It's like no matter what I do, it's never enough.",
-    "therapist": "I can see how deeply you're struggling with these feelings of falling short, and it's completely understandable to feel that way when you're juggling so much. It's important to recognize that these feelings of inadequacy can be very powerful, but they don't always reflect the reality of your efforts and achievements. What are some specific things you've accomplished recently, either at work or at home, that might be getting overshadowed by these negative thoughts?",
+    "client": "I think it would help if I could come up with some concrete ideas to propose during the meeting, so it’s not just me asking for solutions. Maybe I could suggest breaking down the tasks more clearly or setting up a more structured check-in system. But I’m still nervous about how to bring up the lack of support without sounding negative.",
+    "therapist": "It’s a good idea to come prepared with some concrete suggestions, which can help frame the conversation in a positive and solution-focused way. Proposing specific ideas like breaking down tasks or setting up structured check-ins can be really effective. It’s natural to feel nervous about bringing up the lack of support, but being clear and constructive can help. How do you think you might phrase your concerns to highlight the need for more support without sounding negative?",
     "condition": "emotion_text_only",
-    "val_t": -0.18346643447875977,
-    "aro_t": 0.11992037296295166,
+    "val_t": -0.17418968677520752,
+    "aro_t": 0.1331692934036255,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate you saying that, Luna. It's just hard to see my accomplishments when I feel like I'm constantly falling short. I did finish a big project at work last week, and I got some positive feedback, but it feels like a small victory when there's so much else going wrong. It's hard to hold onto those moments of success when the negative thoughts are so loud.",
-    "therapist": "I completely understand how challenging it is to hold onto those moments of success when the negative thoughts are so persistent. It's important to acknowledge and celebrate even the small victories, like finishing that big project and receiving positive feedback. Those moments are significant and can help build your confidence. What are some other small wins or positive moments you've experienced recently, even if they feel overshadowed by the bigger challenges?",
+    "client": "I think I could say something like, \"I’ve noticed that the workload has been really heavy lately, and I think we could all benefit from a more structured way to support each other. I have a few ideas on how we can break down the tasks and check in more regularly, and I’d love to hear everyone’s thoughts.\" But I’m still worried that they might not see it the same way or that it might not make a difference.",
+    "therapist": "That’s a very thoughtful and constructive way to approach the conversation. It shows that you’re aware of the team’s challenges and are willing to contribute solutions. It’s natural to have some worries about how others will respond, but you’re taking steps to create a positive and collaborative environment. What do you think might help you feel more confident that your ideas will be well-received, or is there a particular outcome you’re hoping for from this meeting?",
     "condition": "emotion_text_only",
-    "val_t": 0.03146970272064209,
-    "aro_t": 0.19959592819213867,
-    "text_emotion": "Tense"
+    "val_t": 0.00018072128295898438,
+    "aro_t": 0.07447600364685059,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I appreciate you saying that, Luna. It's just hard to focus on the small wins when the anxiety and guilt feel so overwhelming. I did manage to cook a decent meal for myself the other day, which was nice, but it didn't really stick in my mind as a victory. It's hard to make those moments feel significant when the negative thoughts are so loud.",
-    "therapist": "I can see how the anxiety and guilt can make it really difficult to focus on the small wins, even when they are meaningful. Cooking a decent meal for yourself is a great example of a small but important accomplishment. It's okay if it doesn't feel like a big victory right away, but recognizing these moments can help gradually shift your perspective. What do you think might help you start to give more weight to these positive moments, even when the negative thoughts are loud?",
+    "client": "I guess what would help me feel more confident is if I could see some buy-in from my team right away, even if it’s just a small commitment to try out one of my ideas. I’m hoping that if we can start making some small changes, it might build momentum and improve our overall morale. But I still have this nagging fear that they might just dismiss my suggestions.",
+    "therapist": "It’s understandable to want to see some immediate buy-in from your team to feel more confident. Starting with small commitments can indeed build momentum and improve morale. It’s natural to have that nagging fear that your suggestions might be dismissed, but your approach already shows a lot of thought and consideration. What do you think might be a small, achievable step that your team could commit to right away, even if it’s just a trial?",
     "condition": "emotion_text_only",
-    "val_t": -0.10517275333404541,
-    "aro_t": 0.13145899772644043,
+    "val_t": -0.13601434230804443,
+    "aro_t": 0.14286792278289795,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I understand what you're saying, but it's really hard to shift my focus when the negative thoughts are so persistent. I feel like I can't help but dwell on the things I did wrong or the things I'm worried about. It's not that I don't want to recognize the positive moments, but they just feel so small and insignificant compared to the anxiety and guilt.",
-    "therapist": "I understand how challenging it is to shift your focus when negative thoughts are so persistent. It's natural to dwell on the things that worry you or the mistakes you think you've made, especially when they feel so significant. Recognizing the positive moments can take time and practice, but it's a valuable step in managing those overwhelming feelings. What are some strategies you think might help you start to acknowledge and value those small wins, even if they feel insignificant right now?",
+    "client": "I think a small step could be committing to a weekly check-in meeting to discuss progress and any issues we’re facing. It’s a manageable commitment and could help us stay aligned without feeling overwhelming. But I’m still a bit unsure if they’ll see the value in it.",
+    "therapist": "A weekly check-in meeting sounds like a great starting point. It’s manageable and can help everyone stay aligned without feeling too overwhelming. It’s natural to still have some doubts about whether your team will see the value in it. What do you think might help demonstrate the benefits of these check-ins to your team, or is there a particular way you could frame it to make it more appealing?",
     "condition": "emotion_text_only",
-    "val_t": -0.19291400909423828,
-    "aro_t": 0.1219320297241211,
-    "text_emotion": "Angry"
+    "val_t": 0.016661524772644043,
+    "aro_t": 0.026720523834228516,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying, but it feels like those small wins are so hard to see when everything else seems to go wrong. It's like my mind automatically zooms in on the negatives, and I don't know how to shift that. I mean, I've tried to write down positive things before, but it always feels forced and doesn't really stick. How do I make it feel more natural?",
-    "therapist": "I can see how challenging it is to shift your focus when your mind automatically zooms in on the negatives. It's completely understandable that writing down positive things might feel forced at first, especially when the negative thoughts are so strong. One strategy that might help is to start with a daily reflection at a specific time, like right before bed or first thing in the morning, where you take a few minutes to think about one thing that went well, no matter how small. This can help train your mind to notice and appreciate the positives more naturally over time. What do you think about trying this approach, or is there another time or method that might feel more comfortable for you?",
+    "client": "I think framing the check-ins as a way to share successes and celebrate small wins could make it more appealing. It’s not just about addressing problems, but also about recognizing each other’s efforts. But I’m still a bit nervous about how to get everyone on board with this idea.",
+    "therapist": "That’s a fantastic idea to frame the check-ins as opportunities to share successes and celebrate small wins. Recognizing each other’s efforts can really boost morale and make the team more cohesive. It’s completely understandable to still feel a bit nervous about getting everyone on board. What do you think might be the best way to introduce this idea to your team, or is there someone in particular who might be a good ally in supporting this change?",
     "condition": "emotion_text_only",
-    "val_t": 0.020938873291015625,
-    "aro_t": 0.11968517303466797,
-    "text_emotion": "Neutral"
+    "val_t": -0.07411575317382812,
+    "aro_t": 0.16293442249298096,
+    "text_emotion": "Angry"
   }
 ]

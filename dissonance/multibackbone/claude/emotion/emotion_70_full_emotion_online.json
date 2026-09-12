@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really stressed out lately about my scholarship. Last semester I got a pretty bad grade on my final project, and now I'm terrified that if I slip up again this term, I'll lose my funding completely. I honestly don't know if talking about it is going to change anything, because the pressure is just... real, and it's not going away.",
-    "therapist": "It makes complete sense that you're feeling this weight on your shoulders — the stakes feel very real, and that kind of pressure can make it hard to even imagine a way through. I'm glad you're here, even if you're not sure it'll help, because sometimes just untangling what's going on in our minds can shift how we relate to the pressure, even when the pressure itself doesn't disappear. Can you tell me a bit more about what that fear looks like day-to-day — like, what kinds of thoughts tend to show up when you're worrying about slipping up?",
+    "client": "I've been really stressed out lately about my grades and whether I'm going to keep my scholarship this term. Last semester I got a disappointing grade on my final project, and it kind of shook my confidence in a way I wasn't expecting. Honestly, I'm not even sure talking about it is going to change anything, because the pressure is just... real, you know?",
+    "therapist": "It sounds like you're carrying a real weight right now — the scholarship pressure is concrete and the knock to your confidence after last semester makes it feel even heavier. I'm glad you're here, and I hear your skepticism about whether talking helps; that's a completely honest thing to say, and we can take this at whatever pace feels useful to you. I'm curious — when you imagine the worst-case scenario about your grades, what's the thought that tends to hit you hardest?",
     "condition": "emotion_text_only",
-    "val_t": -0.36646056175231934,
-    "aro_t": 0.23275518417358398,
+    "val_t": -0.2541157007217407,
+    "aro_t": 0.22246289253234863,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Honestly, it's like this constant background noise in my head at work — I'll be in the middle of something normal, like sending an email or sitting in a meeting, and suddenly I get this flash of \"what if I say the wrong thing and everyone realizes I don't actually know what I'm doing.\" It's not just a passing thought either, it kind of sticks and then I start replaying every interaction from that day, looking for evidence that I messed up somehow. By the time I get home I'm exhausted from all of it, but I still can't really switch it off.",
-    "therapist": "That sounds genuinely exhausting — like your mind is running a constant audit on yourself, searching for proof of failure even when nothing has actually gone wrong. What you're describing is a really common cognitive pattern called \"mental filtering,\" where we unconsciously scan for the negative and it crowds out everything else. I'm curious — when you're replaying those interactions at the end of the day, do you ever find any actual evidence that you messed up, or does the search mostly come up empty?",
+    "client": "The thought that hits me hardest is probably that if I lose the scholarship, it means I wasn't actually smart enough to be here in the first place — like it would confirm some fear I've had all along. And then I start thinking about how I'd have to tell my parents, and that feels almost worse than the academic part itself. It's like one bad grade has this whole chain reaction in my head that ends with me being a total failure.",
+    "therapist": "That chain reaction you're describing — one grade becoming proof that you don't belong, and then the weight of your parents' disappointment on top of that — sounds exhausting to carry around, even quietly. What strikes me is that this fear of \"not being smart enough\" sounds like it was already there *before* the grade, and the grade just gave it something to grab onto. I'd gently ask: what's the actual evidence on both sides — what might genuinely challenge the idea that one disappointing grade defines whether you belong here?",
     "condition": "emotion_text_only",
-    "val_t": -0.2305811643600464,
-    "aro_t": 0.11513936519622803,
-    "text_emotion": "Angry"
+    "val_t": -0.4299734830856323,
+    "aro_t": 0.16729092597961426,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "Honestly, most of the time the search does come up empty — like, I'll replay a conversation with a coworker and I can't actually point to anything they said that confirmed I messed up. But that almost makes it worse, because then I start thinking maybe I just can't see it, like the evidence is there and I'm too oblivious to notice. So the emptiness doesn't feel like relief, it feels like another reason to keep searching.",
-    "therapist": "What you just described is really insightful — your mind has essentially made the search \"unfalsifiable,\" where even the absence of evidence becomes evidence to keep worrying, so there's no possible outcome that lets you rest. That's a really sneaky thinking trap, because it means the anxiety gets to win no matter what you find. I wonder — if a close friend came to you with this same logic, saying \"I couldn't find proof I messed up, so I must just be too oblivious to see it,\" what would you say to them?",
+    "client": "I mean, logically I know there's evidence on the other side — I did get the scholarship in the first place, and I've had good grades in other courses. But when I'm in the middle of that anxious spiral, that stuff just doesn't feel real or relevant, it's like my brain dismisses it automatically. I guess I'm a little skeptical that just listing out evidence is going to quiet that voice, because it feels more like a feeling than a thought, if that makes sense.",
+    "therapist": "What you're describing makes complete sense — when anxiety takes over, the positive evidence doesn't just feel less convincing, it feels almost *irrelevant*, like it belongs to a different person. You're right that this isn't just a logic problem, and CBT actually agrees with you: we're not just trying to out-argue the feeling, but to understand what that voice is *protecting* you from, and gradually build experiences that teach your nervous system something new. What do you think that anxious voice is most afraid would happen if you *did* let yourself feel like you belonged here?",
     "condition": "emotion_text_only",
-    "val_t": -0.2818107604980469,
-    "aro_t": 0.0695488452911377,
-    "text_emotion": "Sad"
+    "val_t": -0.0795673131942749,
+    "aro_t": 0.17668688297271729,
+    "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I'd probably tell a friend that they're being way too hard on themselves and that not finding proof is actually a good sign. But when it comes to me... it just feels different, like I'm the exception to that rule somehow. I know that probably sounds like exactly the kind of twisted thinking you're pointing out, but the feeling that I genuinely might have hurt someone at work and just not realized it is so strong that it's hard to dismiss it the same way I would for someone else.",
-    "therapist": "You already know, on some level, that you're applying a harsher standard to yourself than you would to anyone else — and that self-awareness is actually really meaningful, even if the feeling doesn't budge just yet. That sense of being \"the exception\" is one of the most common and painful parts of anxiety; it's not a sign that your fear is correct, it's actually a hallmark of how convincingly anxiety can disguise itself as logic. I'm curious — can you think of a time in the past where you had this same strong feeling that you'd hurt someone or messed up, and it turned out not to be true?",
+    "client": "That's a question I haven't really thought about before, and it's making me a little uncomfortable in a way I can't quite explain. I think maybe the fear is that if I relax and actually believe I belong here, I'll stop trying so hard and then something will go wrong — like the anxiety is the only thing keeping me from completely falling apart. It's almost like I've convinced myself that worrying is what's keeping me safe.",
+    "therapist": "That's a really profound insight, and I can understand why sitting with it feels a little unsettling — you've just named something that's been quietly running in the background for a long time. This idea that worry is your safety net is incredibly common, but it also means your mind has never really gotten to test whether *you* — not the anxiety — are actually what's keeping things together. What do you think might happen if we gently started to question whether the worry is truly what's holding you up, or whether that strength was yours all along?",
     "condition": "emotion_text_only",
-    "val_t": -0.3270987272262573,
-    "aro_t": 0.10098814964294434,
-    "text_emotion": "Sad"
+    "val_t": -0.307281494140625,
+    "aro_t": 0.22680366039276123,
+    "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I mean... yeah, there was this one time at work where I was convinced I'd completely offended my coworker Sarah by something I said in a meeting, and I spent like three days replaying it over and over. It turned out she hadn't even registered it the way I did, and when I finally worked up the nerve to check in with her, she was totally fine. But I guess part of me still feels like this situation with my friend is different, like the stakes are higher or something, so it doesn't quite feel like the same thing.",
-    "therapist": "That example with Sarah is really important — your mind was completely convinced of something that turned out not to be true, and yet here it is, using the same playbook again and telling you \"this time is different.\" That phrase, \"this time the stakes are higher,\" is worth gently examining, because anxiety has a way of always making the current situation feel like the special exception that justifies the worry. What is it specifically about this situation that feels higher stakes — is it something concrete you can point to, or is it more of a feeling?",
+    "client": "Honestly, part of me wants to believe that — that I'm the one holding things together, not the anxiety. But another part of me is really resistant to testing that idea, because what if I let the worry go even a little and my grades actually do slip? It feels like too big a risk when the scholarship is on the line right now specifically.",
+    "therapist": "There's something really important in what you just said — you're not dismissing the idea, part of you actually wants to believe it, and that matters. It's also worth noticing that you're framing this as an all-or-nothing choice: either hold onto all the worry, or let it all go and risk everything — but what if there's a middle path where you experiment with loosening the anxiety's grip just slightly, in lower-stakes moments, without touching the scholarship pressure at all right now? What might a very small, safe test of trusting yourself look like in your life this week?",
     "condition": "emotion_text_only",
-    "val_t": -0.136671781539917,
-    "aro_t": 0.18241631984710693,
+    "val_t": -0.15191614627838135,
+    "aro_t": 0.18928742408752441,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I mean... when I really try to pin it down, it's more of a feeling than something concrete, which is honestly kind of frustrating to admit. Like, I know logically that my friend group has pulled away before and things worked out, but this time it feels like there's more distance, like people have moved on and I'm just... not part of the group anymore. I can't point to one specific thing someone did, it's just this heavy sense that I'm being left behind.",
-    "therapist": "That heavy, quiet feeling of being left behind can be one of the loneliest experiences — and it's worth noticing that it's arrived without a clear concrete trigger, much like what happened with Sarah. Your mind seems to be very good at generating a powerful sense of certainty from feelings alone, and you've already caught it doing that more than once today. I'm wondering — if you were to gently reality-test this one, like you did with Sarah, is there one small thing you could do to get some actual information about where things stand with your friends, rather than letting the feeling be the only evidence?",
+    "client": "I hear what you're saying about a middle path, and I'm trying to think of what that would even look like for me practically. Maybe something like not re-reading my notes obsessively before a low-stakes quiz, or letting myself take a break without guilt — but even as I say that, I notice I'm already thinking \"but what if that one small quiz matters more than I think?\" I guess the anxiety has a way of making everything feel high-stakes, so it's hard to find something that genuinely feels safe enough to experiment with.",
+    "therapist": "You just did something really valuable — you came up with two genuinely good experiments *and* caught the anxious voice trying to veto them in real time, which means you're already developing some awareness of how it operates. That pattern of everything becoming high-stakes is exactly what we'd want to gently challenge, because the anxiety is essentially rigging the game so there's never a safe moment to test anything. I wonder — if you imagined a close friend in your exact situation, would you tell them that skipping one obsessive re-read before a low-stakes quiz was genuinely too risky, or would you see it differently for them than you do for yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.2696908712387085,
-    "aro_t": 0.08937489986419678,
-    "text_emotion": "Sad"
+    "val_t": -0.11387491226196289,
+    "aro_t": 0.08954548835754395,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and yeah, I did catch myself doing that with Sarah — jumping to conclusions based on nothing solid. But reaching out to my friends to kind of... check in feels really vulnerable, like I'd be exposing how insecure I've been feeling. What if I reach out and the response is lukewarm, and then I have actual evidence that things really have drifted?",
-    "therapist": "That fear makes a lot of sense — there's something that feels safer about uncertainty than risking a response that confirms your worry, because at least right now the door isn't fully closed. But it's worth noticing that you're already living with a lot of pain from the uncertainty itself, so the \"safe\" option isn't actually painless. And I'm curious — if the response were lukewarm, would that necessarily mean what your anxiety says it means, or could there be other explanations, like friends who are just busy or going through their own things?",
+    "client": "No, if it were a friend I'd probably tell them to relax and that one re-read isn't going to make or break anything. It's kind of frustrating to notice how much gentler I am with other people than I am with myself — like I can see the logic clearly when it's not me. But knowing that and actually feeling it as true for myself still feels like two very different things.",
+    "therapist": "That gap you're noticing — between knowing something and *feeling* it as true — is actually one of the most honest and important things you can recognize in this kind of work, and the frustration you feel about it makes a lot of sense. The good news is that closing that gap doesn't usually happen through more thinking; it happens through small repeated experiences where you treat yourself with that same gentleness and nothing falls apart. What would it feel like to try just one of those experiments this week — not to prove the anxiety wrong, but simply as a small act of being a fair friend to yourself?",
     "condition": "emotion_text_only",
-    "val_t": -0.1709991693496704,
-    "aro_t": 0.13975775241851807,
-    "text_emotion": "Angry"
+    "val_t": -0.027506470680236816,
+    "aro_t": 0.13023555278778076,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I hear what you're saying, and yeah, I know logically that the uncertainty is already hurting me. But there's still this voice in my head that says a lukewarm response would just be proof that I've become irrelevant to them, that I've been forgotten while I've been sitting here worrying about it. I guess I can see that they might just be busy, but it's hard to actually believe that when the silence has gone on this long.",
-    "therapist": "There's something really painful in that word \"irrelevant\" — it's such a harsh verdict to hand yourself, and it's worth asking whether that's really what a lukewarm response would prove, or whether that's your mind jumping straight to the most devastating interpretation. The silence has felt long to you because you've been hyperaware of it, but your friends may not even be tracking time the same way. What do you think it says about you that even in the middle of all this doubt, you still care this much about these friendships?",
+    "client": "When you frame it as being a fair friend to myself rather than proving something, it actually feels a little less threatening — like the stakes are lower somehow. I think I could try the thing about taking a break without immediately guilt-tripping myself over it, maybe just once this week. But I'm already a little worried that if I do it and I still feel guilty anyway, it'll feel like I failed at the experiment, which sounds kind of ridiculous even as I say it out loud.",
+    "therapist": "It's really encouraging that reframing it that way made it feel more approachable — and you're already showing that self-awareness by catching how even the *experiment* has become something you could fail at, which made you smile a little at yourself, and that's actually a good sign. Feeling guilty during the break wouldn't mean the experiment failed; it would just be useful *information* — evidence of how loud that voice is, which is worth knowing. What if the only goal this week is simply to notice what happens, with curiosity rather than judgment, and report back to yourself like a kind observer rather than a critic?",
     "condition": "emotion_text_only",
-    "val_t": -0.192482590675354,
-    "aro_t": 0.05368649959564209,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 9,
-    "client": "I guess it says I still want connection, even when I'm convinced I don't deserve it or that it's slipping away. But honestly, Luna, sometimes caring this much just feels like a curse, because the more I care, the more it hurts when things feel uncertain. I don't know if that's something to be proud of or just proof that I set myself up for disappointment over and over again.",
-    "therapist": "There's something quietly profound in what you just said — you can see both the beauty and the burden of caring deeply, and that kind of honest self-awareness is actually really meaningful. Caring deeply isn't what sets you up for disappointment; it's the belief underneath that you don't deserve the connection you're reaching for that turns caring into pain. I'm wondering — where do you think that belief, that you don't deserve connection, first came from for you?",
-    "condition": "emotion_text_only",
-    "val_t": -0.29890263080596924,
-    "aro_t": 0.14729547500610352,
+    "val_t": -0.30710625648498535,
+    "aro_t": 0.17219293117523193,
     "text_emotion": "Angry"
   },
   {
-    "turn": 10,
-    "client": "That question kind of stops me in my tracks, honestly. I think it goes back pretty far — maybe to growing up feeling like I was always a bit too much for people, like my needs were an inconvenience. I don't know if I fully buy that that's where my loneliness now comes from, but there's something uncomfortable about how quickly that memory surfaced.",
-    "therapist": "The fact that that memory surfaced so quickly, almost before you'd finished the question, suggests it carries real weight — and it makes a lot of sense that a child who learned their needs were \"too much\" would grow into someone who scans constantly for signs of being too much, or forgotten, or left behind. You don't have to fully buy the connection yet; it's enough that something in you recognized it. I'm curious — when you think about that younger version of you who felt like an inconvenience, what do you wish someone had told them?",
+    "turn": 9,
+    "client": "I think I can try that — just noticing, without it being a pass or fail thing. It still feels a little foreign to approach myself with curiosity instead of criticism, because honestly that inner critic has been so automatic for so long that I'm not sure I'll even catch it in the moment. But I guess that's kind of the point you're making — even noticing it afterward would count for something.",
+    "therapist": "You've just landed on something really meaningful — that noticing afterward counts, that it doesn't have to be perfect or immediate to be worthwhile. That inner critic has had years of practice being automatic, so it makes complete sense that curiosity feels foreign right now, but every time you catch it — even an hour later — you're gently loosening its grip, one small moment at a time. As you go into this week, what's one thing you could say to yourself in those after-the-fact moments of noticing, that sounds like that fair friend rather than the critic?",
     "condition": "emotion_text_only",
-    "val_t": -0.30652642250061035,
-    "aro_t": 0.08446228504180908,
-    "text_emotion": "Sad"
+    "val_t": -0.0026395320892333984,
+    "aro_t": 0.061777710914611816,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 10,
+    "client": "Maybe something like \"you noticed, and that's enough for now\" — because that feels like what I'd actually say to a friend without it sounding fake or over the top. It's simple enough that I might actually remember it in the moment, or at least afterward. I'm still a little unsure if one phrase is really going to cut through years of that critical voice, but I suppose trying it once this week isn't going to hurt anything.",
+    "therapist": "\"You noticed, and that's enough for now\" is genuinely beautiful — it's honest, it's kind, and it sounds like *you*, which means it's far more likely to actually land than something that feels borrowed. You're right that one phrase won't undo years overnight, but that's not what it needs to do; it just needs to create one small moment of pause between the critic and you, and even that is a real shift. I'm glad you're willing to try it this week — how are you feeling about where we've landed today compared to where you started?",
+    "condition": "emotion_text_only",
+    "val_t": -0.02365553379058838,
+    "aro_t": 0.06675946712493896,
+    "text_emotion": "Neutral"
   }
 ]

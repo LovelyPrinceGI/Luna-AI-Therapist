@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed about my exams coming up next month. I made this perfect study schedule, but I keep falling behind and now I'm terrified I'm going to fail everything. Part of me thinks therapy won't help because the only solution is to just study more, but I can't seem to make myself do it.",
-    "therapist": "It sounds like you're putting a lot of pressure on yourself with this perfect schedule, and when things don't go exactly as planned, it's leaving you feeling stuck and defeated. What do you think might happen if you allowed yourself to adjust the schedule to be more realistic, rather than perfect?",
+    "client": "I've been feeling really overwhelmed about my final exams coming up next month. I made this detailed study schedule but I keep falling behind, and now I'm terrified I'm going to fail. Part of me doubts therapy can help with this since the exams are so close and the problem feels so concrete.",
+    "therapist": "It sounds like you're putting a lot of pressure on yourself with this study schedule, and falling behind has left you feeling scared and discouraged. I wonder if we could explore what thoughts come up when you notice yourself falling behind on your plan?",
     "condition": "baseline",
-    "val_t": -0.2448967695236206,
-    "aro_t": 0.2847626209259033,
+    "val_t": -0.322421669960022,
+    "aro_t": 0.27885258197784424,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I know logically that adjusting the schedule would help, but the thought of changing it makes me really anxious. If I don't stick to the perfect plan, I feel like I'll lose control and everything will fall apart. Even though the current schedule isn't working, at least it gives me some sense of structure.",
-    "therapist": "It makes sense that you'd want to hold onto that structure when everything feels so uncertain - the perfect plan gives you a sense of safety even if it's not working in reality. What would it feel like to experiment with adjusting just one small part of the schedule, while keeping most of it intact?",
+    "client": "I immediately think \"I'm such a failure\" when I miss a study session. And then it just snowballs - the more behind I get, the more useless I feel, so I end up procrastinating even more. I don't know how to break this cycle when the exams are right around the corner.",
+    "therapist": "That \"I'm a failure\" thought seems to hit you really hard, making it even harder to get back on track. What do you notice happens to your motivation when that thought takes over versus when you're able to challenge it?",
     "condition": "baseline",
-    "val_t": -0.11042511463165283,
-    "aro_t": 0.049948811531066895,
-    "text_emotion": "Neutral"
+    "val_t": -0.3226945400238037,
+    "aro_t": 0.13494491577148438,
+    "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying, but even the thought of changing one small thing makes me feel panicky. What if that one change makes everything else fall apart? My schedule is the only thing keeping me from completely losing control right now. \n\nI know it's probably not healthy to feel this dependent on it, but the alternative - facing all that uncertainty - seems way worse. I've tried being more flexible before and it always ends with me feeling totally overwhelmed.",
-    "therapist": "It sounds like this schedule has become more than just a study tool - it's serving as an emotional safety net for you right now. What do you think might be underneath this fear of losing control - is there a particular worry or belief that makes uncertainty feel so threatening?",
+    "client": "When I believe that \"I'm a failure\" thought, I just want to hide under my covers and avoid everything. But on the rare days when I manage to tell myself \"Okay, you fell behind but you can still catch up,\" I do get some work done - though it's hard to keep that mindset consistently. I just don't know how to make that kinder voice louder than the critical one.",
+    "therapist": "It's encouraging that you've already noticed the difference when you're able to approach yourself with more kindness - that shows this isn't a hopeless situation. What do you think could help you strengthen that kinder voice in the days leading up to your exams?",
     "condition": "baseline",
-    "val_t": -0.18584728240966797,
-    "aro_t": 0.1968904733657837,
+    "val_t": -0.15517985820770264,
+    "aro_t": 0.09446537494659424,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I guess I'm afraid that if I don't have everything perfectly scheduled, I'll fall behind and disappoint everyone. It's like there's this constant pressure in my head telling me that any mistake will ruin everything. \n\nBut at the same time, I know this rigid schedule is making me miserable. I just can't seem to relax without feeling guilty about not being productive.",
-    "therapist": "It sounds like you're caught between two painful experiences - the distress of rigid control and the fear of what might happen if you let go. That inner pressure to be perfect must feel exhausting to carry every day. What would it be like to explore where this belief that mistakes ruin everything might have come from?",
+    "client": "Maybe I could write down those kinder thoughts and keep them where I study? Though part of me thinks that's too simplistic - like putting sticky notes with positive quotes isn't going to magically fix my anxiety about failing. I've tried similar things before and they felt kind of... insincere, I guess?",
+    "therapist": "That's a thoughtful idea, and I hear your hesitation about it feeling insincere - that tells me authenticity is really important to you in this process. What if we explored what would make those notes feel more genuine and meaningful to you specifically, rather than generic \"positive quotes\"?",
     "condition": "baseline",
-    "val_t": -0.44415926933288574,
-    "aro_t": 0.12094235420227051,
-    "text_emotion": "Sad"
+    "val_t": -0.08465683460235596,
+    "aro_t": 0.10247313976287842,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I don't know...I guess it comes from always needing to be the \"good kid\" growing up. But when you ask it like that, it makes me wonder if I'm being too hard on myself. At the same time, the idea of making a mistake still terrifies me because what if everything really does fall apart? \n\nIt feels like this pressure has just always been there, and I don't know who I'd even be without it. Does that make sense?",
-    "therapist": "It makes complete sense - this pressure has been such a constant companion that imagining life without it feels like losing part of your identity. What might it feel like to gently challenge that fear by considering that some of your most important growth moments might have actually come from times when things didn't go perfectly?",
+    "client": "I guess if I wrote down things that are actually true about me - like \"You've caught up before when you fell behind\" or \"One missed study session doesn't erase all your preparation\" - that might feel more believable. But even as I say that, I can feel myself resisting because it's hard to trust those thoughts when I'm in full panic mode about the exams.",
+    "therapist": "That resistance makes complete sense - our brains tend to grab onto the most alarming thoughts when we're stressed. How might it feel to try writing those more balanced thoughts now, while you're relatively calm, as a way to \"bank\" them for when the anxiety spikes come?",
     "condition": "baseline",
-    "val_t": -0.1783672571182251,
-    "aro_t": 0.17866957187652588,
+    "val_t": -0.20222842693328857,
+    "aro_t": 0.2049248218536377,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying about growth coming from imperfect moments, but that's exactly what scares me. When things don't go perfectly, I just feel like I'm failing, not growing. It's like my brain immediately jumps to \"see? you're not good enough\" instead of seeing it as a learning opportunity.",
-    "therapist": "That self-critical voice can be so loud and convincing in those moments, making it hard to see anything but failure. What would it be like to imagine talking to yourself with the same kindness you might offer a close friend who was struggling?",
+    "client": "That actually sounds doable - I could make a list right after our session while I'm feeling somewhat hopeful. But what if I look at those notes later during a panic and just think \"That was naive, those thoughts don't apply now\"? That's happened before where my rational thoughts just disappear when the anxiety hits.",
+    "therapist": "It's understandable that anxiety can make those rational thoughts feel distant when you need them most. What if we explored ways to make those notes feel more \"anchored\" - perhaps by including specific examples of when you've successfully overcome challenges before?",
     "condition": "baseline",
-    "val_t": -0.13756632804870605,
-    "aro_t": 0.24138224124908447,
-    "text_emotion": "Angry"
+    "val_t": -0.020107269287109375,
+    "aro_t": 0.16348445415496826,
+    "text_emotion": "Tense"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying about being kinder to myself, but it feels impossible sometimes. When I mess up, all I can hear is that voice telling me how stupid or worthless I am. The idea of being gentle with myself just feels... fake, like I'd be letting myself off the hook too easily.",
-    "therapist": "It sounds like that critical voice has become so familiar that self-compassion feels almost like cheating or making excuses, which must make this process feel really confusing. What do you think might happen if you experimented with simply noticing that critical voice without immediately believing everything it says?",
+    "client": "I do have examples - like last semester when I thought I'd fail chemistry but ended up with a B. But during anxious moments, my brain dismisses those as \"flukes\" or says this time is different. Maybe if I wrote down exactly what helped me succeed then - like breaking material into chunks or doing practice tests - that would make it feel more concrete and repeatable? Though part of me worries this exam is actually different and those strategies won't work.",
+    "therapist": "You're doing such important work by noticing how your anxious mind dismisses past successes as \"flukes\" - that awareness itself is powerful. What would it be like to include both the successful outcome from chemistry and the specific strategies that got you there, while also naming the worry that \"this time is different\"?",
     "condition": "baseline",
-    "val_t": -0.24902451038360596,
-    "aro_t": 0.12502193450927734,
-    "text_emotion": "Angry"
+    "val_t": -0.1345207691192627,
+    "aro_t": 0.0516582727432251,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying, but it's hard not to believe those thoughts when they feel so true. Like when I mess something up at work, my brain tells me \"See? You're incompetent\" and it just feels like an obvious fact, not just some random thought. \n\nI guess I could try noticing the thoughts, but they've been with me so long that they don't even feel separate from me anymore. It's like trying to notice my own breathing - it's just always there.",
-    "therapist": "It makes sense that these thoughts feel like undeniable truths when they've been with you for so long - they've become woven into how you see yourself. What might it feel like to gently question whether these thoughts are serving you, even if they don't feel separate from you yet?",
+    "client": "I like that idea, but honestly it still feels scary to acknowledge that \"this time is different\" worry out loud - like I'm giving it legitimacy by writing it down. What if focusing on that makes me believe it more instead of less? I do see how combining the facts with the fear might make it feel more balanced though.",
+    "therapist": "That's such an insightful concern - we often fear that naming our worries makes them more real, when actually acknowledging them can help take away their power. What do you think would happen if you wrote down both the worry and a gentle challenge like, \"This thought feels true right now, but I have evidence I can handle tough situations\"?",
     "condition": "baseline",
-    "val_t": -0.009115099906921387,
-    "aro_t": 0.08533346652984619,
+    "val_t": -0.03618478775024414,
+    "aro_t": 0.04216110706329346,
     "text_emotion": "Neutral"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about questioning my thoughts, but it's hard when they feel so real. Like when I think \"I'm a failure,\" it's not just a thought - it's tied to all these memories of things I've messed up. Even if I try to question it, the evidence feels overwhelming.",
-    "therapist": "It sounds like these thoughts carry the weight of real experiences, making them feel impossible to question—like they're facts rather than interpretations. What if we looked at one of those memories together, not to prove or disprove anything, but to see if there might be other perspectives you hadn't considered before?",
+    "client": "That actually sounds better than just positive affirmations. But I'm still worried that in the middle of a panic attack, I won't be able to remember all these balanced thoughts. Maybe I could make a short checklist? Like step 1: breathe, step 2: read my pre-written responses, step 3: pick one small task? Though I'm not sure how practical that is when my mind is racing.",
+    "therapist": "I love how you're creating concrete, practical tools for yourself! A checklist sounds like a great middle ground between preparing when calm and having support during panic. What would make those steps feel most accessible when your mind is racing - maybe keeping them very brief or using visual cues?",
     "condition": "baseline",
-    "val_t": -0.24485337734222412,
-    "aro_t": 0.22270584106445312,
-    "text_emotion": "Angry"
+    "val_t": -0.026030421257019043,
+    "aro_t": 0.10772943496704102,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I guess I could try looking at one memory, but I don't see how that will help. The worst one is when my best friend canceled plans last minute because she was \"tired\" - I just know she didn't actually want to see me. It's not like there's another way to see that situation. \n\nI feel like if we dig into this, you're just going to tell me I'm overreacting or being too sensitive. But when people keep bailing on you, doesn't that prove you're not worth their time?",
-    "therapist": "I hear how painful that experience was for you, and how it reinforced this belief about not being worth others' time—that's a really vulnerable feeling to sit with. What if we explore this memory not to judge whether your reaction was \"right\" or \"wrong,\" but to gently examine if there might be other possible explanations for your friend's behavior that don't involve your worth?",
+    "client": "I could try making a simple flowchart on bright colored paper and keep it on my desk - short phrases with arrows. But I'm worried that when I'm really anxious, even that might feel like too much to process. Maybe if I practiced using it during mild stress first? Though with exams so close, I don't know if there's time to build this habit properly.",
+    "therapist": "You're being so thoughtful about creating something that would actually work for you in those intense moments. What if we focused on making the flowchart extremely simple - just 2-3 steps max - and you did a quick practice run with it today?",
     "condition": "baseline",
-    "val_t": -0.3009694814682007,
-    "aro_t": 0.12334263324737549,
-    "text_emotion": "Sad"
+    "val_t": -0.07219421863555908,
+    "aro_t": 0.06295061111450195,
+    "text_emotion": "Neutral"
   }
 ]

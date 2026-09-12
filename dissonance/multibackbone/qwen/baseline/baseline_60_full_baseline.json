@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, it's been a tough month since my grandmother passed away. I keep getting overwhelmed by memories of her, and it's making it really hard for me to focus at work. I know I should be more productive, but it feels like I can't shake these thoughts. I'm not even sure if therapy can really help with this.",
-    "therapist": "Hi there, I'm so sorry to hear about your grandmother and the tough time you've been having. It's completely understandable that these memories are affecting your focus and productivity—it's a natural response to such a significant loss. How have you been coping with these memories when they come up, and is there anything specific that seems to help, even a little bit?",
+    "client": "Hi Luna, I've been having a really hard time lately. Ever since my grandmother passed away last month, I can't seem to focus at work. Memories of her just keep flooding my mind, and it's making it really difficult to get anything done. I know I should be able to handle this, but I just can't shake it off. I'm not even sure if therapy can really help with something like this.",
+    "therapist": "Hello, I'm so sorry to hear about your grandmother and the difficult time you're having. It's completely understandable that you're struggling with focus and overwhelmed by memories—grief can be incredibly powerful and disruptive. How have you been coping with these feelings so far?",
     "condition": "baseline",
-    "val_t": -0.20514607429504395,
-    "aro_t": 0.1814556121826172,
+    "val_t": -0.29232025146484375,
+    "aro_t": 0.14660024642944336,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thank you for understanding. It's been really hard to stay focused, especially when I start thinking about all the times we spent together. Sometimes I try to distract myself with work or watch a movie, but it only helps for a little while. It's hard to find something that really makes the sadness go away.",
-    "therapist": "It sounds like you're doing the best you can to manage the sadness, and that's really important to acknowledge. Finding ways to cope, even if they only provide temporary relief, is a step in the right direction. Have you noticed any particular times or activities when the memories are less overwhelming, or any moments when you feel a bit more at peace?",
+    "client": "Thanks for understanding, Luna. I've been trying to cope by keeping really busy, but it's not really helping. I just end up feeling more exhausted and guilty because I feel like I should be doing more to honor her memory. It's hard because I know she would want me to move on, but I can't seem to let go.",
+    "therapist": "It sounds like you're carrying a lot of weight right now, and the guilt and exhaustion are adding to your burden. It's okay to take your time with the grieving process; there's no right or wrong way to honor her memory. What do you think your grandmother would say to you right now, knowing how you're feeling?",
     "condition": "baseline",
-    "val_t": -0.07060372829437256,
-    "aro_t": 0.059112548828125,
+    "val_t": -0.04740560054779053,
+    "aro_t": 0.10709249973297119,
     "text_emotion": "Neutral"
   },
   {
     "turn": 3,
-    "client": "I do notice that sometimes when I'm out in nature, like taking a walk in the park, the memories feel a bit more manageable. But it's hard to find the motivation to go out, especially when I'm feeling really down. It's like the sadness is a heavy weight that keeps pulling me back.",
-    "therapist": "It's really insightful of you to notice that being in nature helps make the memories more manageable. It can be so challenging to find the motivation to go out, especially when the sadness feels so heavy. Have you considered setting small, manageable goals for yourself, like taking a short walk when you can, to see if that might help lighten the load, even a little bit? What do you think might make it easier to take those steps?",
+    "client": "I think she would tell me to be kind to myself and not to push myself too hard. She always said that grief is a journey, not a race. But it's hard to hear that and actually believe it, you know? I keep thinking that I should be further along by now, and it just makes me feel worse.",
+    "therapist": "It's really touching that you can still hear her wise words, even in your grief. It's okay to feel like you're not as far along as you think you should be; healing takes time, and everyone's journey is different. What do you think might help you be a bit kinder to yourself during this time?",
     "condition": "baseline",
-    "val_t": -0.25184476375579834,
-    "aro_t": 0.024598121643066406,
+    "val_t": -0.28681445121765137,
+    "aro_t": 0.043448448181152344,
     "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I appreciate the suggestion, but it's hard to find the energy to even step outside sometimes. I know it sounds good in theory, but when I'm feeling so low, it feels like an impossible task. Maybe if I could find a way to make it feel less daunting, but I'm not sure where to start with that.",
-    "therapist": "I completely understand how overwhelming it can feel to even consider stepping outside when you're feeling so low. It's totally normal to find it daunting. Sometimes, breaking it down into even smaller steps can help. For example, you might start by just sitting by a window and looking at the trees or the sky, or maybe putting on your shoes and standing by the door for a moment. What small step might feel a bit more doable for you right now?",
+    "client": "I think maybe writing down some of the things she taught me or the memories we shared could help. It might feel like a way to keep her close and remind me of her wisdom. But I'm worried it might just make me more emotional and sad. It's hard to find a balance between honoring her and not getting overwhelmed by my feelings.",
+    "therapist": "That's a beautiful idea, and it can be a powerful way to connect with her wisdom and keep her memory alive. It's natural to worry about becoming more emotional, but remember that expressing your feelings can also be healing. Perhaps you could start with just a few memories or lessons at a time, and see how you feel? What do you think might help you find that balance and create a space where you can honor her without feeling overwhelmed?",
     "condition": "baseline",
-    "val_t": -0.06194782257080078,
-    "aro_t": 0.04532742500305176,
-    "text_emotion": "Neutral"
+    "val_t": -0.17207705974578857,
+    "aro_t": 0.06155741214752197,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate your understanding, Luna. It's just that even those small steps feel really hard right now. I get anxious just thinking about it, and the guilt over not being able to do more just piles on top. I don't know if breaking it down will make it any easier.",
-    "therapist": "I can really see how challenging and overwhelming this is for you, and it's completely valid to feel that way. It's okay to take things at your own pace, and feeling anxious and guilty about not being able to do more is a common response to grief. Sometimes, just acknowledging these feelings and giving yourself permission to take it slow can be a form of progress. What do you think might help you be a bit kinder to yourself in these moments?",
+    "client": "I like the idea of starting small, maybe just a few minutes each day. But I'm still a bit anxious about it—what if it opens up a flood of emotions that I can't handle? I guess I could try it and see how it goes, but it feels a bit risky. How do I manage that fear of being overwhelmed?",
+    "therapist": "It's completely understandable to feel anxious about opening up those emotions. Starting small and gradually building up can help you manage those feelings. You might find it helpful to set a specific time limit for your writing, like five or ten minutes, and have a soothing activity planned afterward, like listening to music or taking a walk. How does that sound? What other strategies do you think might help you feel more grounded and secure as you explore these memories?",
     "condition": "baseline",
-    "val_t": -0.14787626266479492,
-    "aro_t": 0.09614837169647217,
+    "val_t": -0.1490340232849121,
+    "aro_t": 0.2030702829360962,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, Luna. It's just hard sometimes to be kind to myself when I feel like I should be doing more to honor their memory. I know I need to take it slow, but the guilt creeps in, and it feels like I'm failing them. How can I deal with that guilt without feeling like I'm letting them down?",
-    "therapist": "I understand how deeply you feel about honoring your grandmother's memory, and the guilt can be a heavy burden. It's important to remember that taking care of yourself is not a failure; it's a necessary part of healing. You can honor her memory in many ways, including by being gentle with yourself during this difficult time. What are some ways you feel you could honor her that don't require you to push yourself too hard right now?",
+    "client": "That sounds like a good plan, Luna. Setting a time limit and having something soothing afterward could really help. I think it might also be useful to talk to a close friend or family member about my feelings, just to have that support. But I'm still a bit skeptical about whether writing will really make a difference. What if it doesn't help at all?",
+    "therapist": "It's great that you're considering reaching out to a friend or family member for support—that can be a huge help. It's normal to feel skeptical about whether writing will make a difference, and it's okay to approach it with an open mind. You might find it helpful to view the writing as an experiment, where you're exploring how it affects you without placing too much pressure on it to \"work.\" What do you think might be a small, manageable first step you can take to try this out?",
     "condition": "baseline",
-    "val_t": -0.22858476638793945,
-    "aro_t": 0.10675299167633057,
-    "text_emotion": "Angry"
+    "val_t": -0.011162400245666504,
+    "aro_t": 0.10772371292114258,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I really appreciate that, Luna. It's just hard to find a balance. I feel like every little thing I do or don't do could be seen as dishonoring her memory. Maybe I could try writing in a journal about the times we shared, but I worry that it won't feel like enough. It's hard to shake the feeling that I should be doing more.",
-    "therapist": "I can see how finding that balance is really challenging, and it's completely understandable to feel that way. Writing in a journal can be a powerful way to honor her memory and process your feelings, even if it doesn't feel like enough right now. It's a gentle and personal way to keep her close. What do you think might help you feel more connected to her while you write, or what small step could you take to make this feel more meaningful to you?",
+    "client": "I think a small first step could be to write down one memory or lesson from my grandmother tonight before bed. It feels doable, and I can see how it might help me process my feelings a bit at a time. But I'm still a bit nervous about opening up that emotional box. I guess I'll just have to see how it goes and take it one day at a time.",
+    "therapist": "That sounds like a very thoughtful and manageable first step, and I'm proud of you for taking it. It's completely normal to feel nervous, and approaching it one day at a time is a great way to handle those feelings. After you write down that memory or lesson, take some time to reflect on how you feel and what you might have learned from the experience. How do you think you'll approach the next day, knowing that you've taken this first step?",
     "condition": "baseline",
-    "val_t": -0.06546902656555176,
-    "aro_t": 0.06666731834411621,
-    "text_emotion": "Neutral"
+    "val_t": -0.04939675331115723,
+    "aro_t": 0.14384078979492188,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It's just hard because sometimes when I try to write, it feels like it's not enough to capture what I'm feeling or to really connect with her. I worry that it might make me feel even more distant or lonely. Maybe I could try writing just a few lines each day, but I'm not sure if that will make a difference.",
-    "therapist": "It's completely normal to feel that way, and it's okay to worry about whether writing will truly capture your feelings or bring you closer to her. Starting with just a few lines each day can be a gentle way to explore your thoughts and emotions without overwhelming yourself. You might also consider including a small ritual, like lighting a candle or playing a piece of music she loved, to create a sense of connection as you write. How does that feel to you, and is there anything else you think might help make this process feel more meaningful?",
+    "client": "I appreciate your support, Luna. I think after I write down that memory, I'll try to reflect on it and see if it brings any new insights or feelings. I'm still a bit nervous, but I feel a little more prepared to face it. I'll see how it goes and take it from there.",
+    "therapist": "I'm so glad to hear that you feel a bit more prepared, and I'm here to support you every step of the way. Reflecting on the memory can be a powerful tool for gaining new insights and processing your feelings. Remember to be gentle with yourself, and it's okay to take breaks or seek comfort if you need it. How do you think you might check in with yourself after writing and reflecting, to see how you're feeling and what you've learned?",
     "condition": "baseline",
-    "val_t": -0.03552258014678955,
-    "aro_t": 0.09984230995178223,
-    "text_emotion": "Neutral"
+    "val_t": 0.11731278896331787,
+    "aro_t": 0.10946905612945557,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I appreciate the idea of adding a ritual, but I'm still not sure if writing will really help me feel closer to her. It feels like such a big step, and I worry that it might stir up a lot of emotions that I'm not ready to face. Maybe I just need more time to think about it.",
-    "therapist": "I completely understand your concerns, and it's okay to take more time to think about it. It's a big step, and it's important to move at a pace that feels right for you. Maybe for now, you can just allow yourself to sit with your feelings and reflect on what might feel most comforting or meaningful in honoring her memory. What do you think might help you feel more ready to take that step, or is there another way you'd like to explore honoring her that feels less daunting?",
+    "client": "I think I'll take a few deep breaths and maybe write down a few thoughts about how the memory made me feel. It might help to have a journal entry about the process, so I can look back and see if there are any patterns or changes in my feelings over time. But I'm still a bit worried about getting too caught up in the emotions. How do I make sure I don't lose myself in the sadness?",
+    "therapist": "That's a really good plan, and journaling about the process can provide a lot of insight. To help manage the intensity of the emotions, you might try setting a specific time limit for your reflection, and have a calming activity ready to transition into afterward, like reading a book or practicing some relaxation techniques. How do you think you can create a safe and comforting environment for yourself while you do this?",
     "condition": "baseline",
-    "val_t": -0.0029546022415161133,
-    "aro_t": 0.14002811908721924,
-    "text_emotion": "Neutral"
+    "val_t": -0.20433449745178223,
+    "aro_t": 0.10627734661102295,
+    "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It does feel like a big step, and I'm not sure I'm ready to face all those memories yet. Maybe I could start by looking through some of the photos I have, but it's hard because each one brings back so many emotions. I worry that it might just make me feel more overwhelmed and sad.",
-    "therapist": "I understand that looking through photos can bring up a lot of emotions, and it's okay to feel unsure about taking that step. It's a very personal and meaningful way to connect with your memories, but it's important to approach it in a way that feels manageable for you. You might start by choosing just one or two photos that feel less overwhelming, and take your time with them. What do you think might help you feel more supported or less overwhelmed as you look through these photos?",
+    "client": "I like the idea of having a calming activity ready. Maybe I'll light a candle or play some soft music to create a relaxing atmosphere. But I'm still a bit worried about the emotions overwhelming me. I'll try to set a timer and stick to it, but I'm not sure if I can always control how I feel.",
+    "therapist": "Creating a calming atmosphere with a candle or soft music is a wonderful idea. It's natural to worry about being overwhelmed, and setting a timer is a great way to give yourself a structured timeframe. Remember, it's okay to experience your emotions, and you don't have to control them perfectly. If you feel the emotions getting too intense, you can always pause and take a break. How do you think you might signal to yourself that it's time to take a break, and what might be a comforting activity to turn to in that moment?",
     "condition": "baseline",
-    "val_t": -0.17902088165283203,
-    "aro_t": 0.25327467918395996,
-    "text_emotion": "Angry"
+    "val_t": 0.02154529094696045,
+    "aro_t": 0.1740272045135498,
+    "text_emotion": "Tense"
   }
 ]

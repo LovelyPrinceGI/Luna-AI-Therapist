@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling really overwhelmed since my partner lost their job last month. The pressure to cover all the bills is weighing heavily on me, and it's causing a lot of tension between us. I’m starting to feel anxious about our finances, and it feels like every conversation we have turns into an argument about money.",
-    "therapist": "It sounds like you're carrying a heavy burden right now, and it's completely understandable to feel overwhelmed when faced with such financial pressure. It's also natural for stress to affect your communication with your partner. What do you think could help you both have a more open conversation about your finances without it turning into an argument?",
+    "client": "I've been feeling really overwhelmed lately since my partner lost their job last month. The pressure to cover all the bills has been weighing heavily on me, and it's causing a lot of tension between us. I sometimes wonder if therapy can really help with this, especially since it feels like the financial stress is just too much right now.",
+    "therapist": "It sounds like you're carrying a heavy load right now, and it's completely understandable to feel overwhelmed with the added financial pressure. It’s important to acknowledge how this situation is affecting both you and your partner. What are some specific thoughts you have when you think about your current financial situation?",
     "condition": "baseline",
-    "val_t": -0.2735356092453003,
-    "aro_t": 0.28493809700012207,
+    "val_t": -0.2712951898574829,
+    "aro_t": 0.19879114627838135,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I think you're right that the financial pressure is really weighing on me, and it definitely makes it hard to communicate with my partner. When I try to bring it up, I just feel this wave of anxiety, and I worry that it will turn into a fight. I guess I’m not sure how to approach the conversation without it feeling confrontational or triggering my partner’s defensiveness.",
-    "therapist": "It's understandable to feel anxious about bringing up such a sensitive topic, especially when you're worried about your partner's reaction. Acknowledging your feelings is a great first step. How might you frame the conversation to express your feelings and concerns while inviting your partner to share their perspective as well?",
+    "client": "I keep thinking about how everything seems to be falling on my shoulders right now. I feel guilty for not being able to provide the same level of support I want to give, and it's hard to shake the feeling that I'm failing both myself and my partner. I also worry about what might happen if things get worse; it feels like the stress is just piling up.",
+    "therapist": "It sounds like you're feeling a heavy sense of responsibility and guilt, which is completely normal in such a challenging situation. It's important to remember that feeling overwhelmed doesn't mean you're failing; it’s a sign that you’re in a tough spot. Can you think of any moments recently when you were able to provide support to your partner, even if it felt small?",
     "condition": "baseline",
-    "val_t": -0.2743951082229614,
-    "aro_t": 0.24109888076782227,
-    "text_emotion": "Angry"
+    "val_t": -0.38329219818115234,
+    "aro_t": 0.1019141674041748,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I appreciate that you understand how anxious I feel about this conversation. But honestly, I’m worried that no matter how I frame it, my partner might just get defensive or shut down. It feels like I’m walking on eggshells, and I’m not sure if it’s even worth bringing it up if it could lead to more conflict.",
-    "therapist": "It makes sense that you would feel hesitant to approach the topic if you're worried about your partner's defensiveness. It sounds like you’re caught between wanting to address your concerns and fearing the potential fallout. What if you started the conversation by sharing how you feel personally, rather than focusing on the financial situation itself? This might help create a more supportive atmosphere. What do you think?",
+    "client": "I guess there were a couple of times when I tried to lighten the mood, like cooking a nice dinner or just sitting down to talk about how they were feeling. But it still feels like those gestures are so insignificant compared to the bigger issues we’re facing. I worry that I’m not doing enough, and that makes it hard to focus on those small moments of support.",
+    "therapist": "It’s wonderful that you’ve made efforts to lighten the mood and connect with your partner, even if they feel small in the grand scheme of things. Those moments of support can be incredibly meaningful, especially during tough times. What would it feel like to acknowledge those gestures as valuable contributions, rather than measuring them against the bigger challenges?",
     "condition": "baseline",
-    "val_t": -0.18575644493103027,
-    "aro_t": 0.20055127143859863,
-    "text_emotion": "Angry"
+    "val_t": -0.08069062232971191,
+    "aro_t": 0.07371747493743896,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 4,
-    "client": "I get what you're saying, but I'm not sure how sharing my feelings will change anything. I worry that my partner will just get defensive and dismiss what I'm trying to say, which makes me anxious about bringing it up at all. Honestly, I feel stuck because I want to be open, but I don’t want to create conflict.",
-    "therapist": "It’s completely understandable to feel stuck in that position, especially when you’re trying to balance openness with the fear of conflict. Your feelings of anxiety are valid, and it’s tough when you want to communicate but worry about the outcome. What if you considered starting with a small, low-pressure conversation just to gauge your partner’s openness, perhaps focusing on how you both feel about the situation rather than diving straight into finances? How does that idea resonate with you?",
+    "client": "I see what you're saying, and I can understand that those gestures might hold some value. But it still feels tough to shift my mindset like that. I worry that if I focus too much on the small things, I might become complacent and not address the bigger issues we're facing, like the financial stress. It feels like a balancing act that I'm not quite sure how to manage.",
+    "therapist": "It makes sense to feel hesitant about shifting your focus, especially when the bigger issues are pressing and require attention. Balancing both the small gestures and larger concerns can indeed feel challenging. What if you thought of the small moments as a way to help you sustain your energy and resilience while also planning how to tackle those bigger issues? How might it feel to give yourself permission to acknowledge both aspects?",
     "condition": "baseline",
-    "val_t": -0.14280307292938232,
-    "aro_t": 0.11601674556732178,
-    "text_emotion": "Angry"
+    "val_t": -0.1110994815826416,
+    "aro_t": 0.05830085277557373,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying, but starting a conversation feels really daunting to me. Even a low-pressure chat feels like it could lead to unexpected outcomes that I’m not ready to handle. I worry that if I bring anything up, it might just escalate into a bigger argument, especially when it comes to finances.",
-    "therapist": "It's completely understandable to feel daunted by the idea of starting a conversation, especially when you're worried about the potential for escalation. Your feelings of apprehension are valid, and it’s okay to take your time. What if you gave yourself permission to approach the conversation as an exploration of feelings rather than a solution-finding mission? How might that shift your perspective on the discussion?",
+    "client": "Thinking about it that way does make a bit of sense; I suppose those small moments could help me recharge and stay grounded. But I still feel this pressure that I should be doing more to solve our financial issues instead of focusing on little things. It’s hard for me to shake that feeling of urgency and the fear that if I don’t address the big problems right away, things will just get worse.",
+    "therapist": "It's completely understandable to feel that sense of urgency when facing financial challenges; it speaks to your desire to support your partner and your relationship. It might help to recognize that while addressing big problems is important, taking care of your emotional well-being through those small moments can actually provide you with the strength to tackle the larger issues more effectively. How might you start to carve out a small space for both addressing the financial concerns and nurturing those moments of connection?",
     "condition": "baseline",
-    "val_t": -0.12923264503479004,
-    "aro_t": 0.1742551326751709,
+    "val_t": -0.2006058692932129,
+    "aro_t": 0.11509883403778076,
     "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I see what you're saying about approaching the conversation as an exploration, but it feels tough for me to let go of that need for a solution. I worry that if I don’t focus on fixing things right away, the conversation could spiral into something uncomfortable or unresolved. It’s just hard for me to trust that it can be productive without having a clear goal in mind.",
-    "therapist": "It’s completely understandable to feel the need for a solution, especially when you’re facing such stress. Wanting to resolve things quickly is a normal reaction to discomfort. What would it feel like for you to approach this conversation with the goal of understanding each other better, rather than immediately seeking solutions? How might that change the way you engage with your partner?",
+    "client": "I appreciate that perspective, but it still feels really difficult to think about carving out that space. I feel like I’m constantly juggling the stress of finances and the emotional weight of our situation, and the thought of adding something else feels overwhelming. I worry that if I take time for those small moments, I might fall behind on what needs to be done, like budgeting or finding new ways to bring in income.",
+    "therapist": "It sounds like you're really feeling the weight of juggling so many responsibilities, and it's understandable to feel overwhelmed at the thought of adding anything else to your plate. It's important to acknowledge that taking small moments for yourself and your partner doesn’t mean you’re neglecting the bigger tasks; rather, it can help you approach them with a clearer mind. What if you set aside just a few minutes each day for those small moments, while still keeping some time dedicated to budgeting or exploring income opportunities? How would that feel for you?",
     "condition": "baseline",
-    "val_t": -0.06086719036102295,
-    "aro_t": 0.04200637340545654,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 7,
-    "client": "I get what you’re saying, but honestly, it feels really hard to shift my focus from finding a solution to just trying to understand each other. I worry that if I don’t push for a resolution, we’ll just end up going in circles and nothing will change. It’s like I feel this pressure to fix things right away, or else we’ll just drift further apart.",
-    "therapist": "It makes a lot of sense that you feel pressured to find a resolution quickly; it’s natural to want to address issues before they escalate. That feeling of needing to fix things immediately can be overwhelming, especially when you’re worried about drifting apart. What if you considered setting a small, specific goal for your conversation—like just sharing your feelings and listening to each other—without the immediate pressure of finding a solution? How do you think that might help ease some of the pressure you’re feeling?",
-    "condition": "baseline",
-    "val_t": -0.11605358123779297,
-    "aro_t": 0.12499475479125977,
+    "val_t": -0.1305561065673828,
+    "aro_t": 0.10522902011871338,
     "text_emotion": "Angry"
   },
   {
-    "turn": 8,
-    "client": "I get that sharing feelings and listening sounds good in theory, but it feels so hard to just open up without wanting to fix things right away. I worry that if I don't address the problems directly, they'll just keep growing, and I’ll feel even more anxious about it later. What if my partner doesn’t respond well, and then I’m left feeling even more alone?",
-    "therapist": "It’s completely valid to feel that urgency to address problems directly, especially when anxiety is at play. Your concern about feeling alone if your partner doesn’t respond well is understandable, as it can heighten those feelings of isolation. What if you approached the conversation by acknowledging your anxiety upfront, letting your partner know that you're seeking understanding rather than immediate solutions? How do you think that might affect their response?",
+    "turn": 7,
+    "client": "I see what you're suggesting, and I can understand the logic behind it. But honestly, setting aside time for those small moments feels like just one more thing I have to manage, and I'm worried it will just add to my stress instead of helping. I feel like if I'm not focused on solving the financial issues, I'm somehow failing, and it’s hard to let go of that mindset.",
+    "therapist": "I hear you; it sounds like you’re feeling caught in a cycle where everything feels urgent and important, making it hard to consider anything that doesn’t seem directly related to solving those financial issues. It’s completely valid to worry about adding more to your plate when you're already feeling stretched thin. What if we explored a way to integrate those small moments into your existing routine, perhaps as brief breaks, to see if they might actually help ease some of that pressure rather than add to it? Would that feel like a more manageable approach?",
     "condition": "baseline",
-    "val_t": -0.25912272930145264,
-    "aro_t": 0.16115844249725342,
+    "val_t": -0.18271338939666748,
+    "aro_t": 0.06721603870391846,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 8,
+    "client": "I can see how integrating those small moments into my existing routine could be less overwhelming, but I still feel a bit skeptical. It’s hard for me to imagine fitting in breaks when I feel like there's always something more pressing to deal with. I worry that even small breaks will make me lose momentum on tackling the financial issues, and I just don’t want to fall behind.",
+    "therapist": "It’s completely normal to feel skeptical about fitting in breaks when everything feels urgent and pressing. Your desire to stay on top of things shows how committed you are to supporting both yourself and your partner. What if we thought about those moments not as breaks, but as brief pauses to recharge, allowing you to return to the tasks with a clearer mind and perhaps even more focus? How does that perspective resonate with you?",
+    "condition": "baseline",
+    "val_t": -0.161529541015625,
+    "aro_t": 0.07743144035339355,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but I'm not sure if being that open will actually help. What if my partner just brushes off my feelings or doesn’t take them seriously? That would make me feel even more alone, and it’s hard to imagine them responding in a way that would make me feel understood.",
-    "therapist": "It’s completely understandable to fear that your feelings might not be taken seriously, as that can be incredibly disheartening. It sounds like you're feeling really vulnerable in this situation, and it’s natural to want to protect yourself from feeling more alone. What if you took a small step back and considered what you would need from your partner in that moment to feel heard and understood? How might that clarity help you express your feelings?",
+    "client": "I see what you mean about thinking of those moments as pauses rather than breaks, and that does make it feel a bit less daunting. But I still can’t shake the feeling that even those pauses will take away precious time I should be using to solve our financial issues. It’s hard to believe that a brief moment of recharging will really help me be more effective when I feel like there’s so much to do.",
+    "therapist": "I appreciate your honesty; it’s understandable to still feel hesitant about the effectiveness of those pauses when you have so much on your plate. It might help to think of them as a way to prevent burnout, which can actually slow down your progress on the tasks at hand. What if you experimented with just a couple of short pauses this week and noticed how you feel afterward—both in terms of your energy and your ability to tackle your financial concerns? How does that sound to you?",
     "condition": "baseline",
-    "val_t": -0.19623267650604248,
-    "aro_t": 0.042501211166381836,
-    "text_emotion": "Sad"
+    "val_t": -0.08782017230987549,
+    "aro_t": 0.06702017784118652,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you understand where I'm coming from, but honestly, I feel like it's hard for me to articulate what I need from my partner. Sometimes, I just get overwhelmed with anxiety and end up shutting down instead of asking for what I want. What if I don’t even know what I need? It feels like a lot of pressure to figure that out.",
-    "therapist": "It's completely understandable to feel overwhelmed and not know exactly what you need, especially when anxiety is present. It’s okay to not have all the answers right now; sometimes just acknowledging those feelings is a step in itself. What if you allowed yourself to simply express your current feelings of confusion and anxiety to your partner, without the pressure of having a clear request? How do you think that might open up the conversation for both of you?",
+    "client": "I can see the potential benefits of experimenting with those short pauses, but I still feel a lot of resistance. It’s hard to shake the thought that taking time away from addressing our financial issues might just make things worse. I guess a part of me is worried that I won't be able to resist the urge to just keep pushing through instead of taking a moment for myself.",
+    "therapist": "It’s completely understandable to feel that resistance, especially when you’re in a situation that demands so much of your attention and energy. Your instinct to keep pushing through reflects your dedication to finding solutions, but it’s also important to recognize that continuous pressure can lead to exhaustion. What if you allowed yourself to be curious about those short pauses, perhaps trying them just once this week without any expectations? How might it change your perspective if you approached it as an experiment rather than a commitment?",
     "condition": "baseline",
-    "val_t": -0.1254725456237793,
-    "aro_t": 0.1606276035308838,
+    "val_t": -0.13979995250701904,
+    "aro_t": 0.11439037322998047,
     "text_emotion": "Angry"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I’ve been feeling really overwhelmed about my final exams next month. I didn’t do well last term, and now I’m constantly worrying that I’m going to fail again. I’m not sure if talking about it will help because it feels like the pressure is just too much to handle.",
-    "therapist": "I hear how overwhelming this feels for you, especially carrying the weight of last term's experience into this new challenge. It makes sense that you'd worry about failing again when that memory is still fresh. What do you think might be different this time around that could help you feel more prepared?",
+    "client": "I’ve been feeling really overwhelmed about my final exams next month. I barely made it through last term’s coursework, and now the pressure is building up again. I’m not sure if therapy can help with this—it feels like the problem is just too big to fix.",
+    "therapist": "It sounds like you’re carrying a lot of weight from last term’s challenges, and now the anticipation of exams is adding even more pressure. Therapy can be a space to explore how your thoughts about this situation might be amplifying your stress—what’s coming up for you when you think about the exams?",
     "condition": "baseline",
-    "val_t": -0.31323790550231934,
-    "aro_t": 0.27643251419067383,
+    "val_t": -0.28414690494537354,
+    "aro_t": 0.2633105516433716,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I don't know if anything really is different this time. I mean, I've tried making study schedules before and they never stick. The anxiety just creeps in and then I freeze up and can't focus. Part of me thinks maybe I'm just not cut out for this program.",
-    "therapist": "It sounds like you're caught in a cycle where anxiety makes it hard to focus, which then reinforces the belief that you're not capable - that must feel really discouraging. Let's gently challenge that thought: what small step could you take today that might feel slightly more manageable than your usual study schedule?",
+    "client": "When I think about the exams, I just keep imagining myself failing and disappointing everyone, especially my family. It’s like I can’t stop picturing the worst-case scenario, and it makes me feel paralyzed. I try to tell myself it’ll be fine, but it doesn’t really help—it’s like my brain doesn’t believe it.",
+    "therapist": "It sounds like your mind is really focused on those worst-case scenarios, and it’s understandable that it feels overwhelming when those thoughts take over. Let’s take a closer look at those thoughts—what evidence do you have that failing is the *only* possible outcome here?",
     "condition": "baseline",
-    "val_t": -0.1448812484741211,
-    "aro_t": 0.132735013961792,
+    "val_t": -0.4188140630722046,
+    "aro_t": 0.20964443683624268,
     "text_emotion": "Angry"
   },
   {
     "turn": 3,
-    "client": "I get what you're saying about small steps, but even that feels overwhelming right now. Every time I try to study, my mind just races with thoughts like \"What if I fail?\" or \"I'll never understand this material.\" It's like my brain won't let me focus no matter how small the task is.",
-    "therapist": "I hear how paralyzing those racing thoughts feel—it's like your mind becomes its own obstacle when you try to study. Let's slow this down: when you notice those \"what if\" thoughts coming up, what's one grounding technique you've used before that helped even a little?",
+    "client": "I guess I don’t have concrete evidence that I’ll fail, but I keep thinking about how I barely got through last term and how much I struggled. It feels like I’m just not good enough to handle this. Even if I try to tell myself it’ll be okay, it’s hard to believe it when I’ve already had such a tough time before.",
+    "therapist": "It sounds like last term’s struggles are weighing heavily on your mind and shaping how you’re viewing this upcoming challenge. It might help to explore whether there’s anything you’ve learned from last term that could support you now—what strengths or strategies did you use to get through it, even when it was tough?",
     "condition": "baseline",
-    "val_t": -0.0914161205291748,
-    "aro_t": 0.19142985343933105,
-    "text_emotion": "Angry"
+    "val_t": -0.2922447919845581,
+    "aro_t": 0.11949419975280762,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "I've tried deep breathing before, but it's hard to remember to do it when my mind is already spiraling. And honestly, sometimes it makes me more frustrated because I feel like I *should* be able to just breathe and calm down, but it doesn't always work that way.",
-    "therapist": "It makes complete sense that you'd feel frustrated when something that \"should\" help doesn't quite land—that added pressure can make the spiral feel worse. Would it feel more helpful if we explored some other grounding techniques that might feel less forced in those moments?",
+    "client": "I guess I did manage to get through last term, but it felt like I was just barely scraping by. I don’t know if I have any real strengths—it felt more like luck than anything else. Even if I try to plan or study now, I’m worried I’ll just fall apart again under the pressure.",
+    "therapist": "It sounds like you’re minimizing your effort and attributing your success to luck, which might be making it harder to trust yourself this time. Let’s pause and explore what you *did* do last term—even if it felt like scraping by—that helped you make it through. What small steps or actions did you take, even when things felt overwhelming?",
     "condition": "baseline",
-    "val_t": -0.23616838455200195,
-    "aro_t": 0.14743947982788086,
+    "val_t": -0.21236908435821533,
+    "aro_t": 0.09766268730163574,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I guess I’m just tired of trying things that don’t seem to work for me. I’ve tried grounding techniques before, and they feel fake or like I’m just pretending to be calm when I’m not. It’s hard to believe anything will help when I’ve already tried so much.",
-    "therapist": "That exhaustion from trying so many things without relief is completely valid—it sounds like you're craving something that feels genuinely helpful rather than performative. What if we shifted focus from \"fixing\" the anxiety to simply noticing it with curiosity when it shows up?",
+    "client": "I guess I did manage to study a little bit every day, even when I felt exhausted. But it didn’t feel like much—like I was just forcing myself to do the bare minimum. I don’t think that’s going to be enough this time, especially with how hard these exams are supposed to be. It’s like I’m already convinced I’m going to fail no matter what I do.",
+    "therapist": "It sounds like you’re dismissing the effort you put in last term, even though you showed persistence by studying daily despite exhaustion. Let’s explore whether there’s a way to build on that effort this time—what small, manageable steps could you take now that might feel less overwhelming than trying to tackle everything at once?",
     "condition": "baseline",
-    "val_t": -0.16280293464660645,
-    "aro_t": 0.05440378189086914,
-    "text_emotion": "Sad"
+    "val_t": -0.16016221046447754,
+    "aro_t": 0.17586469650268555,
+    "text_emotion": "Angry"
   },
   {
     "turn": 6,
-    "client": "I like the idea of not having to \"fix\" everything right away, but I'm not sure how just noticing my anxiety will help. It feels so overwhelming when it hits—like I'm drowning in it. How is being curious about that feeling supposed to make it better?",
-    "therapist": "You're absolutely right—when anxiety feels that intense, simply observing it can seem impossible or even dismissive. What if we thought of curiosity as turning down the volume on those thoughts rather than trying to silence them completely? How does that idea land for you?",
+    "client": "I don’t know—it feels like even small steps won’t be enough. Last term, I tried breaking things down, but I still ended up feeling like I wasn’t doing enough. What if I put in all this effort and still fail? It’s hard to stay motivated when I’m already anticipating the worst.",
+    "therapist": "It sounds like the fear of failure is really overshadowing your ability to focus on what’s within your control right now. Let’s explore this—what would it look like to approach studying with curiosity rather than certainty about the outcome? How might that shift your perspective?",
     "condition": "baseline",
-    "val_t": -0.19920551776885986,
-    "aro_t": 0.22779369354248047,
+    "val_t": -0.2629460096359253,
+    "aro_t": 0.15596210956573486,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "Turning down the volume sounds better than trying to silence it completely, but I’m still not sure how to actually do that. When my anxiety spikes, it feels like everything is screaming at me at once—it’s hard to even hear myself think. I guess I’m skeptical because it feels like my brain is wired to amplify those thoughts, not quiet them.",
-    "therapist": "It sounds like you're describing a very real experience where anxiety doesn't just speak—it shouts over everything else. What if we tried approaching this like adjusting a radio dial, where you might notice the \"volume knob\" is stuck on high, and simply acknowledging that could be the first step toward gaining some control?",
+    "client": "I don’t know how to shift to curiosity when I’m so focused on avoiding failure. It feels like curiosity is for people who aren’t as anxious as I am—like they have the luxury to explore, but I’m just trying to survive. It’s hard to imagine feeling anything but dread when I think about studying.",
+    "therapist": "It sounds like the pressure of avoiding failure is making it hard to see studying as anything other than a source of dread. Let’s explore this—what would it feel like to give yourself permission to focus on the process of studying, even just for a short time, without tying it to the outcome of the exams?",
     "condition": "baseline",
-    "val_t": -0.19672811031341553,
-    "aro_t": 0.19632220268249512,
+    "val_t": -0.17483830451965332,
+    "aro_t": 0.1455143690109253,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I like the radio dial analogy, but my anxiety doesn't feel like something I can just turn down. It's more like the volume knob is broken and stuck at maximum. When I try to \"acknowledge\" it, that just makes me more aware of how loud and overwhelming it is.",
-    "therapist": "I hear how acknowledging the anxiety sometimes makes it feel more present rather than less—that's an important observation about what isn't working for you right now. What if instead of trying to adjust the volume, we simply noticed that the knob appears stuck, without any pressure to change it in this moment?",
+    "client": "It feels almost impossible to separate studying from the outcome—like the entire point of studying is to avoid failing. If I try to focus just on the process, I worry I’ll lose sight of the urgency and end up not doing enough. It’s hard to let go of that fear, even for a short time.",
+    "therapist": "It sounds like the fear of failing is deeply tied to your motivation, making it hard to see studying as anything other than a way to avoid disaster. Let’s explore this—what would it feel like to acknowledge the fear while also gently reminding yourself that taking small, consistent steps is a way to care for yourself, regardless of the outcome?",
     "condition": "baseline",
-    "val_t": -0.16526389122009277,
-    "aro_t": 0.27243661880493164,
+    "val_t": -0.21937203407287598,
+    "aro_t": 0.12871897220611572,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying about just noticing the anxiety without trying to change it, but that feels almost impossible. When I notice it, my brain immediately jumps to \"how do I make this stop?\" The idea of just sitting with it makes me feel even more panicky, like I'm letting it take over.",
-    "therapist": "It makes complete sense that noticing the anxiety triggers that urgent need to make it stop—that's a very human reaction to discomfort. What if we reframed \"sitting with it\" as simply observing that your brain is doing its protective job by sounding the alarm, even if the threat isn't actually life-threatening right now?",
+    "client": "It’s hard to think of studying as self-care—it feels more like punishment or something I have to force myself to do. Even if I try to focus on small steps, the fear of failing is always there in the background. I’m not sure how to separate the two, especially when the stakes feel so high.",
+    "therapist": "It sounds like studying has become so tied to fear and pressure that it’s hard to see it as anything other than a burden. Let’s explore whether there’s a way to reframe studying as an act of self-compassion—what might it feel like to approach it as a way to support yourself, even if the outcome is still uncertain?",
     "condition": "baseline",
-    "val_t": -0.23084819316864014,
-    "aro_t": 0.3008608818054199,
-    "text_emotion": "Angry"
+    "val_t": -0.2172253131866455,
+    "aro_t": 0.0817948579788208,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about my brain trying to protect me, but when the anxiety hits, it's so overwhelming that just \"observing\" it feels impossible. My chest gets tight and my thoughts race—how am I supposed to just watch that happen without trying to make it stop? \n\nIt's frustrating because part of me knows you're right, but in the moment, all I can think is that something terrible is about to happen. The physical symptoms make it feel so real, not just my brain being overprotective.",
-    "therapist": "You're describing something really important—how the physical intensity of anxiety makes it feel like an immediate threat rather than just thoughts. That tightness and racing are your body's real responses, which makes \"just observing\" understandably difficult. What if we focused first on noticing just one physical sensation at a time, like the tightness in your chest, without needing to change it?",
+    "client": "I guess I’ve never thought of studying as self-compassion—it’s always felt like something I *have* to do to avoid failing, not something I’m doing for myself. It’s hard to shift that mindset, especially when the pressure feels so intense. I’m not sure how to make studying feel supportive instead of like a punishment.",
+    "therapist": "It sounds like studying has become so tied to external pressure and fear of failure that it’s hard to see it as something nurturing or supportive. Let’s explore this—what would it feel like to think of studying as a way to honor your effort and commitment to yourself, rather than just a means to an end?",
     "condition": "baseline",
-    "val_t": -0.33812522888183594,
-    "aro_t": 0.3403886556625366,
-    "text_emotion": "Angry"
+    "val_t": -0.20202207565307617,
+    "aro_t": 0.05363500118255615,
+    "text_emotion": "Sad"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been really struggling since my grandfather passed away a few weeks ago, and with my final exams starting next week, I just can't seem to get my head straight. Every time I sit down to study, I end up just staring at the page thinking about him, and then I feel guilty for not studying, which makes everything worse. I'm not even sure talking about it is going to help me actually open my textbooks, you know?",
-    "therapist": "I'm so sorry for the loss of your grandfather — grieving while facing exams is an incredibly heavy burden to carry, and it makes complete sense that your mind keeps drifting to him rather than your textbooks. What you're describing — that cycle of distraction, then guilt, then more distraction — is actually a very common and understandable response to grief, not a sign that something is wrong with you. I hear your skepticism about whether talking will help, and I think that's worth honoring — so I'm curious, when you imagine sitting down to study tonight, what's the very first thought that tends to show up in your mind?",
+    "client": "I've been really struggling since my grandfather passed away a few weeks ago, and with my final exams starting next week, I just can't seem to focus on anything. Every time I sit down to study, I end up just staring at the wall or thinking about him, and then I feel guilty for not studying. I'm not even sure talking about this is going to help me actually get through my exams, but I didn't know what else to do.",
+    "therapist": "I'm really glad you reached out, and I want you to know that what you're carrying right now — grief *and* the pressure of exams — is genuinely a lot, and it makes complete sense that your mind keeps drifting to your grandfather instead of your textbooks. That guilt you're feeling for not studying is so understandable, but I'd gently offer that your mind may actually be doing something important by pulling you toward him right now. Can you tell me a little more about what tends to come up when you find yourself thinking about him during those study moments — is it a particular memory, a feeling, or something else?",
     "condition": "baseline",
-    "val_t": -0.4113847017288208,
-    "aro_t": 0.12430024147033691,
+    "val_t": -0.40274226665496826,
+    "aro_t": 0.1009819507598877,
     "text_emotion": "Sad"
   },
   {
     "turn": 2,
-    "client": "Honestly, the first thought that shows up is something like... \"what's the point?\" Like, my grandfather always asked me how school was going, and now there's no one to tell when I do well. It just feels hollow, and then I feel guilty for even thinking that way instead of just pushing through like I'm supposed to.",
-    "therapist": "That thought — \"what's the point?\" — makes so much sense when you realize that part of what motivated you was sharing your success with someone who genuinely cared, and that's a real and meaningful loss, not a weakness or an excuse. I also want to gently push back on that word \"supposed to\" — who decided that grief has a timeline, and that you should just be pushing through right now? It might be worth exploring whether your grandfather, knowing how much he cared about your school life, would actually want you to feel guilty for missing him in this very tender way.",
+    "client": "It's usually this one specific memory that keeps coming back — we used to sit together on his porch on Sunday mornings, and he'd quiz me on things just to keep my mind sharp, and he was so proud whenever I got something right. When I'm supposed to be studying, I'll look at my notes and just think about how he'd want me to do well, and then I feel this wave of sadness because he's not going to see me finish this semester. And then the guilt kicks in because I'm sitting there crying instead of actually preparing for the exam, like I'm somehow letting him down by not being able to focus.",
+    "therapist": "That memory is so beautiful — he was literally your study companion, someone who celebrated your mind, and now every time you open your notes, you're reminded of that loss, which means your grief and your studying are deeply intertwined right now, not separate things fighting each other. I want to gently challenge that thought that you're \"letting him down\" — because from what you've described, a man who sat with you and beamed with pride when you got things right sounds like someone who would want you to be gentle with yourself through this pain, not punish yourself for feeling it. What do you think *he* would actually say to you right now, if he could see you sitting at your desk with tears in your eyes?",
     "condition": "baseline",
-    "val_t": -0.33909595012664795,
-    "aro_t": 0.06981730461120605,
+    "val_t": -0.34141433238983154,
+    "aro_t": 0.1289052963256836,
     "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "That question kind of stops me in my tracks, honestly, because I know the answer — he would hate seeing me beat myself up like this. But it's easier to say that than to actually feel it, you know? Like, my brain understands it, but there's still this voice that says I'm just making excuses for falling behind.",
-    "therapist": "You've just identified something really important — that gap between *knowing* something and truly *feeling* it is at the heart of so much of our struggle, and it doesn't mean you're failing or making excuses, it means you're human and grieving. That critical inner voice calling everything an \"excuse\" sounds like it's trying to protect you by keeping you on track, but it might actually be making it harder to do the very thing it wants. I'm wondering — if a close friend came to you in exactly your situation, losing someone important right before exams, would you tell them they were just making excuses?",
+    "client": "Honestly, I know he'd probably tell me to close the books for a minute and just breathe, and that the exams will still be there tomorrow. But knowing what he'd say and actually being able to believe it are two really different things for me right now — like, I can hear his voice in my head saying it, but then my brain immediately jumps to \"you only have six days left, you can't afford to fall apart.\" I guess I just don't know how to let myself grieve and still function at the same time, and I'm not sure that's something that can actually be figured out in a therapy session.",
+    "therapist": "You just did something really insightful — you identified two voices in your head pulling in opposite directions, his gentle wisdom and your own panicked urgency, and recognizing that tension is actually the first step toward working with it rather than being overwhelmed by it. And I hear your skepticism about whether this can help, which is completely fair, but notice that you already *know* what he'd say to you — that wisdom lives in you now, and maybe part of what we can work on is helping you trust it enough to actually act on it, even for small moments. What might it look like to give yourself just one \"close the books and breathe\" moment today — something small enough that the six-day countdown voice doesn't completely drown it out?",
     "condition": "baseline",
-    "val_t": -0.2473592758178711,
-    "aro_t": 0.14831018447875977,
+    "val_t": -0.19142460823059082,
+    "aro_t": 0.17244553565979004,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I mean... no, obviously I wouldn't say that to a friend. I'd probably tell them it makes complete sense that they're struggling, that grief doesn't just pause for exams. But it feels different when it's me — like I don't deserve the same kind of understanding I'd give someone else, and I don't really know why that is.",
-    "therapist": "What you just noticed — that you freely offer compassion to others but feel you don't deserve it yourself — is such an honest and courageous insight, and it's actually one of the most common patterns I see in people who care deeply and hold themselves to high standards. That difference in treatment isn't a truth about your worth; it's a habit of thinking that can gently be questioned and changed over time. I'm curious — what do you think it would feel like, even just for today, to try treating yourself as you would that friend — not as a grand gesture, but in one small, concrete way?",
+    "client": "I guess maybe I could let myself look at a photo of him for a few minutes before I start studying, instead of just pushing the thoughts away and feeling worse when they come back anyway. But I'm honestly worried that if I let myself go there, even for a small moment, I'm just going to end up crying for an hour and losing the whole evening to it. It feels risky to open that door when I have so little time left.",
+    "therapist": "That idea you just came up with — looking at his photo as a way of acknowledging him rather than fighting the thoughts — is really wise, and it shows you're already finding a way to honor both your grief and your need to function. Your fear about \"opening the door\" makes complete sense, but I'd gently offer that the thoughts are already coming in anyway and costing you time; the difference is that a intentional, bounded moment with his photo might actually give that grief somewhere to go, rather than letting it leak unpredictably across your whole evening. What if you tried it with a small safety net — maybe telling yourself you'll give it five minutes, and that crying, if it happens, isn't the door flying open but just love finding a little room to breathe?",
     "condition": "baseline",
-    "val_t": -0.2590007781982422,
-    "aro_t": 0.13831686973571777,
+    "val_t": -0.42045438289642334,
+    "aro_t": 0.1782451868057251,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I hear what you're saying, and part of me actually wants to believe it, but there's this immediate voice that says \"that's just something therapists are supposed to tell people.\" Like, intellectually I can follow the logic, but emotionally it feels like trying to put on clothes that belong to someone else. And honestly, I'm not even sure what treating myself like a friend would look like in practice, because I've been hard on myself for so long that I don't really know what the alternative feels like.",
-    "therapist": "That skepticism you're feeling is actually really healthy and worth respecting — you're not just going to accept something because it sounds nice, and that tells me you want something real, not just reassuring words. The \"clothes that don't fit\" image you used is actually perfect, because self-compassion genuinely does feel awkward and foreign at first when you're not used to it, almost like a muscle you haven't used in a long time. So rather than trying to *feel* it right away, I wonder if we could just start with something tiny and behavioral — like, what would you physically *do* differently in the next hour if you were caring for a grieving friend who also had exams, rather than trying to force yourself to feel a certain way about it?",
+    "client": "That reframe — \"just love finding a little room to breathe\" — actually got to me a little, I'm not going to lie. I think I've been treating grief like it's this enemy that will destroy my productivity if I let it in, but maybe that's been making everything harder. I'm still nervous about trying it, but I think I could maybe manage five minutes with his photo before I sit down tonight — I just don't really know what to do if the five minutes turns into more.",
+    "therapist": "It means a lot that something shifted a little for you just now, and the fact that you're willing to try tonight, even while nervous, takes real courage. If the five minutes stretches longer, try gently noticing that without judgment — you could even imagine what your grandfather might say, and my guess is it wouldn't be \"you've been crying too long, get back to work.\" Would it help to think of a simple, concrete thing you could do to gently transition back — like making a cup of tea or writing down one thing you want to study — so you have a soft landing ready if the emotions run deeper than five minutes?",
     "condition": "baseline",
-    "val_t": -0.15842461585998535,
-    "aro_t": 0.11309683322906494,
-    "text_emotion": "Angry"
+    "val_t": -0.02817380428314209,
+    "aro_t": 0.17065095901489258,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I mean, I guess if it were a friend I'd probably tell them to take a break, maybe get some water or food, not just sit there staring at their notes feeling terrible about themselves. But when I try to apply that to me it just feels... performative, like I'm going through the motions without actually believing I deserve it. And honestly there's this voice in the back of my head saying if I go easy on myself I'll just fall apart completely and fail everything.",
-    "therapist": "That fear — \"if I stop being hard on myself, everything will collapse\" — is actually worth examining, because it's doing a lot of work in keeping you stuck; it's essentially arguing that your self-criticism is the only thing holding you together, when in reality it might be the very thing draining the energy you need to study. And the \"performative\" feeling makes complete sense at first, because doing something kind for yourself before you *believe* you deserve it isn't fake — it's actually how the belief slowly gets built, through small actions that gradually become evidence. I'm curious, has there ever been a time in your life when being a little gentler with yourself actually helped you function *better*, even briefly — or does your mind insist that's never happened?",
+    "client": "The tea idea actually sounds doable, like it's small enough that I could see myself doing it without it feeling forced. I think what I'm realizing is that I've been so focused on not losing control that I haven't given myself any kind of plan for what to do after I feel something, and that's probably why the grief keeps ambushing me instead. I'm still a little scared, but I think having that transition step makes the whole thing feel less like jumping off a cliff.",
+    "therapist": "You've just made a really meaningful shift — recognizing that the ambushes happen *because* there's no plan, not because grief is uncontrollable, gives you back a sense of agency that I imagine has felt completely out of reach these past few weeks. You came in today unsure if talking would even help, and you're leaving with something concrete: a photo, five minutes of space for love to breathe, and a cup of tea to walk you back — that's not nothing, that's actually a gentle, workable structure. As you head into tonight, I'm curious: is there anything you'd want to say to your grandfather during those five minutes, something you haven't had a chance to express yet?",
     "condition": "baseline",
-    "val_t": -0.2515949010848999,
-    "aro_t": 0.1443270444869995,
+    "val_t": -0.07639682292938232,
+    "aro_t": 0.143904447555542,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I have to think about that for a second, because my instinct is to say no, being gentle with myself has never helped. But actually... there was this one time during my first year when I was completely burned out and I just kind of gave myself a weekend off, no studying, no guilt-tripping myself, and I came back on Monday feeling sharper than I had in weeks. I almost forgot about that, which is kind of strange when I think about it now.",
-    "therapist": "That memory is so important, and the fact that your mind almost buried it makes complete sense — when we're in a self-critical pattern, our brain tends to filter out evidence that contradicts it, which is why it felt strange to remember. You just found real, lived proof from your own life that rest and self-compassion didn't make you fall apart — they actually helped you come back stronger. I'm wondering, what feels different about that weekend you gave yourself permission to rest, compared to what you're allowing yourself right now?",
+    "client": "I think I'd want to tell him that I'm trying, and that I hope he knows how much those Sunday mornings meant to me, because I don't think I ever actually said that out loud to him. It's strange — I've been so caught up in the guilt about not studying that I haven't really let myself think about what I actually wish I'd said before he was gone. I'm not sure I'll get through it without completely falling apart, but maybe that's okay for five minutes.",
+    "therapist": "What you just said — \"maybe that's okay for five minutes\" — is such a profound shift from where you started today, and I want you to hold onto that. Telling him you're trying and that those Sunday mornings mattered isn't falling apart; it's completing something important, and he spent those mornings quizzing you because he believed in you, which means he already knew you were trying even when you didn't say it aloud. Be gentle with yourself tonight, and I'll be curious to hear — how did it feel to finally let those words out?",
     "condition": "baseline",
-    "val_t": -0.15797090530395508,
-    "aro_t": 0.15379703044891357,
+    "val_t": -0.1367279291152954,
+    "aro_t": 0.06652498245239258,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I guess... that weekend felt different because I didn't have anyone watching or judging me. I was alone, and somehow that made it feel safer to just stop for a bit without feeling like I was letting someone down. But right now, even when I'm physically alone, it's like I've internalized all those voices and I'm judging myself harder than anyone else ever could.",
-    "therapist": "What you just described — realizing that you've become your own harshest judge, stricter than anyone external ever was — is a genuinely profound insight, and it takes real self-awareness to see that so clearly. That internalized voice likely developed for good reasons, maybe to protect you or to meet expectations that mattered, but it sounds like it's now working overtime in a moment when you actually need gentleness most. I'm curious — if you could identify whose voice that inner critic most sounds like, or where it first came from, does anyone or anything come to mind?",
+    "client": "I think I needed to hear that he probably already knew, because I've been carrying this weight like there was something left unfinished that I can never fix now. It doesn't completely take the ache away, but it makes the five minutes feel less like reopening a wound and more like... I don't know, maybe just sitting with him one more time. I'm still not sure how the exams are going to go, but I think I can at least get through tonight.",
+    "therapist": "\"Sitting with him one more time\" — that's a beautiful way to hold this, and I think you just transformed something that felt like an open wound into something that feels more like a quiet visit, which is a kind of healing that no exam grade can measure. You came in today feeling ambushed by grief and paralyzed by guilt, and you're leaving with a way to honor him *and* take care of yourself tonight — that's real, meaningful work you did here. Get through tonight, make your tea, and remember that the same boy who got answers right on that porch on Sunday mornings is still sitting at that desk — how are you feeling right now, as you think about heading into the evening?",
     "condition": "baseline",
-    "val_t": -0.22596466541290283,
-    "aro_t": 0.20584166049957275,
-    "text_emotion": "Angry"
+    "val_t": -0.1786104440689087,
+    "aro_t": 0.06528401374816895,
+    "text_emotion": "Sad"
   },
   {
     "turn": 9,
-    "client": "Honestly, when you ask whose voice it is... my dad's face comes to mind almost immediately, which is uncomfortable to admit. He wasn't cruel or anything, but nothing was ever quite good enough — there was always a \"but you could have done better\" after every achievement. I guess I just... absorbed that standard and made it my own, and now I can't seem to turn it off even when he's not around.",
-    "therapist": "That took real courage to name, and the discomfort you feel saying it out loud actually speaks to how much you've carried this quietly for a long time. What's striking is that you've essentially become so good at anticipating that \"but you could have done better\" that you now deliver it to yourself before anyone else can — it became a way of protecting yourself, but it's now a voice that never lets you rest, even in grief. I'm gently wondering, do you think your grandfather — the person you're missing right now, the one who asked about your school life — did he make you feel like it was never quite enough, or did he offer you something different?",
+    "client": "Honestly, I feel a little lighter than when I walked in, which I wasn't expecting at all. There's still this underlying nervousness about the exams and whether I'll be able to pull it together, but it doesn't feel quite as suffocating as it did an hour ago. I think I'm actually going to try the photo and the tea tonight — and that's not something I would have said when I first sat down.",
+    "therapist": "That shift from \"suffocating\" to \"lighter\" in the space of one conversation tells me you had more resilience inside you than you were giving yourself credit for when you walked in — you just needed a little space to find it. The nervousness about exams is still real and we can keep working on that, but tonight you have one simple, meaningful thing to do, and that's enough. I'm really glad you came in today, and I'd love to hear how tonight goes — will you come back and tell me how it felt to sit with him one more time?",
     "condition": "baseline",
-    "val_t": -0.11937916278839111,
-    "aro_t": 0.10304391384124756,
+    "val_t": -0.08108019828796387,
+    "aro_t": 0.14803588390350342,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "That question kind of stopped me for a second, because honestly... no, he wasn't like that at all. He was one of the only people who just seemed genuinely happy to see me, no conditions attached, no scorecard. And I think that's part of why losing him hurts so much — like, that voice that says \"not enough\" was never his, it came from somewhere else, and now he's gone and I can't... I don't know, it's like I lost the one place where I didn't have to earn anything.",
-    "therapist": "What you just said is so tender and so important — your grandfather wasn't just a person you loved, he was a living reminder that you are enough simply as you are, and losing him means losing that safe place where the \"not enough\" voice went quiet. That's a profound and specific grief, and it makes complete sense that studying feels hollow right now, because part of what made achievement feel meaningful was being able to bring it to someone who celebrated *you*, not just your performance. I'm wondering — is there any way to honor that part of him, that unconditional presence he offered you, by trying to offer even a small piece of that same acceptance to yourself right now, almost as a way of keeping something of him alive?",
+    "client": "Yeah, I'll come back — I actually want to, which is also not something I expected to feel when I first sat down today. I think part of me came in here ready to be told to just push through and make a study schedule, and instead I feel like someone actually understood what's been happening inside my head this past few weeks. I'm still a little scared about tonight, but I think that's okay.",
+    "therapist": "It means so much to hear that you felt understood, because that's exactly what you deserved today — not a study schedule, but someone to sit with the full weight of what you're carrying. A little scared and still willing to try is honestly one of the bravest places a person can be, and I think your grandfather would recognize that courage immediately. Go be with him tonight, tell him you're trying, make your tea — and I'll be here when you come back.",
     "condition": "baseline",
-    "val_t": -0.27109718322753906,
-    "aro_t": 0.18169891834259033,
-    "text_emotion": "Angry"
+    "val_t": -0.043555617332458496,
+    "aro_t": 0.18468225002288818,
+    "text_emotion": "Tense"
   }
 ]

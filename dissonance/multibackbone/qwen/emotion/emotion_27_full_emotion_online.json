@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I’ve been really struggling lately. Since starting college last semester, I feel like I can’t keep up with my coursework, and it’s been so overwhelming that I’ve ended up isolating myself from my friends. I know I should be reaching out, but it just feels like everything is piling up and I don’t know how to catch up.",
-    "therapist": "Hi there, it sounds like you're going through a really tough time, and it’s completely understandable to feel overwhelmed with everything piling up. It’s great that you reached out to talk about it. How have you been managing your days, and are there any small steps you think might help you start feeling a bit more in control?",
+    "client": "Hi Luna, I've been feeling really overwhelmed lately. Since starting college last semester, I just can't seem to keep up with all the coursework. It's gotten to the point where I've been isolating myself from my friends because I feel so behind and stressed. I know I should be reaching out for support, but it’s hard. I’m not even sure if therapy can really help with this.",
+    "therapist": "Hi there, it sounds like you're really struggling with a lot on your plate right now. Starting college can be such a challenging transition, and it's completely understandable to feel overwhelmed and isolated. Therapy can definitely help you explore these feelings and find ways to manage the stress. What do you think has been the hardest part about reaching out for support?",
     "condition": "emotion_text_only",
-    "val_t": -0.3020646572113037,
-    "aro_t": 0.23318803310394287,
+    "val_t": -0.2857966423034668,
+    "aro_t": 0.25089848041534424,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. Honestly, I've been struggling a lot lately. I feel like everything is just piling up, and I don't know where to start. I try to manage my days, but it feels like I'm just going through the motions. When you suggest small steps, I don't really know what those would look like for me. It's hard because I feel like I've tried so many things already and nothing seems to make a difference.",
-    "therapist": "I can hear how challenging this has been for you, and it’s completely normal to feel stuck when things seem overwhelming. It sounds like you’ve already put in a lot of effort, and it’s important to acknowledge that. Sometimes, small steps can be as simple as setting a specific, manageable goal for the day, like taking a short break to do something you enjoy or reaching out to a friend for a quick chat. What do you think might be a small, achievable step you could take today to help you feel a bit more in control?",
+    "client": "I guess the hardest part is feeling like I’m a burden. I don’t want to complain to my friends because they’re all busy with their own stuff. Plus, I feel like if I reach out, I’ll just get more advice that I can’t follow through on, and that makes me feel even more hopeless.",
+    "therapist": "It sounds like you're carrying a heavy weight of responsibility and worry, and you're afraid of adding to others' burdens. It’s completely normal to feel this way, but remember that your friends care about you and might be more supportive than you think. Have you ever talked to anyone about how you’ve been feeling, even just a little bit, to see how they respond?",
     "condition": "emotion_text_only",
-    "val_t": -0.13102400302886963,
-    "aro_t": 0.10311007499694824,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "I appreciate that, Luna. It's just hard because I often feel like I'm spinning my wheels. I try to set small goals, but I end up feeling guilty if I don't do enough. It's tough to find that balance.",
-    "therapist": "I understand how frustrating it can be to feel like you’re not making progress, even when you’re trying your best. It’s really common to feel guilty when you don’t meet your goals, but it’s important to be kind to yourself and recognize that progress can be slow and sometimes invisible. What do you think might help you feel less guilty when you set these small goals, or how could we adjust them to feel more achievable?",
-    "condition": "emotion_text_only",
-    "val_t": -0.1436305046081543,
-    "aro_t": 0.06974637508392334,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I appreciate that, but it's hard not to feel guilty when I set these goals and then fall short. I guess I worry that if I make the goals too easy, I won't push myself enough. It’s a tough balance to strike.",
-    "therapist": "I hear you, and it’s completely understandable to feel that way. Finding the right balance between setting achievable goals and pushing yourself can be really challenging. It might help to think about setting both short-term and long-term goals, where the short-term goals are small and manageable, and the long-term goals are more ambitious. This way, you can feel a sense of accomplishment without overwhelming yourself. How do you feel about trying this approach?",
-    "condition": "emotion_text_only",
-    "val_t": -0.1051175594329834,
-    "aro_t": 0.023673653602600098,
-    "text_emotion": "Neutral"
-  },
-  {
-    "turn": 5,
-    "client": "I see what you're saying, and it makes sense in theory, but I often find myself getting stuck even with small goals. It's hard because I tend to doubt my ability to achieve anything, no matter how small. I worry that I'll just end up feeling frustrated and giving up again.",
-    "therapist": "I can understand how challenging it must be to feel stuck and doubt your abilities, even with small goals. It’s really common to feel this way, and it’s important to acknowledge those feelings. One thing that might help is to focus on the process rather than the outcome. For example, instead of setting a goal to complete a specific task, you could set a goal to spend a certain amount of time working on it, regardless of how much you accomplish. This can help reduce the pressure and make it easier to keep going. How do you feel about trying to shift your focus to the process rather than the outcome?",
-    "condition": "emotion_text_only",
-    "val_t": -0.3347432613372803,
-    "aro_t": 0.09607088565826416,
+    "val_t": -0.3657623529434204,
+    "aro_t": 0.09948265552520752,
     "text_emotion": "Sad"
   },
   {
-    "turn": 6,
-    "client": "I understand what you're saying, and it makes sense in theory, but it's hard for me to shift my focus like that. I feel like if I don't set a specific goal, I won't have that sense of accomplishment or motivation to keep going. It's tough because I already struggle with feeling like I'm not doing enough.",
-    "therapist": "I completely understand how difficult it can be to shift your focus, especially when you value that sense of accomplishment and motivation. It’s totally valid to feel that way. One approach could be to set very specific, but tiny, goals that are almost guaranteed to be achievable, like spending just 5 minutes on a task or taking a short walk. This can help you build a sense of accomplishment without feeling overwhelmed. How do you think you might feel if you tried setting these micro-goals?",
+    "turn": 3,
+    "client": "I have tried talking to one friend a little bit, but I felt like I was just venting and not really getting anywhere. It made me feel worse because I couldn’t see a solution, and I didn’t want to keep bothering them. I guess I’m just worried that if I open up more, I’ll just feel stuck and helpless.",
+    "therapist": "It sounds like opening up to your friend was a brave step, even if it didn’t feel entirely helpful at the time. It’s tough when you feel like you’re not making progress, and it’s natural to worry about burdening others. Therapy can provide a safe space to explore these feelings and work on finding solutions. What do you think would make you feel more supported or less stuck when you talk about your challenges?",
     "condition": "emotion_text_only",
-    "val_t": -0.15325069427490234,
-    "aro_t": 0.12716937065124512,
+    "val_t": -0.41133320331573486,
+    "aro_t": 0.10106563568115234,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I think what would help is if I could talk to someone who really understands what it’s like to feel this overwhelmed and not just give me the usual advice. I feel like I’ve heard it all before, and it just doesn’t seem to work for me. I’m not sure how to break out of this cycle of feeling stuck.",
+    "therapist": "It’s really important to have someone who understands and can offer a different perspective, especially when you feel like you’ve heard the same advice over and over. I can see how frustrating and disheartening that must be. In therapy, we can work together to explore new strategies and ways of thinking that might feel more tailored to your unique situation. What are some specific things you feel stuck on, and how can we start to address those together?",
+    "condition": "emotion_text_only",
+    "val_t": -0.17283201217651367,
+    "aro_t": 0.1757032871246338,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 5,
+    "client": "I feel stuck on how to manage my time better and actually get things done without feeling so anxious. I’ve tried making to-do lists and setting goals, but I just can’t seem to stick to them. I worry that any new strategies will just end up the same way. How can we work on this without it feeling like just another failed attempt?",
+    "therapist": "It’s really common to feel stuck and anxious when it comes to managing time, especially when previous attempts haven’t worked out as hoped. It sounds like you’ve already taken some good steps, like making to-do lists and setting goals, but it’s understandable that you’re feeling frustrated when they don’t stick. Let’s explore some different approaches together that might feel more manageable and less anxiety-inducing. What do you think are some of the main obstacles that get in the way when you try to follow through on your plans?",
+    "condition": "emotion_text_only",
+    "val_t": -0.2579166889190674,
+    "aro_t": 0.1478360891342163,
+    "text_emotion": "Angry"
+  },
+  {
+    "turn": 6,
+    "client": "I think the biggest obstacle is my anxiety. It feels like as soon as I start a task, I get overwhelmed by all the other things I need to do, and I freeze up. I also tend to perfectionism, so if I can’t do something perfectly, I don’t do it at all. It’s hard to break that cycle.",
+    "therapist": "It sounds like your anxiety and perfectionism are really getting in the way, and it’s completely understandable how that can lead to feeling overwhelmed and frozen. Breaking that cycle can be tough, but we can work on it together. One approach could be to break tasks down into smaller, more manageable steps and set realistic expectations for yourself. How do you think you might feel if you could start with just one small step today, without the pressure of perfection?",
+    "condition": "emotion_text_only",
+    "val_t": -0.15508818626403809,
+    "aro_t": 0.14564955234527588,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I see what you're saying, and it makes sense in theory, but I worry that even these tiny goals might feel too much sometimes. I often find myself spiraling into guilt and anxiety if I don't meet even the smallest of goals, which can make me feel even more overwhelmed. How do I break that cycle?",
-    "therapist": "I can really understand how tough it must be to feel that way, and it’s completely normal to spiral into guilt and anxiety when you don’t meet your goals, even the small ones. It sounds like breaking that cycle is really important for you. One approach that might help is to practice self-compassion and recognize that it’s okay to have off days. Maybe you could try setting a daily intention to be kind to yourself, rather than focusing solely on achieving a goal. How do you think you might feel if you gave yourself permission to have a break or do something gentle for yourself when you’re feeling overwhelmed?",
+    "client": "I like the idea of breaking things down into smaller steps, but I’m still worried that I’ll get overwhelmed even with smaller tasks. It’s hard to let go of the need to do everything perfectly. I’ll try it, but I’m not sure how to start without feeling like I’m setting myself up for another failure.",
+    "therapist": "It’s completely understandable to feel that way, and it’s great that you’re willing to try breaking tasks down. Starting small can feel like a big step when you’re used to setting high standards for yourself. One thing that might help is to focus on the process rather than the outcome—celebrate each small step you take, no matter how minor it may seem. What’s one tiny step you feel ready to take today, even if it’s just a five-minute task?",
     "condition": "emotion_text_only",
-    "val_t": -0.2896634340286255,
-    "aro_t": 0.20914316177368164,
+    "val_t": -0.18028998374938965,
+    "aro_t": 0.09843766689300537,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I appreciate the suggestion, but it's hard for me to shift from being so goal-oriented to being kind to myself. It feels like I’m letting myself off the hook, and that just adds to my guilt. I worry that if I take a break, I’ll fall behind even more.",
-    "therapist": "I understand how challenging it can be to shift from being goal-oriented to being kind to yourself, and it’s completely normal to feel guilty about taking a break. It’s important to recognize that giving yourself some grace isn’t about letting yourself off the hook, but rather about creating a more sustainable and compassionate approach to your well-being. How do you think you might feel if you tried to view taking a break as a necessary part of your overall productivity and mental health, rather than a step back?",
+    "client": "I appreciate the suggestion to focus on the process and celebrate small steps. Maybe I could start by just organizing my desk for five minutes. It’s not much, but it feels doable, and it might help me feel a bit more in control. I’ll give it a try, even though I’m still a bit nervous about it.",
+    "therapist": "That’s a great start, and I’m really proud of you for taking this step, even though it feels a bit nervous. Focusing on something small like organizing your desk can definitely help you feel more in control and build momentum. Remember, every small step is a step forward. How do you think you might reward yourself after you’ve completed this task, to reinforce the positive feeling of making progress?",
     "condition": "emotion_text_only",
-    "val_t": -0.25459766387939453,
-    "aro_t": 0.017194271087646484,
-    "text_emotion": "Sad"
+    "val_t": 0.163965106010437,
+    "aro_t": 0.20734143257141113,
+    "text_emotion": "Excited"
   },
   {
     "turn": 9,
-    "client": "I see what you're saying, and I do want to be kinder to myself, but it's hard to shake the feeling that taking a break is just procrastinating. I worry that if I start allowing myself more breaks, I’ll fall behind on everything and let people down. It’s a tough cycle to break.",
-    "therapist": "I can see how difficult it is for you to break that cycle, and it’s totally understandable to worry about falling behind or letting people down. It’s important to recognize that taking breaks isn’t the same as procrastinating; it’s about maintaining your well-being and preventing burnout. Maybe we could start by finding a balance, where you allow yourself short, scheduled breaks to recharge, and then return to your tasks with renewed focus. How do you think you might feel if you tried to incorporate these short breaks into your day, even just for a week, to see how it affects your productivity and well-being?",
+    "client": "I think a small reward could be helpful. Maybe I’ll allow myself to take a short break and have a cup of tea after I organize my desk. It’s not much, but it feels like a nice way to acknowledge my effort. I’m still a bit skeptical about whether this will really make a difference, but I’m willing to give it a try.",
+    "therapist": "That’s a wonderful idea, and I think it’s important to acknowledge your efforts, no matter how small. Taking a break for a cup of tea can be a great way to reinforce the positive steps you’re taking. It’s natural to feel a bit skeptical, but giving it a try and seeing how it goes can be really empowering. How do you think you might approach the next small task after this one, knowing you have a reward waiting for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.18520855903625488,
-    "aro_t": 0.058771491050720215,
-    "text_emotion": "Sad"
+    "val_t": 0.15467655658721924,
+    "aro_t": 0.0502246618270874,
+    "text_emotion": "Happy"
   },
   {
     "turn": 10,
-    "client": "I appreciate the idea, but I feel like taking breaks will just make me more anxious about falling behind. It’s hard because I already feel guilty about not doing enough, and I worry that if I take breaks, I’ll end up doing even less. How can I be sure that these breaks won’t just add to my stress?",
-    "therapist": "I can really understand how taking breaks might feel like it could add to your stress, especially when you already feel guilty about not doing enough. It’s a valid concern. One way to approach this could be to experiment with very short, structured breaks—just a few minutes at a time—to see how they affect your overall focus and energy. You might find that these breaks actually help you be more productive and reduce your overall anxiety. What do you think about trying a few short, scheduled breaks and seeing how it goes?",
+    "client": "I think having a reward in mind might help me approach the next small task with a bit more motivation. Maybe after organizing my desk, I can try to read a few pages of a textbook and then reward myself with a short walk. It’s still a bit daunting, but breaking it down and having something to look forward to makes it feel more manageable.",
+    "therapist": "It’s great to hear that having a reward in mind is helping you feel more motivated. Breaking tasks down and having something to look forward to can really make a difference. Taking a short walk after reading a few pages of your textbook sounds like a balanced and achievable plan. How do you think you might feel after completing these tasks, and what other small steps might you consider for tomorrow?",
     "condition": "emotion_text_only",
-    "val_t": -0.18756234645843506,
-    "aro_t": 0.09926426410675049,
-    "text_emotion": "Angry"
+    "val_t": 0.11899268627166748,
+    "aro_t": 0.062569260597229,
+    "text_emotion": "Neutral"
   }
 ]

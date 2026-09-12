@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hi Luna, I’ve been really struggling lately. Since losing my partner three months ago, I just can’t seem to find the motivation to do things I used to enjoy. I keep thinking maybe I should just give up on those activities altogether. I’m not sure if talking about it will really help, but here I am.",
-    "therapist": "Hi there, I'm so glad you reached out. It sounds like you're going through a really tough time, and it's completely understandable to feel a lack of motivation after such a significant loss. What are some of the activities you used to enjoy, and is there perhaps a small step you could take to reconnect with them, even if just for a moment?",
+    "client": "Hi Luna, it's been really tough lately. Since losing my partner three months ago, I just can't seem to find the motivation to do things I used to enjoy. I feel like everything is just ... pointless, and I'm not sure if therapy can even help with that.",
+    "therapist": "Hi there, I'm so sorry to hear that you've been feeling this way. It sounds incredibly tough to find joy in things after such a significant loss. Can you tell me a bit more about what it's been like for you since your partner passed away?",
     "condition": "emotion_text_only",
-    "val_t": -0.15143465995788574,
-    "aro_t": 0.10890936851501465,
+    "val_t": -0.21714818477630615,
+    "aro_t": 0.1499793529510498,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I used to love painting and hiking, but it feels like everything is just so pointless now. I don't think I can muster the energy to even pick up a brush or go for a short walk. It's hard because everything seems so heavy and overwhelming.",
-    "therapist": "I can really hear how heavy and overwhelming everything feels right now. It’s completely normal to struggle with finding joy in activities you once loved after such a significant loss. Maybe we could explore some gentle ways to reconnect with painting or hiking, even if it’s just a tiny step, like setting out your paints or looking at some nature photos. What do you think about trying something small like that?",
+    "client": "It's been really hard. I feel like a part of me is missing, and I can't seem to fill that void. Even the things that used to bring me joy, like reading or going for walks, just don't feel the same anymore. I keep wondering if I'll ever feel truly happy again.",
+    "therapist": "It sounds like you're carrying a heavy weight, and the sense of loss is deeply affecting you. It's completely understandable that the things you once enjoyed don't feel the same without your partner. How have you been coping with these feelings, and are there any small moments or activities that have given you even a tiny bit of comfort or distraction?",
     "condition": "emotion_text_only",
-    "val_t": -0.058399319648742676,
-    "aro_t": 0.24354946613311768,
-    "text_emotion": "Tense"
-  },
-  {
-    "turn": 3,
-    "client": "I appreciate that you're trying to help me reconnect with things I used to enjoy, but it's really hard to even think about painting or hiking right now. It feels like a big step, and I'm worried that if I try and it doesn't feel good, it will just make me feel worse. I don't think I'm ready for that yet.",
-    "therapist": "I completely understand how daunting it can feel to even consider those activities right now. It’s okay to take things at your own pace, and it’s important to be gentle with yourself. Maybe we could think about a different, smaller step that feels more manageable, like looking at some art or nature videos, or even just sitting in a quiet space and reflecting on the memories you have from those activities. What do you think might feel a bit more approachable for you right now?",
-    "condition": "emotion_text_only",
-    "val_t": -0.17744731903076172,
-    "aro_t": 0.15479063987731934,
+    "val_t": -0.2263404130935669,
+    "aro_t": 0.16767621040344238,
     "text_emotion": "Angry"
   },
   {
-    "turn": 4,
-    "client": "I appreciate that you're suggesting smaller steps, but even those feel a bit overwhelming right now. I know it’s important to take care of myself, but it's hard to find the motivation when I feel so stuck and alone. Maybe I could try something really simple, like just looking at some photos of places I used to enjoy, but I'm not sure if that will make a difference.",
-    "therapist": "I totally understand how even the smallest steps can feel overwhelming right now. It’s okay to take it slow and be gentle with yourself. Looking at photos of places you used to enjoy could be a gentle way to start, and it’s okay if it feels like a small step. What do you think might help you feel a bit more connected or grounded as you look at those photos? Maybe there’s a specific memory or feeling you’d like to focus on?",
+    "turn": 3,
+    "client": "Most days, I just try to get through the motions. I don't really have much energy for anything, but sometimes I'll talk to a friend or watch a movie to take my mind off things for a bit. It's not much, but it helps a little. I just feel so alone and like I'm not moving forward.",
+    "therapist": "It sounds like you're doing the best you can to get through each day, and even small things like talking to a friend or watching a movie can provide a bit of relief. It's completely normal to feel stuck and alone after such a significant loss. What are some thoughts that come up for you when you feel like you're not moving forward?",
     "condition": "emotion_text_only",
-    "val_t": -0.02064061164855957,
-    "aro_t": 0.09977209568023682,
+    "val_t": -0.06160855293273926,
+    "aro_t": 0.020660042762756348,
     "text_emotion": "Neutral"
+  },
+  {
+    "turn": 4,
+    "client": "When I feel like I'm not moving forward, I often think that I'll never be able to feel happy or whole again. It's like I'm stuck in this endless cycle of grief, and I don't see a way out. I know it's not healthy to think like this, but it's hard to shake those thoughts.",
+    "therapist": "It's completely understandable to have those thoughts, especially when you're navigating such a profound loss. It sounds like the grief is weighing heavily on you, and it's natural to feel stuck and unsure about the future. Have you noticed any moments, no matter how small, where you felt a glimmer of hope or a tiny step forward? Even the smallest shifts can be significant.",
+    "condition": "emotion_text_only",
+    "val_t": -0.28613734245300293,
+    "aro_t": 0.08749246597290039,
+    "text_emotion": "Sad"
   },
   {
     "turn": 5,
-    "client": "I appreciate that, Luna. It does feel a bit overwhelming, but I can try looking at those photos. I think focusing on the warmth and comfort of those memories could help, but it's hard because a lot of those places and people feel far away now. I worry that it might just make me feel more isolated.",
-    "therapist": "I understand that those memories can bring both warmth and a sense of distance, which can be really tough. It’s completely normal to feel a mix of emotions, and it’s okay to take it one step at a time. Maybe as you look at those photos, you can focus on the positive sensations and feelings they bring, even if they’re small. What do you think might help you feel a bit more connected to those positive aspects, even if the people and places feel far away?",
+    "client": "I appreciate you asking, Luna. It's hard to think of many moments like that, but there have been a couple of times when I felt a bit better. Like when a friend surprised me with a meal or when I found a photo of us that made me smile for a moment. But those moments are so fleeting, and I can't help but feel like they won't last.",
+    "therapist": "It's really meaningful that you're able to recognize those moments, even if they feel fleeting. Those small moments of connection and happiness, like a friend's gesture or a cherished memory, can be important signs that you're still capable of experiencing positive feelings. What do you think it would take for you to hold onto those moments a bit longer, or to create more of them in your daily life?",
     "condition": "emotion_text_only",
-    "val_t": -0.10475671291351318,
-    "aro_t": 0.05218815803527832,
-    "text_emotion": "Neutral"
+    "val_t": 0.05536448955535889,
+    "aro_t": 0.13965833187103271,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I appreciate that, but it’s hard to focus on the positive when the distance and the passage of time feel so overwhelming. I keep thinking about how much has changed and how I can't go back to those moments. It feels like trying to grasp at something that’s slipping away.",
-    "therapist": "I can really hear how much the passage of time and the changes in your life are weighing on you. It’s completely understandable to feel like those moments are slipping away, and it’s natural to struggle with focusing on the positive when the present feels so different. What do you think might help you find a sense of grounding or comfort, even if just for a moment, despite the feelings of distance and change?",
+    "client": "I don't know if I can hold onto those moments longer. It feels like as soon as something good happens, the sadness just floods back in. Creating more of those moments sounds nice, but it's hard to know where to start, especially when I feel so drained and alone most of the time.",
+    "therapist": "It sounds like you're really struggling to hold onto those positive moments, and the sadness does come flooding back quickly. That must be incredibly challenging. It's okay to feel unsure about where to start, especially when you're feeling drained and alone. Could we explore some small, manageable steps that might help you create or notice more of those positive moments, even if they're just tiny steps?",
     "condition": "emotion_text_only",
-    "val_t": -0.06673800945281982,
-    "aro_t": 0.13787603378295898,
+    "val_t": -0.18162751197814941,
+    "aro_t": 0.1568070650100708,
     "text_emotion": "Angry"
   },
   {
     "turn": 7,
-    "client": "I appreciate that, Luna. It’s just hard to find that grounding when everything feels so different and distant. I’ve tried a few things, like meditation and journaling, but they don’t seem to make a big difference. I guess I’m just not sure what would really help me feel more connected to the present and to myself.",
-    "therapist": "I completely understand how challenging it can be to find that sense of grounding, especially when the usual techniques don’t seem to make a big difference. It’s okay to feel unsure about what might help right now. Sometimes, just acknowledging and accepting those feelings can be a form of grounding in itself. What do you think might be a small, manageable way to connect with the present, even if it’s just for a few moments? Maybe there’s a sensory experience, like listening to a favorite song or feeling the warmth of a cup of tea, that could help?",
+    "client": "I appreciate your understanding, Luna. I guess I can try to think of some small steps, but it feels overwhelming. I worry that anything I try won't make a difference, and I don't want to set myself up for disappointment.",
+    "therapist": "I completely understand how overwhelming it can feel to even think about taking steps, especially when you're worried about disappointment. It's natural to feel that way. Maybe we can start by identifying one very small, manageable thing you could try, just to see how it feels. What do you think about that?",
     "condition": "emotion_text_only",
-    "val_t": 0.03005516529083252,
-    "aro_t": 0.057585835456848145,
-    "text_emotion": "Neutral"
+    "val_t": -0.060628652572631836,
+    "aro_t": 0.16054296493530273,
+    "text_emotion": "Tense"
   },
   {
     "turn": 8,
-    "client": "I appreciate that, Luna. It’s just hard sometimes to find something that really works. I’ve tried listening to music and drinking tea, but it feels like those moments are so fleeting. I don’t know, maybe I’m just not good at grounding myself.",
-    "therapist": "I can really hear how challenging it is to find techniques that consistently help you feel grounded. It’s completely normal to have days where even the things you usually enjoy feel fleeting. Sometimes, it’s about finding small, repeated moments of connection that can add up over time. What do you think might be a simple routine or activity you could try to incorporate more regularly, even if it’s just a brief moment of mindfulness or a short walk?",
+    "client": "I think it's a good idea to start small, but I'm still not sure what that would look like for me. It feels like anything I try might just end up making me feel worse. But I'm willing to give it a shot if you can help me find something that feels doable.",
+    "therapist": "It's really brave of you to be open to trying something small, even with those worries. Let's think of something that feels gentle and manageable. How about starting with something that doesn't require a lot of energy, like setting aside a few minutes each day to do something that used to bring you a tiny bit of comfort or joy, like looking at a photo album or listening to a favorite song? What do you think about that?",
     "condition": "emotion_text_only",
-    "val_t": -0.10229945182800293,
-    "aro_t": 0.06247913837432861,
-    "text_emotion": "Neutral"
+    "val_t": 0.05073714256286621,
+    "aro_t": 0.1744154691696167,
+    "text_emotion": "Tense"
   },
   {
     "turn": 9,
-    "client": "I get what you're saying, but it feels like even the small things don't bring me much relief. A short walk or a moment of mindfulness sounds good in theory, but it's hard to actually follow through when I'm feeling so overwhelmed and disconnected. I worry that it won't make a difference, and then I'll just feel more frustrated.",
-    "therapist": "I can really understand how overwhelming and disconnected you’re feeling right now. It’s completely normal to struggle with following through on even small steps when you’re in such a tough place. It’s okay to feel skeptical about whether these things will help, and it’s important to be gentle with yourself. Maybe we could explore what might make it a bit easier to try these small steps, or if there’s another way to approach them that feels more manageable. What do you think might help you feel a bit more supported in trying these things?",
+    "client": "That sounds doable, Luna. I think I could try setting aside a few minutes to look at some photos or listen to a song. It feels like a small enough step that I might actually be able to follow through. I just hope it helps me feel a little better, even if it's just for a short time.",
+    "therapist": "That's a great start, and I'm glad it feels doable for you. Even small steps can make a difference, and it's okay to hope for a little bit of comfort, even if it's just for a short time. How about we set a specific time for this activity, like after dinner or before bed, to help you build a gentle routine? What time might work best for you?",
     "condition": "emotion_text_only",
-    "val_t": -0.3242764472961426,
-    "aro_t": 0.17505896091461182,
-    "text_emotion": "Angry"
+    "val_t": 0.12255632877349854,
+    "aro_t": 0.05715024471282959,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 10,
-    "client": "I appreciate that, Luna. It’s just hard to see how these small steps will make a difference when I feel so stuck and alone. I guess I’m worried that even if I try, I won’t see any real change, and that just makes me more discouraged.",
-    "therapist": "I understand how difficult it is to see the value in small steps when you feel so stuck and alone. It’s completely normal to worry that trying won’t make a difference, and that can be really discouraging. Maybe we can focus on the process rather than the outcome for now. What if we try to approach these small steps as a way to be kind to yourself, rather than expecting a big change right away? How do you feel about that idea?",
+    "client": "I think setting a specific time could help. Maybe I'll try it after dinner, when I usually have some quiet time. It feels like a good way to end the day on a slightly more positive note, even if it's small. I'll give it a try and see how it goes.",
+    "therapist": "That sounds like a great plan, and I'm glad you found a time that feels right for you. Ending the day with a small, positive activity can be a gentle way to bring a bit more comfort into your routine. How about we check in next time to see how it goes and explore any other small steps you might feel ready to take?",
     "condition": "emotion_text_only",
-    "val_t": -0.2323673963546753,
-    "aro_t": 0.06448829174041748,
-    "text_emotion": "Sad"
+    "val_t": 0.166337251663208,
+    "aro_t": 0.013869285583496094,
+    "text_emotion": "Happy"
   }
 ]

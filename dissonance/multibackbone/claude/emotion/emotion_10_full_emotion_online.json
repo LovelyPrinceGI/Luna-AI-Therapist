@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "I've been feeling completely stretched thin lately, like no matter what I do, I'm failing somewhere. I work these long shifts as a nurse, and then I come home to two little kids who need everything from me, and my partner is deployed so there's no one to share any of it with. I honestly don't know if talking about it is going to change the fact that I still have to go back and do it all again tomorrow.",
-    "therapist": "What you're carrying right now is genuinely enormous — holding life-and-death responsibility at work, then coming home to be the sole anchor for your kids, all while missing your partner and grieving that shared support. It makes complete sense that you'd wonder what talking can actually *do* when the weight doesn't go anywhere overnight, and I want to honor that honesty rather than brush past it. \n\nI'm not here to promise this changes tomorrow's shift or bedtime routine, but I am curious — in the middle of all that stretching, what does \"failing\" actually look like to you, and whose voice does it sound like?",
+    "client": "I've been feeling completely stretched thin lately, like no matter what I do, I'm failing at everything at once. I'm a nurse, so my shifts are already exhausting, and then I come home to two little kids who need me fully present, but I have nothing left to give. My partner is deployed right now, so there's no one to share any of this with, and honestly I'm not even sure talking about it is going to change the fact that my life is just... too much right now.",
+    "therapist": "What you're carrying right now sounds genuinely overwhelming — the weight of caring for others at work, coming home to your kids with nothing left in the tank, and doing all of it without your partner beside you is an enormous amount for one person to hold. It makes complete sense that you'd feel stretched to your limit, and I want you to know that just showing up here and putting words to it takes real courage. I'm curious — when you imagine what \"too much\" looks like for you, is there one part of this that feels the heaviest right now?",
     "condition": "emotion_text_only",
-    "val_t": -0.29806554317474365,
-    "aro_t": 0.10978162288665771,
-    "text_emotion": "Sad"
-  },
-  {
-    "turn": 2,
-    "client": "That question kind of stopped me for a second, because I don't think anyone's ever asked it that way before. When I picture failing, it's like... a kid crying and me just standing there empty, or making a wrong call at work and someone not making it home. And honestly, the voice sounds like mine, but it's also a little bit my partner's, which is the part that really gets me, because they're not even here to actually say any of those things.",
-    "therapist": "There's something really painful in what you just noticed — that the harshest critic in your head has borrowed your partner's voice, someone you love and miss, and is using it against you in moments when you're already running on empty. It's worth sitting with the fact that you *don't* just stand there empty — you showed up for that shift, you came home, you're here right now trying to understand yourself better, which is the opposite of the failure you're picturing. I'm wondering, if your partner were actually here and saw the full picture of what you're managing, do you think they'd truly be saying what that voice tells you?",
-    "condition": "emotion_text_only",
-    "val_t": -0.24584031105041504,
-    "aro_t": 0.1711188554763794,
+    "val_t": -0.352280855178833,
+    "aro_t": 0.16700220108032227,
     "text_emotion": "Angry"
   },
   {
-    "turn": 3,
-    "client": "I want to say no, they wouldn't say that, but honestly I'm not sure anymore. We ended things on such a bad note, and some of what they said at the end was really harsh, so part of me thinks maybe that voice is just... accurate. It's hard to separate what they actually believed about me from what was just said in anger.",
-    "therapist": "That distinction you're trying to make — between what was said in a heated, painful moment versus what someone truly believes about you — is one of the most difficult and important things to untangle, and the fact that you're even questioning it rather than just accepting that voice as truth shows real insight. Words said in anger are often more about the pain of the person saying them than an accurate verdict on who you are, but I understand why they'd stick, especially when you're exhausted and your partner isn't here to give you any other data. What do you remember about who you were in that relationship *before* things got hard — is there another version of how they saw you that also lives in your memory?",
+    "turn": 2,
+    "client": "Honestly, the heaviest part is probably the guilt I feel around my kids. I come home after a twelve-hour shift where I've been patient and present for strangers all day, and then my daughter asks me to play and I just... can't. I snap at her sometimes, or I just zone out, and then I lie awake at night hating myself for it.",
+    "therapist": "That guilt you're describing — lying awake replaying those moments — sounds like it's quietly eating at you, even as you're already running on empty. I want to gently offer something: a person who didn't deeply love their daughter wouldn't lose sleep over this, and the very fact that it hurts so much speaks to what a caring mother you are. When that critical voice shows up at night telling you you're failing her, what does it say — and do you ever find yourself questioning whether it's actually telling you the truth?",
     "condition": "emotion_text_only",
-    "val_t": -0.24591588973999023,
-    "aro_t": 0.17518103122711182,
+    "val_t": -0.43844032287597656,
+    "aro_t": 0.14809870719909668,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 3,
+    "client": "The voice basically says I'm selfish, that I chose this career knowing it was demanding and now my kids are paying the price for that choice. I hear what you're saying about the guilt meaning I care, and I want to believe that, but it almost feels like a convenient reframe that lets me off the hook too easily. Like, caring about something doesn't mean you're actually doing it right, you know?",
+    "therapist": "You're pushing back on easy comfort, and honestly that's a sign of real intellectual honesty — you're not looking for someone to just make you feel better, you want something true. So let's take that voice seriously for a moment: it says you *chose* a demanding career and your kids are paying the price, but I'd gently ask — is a mother who works exhausting shifts to provide for her family, who comes home and *still* tries even when she's depleted, actually the same thing as a selfish person? What evidence would you need to see to know the difference between \"I'm genuinely failing my kids\" and \"I'm a good mother in an impossibly hard season\"?",
+    "condition": "emotion_text_only",
+    "val_t": -0.24695956707000732,
+    "aro_t": 0.18747735023498535,
     "text_emotion": "Angry"
   },
   {
     "turn": 4,
-    "client": "I mean... yeah, there was a time when they used to call me their \"steady one,\" like I was this anchor for them when things got chaotic in their life. But it's hard to hold onto that right now because it feels so far away, almost like it happened to different people. And honestly, part of me wonders if even that was real, or if I was just useful to them at the time and they eventually saw through to what I actually am.",
-    "therapist": "That word \"steady\" is so significant, because it's actually what you're still doing right now — holding everything together for your kids, your patients, yourself — even while you're quietly wondering if any of it counts. The fear that you were only ever \"useful\" rather than truly valued is a painful thought, but I want to gently point out that it's a thought, not a fact, and it seems to show up most loudly when you're depleted and don't have your partner's present-day voice to counter it. I'm curious — if a close friend described themselves the way you just described yourself, as someone who might have just been \"seen through,\" what would you want them to consider that they might be missing?",
+    "client": "That question actually stopped me for a second, because I don't know that I've ever thought about it that way. I guess the evidence I'd need would be like... my kids feeling loved and secure, not just surviving but actually okay. But that's the problem, I don't really know if they are, because I'm too exhausted to even pay close enough attention to notice.",
+    "therapist": "There's something really significant in what you just noticed — you actually paused, which tells me that question landed somewhere real in you. And what you're describing now feels less like selfishness and more like a exhausted mother who *wants* to know her kids are okay but is too depleted to feel confident she can see it clearly. I'm wondering — if you were to pick one small, specific moment from the last week, is there anything your daughter did or said that might actually be a little piece of evidence about how she's doing?",
     "condition": "emotion_text_only",
-    "val_t": 0.010486602783203125,
-    "aro_t": 0.1639615297317505,
-    "text_emotion": "Tense"
+    "val_t": -0.0729513168334961,
+    "aro_t": 0.09001243114471436,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 5,
-    "client": "I'd probably tell a friend that they're being too hard on themselves, that one relationship not working out doesn't mean they were never really loved. But when I try to turn that around on myself, it just... doesn't land the same way. It feels like I'm just saying the words without actually believing them, like there's this wall between the logic and whatever I actually feel inside.",
-    "therapist": "What you're describing — knowing the right words but feeling locked out of actually *believing* them — is one of the most common and frustrating experiences people bring to this kind of work, and it doesn't mean you're doing it wrong. That wall isn't a sign that the compassion isn't true; it's often a sign that the wound is deeper than logic can reach on its own, and that it needs something more than just reframing to slowly let the warmth in. I'm wondering, is there a moment — even a small one, recent or distant — where you felt something that didn't have to be argued into you, something that just felt real?",
+    "client": "There was this moment two days ago where she crawled into my lap while I was just sitting there staring at nothing, and she said \"you smell like work but I still like you.\" I almost cried when she said it, and I guess that's something, but I'm scared that I'm just going to hold onto that one moment and use it to avoid looking at the bigger picture. Like, one sweet moment doesn't undo all the times I've been checked out.",
+    "therapist": "That moment your daughter gave you — \"you smell like work but I still like you\" — is actually profound, because a child who feels unsafe or unloved doesn't spontaneously climb into their parent's lap and offer something that tender. I hear your worry that you're using it as a way to avoid harder truths, and that's worth staying curious about, but I'd also gently challenge the assumption that one moment is somehow *less real* than all the checked-out ones — your daughter was telling you something true about how she experiences you. What if both things could be real at once — that you've been struggling *and* that she still feels your love — rather than one canceling the other out?",
     "condition": "emotion_text_only",
-    "val_t": -0.17354702949523926,
-    "aro_t": 0.11244475841522217,
-    "text_emotion": "Angry"
+    "val_t": -0.08693110942840576,
+    "aro_t": 0.3338632583618164,
+    "text_emotion": "Tense"
   },
   {
     "turn": 6,
-    "client": "I have to think about that for a second, because my first instinct is to say no, nothing feels real anymore. But there was this one moment a few weeks ago when my neighbor's dog ran up to me on the street and just... was so happy to see me, tail going crazy, and for like thirty seconds I wasn't thinking about anything heavy. I don't know if that counts, or if it's kind of pathetic that a dog is the best example I can come up with.",
-    "therapist": "It absolutely counts, and there's nothing pathetic about it — that dog didn't care about your shifts or your relationship or any of the weight you're carrying, it just responded to *you*, and something in you was able to receive that for thirty seconds without the wall getting in the way. That's actually really important information, because it tells us the capacity for feeling something real and good isn't gone, it's just been buried under exhaustion and grief and that relentless inner critic. I'm curious what it would mean for you to treat that moment not as a small or embarrassing exception, but as evidence of something that's still alive in you?",
+    "client": "I think I can intellectually accept that both things can be true at the same time, but emotionally it doesn't quite stick yet, if that makes sense. It's like I know the logic of it but my brain keeps defaulting back to the worst version of myself as the most accurate one. I wonder if that's just who I am at this point, or if that's something that can actually change.",
+    "therapist": "What you're describing — knowing something logically but not being able to *feel* it as true — is one of the most common and frustrating experiences people bring to therapy, and it's actually not a character flaw, it's just how deeply worn-in some thought patterns become over time, especially when you've been running on survival mode for so long. The fact that your brain defaults to the worst version of yourself isn't who you *are* — it's a habit your mind learned, probably because it felt protective somehow. And habits, even deeply ingrained ones, genuinely can change with the right kind of practice — so I'm curious, when did you first start to believe that the harshest version of yourself was also the most honest one?",
     "condition": "emotion_text_only",
-    "val_t": -0.15112972259521484,
-    "aro_t": 0.21737515926361084,
-    "text_emotion": "Angry"
+    "val_t": -0.13094985485076904,
+    "aro_t": 0.05193221569061279,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I hear what you're saying, and part of me wants to hold onto that idea, like maybe it does mean something. But then there's this other voice that jumps in and says it was just a dog, it doesn't count as a real connection, and I'm grasping at straws if I think one random moment in a parking lot says anything meaningful about me. I guess I'm scared that if I let myself believe the capacity is still there, and then nothing actually changes, that's going to hurt a lot more than just staying numb.",
-    "therapist": "What you just named is so honest and so human — that staying numb can feel like the safer bet, because hope has a cost, and you've already been paying so much. But I want to reflect something back: that voice that says \"it was just a dog, it doesn't count\" is the same voice that's been calling you a failure, borrowing your partner's harshest words — and we've already started to question whether that voice is a reliable narrator. The fear of hoping and being disappointed is real and worth taking seriously, but I'm wondering if numbness is actually protecting you right now, or if it's also quietly costing you something?",
+    "client": "That question is hitting somewhere I wasn't expecting, because honestly I think it started pretty young, like there was this message I got growing up that being hard on yourself meant you were serious and responsible, and people who let themselves off the hook were just weak or lazy. So somewhere along the way I think I started confusing self-criticism with self-awareness, like the harsher the thought, the more truthful it must be. I never really questioned that until just now, which is a strange feeling.",
+    "therapist": "What you just uncovered is genuinely significant — that equation you learned early on, that harshness equals honesty and self-compassion equals weakness, has been running quietly in the background your whole life, and it makes so much sense that it's shaped how you talk to yourself now. That moment of questioning it for the first time, even if it feels strange, is actually the beginning of something important — because if that belief was *learned*, it can also be *unlearned*. I'm curious, as you sit with that realization right now, what does it feel like to consider that being gentler with yourself might not be weakness at all, but something you've actually earned?",
     "condition": "emotion_text_only",
-    "val_t": -0.34317517280578613,
-    "aro_t": 0.180261492729187,
+    "val_t": -0.11761021614074707,
+    "aro_t": 0.09911692142486572,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I hate that you're right about that voice, because it means I can't just dismiss what you're saying. But when you ask what numbness is costing me... I don't know, it feels like if I actually let myself grieve losing him properly, I'm admitting that that little corner of my life where I felt unconditionally loved is just gone now. And that's terrifying in a way I don't really have words for.",
-    "therapist": "What you just said took real courage — naming that grief isn't just about losing a relationship, it's about losing the one place where you felt loved without having to earn it, without performing or holding everything together. That kind of loss deserves to be grieved properly, and the terror you're feeling makes complete sense, because that corner of your life mattered deeply. I want to sit with you in that for a moment before we try to do anything with it — can you tell me a little more about what that feeling of being unconditionally loved actually felt like when it was there?",
+    "client": "Honestly, the word \"earned\" is doing something unexpected to me, because I never thought about it as something I could deserve, I always thought of self-compassion as something you either naturally had or you didn't. But there's also this part of me that's a little resistant, like if I start being gentler with myself, what's going to keep me accountable, what's going to make sure I actually show up for my kids and do better. I'm not sure I trust myself without that harsh voice keeping me in line.",
+    "therapist": "That fear makes a lot of sense — the harsh voice has felt like your engine for so long that softening it feels risky, like you might just... stop trying. But I want to offer a gentle challenge to that: think about how that voice has actually been working lately — has it made you a more present mother, or has it mostly just kept you awake at night feeling worse about yourself, without actually giving you more to give? What if accountability didn't have to come from self-punishment, but could come from something that actually left you with *more* capacity rather than less?",
     "condition": "emotion_text_only",
-    "val_t": -0.3709937334060669,
-    "aro_t": 0.3146536350250244,
+    "val_t": -0.19217348098754883,
+    "aro_t": 0.18670618534088135,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "It felt like... I don't know, like I could just exist without constantly checking whether I was too much or not enough. Like I didn't have to manage how I came across or worry that one wrong thing would make them pull away. I haven't felt that in so long that I'm honestly not sure I'd even recognize it anymore if it showed up again.",
-    "therapist": "What you just described — that feeling of being able to simply *exist* without auditing yourself — is one of the most fundamental human needs there is, and it's quietly heartbreaking that it's felt so absent for so long that it's become almost unrecognizable to you. I want to gently point out that you just described it with real clarity and tenderness, which suggests some part of you still knows exactly what it feels like, even if it feels out of reach right now. I'm wondering, when you think about that quality — being able to exist without managing yourself — do you ever catch any glimpses of it, even briefly, maybe in unexpected places like a certain moment with your kids, or somewhere else in your life?",
+    "client": "When you put it that way, I have to admit the harsh voice hasn't actually made me more present, it's mostly just added another layer of exhaustion on top of everything else. But I genuinely don't know what accountability without self-punishment even looks like in practice, it's so abstract to me right now. Like, can you give me a concrete example, because I'm worried this is going to stay as just a nice idea that doesn't actually translate into my real life at midnight when I'm spiraling?",
+    "therapist": "You're asking exactly the right question, and I love that you're already anticipating the gap between insight and 3am reality — that's not resistance, that's wisdom. So here's something concrete: instead of the voice that says \"I'm a terrible mother who snapped at her daughter,\" accountability without punishment sounds more like \"I was depleted tonight and I didn't show up how I wanted to — what does she need from me tomorrow that I can actually give?\" It's still honest, it still looks directly at the behavior, but it points *forward* toward repair rather than just circling back to reinforce the worst version of yourself. Does that feel like something you could imagine trying, even just as an experiment the next time the spiral starts?",
     "condition": "emotion_text_only",
-    "val_t": -0.09283614158630371,
-    "aro_t": 0.15180277824401855,
+    "val_t": -0.24056267738342285,
+    "aro_t": 0.14740586280822754,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I have to think about that for a second, because my first instinct is to say no, not really. But actually... sometimes when I'm driving my kids to school in the morning and they're just chatting in the back seat about something completely random, I notice I'm just kind of there, listening, not thinking about whether I'm being a good enough parent in that moment. It's small, and it goes away fast, but yeah, I guess that's something.",
-    "therapist": "That moment in the car is not small — that *is* the thing you said you couldn't recognize anymore, and it's happening between you and your kids, which means it didn't disappear when that relationship ended, it just moved. There's something really meaningful in the fact that it shows up when you're not trying, when you're just present and they're just being themselves and for a moment nobody needs anything to be different. I'm curious what it would feel like to start treating those moments not as accidents that go away too fast, but as proof that the capacity to simply exist — without checking yourself — is still yours?",
+    "client": "I can see how that reframe is different, and the forward-facing part of it actually does feel less crushing than just sitting in the guilt. But I'm worried that at midnight when I'm already spiraling, I won't have the presence of mind to catch myself and switch tracks like that, because exhaustion makes everything harder to access. Can I actually build that kind of skill when I'm this depleted, or is this something that only works when you're already doing okay?",
+    "therapist": "The fact that you're asking this question actually tells me something important — you're not looking for a magic insight, you're looking for something that can hold up under real conditions, and that's exactly the right instinct. The honest answer is that yes, this skill *can* be built even when you're depleted, but it works best when you practice it in the smaller moments *before* midnight, so that it becomes more automatic and requires less effort when you're running on empty — almost like building a path through the woods by walking it repeatedly in daylight, so you can find it in the dark. I'm wondering if we could think together about one small, low-effort version of that forward-facing question you could start practicing this week — something simple enough that even an exhausted version of you could reach for it?",
     "condition": "emotion_text_only",
-    "val_t": -0.03068828582763672,
-    "aro_t": 0.10995018482208252,
+    "val_t": -0.08305895328521729,
+    "aro_t": 0.09300863742828369,
     "text_emotion": "Neutral"
   }
 ]

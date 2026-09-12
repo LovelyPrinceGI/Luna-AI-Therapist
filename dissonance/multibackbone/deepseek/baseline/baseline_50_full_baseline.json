@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Lately, I’ve been so anxious about failing those two exams last semester. I keep worrying that I won’t be able to catch up, and it’s making me question whether I’ll even graduate on time. I’m not sure if talking about it will really help—it feels like the problem is just there, no matter what.",
-    "therapist": "It sounds like those exams have been weighing heavily on your mind, and it’s understandable to feel anxious when something so important feels uncertain. Let’s explore this together—what thoughts come up when you think about catching up and graduating on time?",
+    "client": "I've been really struggling since failing those two exams last semester. The anxiety keeps me up at night worrying that I'll fall even further behind and won't graduate with my friends. I know I should be studying, but when I try, I just freeze up thinking about how much I've already messed up.",
+    "therapist": "I hear how much distress you're feeling about those exams and how it's affecting both your sleep and your ability to focus now. It makes sense that you'd feel this way after something that mattered so much to you didn't go as planned. What thoughts tend to come up most strongly when you notice yourself freezing during study sessions?",
     "condition": "baseline",
-    "val_t": -0.33680856227874756,
-    "aro_t": 0.1814730167388916,
+    "val_t": -0.49529731273651123,
+    "aro_t": 0.22230732440948486,
     "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "I keep thinking about how far behind I am, and it feels overwhelming. I worry that even if I try my hardest, I won’t be able to catch up, and I’ll end up disappointing everyone, especially my family. It’s like this constant pressure that makes it hard to even focus on studying.",
-    "therapist": "It sounds like the pressure you’re feeling is not just about academics but also tied to the fear of letting others down, which can make it even harder to focus. What do you think might happen if you allowed yourself to take small, manageable steps instead of trying to tackle everything at once?",
+    "client": "When I try to study, I keep thinking, \"What's the point? I'm already so far behind, I'll never catch up.\" It feels like no matter how hard I try, I'm destined to fail again. I know that's probably not true, but it's hard to shake that feeling.",
+    "therapist": "It sounds like these thoughts of hopelessness are really overwhelming you right now, and that must feel incredibly discouraging when you're trying to push forward. I notice you recognize there might be another side to this story though - what small pieces of evidence might challenge this idea that you're \"destined\" to fail?",
     "condition": "baseline",
-    "val_t": -0.3742702007293701,
-    "aro_t": 0.22853636741638184,
-    "text_emotion": "Angry"
+    "val_t": -0.2720205783843994,
+    "aro_t": 0.08933091163635254,
+    "text_emotion": "Sad"
   },
   {
     "turn": 3,
-    "client": "I guess the idea of small steps makes sense logically, but when I think about actually doing it, I panic that it won't be enough. My parents expect straight A's, and if I don't meet that standard all at once, I feel like I'm already failing them. The guilt just overwhelms me before I even start.",
-    "therapist": "That guilt sounds like it's carrying so much weight for you, almost as if your worth is tangled up in those perfect grades. I wonder what it might feel like to separate your parents' expectations from your own sense of progress for a moment—how would you define \"enough\" for yourself right now?",
+    "client": "Well, I guess I have passed other classes before, and there are some topics I actually understand pretty well. But those feel like exceptions, not the rule. It's hard to focus on those successes when I'm so worried about failing again. Plus, I feel like everyone else is doing better than me, which makes me feel even worse about myself.",
+    "therapist": "It's really thoughtful of you to recognize those past successes, even if they feel like exceptions right now - that shows some important self-awareness. When you mention comparing yourself to others, I'm curious, what might be different about your situation that makes direct comparisons less helpful?",
     "condition": "baseline",
-    "val_t": -0.38229691982269287,
-    "aro_t": 0.18882966041564941,
-    "text_emotion": "Angry"
+    "val_t": -0.3313256502151489,
+    "aro_t": 0.08357763290405273,
+    "text_emotion": "Sad"
   },
   {
     "turn": 4,
-    "client": "Honestly, the idea of separating my parents' expectations from my own progress feels impossible. Every time I get a B, I hear my dad's voice saying \"Is this really your best?\" in my head. Even if I tell myself it's fine, the guilt creeps in like I'm letting them down. \n\nHow am I supposed to define \"enough\" when their approval has always been the measuring stick? It’s like my brain refuses to believe my own standards could matter as much.",
-    "therapist": "It sounds like your dad's voice has become so ingrained that it's hard to distinguish where his expectations end and your own begin—that must feel exhausting to carry. What might it look like to gently challenge that voice by asking, \"What would *compassion* sound like in this moment?\"",
+    "client": "I guess everyone's dealing with their own stuff, and I don't really know what's going on with them. But I still feel like I should be able to keep up, you know? It's frustrating because I want to do better, but I keep getting stuck in these negative thought loops that make it hard to focus. I feel like I'm my own worst enemy sometimes.",
+    "therapist": "You're showing such thoughtful insight here, recognizing both that others have their own challenges and that you're being quite hard on yourself. It's clear you genuinely want to improve, even though these negative thought patterns feel overwhelming right now. What do you think might help interrupt those thought loops when you notice them starting?",
     "condition": "baseline",
-    "val_t": -0.25776660442352295,
-    "aro_t": 0.15023422241210938,
+    "val_t": -0.393039345741272,
+    "aro_t": 0.16288161277770996,
     "text_emotion": "Angry"
   },
   {
     "turn": 5,
-    "client": "I get what you're saying about compassion, but honestly, the idea of being kind to myself just makes me feel guilty. Like if I'm not constantly pushing myself, I'm failing or being lazy. My dad always said self-compassion was just an excuse for weakness. \n\nIt's exhausting, yeah, but I don't know how to separate that voice from what I actually believe anymore. When I try to be gentle with myself, it just feels wrong, like I'm betraying some unspoken rule.",
-    "therapist": "It sounds like your dad’s perspective on self-compassion has become so deeply rooted that even considering kindness toward yourself feels like breaking a rule you’ve internalized. I wonder what it might feel like to explore small moments where you could gently question that rule—like asking, \"What would it mean to see self-compassion as strength, not weakness?\"",
+    "client": "I've tried a few things like deep breathing or taking short walks, but sometimes I just end up thinking about how much time I'm wasting instead of studying. It feels like no matter what I do, I can't win. Maybe I need to try something different, but I'm not sure what would actually help.",
+    "therapist": "It sounds like you're putting in real effort to manage these thoughts, even though it feels frustrating when the strategies don't work as well as you'd hoped. I wonder if we could explore some small, manageable study goals that might help you feel less overwhelmed while still making progress. What would a \"good enough\" study session look like for you?",
     "condition": "baseline",
-    "val_t": -0.23532378673553467,
-    "aro_t": 0.11577069759368896,
-    "text_emotion": "Angry"
+    "val_t": -0.06183207035064697,
+    "aro_t": 0.046837687492370605,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 6,
-    "client": "I get what you're saying, but it's like... whenever I try to be kinder to myself, I immediately hear my dad's voice in my head saying I'm being lazy or making excuses. Even thinking about self-compassion makes me feel guilty, like I'm betraying how he raised me. \n\nI don't know if I can just flip a switch and see it as strength when my whole life I've been taught the opposite. It feels like going against everything that's kept me disciplined and successful so far.",
-    "therapist": "It makes complete sense that this feels so conflicting—when self-criticism has been your motivator for so long, shifting that mindset can feel like losing your compass. What if we explored this slowly—where might there be one tiny area where you could experiment with self-kindness without it feeling like you’re abandoning discipline entirely?",
+    "client": "A \"good enough\" study session sounds nice in theory, but I feel like I'd just end up thinking it wasn't good enough anyway. I have this habit of setting goals and then beating myself up when I don't meet them perfectly. It's hard to imagine being okay with anything less than perfect, even though I know that mindset isn't helping me.",
+    "therapist": "It sounds like this perfectionist mindset has been really tough on you, creating a cycle where you feel stuck between wanting to do your best and feeling frustrated when things aren't perfect. I wonder if we could explore together what \"good enough\" might look like in practice, without judgment or self-criticism. What would it feel like to celebrate small steps forward, even if they're not perfect?",
     "condition": "baseline",
-    "val_t": -0.29180002212524414,
-    "aro_t": 0.1488856077194214,
-    "text_emotion": "Angry"
+    "val_t": -0.10355770587921143,
+    "aro_t": 0.09755051136016846,
+    "text_emotion": "Neutral"
   },
   {
     "turn": 7,
-    "client": "I get what you're saying, but the idea of being kind to myself just makes me anxious. Like if I go easy on myself even a little, I'm worried I'll completely lose all my productivity and just become lazy. That critical voice in my head is the only thing that keeps me going sometimes.",
-    "therapist": "It sounds like that critical voice feels like a safety net—like without it, you worry you might lose all momentum, which is understandably scary. What if we explored how productivity and self-kindness might coexist, rather than seeing them as opposites?",
+    "client": "Celebrating small steps feels... uncomfortable, honestly. It's like I don't deserve to feel good about something unless it's perfect. I know that's probably not healthy, but it's hard to change that mindset when I've been this way for so long. I worry that if I start accepting \"good enough,\" I'll just get lazy and stop trying altogether.",
+    "therapist": "You're showing such thoughtful self-awareness about how this perfectionist mindset affects you, and I can hear how uncomfortable it feels to imagine letting go of those high standards. It makes sense that you'd worry about becoming complacent - that shows how much you care about doing well. What do you think might help you balance striving for excellence while also being kind to yourself in the process?",
     "condition": "baseline",
-    "val_t": -0.1628398895263672,
-    "aro_t": 0.17299365997314453,
+    "val_t": -0.22820353507995605,
+    "aro_t": 0.1146320104598999,
     "text_emotion": "Angry"
   },
   {
     "turn": 8,
-    "client": "I get what you're saying about productivity and self-kindness coexisting, but it's hard to imagine. When I try to be kinder to myself, it just feels like I'm making excuses to be lazy. The critical voice is what's kept me from completely falling apart all these years. \n\nI worry that if I let up even a little, everything will start slipping through my fingers. Maybe that sounds extreme, but that's how it feels.",
-    "therapist": "It makes sense that this fear feels so real—when that critical voice has been your anchor for so long, the idea of loosening its grip can feel like risking everything. What if we gently explored what \"slipping through your fingers\" actually looks like in reality, rather than in your fears?",
+    "client": "I'm not sure how to balance striving with self-kindness - it feels like those two things conflict with each other. Maybe setting smaller goals would help, but I worry I'll still feel disappointed if I don't exceed them. It's hard to imagine being satisfied with just meeting expectations when I'm used to pushing myself so much harder.",
+    "therapist": "It sounds like you're wrestling with a really important dilemma here - how to maintain your drive while also treating yourself with compassion. That tension between striving and self-kindness is something many people struggle with. What would it feel like to experiment with celebrating meeting expectations, just once, and observing what happens afterward?",
     "condition": "baseline",
-    "val_t": -0.18836486339569092,
-    "aro_t": 0.08428239822387695,
+    "val_t": -0.1313563585281372,
+    "aro_t": 0.08939194679260254,
     "text_emotion": "Angry"
   },
   {
     "turn": 9,
-    "client": "I guess the fear is that if I stop being so hard on myself, I'll become lazy or make huge mistakes. It's like this voice in my head is the only thing keeping me from falling apart. But when you put it that way, it does sound kind of extreme—like I'm either perfect or a complete failure, with no in-between.",
-    "therapist": "It sounds like you’re starting to notice how black-and-white that thinking can be—either perfect or a failure—which is such an important insight. What might it feel like to explore what the \"in-between\" could look like for you, even just a little?",
+    "client": "Experimenting with celebrating meeting expectations feels scary to me. I worry that if I celebrate just meeting expectations, I'll lose my motivation to keep pushing myself. It's like I need that constant pressure to perform better, even though I know it's exhausting me. Maybe I need to find a middle ground, but I'm not sure how to do that without feeling like I'm settling for less than I'm capable of.",
+    "therapist": "It sounds like you're caught between two important values - your desire to achieve and your need for rest and self-compassion. That internal conflict must feel really exhausting to navigate. What might a middle ground look like where you could still feel motivated, but without the constant pressure to exceed every expectation?",
     "condition": "baseline",
-    "val_t": -0.32523512840270996,
-    "aro_t": 0.2180783748626709,
+    "val_t": -0.15935564041137695,
+    "aro_t": 0.23024451732635498,
     "text_emotion": "Angry"
   },
   {
     "turn": 10,
-    "client": "I get what you're saying about the in-between, but it's hard to imagine. When I mess up even a little at work, it feels like the whole project is ruined. The idea of \"good enough\" just makes me anxious—like I'm settling for less than I should be.",
-    "therapist": "It sounds like \"good enough\" feels like a slippery slope toward failure, which can make it incredibly hard to embrace any middle ground. What might happen if we explored what \"good enough\" could look like in a way that still feels aligned with your values and goals, rather than a compromise?",
+    "client": "I guess a middle ground might look like setting realistic goals and being okay with meeting them, without always pushing for more. But honestly, that still feels uncomfortable to me. I worry that if I start accepting \"good enough,\" I'll lose my edge and stop striving altogether. It's hard to imagine finding balance when I've always defined success by going above and beyond.",
+    "therapist": "It sounds like you're taking a really thoughtful approach in considering what balance might look like, even though it feels uncomfortable right now. I hear how much your drive to excel matters to you, and I wonder if we could explore how self-compassion might actually support rather than hinder your goals. What do you think might happen if you tried viewing \"good enough\" as a foundation for growth rather than a limitation?",
     "condition": "baseline",
-    "val_t": -0.2466191053390503,
-    "aro_t": 0.18587422370910645,
-    "text_emotion": "Angry"
+    "val_t": -0.04766058921813965,
+    "aro_t": 0.005002737045288086,
+    "text_emotion": "Neutral"
   }
 ]

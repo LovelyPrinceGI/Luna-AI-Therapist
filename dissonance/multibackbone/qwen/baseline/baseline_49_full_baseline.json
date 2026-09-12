@@ -1,92 +1,92 @@
 [
   {
     "turn": 1,
-    "client": "Hey Luna, I've been really anxious lately. After missing the deadline for my final project, I can't stop thinking about how this is going to impact my overall grade. I feel like I've let myself and everyone else down. I'm not sure if talking about it will really help, but I’m here.",
-    "therapist": "Hi there, I'm so glad you reached out to talk about this. It sounds like you're carrying a lot of worry and disappointment, and it's completely understandable to feel that way after missing a deadline. How have you been coping with these feelings so far?",
+    "client": "Hey Luna, I've been really anxious lately. I just couldn't finish my final project on time, and now I'm worried it's going to tank my entire grade. It feels like everything is falling apart, and I'm not sure how to catch up.",
+    "therapist": "I can really hear how overwhelming this must be for you, and it's completely understandable to feel anxious when things like this happen. What are some of the thoughts that come up for you when you think about your project and your grade?",
     "condition": "baseline",
-    "val_t": -0.08328187465667725,
-    "aro_t": 0.21005332469940186,
-    "text_emotion": "Tense"
+    "val_t": -0.35887134075164795,
+    "aro_t": 0.25695741176605225,
+    "text_emotion": "Angry"
   },
   {
     "turn": 2,
-    "client": "Hi Luna, thanks for understanding. I've been trying to distract myself with other tasks, but it's not really helping. I keep thinking about the consequences and feeling guilty for letting my team down. It's really hard to shake off.",
-    "therapist": "It’s really tough when we feel like we’ve let others down, and it’s natural to want to avoid those uncomfortable feelings. Have you noticed any specific thoughts that come up when you think about the consequences or your team's reaction?",
+    "client": "I keep thinking that I should have managed my time better, and now it's too late to fix it. I feel like I’m letting everyone down, especially my professors and my family. It’s hard to shake off the guilt and the fear that I’ve messed up big time.",
+    "therapist": "It sounds like you're carrying a lot of self-criticism and guilt, which can really add to the anxiety. It's natural to feel this way, but let's try to break it down a bit. Can you think of any evidence that might challenge the idea that it's too late to make any positive changes or that you are letting everyone down?",
     "condition": "baseline",
-    "val_t": -0.1937391757965088,
-    "aro_t": 0.14886033535003662,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 3,
-    "client": "Yeah, I feel really anxious about it. I keep thinking they’re going to be really disappointed in me, and that just makes me want to hide or avoid the situation altogether. It’s hard because I know I should face them, but the fear is so overwhelming.",
-    "therapist": "It’s completely understandable to feel overwhelmed by the fear of disappointing others. It’s a very human reaction to want to avoid situations that make us feel vulnerable. What do you think might happen if you reached out to your team and shared how you’re feeling?",
-    "condition": "baseline",
-    "val_t": -0.42625486850738525,
-    "aro_t": 0.3423391580581665,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 4,
-    "client": "I guess I worry that if I share how I'm feeling, they might think I can't handle my responsibilities or that I'm not as competent as they believe. It's hard because I don't want to be seen as weak or unreliable.",
-    "therapist": "It’s really brave to acknowledge those fears. Worries about being seen as less competent or unreliable are common, especially when we feel we’ve fallen short. How do you think talking to your team might help you, even if it’s a difficult conversation?",
-    "condition": "baseline",
-    "val_t": -0.2745867967605591,
-    "aro_t": 0.03686058521270752,
+    "val_t": -0.467204213142395,
+    "aro_t": 0.14979994297027588,
     "text_emotion": "Sad"
   },
   {
+    "turn": 3,
+    "client": "I guess I could talk to my professor and see if there's any way to turn in the project late or do extra credit. But it feels like a long shot, and I’m not sure they’ll be understanding. Plus, I feel so behind that I don’t even know where to start.",
+    "therapist": "It's great that you're considering reaching out to your professor; that's a proactive step. It's normal to feel uncertain and worried about their response, but sometimes the outcome can be better than we expect. What do you think is the first small step you could take to start addressing the project, even if it feels like a lot to handle?",
+    "condition": "baseline",
+    "val_t": -0.2965664863586426,
+    "aro_t": 0.08182275295257568,
+    "text_emotion": "Sad"
+  },
+  {
+    "turn": 4,
+    "client": "I think the first step would be to organize my notes and outline what I have so far. But it's hard to even start because everything feels so scattered and overwhelming. I don’t want to dive in and then feel like I’m just floundering.",
+    "therapist": "Starting with organizing your notes and outlining what you have is a really good plan. It can help bring some structure and clarity to the situation. What might help you feel a bit more grounded as you begin this process? Maybe breaking it down into even smaller, manageable tasks or setting a specific, short time frame to work on it without worrying about perfection?",
+    "condition": "baseline",
+    "val_t": -0.23756444454193115,
+    "aro_t": 0.19562971591949463,
+    "text_emotion": "Angry"
+  },
+  {
     "turn": 5,
-    "client": "I appreciate you saying that, Luna. It's just hard to imagine how talking to my team will actually help. I feel like they might not understand or they might judge me for not being as productive as I used to be. It's a scary thought.",
-    "therapist": "I can see how scary that feels, and it’s completely valid to have those concerns. Sometimes, though, sharing how we’re feeling can open up the door to support and understanding. What do you think might be the best first step you could take, even if it’s a small one, to start addressing this with your team?",
+    "client": "I like the idea of breaking it down into smaller tasks, but I’m still worried that I’ll get overwhelmed and give up. Maybe I could set a timer for 15 minutes and just focus on one small part at a time. But what if I still feel like it’s not enough?",
+    "therapist": "Setting a timer for 15 minutes is a great strategy to help you get started without feeling overwhelmed. It's okay if you don't feel like you've made a lot of progress in that time; the goal is to build momentum and reduce the feeling of being stuck. How do you think you might reward yourself or acknowledge your effort after each 15-minute session, even if the progress seems small?",
     "condition": "baseline",
-    "val_t": -0.17508089542388916,
-    "aro_t": 0.17521047592163086,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 6,
-    "client": "I know you're right, but it's really hard for me to open up. I worry that if I share my feelings, it might make things awkward or even worse. It's hard because I feel like I need to keep things together and not burden others with my issues.",
-    "therapist": "I completely understand how hard it can be to open up, especially when you’re worried about making things awkward or burdening others. It’s a natural instinct to want to keep things together. Have you ever had a situation where sharing your feelings, even a little bit, turned out better than you expected?",
-    "condition": "baseline",
-    "val_t": -0.15582096576690674,
-    "aro_t": 0.08499085903167725,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 7,
-    "client": "I think you're right, it is hard to open up. I remember a time when I confided in a friend about feeling overwhelmed at work, and it actually made me feel a bit better. But I still worry that it's not always going to turn out that way. It's hard to trust that people will understand or not judge me.",
-    "therapist": "It’s really insightful of you to reflect on that past experience. It’s true that not every situation will turn out the same, but it’s also a reminder that sometimes sharing can bring relief and support. What do you think might be a small step you could take to start opening up to your team, even if it’s just a bit at a time?",
-    "condition": "baseline",
-    "val_t": -0.17693543434143066,
-    "aro_t": 0.1074826717376709,
-    "text_emotion": "Angry"
-  },
-  {
-    "turn": 8,
-    "client": "I appreciate that, Luna. It's just hard for me to imagine what that first step would look like. I worry that if I start to open up, it might make things more awkward or I'll say something that I can't take back.",
-    "therapist": "I understand how daunting that first step can feel, and it’s okay to take it slow. Perhaps you could start by sharing a small, manageable part of what you’re feeling with someone you trust on your team. What do you think might be the easiest part to share, or who do you think would be the most understanding listener?",
-    "condition": "baseline",
-    "val_t": -0.02822721004486084,
-    "aro_t": 0.13035690784454346,
+    "val_t": -0.06871235370635986,
+    "aro_t": 0.07532644271850586,
     "text_emotion": "Neutral"
   },
   {
-    "turn": 9,
-    "client": "I appreciate your suggestion, but it feels really hard to open up, even to someone I trust. I worry that they might not understand or that it could make things awkward between us. It’s a big step, and I’m not sure I’m ready for that yet.",
-    "therapist": "I totally understand that it feels like a big step, and it’s okay to take your time. There’s no rush to do anything before you feel ready. Have you thought about writing down your thoughts and feelings first, just for yourself? It might help you process things a bit more and give you a clearer idea of what you might want to share when you feel ready.",
+    "turn": 6,
+    "client": "I think I could reward myself with a short break, maybe have a snack or listen to a song. But it’s hard to feel motivated when I’m so worried about the outcome. I guess I’ll try it, but it’s tough to shake off the feeling that it won’t make a difference.",
+    "therapist": "It's completely understandable to struggle with motivation when you're feeling so worried, and acknowledging that is a big step. Rewarding yourself, even for small steps, can help build a sense of accomplishment and make the process a bit more manageable. What do you think might help you stay connected to the idea that each small step is valuable, even if the outcome is uncertain?",
     "condition": "baseline",
-    "val_t": -0.04359591007232666,
-    "aro_t": 0.15740585327148438,
-    "text_emotion": "Tense"
+    "val_t": -0.11805558204650879,
+    "aro_t": 0.0483478307723999,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 7,
+    "client": "I think it might help if I remind myself that just starting is better than not starting at all. Maybe I could write down a few positive affirmations or reasons why I’m doing this project, to keep me motivated. But it’s still hard to shake the feeling that I’m already behind, and it’s tough to see the value in small steps when the end goal feels so far away.",
+    "therapist": "That's a really insightful approach—reminding yourself that starting is better than not starting can be incredibly empowering. Writing down positive affirmations and reasons why you're doing the project can definitely help keep you motivated. It's normal to still feel behind, but focusing on the progress you are making, no matter how small, can gradually shift that perspective. How might you celebrate or acknowledge the small steps you take, even if they don't feel like they're moving you closer to the end goal right away?",
+    "condition": "baseline",
+    "val_t": -0.04791128635406494,
+    "aro_t": 0.05185115337371826,
+    "text_emotion": "Neutral"
+  },
+  {
+    "turn": 8,
+    "client": "I think I could celebrate by giving myself a break or doing something I enjoy after each small step, like reading a chapter of a book or watching a short video. But it’s hard to feel like these small steps are worth celebrating when the project feels so overwhelming. I’ll try it, but I’m not sure if it will feel meaningful.",
+    "therapist": "It's completely understandable to feel that way, and it's important to recognize that these small steps are indeed meaningful, even if they don't feel like it right now. Celebrating them can help build a sense of accomplishment and make the process feel more manageable. What do you think might help you connect with the value of these small steps, even in the midst of feeling overwhelmed? Maybe reflecting on how each step brings you a little closer to your goal, or thinking about how these steps are a way of taking care of yourself?",
+    "condition": "baseline",
+    "val_t": 0.12204980850219727,
+    "aro_t": 0.14289677143096924,
+    "text_emotion": "Excited"
+  },
+  {
+    "turn": 9,
+    "client": "I think reflecting on how each step brings me closer to my goal might help, but it’s hard to see that when I’m so focused on how far behind I am. I’ll try to remind myself that each small step is a form of self-care, even if it doesn’t feel like it’s making a big difference right away. It’s just tough to shift that mindset when I’m already feeling so anxious and guilty.",
+    "therapist": "It's really tough to shift that mindset, especially when you're feeling so anxious and guilty. Recognizing that each small step is a form of self-care is a powerful shift, and it's okay if it doesn't feel natural at first. What might help you stay gentle with yourself as you try to make these small steps? Maybe thinking of a supportive friend or a kind phrase you can tell yourself to keep going?",
+    "condition": "baseline",
+    "val_t": -0.27855145931243896,
+    "aro_t": 0.04552650451660156,
+    "text_emotion": "Sad"
   },
   {
     "turn": 10,
-    "client": "I appreciate that you're not rushing me, Luna. Writing down my thoughts does sound like it could help, but I worry that it might just make me overthink things even more. It's hard because my mind tends to spiral when I start writing, and I end up feeling even more anxious.",
-    "therapist": "I can see how writing might feel like it could lead to overthinking, especially if your mind tends to spiral. It’s totally valid to have that concern. What if you tried setting a timer for a short period, like 5-10 minutes, and just wrote down your thoughts without judgment? It might help you get some of those anxious thoughts out without feeling overwhelmed. How does that sound?",
+    "client": "I think it might help to imagine what a supportive friend would say to me right now. They’d probably tell me to take it one step at a time and not be so hard on myself. But it’s still hard to internalize that kindness when I’m so used to feeling guilty and anxious. I’ll try to use a kind phrase like \"You’re doing your best\" to keep myself going, but it’s a big challenge.",
+    "therapist": "That's a really compassionate approach, and imagining what a supportive friend would say can be a powerful way to start internalizing that kindness. It's completely normal for it to be a challenge, especially when you're used to feeling guilty and anxious. What might help you when you find it hard to internalize that kindness? Maybe writing down those kind phrases and reading them regularly, or setting a reminder on your phone to check in with yourself and offer that kindness?",
     "condition": "baseline",
-    "val_t": -0.2518606185913086,
-    "aro_t": 0.22517025470733643,
-    "text_emotion": "Angry"
+    "val_t": -0.031126856803894043,
+    "aro_t": 0.13193225860595703,
+    "text_emotion": "Neutral"
   }
 ]
