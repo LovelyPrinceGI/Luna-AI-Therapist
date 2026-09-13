@@ -1,8 +1,8 @@
-PWD C:/Luna-AI-Therapist/latex
+PWD c:/thesis/Luna-AI-Therapist/latex
 INPUT c:/texlive/2026/texmf.cnf
 INPUT c:/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT thesis.tex
+INPUT c:/thesis/Luna-AI-Therapist/latex/thesis.tex
 OUTPUT thesis.log
 INPUT ./aitthesis.cls
 INPUT aitthesis.cls
@@ -38,6 +38,8 @@ INPUT c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
@@ -62,8 +64,6 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -139,8 +139,8 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
 INPUT c:/texlive/2026/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
 INPUT c:/texlive/2026/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
-INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
 INPUT ./thesis.aux
 INPUT ./thesis.aux
 INPUT thesis.aux

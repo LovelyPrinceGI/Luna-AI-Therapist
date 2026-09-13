@@ -1,0 +1,18 @@
+\begin{table}[hbt!]
+\centering  
+\caption{Pairwise preference evaluation protocol (Layer~3)}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{ll}
+\hline
+\textbf{Component} & \textbf{Setting} \\ \hline
+Judge 1 & GPT-4o, temperature 0.0, blind to condition \\
+Verdict & Forced choice: A better / B better / tie, with reasoning \\
+Swap rule & Win counts only if preferred in both presentation orders \\
+Volume & 800 comparisons $\times$ 2 orders (4 backbones $\times$ 2 pairs $\times$ 100 seeds) \\
+Significance & Exact two-sided sign test on wins vs.\ losses (pre-registered criteria) \\
+Bias controls & Length--outcome $|r| \leq 0.17$ per cell; position consistency reported \\
+Judge 2 & Claude Sonnet 4.6 on stratified 100-comparison subset ($\kappa$ + direction) \\ \hline
+\end{tabular}%
+}
+\label{tab:pairwise-protocol}
+\end{table}
