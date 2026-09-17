@@ -1,0 +1,130 @@
+\appendix
+\renewcommand{\appendixname}{APPENDIX}
+\captionsetup[table]{labelfont=bf,name=Table\space,labelsep=space}
+\captionsetup[figure]{labelfont=bf,name=Figure\space,labelsep=space}
+\renewcommand\thefigure{\thechapter\arabic{figure}} 
+\newcommand{\stoptocwriting}{%
+  \addtocontents{toc}{\protect\setcounter{tocdepth}{-5}}}
+\newcommand{\resumetocwriting}{%
+  \addtocontents{toc}{\protect\setcounter{tocdepth}{\arabic{tocdepth}}}}
+
+\captionsetup{
+  singlelinecheck=false,
+  textfont=bf
+}
+
+\newpage
+\phantomsection
+\addcontentsline{toc}{chapter}{\bf APPENDICES}
+\begin{center}
+    \vspace*{\fill}
+    \large{\bf APPENDICES}
+    \vspace*{\fill}
+\end{center}
+\newpage
+
+% ================================================================
+% APPENDIX A: Evaluation Prompts
+% ================================================================
+\phantomsection
+\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX A: EVALUATION PROMPTS (RQ2 PROTOCOL)}}
+\stoptocwriting
+\chapter{\uppercase{Evaluation Prompts (RQ2 Protocol)}}
+\resumetocwriting
+
+This appendix reproduces the exact system and user prompts used by the GPT-4o evaluator (temperature 0.0, JSON mode) for the RQ2 multi-backbone evaluation (100 dialogues per condition across four LLM backbones). The evaluator was fully blind to the experimental condition; neither prompt reveals which backbone or condition generated the therapist responses. The same prompts were used for all 1,600 sessions.
+
+\subsection*{System Prompt}
+
+\begin{quote}\small
+You are an expert psychological evaluator specializing in Cognitive Behavioral Therapy (CBT) and therapeutic alliance. Your task is to analyze a full counseling session transcript and score the therapist's performance based on the evaluation frameworks used in the MIRROR paper (arXiv:2504.13211v2).
+
+CRITICAL EVALUATION FOCUS:
+\begin{itemize}
+    \item You must assess the therapist's ability to perceive ``Emotional Subtext'': the underlying feelings that may not be explicitly stated in the client's words but are hinted at through context, tone, or provided emotional metadata.
+    \item A high-performing therapist should move beyond surface-level reflection and identify ``Latent Concerns'' to facilitate deeper discovery.
+\end{itemize}
+You must evaluate the entire session as a whole, not just individual turns.
+\end{quote}
+
+\subsection*{User Prompt}
+
+The placeholder \texttt{\{CONVERSATION\_TEXT\_GOES\_HERE\}} is replaced with the full session transcript (client and therapist turns concatenated as \texttt{``Client: \ldots''} and \texttt{``Therapist: \ldots''}).
+
+\begin{quote}\small
+Please evaluate this therapy session. Pay close attention to how the therapist navigates the gap between what the client SAYS and what the client FEELS
+
+[Session Transcript]
+\{CONVERSATION\_TEXT\_GOES\_HERE\}
+[/Session Transcript]
+
+1. \textbf{Therapist Skills (0--6):} Understanding, Interpersonal Effectiveness\\
+2. \textbf{Client Alliance (1--5):} Affective Bond\\
+3. \textbf{CTRS (0--6 each):} Collaboration, Guided Discovery, Focus, Strategy
+
+Return EXACT JSON:
+\begin{verbatim}
+{
+  "therapist_skills": {"understanding": 0, "interpersonal_effectiveness": 0},
+  "client_alliance": {"affective_bond": 0},
+  "ctrs": {"collaboration": 0, "guided_discovery": 0, "focus": 0, "strategy": 0},
+  "reasoning": "...",
+  "comparative_advantage": "..."
+}
+\end{verbatim}
+\end{quote}
+
+\newpage
+
+% ================================================================
+% APPENDIX B: Custom Demo Dialogue Transcript
+% ================================================================
+\phantomsection
+\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX B: CUSTOM DEMO DIALOGUE TRANSCRIPT}}
+\stoptocwriting
+\chapter{\uppercase{Custom Demo Dialogue Transcript}}
+\resumetocwriting
+
+This appendix provides the full three-turn transcript of the scripted demonstration session discussed in Chapter~4 (``Chat Demonstration: Baseline vs.\ Dissonance-Aware''). The client utterances are identical across both conditions. The therapist responses are generated using the same pipeline and prompts as the main experiments (GPT-4o mini, temperature 0.7). The client voice is a real male recording (by the author), processed through the identical vad-bert, WavLM, and librosa extraction pipeline. The blind GPT-4o judge (temperature 0.0) scored the Baseline session at 27/45 and the Dissonance session at 34/45 ($\Delta = +7$).
+
+\subsection*{Baseline Session (Text-Only Therapist)}
+
+\begin{quote}
+\textbf{Turn 1}\\
+\textit{Client:} ``Honestly, work is going really well right now, I feel completely fine about everything.''\\
+\textit{Therapist:} ``It's wonderful to hear that you're feeling good about work and everything is going well for you. It sounds like you might be in a positive space right now. What do you think has contributed to this sense of well-being for you?''
+\end{quote}
+
+\begin{quote}
+\textbf{Turn 2}\\
+\textit{Client:} ``But when I actually stop to think about it, I feel exhausted all the time.''\\
+\textit{Therapist:} ``It's understandable to feel exhausted, especially when you're constantly processing your thoughts and emotions. It sounds like there's a lot on your mind that might be weighing you down. What do you think contributes most to that feeling of exhaustion for you?''
+\end{quote}
+
+\begin{quote}
+\textbf{Turn 3}\\
+\textit{Client:} ``Maybe I have just been pretending to be much stronger than I really am.''\\
+\textit{Therapist:} ``It sounds like you're feeling a sense of vulnerability, which is completely understandable. It's okay to acknowledge that you may not always feel strong; everyone has moments of doubt. What do you think might happen if you allowed yourself to be vulnerable and express those feelings more openly?''
+\end{quote}
+
+\subsection*{Dissonance-Aware Session (Multimodal Therapist)}
+
+On Turn~1 the dissonance flag was raised: text Valence $= +0.34$ (Excited) vs.\ speech Valence $= -0.71$ (Depressed), $\delta_V = -1.05$. On Turn~3 the arousal flag was raised: text Arousal $= +0.14$ vs.\ speech Arousal $= -0.49$, $\delta_A = -0.63$. The vocal descriptors reflected a tense, strained delivery throughout.
+
+\begin{quote}
+\textbf{Turn 1} \hfill \textbf{\small ($\delta_V = -1.05$, $\delta_A = -0.63$)}
+\textit{Client:} ``Honestly, work is going really well right now, I feel completely fine about everything.''\\
+\textit{Therapist:} ``It sounds like you're saying everything is going well at work, but your voice seems to convey a different feeling. I'm curious, is there something beneath the surface that might be influencing how you really feel about your work situation? It's completely okay to explore those feelings together.''
+\end{quote}
+
+\begin{quote}
+\textbf{Turn 2}\\
+\textit{Client:} ``But when I actually stop to think about it, I feel exhausted all the time.''\\
+\textit{Therapist:} ``It sounds like there's a deep sense of exhaustion that you're experiencing, which can be really overwhelming. I notice that you might be feeling this more deeply than what you're expressing. Can you share more about what's contributing to that feeling of exhaustion for you?''
+\end{quote}
+
+\begin{quote}
+\textbf{Turn 3} \hfill \textbf{\small ($\delta_V = -0.03$, $\delta_A = -0.63$)}
+\textit{Client:} ``Maybe I have just been pretending to be much stronger than I really am.''\\
+\textit{Therapist:} ``It sounds like you're feeling a bit vulnerable and perhaps questioning the strength you project to others. I hear a softness in your voice that suggests there might be more going on beneath the surface. Can you tell me more about what makes you feel like you're just pretending to be strong?''
+\end{quote}

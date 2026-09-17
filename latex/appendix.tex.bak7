@@ -183,15 +183,15 @@ On Turn~1 the dissonance flag was raised: text Valence $= +0.34$ (Excited) vs.\ 
 \newpage
 
 % ================================================================
-% APPENDIX C: Generation Prompts
+% APPENDIX C: V4 Generation Prompts
 % ================================================================
 \phantomsection
-\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX C: GENERATION PROMPTS}}
+\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX C: V4 GENERATION PROMPTS}}
 \stoptocwriting
-\chapter{\uppercase{Generation Prompts}}
+\chapter{\uppercase{V4 Generation Prompts}}
 \resumetocwriting
 
-This appendix reproduces the exact prompts of the generation pipeline (stateful client memory) used for all four backbones. The client and director prompts are identical across conditions. The therapist prompts differ by condition in a coordinated way: each condition's system prompt describes exactly the emotional metadata that condition receives, and its user template injects the corresponding fields (per-condition field sets are summarized in Table~\ref{tab:prompt-diff}). The Dissonance-Aware system and user prompts, which carry the full field set, are reproduced verbatim below; the other three conditions use the same structure with progressively fewer fields and system-prompt descriptions trimmed to match.
+This appendix reproduces the exact prompts of the v4 generation pipeline (stateful client memory) used for all four backbones. The client and director prompts are identical across conditions. The therapist prompts differ by condition in a coordinated way: each condition's system prompt describes exactly the emotional metadata that condition receives, and its user template injects the corresponding fields (per-condition field sets are summarized in Table~\ref{tab:prompt-diff}). The Dissonance-Aware system and user prompts, which carry the full field set, are reproduced verbatim below; the other three conditions use the same structure with progressively fewer fields and system-prompt descriptions trimmed to match.
 
 \subsection*{Client System Prompt (Resist Persona)}
 
@@ -213,7 +213,7 @@ You are a CBT therapy client talking to therapist ``Luna''.
 
 \subsection*{Client User Templates (First and Subsequent Turns)}
 
-The client is stateful: its own prior utterances are re-injected as assistant messages and the therapist's replies as user messages (role-reversed history), so each new utterance conditions on the conversation so far.
+In v4 the client is stateful: its own prior utterances are re-injected as assistant messages and the therapist's replies as user messages (role-reversed history), so each new utterance conditions on the conversation so far.
 
 First turn:
 \begin{quote}\small

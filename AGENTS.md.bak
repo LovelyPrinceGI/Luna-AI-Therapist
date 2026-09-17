@@ -73,16 +73,14 @@ Generate therapist responses for CBT-style dialogue while using multimodal emoti
 2. Extract emotional representation from **text**.
 3. Extract emotional representation from **audio/speech**.
 4. Convert both into comparable **VA-style features**.
-5. Compute per-dimension deltas from the difference (speech − text).
-6. If the absolute delta in **either** dimension reaches a fixed threshold (commonly **0.5**), mark the turn as emotionally dissonant.
+5. Compute a dissonance score from the difference.
+6. If the score exceeds a fixed threshold (commonly **0.5**), mark the turn as emotionally dissonant.
 7. Use that flag to alter the therapist prompt.
 
 ### Simplified formula
-Implemented logic (matches Haydarov et al. 2025 Eq. 1 max-form and the v4 scripts):
-- `delta_v = V_speech - V_text`, `delta_a = A_speech - A_text`
-- `is_dissonant = (|delta_v| >= 0.5) or (|delta_a| >= 0.5)`
-- equivalent to `max(|delta_v|, |delta_a|) >= 0.5` (Haydarov uses `> T` with T = 0.5; the >= boundary has no practical effect on continuous estimates)
-- NOTE: an earlier version of this file wrote the score as a SUM (`|dV| + |dA| > 0.5`) — that was wrong; the scripts and thesis use the per-dimension OR/max form.
+Typical original logic:
+- `dissonance = |V_speech - V_text| + |A_speech - A_text|`
+- if `dissonance > 0.5` -> treat as important mismatch
 
 ### Interpretation
 This does **not** mean the client is “lying.”

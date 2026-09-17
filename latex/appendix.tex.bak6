@@ -34,8 +34,6 @@
 
 This appendix reproduces the exact system and user prompts used by the GPT-4o evaluator (temperature 0.0, JSON mode) for the RQ2 multi-backbone evaluation (100 dialogues per condition across four LLM backbones). The evaluator was fully blind to the experimental condition; neither prompt reveals which backbone or condition generated the therapist responses. The same prompts were used for all 1,600 sessions. The appendix also reproduces the Layer-3 pairwise preference prompts and documents the cross-family second-judge protocol (Claude Sonnet 4.6), which reuses the identical pairwise prompts under the same two-order swap rule.
 
-Two clarifications on the relationship between these prompts and the MIRROR evaluation framework \cite{kim-etal-2025-mirror}. First, the quoted constructs ``Emotional Subtext'' and ``Latent Concerns'' are our own operational definitions, written into the judge prompt to direct attention to the say-versus-feel gap the thesis targets; they are not verbatim MIRROR terminology. What MIRROR (via the COUNSELINGEVAL framework of \cite{lee2024cactus}) supplies is the scoring dimensions and scales: the CTRS-derived skill items rated 0--6 and the WAI-based alliance dimension rated 1--5. Second, our pointwise rubric retains the \emph{Strategy} item from the full six-item CACTUS/COUNSELINGEVAL set, whereas MIRROR excluded it after documenting a GPT-4o length bias in that dimension. We retain it deliberately, with two mitigations: the pairwise prompt explicitly forbids rewarding length, and all pairwise cells were audited post hoc for length bias ($|r(\Delta\text{length},\text{outcome})| \leq 0.17$; the largest win occurs with \emph{shorter} dissonance transcripts).
-
 \subsection*{System Prompt}
 
 \begin{quote}\small
@@ -51,7 +49,7 @@ You must evaluate the entire session as a whole, not just individual turns.
 
 \subsection*{User Prompt}
 
-The placeholder \texttt{\{CONVERSATION\_TEXT\_GOES\_HERE\}} is replaced with the full session transcript (client and therapist turns concatenated as \texttt{``CLIENT: \ldots''} and \texttt{``THERAPIST: \ldots''}).
+The placeholder \texttt{\{CONVERSATION\_TEXT\_GOES\_HERE\}} is replaced with the full session transcript (client and therapist turns concatenated as \texttt{``Client: \ldots''} and \texttt{``Therapist: \ldots''}).
 
 \begin{quote}\small
 Please evaluate this therapy session. Pay close attention to how the therapist navigates the gap between what the client SAYS and what the client FEELS
@@ -136,7 +134,7 @@ The second judge re-scored a stratified subset of 100 comparisons (proportional 
 \chapter{\uppercase{Custom Demo Dialogue Transcript}}
 \resumetocwriting
 
-This appendix provides the full three-turn transcript of the scripted demonstration session discussed in Chapter~4 (``Chat Demonstration: Baseline vs.\ Dissonance-Aware''). The client utterances are identical across both conditions. The therapist responses are generated using the same pipeline and prompts as the main experiments (GPT-4o mini, temperature 0.7). The client voice is a real male recording (by the author), processed through the identical vad-bert, WavLM, and librosa extraction pipeline. The blind GPT-4o judge (temperature 0.0) scored the Baseline session at 27/41 and the Dissonance session at 34/41 ($\Delta = +7$); the rubric maximum is 41 (six skill/CTRS items at 0--6 plus Affective Bond at 1--5).
+This appendix provides the full three-turn transcript of the scripted demonstration session discussed in Chapter~4 (``Chat Demonstration: Baseline vs.\ Dissonance-Aware''). The client utterances are identical across both conditions. The therapist responses are generated using the same pipeline and prompts as the main experiments (GPT-4o mini, temperature 0.7). The client voice is a real male recording (by the author), processed through the identical vad-bert, WavLM, and librosa extraction pipeline. The blind GPT-4o judge (temperature 0.0) scored the Baseline session at 27/45 and the Dissonance session at 34/45 ($\Delta = +7$).
 
 \subsection*{Baseline Session (Text-Only Therapist)}
 
@@ -183,15 +181,15 @@ On Turn~1 the dissonance flag was raised: text Valence $= +0.34$ (Excited) vs.\ 
 \newpage
 
 % ================================================================
-% APPENDIX C: Generation Prompts
+% APPENDIX C: V4 Generation Prompts
 % ================================================================
 \phantomsection
-\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX C: GENERATION PROMPTS}}
+\addcontentsline{toc}{section}{\bf \uppercase{APPENDIX C: V4 GENERATION PROMPTS}}
 \stoptocwriting
-\chapter{\uppercase{Generation Prompts}}
+\chapter{\uppercase{V4 Generation Prompts}}
 \resumetocwriting
 
-This appendix reproduces the exact prompts of the generation pipeline (stateful client memory) used for all four backbones. The client and director prompts are identical across conditions. The therapist prompts differ by condition in a coordinated way: each condition's system prompt describes exactly the emotional metadata that condition receives, and its user template injects the corresponding fields (per-condition field sets are summarized in Table~\ref{tab:prompt-diff}). The Dissonance-Aware system and user prompts, which carry the full field set, are reproduced verbatim below; the other three conditions use the same structure with progressively fewer fields and system-prompt descriptions trimmed to match.
+This appendix reproduces the exact prompts of the v4 generation pipeline (stateful client memory) used for all four backbones. The client and director prompts are identical across conditions; condition-specific differences are confined to the metadata fields injected into the therapist user template, summarized in Table~\ref{tab:prompt-diff}.
 
 \subsection*{Client System Prompt (Resist Persona)}
 
@@ -213,7 +211,7 @@ You are a CBT therapy client talking to therapist ``Luna''.
 
 \subsection*{Client User Templates (First and Subsequent Turns)}
 
-The client is stateful: its own prior utterances are re-injected as assistant messages and the therapist's replies as user messages (role-reversed history), so each new utterance conditions on the conversation so far.
+In v4 the client is stateful: its own prior utterances are re-injected as assistant messages and the therapist's replies as user messages (role-reversed history), so each new utterance conditions on the conversation so far.
 
 First turn:
 \begin{quote}\small
@@ -313,7 +311,7 @@ Do not mention any numbers.
 \end{verbatim}
 \end{quote}
 
-The Baseline condition uses a text-only system prompt with no metadata block; Emotion (Text-Only) injects only the text VA fields, with its system prompt explaining the valence/arousal ranges and instructing empathic calibration to them; Multimodal (Vocal-Aware) injects text VA, speech VA, and prosodic descriptors but omits the deltas and the flag, with its system prompt instructing joint use of the two emotional signals. In every condition the system prompt's description of available signals matches the fields actually injected. The exact per-condition field sets are listed in Table~\ref{tab:prompt-diff}.
+The Baseline condition uses a text-only system prompt with no metadata block; Emotion (Text-Only) injects only the text VA fields; Multimodal (Vocal-Aware) injects text VA, speech VA, and prosodic descriptors but omits the deltas and the flag. The exact per-condition field sets are listed in Table~\ref{tab:prompt-diff}.
 
 \subsection*{Zonos Director System Prompt (Vocal Parameter Assignment)}
 
