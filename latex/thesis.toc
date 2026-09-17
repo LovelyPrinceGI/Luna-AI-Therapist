@@ -29,71 +29,71 @@
 \contentsline {subsection}{\numberline {3.1.2}Phase 2: Vocal Prosodic Descriptor Extraction}{15}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}Phase 3: Emotional Feature Extraction from Text and Speech}{17}{subsection.3.1.3}%
 \contentsline {subsection}{\numberline {3.1.4}Phase 3.5: Discrete Emotion Mapping via Russell's Circumplex Model}{17}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{19}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{19}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{20}{subsection.3.1.7}%
-\contentsline {chapter}{\numberline {4}EXPERIMENT}{24}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Rationale}{24}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Research Questions}{24}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Dataset}{24}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Experimental Conditions (Independent Variable)}{26}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Multi-Backbone LLMs}{26}{subsection.4.4.1}%
-\contentsline {section}{\numberline {4.5}Procedure}{27}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Chat Demonstration: Baseline vs.\ Dissonance-Aware}{28}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Evaluation Protocol (Dependent Measures)}{30}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Automated Judge}{30}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Evaluation Metrics}{30}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Scoring and Aggregation}{31}{subsection.4.7.3}%
-\contentsline {subsection}{\numberline {4.7.4}Pairwise Preference Evaluation}{31}{subsection.4.7.4}%
-\contentsline {subsection}{\numberline {4.7.5}Second Judge and Inter-Judge Agreement}{32}{subsection.4.7.5}%
-\contentsline {subsection}{\numberline {4.7.6}Bias Controls}{32}{subsection.4.7.6}%
-\contentsline {section}{\numberline {4.8}Implementation Details}{32}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Prompt Engineering}{34}{section.4.9}%
-\contentsline {subsection}{\numberline {4.9.1}Shared Problem Seeds}{34}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}Client Prompt: Resist Persona}{34}{subsection.4.9.2}%
-\contentsline {subsection}{\numberline {4.9.3}Therapist Prompts: Four Conditions}{35}{subsection.4.9.3}%
-\contentsline {subsection}{\numberline {4.9.4}Zonos Vocal Director Prompt}{36}{subsection.4.9.4}%
-\contentsline {subsection}{\numberline {4.9.5}Evaluation LLM Prompt: GPT-4o as Zero-Shot Judge}{36}{subsection.4.9.5}%
-\contentsline {chapter}{\numberline {5}RESULT}{38}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Result Corresponding to RQ1: Dissonance Advantage}{39}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Statistical Significance and the Role of the Dissonance Signal}{40}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Dissonance Flag Rate and the Always-On Framing Effect}{40}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Result Corresponding to RQ2: Backbone Robustness}{42}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Cross-Backbone Comparison: Dissonance-Aware Only}{42}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}GPT-4o mini: Per-Condition Breakdown}{42}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Claude Sonnet 4.6: Per-Condition Breakdown}{43}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Qwen-2.5-72B-Instruct: Per-Condition Breakdown}{43}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}DeepSeek V3.2: Per-Condition Breakdown}{44}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Dissonance Uplift Summary}{44}{subsection.5.2.6}%
-\contentsline {section}{\numberline {5.3}Pairwise Preference Results}{45}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Bias Controls}{46}{subsection.5.3.1}%
-\contentsline {section}{\numberline {5.4}Judge Reliability: Cross-Family Agreement}{47}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Hypothesis Verdicts}{48}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Computational Overhead}{48}{section.5.6}%
-\contentsline {chapter}{\numberline {6}DISCUSSION}{51}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Revisiting Research Questions}{51}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}RQ1: Does the Dissonance-Aware Framework Outperform the Baselines?}{51}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}RQ2: Is the Advantage Robust Across LLM Backbones?}{52}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Post-hoc Error Analysis: Why Qwen Is Neutral}{53}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}What We Did Not Achieve}{55}{subsection.6.1.4}%
-\contentsline {section}{\numberline {6.2}Comparing with Past Work}{55}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Experimental Decisions}{57}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Limitations and Future Work}{59}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Limitations}{59}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Future Work}{60}{subsection.6.4.2}%
-\contentsline {chapter}{\numberline {7}CONCLUSION}{62}{chapter.7}%
-\contentsline {chapter}{\bf REFERENCES}{65}{section*.35}%
-\contentsline {chapter}{\bf APPENDICES}{68}{section*.36}%
-\contentsline {section}{\bf \uppercase {APPENDIX A: EVALUATION PROMPTS (RQ2 PROTOCOL)}}{69}{section*.37}%
+\contentsline {subsection}{\numberline {3.1.5}Phase 4: Emotional Dissonance Computation}{23}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Phase 5: Multimodal Therapist Response Generation}{24}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Phase 6: Client Resistance Modeling and Automated Evaluation}{25}{subsection.3.1.7}%
+\contentsline {chapter}{\numberline {4}EXPERIMENT}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Rationale}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Research Questions}{27}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Dataset}{27}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Experimental Conditions (Independent Variable)}{29}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Multi-Backbone LLMs}{29}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Procedure}{30}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Chat Demonstration: Baseline vs.\ Dissonance-Aware}{31}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Evaluation Protocol (Dependent Measures)}{33}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Automated Judge}{33}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Evaluation Metrics}{33}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Scoring and Aggregation}{34}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Pairwise Preference Evaluation}{34}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Second Judge and Inter-Judge Agreement}{35}{subsection.4.7.5}%
+\contentsline {subsection}{\numberline {4.7.6}Bias Controls}{35}{subsection.4.7.6}%
+\contentsline {section}{\numberline {4.8}Implementation Details}{35}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Prompt Engineering}{37}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Shared Problem Seeds}{37}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Client Prompt: Resist Persona}{37}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Therapist Prompts: Four Conditions}{38}{subsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.9.4}Zonos Vocal Director Prompt}{39}{subsection.4.9.4}%
+\contentsline {subsection}{\numberline {4.9.5}Evaluation LLM Prompt: GPT-4o as Zero-Shot Judge}{39}{subsection.4.9.5}%
+\contentsline {chapter}{\numberline {5}RESULT}{41}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Result Corresponding to RQ1: Dissonance Advantage}{42}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Statistical Significance and the Role of the Dissonance Signal}{43}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Dissonance Flag Rate and the Always-On Framing Effect}{43}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Result Corresponding to RQ2: Backbone Robustness}{45}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Cross-Backbone Comparison: Dissonance-Aware Only}{45}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}GPT-4o mini: Per-Condition Breakdown}{45}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Claude Sonnet 4.6: Per-Condition Breakdown}{46}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Qwen-2.5-72B-Instruct: Per-Condition Breakdown}{46}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}DeepSeek V3.2: Per-Condition Breakdown}{47}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Dissonance Uplift Summary}{47}{subsection.5.2.6}%
+\contentsline {section}{\numberline {5.3}Pairwise Preference Results}{48}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Bias Controls}{49}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Judge Reliability: Cross-Family Agreement}{50}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Hypothesis Verdicts}{51}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Computational Overhead}{51}{section.5.6}%
+\contentsline {chapter}{\numberline {6}DISCUSSION}{54}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Revisiting Research Questions}{54}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}RQ1: Does the Dissonance-Aware Framework Outperform the Baselines?}{54}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}RQ2: Is the Advantage Robust Across LLM Backbones?}{55}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Post-hoc Error Analysis: Why Qwen Is Neutral}{56}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}What We Did Not Achieve}{58}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Comparing with Past Work}{58}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Experimental Decisions}{60}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Limitations and Future Work}{62}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Limitations}{62}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Future Work}{63}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {7}CONCLUSION}{65}{chapter.7}%
+\contentsline {chapter}{\bf REFERENCES}{68}{section*.37}%
+\contentsline {chapter}{\bf APPENDICES}{71}{section*.38}%
+\contentsline {section}{\bf \uppercase {APPENDIX A: EVALUATION PROMPTS (RQ2 PROTOCOL)}}{72}{section*.39}%
 \setcounter {tocdepth}{-5}
-\contentsline {chapter}{\numberline {A}\uppercase {Evaluation Prompts (RQ2 Protocol)}}{69}{appendix.A}%
+\contentsline {chapter}{\numberline {A}\uppercase {Evaluation Prompts (RQ2 Protocol)}}{72}{appendix.A}%
 \setcounter {tocdepth}{2}
-\contentsline {section}{\bf \uppercase {APPENDIX B: CUSTOM DEMO DIALOGUE TRANSCRIPT}}{73}{section*.38}%
+\contentsline {section}{\bf \uppercase {APPENDIX B: CUSTOM DEMO DIALOGUE TRANSCRIPT}}{76}{section*.40}%
 \setcounter {tocdepth}{-5}
-\contentsline {chapter}{\numberline {B}\uppercase {Custom Demo Dialogue Transcript}}{73}{appendix.B}%
+\contentsline {chapter}{\numberline {B}\uppercase {Custom Demo Dialogue Transcript}}{76}{appendix.B}%
 \setcounter {tocdepth}{2}
-\contentsline {section}{\bf \uppercase {APPENDIX C: GENERATION PROMPTS}}{75}{section*.39}%
+\contentsline {section}{\bf \uppercase {APPENDIX C: GENERATION PROMPTS}}{78}{section*.41}%
 \setcounter {tocdepth}{-5}
-\contentsline {chapter}{\numberline {C}\uppercase {Generation Prompts}}{75}{appendix.C}%
+\contentsline {chapter}{\numberline {C}\uppercase {Generation Prompts}}{78}{appendix.C}%
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\bf VITA}{80}{section*.40}%
+\contentsline {chapter}{\bf VITA}{83}{section*.42}%
