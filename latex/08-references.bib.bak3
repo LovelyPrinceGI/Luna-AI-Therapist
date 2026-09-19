@@ -139,17 +139,6 @@
     doi = {10.1037/h0077714},
 }
 
-@article{russell1977threefactor,
-    author = {Russell, James A. and Mehrabian, Albert},
-    title = {Evidence for a Three-Factor Theory of Emotions},
-    journal = {Journal of Research in Personality},
-    year = {1977},
-    volume = {11},
-    number = {3},
-    pages = {273--298},
-    doi = {10.1016/0092-6566(77)90037-X},
-}
-
 @book{ekman1972universals,
     author    = {Ekman, Paul},
     title     = {Universals and Cultural Differences in Facial Expressions of Emotion},
@@ -208,35 +197,5 @@
   publisher = {University of California Press},
   address   = {Berkeley, CA},
   year      = {1983}
-}
-
-@article{qwen25tech,
-  author  = {Yang, An and Yang, Baosong and Zhang, Beichen and Hui, Binyuan and Zheng, Bo and Yu, Bowen and Li, Chengyuan and Liu, Dayiheng and Huang, Fei and Wei, Haoran and Lin, Huan and Yang, Jian and Tu, Jianhong and Zhang, Jianwei and Yang, Jianxin and Yang, Jiaxin and Zhou, Jingren and Lin, Junyang and Dang, Kai and Lu, Keming and Bao, Keqin and Yang, Kexin and Yu, Le and Li, Mei and Xue, Mingfeng and Zhang, Pei and Zhu, Qin and Men, Rui and Lin, Runji and Li, Tianhao and Xia, Tingyu and Ren, Xingzhang and Ren, Xuancheng and Fan, Yang and Su, Yang and Zhang, Yi-Chao and Wan, Yuqiong and Cui, Yuqi and Liu, Zekun and Qiu, Zihan},
-  title   = {Qwen2.5 Technical Report},
-  journal = {arXiv preprint arXiv:2412.15115},
-  year    = {2024}
-}
-
-@inproceedings{holtzman2020degeneration,
-  author    = {Holtzman, Ari and Buys, Jan and Du, Li and Forbes, Maxwell and Choi, Yejin},
-  title     = {The Curious Case of Neural Text Degeneration},
-  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
-  year      = {2020},
-  note      = {arXiv:1904.09751}
-}
-
-@inproceedings{welleck2020unlikelihood,
-  author    = {Welleck, Sean and Kulikov, Ilia and Roller, Stephen and Dinan, Emily and Cho, Kyunghyun and Weston, Jason},
-  title     = {Neural Text Generation With Unlikelihood Training},
-  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
-  year      = {2020},
-  note      = {arXiv:1908.04319}
-}
-
-@article{keskar2019ctrl,
-  author  = {Keskar, Nitish Shirish and McCann, Bryan and Varshney, Lav R. and Xiong, Caiming and Socher, Richard},
-  title   = {CTRL: A Conditional Transformer Language Model for Controllable Generation},
-  journal = {arXiv preprint arXiv:1909.05858},
-  year    = {2019}
 }
 

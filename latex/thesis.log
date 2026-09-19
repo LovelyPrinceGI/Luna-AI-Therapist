@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.12)  17 SEP 2026 21:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.12)  19 SEP 2026 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -438,21 +438,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count329
 \@thisrulewidth=\dimen259
 )
-(c:/texlive/2026/texmf-dist/tex/latex/psnfss/pifont.sty
-Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
-LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
-
-
-(c:/texlive/2026/texmf-dist/tex/latex/psnfss/upzd.fd
-File: upzd.fd 2001/06/04 font definitions for U/pzd.
-)
-LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
-
-
-(c:/texlive/2026/texmf-dist/tex/latex/psnfss/upsy.fd
-File: upsy.fd 2001/06/04 font definitions for U/psy.
-))
-LaTeX Font Info:    Trying to load font information for T1+qtm on input line 12
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 10
 .
 
 (c:/texlive/2026/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
@@ -466,27 +452,27 @@ File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
 (./00-abstract.aux) (./contents.aux) (./loft.aux) (./01-introduction.aux)
 (./02-literature.aux) (./03-methodology.aux) (./04-experiment.aux)
 (./05-results.aux) (./06-discussion.aux) (./07-conclusion.aux) (./appendix.aux)
-(./vita.aux))
+)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -526,7 +512,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 10.
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
 \openout3 = `thesis.out'.
@@ -564,34 +550,34 @@ e
 
 
 (./cover.tex
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 21.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
 
  (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 
 
 (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (18.54314pt too wide) in paragraph at lines 21--35
- [] 
- []
-
-) [1
+)) [1
 
 
 {c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/
 texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}]
 \openout2 = `declaration.aux'.
 
- (./declaration.tex) [2
+ (./declaration.tex
+<figures/signature.png, id=372, 553.06625pt x 264.99pt>
+File: figures/signature.png Graphic file (type png)
+<use figures/signature.png>
+Package pdftex.def Info: figures/signature.png  used on input line 13.
+(pdftex.def)             Requested size: 62.60968pt x 30.0pt.
+) [2
 
 
 
-]
+ <./figures/signature.png>]
 \openout2 = `acknowledgements.aux'.
 
 
@@ -616,22 +602,22 @@ texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}]
 
 
 ]
-Overfull \hbox (0.17014pt too wide) in paragraph at lines 34--34
+Overfull \hbox (0.17014pt too wide) in paragraph at lines 32--32
  [][] [][]\T1/qtm/m/n/12 Phase 6: Client Re-sis-tance Mod-el-ing and Au-to-mate
 d 
  []
 
-[6]
-Overfull \hbox (2.49814pt too wide) in paragraph at lines 62--62
+
+Overfull \hbox (2.49814pt too wide) in paragraph at lines 60--60
  [][] [][]\T1/qtm/m/n/12 Cross-Backbone Com-par-i-son: Dissonance-Aware Only[] 
 []  
  []
 
-)
+[6])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
-) [7] [8]
+) [7]
 \openout2 = `loft.aux'.
 
  (./loft.tex (./thesis.lot
@@ -640,7 +626,7 @@ Overfull \hbox (3.01335pt too wide) in paragraph at lines 16--16
 r-dialogue to-tal scores (GPT-4o mini, 100 di-a-logues, 
  []
 
-[9
+[8
 
 
 
@@ -649,7 +635,7 @@ r-dialogue to-tal scores (GPT-4o mini, 100 di-a-logues,
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [10] (./thesis.lof
+ [9] (./thesis.lof
 Overfull \hbox (5.02856pt too wide) in paragraph at lines 5--5
  \T1/qtm/m/n/12 gen-er-a-tion, Zonos TTS syn-the-sis with director-assigned pro
 sody, post- 
@@ -665,10 +651,10 @@ Overfull \hbox (6.63814pt too wide) in paragraph at lines 8--8
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
-) [11
+) [10
 
 {c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-[12]
+[11]
 \openout2 = `01-introduction.aux'.
 
  (./01-introduction.tex
@@ -1041,7 +1027,7 @@ ic emo-tions and the Zonos
  []
 
 [14]
-<figures/framework_pipeline.png, id=794, 1573.88pt x 2541.495pt>
+<figures/framework_pipeline.png, id=783, 1573.88pt x 2541.495pt>
 File: figures/framework_pipeline.png Graphic file (type png)
 <use figures/framework_pipeline.png>
 Package pdftex.def Info: figures/framework_pipeline.png  used on input line 80.
@@ -1051,7 +1037,7 @@ Package pdftex.def Info: figures/framework_pipeline.png  used on input line 80.
 
 LaTeX Warning: Float too large for page by 13.77222pt on input line 83.
 
-<figures/preprocessing_pipeline.png, id=795, 3982.88pt x 7312.31876pt>
+<figures/preprocessing_pipeline.png, id=784, 3982.88pt x 7312.31876pt>
 File: figures/preprocessing_pipeline.png Graphic file (type png)
 <use figures/preprocessing_pipeline.png>
 Package pdftex.def Info: figures/preprocessing_pipeline.png  used on input line
@@ -1076,52 +1062,53 @@ Overfull \hbox (0.87299pt too wide) in paragraph at lines 123--125
  []
 
 [17]
-Overfull \hbox (5.95184pt too wide) in paragraph at lines 154--155
+Overfull \hbox (5.95184pt too wide) in paragraph at lines 156--157
 \T1/qtm/m/n/12 of the two au-dio con-di-tions and plot-ting each turn's $\OT1/c
 mr/m/n/12 (\OML/cmm/m/it/12 V; A\OT1/cmr/m/n/12 )$ \T1/qtm/m/n/12 pair in the c
 ir-cum-plex, coloured
  []
 
 
-Overfull \hbox (3.25708pt too wide) in paragraph at lines 154--155
+Overfull \hbox (3.25708pt too wide) in paragraph at lines 156--157
 \T1/qtm/m/n/12 tor oc-cu-pancy re-spect Rus-sell's two-dimensional ge-om-e-try:
  the synthesis-plus-extraction
  []
 
-<figures/emo_dimen_map_speech_cue.png, id=819, 650.1891pt x 537.6888pt>
+[18]
+<figures/emo_dimen_map_speech_cue.png, id=822, 650.1891pt x 537.6888pt>
 File: figures/emo_dimen_map_speech_cue.png Graphic file (type png)
 <use figures/emo_dimen_map_speech_cue.png>
 Package pdftex.def Info: figures/emo_dimen_map_speech_cue.png  used on input li
-ne 158.
+ne 160.
 (pdftex.def)             Requested size: 395.98996pt x 327.47281pt.
-<figures/emo_dimen_map_text_cue.png, id=820, 630.6762pt x 537.6888pt>
+<figures/emo_dimen_map_text_cue.png, id=823, 630.6762pt x 537.6888pt>
 File: figures/emo_dimen_map_text_cue.png Graphic file (type png)
 <use figures/emo_dimen_map_text_cue.png>
 Package pdftex.def Info: figures/emo_dimen_map_text_cue.png  used on input line
- 165.
+ 167.
 (pdftex.def)             Requested size: 395.98996pt x 337.61351pt.
-[18] [19 <./figures/framework_pipeline.png (PNG copy)>] [20 <./figures/preproce
-ssing_pipeline.png>] [21 <./figures/emo_dimen_map_speech_cue.png>] [22 <./figur
-es/emo_dimen_map_text_cue.png>]
-Overfull \hbox (14.05984pt too wide) in paragraph at lines 197--198
+ [19] [20 <./figures/framework_pipeline.png (PNG copy)>] [21 <./figures/preproc
+essing_pipeline.png>] [22 <./figures/emo_dimen_map_speech_cue.png>]
+[23 <./figures/emo_dimen_map_text_cue.png>]
+Overfull \hbox (14.05984pt too wide) in paragraph at lines 199--200
 \T1/qtm/m/n/12 recorded ther-apy videos: a seg-ment is flagged when $[]  [] \OM
 L/cmm/m/it/12 >
  []
 
-[23
+[24
 
-] [24]
-Overfull \hbox (1.269pt too wide) in paragraph at lines 232--234
+] [25]
+Overfull \hbox (1.269pt too wide) in paragraph at lines 234--236
 []\T1/qtm/b/n/12 Dissonance-Aware. \T1/qtm/m/n/12 The ther-a-pist re-ceives the
  di-a-logue tran-script, text VA, speech
  []
 
-[25]) [26]
+[26]) [27]
 \openout2 = `04-experiment.aux'.
 
  (./04-experiment.tex
 CHAPTER 4.
-[27
+[28
 
 
 
@@ -1132,7 +1119,7 @@ Overfull \hbox (0.82224pt too wide) in paragraph at lines 37--38
 de-scrip-tors (pitch, loud-ness, speak-
  []
 
-[28]
+[29]
 Overfull \hbox (10.21696pt too wide) in paragraph at lines 54--55
 \T1/qtm/m/n/12 with-out mis-match rea-son-ing im-proves ther-a-peu-tic qual-ity
 , serv-ing as the text+speech
@@ -1144,48 +1131,48 @@ Overfull \hbox (1.269pt too wide) in paragraph at lines 56--57
  di-a-logue tran-script, text VA, speech
  []
 
-[29]
+[30]
 Overfull \hbox (11.23581pt too wide) in paragraph at lines 90--91
 []\T1/qtm/b/n/12 Emotion Ex-trac-tion: \T1/qtm/m/n/12 The client ut-ter-ance is
  pro-cessed through the Phase 3 pipeline:
  []
 
-[30]
-<figures/chat_ex_baseline.png, id=910, 485.31313pt x 183.68625pt>
+[31]
+<figures/chat_ex_baseline.png, id=913, 485.31313pt x 183.68625pt>
 File: figures/chat_ex_baseline.png Graphic file (type png)
 <use figures/chat_ex_baseline.png>
 Package pdftex.def Info: figures/chat_ex_baseline.png  used on input line 108.
 (pdftex.def)             Requested size: 416.83289pt x 157.77647pt.
-<figures/chat_ex_dissonance.png, id=911, 825.58438pt x 426.09187pt>
+<figures/chat_ex_dissonance.png, id=914, 825.58438pt x 426.09187pt>
 File: figures/chat_ex_dissonance.png Graphic file (type png)
 <use figures/chat_ex_dissonance.png>
 Package pdftex.def Info: figures/chat_ex_dissonance.png  used on input line 115
 .
 (pdftex.def)             Requested size: 416.83289pt x 215.13243pt.
- [31] [32 <./figures/chat_ex_baseline.png> <./figures/chat_ex_dissonance.png>] 
-[33] [34]
+ [32] [33 <./figures/chat_ex_baseline.png> <./figures/chat_ex_dissonance.png>] 
+[34] [35]
 Overfull \hbox (96.7188pt too wide) in paragraph at lines 185--205
  [][] 
  []
 
-[35]
+[36]
 Overfull \hbox (3.22511pt too wide) in paragraph at lines 209--210
 []\T1/qtm/m/n/12 All ex-per-i-ments were con-ducted on a sin-gle NVIDIA GPU wor
 k-sta-tion (CUDA-enabled).
  []
 
-[36]
+[37] [38]
 Overfull \hbox (20.98102pt too wide) in paragraph at lines 227--228
 []\T1/qtm/m/n/12 The client user tem-plate in-jects the as-signed prob-lem seed
  into the first turn (\T1/cmtt/m/n/12 problem_seed\T1/qtm/m/n/12 ).
  []
 
-[37] [38] [39]) [40]
+[39] [40] [41]) [42]
 \openout2 = `05-results.aux'.
 
  (./05-results.tex
 CHAPTER 5.
-[41
+[43
 
 
 
@@ -1195,7 +1182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--39
 [][]
  []
 
-[42]
+[44]
 Overfull \hbox (167.28607pt too wide) in paragraph at lines 65--66
 \T1/qtm/m/n/12 stored in the Layer-1 score files (\T1/cmtt/m/n/12 evaluation_ou
 tputs/ai_eval_multibackbone_{backbone}_{condition}.jsonl\T1/qtm/m/n/12 ).
@@ -1207,240 +1194,240 @@ Overfull \hbox (42.10747pt too wide) in paragraph at lines 65--66
 on. Yet the Dissonance$\OMS/cmsy/m/n/12 ^^@$\T1/qtm/m/n/12 Multimodal
  []
 
-[43] [44] [45] [46] [47] [48] [49] [50] [51] [52]) [53]
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54]) [55]
 \openout2 = `06-discussion.aux'.
 
  (./06-discussion.tex
 CHAPTER 6.
-[54
+[56
 
 
 
 
-] [55] [56] [57]
-Overfull \hbox (3.6343pt too wide) in paragraph at lines 60--61
+] [57] [58] [59] [60]
+Overfull \hbox (3.6343pt too wide) in paragraph at lines 62--63
 []\T1/qtm/m/n/12 Three goals re-main un-met. First, we did not es-tab-lish uni-
 ver-sal Dissonance-over-Baseline
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/b/n/12 Key Dif-fer-ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 CBT di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 a-logue
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 CTRS-based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 COUN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Text + fa-cial
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 80--80
+Underfull \hbox (badness 1062) in paragraph at lines 82--82
 \T1/qtm/m/n/12 ing with re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 GPT judge
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 (skills 0--6,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Visual modal-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Face-to-speech
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Therapeutic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 in-ter-ven-tion
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 80--80
+Underfull \hbox (badness 3189) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 LLM judge +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Dissonance be-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 tween face and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 voice; single-turn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Multimodal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 sen-ti-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 DiffEmo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 bench-mark
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Emotion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 F1 (IEMO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Classification, not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Pitch, loud-
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 80--80
+Underfull \hbox (badness 7667) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Robot nav-i-
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 80--80
+Underfull \hbox (badness 5908) in paragraph at lines 82--82
 \T1/qtm/m/n/12 ga-tion de-ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Winning rate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/b/n/12 Text-to-speech
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 VA delta +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 flag + vo-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/b/n/12 CBT ther-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 a-pist re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 sponse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \OML/cmm/m/it/12 t$ \T1/qtm/b/n/12 + swap-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 consistent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/b/n/12 pair-wise +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/qtm/m/n/12 Dissonance as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/qtm/m/n/12 a prompt-level
  []
 
-[58] [59] [60] [61]
-Overfull \hbox (0.89833pt too wide) in paragraph at lines 108--109
+[61] [62] [63] [64]
+Overfull \hbox (0.89833pt too wide) in paragraph at lines 110--111
 []\T1/qtm/b/n/12 Implications for prac-ti-tion-ers. \T1/qtm/m/n/12 Read to-geth
 er, these de-ci-sions sug-gest a prac-ti-cal guide-
  []
 
-[62] [63]) [64]
+[65] [66]) [67]
 \openout2 = `07-conclusion.aux'.
 
  (./07-conclusion.tex
 CHAPTER 7.
-[65
+[68
 
 
 
 
-]) [66] [67] (./thesis.bbl [68
+]) [69] [70] (./thesis.bbl [71
 
 
-] [69]) [70]
+] [72]) [73]
 \openout2 = `appendix.aux'.
 
- (./appendix.tex [71
+ (./appendix.tex [74
 
 ]
 
@@ -1452,7 +1439,7 @@ APPENDIX A.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 32.
 
-[72
+[75
 
 ]
 Overfull \hbox (0.15894pt too wide) in paragraph at lines 54--55
@@ -1472,19 +1459,19 @@ Overfull \hbox (70.86986pt too wide) in paragraph at lines 76--76
 cus": 0, "strategy": 0},[] 
  []
 
-[73]
+[76]
 Overfull \hbox (1.79868pt too wide) in paragraph at lines 92--93
 []\T1/qtm/m/n/11 Assess gen-eral coun-sel-ing skills (Un-der-stand-ing, In-ter-
 per-sonal Ef-fec-tive-ness,
  []
 
-[74]
+[77]
 Overfull \hbox (24.9826pt too wide) in paragraph at lines 126--127
 \T1/qtm/m/n/12 ture 0.0, called via Open-Router un-der the model iden-ti-fier \
 T1/cmtt/m/n/12 anthropic/claude-sonnet-4.6\T1/qtm/m/n/12 .
  []
 
-[75]
+[78]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 134.
@@ -1494,7 +1481,7 @@ APPENDIX B.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 136.
 
-[76
+[79
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 166.
@@ -1515,7 +1502,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 166.
 
-[77]
+[80]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 189.
@@ -1525,7 +1512,7 @@ APPENDIX C.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 191.
 
-[78
+[81
 
 ]
 Overfull \hbox (14.28615pt too wide) in paragraph at lines 250--250
@@ -1539,20 +1526,13 @@ Overfull \hbox (53.89474pt too wide) in paragraph at lines 250--250
  this whole dialogue.[] 
  []
 
-[79]
+[82]
 Overfull \hbox (48.23637pt too wide) in paragraph at lines 313--313
  []\T1/cmtt/m/n/10.95 Write your next therapist response. If the mismatch is la
 rge, gently explore.[] 
  []
 
-[80] [81]) [82]
-\openout2 = `vita.aux'.
-
- (./vita.tex) [83
-
-
-
-]
+[83] [84]) [85]
 
 Package caption Warning: Unused \captionsetup[table] on input line 3.
 See the caption package documentation for explanation.
@@ -1561,11 +1541,16 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[figure] on input line 4.
 See the caption package documentation for explanation.
 
-(./thesis.aux (./cover.aux) (./declaration.aux) (./acknowledgements.aux)
+[86
+
+
+
+
+] (./thesis.aux (./cover.aux) (./declaration.aux) (./acknowledgements.aux)
 (./00-abstract.aux) (./contents.aux) (./loft.aux) (./01-introduction.aux)
 (./02-literature.aux) (./03-methodology.aux) (./04-experiment.aux)
 (./05-results.aux) (./06-discussion.aux) (./07-conclusion.aux) (./appendix.aux)
-(./vita.aux))
+)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
@@ -1576,16 +1561,16 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A28050D74E2CEF1D4596922D8380BC6A;18884.
+(rerunfilecheck)             Checksum: 5833F8CEE27D2E761BB4B36F19FE1AF8;18640.
  ) 
 Here is how much of TeX's memory you used:
- 15015 strings out of 467099
- 237147 string characters out of 5412502
- 677657 words of memory out of 5000000
- 43762 multiletter control sequences out of 15000+600000
- 684214 words of font info for 116 fonts, out of 8000000 for 9000
+ 14945 strings out of 467099
+ 236154 string characters out of 5412502
+ 675815 words of memory out of 5000000
+ 43706 multiletter control sequences out of 15000+600000
+ 681347 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,93p,2374b,728s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,15n,93p,2348b,727s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2026/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2026/texmf-dis
@@ -1604,10 +1589,10 @@ c:/texlive/2026/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/20
 26/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb><c:/texlive/2026/texmf-d
 ist/fonts/type1/public/cm-super/sftt1095.pfb><c:/texlive/2026/texmf-dist/fonts/
 type1/public/cm-super/sftt1200.pfb>
-Output written on thesis.pdf (95 pages, 2614849 bytes).
+Output written on thesis.pdf (97 pages, 2649807 bytes).
 PDF statistics:
- 1421 PDF objects out of 1440 (max. 8388607)
- 1259 compressed objects within 13 object streams
- 273 named destinations out of 1000 (max. 500000)
- 767 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1455 PDF objects out of 1728 (max. 8388607)
+ 1289 compressed objects within 13 object streams
+ 278 named destinations out of 1000 (max. 500000)
+ 756 words of extra memory for PDF output out of 10000 (max. 10000000)
 

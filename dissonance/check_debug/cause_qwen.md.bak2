@@ -326,7 +326,7 @@ infra/quantization ไม่สามารถสร้าง dose-response ต�
 ### 10.3 DeepInfra Flex Tier / quantization / NoneType
 
 - Flex tier เป็น **opt-in ต่อ request** (`service_tier:"flex"`) — โค้ดเรา (ผ่าน OpenRouter) ไม่เคยส่ง field นี้ → default tier ตลอด (DeepInfra blog "Introducing the Flex Service Tier", 2026-07-14; docs: ServiceTier enum)
-- Flex failure mode = รอ ≤10 นาทีแล้ว **HTTP 429** (reject, ไม่คิดค่าบริการ) โดย blog ระบุว่า "same request, same response shape; only the scheduling and price change" ดังนั้นไม่สามารถทำให้สไตล์เพี้ยน; และต่อให้เกิดจริง `chat_once` retry จน non-empty + completeness 100/100 กันไม่ให้เข้าข้อมูล
+- Flex failure mode = รอ ≤10 นาทีแล้ว **HTTP 429** (reject, ไม่คิดค่าบริการ) — "same request, same response shape; only the scheduling and price change" → ไม่สามารถทำให้สไตล์เพี้ยน; และต่อให้เกิดจริง `chat_once` retry จน non-empty + completeness 100/100 กันไม่ให้เข้าข้อมูล
 - Quantization (DeepInfra serve fp8 ตาม model page): 8-bit/FP8 ที่สเกล 72B เกือบ lossless (LLM.int8 arXiv:2208.07339; GPTQ arXiv:2210.17323; AWQ arXiv:2306.00978) + internal control: qwen baseline บน endpoint เดียวกันสะอาด
 - ไม่มี run log ค้างใน repo แต่ retry design การันตีว่า None/empty payload เข้าไฟล์ข้อมูลไม่ได้
 
@@ -338,7 +338,7 @@ infra/quantization ไม่สามารถสร้าง dose-response ต�
 
 ### 10.5 สรุป root cause (final)
 
-prompt design (always-on vocal metadata + reflective stance + ไม่มี technique enumeration + budget 2–3 ประโยค) × Qwen's literal instruction-following + self-conditioning บน stateful history → inter-turn stylistic loop; **amplified** โดยการไม่ใส่ repetition_penalty=1.05 ที่ผู้พัฒนาแนะนำ ขณะที่ infra/quantization/greedy-loop ถูก rule out ด้วย §10.1–10.3
+prompt design (always-on vocal metadata + reflective stance + ไม่มี technique enumeration + budget 2–3 ประโยค) × Qwen's literal instruction-following + self-conditioning บน stateful history → inter-turn stylistic loop; **amplified** โดยการไม่ใส่ repetition_penalty=1.05 ที่ผู้พัฒนาแนะนำ — infra/quantization/greedy-loop ถูก rule out ด้วย §10.1–10.3
 
 Test ที่สะอาดที่สุดที่เหลือ: re-run qwen conditions ด้วย vendor-recommended sampling (ระบุเป็น future work ในเล่ม §6.1.3 + §6.3 แล้ว)
 

@@ -3,15 +3,18 @@
 \usepackage{multirow}
 \usepackage{graphicx}
 \usepackage{subfig}
+\usepackage{apacite}
 \usepackage{booktabs}
 
 \bibliographystyle{apacite}
 
+\usepackage{pifont}       % <<== เพิ่มบรรทัดนี้เข้าไป
 \begin{document}
 
 \pagenumbering{roman}
 \addtocontents{toc}{~\hfill\textbf{Page}\par} %This adds the word Page on top of the table of content
 
+\addcontentsline{toc}{chapter}{\bf TITLE PAGE}
 \include{cover}
 \include{declaration}
 \include{acknowledgements}
@@ -38,9 +41,6 @@
 \newpage\pagestyle{plain}
 
 \include{appendix}
-\clearpage
-\chapter*{VITA}
-\addcontentsline{toc}{chapter}{Vita}
+\include{vita}
 
-This section presents a short description of the educational and professional achievements of the student.
 \end{document}

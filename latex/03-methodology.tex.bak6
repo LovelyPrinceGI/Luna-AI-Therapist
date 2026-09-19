@@ -151,6 +151,24 @@ Center ($|V|,|A| < 0.15$) & Neutral \\
 
 This mapping is applied independently to text VA (yielding \texttt{text\_emotion}) and speech VA (yielding \texttt{speech\_emotion}). A discrete \emph{emotion mismatch} is recorded when the text and speech labels disagree (e.g., text = Neutral but speech = Angry), providing a human-interpretable complementary signal alongside the continuous VA delta computed in Phase~4.
 
+Figures~\ref{fig:circumplex-speech} and~\ref{fig:circumplex-text} validate this construction empirically. Pooling all 9,010 client turns of the two audio conditions and plotting each turn's $(V, A)$ pair in the circumplex, coloured by its assigned sector label, shows that both independent extractors --- vad-bert on text and WavLM on synthesized speech --- produce VA clouds whose shape, spread and sector occupancy respect Russell's two-dimensional geometry: the synthesis-plus-extraction loop therefore reproduces the circumplex structure rather than emitting arbitrary VA values. The affective distribution also matches the clinical prior for clients presenting with anxiety, guilt and loneliness: distressed sectors dominate while positive and low-arousal states are rare, supporting the ecological plausibility of the simulated corpus.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{figures/emo_dimen_map_speech_cue.png}
+\caption{Speech-channel VA estimates (WavLM on the synthesized client audio) for the 9,010 client turns of the two audio conditions (Multimodal and Dissonance-Aware) across all four backbones, plotted in Russell's circumplex. Point colour is the discrete sector label assigned to each turn; the clouds occupy exactly the angular regions of their own labels, confirming that emotion-directed TTS prosody is recovered by the speech emotion model in the intended circumplex region. The distribution is clinically plausible for a counseling population: mass concentrates in the distressed sectors (Sad, Angry, Tense, Depressed), while Happy, Calm and Content remain sparse, and the speech channel spans a wider arousal range than the text channel --- the variance that the dissonance computation exploits.}
+\label{fig:circumplex-speech}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{figures/emo_dimen_map_text_cue.png}
+\caption{Text-channel VA estimates (vad-bert) for the same 9,010 turns. Sector--label coincidence again holds, validating the mapping on the textual channel. The text side occupies a narrower region and never reaches the low-arousal sectors (Depressed, Calm and Content are absent), because vad-bert arousal for these client utterances rarely falls below zero; discrete text--speech mismatches therefore arise predominantly against low-arousal speech labels.}
+\label{fig:circumplex-text}
+\end{figure}
+
+\clearpage
+
 The circumplex model is applied to all conditions that receive emotional metadata: Emotion (Text-Only) maps only \texttt{text\_emotion}, while Multimodal (Vocal-Aware) and Dissonance-Aware map both \texttt{text\_emotion} and \texttt{speech\_emotion} and include the mismatch flag in their output.
 
 Table~\ref{tab:condition-features} summarizes which emotional features are available to each therapist generation condition, highlighting the progressive addition of modalities and the single-variable isolation (dissonance signal) that differentiates the Dissonance-Aware condition from Multimodal (Vocal-Aware).

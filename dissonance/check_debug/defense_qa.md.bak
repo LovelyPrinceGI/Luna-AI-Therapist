@@ -134,23 +134,4 @@
 
 ---
 
-## Q13. ที่ Qwen พูดซ้ำ เป็นเพราะ DeepInfra (Flex Tier/quantization) หรือ Qwen decoding bug ใช่ไหม?
-
-**Short answer:** ไม่ใช่ทั้งคู่ เพราะถูก rule out ด้วย internal controls; สาเหตุจริงคือ prompt×backbone interaction โดยการไม่ใส่ repetition_penalty ที่ผู้พัฒนาแนะนำเป็น amplifier
-
-**หลักฐาน (เรียงตามน้ำหนัก):**
-1. **Degeneration scan 8,010 turns (8 cells):** intra-turn 6-gram ซ้ำ ≥3 = **0.0%**, consecutive-duplicate turns = **0**, turns สั้นผิดปกติ = **0.0%** ทุก cell → ไม่มีลายเซ็นของ loop bug; สิ่งที่เจอคือ inter-turn stylistic convergence (เนื้อหาโคเฮเรนต์และต่างกันทุก turn)
-2. **Dose-response ภายใน Qwen เอง:** voice-ref 1.7% (baseline) → 2.0% (emotion) → 72.5% (dissonance) → 89.9% (multimodal) — endpoint/quantization/sampling เดียวกันทั้งหมด → infra/quantization สร้าง pattern ที่แปรตามเนื้อหา prompt ไม่ได้
-3. **Flex tier = opt-in ต่อ request** (`service_tier:"flex"`) เราไม่เคยส่ง → default tier ตลอด; failure mode ของ flex คือ HTTP 429 ไม่ใช่ payload พัง; retry loop + completeness 100/100 กัน None เข้าข้อมูล (DeepInfra blog 2026-07-14)
-4. **FP8 ที่ 72B เกือบ lossless** (LLM.int8 arXiv:2208.07339; GPTQ arXiv:2210.17323; AWQ arXiv:2306.00978) + baseline บน endpoint เดียวกันสะอาด
-5. **ส่วนที่จริง:** ไม่ได้ใส่ repetition_penalty=1.05 / top_p=0.8 ที่ Qwen2.5 แนะนำ (official README + tech report arXiv:2412.15115) = amplifier; repetition โดยทั่วไป cite ได้: Holtzman 2020 (arXiv:1904.09751), Welleck 2020 (arXiv:1908.04319), Keskar 2019 (arXiv:1909.05858); และเราไม่ได้ใช้ greedy decoding (temp 0.7)
-6. **Cross-backbone gradient:** deepseek 12.4%→45.0%, claude 0.7%→9.2% (baseline→dissonance) → prompt×backbone interaction ไม่ใช่ fault เฉพาะ provider
-
-**Closing line:**
-> "The repetition is a prompt-backbone interaction amplified by our deliberate omission of the vendor-recommended repetition penalty, not an infrastructure or decoding pathology: degeneration signatures are absent in all 8,010 generated turns, the style scales dose-responsively with prompt metadata on one fixed quantized endpoint, and the discounted scheduling tier was never opted into. A vendor-sampling robustness re-run is declared as future work."
-
-**บันทึกไว้ในเล่มแล้ว:** §6.1.3 (argument เต็ม + rule-out), Ch.4 (sampling disclosure), หลัง Table 5.6 (pointer), §6.3 (trade-off framing) + cause_qwen.md §10
-
----
-
 *เอกสารนี้ใช้เตรียมคำตอบปากเปล่า — ตัวเลขทุกตัว reproduce ได้จาก artifacts ใน repo (ดู cause_qwen.md §8 สำหรับคำสั่ง)*

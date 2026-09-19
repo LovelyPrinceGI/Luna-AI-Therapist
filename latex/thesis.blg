@@ -16,7 +16,6 @@ A level-1 auxiliary file: 05-results.aux
 A level-1 auxiliary file: 06-discussion.aux
 A level-1 auxiliary file: 07-conclusion.aux
 A level-1 auxiliary file: appendix.aux
-A level-1 auxiliary file: vita.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -28,44 +27,44 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: 08-references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 18 entries,
+You've used 23 entries,
             6951 wiz_defined-function locations,
-            1396 strings with 16273 characters,
-and the built_in function-call counts, 43467 in all, are:
-= -- 5357
-> -- 434
-< -- 2098
-+ -- 2226
-- -- 36
-* -- 2800
-:= -- 7710
-add.period$ -- 88
-call.type$ -- 18
-change.case$ -- 323
+            1422 strings with 17795 characters,
+and the built_in function-call counts, 54131 in all, are:
+= -- 6663
+> -- 556
+< -- 2547
++ -- 2716
+- -- 46
+* -- 3452
+:= -- 9402
+add.period$ -- 111
+call.type$ -- 23
+change.case$ -- 410
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 1274
-empty$ -- 1600
-format.name$ -- 753
-if$ -- 8128
+cite$ -- 46
+duplicate$ -- 1648
+empty$ -- 2037
+format.name$ -- 989
+if$ -- 10197
 int.to.chr$ -- 0
-int.to.str$ -- 54
+int.to.str$ -- 69
 missing$ -- 0
-newline$ -- 516
-num.names$ -- 144
-pop$ -- 968
+newline$ -- 662
+num.names$ -- 184
+pop$ -- 1198
 preamble$ -- 1
-purify$ -- 80
+purify$ -- 100
 quote$ -- 0
-skip$ -- 2604
+skip$ -- 3324
 stack$ -- 0
-substring$ -- 2456
-swap$ -- 726
-text.length$ -- 93
+substring$ -- 2983
+swap$ -- 919
+text.length$ -- 103
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2016
+type$ -- 2544
 warning$ -- 0
-while$ -- 257
+while$ -- 332
 width$ -- 0
-write$ -- 670
+write$ -- 868

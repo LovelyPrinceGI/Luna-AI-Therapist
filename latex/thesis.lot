@@ -1,32 +1,32 @@
 \textbf {Tables}\hfill \textbf {Page}\par 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of key related work and their relevance to our framework}}{11}{table.caption.10}%
-\contentsline {table}{\numberline {2.2}{\ignorespaces Research gaps identified in the literature and our corresponding contributions}}{12}{table.caption.11}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Summary of key related work and their relevance to our framework}}{11}{table.caption.8}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Research gaps identified in the literature and our corresponding contributions}}{12}{table.caption.9}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping between Ekman's seven basic emotions and the Zonos TTS emotion vector}}{15}{table.caption.12}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces Feature access matrix across the four therapist generation conditions}}{23}{table.caption.17}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping between Ekman's seven basic emotions and the Zonos TTS emotion vector}}{15}{table.caption.10}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Feature access matrix across the four therapist generation conditions}}{24}{table.caption.15}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Therapist LLM backbones used in the multi-backbone replication}}{30}{table.caption.18}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Evaluation metrics, dimensions, and scoring ranges}}{34}{table.caption.20}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Implementation components}}{36}{table.caption.21}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces Emotional metadata fields present in each condition's therapist prompt}}{38}{table.caption.22}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Therapist LLM backbones used in the multi-backbone replication}}{31}{table.caption.16}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Evaluation metrics, dimensions, and scoring ranges}}{35}{table.caption.18}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Implementation components}}{37}{table.caption.19}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Emotional metadata fields present in each condition's therapist prompt}}{39}{table.caption.20}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Average evaluation scores across 100 dialogues comparing 4 therapist generation methods (GPT-4o mini backbone, blind GPT-4o judge, Layer~1)}}{43}{table.caption.23}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Paired $t$-tests on per-dialogue total scores (GPT-4o mini, 100 dialogues, Layer~2)}}{43}{table.caption.24}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Dissonance flag rate and Dissonance$-$Multimodal paired $t$-test on total scores by backbone (100 dialogues each)}}{44}{table.caption.25}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces Cross-backbone comparison under the Dissonance-Aware condition (100 dialogues each, Layer~1)}}{45}{table.caption.26}%
-\contentsline {table}{\numberline {5.5}{\ignorespaces Claude Sonnet 4.6: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{46}{table.caption.27}%
-\contentsline {table}{\numberline {5.6}{\ignorespaces Qwen-2.5-72B-Instruct: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{46}{table.caption.28}%
-\contentsline {table}{\numberline {5.7}{\ignorespaces DeepSeek V3.2: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{47}{table.caption.29}%
-\contentsline {table}{\numberline {5.8}{\ignorespaces Dissonance uplift summary ($\Delta $ = Dissonance-Aware $-$ Baseline per metric, 100 dialogues each; net win-rate from the swap-consistent pairwise layer)}}{48}{table.caption.30}%
-\contentsline {table}{\numberline {5.9}{\ignorespaces Pairwise preference results (win = Dissonance-Aware; two-order swap consistency; blind GPT-4o judge)}}{49}{table.caption.31}%
-\contentsline {table}{\numberline {5.10}{\ignorespaces Inter-judge agreement on the stratified 100-comparison subset (judge1 = GPT-4o, judge2 = Claude Sonnet 4.6)}}{50}{table.caption.32}%
-\contentsline {table}{\numberline {5.11}{\ignorespaces Inference time breakdown: Baseline condition (Claude Sonnet 4.6, 100 dialogues, 1,000 utterances)}}{52}{table.caption.33}%
-\contentsline {table}{\numberline {5.12}{\ignorespaces Inference time breakdown: Dissonance-Aware condition (Claude Sonnet 4.6, 100 dialogues, 1,000 utterances)}}{52}{table.caption.34}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Average evaluation scores across 100 dialogues comparing 4 therapist generation methods (GPT-4o mini backbone, blind GPT-4o judge, Layer~1)}}{45}{table.caption.21}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Paired $t$-tests on per-dialogue total scores (GPT-4o mini, 100 dialogues, Layer~2)}}{45}{table.caption.22}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Dissonance flag rate and Dissonance$-$Multimodal paired $t$-test on total scores by backbone (100 dialogues each)}}{46}{table.caption.23}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Cross-backbone comparison under the Dissonance-Aware condition (100 dialogues each, Layer~1)}}{47}{table.caption.24}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Claude Sonnet 4.6: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{48}{table.caption.25}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Qwen-2.5-72B-Instruct: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{48}{table.caption.26}%
+\contentsline {table}{\numberline {5.7}{\ignorespaces DeepSeek V3.2: average scores across all 4 conditions (100 dialogues each, Layer~1)}}{49}{table.caption.27}%
+\contentsline {table}{\numberline {5.8}{\ignorespaces Dissonance uplift summary ($\Delta $ = Dissonance-Aware $-$ Baseline per metric, 100 dialogues each; net win-rate from the swap-consistent pairwise layer)}}{50}{table.caption.28}%
+\contentsline {table}{\numberline {5.9}{\ignorespaces Pairwise preference results (win = Dissonance-Aware; two-order swap consistency; blind GPT-4o judge)}}{51}{table.caption.29}%
+\contentsline {table}{\numberline {5.10}{\ignorespaces Inter-judge agreement on the stratified 100-comparison subset (judge1 = GPT-4o, judge2 = Claude Sonnet 4.6)}}{52}{table.caption.30}%
+\contentsline {table}{\numberline {5.11}{\ignorespaces Inference time breakdown: Baseline condition (Claude Sonnet 4.6, 100 dialogues, 1,000 utterances)}}{54}{table.caption.31}%
+\contentsline {table}{\numberline {5.12}{\ignorespaces Inference time breakdown: Dissonance-Aware condition (Claude Sonnet 4.6, 100 dialogues, 1,000 utterances)}}{55}{table.caption.32}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Surface-style audit of Qwen therapist turns (1,000 turns per condition; 100 dialogues each), computed post hoc from the generated session files}}{57}{table.caption.35}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces Comparison with prior work: cues, tasks, and evaluation}}{59}{table.caption.36}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Surface-style audit of Qwen therapist turns (1,000 turns per condition; 100 dialogues each), computed post hoc from the generated session files}}{59}{table.caption.33}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Comparison with prior work: cues, tasks, and evaluation}}{62}{table.caption.34}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
