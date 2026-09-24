@@ -55,13 +55,6 @@
 - W ~= L (p >= 0.05) -> no detectable difference (judge ceiling)
 - p < 0.05 and L > W -> evidence against dissonance
 
-### 2.5 Controlled and Recorded Variables
-
-- **Manipulated (independent):** the emotional-metadata ladder injected into the therapist prompt (4 conditions; field sets per Table in thesis Ch.4 / `tab:prompt-diff`).
-- **Measured (dependent):** Layer-1 seven session scores; Layer-2 per-seed paired deltas and t-statistics; Layer-3 swap-consistent W/T/L and net win-rate; secondary: dissonance flag rate and surface-style audit metrics.
-- **Held constant (controls):** temperature 0.7 with no vendor-specific sampling additions; identical 100 shared problem seeds per backbone; identical client persona, client templates, and Zonos director prompts across conditions; 2-3-sentence response budget and no-numbers rule; dissonance threshold tau = 0.5; extraction stack (vad-bert text VA, WavLM speech VA, fixed librosa descriptor bins); Zonos synthesis configuration; 10-turn stateful session scheme; judge protocol (GPT-4o temp 0.0, JSON mode, blind transcripts, two-order swap rule).
-- **Recorded per turn (all conditions):** `turn, client, therapist, condition, model, val_t, aro_t, val_s, aro_s, text_emotion, speech_emotion, vocal_descriptors, delta_valence, delta_arousal, is_dissonant, emotion_mismatch, audio_path` (audio fields present in audio conditions only). Full field dictionary and a sanitized sample record are documented in thesis Ch.4 (`tab:variables`, `tab:record-fields`).
-
 ---
 
 ## 3. Results
